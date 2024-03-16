@@ -1,7 +1,7 @@
 import feedparser
 import configparser
 import os
-from openai import OpenAI
+import openai
 from jinja2 import Template
 from bs4 import BeautifulSoup
 import re
@@ -117,20 +117,19 @@ def gpt_summary(query,model,language):
     if language == "zh":
         messages = [
             {"role": "user", "content": query},
-            {"role": "assistant", "content": f"请用中文总结这篇文章，先提取出{keyword_length}个关键词，在同一行内输出，然后换行，用中文在{summary_length}字内写一个包含所有要点的总结，按顺序分要点输出，并按照以下格式输出'<br><br>总结:'，<br>是HTML的换行符，输出时必须保留2个，并且必须在'总结:'二字之前"}
+            {"role": "assistant", "content": f"请用中文总结这篇文章，先提取出{keyword_length}个关键词，在同一行内输出，然后换行，用中文在{summary_length}字内写一个包含所有要点的总结，按顺序分要点输出，总结的中先包含你的结论，判断消息是正面或者负面，不要包含你分析的过程，并按照以下格式输出'<br><br>总结:'，<br>是HTML的换行符，输出时必须保留2个，并且必须在'总结:'二字之前"}
         ]
     else:
         messages = [
             {"role": "user", "content": query},
             {"role": "assistant", "content": f"Please summarize this article in {language} language, first extract {keyword_length} keywords, output in the same line, then line break, write a summary containing all the points in {summary_length} words in {language}, output in order by points, and output in the following format '<br><br>Summary:' , <br> is the line break of HTML, 2 must be retained when output, and must be before the word 'Summary:'"}
         ]
-    client = OpenAI(
-        api_key=OPENAI_API_KEY,
-    )
-    completion = client.chat.completions.create(
+    
+    completion = openai.chat.completions.create(
         model=model,
         messages=messages,
     )
+    print(completion.choices[0].message.content)
     return completion.choices[0].message.content
 
 def output(sec, language):
@@ -234,22 +233,22 @@ def output(sec, language):
 #                entry.published = parse(entry.published).strftime('%a, %d %b %Y %H:%M:%S %z')
 
             cnt += 1
-            if cnt > max_items:
-                entry.summary = None
-            elif OPENAI_API_KEY:
+            if OPENAI_API_KEY:
                 token_length = len(cleaned_article)
                 try:
-                    entry.summary = gpt_summary(cleaned_article,model="gpt-3.5-turbo-1106", language=language)
+                    entry.summary = gpt_summary(cleaned_article,model="gpt-3.5-turbo", language=language)
                     with open(log_file, 'a') as f:
                         f.write(f"Token length: {token_length}\n")
                         f.write(f"Summarized using GPT-3.5-turbo-1106\n")
-                except:
+                except Exception as e:
+                    print(e)
                     try:
-                        entry.summary = gpt_summary(cleaned_article,model="gpt-4-1106-preview", language=language)
+                        entry.summary = gpt_summary(cleaned_article,model="gpt-4-turbo-preview", language=language)
                         with open(log_file, 'a') as f:
                             f.write(f"Token length: {token_length}\n")
                             f.write(f"Summarized using GPT-4-1106-preview\n")
                     except Exception as e:
+                        print(e)
                         entry.summary = None
                         with open(log_file, 'a') as f:
                             f.write(f"Summarization failed, append the original article\n")
@@ -281,6 +280,7 @@ secs = config.sections()
 # Maxnumber of entries to in a feed.xml file
 max_entries = 1000
 
+openai.base_url='https://api.ohmygpt.com/v1/'
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 U_NAME = os.environ.get('U_NAME')
 deployment_url = f'https://{U_NAME}.github.io/RSS-GPT/'
