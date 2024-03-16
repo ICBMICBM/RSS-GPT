@@ -299,3 +299,10 @@ Fetching from https://techcrunch.com/tag/bitcoin/feed
 Feed error: 301
 append_entries: 0
 Finish: 2024-03-16 20:24:20.656485
+------------------------------------------------------
+Started: 2024-03-16 20:33:20.373021
+Existing_entries: 0
+Fetching from https://techcrunch.com/tag/bitcoin/feed
+Feed error: 301
+append_entries: 0
+Finish: 2024-03-16 20:33:20.908737
