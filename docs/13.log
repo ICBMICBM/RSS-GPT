@@ -124,3 +124,10 @@ Fetching from https://bitcoinist.com/feed
 Feed error: 301
 append_entries: 0
 Finish: 2024-03-16 16:31:59.673673
+------------------------------------------------------
+Started: 2024-03-16 16:39:26.221618
+Existing_entries: 0
+Fetching from https://bitcoinist.com/feed
+Feed error: 301
+append_entries: 0
+Finish: 2024-03-16 16:39:26.278260
