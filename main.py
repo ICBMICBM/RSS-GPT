@@ -233,7 +233,9 @@ def output(sec, language):
 #                entry.published = parse(entry.published).strftime('%a, %d %b %Y %H:%M:%S %z')
 
             cnt += 1
-            if OPENAI_API_KEY:
+            if cnt > max_items:
+                entry.summary = None
+            elif OPENAI_API_KEY:
                 token_length = len(cleaned_article)
                 try:
                     entry.summary = gpt_summary(cleaned_article,model="gpt-3.5-turbo", language=language)
