@@ -6,7 +6,7 @@ from jinja2 import Template
 from bs4 import BeautifulSoup
 import re
 import datetime
-#from dateutil.parser import parse
+
 
 def generate_untitled(entry):
     try: return entry.title
