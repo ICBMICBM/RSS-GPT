@@ -5,18 +5,54 @@
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
 <item>
+<title>重新解读「冷门公链」TON 的跨生态互联</title>
+<link>https://research.mintventures.fund/2024/03/14/zh-exploring-cross-ecosystem-connectivity-of-the-niche-blockchain-ton/</link>
+<guid>https://research.mintventures.fund/2024/03/14/zh-exploring-cross-ecosystem-connectivity-of-the-niche-blockchain-ton/</guid>
+<content:encoded><![CDATA[
+<div> TON、Telegram、用户、生态、内容服务<br>
+<br>
+总结:文章介绍了基于Telegram的TON生态对Web2增量市场的影响和潜力。通过拆分分发模式、利用Trading Bot助力存量转化、探索集市模式和提升链上体验等方式，TON生态构建了更友好的产品体验和价值网络。文章认为，如果TON成功在3-5年内吸引30%的Telegram用户，将有效支撑其估值。文章正面评价了TON生态在社交、游戏、铭文和多链流动性等方面的创新和发展。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>TVL 本位制的古典公链叙事正在走向疲软，加速释放了 TON「不够正统」站位下的潜力。基于 TON 的用户侧数据，结合 Telegram 的采用情况和用户特征，TON 若能如愿在 3-5 年内引入 30% 的 Telegram 用户，或将能有效支撑其估值。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://research.mintventures.fund/2024/03/14/zh-exploring-cross-ecosystem-connectivity-of-the-niche-blockchain-ton/">https://research.mintventures.fund/2024/03/14/zh-exploring-cross-ecosystem-connectivity-of-the-niche-blockchain-ton/</a></p>
+<p><strong>文章作者：</strong></p><p>Lydia Wu</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Lydia Wu：</strong>分发模式拆分，Telegram 打开 Web2 增量市场。相较于许多 NFT 和 SocialFi 项目还在费心为资产找应用场景，基于 Telegram 的 TON 生态构建了一个对 Web2 开发者 / 创作者和用户更友好的产品体验和价值网络 —— 在已有社交网络上，将 Web3 分发模式进一步拆分为 Web2 商业形态 + 中间件钱包 + Web3 结算，一方面降低了创作者和用户的理解和操作门槛，一方面也丰富了创作者的收入来源（广告分成）。
+
+从内容到服务，Trading Bot 助力 Web3 存量转化。现阶段 Trading Bot 交易和 TON 关系不大，主要是借助 Telegram Bot 模块接入以太坊和 Solana，但 Bot 的火热很大程度上助力了 TON 生态的市场教育和用户心智培养。当加密用户开始习惯于 Bot 这样的新交互方式，体验 TON 生态内其他非交易类产品的心理摩擦将会显著降低，辅以完备的链上身份系统和支付模块，TON 在理论上可以构建一个自洽的内容包装和价值转移系统。
+
+集市模式的探索：TON 的 Bot 宇宙和 Mini App 商店。Farcaster 推出的 Frames 功能被誉为「惊人的创新」，然而这项功能在流量分布密度更高的移动端表现却不尽如人意。相较而言鲜被提及的是，Telegram 和 TON 的结合其实早已完成了从聊天框到半原生应用几乎无感的跳转，通过 Bot 唤出应用的体感速度甚至比微信小程序更快。Mini App 提供了更友好的交互和更强的组合性，并且可以无缝衔接钱包等基础设施，适合多样的 Web3 产品部署，甚至可以取代所有移动端网页。
+
+差异化的链上体验：TON 生态点睛。
+1）轻量化游戏：一款强社交属性的游戏，在 Telegram 上一键分享组队或是等待网络上的陌生人随机匹配，两者的体验将相差甚远。
+2）社交铭文和 Meme：TON 的铭文生态发展整合了 Telegram 前端和内置钱包，提升交互便利的同时完成了防科学家的一石二鸟。Meme 类资产在 TON 上曾长期较为荒芜，加密用户也一直缺乏了解窗口，直到 Notcoin 出圈。
+3）多链流动性 Launchpad：XTON 是 TON 生态首个引入多链流动性的 Launchpad，团队成员来自 TON 基金会。XTON 将在 Q1 完成主网上线和代币销售，Q2 启动第一个项目。顺应 XTON 的愿景，TON 生态将有机会完成 Web2 社交巨头和 Web3 EVM 世界的双边流量接轨。</p><a href="https://research.mintventures.fund/2024/03/14/zh-exploring-cross-ecosystem-connectivity-of-the-niche-blockchain-ton/">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-17T07:13:03+00:00</pubDate>
+</item>
+<item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
 <content:encoded><![CDATA[
-<div> zkBridge, Polyhedra Network, 融资, Polychain Capital, 扩大团队
-总结:<br><br>Polychain Capital领投Polyhedra Network，完成2000万美元战略融资，总估值10亿美元。融资金额将用于招聘跨职能部门人员，将团队规模扩大至80人。此举表明市场对zkBridge互操作协议发展前景持乐观态度。 <div>
+<div> zkBridge、Polyhedra Network、10 亿美元、战略融资、Polychain Capital<br>
+<br>总结:
+Polyhedra Network通过互操作协议zkBridge完成了2000万美元的战略融资，估值10亿美元。领投方是Polychain Capital，其他参投方包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital等。融资将用于团队扩张，招募产品、工程、业务开发和营销人员，提升跨职能部门的能力。消息是正面的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
 
+<item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
+<content:encoded><![CDATA[
+<div> zkBridge, Polyhedra Network, 融资, Polychain Capital, 扩大团队
+总结:<br /><br />Polychain Capital领投Polyhedra Network，完成2000万美元战略融资，总估值10亿美元。融资金额将用于招聘跨职能部门人员，将团队规模扩大至80人。此举表明市场对zkBridge互操作协议发展前景持乐观态度。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
