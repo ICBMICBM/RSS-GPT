@@ -1391,3 +1391,10 @@ Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 Feed error: 301
 append_entries: 0
 Finish: 2024-03-17 22:14:02.159285
+------------------------------------------------------
+Started: 2024-03-17 22:25:18.090700
+Existing_entries: 0
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Feed error: 301
+append_entries: 0
+Finish: 2024-03-17 22:25:18.283675
