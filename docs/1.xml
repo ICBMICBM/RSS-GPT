@@ -4,14 +4,15 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+
 <item>
 <title>Messari研报：全面解读Solana生态预言机Pyth</title>
 <link>https://www.panewslab.com/zh/articledetails/tew784ko.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/tew784ko.html</guid>
 <content:encoded><![CDATA[
 <div> Pyth、预言机、数据提供商、Solana、链下数据引擎
-<br>
-<br>
+<br />
+<br />
 总结: Pyth网络是一个革新的预言机协议，通过培育第一方数据提供商网络和基于拉取模型降低成本、增加频率。目前服务于50多个区块链，保障了55亿美元资金价值。与竞争对手Chainlink相比，Pyth直接获取数据源，提高了数据保真度，但依赖于Wormhole的稳定性。研究发现Pyth在市场数据信息流方面表现出色，为未来金融市场数据提供了可靠性和可扩展性。该消息为正面消息。 <div>
 <p>撰文：Messari</p>
 <p>编译：深潮TechFlow</p>
@@ -163,9 +164,7 @@
 <p>Pyth网络是一个改变预言机格局的新型协议。它培育了一个第一方数据提供商网络，并实现了一个基于拉取的预言机，将费用转嫁给了预言机用户。通过这种设计，Pyth为预言机网络降低了成本，增加了价格更新频率，并根据主要数据来源直接保护了市场数据。自推出以来，Pyth已经发展到为最多的区块链提供服务，并占据了总价值第四大的份额（截至2024年3月为55亿美元）。随着其提供商网络的扩大，Pyth有望实现其使所有世界金融市场数据可用于Web3的使命。</p>
 ]]></content:encoded>
 <pubDate>Sun, 17 Mar 2024 15:19:01 +0800</pubDate>
-<pubDate>Sun, 17 Mar 2024 15:19:01 +0800</pubDate>
 </item>
-
 <item>
 <title>行情：比特币跌破65000美元，日内跌幅约6.12%</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/0jvdw31a.html</link>
