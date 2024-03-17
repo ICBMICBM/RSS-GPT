@@ -1384,3 +1384,10 @@ Fetching from https://news.crunchbase.com/sections/crypto/feed
 Feed error: 301
 append_entries: 0
 Finish: 2024-03-17 21:59:44.764019
+------------------------------------------------------
+Started: 2024-03-17 22:13:59.119738
+Existing_entries: 0
+Fetching from https://news.crunchbase.com/sections/crypto/feed
+Feed error: 301
+append_entries: 0
+Finish: 2024-03-17 22:13:59.510019
