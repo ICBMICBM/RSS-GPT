@@ -625,3 +625,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [BOME最大持有者首次出售1.9亿枚BOME，获利376万美元](https://www.panewslab.com/zh/sqarticledetails/49svadbi.html)
 append_entries: 1
 Finish: 2024-03-17 03:11:39.861453
+------------------------------------------------------
+Started: 2024-03-17 03:22:21.437089
+Existing_entries: 57
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 110
+Summarized using GPT-3.5-turbo-1106
+Append: [DAO Maker宣布将扩展至Solana网络，即将推出4个Solana IDO项目](https://www.panewslab.com/zh/sqarticledetails/kj6xu4ph.html)
+Token length: 120
+Summarized using GPT-3.5-turbo-1106
+Append: [Opentensor基金会：将于下周四公布Bittensor路线图](https://www.panewslab.com/zh/sqarticledetails/jm39qjmj.html)
+append_entries: 2
+Finish: 2024-03-17 03:22:26.720093
