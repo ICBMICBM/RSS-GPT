@@ -5,14 +5,28 @@
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
 <item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
+<content:encoded><![CDATA[
+<div> ZK 互操作协议, Polyhedra Network, 2000 万美元战略融资, Polychain Capital, 招聘
+
+总结:<br><br>Polychain Capital领投Polyhedra Network完成2000万美元战略融资，总估值10亿美元。此次融资通过未来代币或SAFT简单协议进行，融资资金将用于招聘产品、工程、业务开发和营销等跨职能部门，团队人数将扩大至80人。这是一则积极消息。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
+
+<item>
 <title>【英文】适用于积分系统的专用虚拟机</title>
 <link>https://mirror.xyz/stackrlabs.eth/xSRyanslzZEW95mP1_N8Z5X5_eIaEXQBgwc42txZPDI</link>
 <guid>https://mirror.xyz/stackrlabs.eth/xSRyanslzZEW95mP1_N8Z5X5_eIaEXQBgwc42txZPDI</guid>
 <content:encoded><![CDATA[
 <div> Stackr Labs、micro-rollup、积分系统、多功能性、虚拟机
-<br>
+<br />
 本文讨论了如何通过 micro-rollup 构建适用于积分系统的专用虚拟机，以跟踪和管理协议积分。micro-rollup 是一种快速、灵活、自托管的执行环境，确保积分传递无链上开销，支持可验证的链下计算，使状态可审计，并能直接在 L1 上结算。积分系统可以扩展包括乘数、推荐、积分自动化和积分即信誉等功能。将积分系统构建为 micro-rollup 可以提高系统的自主性和灵活性，为协议和产品贡献价值提供认可形式，创造出参与和创新的机会。总体来看，文章传递了积分系统的发展潜力和多功能性，是一个积极的消息。 
-<br><br>总结: 本文探讨了如何通过 micro-rollup 构建适用于积分系统的专用虚拟机，提高了系统的自主性和灵活性，传递了积分系统的发展潜力和多功能性，是一个积极的消息。 <div>
+<br /><br />总结: 本文探讨了如何通过 micro-rollup 构建适用于积分系统的专用虚拟机，提高了系统的自主性和灵活性，传递了积分系统的发展潜力和多功能性，是一个积极的消息。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>目前，积分已成为激励用户和发展协议的最新原语，为传统的空投机制增添了新意。考虑到当前用于运行积分系统的基础设施存在的问题，Stackr Labs 撰文探讨如何通过 micro-rollup 构建适用于积分系统的专用虚拟机，以跟踪和管理协议积分。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://mirror.xyz/stackrlabs.eth/xSRyanslzZEW95mP1_N8Z5X5_eIaEXQBgwc42txZPDI">https://mirror.xyz/stackrlabs.eth/xSRyanslzZEW95mP1_N8Z5X5_eIaEXQBgwc42txZPDI</a></p>
 <p><strong>文章作者：</strong></p><p>Stackr Labs</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Stackr Labs：</strong>micro-rollup 本质上是一种状态机，它在链下执行某些逻辑，然后将执行验证外包给另一层，我们称之为「Vulcan」，它负责验证状态更新并将计算数据推送到链上。micro-rollup 是快速、灵活、自托管的执行环境，这确保了积分的传递不会产生「链上」开销，且所有状态更新都会尽快发生；micro-rollup 支持可验证的链下计算，确保系统可预测地运行且不被篡改；micro-rollup 使状态可审计，确保提供商没有任意更改系统规则；micro-rollup 可直接在 L1 上结算，可以直接在合约内部使用状态证明来执行链上操作。验证层通过提供预结算保证，确保结算周期大大缩短。
@@ -27,23 +41,20 @@ Points Automation（积分自动化）：上面讨论的系统具有很大灵活
 
 Points as Reputation（积分即信誉）：积分很容易被认为是社会经济中的 XP 或声誉。它们是对为协议或产品贡献价值的认可形式。使用积分系统作为社会经济中的声誉跟踪器来创建链上体验的潜力是巨大的，且充满了令人兴奋的参与和创新可能性。【原文为英文】</p><a href="https://mirror.xyz/stackrlabs.eth/xSRyanslzZEW95mP1_N8Z5X5_eIaEXQBgwc42txZPDI">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-17T03:04:02+00:00</pubDate>
 </item>
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> Polyhedra Network, zkBridge, 10亿美元, 2000万美元, 融资
-<br>
+<br />
 总结: Polyhedra Network以10亿美元估值完成了2000万美元战略融资，由Polychain Capital领投，多家知名机构参投。本轮融资将用于团队扩张和产品发展，展现了市场对该公司的信心和潜力。消息为正面。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
-
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
