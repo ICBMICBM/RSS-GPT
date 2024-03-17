@@ -1020,3 +1020,10 @@ Fetching from https://www.newsbtc.com/feed
 Feed error: 301
 append_entries: 0
 Finish: 2024-03-17 14:21:10.733427
+------------------------------------------------------
+Started: 2024-03-17 14:28:33.904532
+Existing_entries: 0
+Fetching from https://www.newsbtc.com/feed
+Feed error: 301
+append_entries: 0
+Finish: 2024-03-17 14:28:34.057507
