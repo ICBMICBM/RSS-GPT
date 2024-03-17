@@ -832,3 +832,12 @@ Existing_entries: 62
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-17 08:10:03.952247
+------------------------------------------------------
+Started: 2024-03-17 08:23:27.873789
+Existing_entries: 62
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 78
+Summarized using GPT-3.5-turbo-1106
+Append: [数据：4799枚BTC从Coinbase转出](https://www.panewslab.com/zh/sqarticledetails/5eydqia4.html)
+append_entries: 1
+Finish: 2024-03-17 08:23:31.715922
