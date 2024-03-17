@@ -550,3 +550,18 @@ Existing_entries: 50
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-16 23:53:28.617307
+------------------------------------------------------
+Started: 2024-03-17 00:28:46.602963
+Existing_entries: 50
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 57
+Summarized using GPT-3.5-turbo-1106
+Append: [ether.fi：首次空投将于3月18日上线](https://www.panewslab.com/zh/sqarticledetails/b0m9c7z1.html)
+Token length: 132
+Summarized using GPT-3.5-turbo-1106
+Append: [过去24小时全网合约爆仓5.28亿美元，其中多单爆仓4.41亿美元](https://www.panewslab.com/zh/sqarticledetails/26tpv2bs.html)
+Token length: 57
+Summarized using GPT-3.5-turbo-1106
+Append: [行情：以太坊跌破3600美元](https://www.panewslab.com/zh/sqarticledetails/lk004etc.html)
+append_entries: 3
+Finish: 2024-03-17 00:28:54.305533
