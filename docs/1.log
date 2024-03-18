@@ -2857,3 +2857,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [过去24小时全网合约爆仓2.73亿美元，其中多单爆仓1.96亿美元](https://www.panewslab.com/zh/sqarticledetails/3k1qu47z.html)
 append_entries: 2
 Finish: 2024-03-18 23:38:24.962044
+------------------------------------------------------
+Started: 2024-03-18 23:45:35.148926
+Existing_entries: 87
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 61
+Summarized using GPT-3.5-turbo-1106
+Append: [Coinbase将Arkham (ARKM)列入上币路线图](https://www.panewslab.com/zh/sqarticledetails/ssazf8ml.html)
+append_entries: 1
+Finish: 2024-03-18 23:45:38.016936
