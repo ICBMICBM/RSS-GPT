@@ -2518,3 +2518,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [某地址在11小时内追涨杀跌Meme代币已累计亏损148万美元](https://www.panewslab.com/zh/sqarticledetails/wzjry9oo.html)
 append_entries: 1
 Finish: 2024-03-18 15:23:20.897448
+------------------------------------------------------
+Started: 2024-03-18 15:30:32.004738
+Existing_entries: 80
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 200
+Summarized using GPT-3.5-turbo-1106
+Append: [SLERF持仓前十地址共持有3955万枚SLERF，平均买入均价为0.587美元](https://www.panewslab.com/zh/sqarticledetails/fp1m5thh.html)
+append_entries: 1
+Finish: 2024-03-18 15:30:37.592027
