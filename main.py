@@ -183,7 +183,7 @@ def output(sec, language):
             f.write(f"Fetching from {rss_url}\n")
             print(f"Fetching from {rss_url}")
         feed = feedparser.parse(rss_url)
-        if feed.status != 200:
+        if feed.status >= 400:
             with open(log_file, 'a') as f:
                 f.write(f"Feed error: {feed.status}\n")
             continue
