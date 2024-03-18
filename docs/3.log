@@ -1854,3 +1854,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Taproot Wizards raises $7.5M for its Ordinals project to bring the ‘magic’ back to Bitcoin](https://techcrunch.com/2023/11/16/taproot-wizards-bitcoin-ordinals/)
 append_entries: 20
 Finish: 2024-03-18 08:22:08.919407
+------------------------------------------------------
+Started: 2024-03-18 08:51:44.639729
+Existing_entries: 20
+Fetching from https://techcrunch.com/tag/bitcoin/feed
+append_entries: 0
+Finish: 2024-03-18 08:51:44.868971

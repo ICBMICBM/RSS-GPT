@@ -1948,3 +1948,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [BOME创始人旗下NFT系列SMOWL地板价突破0.6 ETH，7日涨幅达1185.35%](https://www.panewslab.com/zh/sqarticledetails/j7znhfz0.html)
 append_entries: 49
 Finish: 2024-03-18 08:21:09.491521
+------------------------------------------------------
+Started: 2024-03-18 08:51:33.988808
+Existing_entries: 49
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 3245
+Summarized using GPT-3.5-turbo-1106
+Append: [LD Capital: 重回AI的NEAR，叠加多重叙事或迎来价值发现？](https://www.panewslab.com/zh/articledetails/6yo7fn9324w1.html)
+Token length: 1910
+Summarized using GPT-3.5-turbo-1106
+Append: [构建zkBridge跨链桥：B² Network如何用BitVM挑战机制落地双向管道？](https://www.panewslab.com/zh/articledetails/155o0oci.html)
+append_entries: 2
+Finish: 2024-03-18 08:51:44.493195

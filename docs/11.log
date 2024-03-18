@@ -2043,3 +2043,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Hong Kong Starts New Phase of CBDC Testing](https://www.coindesk.com/policy/2024/03/14/hong-kong-starts-new-phase-of-cbdc-testing/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 50
 Finish: 2024-03-18 08:34:10.080318
+------------------------------------------------------
+Started: 2024-03-18 08:51:49.004236
+Existing_entries: 50
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-03-18 08:51:49.233683
