@@ -2305,3 +2305,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [如果以太坊现货ETF被拒了，该怎么办？](https://www.panewslab.com/zh/articledetails/8q0b7wz3.html)
 append_entries: 3
 Finish: 2024-03-18 11:09:40.405143
+------------------------------------------------------
+Started: 2024-03-18 11:18:36.339606
+Existing_entries: 57
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 57
+Summarized using GPT-3.5-turbo-1106
+Append: [ether.fi的ETHFI代币首次空投已开放申领](https://www.panewslab.com/zh/sqarticledetails/tjrhtdrh.html)
+Token length: 1374
+Summarized using GPT-3.5-turbo-1106
+Append: [SLERF发币的戏剧性一幕：创始人误操作销毁LP和空投代币，投资者却反手拉盘杀疯了！](https://www.panewslab.com/zh/articledetails/y6k4a4u8.html)
+Token length: 203
+Summarized using GPT-3.5-turbo-1106
+Append: [WIF代币的原图NFT以1210枚ETH价格成交，约合430万美元](https://www.panewslab.com/zh/sqarticledetails/d2u0na8c.html)
+append_entries: 3
+Finish: 2024-03-18 11:18:49.560388
