@@ -1602,3 +1602,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Future of Blockchain Investing with Alon Goren – Ep 94](https://www.chainalysis.com/blog/blockchain-investing-ep-94/)
 append_entries: 10
 Finish: 2024-03-18 03:58:05.652063
+------------------------------------------------------
+Started: 2024-03-18 04:13:00.230056
+Existing_entries: 10
+Fetching from https://blog.chainalysis.com/feed
+append_entries: 0
+Finish: 2024-03-18 04:13:04.254781
