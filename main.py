@@ -114,16 +114,12 @@ def truncate_entries(entries, max_entries):
     return entries
 
 def gpt_summary(query,model,language):
-    if language == "zh":
-        messages = [
-            {"role": "user", "content": query},
-            {"role": "assistant", "content": f"请用中文总结这篇文章，先提取出{keyword_length}个关键词，在同一行内输出，然后换行，用中文在{summary_length}字内写一个包含所有要点的总结，按顺序分要点输出，总结的中先包含你的结论，判断消息是正面或者负面，不要包含你分析的过程，并按照以下格式输出'<br><br>总结:'，<br>是HTML的换行符，输出时必须保留2个，并且必须在'总结:'二字之前"}
-        ]
-    else:
-        messages = [
-            {"role": "user", "content": query},
-            {"role": "assistant", "content": f"Please summarize this article in {language} language, first extract {keyword_length} keywords, output in the same line, then line break, write a summary containing all the points in {summary_length} words in {language}, output in order by points, and output in the following format '<br><br>Summary:' , <br> is the line break of HTML, 2 must be retained when output, and must be before the word 'Summary:'"}
-        ]
+
+    messages = [
+        {"role": "user", "content": query},
+        {"role": "assistant", "content": f"首先，确定文章中{keyword_length}个主要要点。然后用中文写出一个在{summary_length}字以内的摘要，纳入该文章的所有主要要点。请确保你的摘要按照主要要点的顺序进行构建。在进行总结之前，表明你对信息是正面还是负面影响的总结，但不包含你的分析在摘要中。请按以下格式：'<br><br>摘要：'注意，HTML换行符'<br>'必须包含在内，并在'摘要：'之前显示两次。您的摘要的第一句应该是'这些信息是积极的'或'这些信息是消极的'。"}
+    ]
+    
     
     completion = openai.chat.completions.create(
         model=model,
