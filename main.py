@@ -262,7 +262,9 @@ def output(sec, language):
     template = Template(open('template.xml').read())
     
     try:
-        rss = template.render(feed=feed, append_entries=append_entries, existing_entries=existing_entries)
+    # 创建一个新的列表，只包含具有总结的条目
+        entries_with_summary = [entry for entry in append_entries if entry.summary]
+        rss = template.render(feed=feed, append_entries=entries_with_summary, existing_entries=[])
         with open(out_dir + '.xml', 'w') as f:
             f.write(rss)
         with open(log_file, 'a') as f:
