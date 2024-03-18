@@ -5,13 +5,52 @@
 <link>https://rss.panewslab.com/</link>
 
 <item>
+<title>Restaking板块首登币安新币挖矿，解读FDV近百亿的ether.fi</title>
+<link>https://www.panewslab.com/zh/articledetails/82v40jj9.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/82v40jj9.html</guid>
+<content:encoded><![CDATA[
+<div> 币安、ether.fi、Restaking、挖矿、价格预测
+<br>
+总结: 币安新币挖矿上线第49期项目ether.fi，是Restaking赛道首个登录币安的项目。该项目核心机制是Restaking，目前TVL排名第一，已质押61.9万枚ETH。ether.fi支持多种资产种类，是唯一LRT可直接退出的协议。进行过两轮融资，Launchpool将于3月14日开始挖矿。根据计算，ETHFI初始流通市值可能在50亿美元至90亿美元之间波动。读者应谨慎投资，考虑市场波动。 <div>
+<p>原创 | Odaily星球日报</p>
+<p>作者 | 南枳</p>
+<p>3月12日，币安发布公告宣布新币挖矿上线第 49 期项目 ether.fi（ETHFI），该项目为Restaking赛道首个登录币安的项目。Odaily星球日报将于本文介绍 ether.fi的主要业务及特点、Launchpool 信息及代币价格预测。</p>
+<h3>项目介绍</h3>
+<p>Restaking的概念由 Eigenlayer 创始人Sreeram Kannan提出，其核心机制允许将已质押的ETH（包括各类LST），再次质押在其他协议和DApp上并参与其验证过程。EigenLayer 通过主动验证服务（Actively Validated Services，即 AVS）来直接对接以太坊的安全性和流动性，使其享受以太坊安全性，并且无需另行建立一套经济和验证体系。一言蔽之，EigenLayer 提供了一个代币经济安全（cryptoeconomic security）的租借市场。</p>
+<p><strong>而ether.fi是该赛道中TVL排名第一的协议，</strong>目前已质押了61.9万枚ETH，价值24.6亿美元。此外ether.fi支持资产种类较多，包括ETH、stETH、RS-stETH、cbETH、RS-cbETH、wBETH、RS-wBETH。</p>
+<p><strong>ether.fi是目前唯一LRT可直接退出的协议，</strong>其他协议均通过LP池兑换退出（如Curve、Balancer等），但需要注意，提款时间根据流动储备情况变动，流动性不足时需要完成验证器退出以及EigenLayer Pod流程方可退出。</p>
+<p>下图为两周前Odaily所制Restaking项目对比，可供读者参考项目机制差异。</p>
+<p><img alt="Restaking板块首登币安新币挖矿，解读FDV近百亿的ether.fi" src="https://cdn-img.panewslab.com//panews/2022/3/18/images/f756b97ad37b6ea7aaf6c7587d53c4c2.webp" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h3>融资情况</h3>
+<p>ether.fi共进行了两轮融资，最近一次为今年2月末，ether.fi宣布完成了 2700 万美元融资，本轮融资由 Bullish 和 CoinFund 领投，并且本轮融资有超过 95 位投资者支持。</p>
+<p>而更早一轮完成于23年2月，ether.Fi宣布完成530万美元融资，North Island Ventures、Chapter One和Node Capital领投，BitMex创始人Arthur Hayes参投。</p>
+<h4><strong>Launchpool细则</strong></h4>
+<ul>
+<li>挖矿开始时间：2024年03月14日08:00（UTC+8），持续4天；</li>
+<li>交易开始时间：2024年03月18日20:00（UTC+8）</li>
+<li>代币最大供应量：1,000,000,000 ETHFI；</li>
+<li>初始流通量：115,200,000 ETHFI（代币最大供应量的11.52%）；</li>
+<li>挖矿总量：20,000,000 ETHFI（代币最大供应量的2%）；</li>
+<li>挖矿池：BNB挖矿池总共可挖矿 16,000,000 ETHFI（占80%），FDUSD挖矿池总共可挖矿4,000,000 ETHFI（占20%）。</li>
+</ul>
+<h4><strong>价格预估</strong></h4>
+<p>而根据往期 BNB 池进行计算，前八期的平均年化收益率为 135% （AEVO未上线不计入），假设本次挖矿的年化收益率也是 135% ，按照挖矿 4 天计算，则代币的价格为8.66 USDT，按照AI的最低收益率70%计算，保底价格为4.5 USDT。</p>
+<p><img alt="Restaking板块首登币安新币挖矿，解读FDV近百亿的ether.fi" src="https://cdn-img.panewslab.com//panews/2022/3/18/images/2b60bfacc98582de6a47a97db7f010ca.webp" style="display: block; margin-left: auto; margin-right: auto;" width="800" /></p>
+<p>ETHFI的总量为10亿枚，初始流通量为1.15亿枚，因此<strong>按照合理价格8.66 USDT计算，ETHFI的初始流通市值为10亿美元，FDV为86.6亿美元；</strong>按照保底价格计算，ETHFI的初始流通市值为5.18亿美元，FDV为45亿美元。该初始流通市值与FDV在近期币安的Launchpool项目中属于最高一档，且由于是首个登录币安的Restaking项目，可能存在价格剧烈波动的情况，请读者谨慎投资。</p>
+<p>此外，当前的ether.fi忠诚积分为350.7亿分，Whales Market的积分市场剩余挂单不多，目前剩余单子中最低价为0.00241 USDT/分，对应积分的价值为8450万美元。此外其EigenLayer的预估价值约为8660万美元。由于目前币安暂未披露详细的分配和空投数据，读者后续可相应地根据比例倒算市值，进而判断代币合理价格。</p>
+]]></content:encoded>
+<pubDate>Mon, 18 Mar 2024 10:00:50 +0800</pubDate>
+<pubDate>Mon, 18 Mar 2024 10:00:50 +0800</pubDate>
+</item>
+
+<item>
 <title>昨夜今晨重要资讯（3月17日-3月18日）</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/pwirc280.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/pwirc280.html</guid>
 <content:encoded><![CDATA[
 <div> 代币空投 协议 质押 行情 模型权重
 
-总结:<br><br>本文报道了多个加密货币和区块链相关的重要事件。首先，ether.fi将进行首次空投，用户可获得代币奖励，具体分配规则公布并且考虑了不同规模的质押者。其次，Mask Network推出质押计划，以回馈社区和持有者。此外，xAI公司开放了其人工智能模型权重和架构，Solana价格上涨，Token解锁事件也备受关注。Elon Musk发布狗狗照片，带动了Meme币WIF价格上涨。整体而言，消息正面。 <div>
+总结:<br /><br />本文报道了多个加密货币和区块链相关的重要事件。首先，ether.fi将进行首次空投，用户可获得代币奖励，具体分配规则公布并且考虑了不同规模的质押者。其次，Mask Network推出质押计划，以回馈社区和持有者。此外，xAI公司开放了其人工智能模型权重和架构，Solana价格上涨，Token解锁事件也备受关注。Elon Musk发布狗狗照片，带动了Meme币WIF价格上涨。整体而言，消息正面。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p><img alt="昨夜今晨重要资讯（3月17日-3月18日）" height="605" src="https://cdn-img.panewslab.com/panews/2024/03/18/images/693p7g6a59.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="1209" /></p>
 <p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/432bjpyw.html">ether.fi：首次空投将于今晚19时正式上线</a></p>
 <p dir="ltr">非托管流动性质押协议ether.fi发推称，首次空投将于3月18日19时（北京时间）正式上线。第一季共发放6800万代币，占总供应量的6.8%。根据社区反馈，项目增加了超过1200万代币的分配量，占总供应量的额外1.2%，这一增加主要惠及小额质押者，对大额持有者没有稀释效应。用户平均每人获得575代币，中位数为175代币。最大的单一分配约为300万代币，该用户在“最后倒计时”活动中存入了4.8亿美元。“最后倒计时”活动期间的存款使其他人增加了770万代币。第一季度代币分配如下：90%分配给质押者，6%给合作伙伴，4%给早期采用者（粉丝NFT持有者和EAP参与者）。质押者根据其质押比例共享90%的代币（6100万代币），分配虽然是线性的，但偏向于小额质押者。最底层50%的钱包只贡献了1.8%的总价值锁定（TVL），却获得了18%的代币分配；而顶层10%的钱包贡献了88%的TVL，获得了65%的代币分配。</p>
@@ -39,7 +78,6 @@
 <p>【深度】原创文章、行业研报、事件解读，带来深度思考。<a href="https://www.panewslab.com/download.html">立即下载</a>！</p>
 ]]></content:encoded>
 <pubDate>Mon, 18 Mar 2024 09:42:02 +0800</pubDate>
-<pubDate>Mon, 18 Mar 2024 09:42:02 +0800</pubDate>
 </item>
 <item>
 <title>Mask Network宣布将推出质押计划，参与者将获得其生态系统代币奖励</title>
@@ -47,12 +85,11 @@
 <guid>https://www.panewslab.com/zh/sqarticledetails/6xytws7v.html</guid>
 <content:encoded><![CDATA[
 <div> Mask Network、质押计划、社区、MASK代币、大幅上涨
-<br>
+<br />
 Mask Network宣布推出质押计划，回馈社区和MASK代币持有者。参与质押MASK代币的用户有机会获得生态系统合作伙伴和项目的额外代币奖励。消息发布后，MASK代币大幅上涨超过10%。总结: 消息是正面。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月18日消息，去中心化社交网络生态系统Mask Network宣布将推出一项质押计划，以此作为回馈社区和MASK代币持有者的方式。通过参与质押MASK代币，用户将有机会获得来自其生态系统中核心合作伙伴和快速增长项目的额外代币作为激励。</p>
 <p>行情显示，消息发布后，MASK大幅上涨超10%。</p>
 ]]></content:encoded>
-<pubDate>Mon, 18 Mar 2024 09:28:42 +0800</pubDate>
 <pubDate>Mon, 18 Mar 2024 09:28:42 +0800</pubDate>
 </item>
 <item>
@@ -60,15 +97,13 @@ Mask Network宣布推出质押计划，回馈社区和MASK代币持有者。参�
 <link>https://www.panewslab.com/zh/sqarticledetails/432bjpyw.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/432bjpyw.html</guid>
 <content:encoded><![CDATA[
-<div> 空投、代币分配、质押者、规则、用户资格<br>
-总结:<br>ether.fi宣布首次空投活动，共发放6800万代币，其中90%给质押者，6%给合作伙伴，4%给早期采用者。活动增加了1200万代币额外分配，主要惠及小额质押者。参与资格规则为通过质押活动获得超过1000点的用户。与大额持有者相比，小额质押者获得更多代币，质押金额不成比例。最大的单一分配约为300万代币，而最底层50%的钱包却获得18%的代币分配。总体而言，空投消息正面，对小额质押者有利。 <div>
+<div> 空投、代币分配、质押者、规则、用户资格<br />
+总结:<br />ether.fi宣布首次空投活动，共发放6800万代币，其中90%给质押者，6%给合作伙伴，4%给早期采用者。活动增加了1200万代币额外分配，主要惠及小额质押者。参与资格规则为通过质押活动获得超过1000点的用户。与大额持有者相比，小额质押者获得更多代币，质押金额不成比例。最大的单一分配约为300万代币，而最底层50%的钱包却获得18%的代币分配。总体而言，空投消息正面，对小额质押者有利。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月18日消息，非托管流动性质押协议ether.fi发推称，首次空投将于3月18日19时（北京时间）正式上线。第一季共发放6800万代币，占总供应量的6.8%。根据社区反馈，项目增加了超过1200万代币的分配量，占总供应量的额外1.2%，这一增加主要惠及小额质押者，对大额持有者没有稀释效应。用户平均每人获得575代币，中位数为175代币。最大的单一分配约为300万代币，该用户在“最后倒计时”活动中存入了4.8亿美元。“最后倒计时”活动期间的存款使其他人增加了770万代币。第一季度代币分配如下：90%分配给质押者，6%给合作伙伴，4%给早期采用者（粉丝NFT持有者和EAP参与者）。质押者根据其质押比例共享90%的代币（6100万代币），分配虽然是线性的，但偏向于小额质押者。最底层50%的钱包只贡献了1.8%的总价值锁定（TVL），却获得了18%的代币分配；而顶层10%的钱包贡献了88%的TVL，获得了65%的代币分配。</p>
 <p>参与资格规则为，任何通过质押活动获得超过1000点的用户均可参与，1000点等同于质押1 ETH一天，或质押0.1 ETH十天。粉丝NFT持有者每个NFT获得430代币；参与“独行质押者行动”的独立质押者获得4200代币；徽章持有者和推荐人获得额外的代币分配。不符合资格的用户包括那些通过质押活动获得的点数少于1000点的用户（例如，如果一个用户的所有点数全部来自徽章，他们将不会获得空投），以及那些未能从EAP（早期采用者计划）过渡出来的用户。</p>
 ]]></content:encoded>
 <pubDate>Mon, 18 Mar 2024 09:24:22 +0800</pubDate>
-<pubDate>Mon, 18 Mar 2024 09:24:22 +0800</pubDate>
 </item>
-
 <item>
 <title>为什么说BNB是这轮牛市的金铲子？蕴含什么财富密码？</title>
 <link>https://www.panewslab.com/zh/articledetails/2k7udkyw.html</link>
