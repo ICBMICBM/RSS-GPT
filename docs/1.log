@@ -1762,3 +1762,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Metrics Ventures研报 | 从V神文章出发，Crypto×AI有哪些值得关注的细分赛道？](https://www.panewslab.com/zh/articledetails/7uu958bcm8p1.html)
 append_entries: 1
 Finish: 2024-03-18 07:37:07.965714
+------------------------------------------------------
+Started: 2024-03-18 07:44:15.848109
+Existing_entries: 94
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 75
+Summarized using GPT-3.5-turbo-1106
+Append: [币安合约交易平台将推出USDC保证金AVAX永续合约，杠杆高达75倍](https://www.panewslab.com/zh/sqarticledetails/i5jrh29z.html)
+append_entries: 1
+Finish: 2024-03-18 07:44:19.653067
