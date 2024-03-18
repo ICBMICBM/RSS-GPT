@@ -2757,3 +2757,12 @@ Existing_entries: 64
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-18 20:29:25.354246
+------------------------------------------------------
+Started: 2024-03-18 20:38:32.294263
+Existing_entries: 64
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 30
+Summarized using GPT-3.5-turbo-1106
+Append: [Tether's USDT Gets Delisted on Crypto Exchange OKX for EU Users](https://www.coindesk.com/markets/2024/03/18/tethers-usdt-gets-delisted-on-crypto-exchange-okx-for-eu-users/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-18 20:38:36.596399
