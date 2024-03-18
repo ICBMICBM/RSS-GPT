@@ -1753,3 +1753,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [一览英伟达GTC大会之后或获益最大的10个AI独角兽](https://www.panewslab.com/zh/articledetails/hed99h93.html)
 append_entries: 1
 Finish: 2024-03-18 07:29:40.823212
+------------------------------------------------------
+Started: 2024-03-18 07:37:01.409156
+Existing_entries: 93
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 13815
+Summarized using GPT-3.5-turbo-1106
+Append: [Metrics Ventures研报 | 从V神文章出发，Crypto×AI有哪些值得关注的细分赛道？](https://www.panewslab.com/zh/articledetails/7uu958bcm8p1.html)
+append_entries: 1
+Finish: 2024-03-18 07:37:07.965714

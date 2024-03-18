@@ -5,11 +5,198 @@
 <link>https://rss.panewslab.com/</link>
 
 <item>
+<title>Metrics Ventures研报 | 从V神文章出发，Crypto×AI有哪些值得关注的细分赛道？</title>
+<link>https://www.panewslab.com/zh/articledetails/7uu958bcm8p1.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/7uu958bcm8p1.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章讨论了如何将区块链和人工智能结合，提出了四种结合方式，并分析了现有AI赛道的细分方向。通过介绍不同类别的代表性项目，包括AI游戏、预测市场、去中心化数据协议、去中心化算力和去中心化模型等方面，展示了AI在Crypto世界的潜力和发展方向。文章强调技术叙事和落地可能性的相互权衡，并指出AI赛道的发展具有技术创新的前景。<br> <div>
+<p>作者：@charlotte0211z，@BlazingKevin_，Metrics Ventures</p>
+<p>Vitalik在1月30日发表了 <strong><a href="https://vitalik.eth.limo/general/2024/01/30/cryptoai.html" rel="nofollow">The promise and challenges of crypto + AI applications</a></strong> 一文，讨论了区块链与人工智能应该以怎么的方式去结合，以及这个过程中出现的潜在挑战。在这篇文章发布后的一个月，文章中提到的NMR、Near、WLD都收获了不错的涨幅，完成了一轮价值发现。本文基于Vitalik所提出的Crypto与AI结合的四种方式，对现有的AI赛道的细分方向进行梳理，并对各方向的代表项目进行简要介绍。</p>
+<h3>1 引言：Crypto与AI结合的四种方式</h3>
+<p>去中心化是区块链所维护的共识，确保安全性是核心思想，而开源是从密码学角度让链上行为具备上述特点的关键基础。在过去几年中，这个方式在区块链的几轮变革中是适用的，但是当人工智能参与其中后，情况发生一些变化。</p>
+<p>试想通过人工智能来设计区块链或者应用的架构，那么模型就有开源的必要，但是如此一来，会暴露其在对抗性机器学习中的脆弱性；反之则丧失了去中心化性。 因此，我们有必要思考在当前区块链或者应用中加入人工智能时，以何种方式，怎样的深度去完成结合。</p>
+<p><img alt="Metrics Ventures研报 | 从V神文章出发，Crypto×AI有哪些值得关注的细分赛道？" height="480" src="https://cdn-img.panewslab.com/panews/images/PMCvm4A9fs.png" style="display: block; margin-left: auto; margin-right: auto;" width="800" /></p>
+<pre>来源：DE UNIVERSITY OF ETHEREUM</pre>
+<p>在 <a href="https://substack.com/@ueth" rel="nofollow">DE UNIVERSITY OF ETHEREUM</a> 的 <a href="https://blog.ueth.org/p/when-giants-collide-exploring-the" rel="nofollow">When Giants Collide: Exploring the Convergence of Crypto x AI</a>一文中，阐述了人工智能和区块链在核心特质上的差异。如上图所示，人工智能的特点是：</p>
+<ul>
+<li>中心化</li>
+<li>低透明度</li>
+<li>耗能</li>
+<li>垄断性</li>
+<li>货币化属性弱</li>
+</ul>
+<p>区块链在这5点上，和人工智能相比是完全相反的。 这也是Vitalik该文的真正论点，如果人工智能和区块链结合，那么诞生的应用在数据所有权，透明度，货币化能力，耗能成本等方面应作出怎样的取舍，又需要诞生哪些基础设施来保障二者的有效结合。</p>
+<p>Vitalik按照上述准则以及自身的思考，将人工智能与区块链结合而成的应用分为4大类：</p>
+<ul>
+<li><strong>人工智能作为应用中的参与者（AI as a player in a game）</strong></li>
+<li><strong>人工智能作为应用的接口（AI as an interface to the game）</strong></li>
+<li><strong>人工智能作为应用的规则（AI as the rules of the game）</strong></li>
+<li><strong>人工智能作为应用的目标（AI as the objective of the game）</strong></li>
+</ul>
+<p>其中，前三种主要是AI引入Crypto世界的三种方式，代表了从浅到深的三种层次，根据笔者的理解，这种划分代表了AI对人类决策的影响程度，并由此为整个Crypto引入了不同程度的系统风险：</p>
+<ul>
+<li>人工智能作为应用的参与者：人工智能本身不会对人类的决策和行为产生影响，因此不会为真实的人类世界带来风险，也因此在目前具有最高的落地性。</li>
+<li>人工智能作为应用的接口：人工智能对人类的决策和行为提供辅助信息或辅助工具，将提高用户和开发者体验，降低门槛，但错误的信息或操作将为真实世界带来一定的风险。</li>
+<li>人工智能作为应用的规则：人工智能将全权代替人类完成决策和操作，因此人工智能的作恶和故障将直接导致真实世界的混乱，无论是在Web2还是Web3，目前都无法信任人工智能去代替人类进行决策。</li>
+</ul>
+<p>最后，第四类项目致力于利用Crypto的特性创造更好的人工智能，正如前文所说，中心化、低透明度、耗能、垄断性和货币属性弱，都可以天然地通过Crypto的属性去中和。尽管许多人对Crypto能否对人工智能的发展产生影响力抱有怀疑，但通过去中心化的力量去影响现实世界一直是Crypto最迷人的叙事，这一赛道也凭借其宏大构想成为AI赛道炒作最热烈的部分。</p>
+<h3>2 AI作为参与者</h3>
+<p>在AI参与的机制中，激励的最终来源来自于人类输入的协议。在AI成为接口，甚至成为规则之前，我们往往需要对不同AI的表现进行评估，使AI参与到一个机制中，最终通过一个链上机制获得奖励或受到惩罚。</p>
+<p>AI作为参与者，相比于作为接口和规则来说，对用户和整个系统的风险性基本可以忽略不计，可以说是AI开始深度影响用户决策和行为前的必经阶段，因此人工智能与区块链在这一层的融合所需要的成本和取舍相对较小，也是V神认为现在具有高度可落地性的一类产品。</p>
+<p>从广义和实现程度上来说，现在的AI应用多属于这一类别，比如AI赋能的trading bot和chatbot等，目前的落地程度还很难实现AI作为接口甚至是规则的作用，用户正在不同的bot中进行比较和逐步优化，加密用户也尚未养成使用AI应用的行为习惯。在V神的文章中，也将Autonomous Agent归为这一类。</p>
+<p>但从狭义和远期愿景上来说，我们倾向于对AI应用或AI Agent进行更为细致的划分，因此在这一类目下，我们认为具有代表性的细分赛道包括：</p>
+<h4>2.1 AI游戏</h4>
+<p>从某种程度上说，AI游戏都可以被归为这个类别，玩家通过与AI交互，并训练自己的AI角色，使得AI角色更符合个人的需求，如更贴合个人的喜好或者在游戏机制中更具有战斗力和竞争力。游戏是AI在切入现实世界前的一个过渡阶段，也是目前落地风险性较低、最容易被普通用户理解的一个赛道，标志性的项目如AI Arena、Echelon Prime、Altered State Machine等。</p>
+<ul>
+<li><strong>AI Arena</strong>：AI Arena是一款玩家可以通过AI学习和训练，使游戏角色不断进化的PVP格斗游戏，希望以游戏的形式让更多普通用户能够接触、了解和体验AI，同时让人工智能工程师能基于AI Arena提供各种AI算法来增加收入。每个游戏角色都是由AI赋能的NFT，其中Core是包含AI模型的核心，包括两个部分：架构和参数，存储在IPFS上，一个新的NFT
+<p>中的参数时随机生成的，意味着其将执行随机动作，用户需要通过模仿学习（IL）的过程提升角色的策略能力，每次用户训练角色并保存进度时，参数都会在IPFS上更新。</p>
+<p><img alt="Metrics Ventures研报 | 从V神文章出发，Crypto×AI有哪些值得关注的细分赛道？" height="1098" src="https://cdn-img.panewslab.com/panews/images/B9qFe0Ot0n.png" style="display: block; margin-left: auto; margin-right: auto;" width="2000" /></p>
+</li>
+<li>
+<p><strong>Altered State Machine</strong>：ASM并不是一个AI游戏，而是为AI Agent进行确权和交易的协议，定位为元宇宙AI协议，目前正与包括FIFA等多个游戏集成，在游戏和元宇宙中引入AI Agent。ASM利用NFT对AI Agent进行确权并交易，每个Agent将包含三个部分：Brain（Agent的自身特性）、Memories（存储Agent学到的行为策略，及模型训练的部分，与Brain绑定）、Form（角色外观等）。ASM拥有一个Gym模块，包括去中心化的GPU云提供商，可以为Agent提供算力支持。 目前以ASM作为底层的项目包括AIFA（AI足球游戏）、Muhammed Ali（AI拳击游戏）、AI League（与FIFA合作的街头足球游戏）、Raicers（AI驱动的赛车游戏）以及FLUF World’s Thingies（生成式NFT）。</p>
+<p><img alt="Metrics Ventures研报 | 从V神文章出发，Crypto×AI有哪些值得关注的细分赛道？" height="911" src="https://cdn-img.panewslab.com/panews/images/34MNHxErhD.png" style="display: block; margin-left: auto; margin-right: auto;" width="2000" /></p>
+</li>
+<li>
+<p><strong>Parallel Colony (PRIME)</strong>：Echelon Prime正在开发Parallel Colony，这是一款基于AI LLM的游戏，玩家可以与你的AI Avatar进行互动并对其产生影响，Avatar将根据记忆和生活轨迹产生自主行动。Colony目前是最受期待的AI游戏之一，近日官方刚刚发布了白皮书，并宣布迁移至Solana，使得PRIME又迎来了一波新的上涨。</p>
+</li>
+</ul>
+<h4>2.2 预测市场/竞赛</h4>
+<p>预测能力是AI进行未来决策和行为的基础，在AI模型被用于实际预测前，预测竞赛在更高等级上对AI模型的表现进行比较，通过代币为数据科学家/AI模型提供激励，这对于整个Crypto×AI的发展具有积极意义——通过激励不断开发效率和性能更强、更适合crypto世界的模型和应用，在AI对决策和行为发挥更深刻影响前，创建出更优质、更安全的产品。正如V神所说，预测市场是一个强大的原语，可以拓展到更多其他类型的问题。这一赛道中的标志性项目包括：Numerai和Ocean Protocol。</p>
+<ul>
+<li><strong>Numerai</strong>：Numerai是一个已经运行了很久的数据科学竞赛，数据科学家根据历史的市场数据（由Numerai提供）训练机器学习模型来预测股市，并质押模型和NMR代币进行锦标赛，表现较好的模型将获得NMR代币激励，较差模型的质押代币则会被销毁。截止2024年3月7日，共有6,433个模型被质押，协议共计向数据科学家提供了$75,760,979的激励。Numerai正在激励全球数据科学家合作来构建新型对冲基金，目前已发布的基金包括Numerai One和Numerai Supreme。Numerai的路径：市场预测竞赛→众包预测模型→基于众包模型的新型对冲基金。</li>
+<li><strong>Ocean Protocol</strong>：Ocean Predictoor正在关注预测，开始于加密货币走势的众包预测。玩家可以选择运行Predictoor bot或Trader bot，Predictoor bot使用AI模型对下一个时间点（比如五分钟后）的加密货币（如BTC/USDT）价格进行预测，并质押一定数量的$OCEAN，协议将根据质押量加权计算出全局预测，Traders购买预测结果并可以根据其进行交易，在预测结果准确率较高时，Traders可以从中获利，预测错误的Predictoor将会被罚没，而预测正确的则可以获得这部分代币和Traders的购买费用作为奖励。3月2日，Ocean Predictoor在媒体上公布了最新方向——World-World Model（WWM），开始探索对天气、能源等现实世界的预测。</li>
+</ul>
+<p><img alt="Metrics Ventures研报 | 从V神文章出发，Crypto×AI有哪些值得关注的细分赛道？" height="1150" src="https://cdn-img.panewslab.com/panews/images/3qogJdKGBi.png" style="display: block; margin-left: auto; margin-right: auto;" width="2000" /></p>
+<h3>3 AI作为接口</h3>
+<p>AI可以帮助用户用简单易懂的语言理解正在发生的事情，充当用户在crypto世界的导师，并对可能的风险进行提示，以降低Crypto的使用门槛和用户风险，提高用户体验。具体可实现的产品的功能很丰富，如钱包交互时的风险提示、AI驱动的意图交易、能够回答普通用户crypto问题的AI Chatbot等等。对受众群体进行扩大，除了普通用户，开发者、分析师等等在内的几乎所有群体，都将成为AI的服务对象。</p>
+<p>让我们再次重申这些项目的共同点：尚未代替人类执行某些决策和行为，但正在利用AI模型为人类提供辅助决策和行为的信息和工具。从这一层开始，AI作恶的风险已经开始暴露在系统中——可以通过提供错误的信息来干扰人类最后的判断，这一点在V神的文章中也已经有详细的分析。</p>
+<p>能够被归入这一类目下的项目较多也较杂，包括AI chatbot、AI智能合约审计、AI代码编写、AI trading bot等等，可以说目前绝大多数的AI应用都正在这一类的初级水平，具有代表性的项目包括：</p>
+<ul>
+<li>
+<p><strong>PaaL</strong>：PaaL是目前AI Chatbot的龙头项目，可以看作是经过crypto相关知识训练的ChatGPT，通过集成TG和Discord，可以为用户提供：代币数据分析、代币基本面和代币经济学分析以及文字生成图片等其他功能，可以将PaaL Bot集成入群聊来对一些信息进行自动回复。PaaL支持定制个人bot，用户可通过投喂数据集，构建自己的AI知识库和自定义bot。PaaL正在向AI Trading Bot进发，2月29日宣发了其AI支持的crypto研究&amp;交易终端PaalX，根据介绍可实现AI智能合约审计、基于推特的新闻集成和交易、Crypto研究和交易支持，人工智能助手可降低用户使用门槛。</p>
+<p><img alt="Metrics Ventures研报 | 从V神文章出发，Crypto×AI有哪些值得关注的细分赛道？" src="https://cdn-img.panewslab.com/panews/images/3862p1795x.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</li>
+<li>
+<p><strong>ChainGPT</strong>：ChainGPT依靠人工智能开发了一系列crypto工具，如chatbot、NFT生成器、新闻集合、智能合约生成与审计、交易助手、Prompt市场和AI跨链交换。但ChainGPT目前的发力方向在于项目孵化和Launchpad，目前已完成24个项目的IDO和4个Free Giveaways。</p>
+<p><img alt="Metrics Ventures研报 | 从V神文章出发，Crypto×AI有哪些值得关注的细分赛道？" height="1178" src="https://cdn-img.panewslab.com/panews/images/yG8z5FWNoF.png" style="display: block; margin-left: auto; margin-right: auto;" width="1860" /></p>
+</li>
+<li>
+<p><strong>Arkham</strong>：Ultra是Arkham的专用AI引擎，用例是通过算法将地址与现实中实体进行匹配，以提高加密行业的透明度。Ultra基于用户提供以及自身收集的链上链下数据，将之合并，并输出成可拓展的数据库，最终以图表方式呈现。但Arkham文档中并未对Ultra系统有详细论述，本轮Arkham受到关注的原因为OpenAI创始人Sam Altman对其的个人投资，过去30天收获5倍涨幅。</p>
+</li>
+<li>
+<p><strong>GraphLinq</strong>：GraphLinq是一种自动化流程管理解决方案，旨在使用户无需编程即可部署和管理各种类型的自动化功能，如将Coingecko中比特币的价格每隔5分钟推送至TG Bot中。GraphLinq的解决方案是用Graph将自动化流程可视化，用户可以通过拖拽节点的方式创建自动化任务，并使用GraphLinq Engine执行。尽管不需要代码，但创建Graph的过程对普通用户来说依然有一定门槛，包括选择合适的模板、在几百个逻辑块中挑选合适的并连接。因此GraphLinq正在引入AI，使用户可以用对话式人工智能和自然语言，来完成自动化任务的构建和管理。</p>
+</li>
+<li>
+<p>**<a href="http://0x0.ai" rel="nofollow">0x0.ai</a>：**0x0与AI相关的业务主要有三个：AI智能合约审计、AI反Rug检测和AI开发者中心。其中AI反Rug检测将检测可疑行为，如过高税收或抽走流动性，防止用户受骗，AI开发者中心利用机器学习技术生成智能合约，实现No-code部署合约。但目前仅初步上线了AI智能合约审计，其他两项功能尚未开发完成。</p>
+</li>
+<li>
+<p><strong>Zignaly</strong>：Zignaly诞生于2018年，旨在让个人投资者能够选择基金经理来为自己进行加密资产管理，类似Copy-trading的逻辑。Zignaly正在使用机器学习和人工智能技术，建立起对基金经理进行系统评估的指标体系，目前推出的第一个产品为Z-Score，但作为人工智能产品来说还是比较初级。</p>
+</li>
+</ul>
+<p><img alt="Metrics Ventures研报 | 从V神文章出发，Crypto×AI有哪些值得关注的细分赛道？" src="https://cdn-img.panewslab.com/panews/images/5evN2Pdptn.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h3>4 AI作为游戏规则</h3>
+<p>这是最令人激动的部分——让AI能够代替人类进行决策和行为，你的AI将直接掌控你的钱包，代替你进行交易决策和行为。在这一分类下，<strong>笔者认为主要可以分为三个层级：AI应用（尤其是以自主决策为愿景的应用，如AI自动化交易bot、AI DeFi收益Bot）、Autonomous Agent协议以及zkml/opml。</strong></p>
+<p>AI应用是对某一领域的问题进行具体决策的工具，它们积累了不同细分领域的知识和数据，依赖于根据细分问题而量身定制的AI Model开展决策。可以注意到，AI应用在本文中被同时归入两类：接口与规则，从开发愿景来说，AI应用应成为独立决策的Agent，但目前无论是AI模型的有效性、集成AI的安全性，都无法满足这一要求，甚至作为接口都略微勉强，AI应用正处于非常早期的阶段，具体项目在前文已有介绍，在此不做赘述。</p>
+<p>Autonomous Agent被V神在第一类（AI作为参与者）中提及，从远期愿景来说，本文将其归为第三类。Autonomous Agent利用大量数据和算法来模拟人类的思维和决策过程，并执行各种任务和交互。本文主要关注Agent的通信层、网络层等基础设施，这些协议定义了Agent的归属权，建立了Agent的身份、通信标准和通信方式，连接多个Agent应用，能够协同进行决策和行为。</p>
+<p>zkML/opML：通过密码学或经济学的方法，保证经过了正确的模型推理过程而提供具有可信性的输出。安全性问题对于将AI引入智能合约非常致命，智能合约依靠输入产生输出并自动化执行一系列功能，一旦AI作恶给予了错误的输入，将会为整个Crypto系统引入极大的系统性风险，因此zkML/opML和可能的一系列潜在解决方案，都是让AI进行独立行动和决策的基础。</p>
+<p><strong>最后，三者构成AI作为运行规则的三个基础层次：zkml/opml作为最底层的基础设施，保证协议的安全性；Agent协议建立起Agent生态系统，能够协同进行决策和行为；AI应用，也是具体的AI Agent，将不断提高在某一领域的能力，并实际进行决策和行动。</strong></p>
+<h4>4.1 Autonomous Agent</h4>
+<p>AI Agent在Crypto世界的应用是自然的，从智能合约到TG Bots再到AI Agents，加密世界正走向更高的自动化和更低的用户门槛。智能合约虽然是通过不可篡改的代码自动执行功能，但仍需要依赖外部触发而唤醒，且无法自主运行和连续运行；TG Bots降低了用户门槛，用户不需要直接与加密前端交互，而是通过自然语言完成链上交互，但只能完成极为简单和具体的任务，依然无法实现用户意图为中心的交易；AI Agents则具备一定的独立决策能力，理解用户的自然语言，并自主找到和组合起其他的Agent和链上工具，完成用户指定的目标。</p>
+<p>AI Agent正在致力于大幅提高加密产品的使用体验，而区块链也能够助力AI Agent的运行更加去中心化、透明和安全，具体的帮助在于：</p>
+<ul>
+<li>通过代币激励更多的开发者提供Agent</li>
+<li>NFT确权促进基于Agent的收费与交易</li>
+<li>提供链上的Agent身份和注册机制</li>
+<li>提供不可篡改的Agent活动日志，对其行为进行及时的溯源和追责</li>
+</ul>
+<p>这一赛道的主要项目如下：</p>
+<ul>
+<li><strong>Autonolas</strong>：Autonolas通过链上协议支持Agent和相关组件的资产确权和可组合性，使代码组件、Agent和服务能够在链上被发现和重复利用，并激励开发者获得经济补偿。开发者开发了完整的Agent或组成部分后，将对代码进行链上注册并获得NFT，代表对代码的所有权；Service Owner会联合多个Agent创建一个服务并在链上注册，并吸引Agent Operators来实际执行服务，用户通过付费使用服务。</li>
+<li><strong><a href="http://Fetch.ai" rel="nofollow">Fetch.ai</a></strong>：Fetch.ai在AI领域具有很强的团队背景和开发经验，目前正在关注AI Agent赛道。协议由四个关键层组成：AI Agents、Agentverse、AI Engine和Fetch Network。AI Agents是系统的核心，其他则为辅助构建Agent服务的框架和工具。Agentverse是一个软件即服务平台，主要用于创建和注册AI Agent。AI Engine的目标是通过读取用户自然语言输入，将其转换为可操作的人物，并在Agentverse中选择已注册的最合适的AI Agent来执行任务。Fetch Network是协议的区块链层，AI Agent必须在链上的Almanac合约中注册，才能与其他Agent开始协同服务。值得注意的是，Autonolas目前专注于crypto世界的Agent构建，将链下的Agent操作引入链上；Fetch.ai的关注范围则包括Web2世界，如旅行预订、天气预测等。</li>
+<li><strong>Delysium</strong>：Delysium从游戏转型为AI Agent协议，主要包括两个层：通信层和区块链层，通信层是Delysium的主干，提供安全且可扩展的基础设施，使得AI Agent之间能够快速高效的通信，区块链层对Agent进行身份验证，并通过智能合约实现对Agent行为的不可篡改记录。具体来说，通信层为Agent之间建立了统一的通信协议，采用标准化的消息系统，让Agent之间可以通过一种通用语言无障碍地交流，此外建立了服务发现协议和API，使得用户和其他Agent能够快速发现和连接可用的Agent。区块链层主要包括两个部分：Agent ID和Chronicle智能合约，Agent ID确保只有合法的Agent才能访问网络，Chronicle则是Agent做出的所有重要决策和行为的日志存储库，上链后不可篡改，确保对Agent行为的可信追溯。</li>
+<li><strong>Altered State Machine</strong>：通过NFT为Agent的资产确权和交易制定了标准，具体分析可见第1部分，虽然ASM目前主要接入游戏，但其作为基础性的规范同样具有向其他Agent领域扩展的可能。</li>
+<li><strong>Morpheous</strong>：正在构建一个AI Agent生态网络，协议旨在连接Coder、Computer provider、Community Builder和Capital四种角色，分别为网络提供AI Agent、支持Agent运行的算力、前端和开发工具以及资金，MOR将采取Fair launch的形式，向提供算力的矿工、stETH质押者、Agent或智能合约开发贡献者、社区开发贡献者提供激励。</li>
+</ul>
+<h4>4.2 zkML/opML</h4>
+<p>零知识证明目前有两个主要应用方向：</p>
+<ul>
+<li>以更低的成本在链上证明运算得到了正确的运行（ZK-Rollup和ZKP跨链桥正在利用ZK的这一特点）；</li>
+<li>隐私保护：不需要知道计算的细节，也可以证明计算得到了正确的执行。</li>
+</ul>
+<p>同样地，ZKP在机器学习中的应用同样可以被分为两类：</p>
+<ul>
+<li>推理验证：即通过ZK-proof，在链上以较低的成本证明AI模型推理这一密集计算的过程在链下得到了正确的执行。</li>
+<li>隐私保护：又可以分为两类，一是对数据隐私的保护，即在公开的模型上使用隐私数据进行推理，可以利用ZKML对隐私数据进行保护；二是对模型隐私的保护，希望隐藏模型的权重等具体信息，从公开的输入中运算并得出输出结果。</li>
+</ul>
+<p>笔者认为目前对Crypto更为重要的是推理验证，我们在此对推理验证的场景进行进一步阐述。从AI作为参与者开始，到AI作为世界的规则，我们希望将AI成为链上流程的一部分，但AI模型推理计算成本过高，无法直接在链上运行，将这一过程放到链下，意味着我们需要忍受这一黑盒子带来的信任问题——AI模型运行者是否篡改了我的输入？是否使用了我指定的模型进行推理？通过将ML模型转化成ZK电路，可以实现：（1）较小的模型上链，将小的zkML模型存储到智能合约中，直接上链解决了不透明的问题；（2）在链下完成推理，同时生成ZK证明，通过在链上运行ZK证明来证明推理过程的正确性，基础架构将包括两个合约——主合约（使用ML模型输出结果）和ZK-Proof验证合约。</p>
+<p>zkML还处于非常早期的阶段，面临着ML模型向ZK电路转化的技术问题，以及极高的运算和密码学开销成本。和Rollup的发展路径一样，opML从经济学的角度出发，成为了另一种解决方案，opML使用Arbitrum 的 AnyTrust 假设，即每个主张至少有一个诚实节点，确保提交者或至少一个验证者是诚实的。但OPML只能成为推理验证的替代方案，无法实现隐私保护。</p>
+<p>目前的项目正在构建zkML的基础设施，并在努力探索其应用，应用的建立同样重要，因需要清楚地向加密用户证明zkML中重要作用，证明最终价值能够抵消巨大成本。在这些项目中，有些专注于与机器学习相关的ZK技术研发（如Modulus Labs），有些则是更通用的ZK基础设施搭建，相关项目包括：</p>
+<ul>
+<li>Modulus 正在使用 zkML 将人工智能应用于链上推理过程。Modulus于2月27日推出了zkML证明器Remainder，与同等硬件上的传统AI推理相比，实现了180倍的效率提升。此外，Modulus与多个项目合作，探索zkML的实际用例，如与Upshot合作，通过使用具有ZK证明的人工智能，收集复杂的市场数据、评估NFT价格，并将价格传到链上；与AI Arena合作，证明正在战斗的Avatar和玩家所训练的是同一个。</li>
+<li>Risc Zero将模型放在链上，通过在 RISC Zero 的 ZKVM 中运行机器学习模型，可以证明模型涉及的确切计算是正确执行的。</li>
+<li>Ingonyama正在开发专门用于 ZK 技术的硬件，这可能降低了进入 ZK 技术领域的门槛，并且 zkML 也有可能用于模型训练过程。</li>
+</ul>
+<h3>5 AI作为目标</h3>
+<p>如果说前面三类更侧重于AI如何赋能于Crypto，那么“AI作为目标”强调了Crypto对AI的帮助，即如何利用Crypto创造出更好的AI模型和产品，这或许包括多个评判标准：更高效、更精确、更去中心化等等。</p>
+<p>AI包括三个核心：数据、算力和算法，在每一个维度，Crypto都在致力于为AI提供更有效的助力：</p>
+<ul>
+<li>数据：数据是进行模型训练的基础，去中心化数据协议将激励个人或企业提供更多私域数据，同时利用密码学保障数据隐私，避免个人敏感数据的泄露。</li>
+<li>算力：去中心化算力赛道是目前最火热的AI赛道，协议通过提供供需双方的匹配市场，促进长尾算力与AI企业的匹配，用于模型的训练和推理。</li>
+<li>算法：Crypto对算法的赋能是实现去中心化AI最核心的环节，也是V神文章中“AI作为目标”叙述的主要内容，创建去中心化的、可信任的黑匣子AI，那么前文所说的对抗式机器学习的问题则将得到解决，但将面临极高的密码学开销等一系列阻碍。此外，“使用加密激励来鼓励制作更好的AI”也可以在不完全陷入密码学完全加密的兔子洞的情况下实现。</li>
+</ul>
+<p>大型科技公司对数据和算力的垄断共同造成了对模型训练过程的垄断，闭源模型成为大型企业获利的关键。从基础设施的角度，Crypto通过经济手段激励数据和算力的去中心化供应，同时通过密码学的方法保证过程中的数据隐私，并以此为基础助力于去中心化的模型训练，以实现更透明、更去中心化的AI。</p>
+<h4>5.1 去中心化数据协议</h4>
+<p>去中心化数据协议主要以数据众包的形式开展，激励用户提供数据集或数据服务（如数据标注）用于企业进行模型训练，并开设Data Marketplace促进供需双方的匹配，一些协议也正在探索通过DePIN激励协议，获取用户的浏览数据，或利用用户的设备/带宽完成网络数据爬取。</p>
+<ul>
+<li>
+<p><strong>Ocean Protocol</strong>：对数据确权并代币化，用户可以通过无代码方式在Ocean Protocol完成对数据/算法的NFT创建，同事创建相应的datatoken来控制对数据NFT的访问。Ocean Protocol通过Compute To Data（C2D）来确保数据的隐私性，使用者只能获得根据数据/算法的输出结果，而无法完整下载。Ocean Protocol于2017年成立，作为数据市场，在本轮热潮中很自然地搭上了AI的快车。</p>
+</li>
+<li>
+<p><strong>Synesis One</strong>：该项目是Solana上的Train2Earn平台，用户通过提供自然语言的数据和数据标注来获取$SNS奖励，用户通过提供数据支持挖矿，数据在验证后会进行存储和上链，并由AI公司用来训练和推理。具体来说，挖矿者分为三类：Architect/Builder/Validator，Architect负责创建新的数据任务，Builder在相应的数据任务中提供语料，Validator则对Builder提供的数据集进行验证。完成的数据集会被存入IPFS中，并在链上保存数据来源和IPFS地址们同事会被存储在链下的数据库中供AI公司（目前为Mind AI）使用。</p>
+<p><img alt="Metrics Ventures研报 | 从V神文章出发，Crypto×AI有哪些值得关注的细分赛道？" src="https://cdn-img.panewslab.com/panews/images/QrOn7SYRxw.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</li>
+<li>
+<p><strong>Grass</strong>：被称为AI的去中心化数据层，本质上是一个去中心化网络抓取市场，并以此获得数据来用于AI模型训练。互联网网站是一个重要的AI训练数据来源，包括推特、谷歌、Reddit在内的许多网站的数据都具有重要价值，但这些网站正在不断对数据爬取加以限制。Grass利用个人网络中未使用的带宽，通过使用不同的IP地址来减少数据封锁带来的影响，来抓取公共网站中的数据，完成数据初步清理，成为AI模型训练企业和项目的数据源。目前Grass正处于Beta测试阶段，用户可提供带宽获取积分以领取潜在空投。</p>
+<p><img alt="Metrics Ventures研报 | 从V神文章出发，Crypto×AI有哪些值得关注的细分赛道？" height="934" src="https://cdn-img.panewslab.com/panews/images/Zi31qUM40f.png" style="display: block; margin-left: auto; margin-right: auto;" width="1660" /></p>
+</li>
+<li>
+<p><strong>AIT Protocol</strong>：AIT Protocol是去中心化数据标注协议，旨在为开发者提供高质量数据集用于模型训练。Web3使得全球劳动力能够快速接入网络，并通过数据标注获得激励，AIT的数据科学家将对数据进行预标注，随后由用户进行进一步处理，经过数据科学家检查后，通过质量检测的数据将提供给开发者。</p>
+<p><img alt="Metrics Ventures研报 | 从V神文章出发，Crypto×AI有哪些值得关注的细分赛道？" src="https://cdn-img.panewslab.com/panews/images/3tf8eTx97O.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</li>
+</ul>
+<p>除了上述数据提供和数据标注协议，曾经的去中心化存储类基础设施，如<strong>Filecoin、Arweave</strong>等也将为更分散化的数据供给助力。</p>
+<h4>5.2 去中心化算力</h4>
+<p>AI时代，算力的重要性不言而喻，不仅英伟达的股价日攀高峰，在Crypto世界，去中心化算力可以说是AI赛道炒作最热烈的细分方向——在市值前200的11个AI项目中，做去中心化算力的项目就有5个（Render/Akash/AIOZ Network/Golem/Nosana），并在过去几个月中收获了高倍涨幅。在小市值的项目中也看到许多去中心化算力的平台出现，虽然刚刚起步，但伴随着英伟达大会的浪潮，只要是与GPU沾边，都快速收获了一波大涨。</p>
+<p>从赛道特点来看，这一方向项目的基本逻辑高度同质化——通过代币激励使得拥有闲置算力资源的人或企业提供资源，并由此大幅降低使用费用，建立起算力的供需市场，目前，主要的算力供应来自于数据中心、矿工（尤其在以太坊转为PoS后）、消费级算力以及与其他项目的合作。虽然同质化，但这是一个头部项目拥有较高护城河的赛道，项目的主要竞争优势来源于：算力资源、算力租赁价格、算力使用率以及其他技术优势。这一赛道的龙头项目包括Akash、Render、io.net和Gensyn。</p>
+<p>根据具体业务方向，项目可以被粗分为两类：AI模型推理和AI模型训练。由于AI模型训练对算力和带宽的要求远高于推理，比分布式推理的落地难度更大，且模型推理的市场快速扩展，可预测的收入将在未来大幅高于模型训练，因此目前绝大多数项目主攻推理方向（Akash、Render、<a href="http://io.net" rel="nofollow">io.net</a>），主攻训练方向的龙头即为Gensyn。其中，Akash和Render诞生较早，并非是为AI计算而生，Akash最初用于通用计算，Render则主要应用于视频和图片渲染，io.net则为AI计算专门设计，但在AI将算力需求提升了一个Level后，这些项目都已倾向于AI方面的开发。</p>
+<p>最为重要的两个竞争指标依然来自于供应端（算力资源）和需求端（算力使用率）。Akash拥有282个GPU和超过2万个CPU，已完成16万次租赁，GPU网络的利用率为50-70%，在这一赛道是一个不错的数字。io.net拥有40272个GPU和5958个CPU，同时拥有Render的4318个GPU和159个CPU、Filecoin的1024个GPU的使用许可，其中包括约200块H100和上千块A100，目前已完成推理151,879次，io.net正在用极高的空投预期吸引算力资源，GPU的数据正在快速增长，需要等代币上线后对其吸引资源的能力重新评估。Render和Gensyn则并未公布具体数据。此外，许多项目正在通过生态合作来提高自己在供应与需求端的竞争力，如io.net采用Render和Filecoin的算力来提高自己的资源储备，Render建立了计算客户端计划（RNP-004），允许用户通过计算客户端——<a href="http://io.net" rel="nofollow">io.net</a>、Nosana、FedMl、Beam，来间接接入Render的算力资源，从而快速从渲染领域过渡到人工智能计算。</p>
+<p><img alt="Metrics Ventures研报 | 从V神文章出发，Crypto×AI有哪些值得关注的细分赛道？" src="https://cdn-img.panewslab.com/panews/images/Nyh962Z3Kf.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>此外，去中心化计算的验证依然是一个问题——如何证明拥有算力资源的工作者正确地执行了计算任务。Gensyn正在尝试建立这样一个验证层，通过概率学习证明、基于图的精确定位协议以及激励来保证计算的正确性，其中的验证者和举报者共同对计算进行检查，因此Gensyn除了为去中心化训练提供了算力支持，其建立的验证机制也具有独特价值。位于Solana上的计算协议Fluence同样增加了对计算任务的验证，开发人员可以通过检查链上提供商发布的证明来验证其应用程序是否按预期运行以及计算是否正确执行。但现实的需求依然是”可行“大于”可信“，计算平台必须首先具有足够的算力才有竞争的可能，当然对于出色的验证协议来说，可以选择接入其他平台的算力，成为验证层和协议层来发挥独特作用。</p>
+<h4>5.3 去中心化模型</h4>
+<p>距离Vitalik所描述的终极场景（下图所示）还非常遥远，我们目前还无法实现通过区块链和加密技术创建一个可信任的黑盒AI，来解决对抗性机器学习的问题，将数据训练到查询输出的整个AI运行过程进行加密处理是一笔非常大的开销。但目前正在有项目尝试通过激励机制创建更好的AI模型，首先打通了不同模型之间封闭的状态，创造了模型之间相互学习、协作和良性竞争的格局，Bittensor是其中最具代表性的项目。</p>
+<p><img alt="Metrics Ventures研报 | 从V神文章出发，Crypto×AI有哪些值得关注的细分赛道？" src="https://cdn-img.panewslab.com/panews/images/mh9c5gS1ok.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<ul>
+<li>
+<p><strong>Bittensor</strong>：Bittensor正在促进不同AI模型之间的组合，但值得注意的是，Bittensor本身不进行模型的训练，而是主要提供AI推理的服务。Bittensor的32个子网专注于不同的服务方向，如数据抓取、文本生成、Text2Image等，在完成一项任务时，分属不同方向的AI模型可以相互协作。激励机制促进了子网之间、以及子网内部的竞争，目前奖励以每块1个TAO的速度发放，每日总计发放约7200个TAO代币，SN0（根网络）中的64个验证器根据子网性能，决定了这些奖励在不同子网之间的<a href="https://taostats.io/subnets/netuid-0/" rel="nofollow">分配比例</a>，子网验证器则通过对矿工的工作评价，决定在不同矿工之间的分配比例，由此表现更好的服务、表现更好的模型获得更多激励，促进了系统整体推理质量的提高。</p>
+<p><img alt="Metrics Ventures研报 | 从V神文章出发，Crypto×AI有哪些值得关注的细分赛道？" height="1072" src="https://cdn-img.panewslab.com/panews/images/24Qou8B52a.png" style="display: block; margin-left: auto; margin-right: auto;" width="2000" /></p>
+</li>
+</ul>
+<h3>6 结语：MEME炒作还是技术革命？</h3>
+<p>从Sam Altman动向带来ARKM和WLD的价格疯涨，到英伟达大会带飞一系列参会项目，很多人正在对AI赛道的投资理念发生调整，AI赛道究竟是MEME炒作还是技术革命？</p>
+<p><strong>除了少数名人题材（比如ARKM和WLD），AI赛道整体更像是”以技术叙事为主导的MEME“。</strong></p>
+<p>一方面，Crypto AI赛道的整体炒作一定是与Web2 AI的进展紧密挂钩的，OpenAI为首的外部炒作将成为Crypto AI赛道的导火索。另一方面，AI赛道的故事依然以技术叙事为主，当然，这里我们强调的是”技术叙事“而非”技术“，这就使得对AI赛道细分方向的选择和项目基本面的关注依然重要，我们需要找到有炒作价值的叙事方向，也需要找到有中长期竞争力和护城河的项目。</p>
+<p>从V神提出的四类结合可能中，可以看到的是叙事魅力和落地可能性的相互权衡。在以AI应用为代表的第一类和第二类中，我们看到了许多GPT Wrapper，产品落地快但业务同质化程度也较高，先发优势、生态系统、用户数量和产品收入则成为同质化竞争中可讲的故事。第三类和第四类代表着AI与Crypto结合的宏大叙事，如Agent链上协作网络、zkML、去中心化重塑AI，都处于早期阶段，具有技术创新的项目将会快速吸引资金，即使只是很早期的落地展示。</p>
+]]></content:encoded>
+<pubDate>Mon, 18 Mar 2024 15:30:25 +0800</pubDate>
+<pubDate>Mon, 18 Mar 2024 15:30:25 +0800</pubDate>
+</item>
+
+<item>
 <title>一览英伟达GTC大会之后或获益最大的10个AI独角兽</title>
 <link>https://www.panewslab.com/zh/articledetails/hed99h93.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/hed99h93.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了在2024年第一季度可能获益最大的10个人工智能（AI）项目，这些项目在 Nvidia GTC会议上备受期待。涵盖的项目包括：Oraichain（ORAI）、LayerAI（LAI）、enqAI（ENQAI）、RSS3、Autonolas（OLAS）、AIOZ Network（AIOZ）、Numbers Protocol（NUM）、AIT Protocol（AIT）、ChainGPT（CGPT）和GraphLinq Chain（GLQ）。这些项目涵盖了各个领域，如区块链预言机、数据索引协议、自动化应用程序构建平台等，展现了人工智能在不同领域的应用潜力。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章介绍了在2024年第一季度可能获益最大的10个人工智能（AI）项目，这些项目在 Nvidia GTC会议上备受期待。涵盖的项目包括：Oraichain（ORAI）、LayerAI（LAI）、enqAI（ENQAI）、RSS3、Autonolas（OLAS）、AIOZ Network（AIOZ）、Numbers Protocol（NUM）、AIT Protocol（AIT）、ChainGPT（CGPT）和GraphLinq Chain（GLQ）。这些项目涵盖了各个领域，如区块链预言机、数据索引协议、自动化应用程序构建平台等，展现了人工智能在不同领域的应用潜力。 <div>
 <p>作者：<a href="https://twitter.com/0xAndrewMoh/status/1769033774510317770" rel="nofollow">andrew.moh</a>, 加密KOL</p>
 <p>编译：Felix, PANews</p>
 <p>在一年内获得400%的收益听起来可能不切实际，但通过掌握叙事和催化剂便可做到。叙事+催化剂是实现利润最大化的有效途径。2024年第一季度，领先的风投公司对AI项目的兴趣和投资激增，AI叙事已是大势所趋。</p>
@@ -88,9 +275,7 @@
 <p>相关阅读：<a href="https://www.panewslab.com/zh/articledetails/2od72d1m.html">2024将是AI代币年？速览10个小市值的AI新项目</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 18 Mar 2024 15:22:10 +0800</pubDate>
-<pubDate>Mon, 18 Mar 2024 15:22:10 +0800</pubDate>
 </item>
-
 <item>
 <title>重新了解WEB3社交"准新"项目MASK NETWORK</title>
 <link>https://www.panewslab.com/zh/articledetails/yqs443rdhjx6.html</link>
