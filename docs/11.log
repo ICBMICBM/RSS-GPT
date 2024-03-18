@@ -2823,3 +2823,12 @@ Existing_entries: 66
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-18 21:53:49.378028
+------------------------------------------------------
+Started: 2024-03-18 22:03:12.901518
+Existing_entries: 66
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 25
+Summarized using GPT-3.5-turbo-1106
+Append: [Crypto Firm Bakkt Shakes Up Leadership, Names Board Member Andy Main New CEO](https://www.coindesk.com/business/2024/03/18/crypto-firm-bakkt-shakes-up-leadership-names-board-member-andy-main-new-ceo/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-18 22:03:16.281013
