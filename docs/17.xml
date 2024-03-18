@@ -5,11 +5,23 @@
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
 <item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投。Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等也参投。此次融资将用于招聘跨职能部门人员，将团队规模扩大至约80人，加强产品、工程、业务开发和营销。本轮融资和之前四轮融资均采用未来代币或 SAFT 简单协议。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
+
+<item>
 <title>【长推】构建 zkBridge 跨链桥：B² Network 如何用 BitVM 挑战机制落地双向管道？</title>
 <link>https://twitter.com/tmel0211/status/1769231704508809435</link>
 <guid>https://twitter.com/tmel0211/status/1769231704508809435</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了B² Network如何利用zkBridge实现资产跨BTC到Layer2的双向安全桥接。作者提到了同构链和异构链的跨链桥方案，以及B²在处理资产流入和流出双向Channel跨链问题中面临的技术挑战。具体涉及了Polyhedra提供的zkBridge跨链桥方案，以及B²特有的BitVM挑战者机制。整体而言，B² Network倾向于更加技术化的方式来处理BTC跨链问题。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章介绍了B² Network如何利用zkBridge实现资产跨BTC到Layer2的双向安全桥接。作者提到了同构链和异构链的跨链桥方案，以及B²在处理资产流入和流出双向Channel跨链问题中面临的技术挑战。具体涉及了Polyhedra提供的zkBridge跨链桥方案，以及B²特有的BitVM挑战者机制。整体而言，B² Network倾向于更加技术化的方式来处理BTC跨链问题。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>相比其他 BTC 跨链解决方案，以「模块化 B² Hub」、「BitVM 挑战者模式」等为核心构建的 B² Network 似乎倾向于更 Technical 的方式。加密研究员 Haotian 撰文解析 B² Network 如何基于 zkBridge 实现资产跨 BTC 到 Layer2 的双向安全桥接。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/tmel0211/status/1769231704508809435">https://twitter.com/tmel0211/status/1769231704508809435</a></p>
 <p><strong>文章作者：</strong></p><p>Haotian</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Haotian：</strong>同构链跨链桥：「同构链」指代双边都支持智能合约的链。存在两种资金管理模型：
@@ -20,21 +32,18 @@
 1）从 Bitcoin 到 B2 资产流入时，B² 采用了 Ployhedra 提供的 zkBridge 跨链桥方案。具体而言：B² 公开了一个 MPC+TSS 可信安全多签地址用来存入 BTC 资产，zkOracle 节点监控并记录到资产流入后，会将存入状态生成 ZK Proof 证明，传递给部署在 B² 上的 AA 智能合约，合约校验 ZK 证明信息无误后，向用户在 B² 链的地址 Mint 释放资产。
 2）从 B² 向 Bitcoin 流出 Withdraw 资产时，B² 则联合 Polyhedra 特别定制了跨链桥。简单来说，用户在 B² 发起资产 Withdraw 请求时，合约会把该请求在 B² Hub 中发起一个 Proposal，由其他 Validators 验证是否准予通过。大多数选择 Approve 等同于请求合法，投票结果会以 ZK Proof 形式传递到 MPC+TSS 多签地址，由该地址向用户释放资产。如果用户请求被 Validator 非法拒绝，可向 B² Hub 发起挑战，验证节点会因执行错误决策收到惩罚。所谓特别定制，其实就是在 zkBridge 的基础上加上了 B² 特有的 BitVM 挑战者机制，以确保资产向非智能合约平台流入时的状态处理安全。</p><a href="https://twitter.com/tmel0211/status/1769231704508809435">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-18T04:25:00+00:00</pubDate>
 </item>
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Polyhedra Network 以 10 亿美元估值完成了 2000 万美元的战略融资，主要投资方包括Polychain Capital、Animoca Brands等。他们计划用这笔资金扩大团队规模，从目前的50人扩充到80人，并招聘不同职能的人员来支持产品、工程、业务开发和营销等部门。这是通过未来代币或SAFT协议进行的第五轮融资，目的是加强开发和推广他们的互操作协议zkBridge。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。Polyhedra Network 以 10 亿美元估值完成了 2000 万美元的战略融资，主要投资方包括Polychain Capital、Animoca Brands等。他们计划用这笔资金扩大团队规模，从目前的50人扩充到80人，并招聘不同职能的人员来支持产品、工程、业务开发和营销等部门。这是通过未来代币或SAFT协议进行的第五轮融资，目的是加强开发和推广他们的互操作协议zkBridge。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
-
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
