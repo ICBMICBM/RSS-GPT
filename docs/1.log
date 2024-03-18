@@ -2449,3 +2449,18 @@ Existing_entries: 73
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-18 14:00:25.921883
+------------------------------------------------------
+Started: 2024-03-18 14:16:45.865484
+Existing_entries: 73
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 465
+Summarized using GPT-3.5-turbo-1106
+Append: [Coit将通过空投向其原生代币持有者分发价值1000万美元的Coti v2代币](https://www.panewslab.com/zh/sqarticledetails/1f9k0g3u.html)
+Token length: 75
+Summarized using GPT-3.5-turbo-1106
+Append: [Milady Wif Hat预售数量已升至8万枚SOL](https://www.panewslab.com/zh/sqarticledetails/9eflpu8j.html)
+Token length: 6466
+Summarized using GPT-3.5-turbo-1106
+Append: [区块链架构新时代，全面盘点35个模块化协议](https://www.panewslab.com/zh/articledetails/qey70htf.html)
+append_entries: 3
+Finish: 2024-03-18 14:16:58.991561
