@@ -2841,3 +2841,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Fidelity Adds Staking to Ether ETF Application, Sending LIDO Up 9%](https://www.coindesk.com/business/2024/03/18/fidelity-adds-staking-to-ether-etf-application-sending-lido-up-9/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-18 22:19:30.236841
+------------------------------------------------------
+Started: 2024-03-18 22:28:42.944324
+Existing_entries: 68
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-03-18 22:28:43.302709
