@@ -2110,3 +2110,27 @@ Summarized using GPT-3.5-turbo-1106
 Append: [RuneStone地板价涨至0.0292 BTC，总成交额已达278 BTC](https://www.panewslab.com/zh/sqarticledetails/lxg4lcak.html)
 append_entries: 48
 Finish: 2024-03-18 09:02:12.843567
+------------------------------------------------------
+Started: 2024-03-18 09:31:12.119968
+Existing_entries: 48
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 324
+Summarized using GPT-3.5-turbo-1106
+Append: [Meme项目SLERF将于今日上线多个交易所](https://www.panewslab.com/zh/sqarticledetails/55why380.html)
+Token length: 226
+Summarized using GPT-3.5-turbo-1106
+Append: [SLERF创始人：没有足够资金向预售用户退款，且没有修复误操作的方法](https://www.panewslab.com/zh/sqarticledetails/jcaia3ve.html)
+Token length: 2310
+Summarized using GPT-3.5-turbo-1106
+Append: [探究Meme的价值：金融虚无主义，一种新型社会保障](https://www.panewslab.com/zh/articledetails/9j9mqhcl.html)
+Token length: 174
+Summarized using GPT-3.5-turbo-1106
+Append: [一地址通过交易SLERF在12分钟内赚取约302万美元](https://www.panewslab.com/zh/sqarticledetails/ri9gj0rl.html)
+Token length: 3245
+Summarized using GPT-3.5-turbo-1106
+Append: [LD Capital: 重回AI的NEAR，叠加多重叙事或迎来价值发现？](https://www.panewslab.com/zh/articledetails/6yo7fn9324w1.html)
+Token length: 1910
+Summarized using GPT-3.5-turbo-1106
+Append: [构建zkBridge跨链桥：B² Network如何用BitVM挑战机制落地双向管道？](https://www.panewslab.com/zh/articledetails/155o0oci.html)
+append_entries: 6
+Finish: 2024-03-18 09:31:43.109259
