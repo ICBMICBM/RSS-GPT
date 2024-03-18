@@ -2290,3 +2290,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [某巨鲸以514万枚SLERF持仓成为SLERF第二大个人持币地址](https://www.panewslab.com/zh/sqarticledetails/droy0pem.html)
 append_entries: 4
 Finish: 2024-03-18 10:56:44.438412
+------------------------------------------------------
+Started: 2024-03-18 11:09:29.044239
+Existing_entries: 54
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 638
+Summarized using GPT-3.5-turbo-1106
+Append: [Figure Markets完成6000万美元A轮融资，Jump Crypto、Pantera Capital等领投](https://www.panewslab.com/zh/sqarticledetails/cew6o7yw.html)
+Token length: 145
+Summarized using GPT-3.5-turbo-1106
+Append: [StarkNet联创：SLERF销毁过程若没使用Raydium合约，则无法找回](https://www.panewslab.com/zh/sqarticledetails/nrp144bl.html)
+Token length: 3132
+Summarized using GPT-3.5-turbo-1106
+Append: [如果以太坊现货ETF被拒了，该怎么办？](https://www.panewslab.com/zh/articledetails/8q0b7wz3.html)
+append_entries: 3
+Finish: 2024-03-18 11:09:40.405143
