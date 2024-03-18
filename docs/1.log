@@ -1567,3 +1567,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Solana一词在谷歌趋势的搜索热度已达到100，创历史最高值](https://www.panewslab.com/zh/sqarticledetails/16at2yf4.html)
 append_entries: 1
 Finish: 2024-03-18 03:25:54.929924
+------------------------------------------------------
+Started: 2024-03-18 03:34:20.769075
+Existing_entries: 81
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 10350
+Summarized using GPT-3.5-turbo-1106
+Append: [融资周报 | 公开融资事件35起；Eclipse Labs完成5000万美元A轮融资，Placeholder和Hack VC共同领投](https://www.panewslab.com/zh/articledetails/c3lg750b.html)
+append_entries: 1
+Finish: 2024-03-18 03:34:27.732053
