@@ -2661,3 +2661,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [FTX Claims Holder Attestor Takes Creditor to Court Over Alleged 'Seller’s Remorse'](https://www.coindesk.com/policy/2024/03/18/ftx-claims-holder-attestor-takes-creditor-to-court-over-alleged-sellers-remorse/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-18 17:55:37.838624
+------------------------------------------------------
+Started: 2024-03-18 18:11:19.115417
+Existing_entries: 64
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-03-18 18:11:19.406754
