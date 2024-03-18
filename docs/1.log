@@ -2356,3 +2356,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [链上数据：萨尔瓦多钱包已收到200笔捐款，且每天增持1枚比特币](https://www.panewslab.com/zh/sqarticledetails/dcj5m3tu.html)
 append_entries: 1
 Finish: 2024-03-18 11:55:52.836413
+------------------------------------------------------
+Started: 2024-03-18 12:16:30.033669
+Existing_entries: 62
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 60
+Summarized using GPT-3.5-turbo-1106
+Append: [SLERF已跌至0.4502美元，1小时跌幅达43.6%](https://www.panewslab.com/zh/sqarticledetails/igdmrs29.html)
+Token length: 6104
+Summarized using GPT-3.5-turbo-1106
+Append: [Web3安全警示丨 链上打新局中局，大规模Rug Pull手法解密](https://www.panewslab.com/zh/articledetails/5shb7xd9.html)
+Token length: 113
+Summarized using GPT-3.5-turbo-1106
+Append: [SLERF创始人：会尽力解决问题，有意愿让预售者恢复完整](https://www.panewslab.com/zh/sqarticledetails/x0u4lxaj.html)
+append_entries: 3
+Finish: 2024-03-18 12:16:39.090034
