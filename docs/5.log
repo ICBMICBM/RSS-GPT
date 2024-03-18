@@ -1690,3 +1690,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Ethena - The Goddess of Yield](https://messari.io/article/ethena-the-goddess-of-yield)
 append_entries: 13
 Finish: 2024-03-18 10:37:48.333111
+------------------------------------------------------
+Started: 2024-03-18 10:56:45.466275
+Existing_entries: 13
+Fetching from https://messari.io/rss
+append_entries: 0
+Finish: 2024-03-18 10:56:46.143762
