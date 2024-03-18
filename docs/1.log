@@ -1744,3 +1744,12 @@ Existing_entries: 92
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-18 07:22:06.764305
+------------------------------------------------------
+Started: 2024-03-18 07:29:35.183361
+Existing_entries: 92
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 1603
+Summarized using GPT-3.5-turbo-1106
+Append: [一览英伟达GTC大会之后或获益最大的10个AI独角兽](https://www.panewslab.com/zh/articledetails/hed99h93.html)
+append_entries: 1
+Finish: 2024-03-18 07:29:40.823212
