@@ -1842,3 +1842,39 @@ Existing_entries: 10
 Fetching from https://blog.chainalysis.com/feed
 append_entries: 0
 Finish: 2024-03-18 09:31:43.938499
+------------------------------------------------------
+Started: 2024-03-18 10:36:16.387575
+Existing_entries: 0
+Fetching from https://blog.chainalysis.com/feed
+Token length: 5028
+Summarized using GPT-3.5-turbo-1106
+Append: [2023 Cryptocurrency Gains by Country](https://www.chainalysis.com/blog/cryptocurrency-gains-by-country-2023/)
+Token length: 4973
+Summarized using GPT-3.5-turbo-1106
+Append: [Best of Public Key’s Pig Butchering Discussions – Ep. 98](https://www.chainalysis.com/blog/best-of-pig-butchering-episode-ep-98/)
+Token length: 54752
+Summarized using GPT-3.5-turbo-1106
+Append: [2024 Chainalysis Crypto Crime Report Preview – Ep. 97](https://www.chainalysis.com/blog/crypto-crime-report-preview-ep-97/)
+Token length: 5747
+Summarized using GPT-3.5-turbo-1106
+Append: [DeFi Regulation: Practical Next Steps to Make the Industry Safer](https://www.chainalysis.com/blog/defi-regulation-practical-next-steps-to-make-the-industry-safer/)
+Token length: 35840
+Summarized using GPT-3.5-turbo-1106
+Append: [Uncovering the World of Seized Digital Assets: Podcast Ep. 96](https://www.chainalysis.com/blog/seized-digital-assets-joanna-summers-podcast/)
+Token length: 7577
+Summarized using GPT-3.5-turbo-1106
+Append: [The On-chain Footprint of Southeast Asia’s ‘Pig Butchering’ Compounds: Human Trafficking, Ransoms, and Hundreds of Millions Scammed](https://www.chainalysis.com/blog/pig-butchering-human-trafficking/)
+Token length: 6188
+Summarized using GPT-3.5-turbo-1106
+Append: [U.S. and U.K. Disrupt Lockbit Ransomware Group and Indict Two Russian Nationals While OFAC Levies Sanctions](https://www.chainalysis.com/blog/lockbit-takedown-sanctions-february-2024/)
+Token length: 44100
+Summarized using GPT-3.5-turbo-1106
+Append: [Everything You Need To Know About Stablecoin Regulation Podcast Ep. 95](https://www.chainalysis.com/blog/stablecoin-regulation-corey-then-caroline-malcolm-ep-95/)
+Token length: 12816
+Summarized using GPT-3.5-turbo-1106
+Append: [Money Laundering Activity Spread Across More Service Deposit Addresses in 2023, Plus New Tactics from Lazarus Group](https://www.chainalysis.com/blog/2024-crypto-money-laundering/)
+Token length: 54475
+Summarized using GPT-3.5-turbo-1106
+Append: [Future of Blockchain Investing with Alon Goren – Ep 94](https://www.chainalysis.com/blog/blockchain-investing-ep-94/)
+append_entries: 10
+Finish: 2024-03-18 10:37:01.565281
