@@ -4,6 +4,41 @@
 <title>Bitcoinist.com</title>
 <link>https://bitcoinist.com</link>
 
+<item>
+<title>Bitcoin Hashrate Plunges From All-Time High, But Why?</title>
+<link>https://bitcoinist.com/bitcoin-hashrate-plunges-from-all-time-high-but-why/</link>
+<guid>https://bitcoinist.com/bitcoin-hashrate-plunges-from-all-time-high-but-why/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是消极的。最近比特币挖矿算力急剧下降，导致了7天平均比特币挖矿算力的新高峰。这种下降可能是由于比特币价格下跌导致的挖矿收入下降，挖矿难度创新高以及即将到来的减半事件引起的。挖矿者可能会因此选择离开网络，以避免损失。当前比特币价格约为68000美元，过去一周下跌5%。 <div>
+<p>On-chain data shows the Bitcoin mining hashrate has registered a plunge from the fresh all-time high (ATH) it had just recently set.</p>
+<h2>Bitcoin Mining Hashrate Has Dived Down Recently</h2>
+<p>As the Bitcoin network works on the <a href="https://bitcoinist.com/ethereum-proof-of-work-fork-dates-unveiled/" rel="noopener " target="_blank">proof-of-work (PoW)</a> consensus mechanism, validators called miners have to compete with each other using computing power to get a chance to add the next block to the chain.</p>
+<p>The total measure of this computing power that&#8217;s currently connected to the BTC blockchain is known as the <a href="https://bitcoinist.com/bitcoin-hashrate-rebounds-smashes-all-time-high/" rel="noopener " target="_blank">&#8220;mining hashrate</a>.&#8221; This metric can directly correlate to the security of the network, since if a malicious entity has to succeed in an attack, it has to take over at least 51% of the total computing power.</p>
+
+<p>Naturally, when the hashrate goes up, so does the resistance of the blockchain, as there is more machines to hack before the 51% target can be achieved. This is only, of course, given that the new hashrate being added is sufficiently decentralized.</p>
+<p>Now, here is a chart that shows the trend in the 7-day average Bitcoin mining hashrate over the past year:</p>
+<p style="text-align: center;"><img alt="Bitcoin Mining Hashrate" class="alignnone wp-image-287897 size-large" height="411" src="https://bitcoinist.com/wp-content/uploads/2024/03/chart_cab8de.png?resize=980%2C411" width="980" /></p>
+
+<p>As displayed in the above graph, the 7-day average Bitcoin mining hashrate set a new ATH just a few days back. Since then, though, the indicator&#8217;s value has plunged down.</p>
+<p>This decline would suggest that some miners have decided to disconnect from the blockchain. As for why this drop in the metric has occurred, there are likely to be a few reasons contributing to the trend.</p>
+<p>The first and perhaps the most obvious is the fact that the Bitcoin price itself has plummeted from its latest high. Miners get their revenue from two sources, the block rewards and transaction fees, but the former is the one that makes up for the majority of their income.</p>
+<p>The block rewards also happen to remain fixed in their BTC value, meaning that their USD value is really the only variable for the revenue of the miners as a whole. Obviously, when the asset&#8217;s price goes up, so does the value of these rewards.</p>
+<p>With the recent price drop, the miner revenue has also tumbled in value. The miners who were already observing thin margins, like those situated in places with high electricity prices, may have decided it&#8217;s not worth staying connected to the network after the price drawdown.</p>
+<p>At the same time as the crash has hit, the <a href="https://bitcoinist.com/bitcoin-mining-difficulty-soars-7-what-does-it-mean/" rel="noopener " target="_blank">mining difficulty</a> has also shot up to a new ATH. The difficulty is a feature of the Bitcoin network that controls how hard miners would find it to mine on the network.</p>
+<p><img alt="Bitcoin Difficulty" class="alignnone wp-image-287898 size-large aligncenter" height="413" src="https://bitcoinist.com/wp-content/uploads/2024/03/chart_117c6b.png?resize=980%2C413" width="980" /></p>
+
+<p>The concept of mining difficulty exists so as to ensure that miners can&#8217;t just add extra computing power to the chain to mine new blocks faster and receive new rewards faster.</p>
+<p>The implication of the difficulty is that any new hashrate added to the network is essentially new competition for the existing hashrate, as they all compete for the same fixed BTC rewards. With the difficulty now at an ATH, miners&#8217; individual revenues would have naturally taken a hit.</p>
+
+<p>Lastly, there is also the fact that the next halving, an event where BTC&#8217;s block rewards would be permanently slashed in half, is also due next month, which would drastically affect the miners&#8217; income.</p>
+<p>Miners around the world would be coming up with strategies to deal with the halving and for some, it may even mean leaving the network behind, at least for now.</p>
+<h2>BTC Price</h2>
+<p>At the time of writing, Bitcoin is trading around $68,000, down 5% over the past week.</p>
+<p><img alt="Bitcoin Price Chart" class="alignnone size-medium aligncenter" height="854" src="https://www.tradingview.com/x/w4Fkjeht/" width="1534" /></p>
+]]></content:encoded>
+<pubDate>Mon, 18 Mar 2024 16:00:39 +0000</pubDate>
+<pubDate>Mon, 18 Mar 2024 16:00:39 +0000</pubDate>
+</item>
 
 <item>
 <title>Shiba Inu Burn Rate Sees Incredible 2,300% Increase In One Day – Details</title>
