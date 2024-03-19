@@ -3360,3 +3360,21 @@ Existing_entries: 87
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-19 11:57:47.565821
+------------------------------------------------------
+Started: 2024-03-19 12:22:53.380436
+Existing_entries: 87
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 47
+Summarized using GPT-3.5-turbo-1106
+Append: [EU Lawmakers Vote for Three Major Texts in Anti-Money Laundering Package That Also Targets Crypto](https://www.coindesk.com/policy/2024/03/19/eu-lawmakers-vote-for-three-major-texts-in-anti-money-laundering-package-that-also-targets-crypto/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 31
+Summarized using GPT-3.5-turbo-1106
+Append: [Stablecoin Project Gyroscope to Conduct Points Program, Launch High-Yield Liquidity Pools](https://www.coindesk.com/business/2024/03/19/stablecoin-project-gyroscope-to-conduct-points-program-launch-high-yield-liquidity-pools/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 13
+Summarized using GPT-3.5-turbo-1106
+Append: [First Mover Americas: Bitcoin Slumps, Liquidations Surge](https://www.coindesk.com/markets/2024/03/19/first-mover-americas-bitcoin-slumps-liquidations-surge/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 25
+Summarized using GPT-3.5-turbo-1106
+Append: [Citi and Brazilian Development Bank Join Hyperledger Foundation](https://www.coindesk.com/markets/2024/03/19/citi-and-brazilian-development-bank-join-hyperledger-foundation/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 4
+Finish: 2024-03-19 12:23:06.917854
