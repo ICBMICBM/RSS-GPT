@@ -3931,3 +3931,15 @@ Existing_entries: 167
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-19 23:36:43.895458
+------------------------------------------------------
+Started: 2024-03-19 23:44:03.246131
+Existing_entries: 167
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 237
+Summarized using GPT-3.5-turbo-1106
+Append: [Immutable、King River Capital和Polygon Labs合作成立1亿美元Web3游戏基金](https://www.panewslab.com/zh/sqarticledetails/9342sgs9.html)
+Token length: 138
+Summarized using GPT-3.5-turbo-1106
+Append: [美国SEC推迟对Hashdex和Ark 21Shares以太坊现货ETF做出决定](https://www.panewslab.com/zh/sqarticledetails/w5hmuzi0.html)
+append_entries: 2
+Finish: 2024-03-19 23:44:09.698849
