@@ -3259,3 +3259,18 @@ Existing_entries: 125
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-19 08:58:51.121084
+------------------------------------------------------
+Started: 2024-03-19 09:13:57.056447
+Existing_entries: 125
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 391
+Summarized using GPT-3.5-turbo-1106
+Append: [香港证监会：提防伪冒持牌机构并从事虚拟资产诈骗行为的可疑网站“KKR Global”](https://www.panewslab.com/zh/sqarticledetails/6az51fdh.html)
+Token length: 1911
+Summarized using GPT-3.5-turbo-1106
+Append: [加密市场时评：Solana持续吸血，渣打喊单BTC年底涨到15万美元](https://www.panewslab.com/zh/articledetails/09r6imvb.html)
+Token length: 1418
+Summarized using GPT-3.5-turbo-1106
+Append: [Bybit Web3 以 $100,000 $MERL 空投点燃 BTC Layer2 赛季](https://www.panewslab.com/zh/articledetails/slch5h2z.html)
+append_entries: 3
+Finish: 2024-03-19 09:14:13.036962
