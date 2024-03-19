@@ -3546,3 +3546,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Sygnum Tokenizes $50M of Fidelity International Fund as Matter Labs Moves Reserves to Blockchain](https://www.coindesk.com/business/2024/03/19/sygnum-tokenizes-50m-of-fidelity-international-fund-as-matter-labs-moves-reserves-to-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-19 16:43:40.327169
+------------------------------------------------------
+Started: 2024-03-19 16:51:03.151141
+Existing_entries: 97
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 14
+Summarized using GPT-3.5-turbo-1106
+Append: [Optimism Finally Starts Testing 'Fault Proofs' at Heart of Design – and of Criticism](https://www.coindesk.com/tech/2024/03/19/optimism-finally-starts-testing-fault-proofs-at-heart-of-design-and-of-criticism/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-19 16:51:07.217165
