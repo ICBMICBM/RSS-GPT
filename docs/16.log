@@ -3025,3 +3025,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round )
 append_entries: 1
 Finish: 2024-03-19 05:16:54.116188
+------------------------------------------------------
+Started: 2024-03-19 05:28:09.718204
+Existing_entries: 206
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 793
+Summarized using GPT-3.5-turbo-1106
+Append: [【长推】介绍 CKB 最新推出的 DOB 协议 Spore](https://twitter.com/Diana19959295/status/1769600492441940400)
+Token length: 266
+Summarized using GPT-3.5-turbo-1106
+Append: [ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round )
+append_entries: 2
+Finish: 2024-03-19 05:28:15.830757

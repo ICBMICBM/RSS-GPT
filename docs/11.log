@@ -3048,3 +3048,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [BTC Maintains $65K as GBTC Outflows Hit Highest Level Ever](https://www.coindesk.com/markets/2024/03/19/btc-maintains-65k-as-gbtc-outflows-hit-highest-level-ever/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 2
 Finish: 2024-03-19 05:16:42.179570
+------------------------------------------------------
+Started: 2024-03-19 05:28:05.655099
+Existing_entries: 71
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 53
+Summarized using GPT-3.5-turbo-1106
+Append: [FTX Users Describe 'Emotional Toll' From Bankruptcy in Letters to Judge Ahead of Sam Bankman-Fried's Sentencing](https://www.coindesk.com/policy/2024/03/19/ftx-users-describe-emotional-toll-from-bankruptcy-in-letters-to-judge-ahead-of-sam-bankman-frieds-sentencing/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-19 05:28:08.700147
