@@ -3561,3 +3561,15 @@ Existing_entries: 98
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-19 16:58:31.033675
+------------------------------------------------------
+Started: 2024-03-19 17:13:02.053284
+Existing_entries: 98
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 44
+Summarized using GPT-3.5-turbo-1106
+Append: [Spot Bitcoin ETFs Are Just the Beginning for Wall Street](https://www.coindesk.com/consensus-magazine/2024/03/19/spot-bitcoin-etfs-are-just-the-beginning-for-wall-street/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 113
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin Halving Is a ‘Show Me the Money’ Moment for Miners](https://www.coindesk.com/consensus-magazine/2024/03/19/bitcoin-halving-is-a-show-me-the-money-moment-for-miners/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 2
+Finish: 2024-03-19 17:13:06.984582
