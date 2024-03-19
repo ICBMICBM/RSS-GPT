@@ -2406,3 +2406,12 @@ Existing_entries: 21
 Fetching from https://www.newsbtc.com/feed
 append_entries: 0
 Finish: 2024-03-18 23:53:17.165454
+------------------------------------------------------
+Started: 2024-03-19 00:25:13.668309
+Existing_entries: 21
+Fetching from https://www.newsbtc.com/feed
+Token length: 2534
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin Has Undergone This Bearish Structure Change, Analyst Explains](https://www.newsbtc.com/bitcoin-news/bitcoin-undergone-bearish-analyst-explains/)
+append_entries: 1
+Finish: 2024-03-19 00:25:16.745629
