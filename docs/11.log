@@ -3207,3 +3207,15 @@ Existing_entries: 78
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-19 08:51:35.264699
+------------------------------------------------------
+Started: 2024-03-19 08:58:56.240423
+Existing_entries: 78
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 97
+Summarized using GPT-3.5-turbo-1106
+Append: [World's Largest Pension Fund Seeks Information on Bitcoin Under the Portfolio Diversification Plan](https://www.coindesk.com/business/2024/03/19/worlds-largest-pension-fund-seeks-information-on-bitcoin-under-the-portfolio-diversification-plan/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 14
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin’s Slump Sees Crypto Bulls Staring at $440M in Liquidations](https://www.coindesk.com/markets/2024/03/19/bitcoins-slump-sees-crypto-bulls-staring-at-440m-in-liquidations/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 2
+Finish: 2024-03-19 08:59:05.439892
