@@ -3348,3 +3348,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bank of Japan Ends Eight-Year Negative Rates Regime; Bitcoin Slides to $62.7K](https://www.coindesk.com/markets/2024/03/19/bank-of-japan-ends-eight-year-negative-rates-regime-bitcoin-slides-to-627k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 2
 Finish: 2024-03-19 11:42:55.365194
+------------------------------------------------------
+Started: 2024-03-19 11:50:14.010437
+Existing_entries: 87
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-03-19 11:50:14.708219
