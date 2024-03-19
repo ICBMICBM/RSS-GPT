@@ -3792,3 +3792,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Immutable, King River Capital, Polygon Labs Set Up $100M Web3 Gaming Fund](https://www.coindesk.com/web3/2024/03/19/immutable-king-river-capital-polygon-labs-set-up-100m-web3-gaming-fund/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-19 22:13:29.919301
+------------------------------------------------------
+Started: 2024-03-19 22:26:25.570321
+Existing_entries: 107
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-03-19 22:26:25.884481
