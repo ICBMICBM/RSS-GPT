@@ -5,16 +5,275 @@
 <link>https://rss.panewslab.com/</link>
 
 <item>
+<title>详解ZetaChain：多链和跨链通信迎来竞争新格局</title>
+<link>https://www.panewslab.com/zh/articledetails/y5p64e546050.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/y5p64e546050.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。ZetaChain是一个旨在解决不同区块链之间互操作性问题的项目，具有全链互操作性和全链智能合约功能。ZetaChain的架构和工作原理包括通过Cosmos SDK和Tendermint共识实现跨链消息传递和全链智能合约。与LayerZero和Axelar等竞争对手相比，ZetaChain拥有独特的优势，如ZETA代币的多功能性和生态系统发展计划。总体而言，ZetaChain为区块链间的跨链通信和多链通信问题提供了创新解决方案。 <div>
+<p dir="ltr">作者：YBB Capital Researcher Ac-Core</p>
+<p dir="ltr">ZetaChain(ZETA) 是第一层区块链，旨在弥合各种区块链网络之间的差距，利用Cosmos SDK和Tendermint共识机制，使开发人员能够自定义构建可扩展的互操作性应用。该平台使去中心化应用程序（DApps）能够利用多个区块链的功能来解决现阶段跨链协议所存在的问题，并实现全链跨链功能，选用Omnichain 智能合约和 ZetaEVM 引擎促使互操作性，让 ZetaChain 成为集成枢纽。</p>
+<h3 dir="ltr">ZetaChain 工作原理</h3>
+<p dir="ltr"><img alt="详解ZetaChain：多链和跨链通信迎来竞争新格局" height="1078" src="https://cdn-img.panewslab.com/panews/images/yJBh48j8bV.png" style="display: block; margin-left: auto; margin-right: auto;" width="2048" /></p>
+<pre dir="ltr">图源：ZetaChain官网</pre>
+<p dir="ltr">ZetaChain 利用 Cosmos SDK ，以Tendermint 共识引擎和权益证明（PoS）模型为基础，展现了全链互操作性的独特能力，并将自身代币作为Gas费用，具备扩展全链EVM智能合约的优势。据Jed Barker介绍， ZetaChain 的运作方式如下所述：</p>
+<ol>
+<li dir="ltr">
+<p dir="ltr">OmniChain 智能合约：ZetaChain 的核心是能够与多个区块链对接的智能合约。这些 智能合约由兼容以太坊虚拟机的ZetaEVM 引擎提供支持，可实现跨不同区块链的数据交互；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">无缝资产转移：简化区块链之间的资产转移，无需复杂的桥接。这包括支持没有本地智能合约功能的区块链，如比特币；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">跨链消息传递：对于更简单的数据交换（如 NFT 传输），ZetaChain 提供跨链消息传递功能，便于在不同网络间进行轻量级数据传输；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">管理外部资产：ZetaChain 将其功能扩展到管理其他区块链上的资产，将智能合约逻辑应用到通常缺乏此功能的链上。</p>
+</li>
+</ol>
+<h3 dir="ltr">ZetaChain架构：</h3>
+<p dir="ltr">Zeta 与其他架构一样，可以提供许多跨链消息传递功能，但它的独特优势在于支持全链 EVM 合约，即"带有智能合约的 THORChain "或 "带有 EVM 的 Axelar"。其使用 Cosmos SDK 和 CometBFT 共识构建 PoS 区块链，这点与THORChain 一样，Zeta 将 ZETA 代币用作跨链消息传递的路由代币。</p>
+<p dir="ltr">以下是解释说明，ZetaCore 是生成区块和运行 Layer1 的客户端，与其他 PoS 区块链类似，ZetaClient 负责跨链操作，其他节点需同时运行 ZetaCore 和 ZetaClient 。Zeta 节点执行三个关键功能：验证、观察和签名，三个不同的角色都由每个节点操作负责。该架构可实现两个关键功能：Omnichain 智能合约和跨链消息传递。</p>
+<p dir="ltr"><img alt="详解ZetaChain：多链和跨链通信迎来竞争新格局" height="822" src="https://cdn-img.panewslab.com/panews/images/sZ5DpSNX58.png" style="display: block; margin-left: auto; margin-right: auto;" width="1238" /></p>
+<pre dir="ltr">图源：Delphi Creative</pre>
+<ul>
+<li dir="ltr">
+<p dir="ltr">验证者（Validators）：标准 CometBFT 验证者，他们与其他 PoS 链一样，为 ZETA 注资并对区块进行投票；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">观察者（Observers）：观察者将需要运行外部链的完整节点分为排序器和校验器，排序监管外部链上的事件并将其发送给验证者，验证者对事件进行投票并达成共识。排序器的作用只是为了保证有效性，任何节点都可以对交易进行排序。这使运行 Zeta 节点比运行标准链的耗费更高，这一点与 THORChain 类似，这也是 THORChain为什么没有添加 Solana 支持的原因之一；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">签名者（Signers)：节点之间共享 ECDSA/EdDSA 密钥，只有超多数（2/3）才能签署外部链上的交易。签名者是 Zeta 在外部链上保管资产和签署信息的方式。在以太坊等智能合约平台上，它们可用于与智能合约和托管资产进行交互，也可用于托管比特币和 Dogecoin 等非智能合约链上的资产，下图为白皮书中的签署图表。</p>
+</li>
+</ul>
+<p dir="ltr"><img alt="详解ZetaChain：多链和跨链通信迎来竞争新格局" height="846" src="https://cdn-img.panewslab.com/panews/images/stSFE3HU96.png" style="display: block; margin-left: auto; margin-right: auto;" width="1320" /></p>
+<pre dir="ltr">图源：Delphi Creative</pre>
+<h3 dir="ltr">跨链信息传递</h3>
+<p dir="ltr">CCMP 通过在中间使用 ZetaChain 来路由其他链之间的信息。在其他协议中如 LayerZero、Axelar、IBC、Chainlink CCIP，以及 THORChain一定程度上，都在这一方向中展开竞争。但对于 ZetaChain 来说，他们的跨链消息传输协议是通过使用原生代币 ZETA 来实现的，这与他们的竞争对手有着本质区别，因除 THORChain 外，其他竞争对手都不依赖于他们的原生代币来进行价值转移。白皮书中的一个例子--跨链 DEX--是直观展现 ZETA 在消息传递中的作用。在此例子中，如用户希望将 Polygon 上的 1.2 ETH 兑换成以太坊上的 USDC。路径如下：</p>
+<ol>
+<li dir="ltr">
+<p dir="ltr">在 Polygon AMM 上将 ETH 换成 ZETA；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">ZETA 被发送到 ZetaChain；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">ZETA 从 ZetaChain 路由到以太坊；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">在以太坊上将 ZETA 换成 USDC；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">用户收到以太坊 USDC。</p>
+</li>
+</ol>
+<p dir="ltr"><img alt="详解ZetaChain：多链和跨链通信迎来竞争新格局" height="762" src="https://cdn-img.panewslab.com/panews/images/sq1LAU2Rrz.png" style="display: block; margin-left: auto; margin-right: auto;" width="1530" /></p>
+<pre dir="ltr">图源：Delphi Creative</pre>
+<p dir="ltr">虽逻辑可行，但这种解决需要大量资金。这在一定程度上丧失产品竞争力，例如 Squid 和 UniswapX 等意向协议以及 Circle 的 CCTP 作为结算轨道占据了很大的市场份额。除资本效率外，跨链消息传递也是一个竞争激烈的领域。</p>
+<h3 dir="ltr">全链智能合约</h3>
+<p dir="ltr">开发者在 Zeta 上部署全链智能合约有许多优势，而不是仅仅使用 Zeta 和 zEVM 来促进交易。首先，它允许与 BTC、DOGE、LTC 等原生不支持智能合约的资产进行交互。其次由于应用程序状态位于 Zeta 上一定程度上也减少了漏洞的攻击面，且不依赖 ZETA 代币的流动性进行价值转移。除 Axelar 之外，上述竞争对手都暂缺此种产品，Axelar 使用 CosmWasm 而不是 EVM，目前为止也没有得到任何采用。</p>
+<p dir="ltr">ZetaChain 的全链智能合约由 TSS 协议支持，其验证器在外部链上运行全节点并共享签名，因此它们可以代表 ZetaChain 及其用户保管资产，zEVM 可以按照自己的意愿操纵这些资产。需要说明的是，过程中好比 BTC 它实际上并没有从比特币转移到 Zeta，而是转移到了 Zeta 验证器托管的地址然后在 ZetaChain 上体现，好比 THORChain 在协议托管的 BTC 上添加了智能合约。</p>
+<p dir="ltr"><img alt="详解ZetaChain：多链和跨链通信迎来竞争新格局" height="788" src="https://cdn-img.panewslab.com/panews/images/MOc4OXz33a.png" style="display: block; margin-left: auto; margin-right: auto;" width="1502" /></p>
+<pre dir="ltr">图源：Delphi Creative</pre>
+<p dir="ltr">在这一架构下，Zeta可以构建许多特殊的协议，仅举例如下：</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">一种由 BTC 支持的全链 CDP 稳定币；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">支持 BTC、DOGE、LTC 和其他非智能合约资产的货币市场；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">全链Perp DEX；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">全链Yield聚合器；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">BTC AMMs。</p>
+</li>
+</ul>
+<p dir="ltr">从本质上讲，ZetaChain的zEVM与ZetaClient相结合的与众不同之处是对非智能合约链上的资产进行托管和控制。现在的跨链平台大多用作后端基础架构，但ZetaChain可以在ZetaChain上创造自己的加密经济。</p>
+<h3 dir="ltr">ZETA Token的实用性</h3>
+<p dir="ltr">ZETA 是 ZetaChain 生态系统的基石，在功能编程性和治理方面发挥着举足轻重的作用。ZetaChain 以其互操作性和对全链 dApp 的支持最为突出，其关键网络活动都依赖于 ZETA。</p>
+<p dir="ltr"><strong>ZETA 代币的主要功能概述：</strong></p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">网络激励：ZETA 代币通过区块奖励为验证者提供激励，从固定池过渡到可变通胀。这一系统将验证者的利益与网络的长期安全性结合在一起；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">交易费用：ZetaChain 内的交易需要 ZETA 支付Gas费用，这些费用将分配给验证者和网络参与者，这种机制可防止垃圾邮件和 DDoS 攻击；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">跨链信息传递和价值转移：对于跨链交易，ZETA 在源链上烧毁，在目的链上铸币，无需创建新的包装资产；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">核心流动性池：ZetaChain 的流动性池由 ZETA 和其他资产组成，为用户交易提供便利，并向流动性提供者支付交易费用和奖励；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">管理角色：ZETA 持有者参与网络管理，对关键决策和政策变化施加影响，确保网络的发展以社区为主导。</p>
+</li>
+</ul>
+<p dir="ltr">总体而言，ZETA 的多方面实用性为 ZetaChain 的安全性、效率和去中心化治理提供了支持，使其成为网络功能的重要组成部分。</p>
+<h4 dir="ltr"><strong>ZETA 代币经济与发行</strong></h4>
+<p dir="ltr">ZETA 代币的初始总供应量为 21 亿个，四年后的计划通胀率约为每年 2.5%。代币分配（见参考链接1）将战略性地分配到生态系统的各个环节：</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">用户增长池（10%）：目标是通过空投和社区奖励等措施扩大用户群；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">生态系统成长基金（12%）：支持生态系统发展，帮助合作伙伴和 dApp 开发者；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">验证器奖励（10%）：对于区块奖励，在初始阶段后过渡到基于通货膨胀的网络安全奖励；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">流动性激励（5.5%）：鼓励核心 ZRC-20 资金池的流动性，这对有效的价值转移至关重要；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">协议库（24%）：为运营、开发和生态系统强化提供资金；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">核心贡献者、顾问和购买者（22.5% 和 16%）：奖励为 ZetaChain 的发展和成长所做的贡献。</p>
+</li>
+</ul>
+<h3 dir="ltr">全链 DEX</h3>
+<p dir="ltr">与目前跨链部署的状况不同，ZetaChain 作为协议的基础层，可以实现所有不同部署之间的流动性互操作性。例如ZetaChain 上的用户可以将其保证金存入中枢合约，并在 GMX 上持有头寸。这是 Zeta 跨链应用程序的核心假设（头寸管理层将位于 Zeta ），一定程度上讲想要利用 GMX 全部流动性的用户须使用 ZetaChain。</p>
+<p dir="ltr">除保障执行质量外，有两个关键优势：</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">与MUX 聚合器类似（见参考链接2），可在各种流动性来源之间拆分资产订单;</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">无需手动连接所有相关链，即可访问更多交易对。</p>
+</li>
+</ul>
+<p dir="ltr">ZetaChain 上的智能合约可直接将所需的过账保证金金额存入相关链，并附带如何使用这些资产的信息，虽然这一过程在技术上不需要 ZetaChain 也能实现，但可改善用户体验：</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">链间互动;</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">可全面管理，而不是单独管理。</p>
+</li>
+</ul>
+<p dir="ltr">DEX 市场的领导者 UniSwap 会将其基础中心从以太坊转移到任何其他链上，但理论上讲通过部署在 ZetaChain 上并使用 ZRC-20 标准，用户可以换入和换出任何资产（在任何链上），并在他们希望的任何链上托管所述资产。</p>
+<h3 dir="ltr">Zeta Chain的竞争对手们</h3>
+<h4 dir="ltr">LayerZero</h4>
+<p dir="ltr"><img alt="详解ZetaChain：多链和跨链通信迎来竞争新格局" src="https://cdn-img.panewslab.com/panews/images/9W8LMlsP9A.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre dir="ltr">图源：LayerZero官网</pre>
+<p dir="ltr">在跨链传递市场，LayerZero 是 ZetaChain 的最大竞争对手。虽然他们不参与全链智能合约领域的竞争，但他们在跨链传递的市场地位非常稳固。主要优势来自于Strargate，其次是推动采用其 OFT 标准（为跨链代币转移提供了一种新的解决方案，使得在不同链之间转移代币更加简单和高效）。</p>
+<p dir="ltr"><strong>LayerZero架构</strong></p>
+<p dir="ltr">首先，简单介绍一下，LayerZero 是一种允许 "用户应用程序 "在区块链之间发送信息的协议。该架构由 4 个主要部分组成：</p>
+<ol>
+<li dir="ltr">
+<p dir="ltr">用户应用程序：与 LayerZero 端点交互并向其发送/接收信息的合约（如Strargate）；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">LayerZero Endpoints：不同链上的一系列智能合约（目前支持已超过 40 +个，详见参考链接3）。端点允许用户协议通过 LayerZero 后端发送信息，其由 4 个模块组成：通信器、验证器、网络和库。前三个模块在所有链上都是标准化的，而库是根据不同链逻辑定制的，使 LayerZero 能够快速添加更多的链；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">预言机：负责从一个链读取头区块并将其发送到另一个链的一方。目前这一角色默认由 Chainlink 承担，但自 2023 年 9 月起，与谷歌云的新合作已取代 Chainlink 成为默认角色；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">中继器：与中继器类似，但获取的是证明而不是头区块。虽然应用程序本身也可以成为中继器，但实际上是由 LayerZero 处理。</p>
+</li>
+</ol>
+<p dir="ltr">这种设计基本上可以归结为 2/2 多重签名，其中主要的信任假设是谷歌云和 LayerZero 不会串通，依赖这些链外组件（如预言机和中继器）的好处是架构轻便、便宜且易于扩展，缺点是需要依赖两个中心化实体，可能容易受到审查相关风险。</p>
+<h4 dir="ltr">Axelar</h4>
+<p dir="ltr"><img alt="详解ZetaChain：多链和跨链通信迎来竞争新格局" src="https://cdn-img.panewslab.com/panews/images/E5eAr3bsGI.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre dir="ltr">图源：Axelar官网</pre>
+<p dir="ltr">与 LayerZero 相比，Axelar 的结构与 Zeta 更为相似，但也有明显不同。与ZetaChain相同的是Axelar也是基于Cosmos SDK开发的。不同的是它不直接托管 EVM，因此不支持与 Zeta 一样的全链智能合约。所以Axelar 的目标市场是跨链消息传递，这与 LayerZero 类似。</p>
+<p dir="ltr"><strong>Axelar架构</strong></p>
+<p dir="ltr">Axelar 是一个 PoS 链，拥有自己的验证器集和质押Token AXL，其组成部分和信息流如下：</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">跨链 GMP 请求：允许应用程序跨链发送任意数据的 API。这些消息请求会发送到 Axelar 网关（在线平台或数字系统，利用区块链技术使得数字货币从一个地址转移到另一个地址）；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">网关：由用户/应用程序发起的跨链消息首先经过的地方，以便从源链路由到目的链。对于 EVM 链来说，这些是智能合约，而对于 Cosmos 来说，这些是应用逻辑。网关由使用 MPC 的 Axelar 验证器确保安全，其份额由 AXL 代币委托权衡；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">消息处理与中继器：中继器监听事件（网关信息）并提交到 Axelar 网络进行处理。虽然任何人都可以运行中继器，但没有任何激励措施，中继器由 Axelar 运营；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">信息验证：验证器对从中继器收到的信息进行投票。每个 Axelar 验证器为每个源链运行一个完整的节点，因此能够验证消息的有效性。反过来与典型的 Cosmos PoS 区块链相比，Axelar 验证器需要更多的资源，在 Cosmos PoS 区块链中，验证器依靠轻客户端和 IBC 来传递消息。从某种意义上讲，这种模式的可扩展性不如 LayerZero，但去中心化程度更高。Axelar 通过向验证者发放更多的盯盘奖励来激励他们，他们支持的链越多，奖励就越多。从长远来看，支持的链需要从跨链活动中产生足够的费用，因为支持验证者运行 50 个以上完整节点的代币奖励将耗尽。支持每条链可能并不可行，相反它们将聚集在主要的流动链周围；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">向目的地提交信息：中继器监听 Axelar 验证器发出的授权信息，并推送至目标链网关。当目标链接收到已批准的信息时，其有效载荷会被 Axelar 验证器标记为已批准。现在任何人都可以执行该有效载荷；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Gas和执行器服务：最后一步，Axelar 在 EVM 链上部署名为 "Gas接收器 "的合约，用于支付目的链的Gas费用，并执行跨链有效载荷（将其发送到所需的应用程序）。用户可以使用源链Gas代币支付，而 Axelar 则抽取目标链的Gas。</p>
+</li>
+</ul>
+<p dir="ltr">总体而言，除了在自己的链上支持 EVM 外，它的结构与 ZetaChain 类似。安全性而言，Delphi Research认为它比 LayerZero 的 2/2 模型更安全，尽管仍有一些不足，但相比于谷歌和 LayerZero 串通的几率极低（应用程序可以运行自己的中继器）。</p>
+<h4 dir="ltr">Chainlink CCIP</h4>
+<p dir="ltr"><img alt="详解ZetaChain：多链和跨链通信迎来竞争新格局" src="https://cdn-img.panewslab.com/panews/images/2TX0pMH6q6.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre dir="ltr">图源：Chainlink 官方</pre>
+<p>CCIP 与其他跨链信息平台并无太大区别，用户在一个链上发送信息，信息被转发到CCIP，然后CCIP将信息转发到目的地链。CCIP的不同之处在于它如何使用预言机网络（Oracle Networks），以及加入了另一个实体：风险管理网络（Risk Management Network）。</p>
+<p dir="ltr">CCIP 分为链上和链下两个部分。</p>
+<p dir="ltr"><strong>链上上部分</strong></p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">路由器：启动跨链交易。将交易路由到目的地特定的 OnRamp 合约，接收来自目的地链上 OffRamp 的信息，并路由至最终用户/合约；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">提交存储：提交 DON将源链上的默克尔根存储到目标链上。默克尔根必须经过风险管理网络的 "检验合格"；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">OnRamp：每个链一个合约（区块链到区块链）。验证信息并跟踪代币转移/信息等事项，管理计费等。发布由 Committing DON 监控；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">OffRamp：与 OnRamp 类似，每个链一个合约。通过验证执行 DON与已提交和已"检验合格"的 Merkle Root，确保信息的真实性，并向路由器传送信息；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">代币池：代币可以是 "锁定和铸造 "或 "烧毁和铸造"，具体取决于代币。如本地Gas代币必须是锁定和铸币，因 CCIP 没有铸币权，如果整合了 CCTP，USDC 可以是 "烧制和铸造"；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">风险管理网络合约：包含可"检验合格"（批准）或"检验失败"（不批准）交易的风险管理网络节点列表。</p>
+</li>
+</ul>
+<p dir="ltr"><strong>链下部分</strong></p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">提交 DON：如上需提交 DON 监视 OnRamp 合约的事件，然后等待源链结果并创建 Merkle Root（由法定提交 DON 预言机节点签署），最终写入目标链上的 CommitStore 合约；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">风险管理网络：由节点组成的网络，本质上是对提交 DON 的默克尔根进行双重检查。它们监控 OnRamp 合约以及提交 DON 在提交存储区发布的内容。如果 RMN 没有 "检验合格"（即验证/确认）Merkle Root，CCIP 将冻结；</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">执行 DON：与承诺类似，但会像风险管理网络一样监管信息。一旦 RMN 发出 "检验合格"，执行 DON 就会呼叫 OffRamp 合约以完成目的地的 CCIP TX。</p>
+</li>
+</ul>
+<h3 dir="ltr">小结</h3>
+<p dir="ltr">现实中为打破链间的孤岛效应，“多链通信”和“跨链通信”问题首当其冲待被解决，与其他解决方案相比，ZetaChain 项目的核心优势在于其所具备的跨链互操作性能使得不同区块链间的互操作成为可能，解决了当前区块链碎片化和互操作性不足的问题。旨在使全链 dApp 能够直接与不同的区块链进行原生交互，而无需包装或桥接任何资产。其外部链也存在着在 ZetaChain 连接的外部链时，可能受到攻击的安全风险，这可能导致双花、审查、回归、硬分叉、链分裂等。</p>
+<p dir="ltr">就目前而言，LayerZero 和 Axelar 在跨链信息领域的应用方面处于领先地位。不过，现在还为时尚早，没有谁能真正领先。期待ZetaChain全新解决方案的同时，也更期待LayerZero、Axelar、Chainlink CCIP等技术迎来持续地迭代与创新。</p>
+<p dir="ltr">参考文章：</p>
+<p dir="ltr">1.全链应用的未来机遇<a href="https://members.delphidigital.io/reports/zetachain-part-2-the-opportunity-ahead-for-omnichain-applications#consumer-aggregation-apps--improving-the-on-chain-derivatives-experience-56d5" rel="nofollow">https://members.delphidigital.io/reports/zetachain-part-2-the-opportunity-ahead-for-omnichain-applications#consumer-aggregation-apps--improving-the-on-chain-derivatives-experience-56d5</a></p>
+<p dir="ltr">2.什么是 ZetaChain？</p>
+<p dir="ltr"><a href="https://www.datawallet.com/crypto/what-is-zetachain" rel="nofollow">https://www.datawallet.com/crypto/what-is-zetachain</a></p>
+<p dir="ltr">3.区块链桥接的竞争格局<a href="https://members.delphidigital.io/reports/zetachain-part-1-a-competitive-landscape-of-blockchain-bridges#architecture-ed17" rel="nofollow">https://members.delphidigital.io/reports/zetachain-part-1-a-competitive-landscape-of-blockchain-bridges#architecture-ed17</a></p>
+<p dir="ltr">扩展链接：</p>
+<p dir="ltr">（1）Zera代币分配</p>
+<p dir="ltr"><a href="https://www.zetachain.com/docs/about/token-utility/distribution/" rel="nofollow">https://www.zetachain.com/docs/about/token-utility/distribution/</a></p>
+<p dir="ltr">（2）MUX 聚合器白皮书</p>
+<p dir="ltr"><a href="https://docs.mux.network/protocol/overview/leveraged-trading-aggregator" rel="nofollow">https://docs.mux.network/protocol/overview/leveraged-trading-aggregator</a></p>
+<p dir="ltr">（3）LayerZero支持合约 <a href="https://layerzero.gitbook.io/docs/technical-reference/mainnet/supported-chain-ids" rel="nofollow">https://layerzero.gitbook.io/docs/technical-reference/mainnet/supported-chain-ids</a></p>
+]]></content:encoded>
+<pubDate>Tue, 19 Mar 2024 17:42:15 +0800</pubDate>
+<pubDate>Tue, 19 Mar 2024 17:42:15 +0800</pubDate>
+</item>
+
+<item>
 <title>BitMEX调查导致比特币今晨在其平台跌至8900美元的闪崩情况</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/xuacodft.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/xuacodft.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是消极的。根据报道，加密货币交易所BitMEX正在调查导致比特币价格闪崩的异常交易活动。该事件涉及极少数账户的激进抛售行为，导致BTC/USDT价格在BitMEX跌至8900美元的低点，而在其他交易所的价格超过了66000美元。一个名为@syq的账户暗示价值约6600万美元的977个比特币被抛售。BitMEX发言人表示系统正常运行，用户资金安全，但拒绝进一步置评。 <div>
+<div> <br /><br />摘要：<br />这些信息是消极的。根据报道，加密货币交易所BitMEX正在调查导致比特币价格闪崩的异常交易活动。该事件涉及极少数账户的激进抛售行为，导致BTC/USDT价格在BitMEX跌至8900美元的低点，而在其他交易所的价格超过了66000美元。一个名为@syq的账户暗示价值约6600万美元的977个比特币被抛售。BitMEX发言人表示系统正常运行，用户资金安全，但拒绝进一步置评。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月19日消息，据彭博社报道，加密货币交易所BitMEX正在调查导致其平台上比特币今晨闪崩的异常交易活动。北京时间3月19日06:30左右，BTC/USDT价格在BitMEX跌至8900美元的低点，而比特币在其他交易所的交易价格超过了66,000美元。</p>
 <p>BitMEX的一位发言人表示，该公司调查了这一事件，并发现了“涉及极少数账户的激进抛售行为，超出了预期的市场范围”的证据，并补充说，其系统运行正常，所有用户资金都是安全的。</p>
 <p>一个名为@syq的X账户最先发布了有关突然抛售的信息，该账户暗示闪崩恰逢价值约6600万美元的977没比特币被抛售。BitMEX 发言人拒绝就事件细节进一步置评。</p>
 ]]></content:encoded>
-<pubDate>Tue, 19 Mar 2024 17:37:43 +0800</pubDate>
 <pubDate>Tue, 19 Mar 2024 17:37:43 +0800</pubDate>
 </item>
 <item>
@@ -22,7 +281,7 @@
 <link>https://www.panewslab.com/zh/articledetails/kte0t6ie.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/kte0t6ie.html</guid>
 <content:encoded><![CDATA[
-<div> 这些信息是积极的。<br><br>摘要：MEME币的持续狂欢预热了主流叙事，包括AI+DePIN、ETH layer2、BTC layer2、Alt-layer1高性能链和Chain Abstraction链抽象。AI+DePIN叙事将会引领本轮牛市，AI+web3的发展潜力巨大。同时，ETH layer2和BTC layer2领域也在不断探索和发展，带来新的可能性。在高性能layer1链和链抽象方面，创新力的释放将有助于进一步推动区块链行业的发展。价值投资者应该继续关注和在这些领域中建立持续发展。 <div>
+<div> 这些信息是积极的。<br /><br />摘要：MEME币的持续狂欢预热了主流叙事，包括AI+DePIN、ETH layer2、BTC layer2、Alt-layer1高性能链和Chain Abstraction链抽象。AI+DePIN叙事将会引领本轮牛市，AI+web3的发展潜力巨大。同时，ETH layer2和BTC layer2领域也在不断探索和发展，带来新的可能性。在高性能layer1链和链抽象方面，创新力的释放将有助于进一步推动区块链行业的发展。价值投资者应该继续关注和在这些领域中建立持续发展。 <div>
 <p>MEME币的持续狂欢，主流叙事币的相对低迷，让人总有这轮牛市要靠AltCoin驱动的错觉，这不禁让满手主流币还在一线Build的人飘忽茫然。难道价值投资要败给纯情绪FOMO了么？显然不是。</p>
 <p>在我看来，MEME币的频频破圈只是给姗姗来迟的Layer2 Summer、AI+DePIN、链抽象等主流叙事预热，大的或许正在孕育中：</p>
 <p>首先，BOME三天上币安成就了MEME行情的大奇迹日，MEME纯资产发行的叙事，虽然风险很大如刀口舔血，但从最初的DOGE、再到上一轮的SHIB PEPE，MEME币已经成为长时间无进展主流叙事接力空窗期的“主流叙事”。</p>
@@ -63,9 +322,7 @@
 <p>雄关漫道真如铁，而今迈步从头越。坚定走在符合自己认知的正确道路上，继续Build吧！</p>
 ]]></content:encoded>
 <pubDate>Tue, 19 Mar 2024 17:30:08 +0800</pubDate>
-<pubDate>Tue, 19 Mar 2024 17:30:08 +0800</pubDate>
 </item>
-
 <item>
 <title>过去24小时全网合约爆仓6.22亿美元，其中多单爆仓5.16亿美元</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/gtds2u2f.html</link>
