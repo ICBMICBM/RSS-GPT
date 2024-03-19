@@ -5,17 +5,46 @@
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
 <item>
+<title>【英文长推】介绍 Light：EVM UX 碎片化问题的新兴解决方案</title>
+<link>https://twitter.com/shunkakinoki/status/1769767434372931978</link>
+<guid>https://twitter.com/shunkakinoki/status/1769767434372931978</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了 Light 的功能，包括网络抽象、跨链资产管理和批量交易执行，使用户能够无缝地在不同的 EVM 链上交互，并使用跨链持有的资产支付 gas 费用。Light 还允许用户在所有链上使用相同的地址，同时支持一次性同时转移任意数量的资产。该技术旨在提供最佳的跨链体验，并与开放标准保持一致，通过开源构建。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>随着链的数量不断增加，桥接和初始 gas 支付使得使用新链变得既缓慢又麻烦。Light 使用户能够与任何 EVM 链（包括 L2、L3）无缝交互，就像使用一个网络一样。加密研究员 Shun Kakinoki 撰文对 Light 的功能进行介绍。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/shunkakinoki/status/1769767434372931978">https://twitter.com/shunkakinoki/status/1769767434372931978</a></p>
+<p><strong>文章作者：</strong></p><p>Shun Kakinoki</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Shun Kakinoki：</strong>网络抽象：Light 使用户能够立即无缝地跨链交互，并且支持使用跨链持有的「任何」资产支付 gas 费用。例如，在 Arbitrum 和 Optimism 上发送 USDC，同时在 Polygon 上用 USDT 支付 gas，所有这些都在一笔交易中完成。
+
+跨链资产管理：使用 Gnosis Safe 时，用户通常必须为每条链创建一个新钱包，从而产生不同的地址。Light 允许用户创建一个智能钱包，在所有链上使用相同的地址。
+
+批量交易执行：一次性同时转移或移动任意数量的资产，不受链的限制。例如，使用可跨链工作的单一签名，在任何底层链上发送代币和 NFT。
+
+我们构建了一个完全集成的技术栈，为终端用户提供最佳的跨链体验，并与 4337 和 7579 等开放标准保持一致，旨在让任何人都能在几秒钟内在任何新链上快速启动。这一切都是完全通过开源构建的。【原文为英文】</p><a href="https://twitter.com/shunkakinoki/status/1769767434372931978">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-19T07:59:33+00:00</pubDate>
+</item>
+<item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，估值达到 10 亿美元。Polychain Capital 领投，多家机构参投，融资通过未来代币或 SAFT 进行。筹集资金将用于团队扩大、产品开发和营销。将近80人团队将跨职能部门共同努力。 <div>
+<div> <br><br>摘要：<br>这些信息是积极的。zkBridge开发商Polyhedra Network以10亿美元估值完成2000万美元战略融资，Polychain Capital领投，其他投资者包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。融资将用于招聘扩大团队、产品、工程、业务开发和营销等跨职能部门，从目前的50人团队扩大到80人。融资采用未来代币或SAFT的简单协议。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
 
+<item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
+<content:encoded><![CDATA[
+<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，估值达到 10 亿美元。Polychain Capital 领投，多家机构参投，融资通过未来代币或 SAFT 进行。筹集资金将用于团队扩大、产品开发和营销。将近80人团队将跨职能部门共同努力。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
