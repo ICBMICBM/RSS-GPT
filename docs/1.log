@@ -2959,3 +2959,18 @@ Existing_entries: 101
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-19 02:54:00.402384
+------------------------------------------------------
+Started: 2024-03-19 03:07:32.029235
+Existing_entries: 101
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 225
+Summarized using GPT-3.5-turbo-1106
+Append: [贝莱德的比特币现货ETF IBIT的平均交易规模在13000美元，表明大部分需求来自散户投资者](https://www.panewslab.com/zh/sqarticledetails/ll7d2oof.html)
+Token length: 4495
+Summarized using GPT-3.5-turbo-1106
+Append: [LD Capital宏观周报：成长概念回调，关注滞涨牛，加密基金流入创纪录](https://www.panewslab.com/zh/articledetails/r18x0wl8vv2q.html)
+Token length: 290
+Summarized using GPT-3.5-turbo-1106
+Append: [过去4天有3个地址通过出售26946枚ETH获利3900万美元](https://www.panewslab.com/zh/sqarticledetails/qdhnep3s.html)
+append_entries: 3
+Finish: 2024-03-19 03:07:43.885204
