@@ -3328,3 +3328,12 @@ Existing_entries: 134
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-19 09:59:40.911272
+------------------------------------------------------
+Started: 2024-03-19 10:16:29.362926
+Existing_entries: 134
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 4390
+Summarized using GPT-3.5-turbo-1106
+Append: [IOSG：从底层逻辑出发，深入探讨LRT未来发展](https://www.panewslab.com/zh/articledetails/1b0z6f3n.html)
+append_entries: 1
+Finish: 2024-03-19 10:16:35.311970

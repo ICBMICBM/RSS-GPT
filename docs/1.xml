@@ -4,6 +4,60 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>IOSG：从底层逻辑出发，深入探讨LRT未来发展</title>
+<link>https://www.panewslab.com/zh/articledetails/1b0z6f3n.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/1b0z6f3n.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章主要讨论了关于LRT（Liquid Restaking Token）的一些想法和观点。主要要点包括LRT与LST的区别、投资组合、收益率来源组成、惩罚风险、短期增长、竞争格局以及可持续性。文章认为LRT是EigenLayer生态中投资布局的首选方向，并预计LRT在EigenLayer的发展中将逐渐显现其流动性解锁优势，可能会成为EigenLayer再质押参与的主要方式。 <div>
+<p>作者：Jiawei Zhu, IOSG Ventures</p>
+<p>近期围绕 EigenLayer 的再质押和 LRT (Liquid Restaking Token) 有很多讨论，用户围绕各个协议潜在的空投预期进行下注，再质押成为以太坊生态最火热的叙事。本文将简单讨论笔者对 LRT 的一些想法和观点。</p>
+<h3>LRT 的底层逻辑</h3>
+<p>LRT 是围绕 EigenLayer 的多方市场衍生出来的新资产类别。LRT 与 LST 近似的目的是“解放流动性”，但由于 LRT 底层资产构成的不同，LRT 比 LST 更加复杂，并且存在多样性，以及动态变化的性质。</p>
+<p>在考虑 ETH 本位的情况下，如果将 LST 之下的以太坊质押视为货币基金，则 LRT 作为资产管理方可以看作是对于 AVS 的 Fund of Fund。对比 LST 和 LRT 是快速理解 LRT 底层逻辑的一种方式。</p>
+<p><img alt="IOSG：从底层逻辑出发，深入探讨LRT未来发展" src="https://cdn-img.panewslab.com//panews/2022/3/19/images/ce6a6aa32c3f7ab600625888f1026520.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>Source: IOSG Ventures</pre>
+<p><strong>1. 投资组合</strong></p>
+<p>LST 的投资组合只有以太坊质押一种，但 LRT 的投资组合多种多样，可以把资金投入到不同的 AVS 为他们提供经济安全，也自然有不同的风险等级。不同 LRT 协议的资金管理方式和风险偏好也不尽相同。在资金管理层面 LST 是被动管理，LRT 是主动管理。LRT 可能会提供不同的管理策略，对应于不同级别的 AVS （如 EigenDA 对比新上线的 AVS）以适配用户的收益/风险偏好。</p>
+<p><strong>2. 收益率、来源和组成</strong></p>
+<p>LST 和 LRT 的收益率、以及收益率的来源和构成不同：</p>
+<ul>
+<li>LST 的收益率目前大约稳定在 4.9% 左右，来源于以太坊共识层和执行层的共同收益，由 ETH 构成。</li>
+<li>LRT 的收益率暂不确定，但基本上来源于各个 AVS 所支付的费用，且可能由 AVS 代币、ETH、USDC 或者三者混合构成。根据我们和一些 AVS 的交流所得到的信息，大部分 AVS 会预留代币总供应量的数个百分点作为激励和安全预算。如果 AVS 在发币之前就已经上线，那么也可能支付 ETH 或者 USDC，取决于具体的情况。（这样 Restaking 其实可以理解为再质押 ETH 挖第三方项目代币的过程）</li>
+</ul>
+<p>既然是 AVS 代币本位，那么其代币波动的风险会比 ETH 更大，APR 也会随之波动。AVS 还可能会有进入和退出的轮动情况。诸如此类都会给 LRT 的收益率带来不确定性因素。</p>
+<p><strong>3. 惩罚风险</strong></p>
+<p>以太坊质押存在两种惩罚：Inactivity Leaking 和 Slashing 两种，例如错过区块提案和双重投票，规则确定性很高。如果由专业的节点服务提供商运营，Correctness 可以达到 98.5% 左右。</p>
+<p>而 LRT 协议需要相信 AVS 软件编码无误，对罚没规则无异议，以免触发预期之外的惩罚。由于 AVS 的种类多样，且大多数是早期项目，这本身存在不确定性。并且，AVS 随着业务的发展可能会有规则上的变动，例如迭代更多的功能等等。此外，在风险管理层面还需要考虑 AVS Slasher 合约的可升级性、罚没条件是否客观且可被验证等等。由于 LRT 作为管理用户资产的代理人，LRT 需要对这些方面进行综合考虑，慎重选择合作伙伴。</p>
+<p>当然，EigenLayer 鼓励 AVS 进行完全审计，包括 AVS 的代码、罚没条件和与 EigenLayer 交互的逻辑。EigenLayer 也有一个基于多签的否决委员会，来对罚没事件进行最终审核与把关。</p>
+<h3>LRT 短期内的快速增长</h3>
+<p><img alt="IOSG：从底层逻辑出发，深入探讨LRT未来发展" src="https://cdn-img.panewslab.com//panews/2022/3/19/images/fe4c016040bda5a81fd517867e43fc31.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>Source: EigenLayer</pre>
+<p>EigenLayer 对 LST 的再质押采取分阶段开放的模式，而对 Native Restaking 没有限制。对 LST 进行限制可能是一种饥饿营销的手段，实则更重要的是促进 Native Restaking 的增长。因为限制 LST 之后用户如果想要进行再质押，只能转向第三方 LRT 协议的提供 Native Restaking，这也极大促进了 LRT 协议的发展。目前通过 LRT 流入 EigenLayer 的 ETH 占 EigenLayer 总 TVL 的 55% 左右。</p>
+<p>此外，隐含的一点是，Native Restaking 可以提供 Ethereum Inclusion Trust，这也是 EigenLayer 所提供和倡导的，除 Economic Trust 和 Decentralization Trust 之外的第三种信任模型。即以太坊验证者除了通过质押对以太坊做出承诺之外，还可以运行 AVS 并对 AVS 作出承诺。这些承诺大多与 MEV 相关。其中一个用例是“未来区块空间拍卖”。例如预言机可能需要在特定时间段内提供喂价服务；或者 L2 需要每隔几分钟向以太坊发布数据等等，它们可以向提议者支付费用预留未来的区块空间。</p>
+<h3>LRT 的竞争格局</h3>
+<p>首先，为了让解放出来的流动性有用武之地，DeFi 的整合是 LRT 协议之间主要比拼的一点。</p>
+<p>如上所述，尽管理论上 AVS 需要计算它们所需的经济安全来达到一定的安全阈值，但目前大多数 AVS 的做法是拿出 Token 总供应量的一部分来进行激励。由于不同的 AVS 存在轮换和进出，激励取决于 AVS Token 的价格，因此 LRT 资产的不确定性要远大于 LST（LST 有稳定的“Risk-free rate”和 ETH 价格的良好预期），在主流 DeFi 的协议的整合和兼容上很难成为像 stETH 这样的“硬通货”。</p>
+<p>毕竟作为质押协议，LRT 的流动性 和 TVL 会是 DeFi 协议首先关注的评判标准，其次是品牌、社区等等。流动性着重体现在退出的时间周期。通常来讲，从 EigenPod 退出需要七天时间，随后从以太坊质押中退出也需要一定的时间。TVL 较大的协议可以建立更好的流动性，例如 Etherfi 运营的 Liquidity Pool Reserve 能够提供快速的取款（即 eETH -&gt; ETH）。</p>
+<p>但在 EigenLayer 主网上线之前讨论主流 DeFi 的整合还为时尚早，因为很多东西还是未知数。</p>
+<p>在其他方面，近日 Ether.fi 在官推发出 $ETHFIWIFHAT 的 meme 代币推文，为代币上线造势，让人浮想联翩。Swell 采用 Polygon CDK、EigenDA 和 AltLayer 构建 zkEVM L2，将其 LRT rswETH 作为 Gas 代币。Renzo 则在 Arbitrum、Linea 和 Blast 上主打多链的整合。相信各个 LRT 协议后续都会推出自己的差异化打法。</p>
+<p>然而，不管是 LST 还是 LRT，同质化程度都相对较高，虽然 LRT 相比 LST 而言可施展的空间更大，但即便一个 LRT 向市场推出一个新的 idea，竞争对手也有能力效仿。笔者认为护城河还是在于巩固和提升 TVL 和流动性上。Etherfi 目前具有最高的 TVL 和最好的流动性，假设所有 LRT 协议的空投预期都被兑现，Etherfi 对吸引新资金来说会有更大的优势。（在这其中机构用户的采用也不可忽视，Etherfi 有 30% 的 TVL 来自于机构用户）</p>
+<p>在空投事件结束后，LRT 的格局完全有可能重新洗牌，LRT 协议之间对用户和资金的争夺会更加激烈（例如 Etherfi 的空投发放完毕之后，部分资金可能立即涌向其他平台）。在 EigenLayer 完全上线主网、且 AVS 开始提供收益之前，LRT 对用户的粘性都不那么强。</p>
+<h3>LRT 的可持续性</h3>
+<p>LRT 的可持续性其实可以看作 EigenLayer 这个系统的可持续性，因为以太坊质押的收益会一直存在，而 AVS 则未必。经常被问到的一个问题是：以当前 11b 的 TVL 计算，EigenLayer 如何提供与之匹配的收益率（例如每年 5%）？笔者认为有如下几点：</p>
+<ul>
+<li>虽然 EigenLayer 在主网完全上线前 TVL 达到 11b，甚至超过 AAVE，但在一系列相关协议的空投结束后，EigenLayer 的 TVL 一定会有一段均值回归的校正时期。总的来说，短期内要考虑的收益率并不需要那么多。</li>
+<li>其次，每个 AVS 的代币提供的收益、持久性、波动率不同，每个质押者的风险偏好和对收益的追求也不同，在这个过程中还会有市场自发的动态调控（更多的 ETH 质押到某个 AVS 会使收益率下降，促使质押者转向其他 AVS 或者其他协议），因此无法简单地用整个 TVL 的百分比来直接计算需要提供的收益。</li>
+<li>在中长期的视角下，EigenLayer 生态能够持续发展的动力还是在于需求端，即需要有足够的 AVS 为经济安全买单，并且要有可持续性，这也和 AVS 自身业务好坏的情况相关。目前来看，除了 AltLayer 等 12 个 AVS 早期合作伙伴之外，还有一系列 AVS 已经宣布了合作。笔者了解到还有几十个 AVS 在排队等待整合。当然，这也与 AVS 的项目质量、Token 的表现和激励机制的设计有关，目前没有办法给出确定的 comments。</li>
+</ul>
+<h3>小结</h3>
+<p>最后，关于 LRT 的未来格局，笔者有以下观点：</p>
+<p>1. 尽管竞争非常激烈，但 LRT 仍是一级市场 EigenLayer 生态中投资布局的首选方向。在 EigenLayer 中投资 AVS，投资逻辑应该考虑这个中间件的投资逻辑，这并不因为采用了它 EigenLayer 来启动网络而有所不同，只是实现产品的方式不同。未来可能有几十上百个 AVS 在 EigenLayer 上构建，因此 AVS 的概念并不稀奇。节点服务提供商这个方向则已经由一些成熟的公司所牢牢占据。而 LRT 显然离用户更近，作为用户和 EigenLayer 之间的抽象层，兼有 Staking 和 DeFi 的属性，作为资产的分配者在生态中有更大的话语权。在整个 EigenLayer 的生态布局中，我们还关注开发者工具、Anti-slashing 密钥管理、风险管理、公共物品等领域。</p>
+<p>2. 目前，通过 LRT 和 LST 参与 EigenLayer 再质押的比例约为 55% 和45%。我们预计随着 EigenLayer 的逐渐发展，LRT 解锁流动性的优势会随之显现，这一比例可能达到七三开左右（假设一些保守持有 stETH 的巨鲸和机构仍然选择被动持有 stETH）。当然，LRT 的风险不可忽视，由于资产结构的嵌套，我们也需要注意极端行情下的 depeg 等系统性风险。长远来看，我们希望看到 EigenLayer 生态中的 AVS 能够茁壮发展，为 LRT 提供相对稳定的底层结构和收益。</p>
+]]></content:encoded>
+<pubDate>Tue, 19 Mar 2024 18:00:22 +0800</pubDate>
+<pubDate>Tue, 19 Mar 2024 18:00:22 +0800</pubDate>
+</item>
 
 <item>
 <title>行情：SOL短时跌至170美元，目前24小时跌幅达14.72%</title>
