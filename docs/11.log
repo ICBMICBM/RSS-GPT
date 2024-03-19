@@ -3168,3 +3168,18 @@ Existing_entries: 75
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-19 07:59:14.890322
+------------------------------------------------------
+Started: 2024-03-19 08:18:14.037955
+Existing_entries: 75
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 43
+Summarized using GPT-3.5-turbo-1106
+Append: [Binance Asks Prime Brokers to Enhance KYC to Block U.S. Nationals: Bloomberg](https://www.coindesk.com/policy/2024/03/19/binance-asks-prime-brokers-to-enhance-kyc-to-block-us-nationals-bloomberg/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 94
+Summarized using GPT-3.5-turbo-1106
+Append: [Crypto Compliance Platform Keyring Raises $6M to Unlock DeFi for Institutions](https://www.coindesk.com/business/2024/03/19/crypto-compliance-platform-keyring-raises-6m-to-unlock-defi-for-institutional-investors/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 54
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin No Longer Trading at a Premium on Coinbase, Data Show](https://www.coindesk.com/markets/2024/03/19/bitcoin-no-longer-trading-at-a-premium-on-coinbase-data-show/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 3
+Finish: 2024-03-19 08:18:22.534126
