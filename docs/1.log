@@ -3487,3 +3487,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [MicroStrategy的比特币持仓目前已超比特币总供应量的1%](https://www.panewslab.com/zh/sqarticledetails/au5bqhb7.html)
 append_entries: 1
 Finish: 2024-03-19 12:53:21.656446
+------------------------------------------------------
+Started: 2024-03-19 13:01:18.091660
+Existing_entries: 155
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 4443
+Summarized using GPT-3.5-turbo-1106
+Append: [Dojo：我们为什么要做可验证化链上游戏？](https://www.panewslab.com/zh/articledetails/yood54nz7j20.html)
+append_entries: 1
+Finish: 2024-03-19 13:01:24.561123
