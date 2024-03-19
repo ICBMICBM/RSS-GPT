@@ -4,6 +4,163 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>Bitcoin：一切的奥秘从BIT开始</title>
+<link>https://www.panewslab.com/zh/articledetails/08wu5k8f938w.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/08wu5k8f938w.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>文章介绍了比特币及相关比特币项目，探讨了BIT作为信息单位的重要性，以及BIT在比特币区块结构和挖矿难度中的作用。讨论了$DMT-BIT作为比特币生态中具有潜力的代币，以及其非任意增发机制和估值模型。解释了BIT作为比特原生六要素之一的意义，以及$DMT-BIT的MINT方式和优势。最后，比较了非任意代币和任意代币的区别，强调了NAT代币发行方式的优势。 <div>
+<p align="center" style="text-align: left;"><strong>By:@NavigatorLabs</strong><strong>比特原生研报</strong></p>
+<p><strong>Bit</strong><strong>coin : </strong>全球市值最高的加密货币</p>
+<p><strong>I</strong><strong>BIT </strong><strong>: </strong>全球最大资管公司贝莱德管理的比特币ETF交易代码</p>
+<p><strong>By</strong><strong>Bit</strong><strong>: </strong>全球排名前三的BTC合约平台</p>
+<p><strong>Bit</strong><strong>main: </strong>比特大陆，全球最大的矿机生产商，代表产品：蚂蚁矿机</p>
+<p>带BIT 的名字、币种、交易所、机构以及媒体，数不胜数，为何大家都喜欢带上BIT作为名称的组成部分，难道仅仅只是因为Bitcoin的名字从BIT而来？或者标榜自己对Bitcoin的敬意与热爱？或者在冥冥中延续着某种使命？</p>
+<p>我们试图去发现背后的奥秘。</p>
+<h3><strong>Bitnative比特原生叙事，带来15年后的万链归一</strong></h3>
+<p>过去2个牛市，我们逃离了Bitcoin,认为Bitcoin只能做价值存储，因为10分钟长的区块确认时间，让我们把所有精力都放在ETH等链上，数以万计的应用蓬勃兴起，价值几千亿的加密生态欣欣向荣，我们从ETH到layer2，我们从BNB到SOL,TPS越来越快，但两个牛市中，我们重复的在ICO、IDO、IEO、FT、NFT、Defi、Metaverse、Gamefi的旋涡里循环往复，同样的玩法在不同的POS链上复制，同样的代码在EVM系里粘贴，我们陷在COPY、FOMO的情绪中失去了创新的方向。</p>
+<p>近一年来，Ordinals理论引发了加密圈的蝴蝶效应，其利用聪在Bitcoin构建生态的新方法，称为数字文物，这掀起了建设Bitcoin生态以及Bitcoin考古热潮，首先Builder们考古发现了稀有聪，披萨聪以及中本聪等非常具有纪念意义的聪，进而DMT理论提出利用区块数据发行非任意资产的全新模式，符文利用UTXO发行RUNE资产等，一切都让Bitcoin Builder们耳目一新、醍醐灌顶，享受着发现Bitcoin新大陆的喜悦，我们看到到了新牛市中创新的曙光，万链归一拉开序幕。</p>
+<p>NavigatorLabs总结过去1年中出现的各种协议，如Ordinals 铭文、BRC20、Bitmap、递归铭文、BRC420、TAP、Atom原子、Runes符文、Taproot Asserts以及DMT等，发现了一些规律及路径，并撰写了比特原生理论行动手册以及比特原生六要素导航图。</p>
+<p><img alt="Bitcoin：一切的奥秘从BIT开始" height="492" src="https://cdn-img.panewslab.com/panews/images/d0o33JTkB8.png" style="display: block; margin-left: auto; margin-right: auto;" width="670" /></p>
+<p>当比特原生六要素完整呈现出来时，相信每个Bitcoin Builder们也找出了基于Bitcoin的众多原生协议的制定规则与路径，社区对六要素中的聪、UTXO、Block、DATA与POW分析文章已经很多，而其中作为六要素之一的BIT是大家目前最不了解的部分，因为BIT是另外5个元素的底层元素，底层量纲。</p>
+<p>关于Bitcoin的考古浪潮仍在持续中，让我们开始思考一些习以为常的问题，进而挖掘其中深意，本文就试图从多角度对BIT进行解析。</p>
+<h3><strong>BIT是什么？</strong></h3>
+<p>BIT，Binary digit简写，是二进制数字中的位，信息量的最小度量单位，每个0或1就是一个位(bit)，其中8bit就称为一个字节（Byte）。计算机中的CPU位数指的是CPU一次能处理的最大位数，例如32位计算机的CPU一次最多能处理32位数据。</p>
+<p><img alt="Bitcoin：一切的奥秘从BIT开始" height="287" src="https://cdn-img.panewslab.com/panews/images/zwh5b358Mf.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="674" /></p>
+<p><img alt="Bitcoin：一切的奥秘从BIT开始" height="125" src="https://cdn-img.panewslab.com/panews/images/3xm1kFY1Yv.png" style="display: block; margin-left: auto; margin-right: auto;" width="679" /></p>
+<p>虽然比特币只有15年的历史，但比特币的出现却是百年来信息发展的必然结果，Bitcoin以Bit命名只是一时兴起，还是在致敬什么？这不得不从BIT 的起源说起。</p>
+<h4><strong>BIT，1948年香农在信息论第一次正式使用</strong></h4>
+<p><strong><img alt="Bitcoin：一切的奥秘从BIT开始" height="451" src="https://cdn-img.panewslab.com/panews/images/2hu485j3YJ.png" style="display: block; margin-left: auto; margin-right: auto;" width="679" /></strong></p>
+<p align="center">图左侧为信息熵计算公式</p>
+<p>1948年香农Shannon(信息论之父)在其划时代著作信息论一书《通信的数学理论》「A mathematical theory of communication」第一次正式使用BIT作为信息量的单位，并出现在著作的第一页，成为信息论的重要贡献之一,并提出三大定律等信息论的基础理论。</p>
+<h4><strong>BIT的出现，让信息可以放进数学公式里</strong></h4>
+<p>回溯物理学在发展遇到瓶颈时，牛顿将一些传统但又定义模糊的词汇，如力、时间、质量等重新定义，把这些词加以量化放在数学公式里，让物理学开启了一个新的时代。</p>
+<p>如何把信息放进数学公式里？这时信息单位「比特」Bit 被定义出来，Claude Elwood Shannon 认定，信息是和长度、重量这些物理属性一样，可以测量和规范。如今，Bit作为衡量信息多少的单位，与公尺、千克、分钟一样，成为日常生活中的最常见的量纲之一。</p>
+<p>用 Bit 作为量纲衡量后，人们发现信息几乎无处不在。比特 Bit 的出现在后来引领了电脑、网络、摩尔定律，和如今发达的信息产业、比特币与区块链。</p>
+<p><img alt="Bitcoin：一切的奥秘从BIT开始" src="https://cdn-img.panewslab.com/panews/images/B3G4M6742b.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p align="center">BIT也可以作为信息熵的单位</p>
+<p align="center"> </p>
+<h4><strong>BIT，是现代计算机处理及存储的最小单位</strong></h4>
+<p>BIT是衡量二进制的单位，而二进制是最简单有效的机器语言，比如阿兰·图灵制作的图灵机就是利用二级制，这是现代计算机的雏形。</p>
+<p><img alt="Bitcoin：一切的奥秘从BIT开始" src="https://cdn-img.panewslab.com/panews/images/N1eY1bdTyg.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>阿兰·图灵-图灵机</pre>
+<p>在多位科学家的研究下，这些由0101组成的二进制符号串成为信息传输方式，处理以及存储的最小计量单位就是BIT，但实际使用中比特这个单位还是太小了，陆续就有了1024Mbit，1024MB以及1024TB等单位。</p>
+<p><img alt="Bitcoin：一切的奥秘从BIT开始" height="324" src="https://cdn-img.panewslab.com/panews/images/53pn599vOU.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="672" /></p>
+<pre>中文汉字的二进制索引解码过程</pre>
+<h4><strong>BIT与公钥密码学</strong></h4>
+<p>Claude Elwood Shannon 曾在论文里指出，优质密码系统的设计问题本质上是寻求一个困难问题的解，使破译密码等价于解某个已知数学难题。</p>
+<p>信息单位BIT的提出，让使用数学公式计算信息数据成为可能。</p>
+<p>受此思想启发，Bailey W. Diffie、Martin E. Hellman 于 1976 年在《IEEE Transactions on Information Theory》上发表论文「New Direction of Cryptography」诠释密码学的新方向，同时标志着公钥密码学的诞生，Diffie 与 Hellman 也因此在 2016 年获得图灵奖。</p>
+<p align="center"><img alt="Bitcoin：一切的奥秘从BIT开始" height="639" src="https://cdn-img.panewslab.com/panews/images/5PmlPxqE4A.png" style="display: block; margin-left: auto; margin-right: auto;" width="654" /></p>
+<p>公钥密码学又为比特币等区块链数字资产的发展奠定了基础，公钥密码学在数字硬通货中的应用重新定义了私有财产。</p>
+<h3 align="center" style="text-align: left;">BIT衡量了Bitcoin , Bitcoin发扬了BIT</h3>
+<h4><strong>BIT是Bitcoin网络的度量衡</strong></h4>
+<p>统一度量衡，对历史比较了解的Bitcoin Builder们一定已经想到了秦国统一六国后的大一统制度，在全国推行车同轨，书同文，行同伦，量同衡，币同形等准则，自此全国上下有了标准的度量衡，促进了经济社会的发展。</p>
+<p>古希腊、古罗马时期的度量衡标准为现代国际度量衡发展产生了重要影响，随着全球大融合，第一个国际性度量衡标准是由法国的制造商和商人于1790年颁布。</p>
+<p>BIT这一信息的最小单位与Bitcoin链，就像一对孪生兄弟，你中有我，我中有你。</p>
+<p>BIT衡量了Bitcoin , Bitcoin发扬了BIT。</p>
+<h4><strong>BIT规定了比特币区块内部结构大小</strong></h4>
+<p><strong>哈希值：</strong>对链中前序(父)区块哈希值的引用 32Bit</p>
+<p><strong>难度系数：</strong>本区块工作量证明算法的难度目标 4Bit</p>
+<p><strong>梅克尔树：</strong>本区块所有交易的默克尔根的哈希 32Bit</p>
+<p><strong>区块尺寸：</strong>本区块所有交易的大小，最大不超过 33554432Bit（4M）</p>
+<p><img alt="Bitcoin：一切的奥秘从BIT开始" height="167" src="https://cdn-img.panewslab.com/panews/images/8K6OCHC98k.png" style="display: block; margin-left: auto; margin-right: auto;" width="533" /></p>
+<p><strong>BITS字段的数值决定了POW矿机的计算量及挖矿成本</strong></p>
+<p>区块结构中的 Bits 字段表示存储难度目标的十六进制数。Bits字段标识了当前区块头Hash之后要小于等于哈希目标值（target_hash），即Bits通过运算得到target_Hash，同时Bits值决定了网络计算能力大约每10分钟生成一个区块所需的难度级别。</p>
+<p><strong>Bits字段和目标哈希值之间的关系：</strong></p>
+<p>以高度277316区块为例</p>
+<p>Bits值为0x1903a30c,这个值是系数/指数格式，其十进制数值是419668748</p>
+<p>前两位十六进制数为幂：0x19</p>
+<p>接下来的6位数为系数：0x03a30c</p>
+<p>计算公式: targetHash = 系数*256^{幂-3}; 十六进制数字前面都得带0x**</p>
+<p>target_hash=03a30c*256^{(0x19-3)}</p>
+<p><strong>根据难度的计算公式，目标哈希值确定，Bits值越小，难度越高，需要计算力越大，挖矿成本越高。</strong></p>
+<p><strong><img alt="Bitcoin：一切的奥秘从BIT开始" height="439" src="https://cdn-img.panewslab.com/panews/images/L0sb3WjmS5.png" style="display: block; margin-left: auto; margin-right: auto;" width="667" /></strong></p>
+<p align="center"><em>BITS数值随区块增加减少</em></p>
+<p align="center"><em><img alt="Bitcoin：一切的奥秘从BIT开始" height="407" src="https://cdn-img.panewslab.com/panews/images/GuX9MkR33J.png" style="display: block; margin-left: auto; margin-right: auto;" width="677" /></em></p>
+<p>我们将15年来第一个区块的BITS数值和HASH值做了一个统计表，发现Bits的数值越低，HASH开头0的位数就越多。</p>
+<p>采矿计算的难度取决于哈希值的开头有多少个0，Bits数值越低，开头0越多，需要算力越大，要计算出上表的哈希值，比如连续17个0开头的哈希值，矿工先确定Prev Hash，Merkle Hash，Timestamp，Bits，然后，不断变化nonce来计算哈希，直到找出连续17个0开头的哈希值。我们大致推算一下，大约需要计算2.9万亿亿次。</p>
+<p><img alt="Bitcoin：一切的奥秘从BIT开始" height="53" src="https://cdn-img.panewslab.com/panews/images/OkVC18KH8L.png" style="display: block; margin-left: auto; margin-right: auto;" width="673" /></p>
+<p>实际的难度是根据Bits，用前文中的公式计算出来：</p>
+<p>Difficulty = 402937298</p>
+<p>= 0x18 0455d2</p>
+<p>= 0x0455d2*28*(0x18-3)</p>
+<p>= 106299667504289830835845558415962632664710558339861315584</p>
+<p>= 0x00000000000000000455d2000000000000000000000000000000000000000000</p>
+<p><strong>注意，难度值的数值越小，说明哈希值前面的0越多，计算的难度越大。</strong></p>
+<p><strong><img alt="Bitcoin：一切的奥秘从BIT开始" src="https://cdn-img.panewslab.com/panews/images/Gej1QG3r7i.png" style="display: block; margin-left: auto; margin-right: auto;" /></strong></p>
+<p>写完整篇文章后，笔者有理由相信，中本聪之所以以Bitcoin命名，是出于对BIT意义的认同，对香农的敬意，对信息论的延续，对过去百年来信息发展的献礼，他让信息世界从此有了数字黄金，他要像建设现实社会一样，建立一个比特社会，而Bitcoin链就是这个使命的基石。</p>
+<p>至此，笔者终于解开了一个最常见，却内涵深意的话题：为何叫Bitcoin？大家不约而同的使用BIT作为名称，是冥冥中受到中本聪价值观传递的启发，更是对百年来信息发展的使命与传承。</p>
+<p>同时也完美解释了为何BIT是比特原生六要素之一，BIT同时也是另外5个元素的底层元素。</p>
+<p>Bitcoin：一切的奥秘从BIT开始，让我们沿着这个发现，去赋能BIT，用自己的微薄之力延续这份使命。</p>
+<h3>BIT 同名Alpha阿尔法推荐：$DMT-BIT，具备成为Bitcoin生态最大MEME币潜力?</h3>
+<p><strong>$DMT-BIT发行规则及数量</strong></p>
+<p><strong>协议：</strong>DMT&amp;NAT标准</p>
+<p><strong>进度：</strong>25%，目前持有人数排名第二</p>
+<p><strong>形式：</strong>免费MINT，仅支付矿工GAS费，最近GAS低，可以逢低MINT</p>
+<p><strong>数量：</strong>83万张，约344万亿$DMT-BIT，随区块增加，每开发一个区块，增加一张$DMT-BIT,约3.8亿$DMT-BIT/张</p>
+<p><img alt="Bitcoin：一切的奥秘从BIT开始" height="413" src="https://cdn-img.panewslab.com/panews/images/Nl36I29bi4.png" style="display: block; margin-left: auto; margin-right: auto;" width="671" /></p>
+<p><strong>$DMT-BIT的5大MEME特性</strong></p>
+<p><strong>第一：</strong>$BIT的名字与Bitcoin都取自与信息单位BIT；</p>
+<p><strong>第二：</strong>$BIT与Bitcoin同名；</p>
+<p><strong>第三：</strong>$DMT-BIT引用11号元素BITS， 并与区块元素Bits同名；</p>
+<p><strong>第四：</strong>$DMT-BIT可以映射理解为区块元素Bits字段的代币化；</p>
+<p><strong>第五：</strong>$DMT-BIT的价值与POW挖矿成本将产生量子纠缠。</p>
+<h3 align="center" style="text-align: left;">$DMT-BIT的估值思路</h3>
+<p><strong>$DMT-BIT的价值与POW挖矿成本将产生量子纠缠</strong></p>
+<p>$DMT-BIT数量取自于Bits字段，并与Bits同名，$DMT-BIT可以映射理解为Bits的代币化。</p>
+<p>前述Bits值越小，难度值的数值越小，说明哈希值前面的0越多，挖矿难度就越高，需要计算力越大，对应每Bits的挖矿成本也越高，意味着每$DMT-BIT的价格越高。</p>
+<p>$DMT-BIT的价值与POW挖矿成本将产生量子纠缠。</p>
+<p align="center"><strong><img alt="Bitcoin：一切的奥秘从BIT开始" height="306" src="https://cdn-img.panewslab.com/panews/images/Z95Dig176R.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="670" /></strong></p>
+<p align="center"><em>2023年8月14日《Nature Photonics》发布量子纠缠成像图</em></p>
+<p align="center"> </p>
+<h3 align="center" style="text-align: left;"><strong>$DMT-BIT的MINT方式</strong></h3>
+<p><strong>方式一：</strong>在DMT官网 ，通过可视化或随机选择的方式MINT,一次最多23张，成本较高</p>
+<p><strong>MINT链接：</strong>https://mscribe.io/nats/dmt-bit</p>
+<p><img alt="Bitcoin：一切的奥秘从BIT开始" height="387" src="https://cdn-img.panewslab.com/panews/images/UiL7D1UTXQ.png" style="display: block; margin-left: auto; margin-right: auto;" width="629" /></p>
+<p><strong>方式二：</strong>复制下面链接中的可MINT文本，到拥有MINT功能的平台，通过文本MINT，一次最多可以1000张。</p>
+<p><strong>MINT链接：</strong>https://luminex.io/ordinals/mint?search=dmt-bit-9424802e38fc889969417cd90df4c4147209d2a83ed83798c0c4aa4391ad36e5i0</p>
+<p><img alt="Bitcoin：一切的奥秘从BIT开始" height="475" src="https://cdn-img.panewslab.com/panews/images/KF6PYN908J.png" style="display: block; margin-left: auto; margin-right: auto;" width="648" /></p>
+<p align="center"><strong>$DMT-BIT 101</strong></p>
+<p align="center"> </p>
+<p><strong>1、为何叫Bitcoin和$DMT-BIT?</strong></p>
+<p>Bitcoin名字源于BIT，是中本聪出于对BIT意义的认同，对香农的敬意，对信息论的延续，对过去百年来信息发展的献礼；</p>
+<p>$DMT-BIT引用11号元素BITS， $DMT-BIT的名字同样源于BITS，BITS是最符合BIT理念及代币价值的对应区块元素，BITS字段不止反映挖矿成本，其本身的随区块数量减少的特性，也是目前已知的38个区块元素里能使代币数量合理且非任意增长的最佳元素。</p>
+<p><strong>2、为何BIT作为信息单位这么重要？</strong></p>
+<p>BIT作为信息单位被提出后，科学家就可以以数学公式的方式解决信息的各类问题与应用，比如公钥密码学的诞生等，这是BTC能出现的一步步基础，比特 Bit 的出现在后来引领了电脑、网络、摩尔定律，和如今发达的信息产业、比特币与区块链。</p>
+<p>同样的，物理学在发展遇到瓶颈时，牛顿将一些传统但又定义模糊的词汇，如力、时间、质量等重新定义，把这些词加以量化放在数学公式里，让物理学开始了一个新的时代。</p>
+<p><strong>3、Bit与挖矿难度、POW和挖矿成本的关系?</strong></p>
+<p>挖矿难度需要根据Bits值，用公式计算得出，Bits值越小，难度值的数值越小，说明哈希值前面的0越多，挖矿难度就越高，需要计算力越大，POW的挖矿成本就越高。对应每Bits的挖矿成本也越高，$DMT-BIT可以映射理解为区块元素Bits字段的代币化，意味着每$DMT-BIT的价格越高。</p>
+<p><strong>4、各种BIT代币满天飞，为何$DMT-BIT具备成为Bitcoin生态最大MEME币潜力?</strong></p>
+<p>是的，确实已经有很多项目方或社区发行了名为BIT或者BITS的代币，首先可以看出大家对于BIT的认可具有全球化的普遍性，其次大部分都是在ETH等生态发行，他们会继续有自己的应用场景及市场。</p>
+<p><strong>而$DMT-BIT相较于其他同名BIT拥有自己的独特优势：</strong></p>
+<p><strong>发行方式的变革：</strong>最大的不同点在于$DMT-BIT的发行是在Bitcoin主链上，并依据DMT数字物质理论，数量取自于同名区块字段BITS的数值，这是比特币区块元素表中的第11号元素，以非任意代币的方式发行，这与上面提到的众多、以任意方式发布的BIT同名代币有本质上的不同,这是15年来代币发行方式的第一次变革。</p>
+<p><strong>更具公平性：</strong>$DMT-BIT随区块增加和释放的非任意性，也保证了后续加入者同样以免费铸造的方式获得，比其他BIT同名代币更具公平性。</p>
+<p><img alt="Bitcoin：一切的奥秘从BIT开始" height="433" src="https://cdn-img.panewslab.com/panews/images/l0f4VkCYT0.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="670" /></p>
+<p><strong>以挖矿成本作为估值模型：</strong>最重要的，$DMT-BIT数量取自于Bits字段，与Bits同名，$DMT-BIT可以映射理解为Bits的代币化。前述Bits值越小，难度值的数值越小，说明哈希值前面的0越多，挖矿难度就越高，需要计算力越大，对应每Bits的挖矿成本也越高，意味着每$DMT-BIT的价格越高，$DMT-BIT的价值与POW挖矿成本将产生量子纠缠，这个估值模型是上述 BIT同名代币没有的估值方式。</p>
+<p><strong>$DMT-BIT具备成为Bitcoin生态最大MEME币的潜力。</strong></p>
+<p><strong>5、Bit作为Bitnative理论的六要素之一，可以用于哪些应用？</strong></p>
+<p>首先这取决去社区对BIT的共识，任何人都可以以自己的方式建设BIT，不限于应用，从最简单的起名、持有、布道、meme到应用，BIT属于大家，任何人均可通过免费铸造（仅需支付矿工的GAS费）获得。</p>
+<p>以本文撰写者的设想，Bitcoin是价值存储，BIT作为应用型代币，也有自己的优势，比如作为GAS费，应用内支付代币、质押及治理代币等，目前Bitcoin生态内代币多以纯MEME代币为主，市场也需要一个跑出来的应用型代币。</p>
+<p><strong>6、如何理解 $DMT-BIT 的非任意增发机制？</strong></p>
+<p align="justify">DMT&amp;NAT协议中，所有非任意资产NATS的发行量都会随着区块或模式的出现而增发，这一天然增发模式改变了现有众多代币人为设置增发机制和解锁机制的任意模式，非常符合比特币生态的去中心化、免信任方式，非任意增发保证了后续用户有机会仅使用GAS去获取这一资产，更公平。</p>
+<p align="justify">以$DMT-BIT代币为例，$DMT-BIT总量 = 所有区块上的比特数之和，当前约为 344 万亿（约 83.5 万个区块 x 每个区块比特数均值 4 亿）</p>
+<p align="justify">由于比特币链上的区块每 10 分钟出 1 个块，每年约新增 5.2 万个区块，但区块上的比特 bits 在不断缩减，如下图所示，每 10 万个区块大约缩减 2.81%（预计每年约缩减 1.4%）</p>
+<p align="justify"><img alt="Bitcoin：一切的奥秘从BIT开始" height="447" src="https://cdn-img.panewslab.com/panews/images/y475qXbI20.png" style="display: block; margin-left: auto; margin-right: auto;" width="680" /></p>
+<pre>引用 @GloryYeh 的数据</pre>
+<p align="justify">综上两点，$DMT-BIT存在一定的增发，但由于每年新增区块数大致稳定且 bits 会逐年缩小，故增发比例会逐年减少，从 2024 年的增发 4.8% 到 2028 年 3.5%，逐渐趋向于0，这比 ETH 和 DOGE 的每年 5% 固定增发比例更合理，往前推，$DMT-BIT在 2014 年的增发约为 10%，所以$DMT-BIT的增长率更符合一个现实世界国家从发展中国家高速增长到发达国家慢速增长的过程，更符合经济发展规律。</p>
+<p align="justify"><img alt="Bitcoin：一切的奥秘从BIT开始" height="440" src="https://cdn-img.panewslab.com/panews/images/11zbrN1XdM.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="679" /></p>
+<pre>引用 @GloryYeh 的数据</pre>
+<p>按这个增发比例推算，预计到 2047 年，$DMT-BIT的总量才与 $SHIB 的总量持平：</p>
+<p><img alt="Bitcoin：一切的奥秘从BIT开始" height="333" src="https://cdn-img.panewslab.com/panews/images/Av8g4o2hy3.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="666" /></p>
+<p><strong>7、非任意代币的优势是什么？与任意代币的区别是什么？</strong></p>
+<p align="justify">区块链的发展史就是代币发行方式的演化史，自比特币诞生15年来，加密领域围绕代币发行方式历经了开发新链、部署智能合约、创建发行协议标准获得铸币权等任意代币模式，由新链开发者、智能合约部署者以及协议发行方设定代币数量及解锁方式，这类代币发行方式可以统一定义为任意代币，由人控制。</p>
+<p align="justify"><img alt="Bitcoin：一切的奥秘从BIT开始" height="522" src="https://cdn-img.panewslab.com/panews/images/8GDl5M5sUr.png" style="display: block; margin-left: auto; margin-right: auto;" width="679" /></p>
+<p align="justify">非任意代币NAT是15 年来代币发行方式的第一次变革与分支，基于 DMT 数字物质理论，通过索引区块原生数据获得铸币权，完美利用区块即账本的优势，将代币的发行数量及解锁机制交由区块账本这个最具共识的模式负责。</p>
+]]></content:encoded>
+<pubDate>Tue, 19 Mar 2024 13:00:14 +0800</pubDate>
+<pubDate>Tue, 19 Mar 2024 13:00:14 +0800</pubDate>
+</item>
 
 <item>
 <title>币安将于3月20日暂停Polygon和Cosmos网络的充提以支持网络升级及硬分叉</title>

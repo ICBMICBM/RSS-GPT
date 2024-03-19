@@ -3036,3 +3036,15 @@ Existing_entries: 69
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-19 05:00:07.203925
+------------------------------------------------------
+Started: 2024-03-19 05:16:35.957237
+Existing_entries: 69
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 13
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin Flash Crashed to $8.9K on BitMEX](https://www.coindesk.com/markets/2024/03/19/bitcoin-flash-crashed-to-89k-on-bitmex/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 19
+Summarized using GPT-3.5-turbo-1106
+Append: [BTC Maintains $65K as GBTC Outflows Hit Highest Level Ever](https://www.coindesk.com/markets/2024/03/19/btc-maintains-65k-as-gbtc-outflows-hit-highest-level-ever/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 2
+Finish: 2024-03-19 05:16:42.179570
