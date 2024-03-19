@@ -3336,3 +3336,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bitcoin Drops Under $63K, Leads to Marketwide Correction](https://www.coindesk.com/markets/2024/03/19/bitcoin-drops-under-63k-leads-to-marketwide-correction/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 2
 Finish: 2024-03-19 11:35:37.557712
+------------------------------------------------------
+Started: 2024-03-19 11:42:49.939940
+Existing_entries: 85
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 16
+Summarized using GPT-3.5-turbo-1106
+Append: [Galaxy Digital to Introduce Exchange-Traded Products in Europe in 'Matter of Weeks'](https://www.coindesk.com/markets/2024/03/19/galaxy-digital-to-introduce-exchange-traded-products-in-europe-in-matter-of-weeks/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 14
+Summarized using GPT-3.5-turbo-1106
+Append: [Bank of Japan Ends Eight-Year Negative Rates Regime; Bitcoin Slides to $62.7K](https://www.coindesk.com/markets/2024/03/19/bank-of-japan-ends-eight-year-negative-rates-regime-bitcoin-slides-to-627k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 2
+Finish: 2024-03-19 11:42:55.365194

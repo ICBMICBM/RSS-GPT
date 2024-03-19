@@ -3418,3 +3418,12 @@ Existing_entries: 144
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-19 11:35:26.608026
+------------------------------------------------------
+Started: 2024-03-19 11:42:40.153319
+Existing_entries: 144
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 357
+Summarized using GPT-3.5-turbo-1106
+Append: [Galaxy Digital未来几周将在欧洲市场推出加密货币ETP](https://www.panewslab.com/zh/sqarticledetails/wwpqhzmd.html)
+append_entries: 1
+Finish: 2024-03-19 11:42:44.393591
