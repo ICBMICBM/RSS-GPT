@@ -3352,3 +3352,12 @@ Existing_entries: 136
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-19 10:36:32.882535
+------------------------------------------------------
+Started: 2024-03-19 10:43:46.636960
+Existing_entries: 136
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 94
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitwise CIO：或还需几周时间才能迎来首家支持比特币ETF的华尔街投行](https://www.panewslab.com/zh/sqarticledetails/ezsioynp.html)
+append_entries: 1
+Finish: 2024-03-19 10:43:51.412603
