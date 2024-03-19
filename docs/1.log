@@ -3292,3 +3292,15 @@ Existing_entries: 130
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-19 09:29:58.759501
+------------------------------------------------------
+Started: 2024-03-19 09:37:50.401873
+Existing_entries: 130
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 302
+Summarized using GPT-3.5-turbo-1106
+Append: [BitMEX调查导致比特币今晨在其平台跌至8900美元的闪崩情况](https://www.panewslab.com/zh/sqarticledetails/xuacodft.html)
+Token length: 3167
+Summarized using GPT-3.5-turbo-1106
+Append: [MEME币热度一骑绝尘，5大主流叙事何去何从？](https://www.panewslab.com/zh/articledetails/kte0t6ie.html)
+append_entries: 2
+Finish: 2024-03-19 09:37:59.704947
