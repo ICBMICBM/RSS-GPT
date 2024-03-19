@@ -3639,3 +3639,12 @@ Existing_entries: 102
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-19 18:49:13.449773
+------------------------------------------------------
+Started: 2024-03-19 18:56:38.462519
+Existing_entries: 102
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 131
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin Rebounds to $65K as Investors Weigh Looming Fed Decision Risk](https://www.coindesk.com/markets/2024/03/19/bitcoin-rebounds-to-65k-as-investors-weigh-looming-fed-decision-risk/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-19 18:56:43.368238
