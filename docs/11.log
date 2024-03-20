@@ -4296,3 +4296,12 @@ Existing_entries: 117
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-20 12:56:34.741699
+------------------------------------------------------
+Started: 2024-03-20 13:13:34.037339
+Existing_entries: 117
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 23
+Summarized using GPT-3.5-turbo-1106
+Append: [Berachain's Crypto Trade Aggregator Ooga Booga Raises $1M](https://www.coindesk.com/business/2024/03/20/berachains-crypto-trade-aggregator-ooga-booga-raises-2m/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-20 13:13:36.727195

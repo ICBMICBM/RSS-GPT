@@ -4086,3 +4086,12 @@ Existing_entries: 47
 Fetching from https://bitcoinist.com/feed
 append_entries: 0
 Finish: 2024-03-20 12:56:35.010562
+------------------------------------------------------
+Started: 2024-03-20 13:13:36.835375
+Existing_entries: 47
+Fetching from https://bitcoinist.com/feed
+Token length: 3121
+Summarized using GPT-3.5-turbo-1106
+Append: [Tornado Cash Founder Charged For Allegedly Aiding $1.2 Billion In Laundered Funds](https://bitcoinist.com/tornado-cash-founder-charged-for-allegedly-aiding-1-2-billion-in-laundered-funds/)
+append_entries: 1
+Finish: 2024-03-20 13:13:43.923188
