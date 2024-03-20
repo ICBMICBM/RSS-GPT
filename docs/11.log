@@ -4203,3 +4203,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bitcoin Climbs Above $63K, Crypto Longs Take On $600M in Liquidations](https://www.coindesk.com/markets/2024/03/20/bitcoin-climbs-above-63k-crypto-longs-take-on-600m-in-liquidations/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-20 10:30:58.788078
+------------------------------------------------------
+Started: 2024-03-20 10:38:24.458785
+Existing_entries: 114
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-03-20 10:38:24.917995
