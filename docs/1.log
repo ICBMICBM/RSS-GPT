@@ -4120,3 +4120,12 @@ Existing_entries: 186
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-20 04:48:08.732291
+------------------------------------------------------
+Started: 2024-03-20 04:55:36.554243
+Existing_entries: 186
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 367
+Summarized using GPT-3.5-turbo-1106
+Append: [比特币现货ETF昨日总净流出3.26亿美元，持续两日净流出](https://www.panewslab.com/zh/sqarticledetails/f8cq2kuw.html)
+append_entries: 1
+Finish: 2024-03-20 04:55:41.241979
