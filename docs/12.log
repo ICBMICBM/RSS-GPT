@@ -4242,3 +4242,12 @@ Existing_entries: 51
 Fetching from https://bitcoinist.com/feed
 append_entries: 0
 Finish: 2024-03-20 16:56:35.307538
+------------------------------------------------------
+Started: 2024-03-20 17:08:29.946130
+Existing_entries: 51
+Fetching from https://bitcoinist.com/feed
+Token length: 2698
+Summarized using GPT-3.5-turbo-1106
+Append: [FTX’s Sam Bankman-Fried Buckles Ahead Of Sentencing, 50 Years Too Much?](https://bitcoinist.com/ftx-sam-bankman-fried-50-years/)
+append_entries: 1
+Finish: 2024-03-20 17:08:35.501136
