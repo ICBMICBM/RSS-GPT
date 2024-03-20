@@ -4381,3 +4381,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Solana链上DEX近7天交易量达213亿美元，超越以太坊](https://www.panewslab.com/zh/sqarticledetails/ea9n2xbf.html)
 append_entries: 1
 Finish: 2024-03-20 10:23:23.913055
+------------------------------------------------------
+Started: 2024-03-20 10:30:45.240930
+Existing_entries: 207
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 3451
+Summarized using GPT-3.5-turbo-1106
+Append: [Sui新一轮学术研究奖公布：全球知名高校参与，17个获奖超42万美金](https://www.panewslab.com/zh/articledetails/2j4z9wi0.html)
+append_entries: 1
+Finish: 2024-03-20 10:30:51.336980

@@ -5,18 +5,101 @@
 <link>https://rss.panewslab.com/</link>
 
 <item>
+<title>Sui新一轮学术研究奖公布：全球知名高校参与，17个获奖超42万美金</title>
+<link>https://www.panewslab.com/zh/articledetails/2j4z9wi0.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/2j4z9wi0.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。最近，Sui基金会宣布资助17个致力于推动区块链相关技术进步的提案。获奖者来自国际知名大学，包括康奈尔大学、伦敦大学学院、洛桑联邦理工学院、新加坡国立大学等。这些提案涵盖了多个领域，如DAOs、异步DAG协议共识、智能合约审计、共识协议领域、去中心化预言机协议等。每个提案都具有独特的研究方向，旨在推动Web3发展并提升区块链技术的前沿。 <div>
+<p><img alt="Sui新一轮学术研究奖公布：全球知名高校参与，17个获奖超42万美金" src="https://cdn-img.panewslab.com//panews/2022/3/20/images/66ecf90aa1b316c39ac2e4bc54867e9a.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>近日，Sui学术研究奖为17个致力于推动区块链相关技术进步的提案提供资金支持。</p>
+<p>近日，Sui基金会宣布新一轮Sui学术研究奖的获奖者，该计划资助推动Web3发展的研究，尤其是推动与区块链网络、智能合约编程和基于Sui构建的产品相关的技术边界。</p>
+<p>在过去的两个阶段中，Sui基金会批准了来自包括韩国科学技术院（KAIST）、伦敦大学学院（UCL）、洛桑联邦理工学院（EPFL）和新加坡国立大学（NUS）等在内的17项来自国际知名大学的提案，总额为425,000美元。</p>
+<h3>? 受奖励提案介绍</h3>
+<h4><strong>DAOs：投票团体多样性</strong></h4>
+<p><strong>Ari Juels（康奈尔大学）</strong></p>
+<p>这项研究解决了一个基本问题，即去中心化组织意味着什么，该研究将建立一个衡量去中心化组织的指标。通过建立一个去中心化自治组织（Decentralized Autonomous Organization，DAO）体现对去中心化程度的度量，该研究将确定可以增强组织内部去中心化的实践方法。</p>
+<p><strong>? 了解更多：https://www.cornell.edu</strong></p>
+<h4><strong>自适应安全的异步DAG协议共识</strong></h4>
+<p><strong>Philipp Jovanovic（伦敦大学学院）</strong></p>
+<p>该提案旨在开发一种异步DAG协议，以提高对抗攻击的强度并适应不断变化的对手。与当前的部分同步模型不同，异步容易受到拒绝服务攻击和静态对手的影响，所提议的协议将提供更好的安全性和适应性，同时保持尽可能接近部分同步对手的性能水平。</p>
+<p><strong>? 了解更多：https://www.ucl.ac.uk</strong></p>
+<h4><strong>大型语言模型指导下的Sui智能合约审计</strong></h4>
+<p><strong>Arthur Gervais（伦敦大学学院）</strong></p>
+<p>使用像GPT-4-32k和Claude-v2-100k这样的大型语言模型（Large Language Models，LLMs），可以实现对Move智能合约审计的巨大改进。该团队通过对52个Solidity DeFi智能合约的初步分析发现了各种漏洞，导致了近10亿美元的损失。该项目将这项研究扩展到Sui智能合约，强调及时进行稳健安全评估工程，并使用合成基准数据集评估LLM的性能。</p>
+<p><strong>? 了解更多：https://www.ucl.ac.uk</strong></p>
+<h4><strong>映射共识协议领域</strong></h4>
+<p><strong>Christopher Cachin（伯尔尼大学）</strong></p>
+<p>通过调查当前的共识领域，该项目将为密码共识协议提供新颖见解。结果将有助于更好地理解现有算法，并为设计分布式协议提供新的结构。</p>
+<p><strong>? 了解更多：https://www.unibe.ch</strong></p>
+<h4><strong>去中心化预言机协议的高可信验证框架</strong></h4>
+<p><strong>Giselle Reis（卡内基梅隆大学）</strong></p>
+<p>Bruno Woltzenlogel Paleo（Djed Alliance）</p>
+<p>该提案创建了一个框架，通过形式化方法严格分析和验证区块链预言机，对于确保智能合约中的准确和公平的外部数据至关重要。该提案在先前的工作基础上进行了扩展，利用Coq证明管理系统中形式化的基本预言机协议和业务模型，旨在开发一个全面的定义和证明策略库。</p>
+<p><strong>? Coq证明管理系统：https://coq.inria.fr</strong></p>
+<h4><strong>识别可扩展性瓶颈</strong></h4>
+<p><strong>Roger Wattenhofer（苏黎世联邦理工学院）</strong></p>
+<p>通过识别源于智能合约设计缺陷的瓶颈，该提案旨在提高区块链应用程序的并行化潜力。它还将探讨调整交易费用如何影响并行化潜力。</p>
+<p><strong>? 了解更多：https://ethz.ch</strong></p>
+<h4><strong>Bullshark协议机械化</strong></h4>
+<p>Ilya Sergey（新加坡国立大学）</p>
+<p>这项研究旨在使用现代计算机辅助验证工具对Bullshark的属性进行正式验证，推进基于有向无环图的共识协议的理解。此外，该提案将通过提供基于DAG的共识协议的第一个经机械验证的模型，为分布式系统研究的进步做出贡献。</p>
+<p><strong>? 了解更多：https://nus.edu.sg</strong></p>
+<h4><strong>BBSF：区块链基准化标准框架</strong></h4>
+<p><strong>Henry F. Korth（利哈伊大学）</strong></p>
+<p>该提案旨在创建一个区块链基准标准化格式，以公平比较L1区块链以及L2扩展解决方案。最终目标是为用户和开发者提供链性能的透明洞见，促进明智决策的制定。</p>
+<p><strong>? 了解更多：https://www2.lehigh.edu</strong></p>
+<h4><strong>构建可扩展和去中心化的共享序列层</strong></h4>
+<p><strong>Min Suk Kang（韩国科学技术院）</strong></p>
+<p>该提案将探讨将Bullshark/Mysticeti用作共享排序器算法的用途。这将涉及运行多个使用Sui作为排序层的Rollup，使它们可以根据其执行层解释交易。</p>
+<p><strong>? 了解更多：https://www.kaist.ac.kr</strong></p>
+<h4><strong>用于最佳拥堵定价的本地费用市场</strong></h4>
+<p><strong>Abdoulaye Ndiaye（纽约大学）</strong></p>
+<p>这项研究调查了本地费用市场以优化拥堵定价，在交易拥堵和区块链网络中执行交易之间进行了类比。目标是建立反映拥堵状态的有效定价机制，以实现最佳资源分配。对用户估值和延迟成本的初步分析显示了拥堵定价在区块链中是有希望的方向。</p>
+<p><strong>? 了解更多：https://www.nyu.edu</strong></p>
+<h4><strong>SAMM：分片自动做市商</strong></h4>
+<p><strong>Ittay Eyal（以色列理工学院）</strong></p>
+<p>正在开发一种名为分片合约的新概念，该合约利用多个合约来增加并发性。尽管分片自动做市商（AMM）智能合约可以提高性能，但由于流动性碎片化和成本更高的交易，可能会出现挑战。关键目标是调整流动性提供者和交易者的激励，以维持多个AMM分片，实现完全可并行化的分片AMM。</p>
+<p><strong>? 了解更多：https://www.technion.ac.il</strong></p>
+<h4><strong>竞争机制中的私人披露</strong></h4>
+<p><strong>Andrea Attar（罗马托尔维亚塔大学）</strong></p>
+<p>探索市场机制设计的新方法，本研究侧重于卖方之间吸引知情买家的竞争。它调查了设计者向代理人私下披露信息对市场结果和战略互动的影响，旨在提供对现代市场动态和竞争的洞察。通过理论分析和实证研究，该项目旨在推进对市场缺陷的理解，并提出政策建议。</p>
+<p><strong>? 了解更多：https://web.uniroma2.it</strong></p>
+<h4><strong>应用大型语言模型生成Sui智能合约</strong></h4>
+<p><strong>Ken Koedinger和Eason Chen（卡内基梅隆大学）</strong></p>
+<p>Sui上的智能合约是用Move语言编写的，由于训练数据有限，这给当前的大型语言模型（LLMs）带来了挑战。该研究旨在通过使用Move代码和Sui特定提示来微调LLMs来解决这个问题。该研究将收集一个全面的Move语言示例数据集，增强提示工程，并实施微调，比较这些方法下LLM的有效性。</p>
+<p><strong>? 了解更多：https://www.cmu.edu</strong></p>
+<h4><strong>COMET：过渡到Move的比较度量和框架</strong></h4>
+<p><strong>George Giaglis（尼科西亚大学）</strong></p>
+<p>尽管对Solidity进行了广泛的分析，但Move的出现带来了明显的转变，但Solidity和Move之间的比较分析仍然很少见。该研究将完成Solidity和Move之间的全面比较分析，促进对Move功能和能力的更深入理解。通过将关键要素组织成框架，我们的目标是使开发人员能够轻松过渡到使用Move进行开发。</p>
+<p><strong>? 了解更多：https://www.unic.ac.cy</strong></p>
+<h4><strong>革命性DeFi：一种深度学习方法优化Sui上的流动性和动态费用</strong></h4>
+<p><strong>Rachid Guerraoui和Walid Sofiane（洛桑联邦理工大学）</strong></p>
+<p>该研究将开发一种混合深度学习模型，用于Sui DeFi协议中的最佳范围预测。它结合了增强的递归神经网络和深度强化学习，同时整合社交媒体情感分析以提高预测准确性。该研究旨在提高DeFi协议对市场变化的响应能力，将Sui定位为下一代DeFi协议的领导者。</p>
+<p><strong>? 了解更多：https://www.epfl.ch</strong></p>
+<h4><strong>评估对SUI波动率的预测能力</strong></h4>
+<p><strong>Stavros Degiannakis（塞浦路斯开放大学）</strong></p>
+<p>在计量经济学中，评估模型拟合和预测能力至关重要，通常依赖于损失函数来评估预测效用。该研究将调查SPEC算法在Sui资产波动率预测中的有效性。利用免费提供的高频价格数据，该研究将主要关注SUI，并在各种区块链资产中进行验证。</p>
+<p><strong>? 了解更多：https://www.ouc.ac.cy</strong></p>
+<h4><strong>低内存后量子透明zkSNARKs</strong></h4>
+<p><strong>Brett Falk和Pratyush Mishra（宾夕法尼亚大学）</strong></p>
+<p>该研究旨在通过解决三个主要障碍（证明者时间复杂度、证明者空间复杂度和证明者SRS大小）来开发可扩展的zkSNARKs。目标是同时克服这些障碍，从而为区块链技术中的各种应用提供部署就绪的可扩展加密证明。</p>
+<p><strong>? 了解更多：https://www.upenn.edu</strong></p>
+]]></content:encoded>
+<pubDate>Wed, 20 Mar 2024 18:30:02 +0800</pubDate>
+<pubDate>Wed, 20 Mar 2024 18:30:02 +0800</pubDate>
+</item>
+
+<item>
 <title>Solana链上DEX近7天交易量达213亿美元，超越以太坊</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/ea9n2xbf.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/ea9n2xbf.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的<br>根据DeFiLlama数据显示，基于Solana的去中心化交易所的交易量较以太坊的去中心化交易所有较大增长。Solana生态下有17个DEX，其中Orca交易量占88%。Solana上的投机狂潮推动了Meme币交易量激增，使得Solana稳定币供应量达到新高。Reflexivity Research认为，Solana在资本效率方面具有优势。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的<br />根据DeFiLlama数据显示，基于Solana的去中心化交易所的交易量较以太坊的去中心化交易所有较大增长。Solana生态下有17个DEX，其中Orca交易量占88%。Solana上的投机狂潮推动了Meme币交易量激增，使得Solana稳定币供应量达到新高。Reflexivity Research认为，Solana在资本效率方面具有优势。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月20日消息，据CoinDesk报道，DeFiLlama数据显示，基于Solana的去中心化交易所(DEX) 的交易量在7天内增长了 67%，达到213亿美元。同期，基于以太坊的去中心化交易所的交易量增长了3%，达到194亿美元。 Solana上有17个DEX，Orca交易量排名第一，占Solana生态DEX总交易量的88%。在以太坊上，Uniswap在46个DEX 中处于领先地位。分析称，Solana生态DEX交易量的大幅增加是由基于Solana的Meme币WIF、BONK、BOME和SLERF的投机狂热所推动的。</p>
 <p>截至发稿时，过去24小时DEX Screener上最热门的代币来自Solana。投机狂潮导致3月13日的1小时内出现了2300种Meme币，Solana上的稳定币供应量达到28亿美元，创下多年来新高。研究公司Reflexivity Research表示，Solana拥有比以太坊和其他智能合约区块链更高的资本效率。</p>
 ]]></content:encoded>
 <pubDate>Wed, 20 Mar 2024 18:17:46 +0800</pubDate>
-<pubDate>Wed, 20 Mar 2024 18:17:46 +0800</pubDate>
 </item>
-
 <item>
 <title>MEME预售“扑街”，Solana上的“IC0热潮”就炒了一天？</title>
 <link>https://www.panewslab.com/zh/articledetails/o4z2fq6b.html</link>
