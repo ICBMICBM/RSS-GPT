@@ -4521,3 +4521,15 @@ Existing_entries: 128
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-20 18:19:31.094990
+------------------------------------------------------
+Started: 2024-03-20 18:30:34.491908
+Existing_entries: 128
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 37
+Summarized using GPT-3.5-turbo-1106
+Append: [NBA All-Star Tyrese Haliburton Talks Ethereum and Potentially Receiving Salary in Crypto](https://www.coindesk.com/business/2024/03/20/nba-all-star-tyrese-haliburton-talks-ethereum-and-potentially-receiving-salary-in-crypto/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 131
+Summarized using GPT-3.5-turbo-1106
+Append: [Federal Reserve Keeps Interest Rates, Rate Cut Outlook Steady for This Year](https://www.coindesk.com/markets/2024/03/20/federal-reserve-keeps-interest-rates-rate-cut-outlook-steady-for-this-year/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 2
+Finish: 2024-03-20 18:30:44.177934
