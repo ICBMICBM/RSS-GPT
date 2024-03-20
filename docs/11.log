@@ -4389,3 +4389,12 @@ Existing_entries: 122
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-20 15:06:33.104584
+------------------------------------------------------
+Started: 2024-03-20 15:21:59.972681
+Existing_entries: 122
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 0
+Summarized using GPT-3.5-turbo-1106
+Append: [Ethereum Foundation Under Investigation by 'State Authority'](https://www.coindesk.com/business/2024/03/20/ethereum-foundation-under-investigation-by-state-authority/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-20 15:22:03.479555
