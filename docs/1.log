@@ -4567,3 +4567,12 @@ Existing_entries: 227
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-20 13:55:57.618543
+------------------------------------------------------
+Started: 2024-03-20 14:09:14.401115
+Existing_entries: 227
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 6388
+Summarized using GPT-3.5-turbo-1106
+Append: [CKB上的Ordinals升级版？一文看懂数码物创造协议Spore](https://www.panewslab.com/zh/articledetails/tefq086t.html)
+append_entries: 1
+Finish: 2024-03-20 14:09:21.722449
