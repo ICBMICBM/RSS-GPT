@@ -3840,3 +3840,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [OFAC Sanctions Russian Nationals Ilya Andreevich Gambashidze and Nikolai Aleksandrovich Tupikin for Facilitating Disinformation on Behalf of the Government of Russia, Funds Frozen by Tether](https://www.chainalysis.com/blog/ofac-sanctions-russia-crypto-foreign-election-influence-2024/)
 append_entries: 1
 Finish: 2024-03-20 19:12:21.919792
+------------------------------------------------------
+Started: 2024-03-20 19:19:40.763985
+Existing_entries: 12
+Fetching from https://blog.chainalysis.com/feed
+append_entries: 0
+Finish: 2024-03-20 19:19:41.245891
