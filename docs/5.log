@@ -3448,3 +3448,12 @@ Existing_entries: 15
 Fetching from https://messari.io/rss
 append_entries: 0
 Finish: 2024-03-20 13:40:57.783693
+------------------------------------------------------
+Started: 2024-03-20 13:48:42.635962
+Existing_entries: 15
+Fetching from https://messari.io/rss
+Token length: 28195
+Summarized using GPT-3.5-turbo-1106
+Append: [Understanding Marinade: A Comprehensive Overview](https://messari.io/article/understanding-marinade-a-comprehensive-overview)
+append_entries: 1
+Finish: 2024-03-20 13:48:49.205560
