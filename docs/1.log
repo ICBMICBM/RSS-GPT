@@ -4639,3 +4639,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [以太坊基金会正接受某“国家当局”调查，调查范围未知](https://www.panewslab.com/zh/sqarticledetails/sogwxc6f.html)
 append_entries: 1
 Finish: 2024-03-20 15:29:39.398172
+------------------------------------------------------
+Started: 2024-03-20 15:36:48.074811
+Existing_entries: 233
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+append_entries: 0
+Finish: 2024-03-20 15:36:49.873346
