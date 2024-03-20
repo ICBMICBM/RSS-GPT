@@ -5,16 +5,75 @@
 <link>https://rss.panewslab.com/</link>
 
 <item>
+<title>以太坊Layer2项目Morph完成1900万美元种子轮融资，DragonFly Capital领投</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/0ywjlvrk.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/0ywjlvrk.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Layer2以太坊虚拟机Morph宣布完成了1900万美元种子轮融资，DragonFly Capital领投。该公司将资金用于招聘、营销和完善技术基础设施。Morph是一种无需许可的EVM L2，结合了optimistic和zero-knowledge rollup技术，为开发金融、游戏等应用程序提供选择。投资者包括Pantera Capital、The Spartan Group和MEXC，Bitget也是其原始投资者。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月20日消息，据财富杂志报道，Layer2以太坊虚拟机Morph宣布完成由DragonFly Capital领投的1900万美元种子轮融资，该公司计划将这笔新资金用于招聘、营销，以提高其在L2生态系统中的知名度，并完善其技术基础设施。其他投资者包括Pantera Capital、The Spartan Group和MEXC，其在天使轮中又筹集了100万美元。加密交易所Bitget是Morph的原始投资者，并计划继续在Morph生态系统中发挥作用。</p>
+<p>据介绍，Morph是一种完全无需许可的EVM L2，它结合了optimistic和zero-knowledge rollup技术，为需要在其上构建金融、游戏、社交媒体和娱乐应用程序的链的开发人员提供了用户友好的选项。从技术角度来看，Morph专注于区块链的三难问题——如何平衡去中心化、安全性和可扩展性。基于Morph构建的开发人员可以使用工具来帮助从构建的最早阶段过渡到潜在的代币上市。</p>
+]]></content:encoded>
+<pubDate>Wed, 20 Mar 2024 19:08:37 +0800</pubDate>
+<pubDate>Wed, 20 Mar 2024 19:08:37 +0800</pubDate>
+</item>
+<item>
+<title>解读SyncusDAO：运用博弈论带领DeFi走出囚徒困境</title>
+<link>https://www.panewslab.com/zh/articledetails/lmm0qhny.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/lmm0qhny.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了SyncusDAO的创新理念和策略，通过重新定义博弈论和优化策略，解决了DeFi项目面临的挑战。Syncus采用适应性税收策略和财库机制，确保持续高APY和生态系统稳定增长。其目标是为持有者创造最大价值，在zkSync生态系统中投资并发展产品生态，成为一个自动生成收益的稳定币。Syncus代表了DeFi新时代的到来，为行业的长期发展和可持续性提供了坚实基础。 <div>
+<blockquote>
+<p>由于技术的不完善或经济模型的设计存在结构性缺陷，许多Defi项目最终都陷入死亡螺旋，最终难逃归零的命运。在Meme、铭文土狗币横行的当下，如何为Defi重新找回往日荣光？Syncus或许是一个潜在的解决方向。</p>
+</blockquote>
+<h3>前言</h3>
+<p>在上一轮牛市中，DeFi被广泛认为是区块链技术最具颠覆性的创新之一。然而，伟大的概念往往需要面临着重重挑战。由于技术的不完善或经济模型的设计存在结构性缺陷，许多项目最终都陷入死亡螺旋，最终难逃归零的命运。在Meme、铭文土狗币横行的当下，如何为Defi重新找回往日荣光？Syncus或许是一个潜在的解决方向。</p>
+<h3>关于 SyncusDAO</h3>
+<h4><strong>SyncusDAO</strong></h4>
+<p>Syncus DAO是一个部署在zkSync Era 链上的去中心化货币储备协议，专注于在 zkSync 生态系统中发展和繁荣的DeFi 应用，并为 SYNC 持有者提供流动性市场。Syncus致力于成为zkSync DeFi生态的中心，一家真正的去中心化“银行”，为客户提供借贷、担保、银行服务、稳定币服务、利率账户、共同基金、经纪和交易所。</p>
+<p><img alt="解读SyncusDAO：运用博弈论带领DeFi走出囚徒困境" src="https://cdn-img.panewslab.com//panews/2022/3/20/images/7718d4b81a692afc864bbc3ee5960f2b.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h4><strong>ZkSync</strong></h4>
+<p>在DeFi赛道上，zkSync Era作为以太坊Layer 2的一个扩展解决方案，以其高效、低成本和强安全性的特点，在推动以太坊生态系统发展中发挥着重要作用。这为DeFi项目提供了一个可行的、高性能的平台，Syncus正是在这样的背景下诞生的。</p>
+<p>如何更好地吸引、利用blast链上目前超过十亿美金的流动性，成为了所有crypto世界有野心的开发团队必须要思考的一个问题，而Zest便给出了他们的解决答案。</p>
+<h3>核心理念：重新定义博弈论—如何解决囚徒困境</h3>
+<p>Syncus 的核心理念是在DeFi领域中重新定义博弈论的应用，致力于打破其他常规协议零和游戏的本质，通过设计一种机制来超越囚徒困境，从而创造一个所有参与者都能从中获益的生态系统。</p>
+<h4><strong>OlympusDAO的VE(3,3)策略缺陷</strong></h4>
+<p>在正式解读Syncus提出的重新定义博弈论之前，让我们先回顾下OlympusDAO的成功与没落。OlympusDAO 是 DeFi 领域的一个突破性项目，旨在利用其原生代币 OHM 创建去中心化储备货币协议。Olympus通过创新的ve(3,3)模型，实现了奖励对集体有益的正向行为并在一定程度上解决了由代币持有者的权益被稀释的问题。然而，OlympusDAO采用的(3,3)策略尽管创新，但存在假设上的缺陷，即认为质押需要绑定，而这一假设并未完全贴合现实。在实际中，市场上的债券购买行为和预期的参与者行为存在偏差。</p>
+<p><img alt="解读SyncusDAO：运用博弈论带领DeFi走出囚徒困境" src="https://cdn-img.panewslab.com//panews/2022/3/20/images/f0b4176746ae37c7063b110c6087aaea.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h4><strong>Syncus基于VE(3,3)模型的优化</strong></h4>
+<p>Syncus的设计理念是通过创造一种每个参与者行为都能促进生态系统整体利益的机制，来超越传统的囚徒困境。通过这种方式，即使在参与者之间存在潜在的竞争或对立情况下，整个系统仍然能够实现共赢。Syncus采取的策略确保了即使在看似对系统不利的行为中，DAO和其长期利益相关者（代币持有者）仍然能够获益。这种机制类似于一种去中心化的赌场，其中DAO和其长期参与者总能从系统中获利。</p>
+<h4><strong>Two-player model与SYNC的弹性</strong></h4>
+<p>在 Syncus 内的Two-player Model中，任何 SYNC 的销售都会导致卖方损失，但利益相关者受益，这种动态确保了 DAO 的价值持续流动。同时，每笔交易都会为DAO带来利益，即使代币价格保持不变，DAO通过从每笔交易中提取一定比例的税收获益，这种机制吸引了更多的参与者加入，形成了一个自我维持的生态循环。该模型与典型的加密庞氏骗局或模因币有着根本的不同。即使 SYNC 的活动减弱，剩余的 APY 分布也会重新激发人们的兴趣，从而促进复苏周期。对于 Syncus 来说，更好的图表应该是描述玩家采取的行动以及该玩家和 DAO 的结果的图表：</p>
+<p><img alt="解读SyncusDAO：运用博弈论带领DeFi走出囚徒困境" src="https://cdn-img.panewslab.com//panews/2022/3/20/images/9d50e1f8d726c161325374b5bb23a92f.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>总之，Syncus通过巧妙利用博弈论原理，并通过一系列创新性措施来优化其策略，旨在创建一个既能解决囚徒困境导致的集体行动问题，又能保证DAO和其参与者共同获益的DeFi生态系统。后文我们将详细介绍Syncus实行的两个主要的优化措施。</p>
+<h3>SYNC代币设计</h3>
+<p>Syncus的代币经济模型是它机制设计的关键组成部分。Syncus的治理代币$SYNC，代币总量4,186,731,698 SYNC。截止3月18日，SYNC代币价格为0.03071，总市值约为130 millions。这些功能能够确保代币持有者的利益与整个生态系统的长期成功紧密相连。从代币发行、分配到其在治理中的应用，Syncus旨在确保一个透明、公平的经济模型，其中代币经济模型与其DeFi平台的发展阶段同步演进。</p>
+<h3>Syncus的创新性策略优化措施</h3>
+<h4><strong>Syncus的适应性税收策略</strong></h4>
+<p>SyncusDAO 的设计考虑了其生态系统的长期可持续性和寿命。为了实现这一目标，他们针对销售和质押交易实施了灵活的税收制度。这种方法确保 Syncus 能够适应市场波动，随着时间的推移保持稳定性和增长。具体来说，Syncus 协议根据市场波动动态调整销售税和取消质押税。在价格大幅上涨期间，Syncus会暂时提高出售和质押交易的税费，这样做的目的是减少投机交易并确保协议的稳定性。在市场稳定期间，税收将被重新评估并相应减少。这一调整还受到当前质押 APY 的影响，确保税收政策保持公平并与质押者获得的收益成比例。</p>
+<h4><strong>Syncus的财库（treasury-backed token）机制</strong></h4>
+<p>除了创新性的适应性税收策略外，Syncus还引入了一套独特的机制，旨在通过增长其财库（treasury）来提供持续的高APY，从而在DeFi领域创造一个新的范例。Syncus认识到，在达到显著市场份额之前，对SYNC的需求将来自于其提供的高APY。为了维持和增长APY，Syncus面临的核心问题是如何增长财库。通过OlympusDAO的前车之鉴，Syncus指出债券发行虽然可以增加财库但对持有者有稀释作用，且如果去除债券发行将难以维持吸引力足够的高收益率。此外，早期的投资活动和流动性提供并不能持续地提供足够高的收益率来增长SYNC的市场份额。</p>
+<p>因此，Syncus创新性地结合了税收机制与Olympus的财库分配方式，创造了一种新型代币。通过对每一次如买入和卖出等操作征税，并利用这些税收来资助财库，从而为持有者产生真实的收益。这样的模型设计在理论上产生自我增长的飞轮效应，Syncus通过捕获对SYNC的需求并将其转化为财库的增长，创造了一个类似于OlympusDAO的飞轮效应，但更为可持续：<strong>高收益 -&gt; 更多需求 -&gt; 交易量 -&gt; 财库增长 -&gt; 更多收益 -&gt; 更多需求。</strong>这一循环自我加强，确保了每一个代币都有实际价值。</p>
+<h3>目标与愿景</h3>
+<p>Syncus将成功的衡量标准定位于为各利益相关者带来的好处，为SYNC的长期持有者创造最大价值，而不仅仅是代币的价值。这一策略保证了无论市场价格如何波动，参与者都能持续获得回报和利润，提倡了一种重视可持续性的成功观。</p>
+<p>Syncus的短期目标是增长市场份额和为持有者创造价值，长期目标则是成为一个去中心化的、以财库为后盾的协议。一旦达到显著的市值，Syncus计划在zkSync生态系统中进行投资，并构建自己的产品生态，旨在创建一个真正的自动生成收益的稳定币。</p>
+<h3>总结</h3>
+<p>Syncus代表了DeFi新时代的到来，它从过去的经验中学习并向着一个更稳定、可持续的未来发展。运用博弈论，超越了传统的囚徒困境模型，提出了一种更有利于DAO本身及其长期利益相关者的模型。它通过实施交易征税及财库机制，鼓励个体做出正向行为并最终惠及集体，避免陷入死亡螺旋。</p>
+<p>SyncusDAO的这一创新举措不仅为DeFi领域带来了新的思路，也为其长期发展和可持续性提供了坚实的理论基础。总而言之，随着越来越多独具创新性的DeFi项目正如雨后春笋般崭露头角，我们可以预期市场对DeFi赛道重振信心，使其在这一轮牛市中依旧有机会一骑绝尘，独领风骚。</p>
+]]></content:encoded>
+<pubDate>Wed, 20 Mar 2024 19:00:37 +0800</pubDate>
+<pubDate>Wed, 20 Mar 2024 19:00:37 +0800</pubDate>
+</item>
+
+<item>
 <title>OpenAI有望今夏推出GPT-5，知情人士透露有“质的飞跃”</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/rt2a1l4z.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/rt2a1l4z.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。<br>据报道，OpenAI可能会在今年夏季推出全新版本的GPT-5。该新模型被称为表现“太棒”，展示了质的飞跃。OpenAI仍在训练GPT-5，并计划进行安全测试和红队测试。公司尚未确定GPT-5的准确发布日期。企业客户已经收到了GPT-5和ChatGPT工具相关增强功能的演示。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。<br />据报道，OpenAI可能会在今年夏季推出全新版本的GPT-5。该新模型被称为表现“太棒”，展示了质的飞跃。OpenAI仍在训练GPT-5，并计划进行安全测试和红队测试。公司尚未确定GPT-5的准确发布日期。企业客户已经收到了GPT-5和ChatGPT工具相关增强功能的演示。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月20日消息，据科创板日报引援Business Insider报道，ChatGPT未来几个月即将迎来其全新版本。两位知情人士透露，在CEO奥尔特曼的带领下，OpenAI或许有望在今年夏季推出GPT-5。此外，还有一位知情人士表示，最近一些企业客户已经收到了这款最新模型以及其对ChatGPT工具相关增强功能的演示。</p>
 <p>某位于近期观看了GPT-5演示的CEO表示：“它的表现太棒了，带来了一种质的飞跃”。OpenAI运用他公司独有的案例和数据展示了新模型的功能。他说，公司还提到了GPT-5尚未公开发布的能力，其中就包括调用OpenAI正在开发的AI助理从而自主执行任务。不过需要注意的是，OpenAI目前还尚未为GPT-5定下准确的发布时间，也就是说，内部对其发布的预期时间可能会产生变化。</p>
 <p>另一位了解情况的人士表示，OpenAI仍然在训练GPT-5，而待训练完成后，公司还将对其进行内部安全测试，以及更进一步的“红队测试”——令员工和外部人士以各种方式挑战AI工具，从而在其正式发布前发现问题、解决问题。也正因此，安全测试所暴露出的问题，以及解决问题所花费的时间，将直接影响GPT-5的具体发布日期。</p>
 ]]></content:encoded>
-<pubDate>Wed, 20 Mar 2024 18:54:12 +0800</pubDate>
 <pubDate>Wed, 20 Mar 2024 18:54:12 +0800</pubDate>
 </item>
 <item>
@@ -22,7 +81,7 @@
 <link>https://www.panewslab.com/zh/articledetails/wrs1xun3.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/wrs1xun3.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了$BULL代币在Burve协议中的市场表现和交易策略。通过公平发射方式，$BULL的市值由市场动态决定，提供公平的低成本持有机会。建议通过抢新策略和首次回调时机把握来获取$BULL。市值评估策略和浮动区间策略则帮助把握市场变化。总体而言，$BULL在Burve协议中提供了真实的市场价值反映和交易机会。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章介绍了$BULL代币在Burve协议中的市场表现和交易策略。通过公平发射方式，$BULL的市值由市场动态决定，提供公平的低成本持有机会。建议通过抢新策略和首次回调时机把握来获取$BULL。市值评估策略和浮动区间策略则帮助把握市场变化。总体而言，$BULL在Burve协议中提供了真实的市场价值反映和交易机会。 <div>
 <h2>$BULL的市场价值通过Burve协议得到最真实反映</h2>
 <p>Burve Protocol是一个结合DEX+Fair Launch+AMM+Earn的综合性DeFi协议，在Burve V1.0中，基于Bonding Curve作为底层逻辑的市商模型结合Fair Launch，非常适用于社区共识驱动执行项目的冷启动，$BULL的诞生就是Burve公平发射很好的用例。</p>
 <p><img alt="利用Burve函数协议提升$BULL交易策略的准确性" src="https://cdn-img.panewslab.com//panews/2022/3/20/images/6bbad2d8173dfb17c7af9028590b5903.png" /></p>
@@ -51,9 +110,7 @@
 <p>请认准以上官方入口，关于$BULL的一切消息来源，以$BULL蓝标认证Twitter为实！</p>
 ]]></content:encoded>
 <pubDate>Wed, 20 Mar 2024 18:51:39 +0800</pubDate>
-<pubDate>Wed, 20 Mar 2024 18:51:39 +0800</pubDate>
 </item>
-
 <item>
 <title>Runestone市值突破4亿美元，超越Pudgy Penguins排名第四</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/xjt33zv6.html</link>
