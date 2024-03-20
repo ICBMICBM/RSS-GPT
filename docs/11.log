@@ -4650,3 +4650,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bitcoin Tops $67K on Dovish Fed Remarks; Ether Rebounds From SEC Fears, DOGE Soars](https://www.coindesk.com/markets/2024/03/20/bitcoin-targets-67k-on-dovish-fed-remarks-ether-rebounds-from-sec-fears/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-20 20:54:40.860345
+------------------------------------------------------
+Started: 2024-03-20 21:08:10.609580
+Existing_entries: 135
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-03-20 21:08:10.979844
