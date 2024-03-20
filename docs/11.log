@@ -4449,3 +4449,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [What’s Next for Crypto?](https://www.coindesk.com/markets/2024/03/20/whats-next-for-crypto/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 2
 Finish: 2024-03-20 16:32:49.312039
+------------------------------------------------------
+Started: 2024-03-20 16:42:09.830416
+Existing_entries: 126
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 16
+Summarized using GPT-3.5-turbo-1106
+Append: [Guilty Verdict for Woman Accused of Laundering Bitcoin Tied to Alleged $6B China Fraud: Bloomberg](https://www.coindesk.com/policy/2024/03/20/guilty-verdict-for-woman-accused-of-laundering-bitcoin-tied-to-alleged-6b-china-fraud-bloomberg/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-20 16:42:12.641074
