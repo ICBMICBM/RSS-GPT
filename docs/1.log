@@ -4657,3 +4657,12 @@ Existing_entries: 233
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-20 15:51:21.872318
+------------------------------------------------------
+Started: 2024-03-20 15:58:31.837450
+Existing_entries: 233
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 170
+Summarized using GPT-3.5-turbo-1106
+Append: [Coinbase将上线Ronin（RONIN）](https://www.panewslab.com/zh/sqarticledetails/mm0y5koa.html)
+append_entries: 1
+Finish: 2024-03-20 15:58:37.093709
