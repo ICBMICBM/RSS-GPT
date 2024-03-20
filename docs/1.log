@@ -4951,3 +4951,15 @@ Existing_entries: 237
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-20 23:21:52.707424
+------------------------------------------------------
+Started: 2024-03-20 23:28:54.645165
+Existing_entries: 237
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 123
+Summarized using GPT-3.5-turbo-1106
+Append: [过去12小时全网合约爆仓2.35亿美元，其中空单爆仓1.43亿美元](https://www.panewslab.com/zh/sqarticledetails/442rxvty.html)
+Token length: 107
+Summarized using GPT-3.5-turbo-1106
+Append: [行情：比特币突破68000美元，以太坊突破3500美元](https://www.panewslab.com/zh/sqarticledetails/652wea85.html)
+append_entries: 2
+Finish: 2024-03-20 23:29:00.867878
