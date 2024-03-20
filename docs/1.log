@@ -4303,3 +4303,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [比特币ETF单日净流出，为什么监控ETF水管如此重要？](https://www.panewslab.com/zh/articledetails/pvlaae7y.html)
 append_entries: 1
 Finish: 2024-03-20 08:42:49.969972
+------------------------------------------------------
+Started: 2024-03-20 08:49:58.299984
+Existing_entries: 201
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+append_entries: 0
+Finish: 2024-03-20 08:49:59.578718
