@@ -4740,3 +4740,12 @@ Existing_entries: 137
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-20 23:09:13.245972
+------------------------------------------------------
+Started: 2024-03-20 23:21:57.503168
+Existing_entries: 137
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 36
+Summarized using GPT-3.5-turbo-1106
+Append: [FTX Was Down to Last 105 Bitcoins When Bankruptcy Rescue Crew Arrived: John Ray](https://www.coindesk.com/policy/2024/03/20/ftx-was-down-to-last-105-bitcoins-when-bankruptcy-rescue-crew-arrived-john-ray/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-20 23:22:01.328146
