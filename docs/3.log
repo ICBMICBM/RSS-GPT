@@ -3702,3 +3702,9 @@ Existing_entries: 20
 Fetching from https://techcrunch.com/tag/bitcoin/feed
 append_entries: 0
 Finish: 2024-03-20 11:51:47.101455
+------------------------------------------------------
+Started: 2024-03-20 11:59:10.179460
+Existing_entries: 20
+Fetching from https://techcrunch.com/tag/bitcoin/feed
+append_entries: 0
+Finish: 2024-03-20 11:59:10.575811
