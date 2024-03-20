@@ -4173,3 +4173,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Hold Your Horses: ‘Buying The Crypto Dip Is Still Too Early’ Warns Top Analyst — Here’s Why](https://www.newsbtc.com/news/bitcoin/hold-your-horses-buying-the-crypto-dip-is-still-too-early-warns-top-analyst-heres-why/)
 append_entries: 1
 Finish: 2024-03-20 23:36:38.647016
+------------------------------------------------------
+Started: 2024-03-20 23:43:51.342174
+Existing_entries: 62
+Fetching from https://www.newsbtc.com/feed
+append_entries: 0
+Finish: 2024-03-20 23:43:51.512503
