@@ -4150,3 +4150,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [ParaSwap：Augustus V6存在严重漏洞，建议撤销V6合约权限](https://www.panewslab.com/zh/sqarticledetails/bgv603ia.html)
 append_entries: 2
 Finish: 2024-03-20 05:26:53.255109
+------------------------------------------------------
+Started: 2024-03-20 05:34:56.080077
+Existing_entries: 190
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 60
+Summarized using GPT-3.5-turbo-1106
+Append: [行情：BTC跌破61000美元，日内跌幅近5%](https://www.panewslab.com/zh/sqarticledetails/ueu1fgzp.html)
+append_entries: 1
+Finish: 2024-03-20 05:34:59.321528
