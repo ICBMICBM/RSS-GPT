@@ -5,14 +5,61 @@
 <link>https://rss.panewslab.com/</link>
 
 <item>
+<title>以太坊坎昆升级了个“寂寞”？为什么反而有利于Solana等高性能L1？</title>
+<link>https://www.panewslab.com/zh/articledetails/4ssrt766.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/4ssrt766.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是消极的。文章中提到以太坊坎昆升级后，高性能 L1 公链币价上涨，与以太坊生态的 builder 和社区感到不可思议。底层逻辑包括以太坊 Rollup L2在竞争中处于下风，并且以太坊商业模式地租经济化，而高性能 L1 公链更像高科技公司。Rollup L2在发币退出方面依赖过度与零售批发商相似，而高性能L1公链采用新技术提升生产效率，解决痛点。 <div>
+<p>作者：NingNing</p>
+<p>以太坊坎昆升级之后，二级市场上出现 Solana、Sui、Aptos 、Sei 等等高性能 L1 公链币价集体上涨的局面，这让很多以太坊生态的 builder 和社区成员感到有点不可思议，觉得二级市场对坎昆升级的反应有些荒唐甚至不可理喻。</p>
+<p>但如果大家跟 Vitalik 一样相信预测市场理论的话，在充沛流动性市场环境中形成的二级市场价格，对坎昆升级定价的有效性，优于数学模型和我们自己坚持的信仰 / 偏见。</p>
+<p>换言之，存在即合理。 与其争辩应然与否，不如我们去潜心理解发生这一市场现象的底层逻辑。个人一孔之见，将底层逻辑归纳为以下两点：</p>
+<h4><strong>1、在与高性能 L1 的应用层市场竞争中 以太坊 Rollup L2 目前落于下风</strong></h4>
+<p>以太坊坎昆升级，又被称为 Proto-DankSharding，即以太坊模块化分片方案的原型阶段。</p>
+<p>后坎昆升级时代，以太坊主网将主要承载共识层、DA 层和数据结算层的功能，而将执行层外包给 Arbitrum、Optimism、ZkSync、Starknet、Linea、Scroll 等等 Rollup L2 们。</p>
+<p>而且 Vitalik 已经在以太坊论坛发起提议，计划将主网的非 0 字节 gas 消耗提高 4 倍。</p>
+<p>这样一来，以太坊将逐步退出应用层的竞争市场，而放由以太坊 L2 与 Alt L1 正面竞争。</p>
+<p>如果我们处于 2023 年 3 月 Arbitrum Season 期间，Arbitrum 疯狂虹吸 Avalanche、Polygon 的用户、资金和开发者资源，市场对 Rollup L2 Flip Alt L1 充满美好的想象。</p>
+<p>但如今时空变换，高性能 L1 公链的代表 Solana，开始两极反转虹吸 Rollup L2 的资源。</p>
+<p><img alt="以太坊坎昆升级了个“寂寞”？为什么反而有利于Solana等高性能L1？" src="https://cdn-img.panewslab.com//panews/2022/3/20/images/a7fcb6241c3a69325be1ea4f3c8ddedb." style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>以 DEX 交易量作为指标观察，在我们所处的 24 年春季行情里，除了 Arbitrum 尚与市场共振以外，其它 L2 上 DEX 交易量寥寥，反观 Solana 的 DEX 交易量火箭式直升。</p>
+<p>而 Sui 生态的 TVL，从 23 年 10 月至今的行情中，也悄然实现了~20 倍的指数级增长。</p>
+<p><img alt="以太坊坎昆升级了个“寂寞”？为什么反而有利于Solana等高性能L1？" src="https://cdn-img.panewslab.com//panews/2022/3/20/images/839c9946cd850ab900beb9494bcdc666." style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>之所以出现这种局面，是因为 Rollup L2 们为了顺利实现发币退出，在熊市中养成了对「奥德赛任务」增长策略的过度依赖。它们与撸羊毛的用户和专注拿 Grant 的开发者形成共谋，导致区块空间和社区资源分配的不经济，损害到了真实用户的使用体验。</p>
+<p>使用 Rollup L2 的真实用户，不仅要为羊毛党的行为支付额外的 Gas 费，还因为 L2 上缺乏具有财富效应的资产而错过整个牛市。</p>
+<p>这些导致了现在高性能 L1 公链压倒以太坊 Rollup L2 的局面。</p>
+<h4><strong>2、以太坊商业模式地租经济化 而高性能 L1 公链更像是高科技公司</strong></h4>
+<p>自命为以太坊黑的投研机构@MessariCrypto，在年度报告中首提这个观点。从区块空间经济学的角度来看，以太坊 L2 的商业模式，是将以太坊主网的区块空间转卖给 Dapp 和终端个人用户。</p>
+<p>在 Web3 这个新兴科技行业里，Rollup L2 们其实做的是最传统零售批发商的生意。区别在于，传统零售批发商们赚的是商品差价，Rollup L2 们赚的是 Gas 费差价。</p>
+<p>而坎昆升级这次区块空间价格下降 1 个数量级，对靠赚 Gas 差价为核心商业模式的 Rollup L2，是一个重大打击。他们只剩下发资产这条道路。而现在由于长期纵容羊毛党，L2 的生态已经盐碱化，连 meme 币这种最好养活的资产在 L2 上都无法生存。</p>
+<p>而与以太坊生态相比，Solana、Sui、Aptos 、Sei 等高性能 L1 公链更像是高科技公司，它们通过采用新一代共识算法、支持并行计算的 VM、账户 / 对象智能合约编程语言等新技术提升区块空间的生产效率，解决 Web3 真实用户面临的高 Gas 费、长确认时间等等痛点。</p>
+<p><img alt="以太坊坎昆升级了个“寂寞”？为什么反而有利于Solana等高性能L1？" src="https://cdn-img.panewslab.com//panews/2022/3/20/images/853cb77469b0c73d1c2d1e0092b63376." style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>当然，目前高性能 L1 公链在应用层竞争中压制以太坊 Rollup L2，可能只是这波牛前行情末期产生的周期性现象。这个局面能否持续，还需要更长的时间验证。</p>
+<p>但即使以太坊 Rollup L2 日后逆风翻盘，也大概率是由具有 RollAPP、链抽象、并行 EVM 执行层等新原语的新生代 Rollup 来完成，而非现在颟顸的通用 Rollup L2。</p>
+]]></content:encoded>
+<pubDate>Wed, 20 Mar 2024 20:30:39 +0800</pubDate>
+<pubDate>Wed, 20 Mar 2024 20:30:39 +0800</pubDate>
+</item>
+<item>
+<title>TON基金会拟于4月1日启动首季公开联赛并提供1.15亿美元的Toncoin社区奖励</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/dip9b3v5.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/dip9b3v5.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。据官方博客报道，TON基金会将于4月1日启动公开联赛（Open League）第一季，总奖池价值约1.15亿美元。比赛将提供3000万枚Toncoin社区奖励，并包括联赛、代币挖矿、任务和空投、以及流动性池增加等四个系统。TON项目每月都将进行竞争，以赢得奖金，用户可以通过他们的活动获得奖励。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月20日消息，据官方博客，TON基金会拟于4月1日启动公开联赛（Open League）第一季，将提供3000万枚Toncoin社区奖励，价值约合1.15亿美元。TON项目每月都会进行竞争以赢得奖金，而TON链用户则可以通过他们的活动获得奖励。Open League第一季包括四个系统：联赛（The League）、代币挖矿、任务和空投、以及流动性池增加。</p>
+]]></content:encoded>
+<pubDate>Wed, 20 Mar 2024 20:22:49 +0800</pubDate>
+<pubDate>Wed, 20 Mar 2024 20:22:49 +0800</pubDate>
+</item>
+
+<item>
 <title>行情：比特币价格回升至64000美元上方</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/obfg75gr.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/obfg75gr.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。3月20日，比特币价格回升至64000美元上方，现报64204美元，日内涨幅0.26%。消息来源欧易OKX行情显示。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。3月20日，比特币价格回升至64000美元上方，现报64204美元，日内涨幅0.26%。消息来源欧易OKX行情显示。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月20日消息，欧易OKX行情显示，比特币价格回升至64000美元上方，现报64204美元，日内涨幅0.26%。</p>
 ]]></content:encoded>
-<pubDate>Wed, 20 Mar 2024 20:25:34 +0800</pubDate>
 <pubDate>Wed, 20 Mar 2024 20:25:34 +0800</pubDate>
 </item>
 <item>
@@ -20,11 +67,10 @@
 <link>https://www.panewslab.com/zh/sqarticledetails/lce7im3h.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/lce7im3h.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。以太坊Layer2区块链Starknet计划在第二季度进行更新，引入并行交易功能，提高网络吞吐量和加快交易确认速度。未来版本将降低网络费用，包括数据可用性升级和数据足迹压缩，以提升性能和减少用户gas费。更新预计将于2024年底发布，有望降低L1成本并优化存储数据的方式。Starknet在逐步完善其网络功能，以提供更高效的服务。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。以太坊Layer2区块链Starknet计划在第二季度进行更新，引入并行交易功能，提高网络吞吐量和加快交易确认速度。未来版本将降低网络费用，包括数据可用性升级和数据足迹压缩，以提升性能和减少用户gas费。更新预计将于2024年底发布，有望降低L1成本并优化存储数据的方式。Starknet在逐步完善其网络功能，以提供更高效的服务。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月20日消息，据Cointelegraph报道，以太坊Layer2区块链Starknet计划在第二季度进行的下一个版本更新将包括引入并行交易功能，这将使网络能够执行并发的独立交易。此次更新将允许Starknet同时处理更多交易，预计这将提高其网络的吞吐量和使区块更快达到最终确定性。</p>
 <p>此外，Starknet还计划进一步降低其网络费用，0.14.0版本预计将于2024年底发布，具体取决于EIP-4844的长期影响和其自身协议的性能改进。年底的更新将在其堆栈中包括三个以数据可用性为重点的升级。Volition被视为促进Starknet上的混合数据可用性，允许DApp在Starknet上而不是以太坊基础层上存储数据。应用递归有望允许开发人员将多个Starknet区块的数据存储证明批量存储到以太坊上，这次升级据称可降低L1成本并减少最终用户的gas费。数据可用性压缩也正在开发中，这将减少Starknet在以太坊上的数据足迹。Starknet正在探索两种不同的递归方法来实现此功能。</p>
 ]]></content:encoded>
-<pubDate>Wed, 20 Mar 2024 20:11:38 +0800</pubDate>
 <pubDate>Wed, 20 Mar 2024 20:11:38 +0800</pubDate>
 </item>
 <item>
@@ -33,7 +79,7 @@
 <guid>https://www.panewslab.com/zh/articledetails/jb5jmrp7.html</guid>
 <content:encoded><![CDATA[
 <div> 
-摘要：<br><br>这些信息是积极的。2021年，Axie Infinity在菲律宾掀起链游热潮，带动了经济活动和就业机会。然而，随着市场变动，Axie遭受重创，菲律宾人寻找新的加密货币机会。加密市场再次兴旺，菲律宾人积极参与游戏赚取加密货币，尽管存在欺诈和风险。新游戏Pixels受欢迎，菲律宾加密货币交易持续增长，激起政府担忧。一些菲律宾人成功赚钱并创业，但也有人准备回归传统农业生活。加密货币行业对菲律宾人提供了机会，但也伴随着挑战。 <div>
+摘要：<br /><br />这些信息是积极的。2021年，Axie Infinity在菲律宾掀起链游热潮，带动了经济活动和就业机会。然而，随着市场变动，Axie遭受重创，菲律宾人寻找新的加密货币机会。加密市场再次兴旺，菲律宾人积极参与游戏赚取加密货币，尽管存在欺诈和风险。新游戏Pixels受欢迎，菲律宾加密货币交易持续增长，激起政府担忧。一些菲律宾人成功赚钱并创业，但也有人准备回归传统农业生活。加密货币行业对菲律宾人提供了机会，但也伴随着挑战。 <div>
 <p><img alt="Axie陨落2年后，链游在菲律宾“卷土重来”" src="https://cdn-img.panewslab.com//panews/2022/3/20/images/9f73b4eb5953e0e2c799743addad0f46.jpeg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
 <p>2021年，Axie infinity的横空出世造就了现象级的链游热。</p>
 <p><strong>罕见于日常欧美发达国家的引领，这股热潮由东南亚席卷而来，发源在经济欠发达的菲律宾，以一种更为贴近加密原始的主旨向世界展示了来自东方的神秘力量，也让链游这一曾经不温不火的应用再度出现在了加密的视野中。</strong></p>
@@ -83,9 +129,7 @@
 <p>Eli Tan：What Meltdown? Crypto Comes Roaring Back in the Philippines.</p>
 ]]></content:encoded>
 <pubDate>Wed, 20 Mar 2024 20:00:30 +0800</pubDate>
-<pubDate>Wed, 20 Mar 2024 20:00:30 +0800</pubDate>
 </item>
-
 <item>
 <title>beoble：即将进行快照并公开BBL代币空投资格</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/mcv3msso.html</link>
