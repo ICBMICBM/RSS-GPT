@@ -3991,3 +3991,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [ZachXBT：多个加密预售项目出现欺诈行为](https://www.panewslab.com/zh/sqarticledetails/869ulwaw.html)
 append_entries: 1
 Finish: 2024-03-20 01:51:37.661992
+------------------------------------------------------
+Started: 2024-03-20 02:12:20.827370
+Existing_entries: 177
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 3514
+Summarized using GPT-3.5-turbo-1106
+Append: [昨夜今晨重要资讯（3月19日-3月20日）](https://www.panewslab.com/zh/sqarticledetails/gil90del.html)
+Token length: 5560
+Summarized using GPT-3.5-turbo-1106
+Append: [加密投研周报（0311-0317）：新高后的回调与MeMe币的狂欢](https://www.panewslab.com/zh/articledetails/12lx33l6uzeh.html)
+append_entries: 2
+Finish: 2024-03-20 02:12:30.959464
