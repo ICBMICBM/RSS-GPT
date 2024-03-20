@@ -4437,3 +4437,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Solana's Yakovenko Welcomes Meme Coin Traders With 'Nothing Better to Do'](https://www.coindesk.com/tech/2024/03/20/solanas-yakovenko-welcomes-meme-coin-traders-with-nothing-better-to-do/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-20 16:18:39.886644
+------------------------------------------------------
+Started: 2024-03-20 16:32:42.825713
+Existing_entries: 124
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 21
+Summarized using GPT-3.5-turbo-1106
+Append: [The Institutional Era of Crypto Brings Fresh Innovation](https://www.coindesk.com/business/2024/03/20/the-institutional-era-of-crypto-brings-fresh-innovation/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 23
+Summarized using GPT-3.5-turbo-1106
+Append: [What’s Next for Crypto?](https://www.coindesk.com/markets/2024/03/20/whats-next-for-crypto/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 2
+Finish: 2024-03-20 16:32:49.312039
