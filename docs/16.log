@@ -4135,3 +4135,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round )
 append_entries: 1
 Finish: 2024-03-20 02:12:45.289087
+------------------------------------------------------
+Started: 2024-03-20 02:27:31.558603
+Existing_entries: 334
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 203
+Summarized using GPT-3.5-turbo-1106
+Append: [MicroStrategy 完成 6.0375 亿美元可转换债券发行并增持 9245 枚 BTC](https://twitter.com/saylor/status/1770061111146033385)
+Token length: 266
+Summarized using GPT-3.5-turbo-1106
+Append: [ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round )
+append_entries: 2
+Finish: 2024-03-20 02:27:38.035409
