@@ -4359,3 +4359,15 @@ Existing_entries: 120
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-20 14:32:06.252150
+------------------------------------------------------
+Started: 2024-03-20 14:39:26.283454
+Existing_entries: 120
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 65
+Summarized using GPT-3.5-turbo-1106
+Append: [Do Kwon Appeal of South Korea Extradition Rejected by Montenegro Court](https://www.coindesk.com/policy/2024/03/20/do-kwon-appeal-of-south-korea-extradition-rejected-by-montenegro-court/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 23
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin's Halving May Be Here Sooner Than You Know (Again)](https://www.coindesk.com/tech/2024/03/20/bitcoins-halving-may-be-here-sooner-than-you-know-again/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 2
+Finish: 2024-03-20 14:39:33.314179
