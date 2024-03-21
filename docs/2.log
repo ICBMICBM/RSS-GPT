@@ -4300,3 +4300,24 @@ Existing_entries: 20
 Fetching from https://rss.app/feeds/wUQN1BEONEifvDV7.xml
 append_entries: 0
 Finish: 2024-03-21 15:29:06.267993
+------------------------------------------------------
+Started: 2024-03-21 15:38:17.500340
+Existing_entries: 20
+Fetching from https://rss.app/feeds/wUQN1BEONEifvDV7.xml
+Token length: 127
+Summarized using GPT-3.5-turbo-1106
+Append: [When it comes to bitcoin's price, ETF inflows are only part of the picture](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f94bb4cf3132e808b36eefb2e608c4b52c623c82cbedf402250d8649c3dc2df0a7ecae530fff0f726afe1802ba923fe394283264a455c02f1eae5c9764bdd9fb9a497d89182585e871dd3867860)
+Token length: 133
+Summarized using GPT-3.5-turbo-1106
+Append: [Bernstein raises year-end bitcoin price target to $90,000, expects ‘mild’ halving impact on miners](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f94bb4bfd133b8d9c36b0e63f2481095dca248637b89c0f7914893fd823c39b19698ef234a0f2e634afb1de7df57ca43f1c86)
+Token length: 136
+Summarized using GPT-3.5-turbo-1106
+Append: [Coinbase legal chief argues SEC has ‘no good reason’ to deny spot Ethereum ETFs](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f94ba46fc132a8d8d75adfd772a804b5b8e228039a29d4c6650d4269136df8b577fd3e921fff0f728e7fa8b38a861ec3e0991794c075a02fff2bbdc3a5ac1dbb3a497c09c801442c311c19563668d746339948f5ecd9714ecde7222)
+Token length: 128
+Summarized using GPT-3.5-turbo-1106
+Append: [RWA tokens and memecoins post gains in crypto rebound](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f94ba48f1132b9f8f75b7fd3128815712c23e8175bc974f2e47d4629b209c82157fd7ab32b3fced33afe18060a63ef03a1b8d795d0d5103e8fdac)
+Token length: 105
+Summarized using GPT-3.5-turbo-1106
+Append: [Coinbase to launch futures trading for dogecoin, litecoin, and bitcoin bash on April 1st](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f94ba4ef3133a878736a1f32928c250508e3c842dbf914a6642ce7f8021d4815778d1e731bbfbe46de4e79c60a123ee2f0c8d3d41455f05e9f6abd67e5784d3b8a697ce9093164187108a916b76802b2127d89b4292990aa498603a)
+append_entries: 5
+Finish: 2024-03-21 15:38:29.513067
