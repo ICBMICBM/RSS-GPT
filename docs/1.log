@@ -5548,3 +5548,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [法庭文件：预计FTX在破产程序中面临美国政府30至50亿美元的索赔](https://www.panewslab.com/zh/sqarticledetails/eoc4liss.html)
 append_entries: 1
 Finish: 2024-03-21 13:25:38.003079
+------------------------------------------------------
+Started: 2024-03-21 13:34:06.648958
+Existing_entries: 286
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+append_entries: 0
+Finish: 2024-03-21 13:34:08.401471
