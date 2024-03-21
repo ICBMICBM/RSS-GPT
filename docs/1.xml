@@ -4,6 +4,45 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>集成EVM，进一步绑定币安：Cosmos系的KAVA今年稳了？</title>
+<link>https://www.panewslab.com/zh/articledetails/wbus3f5x7381.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/wbus3f5x7381.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。币安宣布完成对Kava（KAVA）以太坊虚拟机（EVM）网络的集成，加强了Kava在金融创新领域的竞争力。Kava通过代币经济学2.0实现固定供应，并采用共链架构促进Cosmos与以太坊链的互通。Kava的技术逻辑和实现框架展示出其竞争优势，强调其在DeFi领域的实力和创新。与币安的合作加深了Kava在区块链领域的影响，预示着Kava生态系统的进一步发展和市场认可。 <div>
+<p dir="ltr">3月18日，全球知名的加密货币交易所币安宣布完成了对Kava（KAVA）以太坊虚拟机（EVM）网络的集成，同时开放了KAVA与USDT在该网络上的充值与提现业务。</p>
+<p dir="ltr">此项集成不仅展现了Kava生态的技术进步，还加强了其在金融创新领域的竞争力，为用户和开发者带来了更高的安全性、扩容性和互操作性。随后，DWF Labs作为Kava的USDT供应商之一，表达了对币安此次集成的支持。</p>
+<p dir="ltr"><img alt="集成EVM，进一步绑定币安：Cosmos系的KAVA今年稳了？" height="704" src="https://cdn-img.panewslab.com/panews/images/0241bng2xk.png" style="display: block; margin-left: auto; margin-right: auto;" width="1280" /></p>
+<p dir="ltr">下文介绍一下，此次事件及背后的主角Kava。</p>
+<h3 dir="ltr">在DeFi世界具备多重优势，Kava链自成立至今不断壮大</h3>
+<p dir="ltr">Kava的旅程始于2017年，其最初目标是实现跨链支付。随着时间的推移，Kava灵活调整战略，深入DeFi领域，并通过与Ripple等重要合作伙伴的关系，巩固了其在Cosmos生态系统中的领导地位。转型为一个基于EVM的互操作性第一层区块链，标志着Kava对未来定位的战略性重新定义，这一举措也为其在激烈的L1生态系统竞争中脱颖而出奠定了基础。</p>
+<p dir="ltr">2024年1月1日，Kava链通过社区治理提案141实施了代币经济学2.0，这不仅标志着向固定供应的重大转变，也反映了对去中心化承诺的继续。这一变革结束了通胀，确立了一个固定的约10亿KAVA代币供应量，通过战略金库管理链上奖励，从而平衡了网络安全与质押奖励，为社区提供长期价值。</p>
+<p dir="ltr"><img alt="集成EVM，进一步绑定币安：Cosmos系的KAVA今年稳了？" src="https://cdn-img.panewslab.com/panews/images/5LF0UO7Oof.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p dir="ltr">Kava链的未来建立在加强链吞吐量、改进Kava上已部署的协议以及在以太坊生态系统中建立有意义的社区等战略目标上。具体举措包括缩短区块时间、提高交易吞吐量以及引入EVM原生流动质押衍生品等，旨在吸引更多用户使用Tether（USDT）等作为主要抵押品，进一步推动生态系统的增长。</p>
+<p dir="ltr">通过与其他权益证明（PoS）区块链生态系统的比较，Kava的代币经济2.0展现了其在PoS领域的创新与领导力。与ETH、SOL和ATOM等代币相比，KAVA的固定供应和社区驱动的治理模型突显了其稀缺性和去中心化承诺。通过转向零通胀模型和实施新颖的质押奖励机制，Kava不仅提高了其代币的吸引力，也为Web3未来的可持续增长和稳定提供了蓝图。</p>
+<h3 dir="ltr">详解Kava的技术逻辑和实现框架：共链架构可促进Cosmos与ETH链的互通</h3>
+<p dir="ltr">Kava网络采用的共链架构是其最显著的特征，这种架构能够将Cosmos SDK的速度和可扩展性与以太坊开发者社区的强大支持完美结合。通过这种创新，Kava 网络成为了第一个真正实现以太坊和Cosmos生态系统之间无缝互操作的区块链平台。这不仅为开发者提供了前所未有的灵活性，允许他们在任何想要的环境中构建应用，而且也无需牺牲对其他用户和资产的访问能力。</p>
+<p dir="ltr"><img alt="集成EVM，进一步绑定币安：Cosmos系的KAVA今年稳了？" src="https://cdn-img.panewslab.com/panews/images/29SI6dII3M.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p dir="ltr">Kava的共链架构通过翻译器模块实现了两个不同执行环境的连接，使得Cosmos和以太坊生态系统中的开发者可以在一个统一的网络中构建和部署他们的项目。这种架构不仅促进了两大生态系统之间的互操作性，而且也使得资产和项目能够在Kava生态内自由流动，极大地扩展了用户和开发者的可能性。</p>
+<p dir="ltr">Kava网络的独特之处还在于其优化的架构和高速的Tendermint Core共识机制。这种架构使得Kava能够处理大规模的交易和互操作请求，同时保持高效和安全。Tendermint Core的引入不仅确保了网络的快速响应，还提供了拜占庭容错能力，增强了网络的安全性和稳定性。</p>
+<p dir="ltr">KAVA代币在Kava网络中扮演着多个关键角色，从验证节点的抵押和治理投票，到作为网络激励措施的一部分。这些不同的用途共同维护了网络的安全性、促进了参与者之间的治理参与，并鼓励了生态系统的持续发展和扩张。KAVA的这些用例体现了代币经济学在保障网络运行和推动生态增长中的重要作用。</p>
+<p dir="ltr">Kava网络采用了创新的开发者激励机制，并通过Kava DAO这一完全去中心化的自治组织来管理。这种机制确保了网络的自主性和透明度，同时激励了生态系统中最优秀的构建者。通过链上激励，Kava能够直接奖励对生态有贡献的项目和个人，进一步推动了网络和生态系统的健康发展。</p>
+<p dir="ltr">Kava网络的这些理论基础和架构特征共同构成了其独特的竞争优势，为开发者和用户提供了一个安全、高效、互操作的区块链平台。通过这些创新，Kava不仅促进了跨生态系统的协作，也为区块链技术的进步和应用开辟了新的可能性。</p>
+<h3 dir="ltr">与币安进一步绑定，Kava的发展前景也更为市场所关注</h3>
+<p dir="ltr">自2018年由Kava Labs创立以来，Kava一直是去中心化金融和区块链技术创新的先锋。由Ruaridh O’Donnell、Brian Kerr和Scott Stuart共同创立的这一项目，在2019年通过在币安交易所的代币销售中筹集了300万美元，标志着Kava和币安之间早期的合作开始。此次销售成功出售了KAVA总供应量的6.5%，为Kava的发展注入了关键资金。</p>
+<p dir="ltr">随着2020年8月Kava贷款协议在Cosmos平台的上线，允许BNB作为USDX加密贷款的抵押品，Kava展现了其在DeFi领域的实力。自那以后，Kava记录了超过800万美元的USDX贷款，并锁定了约2400万美元的BNB作为抵押品，显示出其生态系统的强大活力和市场的高度信任。</p>
+<p dir="ltr">2024年3月18日，币安进一步加深了与Kava长达四年的合作关系，正式支持Kava EVM和Kava的原生USDT集成。这一举措使得币安的1.82亿以上用户能够无缝地加入Kava生态系统，进一步促进了Kava原生产品的普及和生态系统的广泛采用。此次集成使Kava加入了少数几个同时拥有原生USDT集成和币安全面支持的精英L1平台的行列。</p>
+<p dir="ltr"><img alt="集成EVM，进一步绑定币安：Cosmos系的KAVA今年稳了？" src="https://cdn-img.panewslab.com/panews/images/4ssTnkPYok.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p dir="ltr">Kava的成功不仅得益于其先进的技术和强大的生态系统，但也归功于与币安的紧密合作。通过币安这个平台，Kava原生的数字资产如KAVA、USDT和WBTC的转移变得更加便捷，同时为Kava带来了前所未有的流动性水平和用户基础。币安作为全球最大的交易所，其庞大的用户群成为加速Kava生态系统更广泛采用的关键。</p>
+<p dir="ltr">此次Kava与币安的再度合作，不仅是两家公司之间关系的一个新里程碑，也是区块链技术向前迈进的一个重要步骤。随着Kava生态系统继续扩展，其与币安的合作无疑会为用户和开发者带来更多的机会和便利，共同推动区块链技术的未来发展。</p>
+<h3 dir="ltr">一系列重要动作同时展开，KAVA后市能否如预期平稳向上仍需观察</h3>
+<p dir="ltr">随着Kava（KAVA）成功在Bithumb上线韩元交易对，并与DWF Labs建立战略合作伙伴关系，Kava链在2024年初就已经展示了其生态系统的强大增长动力和市场认可。这些发展事件不仅为Kava提供了更广阔的市场接入和增强的流动性，还标志着其在全球区块链领域中地位的提升。特别是与DWF Labs的合作，预计将极大促进Kava DeFi生态的发展，尤其是在DEX领域。</p>
+<p dir="ltr">Kava的原生DeFi借贷项目Hover通过在DAO Maker上的成功公开发售，进一步证明了市场对Kava生态项目的信心。这一筹资活动不仅为Hover提供了发展的资金支持，也为Kava生态带来了更多的用户和开发者注意力，有望推动其在DeFi借贷领域的创新和成长。</p>
+<p dir="ltr">综上所述，Kava通过持续的技术创新、深化合作伙伴关系以及拓宽市场接入，正逐步展现出其作为领先的Layer 1区块链平台的潜力。面向未来，Kava生态系统预计将继续在推进去中心化金融方面发挥重要作用，不仅为用户提供增值服务，也推动整个区块链行业的繁荣发展。</p>
+]]></content:encoded>
+<pubDate>Thu, 21 Mar 2024 11:00:47 +0800</pubDate>
+<pubDate>Thu, 21 Mar 2024 11:00:47 +0800</pubDate>
+</item>
 
 <item>
 <title>沉寂4年的1968个钱包在过去16小时将约3323万个OKB代币转回OKX交易所</title>
