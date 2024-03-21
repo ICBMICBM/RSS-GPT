@@ -5019,3 +5019,12 @@ Existing_entries: 140
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-21 07:59:37.600036
+------------------------------------------------------
+Started: 2024-03-21 08:18:39.993899
+Existing_entries: 140
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 41
+Summarized using GPT-3.5-turbo-1106
+Append: [Want To Track the Speculative Frenzy in Bitcoin Market, Here’s How](https://www.coindesk.com/markets/2024/03/21/want-to-track-the-speculative-frenzy-in-bitcoin-market-heres-how/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-21 08:18:43.863999

@@ -4,6 +4,54 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>Base网络周二的日交易量达3.56亿美元，较前一天增长51%</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/8mxnci7e.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/8mxnci7e.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Base网络的日交易量在周二达到了3.56亿美元，比前一天增长了51%，总锁定价值也达到了新高，总计7.45亿美元。根据Dune数据显示，该网络的每日交易量为165万笔，新增用户近13万。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月21日消息，据The Block报道，Base网络的日交易量在周二达到了3.56亿美元，较前一天增长了51%。其总锁定价值（TVL）也达到了新高，总计7.45亿美元。Dune数据显示，周三该网络的每日交易量为 165 万笔，新增用户近 13 万。</p>
+]]></content:encoded>
+<pubDate>Thu, 21 Mar 2024 16:01:15 +0800</pubDate>
+<pubDate>Thu, 21 Mar 2024 16:01:15 +0800</pubDate>
+</item>
+<item>
+<title>探索Web3在AI激浪时代中的定位：被需要还是被取代？</title>
+<link>https://www.panewslab.com/zh/articledetails/mo21uvy7.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/mo21uvy7.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了英伟达举办的GTC2024大会以及马斯克开源的Grok-1模型，探讨了AI和Web3在现实世界中的发展阶段和互补关系。算力作为最宝贵的资源被讨论，并提出了Web3作为最后一道防火墙的重要性。同时强调了对算力资源公平分配的需求以及AI和Web3技术的融合对科技发展的意义。 <div>
+<p>出品｜欧科云链研究院</p>
+<p>作者｜Hedy Bi</p>
+<p>英伟达于昨日举办了GTC2024全球大会，创始人黄仁勋用长达2个小时的时间一一介绍英伟达此次新推出的产品线以及原有产品的迭代。马斯克也于3月18日开源有着3140亿参数的Grok-1模型，以及该模型的网络架构等细节。在Transformer被发明后，每六个月AI大型语言模型将会扩展一倍，就在AI发展迅猛、新闻频出之际，Web3近期则是沉浸在以MEME叙事为主的市场FOMO情绪中，似乎和扎实发展技术的AI分道扬镳。</p>
+<p>在AI界进展频频掀起浪花之时，我们不禁在思索一个问题：<strong>Web3在迅速迭代的AI领域中占据怎样的位置呢？又或者是否被替代？</strong></p>
+<h3>数字新大陆的唯一货币：GPU</h3>
+<p>总结目前Web3与AI的发展阶段：无论是Web3利用AI进行用户破圈，还是AI和Web3的技术融合能够从底层对生产关系和生产力都进行升级，当前二者的发展还是处于解决现实存在问题的阶段，例如AI成为效率工具帮助Web3获取用户，Web3帮助解决AI数据隐私和安全性的问题。</p>
+<p>在英伟达大会上，除了GPU的新进展外，最吸引我们眼球的是在这场大会上展示的Issac Robotic具象智能，该服务提供了机器人的模拟训练，融合了实际世界的计算单元和智能驱动框架。换句话说，AI以自身为本体走进真实世界，通过视频、音频等形式与人交互，甚至自己可以获取物理世界的信息和数据训练自己。从这个角度来看，AI将从一个聊天工具进化成智能生产力工具。李开复创办的创新工场也提出我们即将进入AI 2.0时代。</p>
+<pre><img alt="探索Web3在AI激浪时代中的定位：被需要还是被取代？" src="https://cdn-img.panewslab.com//panews/2022/3/21/images/dd39eb747e1dabfd7964767f4b644ae2.jpeg" style="display: block; margin-left: auto; margin-right: auto;" />来源：零一万物</pre>
+<p><strong>当我们将具身智能这个场景带入到元宇宙中，它将成为打通物理世界和虚拟世界自主关联的关键技术之一。</strong>在这个世界中，结合Web3去中心化的经济模型激励，我们或许真的开创了一个数字新大陆，一个更广阔的世界。</p>
+<p>在这个全新的数字世界中，我们面临着一个重要的抉择：是简单地复制现实世界，还是打造一个全新的数字化社会？无论我们选择哪种道路，算力都将成为最宝贵的核心资源。目前，GPU的生产几乎被英伟达独家垄断，而且价格极其昂贵。尤其是在Transformer架构引入自注意力（Self- attention）机制后，对算力的需求急剧增加。在最近的采访中，Open AI CEO Sam Altman也提到<strong>算力将成为未来世界的货币。</strong></p>
+<p>面对这一现实，我们必须深入思考：被垄断的GPU如何才能更友好、更公平地推动社会创新？又或者从根本上如何实现对算力资源的更加平等和公正的分配，以促进创新和发展？这是一个需要我们共同思考和努力解决的重要问题。</p>
+<h3>Web3技术将会成为最后的「防火墙」</h3>
+<p><strong>Web3就是这个问题最好的答案，也是AI最后的「防火墙」。</strong></p>
+<p>算力对于Web从业者来说，自比特币诞生之日起就一直是一个不可或缺的资源。<strong>随着比特币减半、现货ETF通道打开以及zk等复杂计算技术的推广，Web3对算力的需求与人工智能一样日益上升，这必然会引发各大科技公司对算力的竞争。</strong>根据《2022-2023全球计算力指数评估报告》，全球AI计算市场规模将从195亿美元增长到346.6亿美元。Web3的去中心化技术将为解决这一问题提供一个良好的解决方案。</p>
+<pre><img alt="探索Web3在AI激浪时代中的定位：被需要还是被取代？" src="https://cdn-img.panewslab.com//panews/2022/3/21/images/b295ef3f20d7e6d8d9963d2403d450de.png" style="display: block; margin-left: auto; margin-right: auto;" />来源：网络</pre>
+<p>目前，已有一些不错的Web3项目正在运行。在英伟达大会上，像Render和Near等Web3项目也受邀参与大会等主题演讲或圆桌讨论。这些项目通过利用区块链技术和智能合约来管理计算资源的分配和利用，已经开始在算力去中心化进程中发挥重要作用。比如，2015年成立的Akash和2020年上线的Render Network，尽管它们面向的细分领域不同，但其<strong>主要架构都是让节点通过贡献算力资源在市场平台上进行交易，为开发者提供了获取算力资源的途径。</strong>所有这些活动都基于Web3的区块链技术和智能合约，避免了中心化的组织对资源的垄断。</p>
+<pre><img alt="探索Web3在AI激浪时代中的定位：被需要还是被取代？" src="https://cdn-img.panewslab.com//panews/2022/3/21/images/e9bd1bf1ca338be3c0030e6165293eec.png" style="display: block; margin-left: auto; margin-right: auto;" />来源：@layerggofficial</pre>
+<p>算力只是目前我们看到的最突出的问题之一。在AI治理方面，像Lex Fridman和Open AI CEO Sam Altman的近期访谈中，Lex以AGI为例设问谁最先造出AGI，谁将获得巨大权力，那这该如何治理？Sam郑重其事地回答，“包括我自己在内的任何一个人，都不应该独揽大权”。在面对这些重大技术突破时，重新反思制度、强调伦理道德和加强全球合作关系变得尤为重要，以避免技术滥用和不良后果的产生。</p>
+<h3>AI与Web3融合：自主性的极致追求</h3>
+<p>除了Web3将成为AI持续发展中的最后一道防火墙外，在科技价值观上，两者也是同源而生。我们回顾AI、Web3和密码学的科技发展史，<strong>发现Web3与AI都共享着对自主性的极致追求。</strong>这种科技价值观并非新生事物。早在1948年，《Cybernetics: Or Control and Communication in the Animal and the Machine》提出的控制论（Cybernetics）就开始探讨动物和机器之间的控制和通信过程，推动了人机交互、人工智能伦理学等领域的研究和讨论。</p>
+<p>Web3的基础也是来源于对「自主性」追求的斗争—— 密码朋克极客运动，密码朋克极客运动的核心理念是通过使用密码学技术来促进个人隐私和自由。在Digicash和B-Money等尝试中诞生了中本聪的比特币。极客们希望<strong>通过去中心化来实现更公平且透明的网络，协议和组织都可以通过表示共识的代码来自主运行，从而防止例如资源的过度集中从而带来的垄断又或者权力的滥用。</strong></p>
+<p>同源而生的Web3和AI不仅代表着科技界对于自主性的追求，更是现今正在涌现的意识觉醒的象征。要保护人类创新不断前进，唯有Web3的去中心化技术才能以技术机制治理科技，成为守护人类的最后一道防火墙。AI的持续发展不仅为AI行业本身创造了需求，也为Web3设置了一道只有Web3能够解决的难题。</p>
+<pre><img alt="探索Web3在AI激浪时代中的定位：被需要还是被取代？" src="https://cdn-img.panewslab.com//panews/2022/3/21/images/f51300aa92282767cf732ef274fe0865.png" style="display: block; margin-left: auto; margin-right: auto;" />来源：英伟达</pre>
+<p>参考资料：</p>
+<p>1. "Attention Is All You Need",Ashish Vaswani, Noam Shazeer,Niki Parmar,Jakob Uszkoreit, Llion Jones,Aidan N. Gomez, Lukasz Kaiser,Illia Polosukhin</p>
+<p>2."Bitcoin And Crypto Currency - A Brief History Everyone Should Read", Bernard Marr</p>
+<p>3. 《潜力赛道前瞻：去中心化算力市场》，YBB Capital Researcher Zeke</p>
+]]></content:encoded>
+<pubDate>Thu, 21 Mar 2024 16:00:56 +0800</pubDate>
+<pubDate>Thu, 21 Mar 2024 16:00:56 +0800</pubDate>
+</item>
 
 <item>
 <title>行情：SUI、CFX、CETUS日内上涨超20%</title>
