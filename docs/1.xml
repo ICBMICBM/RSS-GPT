@@ -5,11 +5,48 @@
 <link>https://rss.panewslab.com/</link>
 
 <item>
+<title>互操作三巨头接连上线，解读Polyhedra的创新之处</title>
+<link>https://www.panewslab.com/zh/articledetails/jex1dexw.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/jex1dexw.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。互操作三巨头Polyhedra、Wormhole和LayerZero分别上线，Polyhedra以ZK技术为基础，获得巨额融资，发明了快速的ZKP协议deVirgo和Virgo。他们取得了三项重要技术突破，包括zkBridge、zkLightClient和以太坊全节点证明，实现了比特币互操作。未来Polyhedra将致力于提升1000倍的性能，实现区块链的完全互操作，连接不同链的资产、信息和协议。 <div>
+<p>作者：BMAN</p>
+<p>最近互操作三巨头接连上线，将掀起互操作赛道的小阳春。</p>
+<p>@PolyhedraZK $ZK 3月上线；@wormholecrypto $W 4月上线；@LayerZero_Labs 预计Q2上线。</p>
+<p>其中Polyhedra是唯一的ZK选手，也抢到了$ZK这个漂亮的Ticker，完成了Polychain领投的10亿美金融资，成为名副其实的ZK互操作龙头。</p>
+<p>过去3年，Polyhedra团队20多位博士及密码学专家围绕ZK互操作已取得了数十项突破，Polyhedra发明的DeVirgo和Virgo是目前最快的ZKP协议之一。普通用户用笔记本或手机无需从服务器下载大量数据（众所周知这一致是业界难题）即可成为Prover。</p>
+<p>deVirgo具有近乎完美的线性可扩展性，在具有M台计算机的分布式计算网络中，证明生成时间可以缩短近乎M倍。此外，在deVirgo中，跨分布式计算网络的通信在Virgo中的主要计算（GKR部分）中被最小化。使用deVirgo，zkBridge的证明生成速度可以进一步提升，比使用单线程Virgo要快100倍。</p>
+<p>过去3年，Polyhedra基于zk，做出了3个重要的技术突破：</p>
+<h2>1、zkBridge和zkLightClient</h2>
+<p>Polyhedra发明了行业首个zkBridge，zkBridge脱胎于2022年网络安全顶会ACM CCS论文，指导教授是美国国家科学院院士. A16z Crypto首席科学家，Vitailk的密码学技术顾问Dan Boneh：</p>
+<p><a href="https://dl.acm.org/doi/10.1145/3548606.3560652%E2%80%A6" rel="nofollow">https://dl.acm.org/doi/10.1145/3548606.3560652…</a></p>
+<p><img alt="互操作三巨头接连上线，解读Polyhedra的创新之处" height="332" src="https://cdn-img.panewslab.com/panews/2024/03/21/images/1NMKHtU3xX.jpg" width="800" /></p>
+<p>过去3年链上用户通过zkBridge在数百万个钱包，25条链和 80多个生态系统中发送了超过 2000 万笔跨链交易。</p>
+<p>Polyhedra发明的ZK轻客户端zkLightClient还为 Layer1 和 Layer2 互操作提供超过450万条消息传输。互操作三巨头之一的LayerZero也在使用zkLightClient作为默认的去中心化验证网络（DVN）。</p>
+<h2>2、以太坊全节点证明：</h2>
+<p>Polyhedra利用ZK增强BLS 签名验证，显着减少以太坊验证节点和全节点之间的通信大小。这一创新增强为以太坊更精简和扩容铺平了道路，zk轻客户端zkLightClient使每个验证者都可以签署每个块，允许单个zk-proof来验 512 个BLS签名，仅需要200到300 字节的通信。</p>
+<p>Polyhedra创造的单时隙最终性（SSF）还显着减少以太坊的延迟。 它与先进的ZKP deVirgo和改进的签名方案结合，增强以太坊的速度和用户体验，也是Vitalik最看重的以太坊里程碑之一。</p>
+<h2>3、比特币互操作：</h2>
+<p>比特币生态在发展的初期，已经呈现数十条Layer2群雄逐鹿的格局，但数十条Layer2也急需可以互操作的基础设施，Polyhedra是在比特币生态互操作走的最前的龙头。</p>
+<p>zkBridge已经支持了比特币生态的最大的可互操作性，连接比特币钱包、Layer2、DeFi和基础设施。甚至在比特币和其他链之间，也可以基于ZK进行去信任的互操作。</p>
+<h2>结语：</h2>
+<p>过去3年，Polyhedra发明了最快的ZK算法deVirgo，连接超过 25 个网络，完成了4000 万个zk证明，2000万笔跨链交易，且每笔交易只需要1条消息，相比之下，Wormhole 需要 10 亿条消息来验证总共 300 万笔交易，Polyhedra是当下最高效的互操作龙头项目。</p>
+<p>在未来几年，我们期望在数学和ZKP领域取得1000倍的性能提升，这将使得区块链完全互操作的愿景得以实现。未来链与链之间将实现：</p>
+<p>1、资产的互操作；</p>
+<p>2、信息的互操作；</p>
+<p>3、协议的互操作。</p>
+<p>未来A链的协议，可以自动和和B链的协议可组合和可互通，链与链之间将成为万链互联的状态。而Polyhedra就像其中文「多面体」一样成为万链互联的基础设施。</p>
+]]></content:encoded>
+<pubDate>Thu, 21 Mar 2024 13:30:51 +0800</pubDate>
+<pubDate>Thu, 21 Mar 2024 13:30:51 +0800</pubDate>
+</item>
+
+<item>
 <title>星巴克突然叫停Odyssey计划：旗下NFT严重破发，Polygon曾赞助400万美元</title>
 <link>https://www.panewslab.com/zh/articledetails/bz54febl.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/bz54febl.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是消极的。文章提到星巴克在NFT市场不景气的情况下宣布终止Odyssey NFT计划，并关闭Discord社区。该计划由于参与度不高和NFT严重破发而遭受重创。同时，星巴克的合作伙伴Polygon Labs曾支付400万美元赞助该计划，但在公司重组后重心或将更加专注于技术发展而非品牌营销。这也反映了大型传统平台离场NFT的趋势。 <div>
+<div> <br /><br />摘要：<br />这些信息是消极的。文章提到星巴克在NFT市场不景气的情况下宣布终止Odyssey NFT计划，并关闭Discord社区。该计划由于参与度不高和NFT严重破发而遭受重创。同时，星巴克的合作伙伴Polygon Labs曾支付400万美元赞助该计划，但在公司重组后重心或将更加专注于技术发展而非品牌营销。这也反映了大型传统平台离场NFT的趋势。 <div>
 <p>作者：Nancy，PANews</p>
 <p>NFT市场跌至冰点之际，星巴克宣布推出不到两年时间的Odyssey NFT计划即将终止。与此同时，Polygon Labs被曝出曾向星巴克支付400万美元用于资助该忠诚度奖励计划，并借此打败其他竞争对手成为了星巴克的合作伙伴。星巴克突然结束NFT计划背后，或与用户参与度不高和NFT市场不景气等多方面原因有关。</p>
 <h3><strong>计划推出新会员体验，多数</strong><strong>Odyssey NFT</strong><strong>严重破发</strong></h3>
@@ -28,9 +65,7 @@
 <p>星巴克这类大型传统平台离场NFT并非个例，过去GameStop、Meta、eBay等均因NFT发展前景和监管等因素关闭或裁减团队，这也意味着NFT要想持久走向更广泛的市场仍面临很大挑战。</p>
 ]]></content:encoded>
 <pubDate>Thu, 21 Mar 2024 13:17:46 +0800</pubDate>
-<pubDate>Thu, 21 Mar 2024 13:17:46 +0800</pubDate>
 </item>
-
 <item>
 <title>美联储放鸽助推风险情绪，BTC走高收复6.7万美元</title>
 <link>https://www.panewslab.com/zh/articledetails/zx4i5us2.html</link>
