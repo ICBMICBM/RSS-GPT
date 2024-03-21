@@ -5100,3 +5100,12 @@ Existing_entries: 141
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-21 10:04:33.517495
+------------------------------------------------------
+Started: 2024-03-21 10:20:46.550478
+Existing_entries: 141
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 17
+Summarized using GPT-3.5-turbo-1106
+Append: [Dogecoin Climbs 18% on DOGE Futures Hopes, Bitcoin Nears $68K](https://www.coindesk.com/markets/2024/03/21/dogecoin-climbs-18-on-doge-futures-hopes-bitcoin-nears-68k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-21 10:20:49.605669
