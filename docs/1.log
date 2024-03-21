@@ -5353,3 +5353,15 @@ Existing_entries: 271
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-21 08:59:17.650506
+------------------------------------------------------
+Started: 2024-03-21 09:14:27.874378
+Existing_entries: 271
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 462
+Summarized using GPT-3.5-turbo-1106
+Append: [韩媒：预计Do Kwon最早于3月24日入境韩国后立即被押送至检方](https://www.panewslab.com/zh/sqarticledetails/akdbo3ye.html)
+Token length: 4995
+Summarized using GPT-3.5-turbo-1106
+Append: [一文详解Mode Network：OP超级链热门项目，专注于DeFi的模块化Layer2](https://www.panewslab.com/zh/articledetails/87yivr44.html)
+append_entries: 2
+Finish: 2024-03-21 09:14:36.655839
