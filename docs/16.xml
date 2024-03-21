@@ -5,17 +5,78 @@
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
 <item>
+<title>Glassnode：坎昆升级如何影响以太坊的代币政策</title>
+<link>https://www.jinse.cn/blockchain/3678630.html</link>
+<guid>https://www.jinse.cn/blockchain/3678630.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的<br>以太坊的Dencun升级引入了Blob交易，降低了Layer 2扩展解决方案的费用成本，并改善了用户体验。同时，升级还限制了新验证者的进入，以减缓验证者集的增长，但可能导致节点通信速度减慢。<br><br> <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Glassnode 作者 Alice Kohn 指出 Dencun 升级引入了 Blob 交易降低了 Layer 2 扩展解决方案的费用成本。同时，还可能通过限制新验证者的进入来影响以太坊的代币政策，减缓验证者集的增长，从而减缓新 ETH 发行的速度。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.jinse.cn/blockchain/3678630.html">https://www.jinse.cn/blockchain/3678630.html</a></p>
+<p><strong>文章作者：</strong></p><p>glassnode</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>glassnode：</strong>Dencun 升级的主要特点是在以太坊网络上创建额外的数据存储容量。 它引入了一种能够承载大数据包（称为 blob）的新型事务。Blob 临时存储在共识层而不是执行层，这会降低以太坊网络和 Rollup 本身的费用成本。 升级后交易成本大幅下降，Optimism 和 StarkNet 的交易费用甚至低于 1 美分。
+
+通过 Dencun 升级，将 Layer 2 锚定交易分离为 Blob 在很大程度上符合改善用户体验、降低费用，并与以太坊基金会以 Rollup 为中心的路线图保持一致。 希望较低的交易费用将鼓励更多用户转向 Rollup，从而增加基于以太坊的总交易吞吐量。 该策略旨在提高可扩展性，同时不影响主链的去中心化和安全性。
+
+Dencun 升级还引入了新的技术变化，这些变化影响了以太坊上的质押者，主要旨在改善用户体验：1）永久有效的签名退出增强了委托质押参与者（例如流动性质押池）的用户体验。Dencun 升级后，验证人运营商可以预先签署自愿退出，允许权益所有者单方面退出其权益。2）增加证明窗口将验证者对区块正确性进行投票的时间从 6.4 分钟延长到 12.8 分钟。 这允许收集更多的证明，从而可以加速区块确认过程。
+
+还增加了对新验证者的固定限制，以减缓验证者集的增长。 目前，流失限制规定了每天可以有多少新验证者进入或退出质押池。 此限制随着活跃验证器总数的定义增量而增加一步。上海升级后，活跃验证人数量大幅增加，平均每天新增验证人 + 1347 人。 然而，随着验证者数量的增加，人们注意到副作用是节点通信速度减慢。</p><a href="https://www.jinse.cn/blockchain/3678630.html">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-21T03:01:30+00:00</pubDate>
+</item>
+<item>
+<title>Base 成 Meme 爱好者新宠？从数据看 Base 网络趋势</title>
+<link>https://foresightnews.pro/article/detail/56088</link>
+<guid>https://foresightnews.pro/article/detail/56088</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Coinbase 的 Layer2 网络 Base 在集成 EIP-4884 后降低交易费用，吸引了广泛关注。Base 网络的用户量在本月中旬激增，3月16日单日新用户数量达到63万以上，交易笔数创下历史新高。总 TVL增加50%，排名第五。交易热度高，成交额集中在Meme代币和DEGEN上。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Coinbase 的 Layer2 网络 Base，凭借 Coinbase 这一行业巨擘上亿用户的强大支撑以及加密 OG 的支持，在集成 EIP-4884 后大幅降低交易费用后，吸引了市场的广泛关注。与此同时，随着 Solana Meme 情绪的日益高涨，Base 在近几日也备受瞩目。Foresight News 作者 Karen 从用户量、TVL、交易笔数等数据分析 Base 网络趋势。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://foresightnews.pro/article/detail/56088">https://foresightnews.pro/article/detail/56088</a></p>
+<p><strong>文章作者：</strong></p><p>Foresight News</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Foresight News：</strong>用户量：本月中旬激增，3 月 16 日单日新用户数量达到 63 万以上。当日 Base 交易笔数更是创下了历史新高，达到 211 万笔。可能的原因是 Solana 生态 Meme 热度外溢，Base 生态多个 Meme 代币大涨，Uniswap NFT 产品负责人 Scott 在当日喊单 Meme 代币 Over，加之 Base 集成 EIP-4844（3 月 14 日）后手续费大幅下降以及 Base 上短视频社交应用 Drakula 的启动（3 月 14 日上线）等。
+
+总 TVL：若按 ETH 本位计算，过去 10 天 Base 生态总 TVL 增加 50%。在总锁仓量方面，根据 L2BEAT 数据显示，当前，Base 生态总 TVL（包括所有跨链代币、原生代币的价值）目前为 14 亿美元，在所有 L2 中排名第五，排名前四的 L2 是 Arbitrum（156.9 亿美元）、OP Mainnet（73.4 亿美元）、Blast（22.7 亿美元）、Manta Pacific（18.2 亿美元）。
+
+交易笔数：最近一周单日超过 110 万笔。从交易笔数来看，Base 网络的表现同样亮眼，交易热度已基本升至去年 9 月份时的巅峰状态。3 月 16 日，Base 上日交易笔数更是创下了历史新高，达到 211 万笔，最近一周的单日交易笔数也均超过 110 万笔。
+
+成交热度：24 小时成交 4.43 亿美元，热度集中在 Meme 代币和 DEGEN 上。随着资金流入到 Base 生态，Base 上的成交额也在不断急剧增加。根据 DEX Screener 数据，过去 24 小时的交易量达到 4.43 亿美元，热度集中在 Meme 代币以及 Farcaster 生态代币 DEGEN 上。</p><a href="https://foresightnews.pro/article/detail/56088">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-21T02:56:19+00:00</pubDate>
+</item>
+<item>
+<title>以太坊 Layer2 项目 Morph 完成 1900 万美元种子轮融资，DragonFly Capital 领投</title>
+<link>https://fortune.com/crypto/2024/03/20/morph-ethereum-layer-2-19-million-seed-round-dragonfly/</link>
+<guid>https://fortune.com/crypto/2024/03/20/morph-ethereum-layer-2-19-million-seed-round-dragonfly/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。以太坊 L2 Morph 宣布完成 1900 万美元种子轮融资，Dragonfly Capital 领投，Pantera Capital、Foresight Ventures、The Spartan Group、MEXC Ventures、Symbolic Capital、Public Works、MH Ventures 和 Everyrealm 共同参投。Morph 还获得 100 万美元天使轮融资，投资者包括来自 Polygon、Manta、Galxe、Sei、Nansen 等项目的创始人。该项目计划加快团队建设、提高开发者激励、扩大市场营销等。Morph 是一种无需许可的 EVM L2，结合了 optimistic 和 zk rollup 技术，为开发人员提供一站式开发工具与解决方案。 <div>
+<p>以太坊 L2 Morph 宣布完成 1900 万美元种子轮融资，Dragonfly Capital 领投，Pantera Capital、Foresight Ventures、The Spartan Group、MEXC Ventures、Symbolic Capital、Public Works、MH Ventures 和 Everyrealm 共同参投。此外，Morph 还获得 100 万美元天使轮融资，投资者包括来自 Polygon、Manta、Galxe、Sei、Nansen、Story Protocol 等项目的创始人，以及 Icebergy、MoonOverlord、NaniXBT、Dingaling 等 KOL。Morph 计划将本轮融资用于加快团队建设、提高开发者激励、扩大市场营销等。
+
+Morph 是一种完全无需许可的 EVM L2，它结合了 optimistic 和 zk rollup 技术，为开发人员提供一站式开发工具与解决方案。</p><p><a href="https://fortune.com/crypto/2024/03/20/morph-ethereum-layer-2-19-million-seed-round-dragonfly/">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-21T02:55:04+00:00</pubDate>
+</item>
+<item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Polyhedra Network以10亿美元估值完成2000万美元战略融资，由Polychain Capital领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital等参投。融资资金将用于招聘跨职能部门人员，并将团队规模从50人扩大到80人。该公司将用于发展zkBridge互操作协议的产品、工程、业务开发和营销。本轮融资是通过未来代币或SAFT简单协议进行的，之前也是如此。 <div>
+<div> <br><br>摘要：<br>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，筹资将用于扩大团队、招聘人才和业务开发。SAFT协议在此次和之前的融资中使用。参投方包括 Animoca Brands、Hashkey Capital等。这些信息是积极的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
 
+<item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
+<content:encoded><![CDATA[
+<div> <br /><br />摘要：<br />这些信息是积极的。Polyhedra Network以10亿美元估值完成2000万美元战略融资，由Polychain Capital领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital等参投。融资资金将用于招聘跨职能部门人员，并将团队规模从50人扩大到80人。该公司将用于发展zkBridge互操作协议的产品、工程、业务开发和营销。本轮融资是通过未来代币或SAFT简单协议进行的，之前也是如此。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
