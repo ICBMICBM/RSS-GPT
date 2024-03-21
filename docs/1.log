@@ -5206,3 +5206,12 @@ Existing_entries: 260
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-21 05:56:34.967466
+------------------------------------------------------
+Started: 2024-03-21 06:13:38.616272
+Existing_entries: 260
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 3280
+Summarized using GPT-3.5-turbo-1106
+Append: [星巴克折戟Web3，告别NFT产品计划](https://www.panewslab.com/zh/articledetails/2ik62sod.html)
+append_entries: 1
+Finish: 2024-03-21 06:13:44.093515
