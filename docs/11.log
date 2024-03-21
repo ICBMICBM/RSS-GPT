@@ -5205,3 +5205,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Selling on Rise? Crypto Whale Transfers $42.8M ETH to Binance](https://www.coindesk.com/markets/2024/03/21/selling-on-rise-crypto-whale-transfers-428m-eth-to-binance/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 4
 Finish: 2024-03-21 12:22:01.515484
+------------------------------------------------------
+Started: 2024-03-21 12:43:12.575197
+Existing_entries: 148
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 14
+Summarized using GPT-3.5-turbo-1106
+Append: [Crypto Exchange OKX to End Services in India](https://www.coindesk.com/policy/2024/03/21/crypto-exchange-okx-to-end-services-in-india/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-21 12:43:15.812378
