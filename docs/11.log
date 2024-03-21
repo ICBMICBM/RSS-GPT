@@ -5187,3 +5187,21 @@ Existing_entries: 144
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-21 11:57:36.842403
+------------------------------------------------------
+Started: 2024-03-21 12:21:47.291841
+Existing_entries: 144
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 24
+Summarized using GPT-3.5-turbo-1106
+Append: [First Mover Americas: Crypto Market Volatility Heats Up](https://www.coindesk.com/markets/2024/03/21/first-mover-americas-crypto-market-volatility-heats-up/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 39
+Summarized using GPT-3.5-turbo-1106
+Append: [Crypto Exchange Backpack Appoints Stripe, Banking Veteran as CFO](https://www.coindesk.com/business/2024/03/21/crypto-exchange-backpack-appoints-stripe-banking-veteran-as-cfo/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 14
+Summarized using GPT-3.5-turbo-1106
+Append: [Web 3 Startup Tensorplex Labs Raises $3M Seed Funding to Decentralize AI](https://www.coindesk.com/business/2024/03/21/web-3-startup-tensorplex-labs-raises-3m-seed-funding-to-decentralize-ai/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 20
+Summarized using GPT-3.5-turbo-1106
+Append: [Selling on Rise? Crypto Whale Transfers $42.8M ETH to Binance](https://www.coindesk.com/markets/2024/03/21/selling-on-rise-crypto-whale-transfers-428m-eth-to-binance/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 4
+Finish: 2024-03-21 12:22:01.515484

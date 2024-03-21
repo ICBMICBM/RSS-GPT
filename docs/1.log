@@ -5506,3 +5506,12 @@ Existing_entries: 282
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-21 11:57:32.179009
+------------------------------------------------------
+Started: 2024-03-21 12:21:36.366616
+Existing_entries: 282
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 1598
+Summarized using GPT-3.5-turbo-1106
+Append: [为什么说Solana会成为加密行业的“苹果公司”？](https://www.panewslab.com/zh/articledetails/vh785h8j.html)
+append_entries: 1
+Finish: 2024-03-21 12:21:42.398341
