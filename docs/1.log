@@ -5233,3 +5233,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [贝莱德再次拥抱加密：继推出比特币ETF之后，这次发了个链上基金](https://www.panewslab.com/zh/articledetails/07mjlfh1.html)
 append_entries: 1
 Finish: 2024-03-21 06:37:57.181125
+------------------------------------------------------
+Started: 2024-03-21 06:45:07.223499
+Existing_entries: 263
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+append_entries: 0
+Finish: 2024-03-21 06:45:08.568085
