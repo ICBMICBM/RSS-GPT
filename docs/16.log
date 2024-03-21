@@ -5743,3 +5743,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round )
 append_entries: 1
 Finish: 2024-03-21 08:18:49.133161
+------------------------------------------------------
+Started: 2024-03-21 08:28:34.241479
+Existing_entries: 522
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 985
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文】Binance Research： 详解 Cosmos 生态系统](https://public.bnbstatic.com/static/files/research/orbiting-the-cosmos-ecosystem.pdf)
+Token length: 1121
+Summarized using GPT-3.5-turbo-1106
+Append: [对话 Near 联合创始人 Illia ：从 AI 大神到公链创始人，一龙的 AI 与加密世界观](https://www.techflowpost.com/article/detail_16926.html)
+Token length: 266
+Summarized using GPT-3.5-turbo-1106
+Append: [ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round )
+append_entries: 3
+Finish: 2024-03-21 08:28:47.216746
