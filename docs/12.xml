@@ -4,6 +4,37 @@
 <title>Bitcoinist.com</title>
 <link>https://bitcoinist.com</link>
 
+<item>
+<title>Did This Bitcoin On-Chain Metric Predict Recovery In Advance?</title>
+<link>https://bitcoinist.com/bitcoin-on-chain-metric-predict-recovery-in-advance/</link>
+<guid>https://bitcoinist.com/bitcoin-on-chain-metric-predict-recovery-in-advance/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：这些信息是积极的。<br>比特币的调整SOPR在最新的复苏之前重新测试了一个历史相关线。分析显示，比特币价格下跌至60,600美元后反弹。aSOPR指标在价格下跌期间降至1.0水平，表明投资者正在以净利润出售比特币。在价格回调时，损失开始积累，aSOPR向1.0水平回落。1.0水平通常是比特币找到反弹的点。目前比特币价格约为67,000美元，过去一周上涨5%。 <div>
+<p>On-chain data indicates that Bitcoin had retested a historically relevant line right before the latest recovery had come.</p>
+<h2>Bitcoin Adjusted SOPR Retested The 1.0 Level Prior To Recovery</h2>
+<p>When Bitcoin was declining, the cryptocurrency had dropped to a low of $60,600, which appears to have been the bottom, at least so far, given that the coin has rebounded sharply since hitting the mark.</p>
+<p>Around the time of BTC&#8217;s recent low prices, an analyst had pointed out in a CryptoQuant Quicktake <a href="https://cryptoquant.com/insights/quicktake/65fb1988a3be2268b3df088e-Understanding-ASOPR-and-Market-Behavior" rel="noopener nofollow" target="_blank">post</a> that the <a href="https://bitcoinist.com/bitcoin-sopr-nears-vital-retest-bulls-find-victory/" rel="noopener " target="_blank">Adjusted Spent Output Profit Ratio (aSOPR)</a> had plunged to a value of 1 alongside the asset&#8217;s drop.</p>
+
+<p>The aSOPR is an on-chain indicator that tells us whether Bitcoin investors realize a net profit or loss with their current selling.</p>
+<p>This metric works by going through the blockchain history of each coin being transferred currently to check what price it was moved at before this. If the last price was greater than the current price, the coin&#8217;s sale would realize a loss; otherwise, it would count under profit-taking.</p>
+<p>The aSOPR can only say this, of course, with the assumption that both of these transactions involved a change of hands for the coin in question (that is, selling/buying took place).</p>
+<p>As for why the aSOPR has &#8220;Adjusted&#8221; in its name, this version of the SOPR metric has been adjusted to exclude coins that transferred within only an hour of their previous transaction.</p>
+<p>Such transfers are usually essentially noise for the indicator as they don&#8217;t pose any greater consequence for the market, hence why they aren&#8217;t taken into account.</p>
+<p>Now, here is a chart that shows the trend in the Bitcoin aSOPR over the past few years:</p>
+<p><img alt="Bitcoin aSOPR" class="alignnone aligncenter" height="806" src="https://i0.wp.com/img.cryptoquant.com/368746/quicktake/cNy0f_9973b23ddfd075adad5ca7f75afea53d770d1c1269f7980bc43a1d928b18c702.png?resize=1280%2C806&#038;ssl=1" width="1280" /></p>
+
+<p>As displayed in the above graph, the Bitcoin aSOPR had surged to very high levels as the coin had set its <a href="https://bitcoinist.com/bitcoin-breaks-through-69000-setting-new-record/" rel="noopener " target="_blank">new all-time high</a> beyond the $73,000 level. This means that the transactions being made on the network were profit-heavy on average.</p>
+<p>With the price drawdown, though, loss-taking also started taking hold as the aSOPR retreated toward the 1.0 level. At this value, the market as a whole is just breaking even on its selling.</p>
+
+<p>&#8220;When positions are stopped out or panic selling is sufficient, we anticipate the market nearing its local bottom,&#8221; notes the quant. This pattern is also visible in the chart, as major bottoms have formed when loss-taking has been dominant.</p>
+<p>The 1.0 level itself, however, has been a point where the cryptocurrency has sometimes found rebounds. The most recent example of this trend would be the low back in January, which formed when the aSOPR retested this mark.</p>
+<h2>BTC Price</h2>
+<p>At the time of writing, Bitcoin is trading at around $67,000, up 5% in the past week.</p>
+<p><img alt="Bitcoin Price Chart" class="alignnone size-medium aligncenter" height="854" src="https://www.tradingview.com/x/uB4PkASR/" width="1534" /></p>
+]]></content:encoded>
+<pubDate>Thu, 21 Mar 2024 22:00:38 +0000</pubDate>
+<pubDate>Thu, 21 Mar 2024 22:00:38 +0000</pubDate>
+</item>
 
 <item>
 <title>Cardano On The Brink: Crypto Analyst Predicts 1,800% Price Explosion To $12</title>
