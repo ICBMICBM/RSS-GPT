@@ -5160,3 +5160,12 @@ Existing_entries: 69
 Fetching from https://bitcoinist.com/feed
 append_entries: 0
 Finish: 2024-03-21 17:54:59.788129
+------------------------------------------------------
+Started: 2024-03-21 18:10:10.034579
+Existing_entries: 69
+Fetching from https://bitcoinist.com/feed
+Token length: 2708
+Summarized using GPT-3.5-turbo-1106
+Append: [Dogecoin No Longer Just A Meme Coin As Coinbase Announces Futures Listing](https://bitcoinist.com/dogecoin-coinbase-futures-listing/)
+append_entries: 1
+Finish: 2024-03-21 18:10:15.446182

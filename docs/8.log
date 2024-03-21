@@ -4821,3 +4821,12 @@ Existing_entries: 76
 Fetching from https://www.newsbtc.com/feed
 append_entries: 0
 Finish: 2024-03-21 17:54:56.010005
+------------------------------------------------------
+Started: 2024-03-21 18:10:00.398120
+Existing_entries: 76
+Fetching from https://www.newsbtc.com/feed
+Token length: 2724
+Summarized using GPT-3.5-turbo-1106
+Append: [US Spot Bitcoin ETFs Experience Record Outflows, Losing $740 Million In Three Days](https://www.newsbtc.com/bitcoin-news/us-spot-bitcoin-etfs-experience-record-outflows-losing-740-million-in-three-days/)
+append_entries: 1
+Finish: 2024-03-21 18:10:06.618548
