@@ -5401,3 +5401,12 @@ Existing_entries: 275
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-21 09:53:33.506618
+------------------------------------------------------
+Started: 2024-03-21 10:04:22.050784
+Existing_entries: 275
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 2099
+Summarized using GPT-3.5-turbo-1106
+Append: [美国SEC调查以太坊基金会，以太坊ETF前景不明](https://www.panewslab.com/zh/articledetails/ax9s4puq.html)
+append_entries: 1
+Finish: 2024-03-21 10:04:27.914393
