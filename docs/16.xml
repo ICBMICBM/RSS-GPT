@@ -5,11 +5,23 @@
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
 <item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Polyhedra Network以10亿美元估值完成了2000万美元战略融资，由Polychain Capital领投，其他投资者包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium和Mapleblock Capital。融资将用于招聘并扩大团队规模，以支持产品、工程、业务开发和营销等跨职能部门。所有融资均通过未来代币或SAFT的简单协议进行。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
+
+<item>
 <title>Kernel Ventures： 比特币生态系统的崛起 -- 应用层全景图</title>
 <link>https://medium.com/@KernelVentures/kernel-ventures-the-upsurge-of-bitcoin-ecosystem-a-panoramic-view-of-its-application-layer-fedeebe50518</link>
 <guid>https://medium.com/@KernelVentures/kernel-ventures-the-upsurge-of-bitcoin-ecosystem-a-panoramic-view-of-its-application-layer-fedeebe50518</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了比特币生态系统中的三种主流Layer2解决方案，包括闪电网络、侧链和Rollup。同时还提到了跨链桥项目Meson.Fi和稳定币协议的超额抵押形式。比特币生态系统中的DeFi项目种类繁多，其中像Alex和Orders Exchange等项目为用户提供丰富的交易产品和顺畅的交易体验。整体而言，比特币生态系统在不断发展中，为用户带来了更多选择和机会。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章介绍了比特币生态系统中的三种主流Layer2解决方案，包括闪电网络、侧链和Rollup。同时还提到了跨链桥项目Meson.Fi和稳定币协议的超额抵押形式。比特币生态系统中的DeFi项目种类繁多，其中像Alex和Orders Exchange等项目为用户提供丰富的交易产品和顺畅的交易体验。整体而言，比特币生态系统在不断发展中，为用户带来了更多选择和机会。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>随着铭文协议的出现，比特币网络正在经历链上数据的激增。链上活动的增加推动了比特币生态系统和基础设施的发展，但也带来了交易量的急剧增加和网络存储负担的上升。简单的转账已无法满足用户的需求，因此，比特币应用层的发展变得十分迫切。Kernel Ventures 成员 Jerry Luo 盘点了比特币生态中的 Layer2、跨链桥、DeFi 等项目。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://medium.com/@KernelVentures/kernel-ventures-the-upsurge-of-bitcoin-ecosystem-a-panoramic-view-of-its-application-layer-fedeebe50518">https://medium.com/@KernelVentures/kernel-ventures-the-upsurge-of-bitcoin-ecosystem-a-panoramic-view-of-its-application-layer-fedeebe50518</a></p>
 <p><strong>文章作者：</strong></p><p>Jerry Luo</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Jerry Luo：</strong>比特币的三种主流 Layer2 解决方案包括闪电网络、侧链和 Rollup。1）闪电网络通过建立离线支付通道实现点对点支付，通道关闭后在主网络上结算。2）侧链通过在主网上锁定 BTC 资产，同时在侧链上铸造等值的 BTC 资产。Merlin Chain 能够支持跨链的多种铭文资产，由 Bitmap 生态系统支持，并且其总锁定价值（TVL）已达近 40 亿美元。3）BTC Rollup 基于 Taproot 电路，可以在链上模拟智能合约，并在主比特币网络外执行打包和计算操作。B2 Network 是该实现的前沿，其链上 TVL 超过 2 亿美元。
@@ -18,7 +30,6 @@
 
 比特币生态系统中有各种各样的 DeFi 项目，从从其他链迁移而来的项目，到在当前发展热潮中在原生比特币网络上构建的项目，以及在上一次牛市期间构建并部署为侧链的项目。总体而言，Alex 提供了最丰富的交易产品和最顺畅的交易体验，但 Orders Exchange 的增长潜力更大。【原文为英文】</p><a href="https://medium.com/@KernelVentures/kernel-ventures-the-upsurge-of-bitcoin-ecosystem-a-panoramic-view-of-its-application-layer-fedeebe50518">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-21T03:44:02+00:00</pubDate>
 </item>
 <item>
@@ -26,7 +37,7 @@
 <link>https://mirror.xyz/0xcBc2B7797B5302Ad2dd2Ef55C8ceFAC769AcA06d/5J2q7T0Edfg9OW5MoQgxxVsn8_XvfW6L_PHVfw71HvI</link>
 <guid>https://mirror.xyz/0xcBc2B7797B5302Ad2dd2Ef55C8ceFAC769AcA06d/5J2q7T0Edfg9OW5MoQgxxVsn8_XvfW6L_PHVfw71HvI</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>Polyhedra Network 的工程团队通过基础算法和零知识协议提升了区块链系统的可扩展性、安全性和互操作性。他们的核心产品 zkBridge 是一个无需信任的跨链桥，能够有效地实现消息传递、代币转移和不同链上状态变化的计算逻辑。zkBridge保证了强大的安全性，并显著降低了链上验证成本。此外，zkLightClient是一种安全高效的跨链基础设施，已安全传输了超过450万条信息，使得 LayerZero 可以将 zkBridge 作为默认的去中心化验证网络。 <div>
+<div> <br /><br />摘要：<br />Polyhedra Network 的工程团队通过基础算法和零知识协议提升了区块链系统的可扩展性、安全性和互操作性。他们的核心产品 zkBridge 是一个无需信任的跨链桥，能够有效地实现消息传递、代币转移和不同链上状态变化的计算逻辑。zkBridge保证了强大的安全性，并显著降低了链上验证成本。此外，zkLightClient是一种安全高效的跨链基础设施，已安全传输了超过450万条信息，使得 LayerZero 可以将 zkBridge 作为默认的去中心化验证网络。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>在跨链的需求呈现指数型的增加的牛市中，Polyhedra Network 能够实现资产转移、消息传递和数据共享，跨越多种 Web2 和 Web3 系统。到目前为止，Polyhedra 已涵盖了超过 25 个区块链网络。加密货币 KOL 日月小楚从技术特色、产品与服务、融资情况等方面介绍了 Polyhedra。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://mirror.xyz/0xcBc2B7797B5302Ad2dd2Ef55C8ceFAC769AcA06d/5J2q7T0Edfg9OW5MoQgxxVsn8_XvfW6L_PHVfw71HvI">https://mirror.xyz/0xcBc2B7797B5302Ad2dd2Ef55C8ceFAC769AcA06d/5J2q7T0Edfg9OW5MoQgxxVsn8_XvfW6L_PHVfw71HvI</a></p>
 <p><strong>文章作者：</strong></p><p>日月小楚 ｜HZGB</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>日月小楚 ｜HZGB：</strong>Polyhedra Network 的工程团队凭借在密码学方面的专长，开创了一系列基础算法和零知识协议，如 Libra、Virgo、deVirgo、Pianist、Marlin、Gemini 和 Orion，这些协议在行业中树立了新标准，提供了最快的证明者时间、显著减小的证明大小和最小化的链上验证成本。这些基础技术是 Polyhedra 提升区块链系统可扩展性、安全性和互操作性的核心，为解决数字基础设施领域的一些最紧迫挑战提供支持。
@@ -35,21 +46,18 @@ zkBridge 作为 Polyhedra Networ k 的核心产品，它被设计为一个无需
 
 zkLightClient 是 Polyhedra Network 团队开发的用于 LayerZero 跨链协议，它为 layer1 和 layer2 的互操作性提供安全高效的跨链基础设施。该技术完全集成了 LayerZero 的消息协议，使应用开发者可以通过简单的集成配置来使用零知识证明技术进行开发跨链协议。zkLightClient 已经安全传输了超过 450 万条信息。LayerZero 现在将 zkBridge 作为许多路径的默认去中心化验证网络（DVN）。</p><a href="https://mirror.xyz/0xcBc2B7797B5302Ad2dd2Ef55C8ceFAC769AcA06d/5J2q7T0Edfg9OW5MoQgxxVsn8_XvfW6L_PHVfw71HvI">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-21T03:26:12+00:00</pubDate>
 </item>
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成了 10 亿美元估值的 2000 万美元战略融资，由 Polychain Capital 领投，其他参投方包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。融资将用于扩大团队规模，招聘跨职能部门人员，并推动产品、工程、业务开发和营销。这些信息是积极的。 <div>
+<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成了 10 亿美元估值的 2000 万美元战略融资，由 Polychain Capital 领投，其他参投方包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。融资将用于扩大团队规模，招聘跨职能部门人员，并推动产品、工程、业务开发和营销。这些信息是积极的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
-
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
