@@ -5812,3 +5812,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round )
 append_entries: 1
 Finish: 2024-03-21 09:23:51.225932
+------------------------------------------------------
+Started: 2024-03-21 09:31:36.626221
+Existing_entries: 531
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 1177
+Summarized using GPT-3.5-turbo-1106
+Append: [TON ：Telegram 成为 Web3 领域里的微信的必由之链](https://www.techflowpost.com/article/detail_16927.html)
+Token length: 266
+Summarized using GPT-3.5-turbo-1106
+Append: [ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round )
+append_entries: 2
+Finish: 2024-03-21 09:31:43.699918
