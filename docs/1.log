@@ -5566,3 +5566,12 @@ Existing_entries: 286
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-21 13:48:52.023082
+------------------------------------------------------
+Started: 2024-03-21 13:56:21.303354
+Existing_entries: 286
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 373
+Summarized using GPT-3.5-turbo-1106
+Append: [伯恩斯坦将年底比特币价格预测上调至9万美元](https://www.panewslab.com/zh/sqarticledetails/yg3r4ej4.html)
+append_entries: 1
+Finish: 2024-03-21 13:56:27.847388
