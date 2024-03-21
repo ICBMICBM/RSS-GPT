@@ -5539,3 +5539,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [一文了解Polyhedra：覆盖25个网络，基于ZK技术的跨链巨头](https://www.panewslab.com/zh/articledetails/1n9nau0v.html)
 append_entries: 1
 Finish: 2024-03-21 13:13:29.333445
+------------------------------------------------------
+Started: 2024-03-21 13:25:31.482915
+Existing_entries: 285
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 441
+Summarized using GPT-3.5-turbo-1106
+Append: [法庭文件：预计FTX在破产程序中面临美国政府30至50亿美元的索赔](https://www.panewslab.com/zh/sqarticledetails/eoc4liss.html)
+append_entries: 1
+Finish: 2024-03-21 13:25:38.003079
