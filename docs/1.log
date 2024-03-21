@@ -5119,3 +5119,15 @@ Existing_entries: 255
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-21 03:58:44.816207
+------------------------------------------------------
+Started: 2024-03-21 04:17:39.451335
+Existing_entries: 255
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 372
+Summarized using GPT-3.5-turbo-1106
+Append: [比特币现货ETF昨日总净流出2.61亿美元，持续三日净流出](https://www.panewslab.com/zh/sqarticledetails/u38oc71n.html)
+Token length: 18805
+Summarized using GPT-3.5-turbo-1106
+Append: [MT Capital 研报：TON是Telegram成为“Web3微信”的必由之链？](https://www.panewslab.com/zh/articledetails/936k8gz71p2u.html)
+append_entries: 2
+Finish: 2024-03-21 04:17:49.752269
