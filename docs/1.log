@@ -5662,3 +5662,15 @@ Existing_entries: 290
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-21 16:00:24.423683
+------------------------------------------------------
+Started: 2024-03-21 16:23:01.274752
+Existing_entries: 290
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 387
+Summarized using GPT-3.5-turbo-1106
+Append: [加密基础设施公司Espresso Systems完成2800万美元B轮融资，a16z crypto领投](https://www.panewslab.com/zh/sqarticledetails/zguef8vr.html)
+Token length: 148
+Summarized using GPT-3.5-turbo-1106
+Append: [SLERF计划通过创建NFT系列来为预售者募集剩余资金](https://www.panewslab.com/zh/sqarticledetails/3vatfc9a.html)
+append_entries: 2
+Finish: 2024-03-21 16:23:10.249148
