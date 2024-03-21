@@ -4,6 +4,187 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>回顾ETH Denver 2024七个演讲：MEV、ERC-4377 、区块空间商业模式、公共物品资金、社区</title>
+<link>https://www.panewslab.com/zh/articledetails/78pent0076d1.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/78pent0076d1.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。EigenPhi数据分析师就MEV的不断变化进行了探讨，包括隐私订单和交易可观察性对MEV的影响。以太坊基金会成员讨论了ERC-4377协议的重要性，旨在提高智能合约的易用性和去中心化特性。重点强调了以太坊核心开发者的作用和支持计划。Galaxy Digital投资负责人解释了区块空间的商业模式。Gitcoin创始人和联合创始人讨论了公共物品资金和后期公共产品资金，对加密生态系统的支持至关重要。以太坊Denver社区创始人谈到利用Rollup技术构建社区生态系统的重要性。 <div>
+<p>ETH Denver 2024 已经圆满结束，在整个活动期间，演讲者们带来了各种各样的议题，从技术创新到社区发展，无一不在探讨着 Web3 未来前景。现在让我们回顾一下其中的一些精彩演讲，深入洞察行业的最新动态。</p>
+<p><strong>TL;DR：</strong></p>
+<ol>
+<li>
+<p><strong>EigenPhi 数据分析师 - MEV 不断变化的格局：</strong></p>
+<ul>
+<li>
+<p>隐私订单和交易可观察性对 MEV 有影响。</p>
+</li>
+<li>
+<p>搜索者和建设者的合作关系可能导致某些搜索者垄断 MEV 收入，损害生态系统公平性。</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>以太坊基金会成员 - 理解 ERC 4377：</strong></p>
+<ul>
+<li>
+<p>ERC 4377 协议旨在提高智能合约账户易用性和去中心化特性。</p>
+</li>
+<li>
+<p>智能合约交易验证阶段受到限制，防止网络滥用。</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>以太坊基金会成员 - 以太坊核心开发者的重要性：</strong></p>
+<ul>
+<li>
+<p>以太坊核心开发者维护协议和推进改进。</p>
+</li>
+<li>
+<p>以太坊协议 Fellowship 和 Fellowship 学习小组支持核心开发者培养。</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Galaxy Digital 投资负责人 - 区块空间商业模式：</strong></p>
+<ul>
+<li>
+<p>区块空间成本取决于交易复杂度和网络拥塞程度。</p>
+</li>
+<li>
+<p>区块空间具有高净收入率和潜在利润机会。</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Gitcoin 创始人 - 公共物品资金的重要性：</strong></p>
+<ul>
+<li>
+<p>公共物品资金为加密生态系统提供支持，适用于不同阶段。</p>
+</li>
+<li>
+<p>Gitoin 的 Allo Protocol 提供多种资金分配策略支持生态系统发展。</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Gitcoin 联合创始人和 Optimism 基金会成员 - 后期公共产品资金：</strong></p>
+<ul>
+<li>
+<p>RPGF 用于资助项目建成后的公共产品。</p>
+</li>
+<li>
+<p>提出将前期资助和后期公共产品资金结合的新机制设计。</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Ethereum Denver 社区创始人 - 利用 Rollup 技术构建的社区生态系统：</strong></p>
+<ul>
+<li>
+<p>社区 Rollup 利用 Rollup 技术构建共享链。</p>
+</li>
+<li>
+<p>提出成员订阅、捐赠和交易费用作为社区 Rollup 的筹资和维护机制。.</p>
+</li>
+</ul>
+</li>
+</ol>
+<h4><a href="https://www.youtube.com/watch?v=gRRQQyQE_9w" rel="nofollow">The New Era of Transaction Observability: Deciphering MEV’s Shifting Value Landscape</a></h4>
+<p id="§the-new-era-of-transaction-observability-deciphering-mevs-shifting-value-landscape"></p>
+<p>EigenPhi 数据分析师 Yeah Wang 探讨了以太坊上的隐私订单和交易可观察性对 MEV 的影响。<strong>他认为隐私订单和交易透明度可能导致 MEV 收入分配不公平和竞争失衡</strong>，搜索者和建设者之间的合作使得特定的搜索者能够以较低的成本 Backrunning 订单，而其他搜索者则无法获取相同的机会，从而导致竞争失衡。这种合作关系可能导致特权搜索者垄断 MEV 收入，破坏整个生态系统的公平性。</p>
+<p>隐私订单的类型以及对搜索者和构建者利润的影响：</p>
+<ul>
+<li>
+<p>MEV Protection RPC：用户的订单直接发送到构建者的 RPC，只有选定的构建者能够看到这些订单，增加了其收入来源。这种方式能够有效地保护用户的交易不受搜索者的影响，从而避免了 Frontrunning 和 Backrunning 机会。</p>
+</li>
+<li>
+<p>Order Flow Auction RPC：用户的交易被提交给客户端，搜索者可以对这些交易进行竞标。一旦搜索者将用户交易包含在自己的搜索器捆绑中并发送给构建者的 RPC，他们就可以通过 Backrunning 这些交易来获取 MEV 收入。然而，对于这些搜索者来说，他们需要支付一定比例的 MEV 收入给用户。</p>
+</li>
+<li>
+<p>Searcher Bundles：搜索者依赖捆绑机制来发现隐藏在用户交易中的 MEV 机会。一旦发现机会，允许搜索者根据已知的交易执行顺序，在某个交易执行后 Backrunning。对于这些搜索者来说，他们不需要支付 MEV 收入给用户，而且 Backrunning 机会更加容易获得。</p>
+</li>
+</ul>
+<figure><a href="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbcd08acc-4ae8-42b6-9d47-e0761e346ccc_1744x954.png" rel="nofollow" target="_blank">
+<p><img alt="回顾ETH Denver 2024七个演讲：MEV、ERC-4377 、区块空间商业模式、公共物品资金、社区" height="796" src="https://cdn-img.panewslab.com/panews/images/1h4M78sWQE.png" style="display: block; margin-left: auto; margin-right: auto;" width="1456" /></p>
+</a></figure>
+<h4><a href="https://www.youtube.com/watch?v=rhueyjK1-78" rel="nofollow">AA Is Easy, if You Don't Care About Decentralization</a></h4>
+<p id="§aa-is-easy-if-you-dont-care-about-decentralization"></p>
+<p>以太坊基金会成员 Yoav Weiss 探讨了智能合约账户与外部账户之间的区别。<strong>智能合约账户需要依赖外部账户支付交易费用，这给用户带来了不便，因为他们需要管理两个账户并进行额外的签名操作。这种复杂性限制了智能合约的大规模采用。</strong></p>
+<p>ERC-4377 协议旨在实现账户抽象，使智能合约账户能够更加易于使用，同时保持区块链的去中心化特性。在智能合约交易的验证过程中，存在一定的计算和资源消耗。如果不加以限制，恶意用户可能会发送大量的无效交易，导致网络的拥堵和性能下降。为了防止这种情况发生，ERC-4377 协议规定了对验证过程中的工作量进行限制，确保每笔交易在验证阶段所需的计算资源是可接受的。在 ERC-4377 协议中，交易被结构化为验证和执行两个阶段。在验证阶段，只有验证所需的最小工作量被允许，这有助于防止拒绝服务攻击和网络滥用。一旦交易通过验证，它就会被传播到网络中的其他节点进行执行。在执行阶段，交易中的智能合约代码被执行，从而完成实际的逻辑操作。</p>
+<figure><a href="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5842ccc0-75c9-4c51-984b-25fd2070adb3_1676x914.png" rel="nofollow" target="_blank">
+<p><img alt="回顾ETH Denver 2024七个演讲：MEV、ERC-4377 、区块空间商业模式、公共物品资金、社区" src="https://cdn-img.panewslab.com/panews/images/mE72S583rS.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</a></figure>
+<h4><a href="https://www.youtube.com/watch?v=E6UEMx8MYp0" rel="nofollow">Core Devs Are Ethereum's Scarcest Resource</a></h4>
+<p id="§core-devs-are-ethereums-scarcest-resource"></p>
+<p>以太坊基金会成员 Josh Davis 强调了以太坊协议的发展和以太坊核心开发者的重要性，他们维护执行层和共识层客户端、实施 EIP（以太坊改进建议）、进行测试、开展研究等，为以太坊的持续改进做出贡献。并介绍了两个旨在支持和培养核心开发者的计划：<strong>以太坊协议 Fellowship 和 Fellowship 学习小组</strong>。</p>
+<ul>
+<li>
+<p>以太坊协议 Fellowship 计划（Ethereum Protocol Fellowship）：该计划旨在使成为以太坊核心开发者、研究员或贡献者的过程更加简单，提供导师支持，让更多人有机会成为以太坊的核心贡献者。参与者在该计划中工作的方式类似于核心开发者，他们选择自己感兴趣的工作，并编写技术更新报告。通过 GitHub 和 Discord 进行协调和交流，每周举行两次会议，进行项目进展汇报和提问答疑等活动。</p>
+</li>
+<li>
+<p>Fellowship 学习小组（Ethereum Protocol Fellowship Study Group）：是以太坊协议 Fellowship 的前身，为期 10 周，由现任核心开发者或研究员教授每周一到两节 90 分钟的课程。包括入门阶段、学习和项目选择阶段以及项目执行阶段。学习小组是一个开放和自由的计划，参与者无需申请即可加入课程，可以参加课程、加入 Discord 讨论并共同建立核心协议开发的知识库。</p>
+</li>
+</ul>
+<figure><a href="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c260dd5-28fe-4ba0-8ebd-e93b318847ba_1678x882.png" rel="nofollow" target="_blank">
+<p><img alt="回顾ETH Denver 2024七个演讲：MEV、ERC-4377 、区块空间商业模式、公共物品资金、社区" src="https://cdn-img.panewslab.com/panews/images/pF0S5UrcL9.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</a></figure>
+<h4><a href="https://www.youtube.com/watch?v=OvgyipeJM5U" rel="nofollow">Business of Block Space Pt. 2: Mevconomics</a></h4>
+<p id="§business-of-block-space-pt-mevconomics"></p>
+<p><strong>Galaxy Digital 投资负责人Will Nuelle 指出区块空间（Block Space）的成本取决于交易的复杂程度和网络的拥塞程度。</strong>不同的区块链销售的区块空间数量存在显著差异，这取决于网络效应的强度。一些主要区块链如以太坊每天销售数百万美元的区块空间，而其他区块链则销售较少。</p>
+<p>区块空间作为一种商业模式具有以下特点：</p>
+<ul>
+<li>
+<p>高净收入率：区块空间的销售可以产生高额的净收入，因为其直接收入与销售量成正比，而且没有与之相关的间接成本。这意味着大部分收入可以直接转化为利润，使得区块空间成为一种利润丰厚的商业模式。</p>
+</li>
+<li>
+<p>网络效应：区块空间的价值受到网络效应的影响。随着更多的用户、应用程序开发者和流动性进入区块链生态系统，该生态系统的价值和需求也会增加。这种网络效应可以增强区块空间的销售，并为其带来更多的利润机会。</p>
+</li>
+<li>
+<p>潜在的利润机会：随着区块链技术的发展和应用场景的扩大，区块空间作为一种商业模式拥有巨大的潜在利润机会。随着市场的不断发展和扩张，区块空间的需求和价值也将不断增加，为参与者带来更多的商机和利润空间。</p>
+</li>
+</ul>
+<figure><a href="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F585afcf2-76b5-4a0b-abe3-20b202074544_1774x944.png" rel="nofollow" target="_blank">
+<p><img alt="回顾ETH Denver 2024七个演讲：MEV、ERC-4377 、区块空间商业模式、公共物品资金、社区" src="https://cdn-img.panewslab.com/panews/images/Q7TO2jFIbY.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</a></figure>
+<h4><a href="https://www.youtube.com/watch?v=P6TFcBEXESk" rel="nofollow">Public Goods Funding: The New Meta</a></h4>
+<p id="§public-goods-funding-the-new-meta"></p>
+<p>Gitcoin 创始人 Kevin Owocki 指出在加密领域中，不同阶段存在不同的策略和趋势。例如，在过去，初始代币发行（Initial Coin Offerings, ICOs）曾经是主要的筹资方式，但随着时间的推移，这种策略不再像以前那样有效。而<strong>公共物品资金（public goods funding）作为加密领域下一个重要的「元策略」（meta），在不同阶段都可以为加密生态系统的发展提供重要支持和推动力量。</strong></p>
+<p>公共物品资金对于 Layer 2 生态系统的竞争至关重要，包括工具、流动性、虚拟机、代币经济、安全性等方面。他认为公共物品资金是实现这些方面的关键。Gitcoin 主要通过提供多种资金分配机制来支持生态系统的发展。其中 Allo Protocol 是 Gitcoin 的一个资金分配协议，旨在支持多种资金分配策略。Allo Protocol 的核心功能是通过吸收数据和资金，并将资金分配给生态系统中的项目，从而支持生态系统的发展。它支持多种资金分配策略，使项目能够根据其需求和目标选择最适合的资金分配方式。</p>
+<figure><a href="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96b8f7bb-8fef-4e3a-9213-aad2413ed89d_1714x938.png" rel="nofollow" target="_blank">
+<p><img alt="回顾ETH Denver 2024七个演讲：MEV、ERC-4377 、区块空间商业模式、公共物品资金、社区" src="https://cdn-img.panewslab.com/panews/images/611rzBhwa3.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</a></figure>
+<h4><a href="https://www.youtube.com/watch?v=wYsYNy7UDig" rel="nofollow">Scaling RPGF With Retro Public Goods Organizations</a></h4>
+<p id="§scaling-rpgf-with-retro-public-goods-organizations"></p>
+<p>Gitcoin 联合创始人 Scott M 和 Optimism 基金会成员 Justine H 讨论了后期公共产品（Retro Public Goods）往往在项目建成后人们才能真正意识到其价值。因此，在项目开始时很难准确评估其潜在价值， 由于这种不确定性，投资者可能会对项目持谨慎态度，不愿意在项目尚未建成时进行大规模的投资。后期公共产品资金机制（Retroactive Public Goods Funding, RPGF）用于资助这些公共产品。在 RPGF 中，项目先建成，然后根据其对社区的实际价值进行资助，而不是事先根据假设的价值进行资助。</p>
+<p>他们在讨论中还提出了一种新的机制设计思路，即将前期资助和后期公共产品资金结合起来。</p>
+<ol>
+<li>
+<p>引入前期资助机制： 通过向项目提供前期资金支持，可以帮助项目在早期阶段启动和发展。这种资助可以来自各种渠道，包括 Gitcoin 等基金会，以及可能的风险投资。</p>
+</li>
+<li>
+<p>后期公共产品资金： 项目建成后，可以通过后期公共产品资金来补充资助，根据项目的实际价值进行资助。这种资金是基于项目的实际贡献和影响来分配的，从而降低了在项目开始阶段的不确定性。</p>
+</li>
+<li>
+<p>建立可信度承诺： 项目可以选择成为「retro profit organizations」（后期盈利组织），承诺不追求常规利润，而是专注于创造公共价值。这种承诺可以增加投资者和资助者对项目的信任和认可。</p>
+</li>
+</ol>
+<figure><a href="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b9d3e1e-d98e-44a0-ba38-315dd7de2ccf_1632x818.png" rel="nofollow" target="_blank">
+<p><img alt="回顾ETH Denver 2024七个演讲：MEV、ERC-4377 、区块空间商业模式、公共物品资金、社区" src="https://cdn-img.panewslab.com/panews/images/4Vg6Mrdv6b.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</a></figure>
+<h4><a href="https://www.youtube.com/watch?v=j4ynTvaLbiI" rel="nofollow">Scaling the Community: We're Gonna Need a Bigger Tent | Kent Barton - Ethereum Denver</a></h4>
+<p id="§scaling-the-community-were-gonna-need-a-bigger-tent-kent-barton-ethereum-denver"></p>
+<p>Ethereum Denver 社区创始人 Kent Barton 认为社区是构建和推动去中心化技术和理念的核心力量，是推动创新和发展的关键因素。他提出基于 Rollup 的社区设计空间。</p>
+<p>社区 Rollup 是一种利用 Rollup 技术构建的社区生态系统，其中多个项目或组织共享相同的 Rollup 链。这样做的好处是，不同的项目可以在同一条链上共享相同的安全性和可扩展性，从而降低了开发和运营成本，并提高了互操作性和可组合性。为了确保社区 Rollup 的安全性，Kent Barton 提出了几种筹资和维护机制：</p>
+<p>1）成员订阅，即社区成员可以支付费用来支持社区 Rollup 的安全性和运营；</p>
+<p>2）捐赠，即社区成员可以自愿捐款来支持社区 Rollup；</p>
+<p>3）交易费用，即社区 Rollup 可以通过处理交易来获取收入，从而支付运营和安全性成本。</p>
+<p><img alt="回顾ETH Denver 2024七个演讲：MEV、ERC-4377 、区块空间商业模式、公共物品资金、社区" src="https://cdn-img.panewslab.com/panews/images/TlC8K14Hj1.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+]]></content:encoded>
+<pubDate>Thu, 21 Mar 2024 16:30:09 +0800</pubDate>
+<pubDate>Thu, 21 Mar 2024 16:30:09 +0800</pubDate>
+</item>
 
 <item>
 <title>Base网络周二的日交易量达3.56亿美元，较前一天增长51%</title>

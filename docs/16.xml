@@ -5,11 +5,23 @@
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
 <item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。 ZK 互操作协议 zkBridge 的开发商 Polyhedra Network 完成了 2000 万美元战略融资，估值达到 10 亿美元。此次融资由 Polychain Capital 领投，还有多家知名机构参与。融资资金将用于招聘，将现有团队扩大到大约80人，并用于产品、工程、业务开发和营销等跨职能部门。这将有助于公司进一步发展和壮大。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
+
+<item>
 <title>【英文】Binance Research： 详解 Cosmos 生态系统</title>
 <link>https://public.bnbstatic.com/static/files/research/orbiting-the-cosmos-ecosystem.pdf</link>
 <guid>https://public.bnbstatic.com/static/files/research/orbiting-the-cosmos-ecosystem.pdf</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Binance Research分析了Cosmos生态系统，涵盖了几个关键项目：Cosmos Hub、Osmosis、Injective、Sei Network、Stride、Axelar、Celestia和Dymension。Interchain Stack由CometBFT、Cosmos SDK和IBC协议组成，每个组件解决了区块链的不同层面。CometBFT是基于Tendermint的共识引擎，负责节点间通信和区块验证。Tendermint采用权益证明系统，提供高性能、容错的机制。CometBFT通过ABCI提供了灵活性，支持开发者进行应用程序开发。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。Binance Research分析了Cosmos生态系统，涵盖了几个关键项目：Cosmos Hub、Osmosis、Injective、Sei Network、Stride、Axelar、Celestia和Dymension。Interchain Stack由CometBFT、Cosmos SDK和IBC协议组成，每个组件解决了区块链的不同层面。CometBFT是基于Tendermint的共识引擎，负责节点间通信和区块验证。Tendermint采用权益证明系统，提供高性能、容错的机制。CometBFT通过ABCI提供了灵活性，支持开发者进行应用程序开发。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>Binance Research 分析了 Cosmos 生态系统，涵盖了生态系统中的几个关键项目：Cosmos Hub、Osmosis、Injective、Sei Network、Stride、Axelar、Celestia 和 Dymension。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://public.bnbstatic.com/static/files/research/orbiting-the-cosmos-ecosystem.pdf">https://public.bnbstatic.com/static/files/research/orbiting-the-cosmos-ecosystem.pdf</a></p>
 <p><strong>文章作者：</strong></p><p>Binance Research</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Binance Research：</strong>Cosmos 是一个由主权区块链组成的网络，每个区块链都由 Cosmos 的技术堆栈驱动，该堆栈被称为 Interchain Stack。该框架为需要高度定制的项目提供了并行扩展解决方案，同时旨在成为可互操作的生态系统的一部分。
@@ -20,7 +32,6 @@ CometBFT 是基于 Tendermint 的共识引擎，用于驱动 Cosmos 链，主要
 
 Tendermint 是一种拜占庭容错的共识算法，采用权益证明（PoS）系统，其中验证者的投票权与其抵押的代币成比例。这种设置为网络共识提供了高性能、容错的机制，支持每秒数千次交易（TPS），并确保即时最终性。CometBFT 是对标准 Tendermint 的改进版本，设计有诸如减少共识消息数量、增强区块验证效率和降低节点运行内存占用等优化。ABCI 是 CometBFT 的套接字协议，作为共识引擎和应用层之间的接口。应用程序需要实现 ABCI 才能与 CometBFT 通信。ABCI 不强制要求使用任何特定语言进行应用程序开发，因此提供了开发者的灵活性。【原文为英文】</p><a href="https://public.bnbstatic.com/static/files/research/orbiting-the-cosmos-ecosystem.pdf">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-21T07:55:15+00:00</pubDate>
 </item>
 <item>
@@ -28,7 +39,7 @@ Tendermint 是一种拜占庭容错的共识算法，采用权益证明（PoS）
 <link>https://www.techflowpost.com/article/detail_16926.html</link>
 <guid>https://www.techflowpost.com/article/detail_16926.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的<br>NEAR Protocol 的创始人 Illia Polosukhin结合了 AI 和区块链领域的丰富经验，在NEAR项目中致力于简化用户体验。他介绍了链抽象的概念，旨在消除用户对区块链不同实体的认知需求。他还讨论了将AI和区块链结合的第一原则思考，以及过去一年来Depin如何赢得区块链行业兴趣。对于Akash的例子示范了区块链如何促进市场力量，并创造新的市场机会。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的<br />NEAR Protocol 的创始人 Illia Polosukhin结合了 AI 和区块链领域的丰富经验，在NEAR项目中致力于简化用户体验。他介绍了链抽象的概念，旨在消除用户对区块链不同实体的认知需求。他还讨论了将AI和区块链结合的第一原则思考，以及过去一年来Depin如何赢得区块链行业兴趣。对于Akash的例子示范了区块链如何促进市场力量，并创造新的市场机会。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>NEAR 联合创始人 Illia Polosukhin 在 AI 和区块链领域都有丰富经验，将这两者融合在 NEAR 项目中。通过链抽象，NEAR 致力于简化用户体验。深潮 TechFlow 专访了 NEAR Protocol 创始人 Illia Polosukhi 详细讲解了 NEAR 以及区块链的发展。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://www.techflowpost.com/article/detail_16926.html">https://www.techflowpost.com/article/detail_16926.html</a></p>
 <p><strong>文章作者：</strong></p><p>深潮 TechFlow</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>深潮 TechFlow：</strong>鉴于你在 AI 领域的经验以及构建 AI 产品的经历，这似乎影响了你对链抽象的方法论。你能解释一下链抽象包含什么吗？Illia： 当然，链抽象的概念相对直接。它围绕着允许用户与应用互动或进行支付，而不必考虑他们正在使用哪个区块链。本质上，它是关于消除用户在他们的 web3 互动中需要把区块链视为不同实体的需求。采用这种方法的主要原因之一是，大多数 web3 用户目前在中心化交易所上操作，缺乏自主权。这是因为目前直接使用区块链非常复杂。用户必须设置一切，从法币到 Gas 代币、交易费用、设置钱包账户等等。相反，理想的情况是允许用户通过他们的电子邮件或面部识别登录并开始交易，而无需关心具体的区块链、应用程序或智能合约。
@@ -37,21 +48,18 @@ Tendermint 是一种拜占庭容错的共识算法，采用权益证明（PoS）
 
 根据您的观察和分析，过去一年来，Depin 是如何赢得区块链行业的重大兴趣的呢？Illia：对这些平台的迷恋源于一些深度使用案例获得了相当大的关注。例如，我们观察到大众对 Akash 的重大兴趣。特别是，Akash 的吸引力在于其在市场上的潜力，对于寻求获取 GPU 但无法获得的常规 AI 公司而言。Akash 提供了一个去中心化市场，个人可以出租他们的 GPU 资源。这种模式示范了区块链的市场力量 (crowdsourcing)，使得超出传统应用的迷人用例成为可能。这样的框架产生了相当大的兴趣，展示了区块链如何促进各种方法并创造像 Akash 这样的市场。</p><a href="https://www.techflowpost.com/article/detail_16926.html">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-21T07:33:54+00:00</pubDate>
 </item>
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Polyhedra Network以10亿美元估值完成2000万美元战略融资，由Polychain Capital领投，其他投资者包括Animoca Brands、Hashkey Capital等。融资资金将用于招聘扩大团队规模，提升产品、工程、业务开发和营销等部门。此前的融资均通过未来代币或SAFT进行。Polyhedra Network的发展前景看好，目前约50人团队将扩大到约80人。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。Polyhedra Network以10亿美元估值完成2000万美元战略融资，由Polychain Capital领投，其他投资者包括Animoca Brands、Hashkey Capital等。融资资金将用于招聘扩大团队规模，提升产品、工程、业务开发和营销等部门。此前的融资均通过未来代币或SAFT进行。Polyhedra Network的发展前景看好，目前约50人团队将扩大到约80人。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
-
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
