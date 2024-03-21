@@ -5574,3 +5574,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bitcoin Slips to $65K Amid Stronger Dollar, But Analyst Says the 'Pullback Is Over'](https://www.coindesk.com/markets/2024/03/21/bitcoin-slips-to-65k-amid-stronger-dollar-but-analyst-says-the-pullback-is-over/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-21 21:47:47.536673
+------------------------------------------------------
+Started: 2024-03-21 21:55:18.573817
+Existing_entries: 157
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-03-21 21:55:18.802414
