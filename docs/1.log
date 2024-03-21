@@ -5224,3 +5224,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [数据：稳定币市值突破1500亿美元](https://www.panewslab.com/zh/sqarticledetails/8uiwzvpw.html)
 append_entries: 1
 Finish: 2024-03-21 06:27:58.913356
+------------------------------------------------------
+Started: 2024-03-21 06:37:51.549094
+Existing_entries: 262
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 2559
+Summarized using GPT-3.5-turbo-1106
+Append: [贝莱德再次拥抱加密：继推出比特币ETF之后，这次发了个链上基金](https://www.panewslab.com/zh/articledetails/07mjlfh1.html)
+append_entries: 1
+Finish: 2024-03-21 06:37:57.181125
