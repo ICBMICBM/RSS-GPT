@@ -5530,3 +5530,12 @@ Existing_entries: 284
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-21 12:56:51.736222
+------------------------------------------------------
+Started: 2024-03-21 13:13:21.856664
+Existing_entries: 284
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 3187
+Summarized using GPT-3.5-turbo-1106
+Append: [一文了解Polyhedra：覆盖25个网络，基于ZK技术的跨链巨头](https://www.panewslab.com/zh/articledetails/1n9nau0v.html)
+append_entries: 1
+Finish: 2024-03-21 13:13:29.333445

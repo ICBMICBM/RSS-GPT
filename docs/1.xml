@@ -4,6 +4,72 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>一文了解Polyhedra：覆盖25个网络，基于ZK技术的跨链巨头</title>
+<link>https://www.panewslab.com/zh/articledetails/1n9nau0v.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/1n9nau0v.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了区块链领域的发展趋势，强调了基础设施完善和大规模应用的重要性。Polyhedra Network致力于提升Web3的互操作性和可扩展性基础设施，利用先进的零知识证明技术实现资产转移、消息传递和数据共享。该网络具备超快的证明者时间和共识证明速度，支持跨链转账和消息传递。Polyhedra也获得了多轮融资，代币系统ZK总量为10亿枚，释放规则尚未公布。 <div>
+<p>作者：日月小楚</p>
+<p>一个行业发展的根基是为社会创造出更多价值，所以区块链永远围绕着两大主题在向前进，一个是基础设施的完善，一个是大规模的应用。那么基础设施方面，公链是基础中的基础，公链也被类比为 Web2 的操作系统。在 17 年大牛市之后，行业变意识到 ETH 性能的限制，开启了提高 TPS 和降低 GAS 的新公链建设之旅，EOS 就是当时的明星，PPT 上写着能超过百万 TPS，但是最终陨落。好在 21 年的牛市中，出现了 Solana、BNB Chain、Avalanche、Fantom 等优秀的公链。</p>
+<p>时间来到 24 年，生态项目的蓬勃发展，衍生出对公链的不同需求。而模块化基础设施的完善，使得「一个 Dapp 一公链」变得低成本、简单、方便（详细可以看我关于模块化的论述）。在这样下势必会引发公链数量的大规模增加。根据不完全统计，现有公链至少几百条以上。在这个牛市中，数量增长至少在 10 倍以上。我们以一个简单的数学来说明，当公链数量为 10 的时候，两两的组合有 45 种，当公链数量扩大 10 倍到 100 条的时候，两两的组合为 4950 种，扩大了 110 倍。</p>
+<p><strong>所以在这个牛市中，跨链的需求也呈现指数型的增加。</strong>并且对跨链的需求，也不仅仅之前的资产转移，还包括消息传递、数据共享、多链部署、以及流动性共享等等。Polyhedra Network 旨在构建下一代 Web3 互操作性和可扩展性基础设施，核心依托于先进的零知识证明（Zero-Knowledge Proof, ZKP）技术。通过提供可信最小化且高效的互操作解决方案。</p>
+<p>Polyhedra Network 能够实现资产转移、消息传递和数据共享，跨越多种 Web2 和 Web3 系统。到目前为止，Polyhedra 已开发并部署了数种下一代 zkSNARK 协议和多项创新的 ZKP 基础产品，包括一个支持跨链资产和数据互操作性的 zkBridge，涵盖了超过 25 个区块链网络。</p>
+<h3>技术特色与亮点</h3>
+<p>Polyhedra Network 的工程团队凭借在密码学方面的专长，开创了一系列基础算法和零知识协议，如 Libra、Virgo、deVirgo、Pianist、Marlin、Gemini 和 Orion，这些协议在行业中树立了新标准，提供了最快的证明者时间、显著减小的证明大小和最小化的链上验证成本。这些基础技术是 Polyhedra 提升区块链系统可扩展性、安全性和互操作性的核心，为解决数字基础设施领域的一些最紧迫挑战提供支持。</p>
+<h4><strong>核心数据</strong></h4>
+<ul>
+<li>跨链转账数量高达 2000 万。</li>
+<li>验证了 4000 万个证明。</li>
+<li>连接了 25 个以上的公链。</li>
+<li>拥有最快的零知识证明 (ZK) 算法。</li>
+<li>拥有最快的共识证明。</li>
+<li>zkBridge 的发明者。</li>
+<li>零知识算法的发明者：共发明了 7 种算法。</li>
+<li>参与 OKX 活动：141m，获得 500K Polyhedra 网络代币。</li>
+<li>参与 Binance Web3 钱包活动：获得 556K，100 万 Polyhedra 网络代币。</li>
+<li>X 平台关注者达到 964.3K。</li>
+<li>Discord 平台关注者达到 545K。</li>
+</ul>
+<h3>产品与服务</h3>
+<h4><strong>zkBridge</strong></h4>
+<p><strong>zkBridge 作为 Polyhedra Network 的核心产品，它被设计为一个无需信任的跨链桥</strong>。zkBridge 使用 zkSNARK 使证明者能够有效地让接收的链确认发送者链上发生了某种状态转换。它由区块头中继网络和更新合约组成。通过模块化设计，zkBridge 实现了几项有用的功能，包括消息传递、代币转移以及在不同链上的状态变化上运行的其他计算逻辑。</p>
+<p>zkBridge 它在不增加额外信任假设的情况下保证了强大的安全性。通过简洁的证明，它不仅保证了正确性，还显著降低了链上验证成本。它的工作负载的速度比现有解决方案快数个数量级。为 layer1 和 layer2 的互操作性提供了可信最小化和高效的跨链基础设施，解决了连接不同区块链网络的实际挑战。</p>
+<p>zkBridge 利用零知识证明结构验证两个区块链之间的共识有效性，自主网 Alpha 版本发布以来，已经促成了超过 2000 万次跨链交易，涵盖了超过 25 个 layer1 和 layer2 区块链网络。</p>
+<p><img alt="一文了解Polyhedra：覆盖25个网络，基于ZK技术的跨链巨头" src="https://cdn-img.panewslab.com//panews/2022/3/21/images/9e58f1fc1adbdfdb52da6e939d6541f2." style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h4><strong>zkLightClient</strong></h4>
+<p>zkLightClient 是 Polyhedra Network 团队开发的用于 LayerZero 跨链协议，它为 layer1 和 layer2 的互操作性提供安全高效的跨链基础设施。该技术完全集成了 LayerZero 的消息协议，使应用开发者可以通过简单的集成配置来使用零知识证明技术进行开发跨链协议。zkLightClient 已经安全传输了超过 450 万条信息。LayerZero 现在将 zkBridge 作为许多路径的默认去中心化验证网络（DVN）。</p>
+<h3>与 btc 链的跨链消息传递</h3>
+<p>与比特币链的跨链消息传递是最近一段时间的新需求。23 年 btc 生态的蓬勃发展以及 btc 的 layer2 的涌现，导致了对 BTC 跨链需求的激增。但是 btc 又是比较特殊的公链，使得需要全新的方案来实现跨链的消息传递。zkBridge 推出比特币消息传递协议，旨在显着提高比特币的互操作性。这一举措旨在使比特币网络能够与其他 layer2 和 layer2 进行交互。</p>
+<p>当比特币作为发送者链，与当前的 zkBridge 框架完全兼容。 zkBridge 能够在接收链（例如 ETH）上的更新合约能够直接验证比特币的共识，以及通过验证 Merkle 证明来验证比特币上的每一笔交易。这种兼容性确保了比特币上的共识证明和交易 Merkle 证明都可以通过 zkBridge 得到全面保护。</p>
+<p>如果比特币链是接收链，由于比特币没有智能合约，与 zkBridge 的框架就不兼容。采用的方式是采用 POS 的机制，让验证者质押发送链的原生代币。如果发送者链是 Ethereum，验证需要抵押 ETH。被授权在比特币网络上写入数据，采用多方计算（MPC）协议确保发送的正确消息达成共识。</p>
+<p>与 btc 链的消息传递已经支持了 Ordinals, BRC-20, and Atomicals。使用 Polyhedra 的项目包括 Atomicals Market、Babylon、Bitmap、B2Network、Eigenlayer 等等。</p>
+<p><img alt="一文了解Polyhedra：覆盖25个网络，基于ZK技术的跨链巨头" src="https://cdn-img.panewslab.com//panews/2022/3/21/images/ed95d213ea38db5814b8426e2e37ca04." style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h3>融资情况</h3>
+<p><img alt="一文了解Polyhedra：覆盖25个网络，基于ZK技术的跨链巨头" src="https://cdn-img.panewslab.com//panews/2022/3/21/images/9d598966600ce39a2a6d90e782fec25e." style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Polyhedra 一共经历了 4 轮的融资，其中</p>
+<ul>
+<li>23 年 2 月为第一轮融资，获得了由 Binance Lab 和 Polychain 共同领投的 1 千万美金。</li>
+<li>23 年 4 月，获得有 Polychain 领投的 1500 万 Pre-A 轮融资。</li>
+<li>24 年 1 月，获得有 Okx Ventures 的 Series A 轮融资，融资金额未披露。</li>
+<li>24 年 3 月，Polyhedra Network 的估值在最新一轮私募融资中达到 10 亿美元，吸引了包括 Polychain、Binance Labs、OKX Ventures、Animoca Brands、Hashkey 和 UOB Ventures 在内的投资者。</li>
+</ul>
+<h3>代币系统</h3>
+<p><img alt="一文了解Polyhedra：覆盖25个网络，基于ZK技术的跨链巨头" src="https://cdn-img.panewslab.com//panews/2022/3/21/images/98e20c20d71921465fe151b6ed13a6f1." style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Polyhedra 的代币名称为 ZK，总量为 10 亿枚。根据 OK 上面的公开数据</p>
+<ul>
+<li>32% 为生态激励</li>
+<li>28% 为早期投资者和投资人</li>
+<li>15% 为社区市场和空投</li>
+<li>15% 为基金会</li>
+<li>10% 为核心贡献者</li>
+</ul>
+<p>具体的释放规则暂未公布</p>
+<p>不过 zk 对于上线前用户进行了空投，并且如果少于 20 枚的用户，可以选择在新主网上线后的代币并获得额外 10% 的补偿。而 ERC20 代币，也可以获得额外 10% 的补偿。</p>
+]]></content:encoded>
+<pubDate>Thu, 21 Mar 2024 21:00:00 +0800</pubDate>
+<pubDate>Thu, 21 Mar 2024 21:00:00 +0800</pubDate>
+</item>
 
 <item>
 <title>SMOLE上线惊喜变惊魂，MEME预售概念全线熄火，是时候回归价值了</title>
