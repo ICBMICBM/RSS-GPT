@@ -4996,3 +4996,27 @@ Summarized using GPT-3.5-turbo-1106
 Append: [美联储主席鲍威尔：或将在更长时间内维持当前利率水平，放慢缩表步伐是适宜之举](https://www.panewslab.com/zh/sqarticledetails/rc79ln14.html)
 append_entries: 1
 Finish: 2024-03-20 23:58:25.287010
+------------------------------------------------------
+Started: 2024-03-21 01:00:19.168143
+Existing_entries: 242
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 3136
+Summarized using GPT-3.5-turbo-1106
+Append: [投资Crypto，最重要的是抢占叙事先机](https://www.panewslab.com/zh/articledetails/y8znxuur.html)
+Token length: 698
+Summarized using GPT-3.5-turbo-1106
+Append: [贝莱德在以太坊网络上推出首个代币化基金BUIDL，投资者可通过Securitize进行认购](https://www.panewslab.com/zh/sqarticledetails/0m5190kp.html)
+Token length: 166
+Summarized using GPT-3.5-turbo-1106
+Append: [联合国安理会：朝鲜对加密公司发起的网络攻击共造成约30亿美元损失](https://www.panewslab.com/zh/sqarticledetails/d3e9rgyo.html)
+Token length: 219
+Summarized using GPT-3.5-turbo-1106
+Append: [外媒：美国SEC正就将以太坊归类为证券发起法律行动](https://www.panewslab.com/zh/sqarticledetails/5guqbn2m.html)
+Token length: 347
+Summarized using GPT-3.5-turbo-1106
+Append: [FTX现任CEO：其接任时交易所仅剩105枚BTC](https://www.panewslab.com/zh/sqarticledetails/401flqeu.html)
+Token length: 2012
+Summarized using GPT-3.5-turbo-1106
+Append: [比特币“万币候”们如何保管他们的“巨额资产”？](https://www.panewslab.com/zh/articledetails/1624d8cc.html)
+append_entries: 6
+Finish: 2024-03-21 01:00:46.596085
