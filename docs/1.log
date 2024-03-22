@@ -6253,3 +6253,15 @@ Existing_entries: 315
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-22 07:29:35.010998
+------------------------------------------------------
+Started: 2024-03-22 07:37:04.333040
+Existing_entries: 315
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 311
+Summarized using GPT-3.5-turbo-1106
+Append: [2.5万张BTC期权和25万张ETH期权即将到期，名义价值25.9亿美元](https://www.panewslab.com/zh/sqarticledetails/ym5w0h3o.html)
+Token length: 5776
+Summarized using GPT-3.5-turbo-1106
+Append: [Metrics Ventures研报 | Akash Network：叙事炒作与价值投资并存的去中心化AI算力协议](https://www.panewslab.com/zh/articledetails/434iof77m1te.html)
+append_entries: 2
+Finish: 2024-03-22 07:37:17.049624
