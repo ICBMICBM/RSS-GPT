@@ -6192,3 +6192,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Aptos Soars 16%, Leading CoinDesk 20 as Broader Market Declines: CoinDesk Indices Market Update](https://www.coindesk.com/markets/2024/03/22/aptos-soars-16-leading-coindesk-20-as-broader-market-declines-coindesk-indices-market-update/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-22 15:11:07.783754
+------------------------------------------------------
+Started: 2024-03-22 15:22:36.064216
+Existing_entries: 171
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-03-22 15:22:36.379940
