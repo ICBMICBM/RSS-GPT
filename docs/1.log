@@ -6304,3 +6304,12 @@ Existing_entries: 318
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-22 08:36:22.481936
+------------------------------------------------------
+Started: 2024-03-22 08:43:44.451125
+Existing_entries: 318
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 107
+Summarized using GPT-3.5-turbo-1106
+Append: [PeckShield：HECO Bridge攻击者近8天已向Tornado Cash转移超4万枚ETH，约1.457亿美元](https://www.panewslab.com/zh/sqarticledetails/3h6r196t.html)
+append_entries: 1
+Finish: 2024-03-22 08:43:48.503295
