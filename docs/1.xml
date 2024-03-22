@@ -4,6 +4,97 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>窥探Solana MEV生态：以太坊外的又一片黑暗森林</title>
+<link>https://www.panewslab.com/zh/articledetails/swuy29yl.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/swuy29yl.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Solana上的MEV仍然存在，并且不是所有MEV都是坏事。在DEX流动性场所中也有可能实现有利可图的抢先交易。Solana的持续区块生产和缺乏内存池改变了区块链的默认行为。很多验证者支持删除Jito内存池的决定，以支持Solana的长期发展和健康。Solana正在探索新的MEV和区块生产供应链模型。 <div>
+<p>撰文：Ryan Chern</p>
+<p>编译：Luffy，Foresight News</p>
+<p>这篇文章旨在让你对 Solana 上的 MEV 工作原理有一个基本的了解。简而言之：</p>
+<ul>
+<li>Solana 上的 MEV 并没有消失。</li>
+<li>并非所有 MEV 都是坏事。</li>
+<li>不仅仅在 AMM 中，在 DEX 流动性场所结构中也有可能实现有利可图的抢先交易。</li>
+<li>Solana 的持续区块生产和缺乏协议内内存池改变了区块链的默认行为和社会动态。</li>
+<li>其他人可能会分叉或尝试以其他方式复制 Jito 的协议外内存池来提取更多的 MEV，但这在技术上和社会工程上都很困难。</li>
+<li>许多验证者支持删除 Jito 内存池的决定，放弃三明治交易收入（sandwiching revenue），以支持 Solana 的长期发展和健康。</li>
+</ul>
+<h3>介绍</h3>
+<p>在权益证明网络中，当你被指定为特定区块的领导者时，你有权决定该区块的内容。最大可提取值 (MEV) 是指通过添加、删除或重新排序给定区块内的交易而获得的价值。</p>
+<p>随着 Solana 上的活动和兴趣的增加，MEV 正成为一个日益被关注的话题。2024 年 1 月 10 日，一位搜索者给验证者打赏了 890 SOL，这是 Jito 历史上最大的打赏之一：</p>
+<p><img alt="窥探Solana MEV生态：以太坊外的又一片黑暗森林" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/18110e57f71d81802af45fadbdbdfccd." style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>截至 2024 年 3 月 12 日的一周内，Solana 验证者因区块空间获得了超过 700 万美元的 Jito 小费。如今，超过 50% 的 Solana 交易都是失败的套利，由于交易成本非常低，因此预期收益仍然为正。从长远来看，交易者将通过此类交易获利。</p>
+<h3>Solana 的 MEV 结构</h3>
+<h4><strong>概述</strong></h4>
+<p>Solana 上的 MEV 与其他链不同，它鼓励搜索者运行自己的节点和与高质押节点集成，以获得最新的区块链视图（因为 Solana 对延迟敏感）。这是由于 Solana 的持续状态更新和权益加权机制导致的，例如 Turbine（用于读取更新状态）和权益加权 QoS（用于写入新状态）。</p>
+<p>最显著的差异之一是没有像以太坊等其他链上常见的传统内存池。</p>
+<p>Solana 的持续区块生产无需任何附加或协议之外的拍卖机制，从而减少了某些类型的 MEV（尤其是抢先交易）。</p>
+<h4><strong>MEV 交易</strong></h4>
+<p>MEV 机会出现在不同的类别中。以下是目前 Solana 上存在的一些常见 MEV 交易类型：</p>
+<ul>
+<li>NFT 铸造：当参与者在公开铸造活动（包括蓝筹 NFT 和长尾 NFT）期间试图获得稀有或有价值的 NFT 时，就会发生 NFT 铸造产生的 MEV。NFT 铸造活动中的 MEV 机会会突然增加，其中区块 x-1 没有 NFT MEV 机会，而区块 x 则具有大量的 MEV 机会（这里的区块 x 指的是铸造上线时的区块）。这些 NFT 铸造带来的大规模拥堵是导致 Solana 在 2021/2022 年频繁宕机的原因之一。</li>
+<li>清算：当借款人未能维持贷款所需的抵押率时，他们的头寸将有可能被清算。搜索者扫描区块链以查找此类抵押不足的头寸，并执行清算以偿还部分或全部债务，并获得部分抵押品作为奖励。清算发生在使用代币和 NFT 作为抵押品的协议中。清算对于协议保持偿付能力是必要的，并且对更广泛的生态系统有益。</li>
+<li>套利：套利涉及利用同一资产在不同市场或平台上的价格差异。这些套利机会存在于链内、链间以及 CEX 和 DEX 之间。链内套利目前是唯一一种保证原子性的套利形式，因为两笔交易都在同一条链上执行，而链内套利需要额外的信任假设。只要不导致有害订单流增加，套利就能保持资产在不同市场上价格一致。</li>
+</ul>
+<h4><strong>Jito</strong></h4>
+<p>Jito 是一种针对部分区块的协议外区块空间拍卖机制，不同于构建完整区块的 MEV-boost（Jito 和 mev-geth 在精神上相似，但在实现上有很大不同）。Jito 为一组称为 bundles（交易包）的特定交易提供链下的包含保证。Bundles 按顺序和原子方式执行 （全部包含或全部不包含）。搜索者如果赢得拍卖并支付小费，则提交此前保证在链上执行的 bundles。Jito 小费存在于协议外，与协议内优先费用分开。</p>
+<p>这种方法旨在通过在链下运行拍卖来减少垃圾信息并提高 Solana 计算资源的效率，仅通过保证 bundles 将拍卖的单个获胜者发布到区块中。搜索者可以使用 bundles 来实现以下一个或两个属性：快速、保证包含和抢先 / 回溯（rontrun/backrun）交易竞标。考虑到网络的很大一部分计算资源目前被失败的交易所消耗，这一点尤为重要。</p>
+<h4><strong>内存池</strong></h4>
+<p>与以太坊不同，Solana 没有原生的协议内内存池。Jito 现已弃用的内存池服务有效地创建了一个规范的协议外内存池，因为约 65% 的验证者运行 Jito-Solana 客户端（而不是原生 Solana-Labs 客户端）。</p>
+<p>上线后，交易将在 Jito 的伪内存池中停留 200 毫秒。在此期间，搜索者可以竞标抢先 / 回溯或三明治待处理交易的机会，出价最高的交易包将被转发给验证者执行。以支付给验证者的小费来衡量，三明治交易 MEV 收入的很大一部分。</p>
+<pre><img alt="窥探Solana MEV生态：以太坊外的又一片黑暗森林" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/700e3e8fc8ba56e51cec410c8d0510d9." style="display: block; margin-left: auto; margin-right: auto;" />Jito 的内存池服务于 3 月 8 日关闭</pre>
+<p>没有人喜欢谈论三明治交易（尤其是在以太坊上），因为它会给终端交易者带来严格的负面外部性：该用户以最糟糕的价格成交。作为参考，过去 30 天，仅以太坊上的三明治交易就产生了约 2400 万美元的利润。当用户设置最大滑点时，他们几乎总是以该价格成交。换句话说，如果订单成交，用户的实际滑点几乎总是等于他们设置的最大滑点。</p>
+<p>Jito 搜索者仍然可以提交不依赖于内存池订单流的其他类型 MEV 交易包，例如套利和清算交易（这需要在区块中观察交易并在下一次 Jito 拍卖中抓住机会）。</p>
+<h4><strong>供应链</strong></h4>
+<p>作为参考，当前的以太坊区块构建供应链如下所示：</p>
+<p><img alt="窥探Solana MEV生态：以太坊外的又一片黑暗森林" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/7a01042bd283f3ddebba70308273a81e." style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Solana 上（对于运行 Jito-Solana 客户端的验证者）区块构建供应链如下所示：</p>
+<p><img alt="窥探Solana MEV生态：以太坊外的又一片黑暗森林" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/2c93f00563d3fc79e436fa171f1cc788." style="display: block; margin-left: auto; margin-right: auto;" width="800" /></p>
+<ul>
+<li>传入交易：当前等待执行的交易的预定状态。这可以来自 RPC、其他验证器、私人订单流或其他来源。</li>
+<li>中继器：Solana 上的中继器与以太坊不同。在以太坊上，中继器是连接区块构建者和提议者的可信实体（构建者信任中继器不会修改其区块）。在 Solana 上，中继器负责中继传入的交易，执行有限的 TPU 操作，例如数据包重复数据删除和签名验证。中继器将数据包转发给区块引擎和验证器。以太坊上不需要等效的中继器，因为以太坊有内存池，而 Solana 没有。中继器逻辑是开源的，任何人都可以运行自己的中继器（Jito 将中继器实例作为公共资源）。其他已知的 Solana 网络参与者也运行自己的中继器。</li>
+<li>区块引擎：区块引擎模拟交易组合并运行链下区块空间拍卖。然后将 MEV 最大化的交易包转发给运行 Jito-Solana 客户端的领导者。</li>
+<li>搜索者：搜索者通过将自己的交易插入给定区块来寻求利用价格差异的机会。他们可以利用 Jito 的 ShredStream（以及之前的 MempoolStream）等来源。</li>
+<li>验证者：验证者构建并生成区块。Jito-Solana 区块由调度程序构建，调度程序为通过 Jito 路由的交易保留 300 万个 CU，占区块的前 80%。</li>
+</ul>
+<p>这些参与方不一定是独立的实体，因为实体可以垂直整合。如前所述，验证者对其区块拥有完全的权限。验证者本身可以在成为领导者时通过插入、重新排序和审查给定区块的交易来寻找经济机会。</p>
+<p>无论领导者是否运行 Jito-Solana，搜索者还可以通过 RPC 方法（标准协议内路由）提交交易。由于 Solana 的费用相对较低且调度程序不确定，发送交易仍然是获取 MEV 机会的常用方法。某些 MEV 机会可能比预期存在的时间更长，大约为一个到数十个区块。</p>
+<h4><strong>参与者之间的 MEV 分配</strong></h4>
+<p>虽然 Solana 可以加快交易执行速度并减少某些类型的 MEV 机会，但它可能会加剧延迟驱动的中心化的可能性，在这种情况下，验证者和搜索者会寻求将他们的基础设施集成以获得竞争优势。我们距离基础设施和相关机制的一种竞争性稳定平衡状态还很遥远。</p>
+<p>‍</p>
+<p><img alt="窥探Solana MEV生态：以太坊外的又一片黑暗森林" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/87ae0ad2fca7267ad017caacc915eba1." style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>来源：推特</pre>
+<p>在出块时间低于 200 毫秒的世界中，这为拥有基础设施和专业知识来优化系统的资深参与者提供了比较优势。到目前为止，以太坊已经偏离了这种平衡，创建了协议外的解决方案，以使搜索者有民主化的机会参与竞争。</p>
+<h3>如何缓解 MEV</h3>
+<p>通用的协议外机制正在进入协议，以减少 Solana 链上的 MEV 机会。这些机制包括：</p>
+<ul>
+<li>RFQ 系统：RFQ（报价请求）系统（例如 Hashflow）已进入 Solana，并且越来越受欢迎（整个生态系统的累计交易量超过 100 亿美元）。订单由专业做市商（Wintermute、Jump Crypto、GSR、LedgerPrime）完成，而不是通过链上 AMM 或订单簿，基于签名的定价允许进行链下计算。这有效地将价格发现转移到链下，只有已完成的转移交易才会进入链上。</li>
+<li>MEV 保护的 RPC 终端：这些终端允许用户从其订单流中获得部分收益作为回扣。搜索者竞标回溯交易的权利并竞标相关回扣，回扣将返还给用户。此类终端通常通过信任运行终端的交易对手来管理，以确保不会发生抢先交易或三明治交易行为。</li>
+</ul>
+<p>MEV 缓解 / 重新分配机制是用户从订单流中获取部分价值、将价格发现拍卖和相关机制转移到链下的组合。这些机制涉及加密货币属性之间的权衡，例如抗审查、可审计性和去信任性。</p>
+<h3>结论</h3>
+<p>本文介绍了 Solana 上 MEV 供应链的主要参与者、最新发展以及 Solana 上 MEV 的常见形式。</p>
+<p>Solana MEV 领域的研究主要集中在调查不同 MEV 缓解 / 重新分配机制的影响。以太坊在基础设施上投入了大量资源，Flashbots 旨在提供民主化的 MEV 机会，但也对施加了其他设计以应对可能存在的负外部性。</p>
+<p>Solana 有机会在 MEV 和区块生产供应链前沿探索新模型。</p>
+]]></content:encoded>
+<pubDate>Fri, 22 Mar 2024 21:00:56 +0800</pubDate>
+<pubDate>Fri, 22 Mar 2024 21:00:56 +0800</pubDate>
+</item>
+<item>
+<title>Worldcoin宣布开始实施个人数据托管，确保用户数据不会离开手机</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/j69ubid2.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/j69ubid2.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>加密项目Worldcoin实施个人托管，让用户在Orb生成并验证时保存数据在设备上控制流动。个人托管还启用面部认证，令用户验证World ID。用户设备生成公钥-私钥对加密数据，后端不能解密数据包。通过个人托管，Worldcoin强化项目用户中心架构，并构建更安全的World ID网络。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月22日消息，Sam Altman联合创立的加密项目Worldcoin在官方博客中表示，Worldcoin正在实施个人托管，这最初是在World ID 2.0推出时宣布的。个人数据托管（或个人托管），意味着在Orb生成并在World ID验证期间用于生成虹膜代码的信息（图像、元数据和派生数据）保存在用户的设备上。这种方法让用户控制这些数据的流动——不仅仅是删除，还有在删除之前的任何未来使用。以前，这些信息默认被删除。</p>
+<p>除了让用户拥有控制权外，个人托管还通过为高安全性应用程序启用面部认证，为World ID解锁了新的用例。有了面部认证，用户可以随时验证其在Orb验证时获得World ID的人是同一个人。重要的是，这在用户的设备上本地工作，而不会让用户的数据离开手机。对于Worldcoin来说，通过个人托管让用户控制数据流程是朝着巩固项目的以用户为中心的架构并构建更安全的World ID网络迈出的重要一步。</p>
+<p>个人托管包含四个组件：用户设备、Orb、包含图像的数据包和用于传输的临时后端存储。重要的是，后端不能解密用户的数据包。该过程的工作原理如下：用户手机会生成公钥-私钥对来加密其数据，然后将公钥传输到后端；后端为所有需要双重加密的数据生成附加密钥，并将公钥传递给Orb；在验证过程中，Orb会创建必要的图像来验证瀛湖的World ID；然后，该Orb创建用户个人数据包，对它们进行加密，对它们进行签名以确保真实性和安全性，然后在删除图像之前将它们发送到后端；用户的加密数据包会先下载到其手机上，然后再从后端删除。</p>
+]]></content:encoded>
+<pubDate>Fri, 22 Mar 2024 20:58:23 +0800</pubDate>
+<pubDate>Fri, 22 Mar 2024 20:58:23 +0800</pubDate>
+</item>
 
 <item>
 <title>DWF Labs将1.308亿枚BEAM存入币安，约合429万美元</title>

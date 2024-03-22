@@ -5847,3 +5847,12 @@ Existing_entries: 84
 Fetching from https://bitcoinist.com/feed
 append_entries: 0
 Finish: 2024-03-22 12:53:46.454105
+------------------------------------------------------
+Started: 2024-03-22 13:03:40.376892
+Existing_entries: 84
+Fetching from https://bitcoinist.com/feed
+Token length: 5164
+Summarized using GPT-3.5-turbo-1106
+Append: [EU Parliament Outlaws Anonymous Crypto Payments: Details](https://bitcoinist.com/eu-outlaws-anonymous-crypto-payments-details/)
+append_entries: 1
+Finish: 2024-03-22 13:03:46.122382
