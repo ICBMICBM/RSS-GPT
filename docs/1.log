@@ -6931,3 +6931,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [行情：比特币短线跌破62500美元](https://www.panewslab.com/zh/sqarticledetails/rmav737k.html)
 append_entries: 2
 Finish: 2024-03-22 23:21:57.067076
+------------------------------------------------------
+Started: 2024-03-22 23:29:25.150717
+Existing_entries: 343
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 190
+Summarized using GPT-3.5-turbo-1106
+Append: [Do Kwon将从黑山监狱获释，但被禁止离境](https://www.panewslab.com/zh/sqarticledetails/4nl74usb.html)
+append_entries: 1
+Finish: 2024-03-22 23:29:30.784472
