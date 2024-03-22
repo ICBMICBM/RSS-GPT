@@ -5529,3 +5529,9 @@ Existing_entries: 11
 Fetching from https://news.crunchbase.com/sections/crypto/feed
 append_entries: 0
 Finish: 2024-03-22 20:00:05.994364
+------------------------------------------------------
+Started: 2024-03-22 20:16:26.790880
+Existing_entries: 11
+Fetching from https://news.crunchbase.com/sections/crypto/feed
+append_entries: 0
+Finish: 2024-03-22 20:16:27.247745
