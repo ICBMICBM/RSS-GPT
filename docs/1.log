@@ -6919,3 +6919,15 @@ Existing_entries: 341
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-22 23:13:17.974704
+------------------------------------------------------
+Started: 2024-03-22 23:21:51.174880
+Existing_entries: 341
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 123
+Summarized using GPT-3.5-turbo-1106
+Append: [过去12小时全网合约爆仓1.69亿美元，其中多单爆仓1.20亿美元](https://www.panewslab.com/zh/sqarticledetails/bvcen288.html)
+Token length: 61
+Summarized using GPT-3.5-turbo-1106
+Append: [行情：比特币短线跌破62500美元](https://www.panewslab.com/zh/sqarticledetails/rmav737k.html)
+append_entries: 2
+Finish: 2024-03-22 23:21:57.067076
