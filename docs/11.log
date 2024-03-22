@@ -6231,3 +6231,18 @@ Existing_entries: 172
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-22 16:07:42.374900
+------------------------------------------------------
+Started: 2024-03-22 16:26:10.455732
+Existing_entries: 172
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 162
+Summarized using GPT-3.5-turbo-1106
+Append: [SEC's Gensler Says Crypto Firms Skip Public Disclosures by Dodging Registration](https://www.coindesk.com/policy/2024/03/22/secs-gensler-says-crypto-firms-skip-public-disclosures-by-dodging-registration/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 36
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin Slips to $64K as Large Grayscale GBTC Outflows Continue](https://www.coindesk.com/markets/2024/03/22/bitcoin-slips-to-64k-as-large-grayscale-gbtc-outflows-continue/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 37
+Summarized using GPT-3.5-turbo-1106
+Append: [BlackRock Seeing Only 'A Little Bit' Demand for Ethereum from Clients, Says Head of Digital Assets](https://www.coindesk.com/business/2024/03/22/blackrock-seeing-only-a-little-bit-demand-for-ethereum-from-clients-says-head-of-digital-assets/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 3
+Finish: 2024-03-22 16:26:18.453014
