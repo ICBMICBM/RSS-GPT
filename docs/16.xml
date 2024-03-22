@@ -5,17 +5,99 @@
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
 <item>
+<title>Fantom Foundation 最近有哪些值得关注的催化剂？</title>
+<link>https://twitter.com/i/web/status/1770741510377443624</link>
+<guid>https://twitter.com/i/web/status/1770741510377443624</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的<br>深潮TechFlow报道了Fantom Foundation的最新进展和关键催化剂。他们介绍了Fantom Sonic作为新一代Fantom网络，即Fantom2.0，包括新的客户端、验证者端、虚拟机(FVM)、Carmen资料库和优化的Lachesis共识机制。此外，他们提到了Sonic Labs孵化器支持开发人员构建dApp，介绍了5个获胜项目，包括永续合约交易DEX、SocialFi项目、P2P借贷平台、绿色科技初创企业和远古青蛙文明角色扮演游戏。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>在最近的下跌中， FTM 逆势崛起，价格甚至突破了一年来的新高。深潮 TechFlow 梳理了 Fantom Foundation 值得关注的新进展和关键催化剂。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/i/web/status/1770741510377443624">https://twitter.com/i/web/status/1770741510377443624</a></p>
+<p><strong>文章作者：</strong></p><p>深潮 TechFlow</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>深潮 TechFlow：</strong>Fantom Sonic 是新一代的 Fantom 网络，将取代此前的 Fantom Opera，可以理解为 Fantom2.0。Sonic 包含新的客户端、验证者端、虚拟机 (FVM)、Carmen 资料库和经过优化的 Lachesis 共识机制，将可以大幅提升原有 Fantom 的执行效率，且仍与 EVM 兼容。早在去年 10 月底，Fantom 基金会就已经官宣了 Sonic 的测试网上线；而在其规划中主网将于今年春季正式发布，目前已到 3 月下旬，市场自然增加了预期。
+
+现在基于 EVM，理论上限是 200 tps，通过添加 “乐观并行化” 能够增加 40 次交易，最多也就达到 240 tps；但如果基于新的 FVM，理论上限是 30000 tps，即使再加个并行化技术，顶天也只能增加 4500 tps。言下之意就是，Fantom Sonic 的性能底子已经足够好了，再加所谓的并行化，提升空间并不大。
+
+Fantom Foundation 还成立了一个名为 Sonic Labs 的孵化器，帮助开发人员构建具创新 dApp，为 Sonic 主网做好准备。应用开发的前 5 名优胜者会获得代币奖励和 AC 的亲自指导，可以说是官方亲自下场投资源扶持生态项目了。目前胜出的 5 个项目是：
+
+Lynx 永续合约交易 DEX，可以使用任何代币作为抵押品，提供 100X 杠杆；
+
+Thunder Dome：SocialFi 项目，允许用户通过门票（可交易的社交代币）与社区互动；
+
+Debita：P2P 借贷平台，让用户在寻求借贷资产时选择所需的抵押品、利率等；
+
+Kiricoin：绿色科技初创企业，跟踪并奖励个人的可持续行为，以帮助应对气候变化；
+
+Froqorion：以远古青蛙文明 为背景的团队角色扮演游戏。</p><a href="https://twitter.com/i/web/status/1770741510377443624">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-22T03:41:48+00:00</pubDate>
+</item>
+<item>
+<title>【英文】介绍 Clementine：Citrea 基于 BitVM 的信任最小化双向锚定程序</title>
+<link>https://www.blog.citrea.xyz/unveiling-clementine/</link>
+<guid>https://www.blog.citrea.xyz/unveiling-clementine/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的<br>Clementine 是 Citrea 推出的双向锚定程序，利用 BitVM 实现信任最小化，采用轻客户端证明和零知识证明确保比特币和 Citrea 之间的安全互操作性。Citrea Team介绍了 Clementine 的设计原理、工作流程和安全性等重要内容。轻客户端证明是一种递归的零知识证明，通过聚合 Citrea 的证明在比特币上生成单一证明。Clementine 实现了信任最小化的双向锚定机制，无需软分叉，并结合了 Citrea 的无信任轻客户端，提高了安全性。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Clementine 是 Citrea 推出的双向锚定程序，利用 BitVM 实现信任最小化，采用轻客户端证明和零知识证明确保比特币和 Citrea 之间的安全互操作性。Citrea 详细介绍了 Clementine 的设计原理、工作流程和安全性，以及它在提供信任最小化的双向锚定方面的重要性。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.blog.citrea.xyz/unveiling-clementine/">https://www.blog.citrea.xyz/unveiling-clementine/</a></p>
+<p><strong>文章作者：</strong></p><p>Citrea Team</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Citrea Team：</strong>我们的轻客户端证明是一种递归的零知识证明。它通过包含和完整性证明在比特币上聚合 Citrea 的证明，从而为 Citrea 和比特币轻客户端生成单一简洁的证明。该证明在 Citrea 和比特币上输出多个标识符，其中最重要的是「Citrea 提款默克尔根」和「上一个已扫描的比特币区块哈希」。
+
+在 Clementine 中，一旦包含提款的证明在比特币上完成，操作员就负责覆盖每笔提款。每个时期结束后，操作员通过在比特币上揭示 log2 (n) 个预图像来承诺从 Clementine 索取的桥梁资金数量。这个数量等于自上一次检查点以来覆盖的提款总额。
+
+通过 Clementine，Citrea 实现了首个由 ZK 证明和 BitVM 保护的信任最小化的双向锚定机制。只要 BitVM 设置中的单个验证器是诚实的，Clementine 就保持安全。这代表了对现有解决方案（如开放和封闭的联邦制）的显著改进。Clementine 的设计，结合 Citrea 的无信任轻客户端，最小化了 Citrea 双向锚定的信任要求，而无需软分叉。【原文为英文】</p><a href="https://www.blog.citrea.xyz/unveiling-clementine/">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-22T03:33:13+00:00</pubDate>
+</item>
+<item>
+<title>BTC L2：沉睡的资金，0-1 的红利</title>
+<link>https://mp.weixin.qq.com/s/Mm352isSEMurGXqc4cz9aQ</link>
+<guid>https://mp.weixin.qq.com/s/Mm352isSEMurGXqc4cz9aQ</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>比特币生态用户面临二层EVM的认知挑战，加密货币KOL Chase Blu探讨了如何通过创新应用和技术提高用户体验，唤醒沉睡资金，促进生态发展。用户缺乏对二层EVM的理解和认可，但通过透明公平的发射和内容上链带来的新玩法，以太坊用户能体验到比特币生态的乐趣。铭文等应用逐渐引起关注，但仍受限于交易员圈子。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>比特币生态用户面临着二层 EVM 的认知挑战。加密货币 KOL Chase Blu 探讨了如何通过创新应用和技术来提高比特币生态的用户体验，唤醒沉睡的资金，并促进生态的发展。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/Mm352isSEMurGXqc4cz9aQ">https://mp.weixin.qq.com/s/Mm352isSEMurGXqc4cz9aQ</a></p>
+<p><strong>文章作者：</strong></p><p>Chase Blu</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Chase Blu：</strong>首先 Merlin 面对的机遇和困难是比较统一的，就是比特币生态的人对于二层 EVM 不熟悉和不了解，其中也包括了不认可，比如我们开质押的时候，很多 bitmap 社区的说，i will never stake my bitmaps to any layer2，包括一些别的资产也是会这么说。当然，从我的角度来说，我觉得比较无厘头，因为如果你支持这个资产的质押，那么别人质押后，流动性变少，你本身也能卖到跟高的价格，如果你自己质押进去，你可以获得 merlin 上线的代币空投。其实大家都算过，你如果当时质押进去，不考虑 merlin 空投的话，都已经赚很多了。
+
+以太坊用户对于比特币生态不了解，也不知道为什么比特币生态去年铭文为什么这么火。他们对于这个铭文一开始就是觉得开玩笑的，就是硬是让比特币一层能够发币，他们可能知道 BRC20 火，runes 火。所以如果有一些应用能让他们感受到比特币生态快乐的话，我觉得这些应用也是有趣的。比如说更加透明的公平发射，内容上链后的带来的更多的去项目方的玩法，包括比特币自然而然的自下而上的社区文化。其实这些东西，是以太坊用户以前没有感受过的，所以这两类应用我是更看好的。
+
+做铭文的阶段，我觉得这个事情是动态的，因为我们去年做铭文的时候就感受到了一点，在新加坡我们不好意思说我们是做铭文的，因为身边朋友第一反应都是哈哈大笑，反正非常的羞耻。因为大家都觉得这东西没有什么市场前景，没有什么技术创新，就是一堆人硬盯着比特币搞出来的一个概念，随后很多铭文上了头部交易所，市场涨起来了，大家的关注度就变高了，但你会发现，他还是仅限于交易员圈子，大家说哪个可以交易。</p><a href="https://mp.weixin.qq.com/s/Mm352isSEMurGXqc4cz9aQ">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-22T03:29:02+00:00</pubDate>
+</item>
+<item>
+<title>零知识证明初创公司 Succinct Labs 完成 5500 万美元融资，Paradigm 领投</title>
+<link>https://www.theblock.co/post/284002/paradigm-leads-55-million-round-in-zk-proofs-startup-succinct-lab-alongside-polygon-founders</link>
+<guid>https://www.theblock.co/post/284002/paradigm-leads-55-million-round-in-zk-proofs-startup-succinct-lab-alongside-polygon-founders</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。初创公司Succinct Labs已完成5500万美元新一轮融资，Paradigm领投，其他投资者包括Robot Ventures、Bankless Ventures、Geometry、ZK Validator、Polygon、以及多位知名创始人。Succinct Labs的愿景是让所有开发人员都能轻松使用ZK证明。 <div>
+<p>ZK 证明初创公司 Succinct Labs 完成 5500 万美元新一轮融资，Paradigm 领投，Robot Ventures、Bankless Ventures、Geometry、ZK Validator、Polygon 联合创始人 Sandeep Nailwal 和 Daniel Lubarov 以及 EigenLayer 创始人 Sreeram Kannan 等参投。Succinct Labs 愿景是让所有开发人员都可以轻松使用 ZK 证明。</p><p><a href="https://www.theblock.co/post/284002/paradigm-leads-55-million-round-in-zk-proofs-startup-succinct-lab-alongside-polygon-founders">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-22T03:25:42+00:00</pubDate>
+</item>
+<item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，估值达到 10 亿美元。Polychain Capital 领投，其他参投方包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。筹资将用于扩大团队规模，招募新人员并加强产品、工程、业务开发和营销等部门。这些信息是积极的。 <div>
+<div> <br><br>摘要：<br>这些信息是积极的。Polyhedra Network通过zkBridge互操作协议完成了2000万美元的战略融资，总估值达到10亿美元。Polychain Capital领投，其他投资方包括Animoca Brands、Hashkey Capital、Longhash Ventures等。融资将用于招聘和扩大团队规模，以加强产品、工程、业务开发和营销等跨职能部门。这是Polyhedra Network第五轮融资，之前的四轮融资也是通过未来代币或SAFT的简单协议完成的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
 
+<item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
+<content:encoded><![CDATA[
+<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，估值达到 10 亿美元。Polychain Capital 领投，其他参投方包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。筹资将用于扩大团队规模，招募新人员并加强产品、工程、业务开发和营销等部门。这些信息是积极的。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
