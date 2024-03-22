@@ -4,12 +4,13 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+
 <item>
 <title>Polyhedra：基于ZK技术的跨链巨头</title>
 <link>https://www.panewslab.com/zh/articledetails/9t80kmtl40ll.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/9t80kmtl40ll.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。<br>这篇文章重点介绍了区块链行业发展的基础设施和大规模应用两大主题。Polyhedra Network是一个致力于构建下一代Web3互操作性和可扩展性基础设施的项目，利用先进的零知识证明技术提供可信最小化且高效的互操作解决方案。其产品zkBridge和zkLightClient实现了跨链转账、消息传递、数据共享等功能，支持与25多个区块链网络的互操作。项目经历了多轮融资，代币ZK总量为10亿枚。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。<br />这篇文章重点介绍了区块链行业发展的基础设施和大规模应用两大主题。Polyhedra Network是一个致力于构建下一代Web3互操作性和可扩展性基础设施的项目，利用先进的零知识证明技术提供可信最小化且高效的互操作解决方案。其产品zkBridge和zkLightClient实现了跨链转账、消息传递、数据共享等功能，支持与25多个区块链网络的互操作。项目经历了多轮融资，代币ZK总量为10亿枚。 <div>
 <p>一个行业发展的根基是为社会创造出更多价值，所以区块链永远围绕着两大主题在向前进，一个是基础设施的完善，一个是大规模的应用。那么基础设施方面，公链是基础中的基础，公链也被类比为Web2的操作系统。在17年大牛市之后，行业变意识到ETH性能的限制，开启了提高TPS和降低GAS的新公链建设之旅，EOS就是当时的明星，PPT上写着能超过百万TPS，但是最终陨落。好在21年的牛市中，出现了Solana、BNB Chain、Avalanche、Fantom等优秀的公链。</p>
 <p>时间来到24年，生态项目的蓬勃发展，衍生出对公链的不同需求。而模块化基础设施的完善，使得”一个Dapp一公链”变得低成本、简单、方便（详细可以看我关于模块化的论述）。在这样下势必会引发公链数量的大规模增加。根据不完全统计，现有公链至少几百条以上。在这个牛市中，数量增长至少在10倍以上。我们以一个简单的数学来说明，当公链数量为10的时候，两两的组合有45种，当公链数量扩大10倍到100条的时候，两两的组合为4950种，扩大了110倍。</p>
 <p><strong>所以在这个牛市中，跨链的需求也呈现指数型的增加</strong>。并且对跨链的需求，也不仅仅之前的资产转移，还包括消息传递、数据共享、多链部署、以及流动性共享等等。Polyhedra Network 旨在构建下一代 Web3 互操作性和可扩展性基础设施，核心依托于先进的零知识证明（Zero-Knowledge Proof, ZKP）技术。通过提供可信最小化且高效的互操作解决方案。</p>
@@ -109,9 +110,7 @@
 <p>不过zk对于上线前用户进行了空投，并且如果少于20枚的用户，可以选择在新主网上线后的代币并获得额外10%的补偿。而ERC20代币，也可以获得额外10%的补偿。</p>
 ]]></content:encoded>
 <pubDate>Fri, 22 Mar 2024 10:00:58 +0800</pubDate>
-<pubDate>Fri, 22 Mar 2024 10:00:58 +0800</pubDate>
 </item>
-
 <item>
 <title>昨夜今晨重要资讯（3月21日-3月22日）</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/feiwbeay.html</link>
