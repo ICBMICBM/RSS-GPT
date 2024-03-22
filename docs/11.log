@@ -5949,3 +5949,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bitcoin Remains Overbought Despite Recent Correction, JPMorgan Says](https://www.coindesk.com/markets/2024/03/22/bitcoin-remains-overbought-despite-recent-correction-jpmorgan-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-22 08:58:55.201336
+------------------------------------------------------
+Started: 2024-03-22 09:15:44.630722
+Existing_entries: 162
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-03-22 09:15:49.828143
