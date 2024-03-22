@@ -5988,3 +5988,12 @@ Existing_entries: 163
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-22 09:56:06.980150
+------------------------------------------------------
+Started: 2024-03-22 10:11:21.789964
+Existing_entries: 163
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 20
+Summarized using GPT-3.5-turbo-1106
+Append: [AIOZ Network Partners With Alibaba Cloud to Boost AI, Storage and Streaming Services](https://www.coindesk.com/business/2024/03/22/aioz-network-partners-with-alibaba-cloud-to-boost-ai-storage-and-streaming-services/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-22 10:11:27.314563
