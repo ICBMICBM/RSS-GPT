@@ -4,6 +4,43 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>TVL接近10亿美元后，Swell Network宣布将上线L2</title>
+<link>https://www.panewslab.com/zh/articledetails/ac39v6dgu38u.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/ac39v6dgu38u.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。在2024年3月，Swell Network宣布推出其Layer 2 rollup链，采用独特的“restaked rollup”框架，预计今年下半年主网将正式上线。该网络旨在提供原生再质押收益、更好的可扩展性和更低的交易费用。Swell将推出的代币将用于网络的治理工作。合作伙伴包括EigenLabs、AltLayer、Polygon Labs和Chainlink，为其Layer 2解决方案提供技术支持。这些举措有望为用户带来更好的DeFi价值体验。 <div>
+<p dir="ltr">2024年3月，Swell Network宣布将推出其Layer 2 rollup链，预计今年下半年主网将正式上线。这一Layer 2网络采用了AltLayer开发的独特“restaked rollup”框架，区别于传统Layer 2设计，它是基于Polygon的链开发套件（CDK）并得到AltLayer支持构建的。该网络旨在为Swell用户带来包括原生再质押收益、更优的可扩展性和更低的交易费用等多重好处。Swell即将推出的代币，将被用于网络的治理工作。下文介绍一下Swell Network项目的概况。</p>
+<h3 dir="ltr">TVL已接近10亿美元，为用户提供LST或LRT的质押收入</h3>
+<p dir="ltr">Swell Network，一家领先的非托管质押协议，即将推出其创新产品rswETH。通过Swell，用户能够通过质押或重新质押ETH来源源不断地赚取被动收入，包括区块链奖励和AVS奖励。</p>
+<p dir="ltr"><img alt="TVL接近10亿美元后，Swell Network宣布将上线L2" src="https://cdn-img.panewslab.com/panews/images/nVkbNQy7Mi.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p dir="ltr">作为奖励，用户将获得收益性流动性代币（LST或LRT），这些代币不仅可以持有，还可以用于参与更广泛的DeFi生态系统，以实现额外收益。下面将对本次合作进行深入探讨。</p>
+<p dir="ltr">Swell的L2解决方案基于其LST和LRT的总锁定价值（TVL）约10亿美元，专注于EigenLayer上的流动性重新抵押资产。</p>
+<p dir="ltr">区别于传统rollup技术，Swell采用AltLayer首创的“restaked rollup”框架，通过一系列主动验证服务（AVS）提高其安全性和去中心化程度，包括去中心化排序、验证和加速交易最终确定性。</p>
+<p dir="ltr"><img alt="TVL接近10亿美元后，Swell Network宣布将上线L2" src="https://cdn-img.panewslab.com/panews/images/6Vv57KP8fS.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p dir="ltr">Swell的L2网络不仅提供原生重新质押收益，还通过LRTfi的新飞轮机制，为用户带来更高的可扩展性和更低的费用。这些优势基于原生质押和重新质押收益率，为DeFi领域引入新的和熟悉的原语。Swell的原生Gas代币rswETH，以及治理代币SWELL，均是与行业专家合作开发的，旨在进一步治理和优化网络。</p>
+<h3 dir="ltr">从EigenLabs到Chainlink，一览Swell Network的多家合作伙伴</h3>
+<p dir="ltr">在区块链技术的快速发展中，合作伙伴的角色至关重要。以下是Swell Network在本次推进其Layer 2 rollup链合作中的几个关键技术合作伙伴。</p>
+<p dir="ltr">1、EigenLabs：</p>
+<p dir="ltr">EigenLabs，一个领先的研究组织，负责开发EigenDA。由Sreeram Kannan创立，EigenLabs得到了Blockchain Capital、Polychain Capital、Ethereal Ventures等知名公司的支持，致力于推动区块链技术的创新和应用。</p>
+<p dir="ltr">成立于2021年的AltLayer，是一个开放且去中心化的协议，通过Optimistic和ZK Rollup技术加速Rollup的推出。其旗舰产品“restaked rollups”已经成为行业的颠覆者，通过增强的安全性、去中心化、快速最终确定性和互操作性，释放了Rollups的真正潜力。AltLayer的重放汇总包括三个垂直集成的主动验证服务（AVS）：MACH、VITAL和SQUAD，这些服务利用汇总堆栈的无需许可特性和重新抵押原则，允许网络从以太坊借用经济安全。</p>
+<p dir="ltr"><img alt="TVL接近10亿美元后，Swell Network宣布将上线L2" src="https://cdn-img.panewslab.com/panews/images/ZSFRL48mpK.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p dir="ltr">Swell将成为首批重新投入运行的Rollups实例之一，得到AltLayer三个关键产品的支持：MACH（用于更快的最终确定）、VITAL（用于去中心化验证）和SQUAD（用于去中心化排序）。这些服务作为AVS运行，通过EigenLayer的重新抵押机制从以太坊借用安全性，构建在Swell协议之上的是一个多链、多虚拟机兼容的Rollups即服务（RaaS）启动器，为开发者提供了一个无麻烦的平台，以快速启动自定义Rollup。</p>
+<p dir="ltr">对此，Swell创始人Daniel Dizon表示，将Swell的流动性重新抵押产品扩展到L2是社区和DAO发展的自然步骤，这不仅扩展了协议的愿景，还为DeFi生态系统提供了优质的流动性重新抵押体验。AltLayer首席执行官贾耀奇也对这次合作表示期待，认为restaked rollups的引入将大大增强网络的安全性和去中心化程度，为DeFi带来新的创新。</p>
+<p dir="ltr">2、Polygon Labs：</p>
+<p dir="ltr">Polygon Labs为Polygon协议开发以太坊扩展解决方案，与其他生态系统开发商合作，提供可扩展、负担得起、安全和可持续的区块链基础设施。Polygon Labs开发的扩展解决方案已被广泛采用，支持数万个去中心化应用程序，处理了35亿笔交易，成为许多大型Web3项目和知名企业的选择。</p>
+<p dir="ltr">3、Chainlink：</p>
+<p dir="ltr">Chainlink，作为行业标准的去中心化计算平台，为可验证网络提供支持，通过提供对真实世界数据、链下计算和安全跨链互操作性的访问，支持全球金融机构、初创公司和开发人员。Chainlink已实现超过9万亿美元的交易价值，为多个行业的可验证应用程序和市场提供支持。</p>
+<p dir="ltr">这些合作伙伴的技术支持和创新合作，为Swell Network的Layer 2解决方案提供了坚实的基础，预示着区块链技术在安全性、可扩展性和用户体验方面的重大进步。</p>
+<h3 dir="ltr">一系列举措能否为用户带来更好的DeFi价值体验？Swell Network后市仍需关注</h3>
+<p dir="ltr">在本文中，我们深入探讨了Swell Network及其在区块链技术领域的最新进展，特别是其即将推出的Layer 2解决方案。通过与EigenLabs、AltLayer、Polygon Labs和Chainlink等行业领导者的紧密合作，Swell不仅展示了其在推动技术创新方面的决心，也为DeFi生态系统的发展设定了新的标准。</p>
+<p dir="ltr">Swell Network的Layer 2解决方案，特别是其采用的"restaked rollups"技术，标志着一个重要的技术突破，它通过提高交易的安全性、去中心化程度和速度，为用户带来了前所未有的价值。此外，Swell的技术架构和合作伙伴的支持，为开发者提供了一个无缝的平台，以快速启动和扩展Web3应用程序，无论是在NFT领域、DeFi、Web3游戏还是现实世界资产的代币化等方面。</p>
+<p dir="ltr">正如Dolomite在其领域内通过创新和用户友好的策略获得认可一样，Swell Network也通过其Layer 2解决方案和合作伙伴网络，为区块链技术的应用和普及树立了新的典范。Swell的愿景和野心远不止于此，随着其技术的不断进步和生态系统的扩展，未来无疑将为用户、开发者和整个区块链社区带来更多的机会和可能性。</p>
+<p dir="ltr">总之，Swell Network的进展不仅仅是技术上的一次飞跃，更是对DeFi生态系统未来发展方向的一次明确指引。随着更多的协议和应用程序的加入，以及向DAO治理的转变，我们有理由相信，Swell及其合作伙伴将继续引领区块链技术的创新，推动整个行业向前发展。</p>
+]]></content:encoded>
+<pubDate>Fri, 22 Mar 2024 12:00:03 +0800</pubDate>
+<pubDate>Fri, 22 Mar 2024 12:00:03 +0800</pubDate>
+</item>
 
 <item>
 <title>SPACE ID澄清：今日仅解锁3015万枚ID，仅占总量的1.51%</title>
