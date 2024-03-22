@@ -4,6 +4,135 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>以太坊最新会议：同意将EIP 7251纳入Pectra升级、并继续研究EIP 7547</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/z6twlb23.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/z6twlb23.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章总结了第130次以太坊核心开发者共识电话会议的讨论内容，包括与Dencun升级相关的行动条目、Pectra升级建议和以太坊网络层改进。开发人员同意将EIP 7251纳入Pectra，并继续研究EIP 7547。另外讨论了在Pectra升级后逐步增加每个区块的Blob数量，以降低数据可用性的成本。会议还涉及轻客户端开发的两个草案提案，并讨论了新的网络技术和改进措施。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月22日消息，Galaxy研究副总裁Christine Kim发文总结第130次以太坊核心开发者共识(ACDC)电话会议，开发人员在会上讨论和协调以太坊共识层(CL)的变化。本周，开发人员讨论了与Dencun升级相关的突出行动条目，Pectra升级建议以及以太坊网络层的改进。开发人员同意将EIP 7251(增加max_effecve_balance)纳入Pectra，并继续研究EIP 7547(包含列表)，以便可能包含在升级中。</p>
+<p>其中，以太坊基金会研究员Danny Ryan在讨论Pectra代码变更时，重点提到了两个主要的提案EIP 7251和EIP 7547，并强调了做出决定的紧迫性。他指出，团队需要在3月底前做出决定，以便在5月实现Electra的功能原型和开发网络。Ryan认为，这些变更项目虽然重要，但不能再长时间拖延决策，否则默认的结果可能就是不采纳这些提案。最终，开发人员同意将EIP 7251(增加max_effecve_balance)纳入Pectra中，并在一到四个星期内重新讨论EIP 7547(包含列表)。此外，开发人员讨论了以太坊基金会研究员Ansgar Dietrichs提出的一项提案草案，即在Pectra升级后的四个月内将每个区块的Blob数量从6个逐步增加到最多16个Blob，这将进一步降低数据可用性的成本以及基于以太坊的Layer2 rollups的成本。Ryan表示支持该提案，前提是满足三个关键条件：1.有关blob性能的可靠数据；2.在Pectra中激活EIP 7623，限制最大区块大小；3.进一步讨论基于时间增加blob计数的确切机制。Ryan鼓励开发人员在未来几周内表达他们对此提案的想法。</p>
+<p>此外，会议还讨论了两个关于轻客户端开发的草案提案，包括同步委员会惩罚和轻客户端数据回填两个组件，会议征求CL客户端团队对这些组件的意见，特别是EIP 7251(增加max_effecve_balance)对参与同步委员会的大型验证者惩罚条件的影响。在网络更新方面，开发者们提出了一些新的网络技术和改进措施。这包括新的认证子网（attnets）方法，以优化网络性能；一种新的控制消息，旨在减少节点带宽。</p>
+]]></content:encoded>
+<pubDate>Fri, 22 Mar 2024 19:03:04 +0800</pubDate>
+<pubDate>Fri, 22 Mar 2024 19:03:04 +0800</pubDate>
+</item>
+<item>
+<title>RGB++与同构绑定：CKB、Cardano与Fuel如何赋能比特币生态</title>
+<link>https://www.panewslab.com/zh/articledetails/97vo6uxg.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/97vo6uxg.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了RGB++资产协议中的同构绑定概念，利用CKB和其他UTXO链作为资产容器拓展层。同时，RGB++协议支持用户切换验证模式，将验证工作交给CKB或Cardano，减少用户的操作和验证负担。CKB、Fuel和Cardano都可以支持同构绑定，但CKB似乎更适合作为比特币资产协议功能拓展层。同构绑定需要具备UTXO模型、可编程性、资产状态存储空间和比特币轻节点支持等属性。 <div>
+<p>作者：Shew，极客web3</p>
+<p>编辑：Faust，极客web3</p>
+<p><img alt="RGB++与同构绑定：CKB、Cardano与Fuel如何赋能比特币生态" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/d946941b2e177168d756c02b434dc15a.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>摘要：</strong><strong>·</strong>CKB团队提出的RGB++资产协议，提出了<strong>“同构绑定”的思想，本质是将CKB和Cardano、Fuel等基于UTXO编程模型的区块链，作为承载RGB资产“容器”的功能拓展层。</strong>这种同构绑定还适用于Atomical、Runes等具有UTXO特性的比特币生态资产协议，便于为比特币搭建链下的智能合约层。</p>
+<p><strong>·</strong>RGB++协议中，用户不必运行客户端亲自验证交易数据，可以把验证资产有效性、数据存储等工作移交给CKB和Cardanao等UTXO链。<strong>只要你“乐观”的认为，上述公链的安全性比较可靠，就无需自己去做验证；</strong></p>
+<p><strong>·</strong>RGB++协议支持用户切换回客户端验证模式，此时你依然可以将CKB作为数据存储/DA层，不必自己保管数据。RGB++协议无需资产跨链，可通过比特币账户对CKB链上资产进行操作，并且可以减少往比特币链上发布Commitment的频率，也利于支持Defi场景；</p>
+<p><strong>·</strong>如果是在EVM合约体系下，RGB++的许多特性并不好支持。<strong>综合来看，适合实现同构绑定的公链/功能拓展层，应该具有以下特性:</strong></p>
+<p><strong>1.</strong>使用UTXO模型或类似的状态存储方案；</p>
+<p><strong>2.</strong>具有相当的UTXO可编程性，允许开发者编写解锁脚本；</p>
+<p><strong>3.</strong>存在UTXO相关的状态空间，可以存储资产状态；</p>
+<p><strong>4.</strong>可以通过智能合约或其他手段，支持运行比特币轻节点；</p>
+<p><strong>·</strong><strong>除了CKB以外，Cardano、Fuel也可以支持同构绑定，</strong>但后两者在智能合约语言及合约设计细节上，可能存在一些包袱，目前看来，CKB比后两者更适合作为同构绑定的比特币资产协议功能拓展层。</p>
+<p><img alt="RGB++与同构绑定：CKB、Cardano与Fuel如何赋能比特币生态" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/8d5839e658cee842109c97a1d64c3bb0.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>正文：在RGB++Protocol LightPaper内，Nervos CKB联合创始人Cipher第一次提出了同构绑定的产品思路。相比于其他比特币Layer2方案，同构绑定可以更好的兼容RGB、Runes和Atomical等资产协议，并且可以避免资产跨链等带来额外安全累赘的因素。</p>
+<p>简单来说，同构绑定是用CKB和Cardano链上的UTXO做“容器”，将RGB等UTXO型资产表达出来，进而为其添加可编程性及更多更复杂的场景。此前，极客web3曾在《从BTC到Sui、ADA与Nervos：UTXO模型及其相关拓展》总结过一系列支持可编程UTXO的区块链，本文将进一步探究这些区块链是否可以适配同构绑定方案。</p>
+<h3>RGB++和同构绑定</h3>
+<p>在分析不同UTXO链对同构绑定的兼容程度前，我们要先介绍一下同构绑定的原理。同构绑定是CKB团队在RGB++协议中提出的概念，所以此处我们以RGB++的工作流程，来介绍基于CKB的同构绑定是什么。</p>
+<p>在介绍RGB++协议前，我们先简单了解一下RGB协议。RGB是一种运行在比特币链下的资产协议/P2P网络，有点像闪电网络一样。此外，RGB还是一种基于比特币UTXO的寄生资产协议，所谓寄生，是指RGB客户端会在比特币链下，声明某些RGB资产与比特币链上哪个UTXO相绑定，你拥有了这个UTXO，它绑定的RGB资产也归你差遣。</p>
+<p>RGB协议和ERC-20等资产协议的运作方式截然不同。以太坊上的ERC-20合约中，记录了所有用户的资产状态，且以太坊的节点客户端会同步并验证所有的转账信息，把转账后的状态更新记录在资产合约中。这其实早已被人们所熟知，无非是靠以太坊的共识流程，来保证资产的状态变更没猫腻。由于以太坊节点们的共识很可靠，用户就算不运行客户端，也可以默认基于ERC-20合约的资产托管平台“没问题”。</p>
+<p><img alt="RGB++与同构绑定：CKB、Cardano与Fuel如何赋能比特币生态" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/85260c329686d0d070d729f4cf716218.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>但RGB协议却很奇葩，它为了增强隐私性，干脆把节点/客户端共识这个在区块链世界里约定俗成的东西删掉了。用户要自己运行RGB客户端，只接收和存储“与自己相关的资产数据”，看不到别人都干了啥，不像以太坊和ERC-20那样，有链上全部可见的转账记录。</p>
+<p>这种情况下，如果有人给你转来一些RGB资产，你事先并不知道这些钱是怎么造出来的，转手自哪些人。如果对面那个人凭空声明一种资产，然后转给你一部分，这种造假币的作恶场景怎么处理？</p>
+<p>RGB协议采用了这样一种思路：每一笔转账生效前，接收者先让发送者出示该资产的全部历史记录，比如从创世阶段到现在，这些资产是由谁发行的，中间途经哪些人，在这些人之间发生的每一次资产转移，是否都不违背会计记账准则（一人加，一人减）。</p>
+<p>这样一来，你就能知道对面给你的是不是“有问题的钱”，所以说RGB本质是让交易当事人自己运行客户端做验证，基于客户端验证模式，对应着理性人博弈假设，只要当事人理智，客户端软件没问题，就能保证有问题的资产转移无法生效，或无法被其他人认可。</p>
+<p>值得注意的是，RGB协议会把这些比特币链下的交易数据，压缩为Commitment（本质是个merkle root），上传到比特币链上，这就让链下的转账记录，与比特币主网直接产生关联。</p>
+<p><img alt="RGB++与同构绑定：CKB、Cardano与Fuel如何赋能比特币生态" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/c0d5d1deeeb6f03345bbf98cfc16f1ea.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>由于RGB客户端之间没有共识，RGB资产合约的发布无法“极其可靠”的传播给所有节点，合约发布者和用户干脆就通过电子邮件或是推特等任意形式，自发的获知RGB资产合约的细节，形式非常随意。</p>
+<p>下图中展示了恶意的RGB资产转移场景，作为RGB用户，我们要在自己的客户端本地，存储RGB资产对应的智能合约。当其他人向我们转账时，我们根据本地存储的资产合约内容，可以知道当前这笔转账是否违反合约中定义好的规则。根据对面提供的资产来源信息（历史记录），可以确认对方的资产来源有没有问题（是不是凭空声明出来的）。</p>
+<p><img alt="RGB++与同构绑定：CKB、Cardano与Fuel如何赋能比特币生态" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/e6d25f00d5576c359cfb16e1df843ed2.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>复盘上述流程，不难看出，不同的RGB客户端接收并存储的数据往往是独立的，你往往不知道别人有哪些资产，有多少数额。反过来，别人基本也不知道你的资产状况。</p>
+<p>这就是典型的数据孤岛，也就是大家存储的数据都不一致。理论上虽然可以提高隐私程度，但相应的也带来了很多麻烦。你必须在自己的客户端本地维护好RGB资产的数据，这些数据一旦丢失，就会造成严重后果（资产不可用）。但事实上，只要你维护好本地数据，RGB协议就可以为你带来和比特币主网基本等价的安全性。</p>
+<p><img alt="RGB++与同构绑定：CKB、Cardano与Fuel如何赋能比特币生态" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/c43f7c856b847d54b09b48620aa4d198.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>此外，RGB客户端之间通讯用的Bifrost协议，会协助用户和其他客户端进行p2p通讯，可以把他的资产数据加密后传播给其他节点，叫对方帮忙存储（注意是加密后的数据，对面不知道明文）。只要你不把密钥也弄丢了，在本地数据丢失时，可以通过网络中其他节点，还原出自己原本拥有的资产数据。</p>
+<p>但原始RGB协议的缺点还是很明显，首先每笔交易都要求双方进行多次通讯，接收方要先验证发送方的资产来源，然后发送回执，批准发送方的转账请求。这个过程中，双方之间至少要产生三次消息传递。这种“交互式转账”和大多数人所习惯的“非交互式转账”严重不符合，你能想象，别人要给你转钱，还要把交易数据发给你来检查，得到你的回执消息后，才能完成转账流程吗？（流程图在前文可见）</p>
+<p>其次，绝大多数的Defi场景都需要数据透明、状态可验证的智能合约，但RGB协议天生不支持此类场景，所以是对Defi非常不友好的；此外，RGB协议里用户必须去运行客户端做自验证，如果你偶然间接收到一笔转手自几万人的资产，你甚至还要验证这笔资产的几万次转手记录。很显然，所有的事情都让用户去自行解决，并不利于产品本身的推广和采用。</p>
+<p>对于上述问题，RGB++的解决思路是：让用户在客户端自验证模式，与第三方托管模式之间自由切换，用户可以把数据验证与存储、智能合约托管等包袱，甩给CKB去承担，当然用户要乐观的信任，CKB这条POW公链是可靠的；如果某些对安全和隐私有更高追求的人，比如手握大量资产的大户，也可以回退到原始的RGB模式。这里要强调的是，RGB++和原始的RGB协议，理论上是可以彼此兼容的，并不是有他无我。</p>
+<p><img alt="RGB++与同构绑定：CKB、Cardano与Fuel如何赋能比特币生态" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/3ce156a3c30813267f410490f0679db9.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>在此前的文章《从RGB到RGB++：CKB如何赋能比特币生态资产协议》中，我们曾简单科普过RGB++的“同构绑定”，这里我们再快速的复盘下：</p>
+<p>CKB有自己的拓展型UTXO，叫Cell，它比BTC链上的UTXO多出了可编程性。而“同构绑定”，就是将CKB链上的Cell作为RGB资产数据的“容器”，把RGB资产的关键参数写入到Cell中。</p>
+<p><img alt="RGB++与同构绑定：CKB、Cardano与Fuel如何赋能比特币生态" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/2aa306d7afa9fc0f452b3b4f90afac13.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>由于RGB资产和比特币UTXO存在绑定关系，所以在资产的逻辑形式上具备UTXO的特性。而同样具备UTXO特性的Cell，自然适合作为RGB资产的“容器”。每当RGB资产交易发生时，对应的Cell容器，也可以呈现出相似的特征，就像是实体和影子的关系一样，这便是“同构绑定”的精髓。</p>
+<p>For example，假如Alice拥有100枚RGB代币，以及比特币链上的UTXO A，同时在CKB链上有一个Cell，这个Cell上标记着“RGB Token Balance：100”，解锁条件与UTXO A有关联。</p>
+<p>如果Alice想把30枚代币送给Bob，可以先生成一个Commitment，对应的声明是：把 UTXO A关联的RGB代币，转移30枚给Bob，70枚转给自己控制的其他UTXO。</p>
+<p>之后，Alice在比特币链上花费UTXO A，发布上述声明，然后在CKB链上发起交易，把承载100枚RGB代币的Cell容器消费掉，生成两个新容器，一个容纳30枚代币（给Bob），一个容纳70枚代币（Alice控制）。在此过程中，验证Alice的资产有效性与交易声明有效性的任务，是由CKB网络节点走共识来完成的，不需要Bob介入。CKB此时充当了一个比特币链下的验证层与DA层。</p>
+<p><img alt="RGB++与同构绑定：CKB、Cardano与Fuel如何赋能比特币生态" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/1d5afa1fb9ea7744170a8aae8519c0db.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>这就类似于以太坊ERC-20合约每次状态变更，不需要用户去运行客户端验证，道理差不多，由共识协议和节点网络，来替代客户端验证。而且，所有人的RGB资产数据都存放在CKB链上，具有全局可验证的特性，这利于Defi场景的实现，比如流动性池和资产质押协议等。</p>
+<p>这里面其实引入了一个重要的信任假设：用户往往要乐观的认为，CKB这条链，或者说由大量节点靠共识协议组成的网络平台，是可靠无误的。如果你不信任CKB，也可以遵循原始RGB协议中的交互式通讯与验证流程，自己运行客户端。</p>
+<p>当然，如果有人偏要自己运行RGB++客户端，验证别人的资产历史来源，他可以直接验证CKB链上与RGB资产容器Cell相关的历史。只要运行一个CKB轻节点，通过接收Merkle Proof和CKB区块头，就可以确信自己收到的历史数据，没被网络中的恶意攻击者篡改。可以说，CKB在这里又充当了历史数据存储层。</p>
+<p>简单来说，同构绑定不但适用于RGB，还适用于Runes、Atomical等各种有UTXO特性的资产协议，它把存储在用户客户端本地的资产状态、历史数据，以及对应的智能合约，全部挪给CKB或Cardano等UTXO型公链来存储和托管。上述UTXO型资产协议，可以把CKB或Cardano的UTXO模型作为“容器”，借着容器来展现出资产的形态与状况，便于配合智能合约等场景。</p>
+<p>而且在同构绑定协议下，用户无需跨链即可直接用比特币账户，操作自己在CKB等UTXO链上的RGB资产容器，只需要借助Cell的UTXO特性，把Cell容器的解锁条件设定为与某个比特币地址/比特币UTXO相关联即可。由于在极客web3之前的RGB++科普文中，我们已经对Cell的特性进行过解读，所以不在此赘述。</p>
+<p><img alt="RGB++与同构绑定：CKB、Cardano与Fuel如何赋能比特币生态" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/6ae5b1ab8a7948794c7f612801e3d3fb.jpeg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>如果RGB资产交易双方信得过CKB的安全性，甚至不必频繁的在比特币链上发布Commitment，可以在许多笔RGB转账进行后，再汇总发送一个Commitment到比特币链上，这被称为“交易折叠”功能，可以降低使用成本。</p>
+<p>但需要注意的是，同构绑定采用的“容器”，往往需要支持UTXO模型的公链，或是在状态存储上有类似特征的infra，而EVM链显然不太适合，在技术实现上会遇到很多坑。首先，前文提到RGB++“无需跨链即可操作CKB链上资产容器”，基本就无法在EVM链身上实现；就算强行实现，成本也可能很高；</p>
+<p>再者，在RGB++协议中，很多人没有必要运行客户端或是把资产数据存放在本地。如果用ERC-20的方式，把所有人的资产余额都记录在这个合约中，假如有人要回退到客户端自验证的模式，他提出要检查某个人的资产来源，此时他就可能要把所有和资产合约产生交互的交易记录，全都扫描一遍，这会带来巨大压力。</p>
+<p>直白的说，ERC-20等资产合约，把所有人的资产状态耦合在一起存储，如果你要单独检验其中某个人的资产变更历史记录，将会变得很难，就好像在一个公用的聊天室中，你想知道有哪些人给王刚发过消息，就不得不把整个聊天室里的消息记录顶朝天翻一遍。而UTXO就像是一对一的私聊频道，你要查历史记录会很容易。</p>
+<p>综合来看，适合实现同构绑定的公链/功能拓展层，应该具有以下特性:</p>
+<ol>
+<li>使用UTXO模型或类似的状态存储方案；</li>
+<li>具有相当的UTXO可编程性，允许开发者编写解锁脚本；</li>
+<li>存在UTXO相关的状态空间，可以存储资产状态；</li>
+<li>存在比特币相关桥或者轻节点；</li>
+</ol>
+<p>当然，我们也希望用于同构绑定的公链具有较强的安全性，另一方面，我们也希望该公链上的UTXO解锁条件，应当是可编程的，如此一来，用户就可以直接用BTC的签名方案，解锁自己在其他公链上同构绑定的UTXO，而不需要再更换签名算法。</p>
+<p>目前，CKB上UTXO的锁定脚本是可编程的，官方对此还兼容了不同公链的签名方案，对于同构绑定而言，<strong>CKB网络基本符合以上几个特性，那其他基于UTXO的公链呢？我们对Fuel和Cardano进行了初步考察，认为他们在理论上都可以支持同构绑定。</strong></p>
+<h3>Fuel：基于UTXO的以太坊OP Rollup</h3>
+<p>Fuel是一个基于UTXO的以太坊OP Rollup，还是把欺诈证明概念引入以太坊Layer2生态的先驱。对于正常的UTXO功能支持，Fuel与BTC是基本一致的。</p>
+<p><img alt="RGB++与同构绑定：CKB、Cardano与Fuel如何赋能比特币生态" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/d15a72241b8b036105a3f1ee94e9c1b5.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>在Fuel 将其内部的 UTXO 分为了以下三类:</strong></p>
+<p><strong>Input Coin：</strong>标准的UTXO，用于表示用户的资产，具有原生的时间锁，同时允许用户编写解锁脚本predicate；</p>
+<p><strong>Input Contract：</strong>用于合约调用的UTXO，内部包含合约的状态根和合约资产等数据；</p>
+<p><strong>Input Message：</strong>用于传递信息的UTXO，主要包含信息接受人等字段；</p>
+<p><strong>当用户花费UTXO后会产生以下输出:</strong></p>
+<p><strong>Output Coin：</strong>用于标准的资产转账；</p>
+<p><strong>Output Contract : </strong>合约交互产生的输出，内部包含合约交互后的状态根；</p>
+<p><strong>Output Contract Created : </strong>一种特殊的UTXO，是创建合约时产生的输出，内部包含合约的ID与状态根；</p>
+<p>与CKB的 Cell 内部包含所有的合约状态不同，Fuel的UTXO实际上并不会携带所有的与交易有关的合约状态。Fuel仅在UTXO内，携带有合约的状态根Stateroot，也就是状态树的root。合约的完整状态存储在Fuel的状态库内部，由智能合约所拥有。</p>
+<p><strong>值得一提的是，对于智能合约的状态处理，Fuel合约与solidity合约在思想上一致，甚至在编程的形式上也比较接近。</strong>下图展示了一个用Fuel的Sway语言编写的计数器合约，该合约包含一个计数器，当用户调用increment_counter函数时，合约内存储的计数器就自增1。</p>
+<p>我们可以看到，Sway合约的编写逻辑与一般的Solidity合约相似，我们首先给出合约的ABI，然后给出合约的状态变量，然后给出合约的具体实现。所有的代码编写流程并没有涉及到Fuel的UTXO系统。</p>
+<p><img alt="RGB++与同构绑定：CKB、Cardano与Fuel如何赋能比特币生态" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/acdec8372b6cfbb19545583bcf506315.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>所以，Fuel的合约编程体验不同于CKB和Cardanao等UTXO型编程语言，Fuel提供了一种更接近EVM智能合约编程开发的体验。开发者也可以使用Sway语言构造解锁脚本，以实现特殊的签名算法验证逻辑，或者复杂的多签等解锁逻辑。</p>
+<p><strong>在Fuel内实现同构绑定是基本可行的，但还是存在以下问题:</strong></p>
+<p>Fuel使用的sway语言，在智能合约设计方面，思想更接近EVM链，而不是契合BTC或CKB和Cardano，RGB、Atomicals等UTXO型资产的发行者，要在Fuel上专门构造一种智能合约，在CKB等链上用另一种，这是相当复杂的。</p>
+<h3>Cardano：基于POS的eUTXO公链</h3>
+<p>Cardaon是另一个使用UTXO模型的区块链，但不同于Fuel，它是一个Layer1公链。Cardano用eUTXO（拓展型UTXO）来称呼其系统内的UTXO编程模型。相比于CKB，<strong>Cardano内的eUTXO包含以下几部分结构:</strong></p>
+<p><strong>Script:</strong>智能合约，用于验证UTXO是否可以被解锁与执行状态转换；</p>
+<p><strong>Redeemers:</strong>用户提供的用于解锁UTXO的数据，一般为签名数据，类似于比特币的Witness；</p>
+<p><strong>Datum:</strong>智能合约的状态空间，可以存储资产状态等数据；</p>
+<p><strong>Transaction Context:</strong>UTXO交易的上下文数据，如交易的输入参数和结果（UTXO链的交易计算过程在链下直接进行，把计算结果提交到链上去验证。若通过验证，则交易结果上链）</p>
+<p><img alt="RGB++与同构绑定：CKB、Cardano与Fuel如何赋能比特币生态" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/239a0a09f747cf13b3a7aa6e34f44420.jpeg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>开发者可以使用PlutusCore语言在Cardano链上进行UTXO的编程，与CKB类似，开发者可以编写解锁脚本和一些用于状态更新的函数。</p>
+<p>我们以基于UTXO的拍卖流程介绍Cardano的UTXO编程模式。假设我们需要实现一个资产拍卖DAPP，要求用户可以在拍卖结束前给出报价，具体来说，就是用户消费自己的UTXO，与此拍卖合约UTXO，然后生成一个新的拍卖UTXO。当有人给出更高报价时，除了生成新的拍卖合约UTXO，也会生成对上一个人的退款UTXO。具体流程如下图:</p>
+<p><img alt="RGB++与同构绑定：CKB、Cardano与Fuel如何赋能比特币生态" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/6ba8be684bb939474a56128445fc666b.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>实现上述拍卖流程，需要在拍卖智能合约UTXO内存储一些状态，比如当前拍卖的最高价与给出报价的人。下图展示了PlutusCore内部的状态声明，我们可以看到，bBidder和bAmount展示了拍卖的报价和给出报价的钱包地址。而Auction Params内则包含拍卖的基本信息。</p>
+<p><img alt="RGB++与同构绑定：CKB、Cardano与Fuel如何赋能比特币生态" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/466a7c8609216d3c97630d19126b7ebf.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>当用户花费此UTXO时，我们可以更新合约内的状态。下图展示了拍卖合约内一些具体的状态更新和业务逻辑。比如校验用户报价和校验当前拍卖是否仍在进行的逻辑。当然，<strong>由于PlutusCore是Haskell编程语言，这是一种纯函数式编程语言，大部分开发者可能无法直接看懂其含义。</strong></p>
+<p><img alt="RGB++与同构绑定：CKB、Cardano与Fuel如何赋能比特币生态" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/dd11775fd9c2dcb726a4803c17aa0d9d.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>在Cardano上构造同构绑定具有可行性</strong>，我们可以使用Datum存储资产状态，并编写特定的脚本来兼容比特币相关签名算法。<strong>但严重的问题是，大部分程序员可能无法适应使用PlutusCore进行合约编程，</strong>而且其编程环境是较难搭建的，对开发者而言并不友好。</p>
+<h3>总结</h3>
+<p><strong>同构绑定要求链具有以下属性:</strong></p>
+<ol>
+<li>使用UTXO模型</li>
+<li>具有相当的UTXO可编程性，允许开发者编写解锁脚本</li>
+<li>存在UTXO相关的状态空间，可以存储资产状态</li>
+<li>可以通过智能合约或其他手段，支持运行比特币轻节点</li>
+</ol>
+<p>Fuel由于其智能合约编程思想的特殊性，虽然可以兼容同构绑定，但还是会带来一些包袱；而Cardaon使用 Haskell 编程语言进行合约编程，大部分开发者很难快速上手。基于上述理由，采用RISC-V指令集并在UTXO编程的特性上更平衡的CKB，可能是更适配同构绑定的功能拓展层。</p>
+]]></content:encoded>
+<pubDate>Fri, 22 Mar 2024 19:00:33 +0800</pubDate>
+<pubDate>Fri, 22 Mar 2024 19:00:33 +0800</pubDate>
+</item>
 
 <item>
 <title>BakerySwap：Meme代币PUMP预售已结束，参与金额超2.8亿美元</title>

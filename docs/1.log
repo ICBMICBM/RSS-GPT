@@ -6412,3 +6412,15 @@ Existing_entries: 324
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-22 10:57:28.520871
+------------------------------------------------------
+Started: 2024-03-22 11:10:19.994373
+Existing_entries: 324
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 932
+Summarized using GPT-3.5-turbo-1106
+Append: [以太坊最新会议：同意将EIP 7251纳入Pectra升级、并继续研究EIP 7547](https://www.panewslab.com/zh/sqarticledetails/z6twlb23.html)
+Token length: 7779
+Summarized using GPT-3.5-turbo-1106
+Append: [RGB++与同构绑定：CKB、Cardano与Fuel如何赋能比特币生态](https://www.panewslab.com/zh/articledetails/97vo6uxg.html)
+append_entries: 2
+Finish: 2024-03-22 11:10:29.748925
