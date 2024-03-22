@@ -5,11 +5,119 @@
 <link>https://rss.panewslab.com/</link>
 
 <item>
+<title>Polyhedra：基于ZK技术的跨链巨头</title>
+<link>https://www.panewslab.com/zh/articledetails/9t80kmtl40ll.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/9t80kmtl40ll.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>这篇文章重点介绍了区块链行业发展的基础设施和大规模应用两大主题。Polyhedra Network是一个致力于构建下一代Web3互操作性和可扩展性基础设施的项目，利用先进的零知识证明技术提供可信最小化且高效的互操作解决方案。其产品zkBridge和zkLightClient实现了跨链转账、消息传递、数据共享等功能，支持与25多个区块链网络的互操作。项目经历了多轮融资，代币ZK总量为10亿枚。 <div>
+<p>一个行业发展的根基是为社会创造出更多价值，所以区块链永远围绕着两大主题在向前进，一个是基础设施的完善，一个是大规模的应用。那么基础设施方面，公链是基础中的基础，公链也被类比为Web2的操作系统。在17年大牛市之后，行业变意识到ETH性能的限制，开启了提高TPS和降低GAS的新公链建设之旅，EOS就是当时的明星，PPT上写着能超过百万TPS，但是最终陨落。好在21年的牛市中，出现了Solana、BNB Chain、Avalanche、Fantom等优秀的公链。</p>
+<p>时间来到24年，生态项目的蓬勃发展，衍生出对公链的不同需求。而模块化基础设施的完善，使得”一个Dapp一公链”变得低成本、简单、方便（详细可以看我关于模块化的论述）。在这样下势必会引发公链数量的大规模增加。根据不完全统计，现有公链至少几百条以上。在这个牛市中，数量增长至少在10倍以上。我们以一个简单的数学来说明，当公链数量为10的时候，两两的组合有45种，当公链数量扩大10倍到100条的时候，两两的组合为4950种，扩大了110倍。</p>
+<p><strong>所以在这个牛市中，跨链的需求也呈现指数型的增加</strong>。并且对跨链的需求，也不仅仅之前的资产转移，还包括消息传递、数据共享、多链部署、以及流动性共享等等。Polyhedra Network 旨在构建下一代 Web3 互操作性和可扩展性基础设施，核心依托于先进的零知识证明（Zero-Knowledge Proof, ZKP）技术。通过提供可信最小化且高效的互操作解决方案。</p>
+<p>Polyhedra Network 能够实现资产转移、消息传递和数据共享，跨越多种 Web2 和 Web3 系统。到目前为止，Polyhedra 已开发并部署了数种下一代 zkSNARK 协议和多项创新的 ZKP 基础产品，包括一个支持跨链资产和数据互操作性的 zkBridge，涵盖了超过 25 个区块链网络。</p>
+<h3 id="heading-技术特色与亮点">技术特色与亮点</h3>
+<p>Polyhedra Network 的工程团队凭借在密码学方面的专长，开创了一系列基础算法和零知识协议，如 Libra、Virgo、deVirgo、Pianist、Marlin、Gemini 和 Orion，这些协议在行业中树立了新标准，提供了最快的证明者时间、显著减小的证明大小和最小化的链上验证成本。这些基础技术是 Polyhedra 提升区块链系统可扩展性、安全性和互操作性的核心，为解决数字基础设施领域的一些最紧迫挑战提供支持。</p>
+<h3 id="heading-核心数据">核心数据</h3>
+<ul>
+<li>
+<p>跨链转账数量高达2000万。</p>
+</li>
+<li>
+<p>验证了4000万个证明。</p>
+</li>
+<li>
+<p>连接了25个以上的公链。</p>
+</li>
+<li>
+<p>拥有最快的零知识证明(ZK)算法。</p>
+</li>
+<li>
+<p>拥有最快的共识证明。</p>
+</li>
+<li>
+<p>zkBridge的发明者。</p>
+</li>
+<li>
+<p>零知识算法的发明者：共发明了7种算法。</p>
+</li>
+<li>
+<p>参与OKX活动：141m，获得500K Polyhedra网络代币。</p>
+</li>
+<li>
+<p>参与Binance Web3钱包活动：获得556K，100万Polyhedra网络代币。</p>
+</li>
+<li>
+<p>X平台关注者达到964.3K。</p>
+</li>
+<li>
+<p>Discord平台关注者达到545K。</p>
+</li>
+</ul>
+<h3 id="heading-产品与服务">产品与服务</h3>
+<h4 id="heading-zkbridge"><strong>zkBridge</strong></h4>
+<p><strong>zkBridge作为Polyhedra Network的核心产品，它被设计为一个无需信任的跨链桥</strong>。zkBridge 使用 zkSNARK 使证明者能够有效地让接收的链确认发送者链上发生了某种状态转换。它由区块头中继网络和更新合约组成。通过模块化设计，zkBridge实现了几项有用的功能，包括消息传递、代币转移以及在不同链上的状态变化上运行的其他计算逻辑。</p>
+<p>zkBridge它在不增加额外信任假设的情况下保证了强大的安全性。通过简洁的证明，它不仅保证了正确性，还显著降低了链上验证成本。它的工作负载的速度比现有解决方案快数个数量级。为layer1和layer2的互操作性提供了可信最小化和高效的跨链基础设施，解决了连接不同区块链网络的实际挑战。</p>
+<p>zkBridge 利用零知识证明结构验证两个区块链之间的共识有效性，自主网 Alpha 版本发布以来，已经促成了超过 2000 万次跨链交易，涵盖了超过 25 个layer1和layer2区块链网络。</p>
+<figure>
+<p> </p>
+<p><img alt="Polyhedra：基于ZK技术的跨链巨头" height="410" src="https://cdn-img.panewslab.com/panews/images/Mzm420rdB1.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000" /></p>
+<button></button></figure>
+<h4 id="heading-zklightclient"><strong>zkLightClient</strong></h4>
+<p>zkLightClient 是Polyhedra Network团队开发的用于LayerZero 跨链协议，它为layer1和layer2的互操作性提供安全高效的跨链基础设施。该技术完全集成了 LayerZero 的消息协议，使应用开发者可以通过简单的集成配置来使用零知识证明技术进行开发跨链协议。zkLightClient已经安全传输了超过450万条信息。LayerZero现在将zkBridge作为许多路径的默认去中心化验证网络（DVN）。</p>
+<h3 id="heading-与btc链的跨链消息传递">与btc链的跨链消息传递</h3>
+<p>与比特币链的跨链消息传递是最近一段时间的新需求。23年btc生态的蓬勃发展以及btc的layer2的涌现，导致了对BTC跨链需求的激增。但是btc又是比较特殊的公链，使得需要全新的方案来实现跨链的消息传递。zkBridge 推出比特币消息传递协议，旨在显着提高比特币的互操作性。这一举措旨在使比特币网络能够与其他layer2和layer2进行交互。</p>
+<p>当比特币作为发送者链，与当前的 zkBridge 框架完全兼容。 zkBridge能够在接收链（例如ETH）上的更新合约能够直接验证比特币的共识，以及通过验证Merkle证明来验证比特币上的每一笔交易。这种兼容性确保了比特币上的共识证明和交易 Merkle 证明都可以通过 zkBridge 得到全面保护。</p>
+<p>如果比特币链是接收链，由于比特币没有智能合约，与zkBridge的框架就不兼容。采用的方式是采用POS的机制，让验证者质押发送链的原生代币。如果发送者链是Ethereum，验证需要抵押ETH。被授权在比特币网络上写入数据，采用多方计算（MPC）协议确保发送的正确消息达成共识</p>
+<p>与btc链的消息传递已经支持了Ordinals, BRC-20, and Atomicals。使用Polyhedra的项目包括Atomicals Market、Babylon、Bitmap、B2Network、Eigenlayer等等。</p>
+<figure>
+<p> </p>
+<p><img alt="Polyhedra：基于ZK技术的跨链巨头" height="529" src="https://cdn-img.panewslab.com/panews/images/WBm9DCpQ5s.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000" /></p>
+<button></button></figure>
+<h3 id="heading-融资情况">融资情况</h3>
+<figure>
+<p> </p>
+<p><img alt="Polyhedra：基于ZK技术的跨链巨头" height="395" src="https://cdn-img.panewslab.com/panews/images/15mdZ59awD.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000" /></p>
+<button></button></figure>
+<p>Polyhedra一共经历了4轮的融资，其中</p>
+<p>23年2月为第一轮融资，获得了由Binance Lab 和 Polychain 共同领投的1千万美金。</p>
+<p>23年4月，获得有Polychain领投的1500万Pre-A轮融资。</p>
+<p>24年1月，获得有Okx Ventures的Series A轮融资，融资金额未披露。</p>
+<p>24年3月，Polyhedra Network 的估值在最新一轮私募融资中达到 10 亿美元，吸引了包括 Polychain、Binance Labs、OKX Ventures、Animoca Brands、Hashkey 和 UOB Ventures 在内的投资者。</p>
+<h3 id="heading-代币系统">代币系统</h3>
+<figure>
+<p> </p>
+<p><img alt="Polyhedra：基于ZK技术的跨链巨头" src="https://cdn-img.panewslab.com/panews/images/01qsD4U20u.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<button></button></figure>
+<p>Polyhedra的代币名称为ZK，总量为10亿枚。根据OK上面的公开数据</p>
+<ul>
+<li>
+<p>32%为生态激励</p>
+</li>
+<li>
+<p>28%为早期投资者和投资人</p>
+</li>
+<li>
+<p>15%为社区市场和空投</p>
+</li>
+<li>
+<p>15%为基金会</p>
+</li>
+<li>
+<p>10%为核心贡献者</p>
+</li>
+</ul>
+<p>具体的释放规则暂未公布</p>
+<p>不过zk对于上线前用户进行了空投，并且如果少于20枚的用户，可以选择在新主网上线后的代币并获得额外10%的补偿。而ERC20代币，也可以获得额外10%的补偿。</p>
+]]></content:encoded>
+<pubDate>Fri, 22 Mar 2024 10:00:58 +0800</pubDate>
+<pubDate>Fri, 22 Mar 2024 10:00:58 +0800</pubDate>
+</item>
+
+<item>
 <title>昨夜今晨重要资讯（3月21日-3月22日）</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/feiwbeay.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/feiwbeay.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。爱沙尼亚政府已经批准监管加密货币服务提供商的法案，加密服务提供商将受到金融监管局监管。Meme项目SLERF计划创建NFT系列，并在Discord频道中募集资金。Frax揭示未来路线图，计划实现超过1000亿美元的Fraxtal TVL目标。Coinbase将支持Fantom和THORChain永续期货合约。Espresso Systems完成2800万美元融资，用于产品开发和扩大规模。Ark Invest昨日卖出了199526股COIN股票。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。爱沙尼亚政府已经批准监管加密货币服务提供商的法案，加密服务提供商将受到金融监管局监管。Meme项目SLERF计划创建NFT系列，并在Discord频道中募集资金。Frax揭示未来路线图，计划实现超过1000亿美元的Fraxtal TVL目标。Coinbase将支持Fantom和THORChain永续期货合约。Espresso Systems完成2800万美元融资，用于产品开发和扩大规模。Ark Invest昨日卖出了199526股COIN股票。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p><img alt="昨夜今晨重要资讯（3月21日-3月22日）" src="https://cdn-img.panewslab.com/panews/2024/03/22/images/UwAG5v0hc0.jpg" /></p>
 <p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/v8662o4e.html">爱沙尼亚政府批准加密服务提供商监管法案</a></p>
 <p dir="ltr">据Cointelegragh报道，爱沙尼亚政府已经批准一项监管加密货币服务提供商的法案，目前还需要通过议会投票。根据该立法，加密服务提供商将受到金融监管局（FSA）的监管。目前，这些提供商已由金融情报机构（FIU）注册，并必须遵守反洗钱（AML）规则。FSA将于2025年开始颁发许可证，FIU许可证持有者必须在当年年底之前申请FSA许可证。新法案将使爱沙尼亚遵守欧盟加密资产市场（MiCA）法规。</p>
@@ -43,17 +151,15 @@
 <p>【深度】原创文章、行业研报、事件解读，带来深度思考。<a href="https://www.panewslab.com/download.html">立即下载</a>！</p>
 ]]></content:encoded>
 <pubDate>Fri, 22 Mar 2024 09:44:17 +0800</pubDate>
-<pubDate>Fri, 22 Mar 2024 09:44:17 +0800</pubDate>
 </item>
 <item>
 <title>Frax创始人发布Frax未来路线图，未来一年计划推出23个官方L3以启动Fraxtal Nation社区</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/tfuow7qn.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/tfuow7qn.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Frax的创始人Sam Kazemian发布了未来路线图，计划到2026年底实现超过1000亿美元的Fraxtal TVL的目标。未来365天内，将推出23个官方L3并进行大量分配FXTL。今年可能推出frxNEAR、frxTIA和frxMetis等新资产。建议重新开启协议费用开关，将50%的收益流向veFXS，并提议降低FPIS到veFXS的转换率至1 FPIS -> 1.33 veFXS，期限四年。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。Frax的创始人Sam Kazemian发布了未来路线图，计划到2026年底实现超过1000亿美元的Fraxtal TVL的目标。未来365天内，将推出23个官方L3并进行大量分配FXTL。今年可能推出frxNEAR、frxTIA和frxMetis等新资产。建议重新开启协议费用开关，将50%的收益流向veFXS，并提议降低FPIS到veFXS的转换率至1 FPIS -> 1.33 veFXS，期限四年。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月22日消息，Frax创始人Sam Kazemian在治理论坛上发布了Frax的未来路线图，其中包括到2026年底实现超过1000亿美元的Fraxtal TVL的目标。未来365天内，计划推出23个官方L3以启动Fraxtal Nation社区，并进行FXTL的大量分配。此外，今年可能会推出frxNEAR、frxTIA和frxMetis等新资产。Kazemian还建议重新开启协议费用开关，将50%的收益流向veFXS，另外50%用于回购FXS及其他Frax资产，并提议将FPIS到veFXS的转换率降低67%，以新的转换率1 FPIS -&gt; 1.33 veFXS，期限四年。</p>
 ]]></content:encoded>
-<pubDate>Fri, 22 Mar 2024 09:26:38 +0800</pubDate>
 <pubDate>Fri, 22 Mar 2024 09:26:38 +0800</pubDate>
 </item>
 <item>
@@ -61,13 +167,11 @@
 <link>https://www.panewslab.com/zh/sqarticledetails/xg5ojpj9.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/xg5ojpj9.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了加密货币交易平台Rails完成620万美元种子轮融资，获得Slow Ventures、CMCC Global、Round13 Capital和Quantstamp的投资。Rails利用集中式订单簿和自我托管的去中心化解决方案，确保资金托管透明，保护用户资金安全，并避免出现类似FTX的问题。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章介绍了加密货币交易平台Rails完成620万美元种子轮融资，获得Slow Ventures、CMCC Global、Round13 Capital和Quantstamp的投资。Rails利用集中式订单簿和自我托管的去中心化解决方案，确保资金托管透明，保护用户资金安全，并避免出现类似FTX的问题。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月22日消息，据Crowdfundinsider报道，自托管加密货币交易平台Rails宣布完成620万美元种子轮融资，Slow Ventures、CMCC Global、Round13 Capital和Quantstamp参投。Rails利用集中式订单簿来推动执行最佳交易，并结合区块链上自我托管的去中心化解决方案实现资金托管透明，继而保护用户资金安全并获得用户信任，避免再次出现类似FTX的问题。</p>
 ]]></content:encoded>
 <pubDate>Fri, 22 Mar 2024 09:09:04 +0800</pubDate>
-<pubDate>Fri, 22 Mar 2024 09:09:04 +0800</pubDate>
 </item>
-
 <item>
 <title>LK Venture王峰：投资加密市场的十一条“军规”</title>
 <link>https://www.panewslab.com/zh/articledetails/97hxve5x.html</link>
