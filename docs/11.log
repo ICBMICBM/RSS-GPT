@@ -5940,3 +5940,12 @@ Existing_entries: 161
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-22 08:51:25.193443
+------------------------------------------------------
+Started: 2024-03-22 08:58:52.837882
+Existing_entries: 161
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 120
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin Remains Overbought Despite Recent Correction, JPMorgan Says](https://www.coindesk.com/markets/2024/03/22/bitcoin-remains-overbought-despite-recent-correction-jpmorgan-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-22 08:58:55.201336
