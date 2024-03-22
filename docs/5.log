@@ -5110,3 +5110,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [The Week in Crypto Policy: SEC Sanctions, Oversight, & Funding](https://messari.io/article/the-week-in-crypto-policy-sec-sanctions-oversight-and-funding)
 append_entries: 1
 Finish: 2024-03-22 13:36:04.725903
+------------------------------------------------------
+Started: 2024-03-22 13:43:16.573993
+Existing_entries: 19
+Fetching from https://messari.io/rss
+append_entries: 0
+Finish: 2024-03-22 13:43:17.067109
