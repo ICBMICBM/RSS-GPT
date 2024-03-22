@@ -5835,3 +5835,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bitcoin Tests $66K as Analysts Expect More Volatility Before Calm](https://www.coindesk.com/markets/2024/03/22/bitcoin-tests-66k-as-analysts-expect-more-volatility-before-calm/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-22 06:20:58.842604
+------------------------------------------------------
+Started: 2024-03-22 06:30:16.754111
+Existing_entries: 160
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 39
+Summarized using GPT-3.5-turbo-1106
+Append: [Frax Finance Targets $100B Value Locked in Singularity Roadmap](https://www.coindesk.com/markets/2024/03/22/frax-finance-targets-100b-value-locked-in-singularity-roadmap/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-22 06:30:20.491424
