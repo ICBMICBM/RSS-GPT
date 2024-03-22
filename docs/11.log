@@ -6300,3 +6300,12 @@ Existing_entries: 175
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-22 17:46:31.523186
+------------------------------------------------------
+Started: 2024-03-22 17:53:25.694482
+Existing_entries: 175
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 40
+Summarized using GPT-3.5-turbo-1106
+Append: [Remembering ‘True Names’ Author Vernor Vinge](https://www.coindesk.com/consensus-magazine/2024/03/22/remembering-true-names-author-vernor-vinge/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-22 17:53:29.889149
