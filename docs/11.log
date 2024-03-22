@@ -5967,3 +5967,12 @@ Existing_entries: 162
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-22 09:33:35.813151
+------------------------------------------------------
+Started: 2024-03-22 09:41:13.931073
+Existing_entries: 162
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 23
+Summarized using GPT-3.5-turbo-1106
+Append: [Fantom’s FTM is the Best Performing Non-Meme Token of the Past 30 Days](https://www.coindesk.com/markets/2024/03/22/fantoms-ftm-is-the-best-performing-non-meme-token-of-the-past-30-days/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-22 09:41:16.548015
