@@ -6292,3 +6292,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [解读国债 RWA 项目现状与六大趋势](https://www.panewslab.com/zh/articledetails/bv00ir1792wa.html)
 append_entries: 1
 Finish: 2024-03-22 08:18:48.539870
+------------------------------------------------------
+Started: 2024-03-22 08:28:46.780957
+Existing_entries: 318
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+append_entries: 0
+Finish: 2024-03-22 08:28:48.523811
