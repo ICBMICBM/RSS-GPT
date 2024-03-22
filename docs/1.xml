@@ -5,18 +5,132 @@
 <link>https://rss.panewslab.com/</link>
 
 <item>
+<title>号称超越“并行 EVM”，AC复出喊单的Fantom Sonic究竟是什么？</title>
+<link>https://www.panewslab.com/zh/articledetails/s8yegl02.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/s8yegl02.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了Fantom网络的崛起和新版本Fantom Sonic的发布。Fantom Sonic将取代Fantom Opera，提供更快的性能和更强的执行效率。AC领导的团队通过优化FVM、存储环境和共识算法，大幅提升了Fantom Sonic的性能。此外，文章还提到了Fantom在生态项目方面的努力和Sonic Labs的成立，以及对几个新项目的介绍。最后，强调了AC团队的搞事能力对FTM价格的影响。<br> <div>
+<p>作者：深潮 TechFlow</p>
+<p>Fantom 似乎正在逆势崛起。</p>
+<p>在最近一周加密市场整体大回调的背景下，FTM 的价格却在螺旋上升，突破近一年来价格新高。</p>
+<p>Fantom 灵魂人物，上一轮 DeFi Summmer 的明星 AC （Andre Cronje）重新复出，在 X 上频繁喊单，甚至创造出了新的 “MEME” 原语：</p>
+<p><img alt="号称超越“并行 EVM”，AC复出喊单的Fantom Sonic究竟是什么？" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/460c51c205fae92d9f8436cee86d3c6d.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>梗图的主角则是Fantom Sonic ，大有拳打脚踢“并行EVM”之意，暗示其性能更胜一筹。</p>
+<p>AC 直言不讳的表示：</p>
+<p><strong>“在我们的技术改进所带来的收益中，并行化甚至排不前3。”</strong></p>
+<p>一边是如 Monad 和 Sei 等高性能新 L1 的“并行 EVM ”叙事受到市场追捧，另一边是老如 Solana 和 Avalanche 等老 L1 们的强势反弹；</p>
+<p>在 L1 的战争中，Fantom 更像是沧海遗珠，不在热点之中，但也未游离于竞争之外。</p>
+<p>而随着 Fantom Sonic 主网春季上线的临近，这会不会成为关键催化剂，让 FTM 开启狂飙模式？</p>
+<h3>比并行 EVM 更快？</h3>
+<p>什么是 Fantom Sonic ？</p>
+<p>简而言之，Fantom Sonic 是新一代的 Fantom 网络，将取代此前的 Fantom Opera，可以理解为 Fantom2.0。</p>
+<p>Fantom Sonic 包含新的客户端、验证者端、虚拟机(FVM)、Carmen 资料库和经过优化的 Lachesis 共识机制，将可以大幅提升原有 Fantom 的执行效率。</p>
+<p>Fantom Opera 上现有的智能合约与 Fantom Sonic 完全相容，因为 FVM 与 EVM 及其程式语言(Solidity、Vyper) 完全兼容。</p>
+<p>事实上，Fantom Sonic 不是最近才凭空蹦出来的。</p>
+<p>早在去年10月底，Fantom 基金会就已经官宣了 Sonic 的测试网上线；而在其规划中主网将于今年春季正式发布，目前已到 3 月下旬，市场自然增加了炒作预期。</p>
+<p>无论 L1 的故事怎么讲，核心想要传达的点只有一个 --- 我家的性能更好。</p>
+<p>从目前 Fantom Sonic 公开的测试网数据和材料来看，其卖点也非常明显，就是主打比现行所有EVM更快的速度和更强的性能。</p>
+<p>AC 在社媒上公开的数据是：</p>
+<p>现在基于 EVM，理论上限是每秒约 200 次交易，通过添加“乐观并行化”能够增加 40 次交易，最多也就达到每秒大约 240 次；</p>
+<p>但如果基于新的 FVM，理论上限是每秒约30000 次交易，即使再加个并行化技术，顶天也只能增加 4500 的每秒交易量。</p>
+<p>言下之意就是，Fantom Sonic 的性能底子已经足够好了，再加所谓的并行化，提升空间并不大。</p>
+<p>走自己的性能提升之路，不屑于搞并行化，这是怎么做到的？</p>
+<p>一个 L1 的性能想要提升，不外乎在以下几个方面下功夫优化：执行交易的环境、存储交易的环境及达成共识的方法。</p>
+<p>而 Sonic 在这几个方面所交出的答卷是：</p>
+<ul>
+<li><strong>FVM ： </strong>在兼容 EVM 的同时，提供比老 EVM 更快地执行智能合约的环境，提高执行效率；</li>
+<li><strong>存储环境：</strong>引入了 Carmen 数据库存储方案，相当于给档案室装了个智能索引系统，使得数据的存取效率大大提升，减少 90% 所需的存储空间，运行 RPC 服务的提供商可以通过多个存档节点实现成本下降 95%（成本效率提高 20 倍）。</li>
+</ul>
+<p><img alt="号称超越“并行 EVM”，AC复出喊单的Fantom Sonic究竟是什么？" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/604d10759ea7f0703b2394a80ea2790e.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<ul>
+<li><strong>共识算法：</strong>Fantom 一开始采用 Lachesis 这种无领导的异步拜占庭容错（aBFT）共识机制，本身共识效率就不错，在 Sonic 更新中，Lachesis 算法经历了进一步的优化，减少了网络中的信息冗余和提高了决策效率。这不仅加速了交易的确认过程，也提高了网络的整体吞吐量。</li>
+</ul>
+<p>我们不一定能完全理解和研究这些技术栈的具体细节，但在叙事意义和关注热度大于技术本身的加密环境里，Fantom Sonic 所展现出的核心可以被简单的理解成：<strong>“更快更强”。</strong></p>
+<p>而一些公开数据，也在印证这种性能的大幅提升。</p>
+<p>在 Sonic 目前的设计中，测试网被分为两类。一类是封闭测试网，用来在理想环境下展现 Sonic 所能够触达的性能上限；另一类是公开测试网，可以在与外界连接和交互的环境下，模拟实际应用跑出来的性能结果。</p>
+<p><img alt="号称超越“并行 EVM”，AC复出喊单的Fantom Sonic究竟是什么？" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/229c354078791ab7c32a13c8132ccf07.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>从去年 10 月底到今年1月，Fantom 官方对 Sonic 的封闭测试网进行了多轮测试，用于模拟现实用户涌入的情况下，Sonic 对流量压力、交易确认、TPS、代币交换和转账等常用功能的表现。</p>
+<p>结果显示，模拟真实流量进入，进行各种动作的情况下，Sonic 综合可以支持 2000 的TPS，并<strong>拥有 1 秒左右的最终一致性</strong>（交易提交到确认最终有效且不会再被更改，大约只需要1秒钟）。</p>
+<p>虽然这只是封闭测试的理论数据，但作为比较，以太坊的最终一致性实际上大概 1.5-3 分钟左右，Solana 也可以做到秒级，但每秒所能支撑的 TPS 不及 Sonic 的测试数据。</p>
+<p>而如果只处理 swap 交易，Sonic 的理论数据是 4000 TPS，最终一致性在 1.3 秒左右；如只处理转账，情况会更夸张--- 10000 的TPS，1.6 秒的最终一致性。</p>
+<p><img alt="号称超越“并行 EVM”，AC复出喊单的Fantom Sonic究竟是什么？" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/855e7e9f9e0dd894cfdafc0a27d32b51.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>纯测试数据并没有太大的参考意义，更多的可以理解成 Fantom Sonic 的秀肌肉，用户的实际体验更有说服力。</p>
+<p>在另一个 Sonic 公开测试网上，我们能够看到一款类似于走迷宫的全链游戏，你需要控制绿点走出游戏中的棋盘获得胜利。</p>
+<p>而每走一步都是一次链上交互，在笔者的体验中确实每次走格子都拉起钱包并进行了签名。</p>
+<p>值得一提的是，从领测试币，到不断地走一步交互一次，整个过程每一步的确认时间体感也就 1-2 秒左右；如果主网能够达到这样快速的体验，支撑全链游戏或更多高频交互的 Dapp 将会有很大的想象空间。</p>
+<p><img alt="号称超越“并行 EVM”，AC复出喊单的Fantom Sonic究竟是什么？" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/43a25b1bc4992657ed265610167d0471.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h3>成立 Sonic Labs，AC 亲自指导生态项目</h3>
+<p>Sonic 不管再怎么快，有生态项目跑在上面才是关键。</p>
+<p>为了配合技术和性能的提升，去年 12 月底 Fantom Foundation 还成立了一个名为 Sonic Labs 的孵化器，帮助开发人员构建具创新 dApp，为 Sonic 主网做好准备。</p>
+<p>而应用开发的前5名优胜者还会获得平分 1000000FTM 代币的机会，以及 Andre Cronje的亲自指导。此外，优胜者们也会得到来自 Pyth 、Request Finance 和 Fantom 基金会在技术、合规、薪资和公司结构上的指导，并有机会从 VC 合作伙伴处募资。</p>
+<p>可以说是官方亲自下场投资源扶持生态项目了。</p>
+<p><img alt="号称超越“并行 EVM”，AC复出喊单的Fantom Sonic究竟是什么？" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/23086cf6b86fba8fb1d9ae9889b1aa16.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>今年 2 月，Fantom 官方也宣布了上述活动的5个优胜者，同时自然也构成了 Sonic 上线后值得关注的新生态项目：</p>
+<ul>
+<li>
+<p><strong>Lynx</strong><strong> Protocol</strong></p>
+</li>
+</ul>
+<p>一个永续合约交易 DEX，可以使用任何代币作为抵押品，提供 100X 杠杆</p>
+<p>推特：<a href="https://twitter.com/Lynx_Protocol" rel="nofollow">@Lynx_Protocol</a></p>
+<p>官网：<a href="https://t.co/HquBrSY5We" rel="nofollow">lynx.finance</a></p>
+<ul>
+<li>
+<p><u><strong><a href="https://twitter.com/ThunderDomeSoFi" rel="nofollow">Thunder Dome</a></strong></u></p>
+</li>
+</ul>
+<p>SocialFi 项目，允许用户通过门票（可交易的社交代币）与社区互动。</p>
+<p>推特: <u><a href="https://twitter.com/ThunderDomeSoFi" rel="nofollow">@ThunderDomeSoFi</a></u></p>
+<p>官网：<u><a href="https://t.co/65zT755PUO" rel="nofollow">thunderdome.so</a></u></p>
+<ul>
+<li>
+<p><u><strong>Debita</strong></u></p>
+</li>
+</ul>
+<p>P2P 借贷平台，让用户在寻求借贷资产时选择所需的抵押品、利率等。</p>
+<p>推特：<u><a href="https://twitter.com/DebitaFinance" rel="nofollow">@DebitaFinance</a></u></p>
+<p>官网：<u><a href="https://t.co/v4N3rncDrd" rel="nofollow">debita.fi</a></u></p>
+<ul>
+<li>
+<p><strong>KiricCoin</strong></p>
+</li>
+</ul>
+<p>绿色科技初创企业，跟踪并奖励个人的可持续行为，以帮助应对气候变化。</p>
+<p>推特：<u><a href="https://twitter.com/KiriCoin" rel="nofollow">@KiriCoin</a></u></p>
+<p>官网：<u><a href="https://t.co/cEKOJhk39P" rel="nofollow">kiritechnologies.com</a></u></p>
+<ul>
+<li>
+<p><strong>Froqorion</strong></p>
+</li>
+</ul>
+<p>以远古青蛙文明 Froqorion 为背景的团队角色扮演游戏。</p>
+<p>推特：@Froqorion</p>
+<p>官网：<a href="https://t.co/P9yvePCdlh" rel="nofollow">http://froqorion.com</a></p>
+<h2>不为“快”买单，为“搞事”买单</h2>
+<p>Fantom Sonic 目前展现出的速度快和性能强，就是市场 Price in FTM 的理由吗？</p>
+<p>炒作技术叙事当然是不变的主旋律，但L1赛道早就过了“只讲 TPS 故事”的古早阶段，单纯的性能强并不足以在激烈的注意力竞争中站稳脚跟，更何况 Fantom 本身也不是像 Monad 这样的新项目。</p>
+<p>在社媒上，Fantom 的某些生态项目在暗讽 L2 为自己交易的低 gas 费沾沾自喜，并指出 Fantom 过去 4 年的 gas 费其实一直都这么低。</p>
+<p>而这也恰恰说明了关键问题：如果市场只对 Fantom 性能好而买账，为何它没有一直独享加密舞台的聚光灯？</p>
+<p>显然，技术只是叙事的底气；市场能否买账，会不会搞事也至关重要。</p>
+<p>在这一点上，Fantom 的灵魂人物 AC 一直以会搞事著称。Fantom Sonic 的性能固然好，但市场对 FTM 的Price in，必然有更大的成分在为 AC及其团队接下来的“搞事”下注；他能否扶持生态项目走出更多玩法，能否在运营和传播中发挥更大的作用，都是大家对 Fantom Sonic 的额外预期。</p>
+<p>不单为性能买单，为搞事买单，才是加密市场注意力经济下新老韭菜心照不宣的共识。</p>
+<p>至于FTM会不会维持逆风突破，Fantom Sonic 会不会成为 L1 战争中的新赢家，且看且观之。</p>
+]]></content:encoded>
+<pubDate>Fri, 22 Mar 2024 19:36:22 +0800</pubDate>
+<pubDate>Fri, 22 Mar 2024 19:36:22 +0800</pubDate>
+</item>
+
+<item>
 <title>WisdomTree获得NYDFS颁发的信托公司执照，从而能在纽约推出其加密钱包</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/w8couaij.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/w8couaij.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。资产管理公司WisdomTree获得纽约州金融服务部颁发的信托公司执照，允许他们在纽约推出加密货币应用程序WisdomTree Prime。该应用程序允许用户存入薪资，连接借记卡以进行日常支出，并投资代币化资产。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。资产管理公司WisdomTree获得纽约州金融服务部颁发的信托公司执照，允许他们在纽约推出加密货币应用程序WisdomTree Prime。该应用程序允许用户存入薪资，连接借记卡以进行日常支出，并投资代币化资产。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月22日消息，据福克斯记者Eleanor Terrett报道，资产管理公司WisdomTree获得了纽约州金融服务部 (NYDFS) 颁发的信托公司执照，从而能够在纽约推出其加密货币应用程序WisdomTree Prime。</p>
 <p>此前消息，<a href="https://www.panewslab.com/zh/sqarticledetails/1652058165718108.html" rel="noopener" target="_blank">WisdomTree于2022年推出加密钱包WisdomTree Prime的测试版</a>，在WisdomTree Prime中，用户能够存入他们的薪资，并连接借记卡以进行日常支出，同时可投资代币化资产。</p>
 ]]></content:encoded>
 <pubDate>Fri, 22 Mar 2024 19:28:17 +0800</pubDate>
-<pubDate>Fri, 22 Mar 2024 19:28:17 +0800</pubDate>
 </item>
-
 <item>
 <title>PA日报 | Succinct Labs完成Paradigm领投的5500万美元融资；CoinList开启Bondex的BDXN代币公开发售</title>
 <link>https://www.panewslab.com/zh/articledetails/ajq005ux.html</link>
