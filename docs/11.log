@@ -6171,3 +6171,15 @@ Existing_entries: 168
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-22 14:49:05.777852
+------------------------------------------------------
+Started: 2024-03-22 14:56:38.118179
+Existing_entries: 168
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 47
+Summarized using GPT-3.5-turbo-1106
+Append: [Do Kwon’s Extradition to South Korea Postponed by Montenegrin Supreme Court](https://www.coindesk.com/policy/2024/03/22/do-kwons-extradition-to-south-korea-postponed-by-montenegrin-supreme-court/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 138
+Summarized using GPT-3.5-turbo-1106
+Append: [U.S. SEC Asking for More Millions, Dozens of Lawyers to Beef Up Crypto Oversight](https://www.coindesk.com/policy/2024/03/22/us-sec-asking-for-more-millions-dozens-of-lawyers-to-beef-up-crypto-oversight/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 2
+Finish: 2024-03-22 14:56:47.311474
