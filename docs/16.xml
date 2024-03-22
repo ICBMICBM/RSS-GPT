@@ -5,11 +5,23 @@
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
 <item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，领投方是 Polychain Capital。融资将使团队规模扩大至约 80 人，用于招聘产品、工程、业务开发和营销等跨职能部门。参投方包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium 和 Mapleblock Capital，所有融资均通过未来代币或 SAFT 进行。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
+
+<item>
 <title>【英文】观点：以太坊中构建无信任可组合性的网络效应是至关重要的</title>
 <link>https://twitter.com/i/web/status/1770686691441062104</link>
 <guid>https://twitter.com/i/web/status/1770686691441062104</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。<br>1. 以太坊作为最终结算层对于 ETH 的重要性。 <br>2. 通过无信任可组合性实现的网络效应。 <br>3. 以太坊应该建立二层解决方案，以减少对信任的假设。 <br>4. 建立以太坊二层解决方案会产生无信任可组合性的网络效应。 <br>5. 二层架构是异步和无信任的，为总体的无信任组合而设计。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。<br />1. 以太坊作为最终结算层对于 ETH 的重要性。 <br />2. 通过无信任可组合性实现的网络效应。 <br />3. 以太坊应该建立二层解决方案，以减少对信任的假设。 <br />4. 建立以太坊二层解决方案会产生无信任可组合性的网络效应。 <br />5. 二层架构是异步和无信任的，为总体的无信任组合而设计。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>EigenLayer 创始人 Sreeram Kannan 探讨了为何以太坊需要建立二层解决方案，指出以太坊作为最终结算层对于 ETH 的重要性，以及通过无信任可组合性实现的网络效应。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/i/web/status/1770686691441062104">https://twitter.com/i/web/status/1770686691441062104</a></p>
 <p><strong>文章作者：</strong></p><p>Sreeram Kannan（Eigenlayer 创始人）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Sreeram Kannan（Eigenlayer 创始人）：</strong>有人认为以太坊是一个出色的结算层，因此二层解决方案应该在以太坊上进行结算。我们的理论是任何想要使用和交易 ETH 资产的人都需要在以太坊上进行结算，因为以太坊是 ETH 的最终记账账本。在这个结算过程中，减少对信任的假设，效果会更好。因此，希望使用 ETH 的链会成为以太坊的二层，并在以太坊上进行结算。其他希望与现有以太坊二层解决方案进行无信任互操作的链现在也必须建立为以太坊的二层。
@@ -18,7 +30,6 @@
 
 我们可以将组合性机制分为两个维度：a) 时间尺度：原子执行、原子包含、异步；b) 信任：信任中介区域、仅信任发送和接收区域、无信任（或最小信任）。二层架构是异步和无信任的。它不是为了最大化原子组合带宽，而是为了总体的无信任组合。鉴于区块链是信任机制，这是最重要的维度。【原文为英文】</p><a href="https://twitter.com/i/web/status/1770686691441062104">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-22T06:08:42+00:00</pubDate>
 </item>
 <item>
@@ -26,7 +37,7 @@
 <link>https://mp.weixin.qq.com/s/N5DKr6-kNcl42J6umOY5wg</link>
 <guid>https://mp.weixin.qq.com/s/N5DKr6-kNcl42J6umOY5wg</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>Nervos CKB联合创始人Cipher提出了同构绑定的产品思路，将CKB和Cardano链上的UTXO用作容器，通过RGB等UTXO型资产实现可编程性。作者进一步研究了支持可编程UTXO区块链是否适配同构绑定方案，探讨了RGB协议对DeFi的不友好性以及RGB++的解决思路，让用户在客户端自验证模式与第三方托管模式间切换。同构绑定适用于各种具有UTXO特性的资产协议，将资产状态、历史数据和智能合约存储在CKB或Cardano等UTXO型公链上。 <div>
+<div> <br /><br />摘要：<br />Nervos CKB联合创始人Cipher提出了同构绑定的产品思路，将CKB和Cardano链上的UTXO用作容器，通过RGB等UTXO型资产实现可编程性。作者进一步研究了支持可编程UTXO区块链是否适配同构绑定方案，探讨了RGB协议对DeFi的不友好性以及RGB++的解决思路，让用户在客户端自验证模式与第三方托管模式间切换。同构绑定适用于各种具有UTXO特性的资产协议，将资产状态、历史数据和智能合约存储在CKB或Cardano等UTXO型公链上。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>Nervos CKB 联合创始人 Cipher 第一次提出了同构绑定的产品思路。同构绑定是用 CKB 和 Cardano 链上的 UTXO 做「容器」，将 RGB 等 UTXO 型资产表达出来，进而为其添加可编程性及更多更复杂的场景。极客 web3 作者 shew 进一步探究支持可编程 UTXO 区块链是否可以适配同构绑定方案。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/N5DKr6-kNcl42J6umOY5wg">https://mp.weixin.qq.com/s/N5DKr6-kNcl42J6umOY5wg</a></p>
 <p><strong>文章作者：</strong></p><p>极客web3</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>极客web3：</strong>RGB 是一种运行在比特币链下的资产协议 / P2P 网络，有点像闪电网络一样。此外，RGB 还是一种基于比特币 UTXO 的寄生资产协议，所谓寄生，是指 RGB 客户端会在比特币链下，声明某些 RGB 资产与比特币链上哪个 UTXO 相绑定，你拥有了这个 UTXO，它绑定的 RGB 资产也归你差遣。
@@ -37,7 +48,6 @@ RGB++ 的解决思路是：让用户在客户端自验证模式，与第三方�
 
 简单来说，同构绑定不但适用于 RGB，还适用于 Runes、Atomical 等各种有 UTXO 特性的资产协议，它把存储在用户客户端本地的资产状态、历史数据，以及对应的智能合约，全部挪给 CKB 或 Cardano 等 UTXO 型公链来存储和托管。上述 UTXO 型资产协议，可以把 CKB 或 Cardano 的 UTXO 模型作为「容器」，借着容器来展现出资产的形态与状况，便于配合智能合约等场景。</p><a href="https://mp.weixin.qq.com/s/N5DKr6-kNcl42J6umOY5wg">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-22T05:54:59+00:00</pubDate>
 </item>
 <item>
@@ -45,7 +55,7 @@ RGB++ 的解决思路是：让用户在客户端自验证模式，与第三方�
 <link>https://mp.weixin.qq.com/s/57RgHfu472vlRZEYoetaEg</link>
 <guid>https://mp.weixin.qq.com/s/57RgHfu472vlRZEYoetaEg</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。在ETHTaipei 2024会议期间，Vitalik接受了多家媒体采访，涉及生活饮食、Dencun升级、以太坊路线、安全隐私、去中心化社交、AI等话题。他提到在Zuzalu和越南活动中得到启发，对以太坊社区项目感兴趣。关于Dencun升级，他认为技术方面进展顺利，网络参与率、使用量等表现良好，预计未来几个月会有增长。此外，他最近一直在尝试一些人工智能工具，探索新领域的可能性。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。在ETHTaipei 2024会议期间，Vitalik接受了多家媒体采访，涉及生活饮食、Dencun升级、以太坊路线、安全隐私、去中心化社交、AI等话题。他提到在Zuzalu和越南活动中得到启发，对以太坊社区项目感兴趣。关于Dencun升级，他认为技术方面进展顺利，网络参与率、使用量等表现良好，预计未来几个月会有增长。此外，他最近一直在尝试一些人工智能工具，探索新领域的可能性。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>在近期的 ETHTaipei 2024 大会期间，Vitalik 接受了多家媒体的采访问答， 过程涉及生活饮食、Dencun 升级以及以太坊相关路线（升级预期、中心化难题、模块化再质押等）、安全隐私（抗量子能力、ZK 隐私安全）、去中心化社交、AI、行业建议等话题。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/57RgHfu472vlRZEYoetaEg">https://mp.weixin.qq.com/s/57RgHfu472vlRZEYoetaEg</a></p>
 <p><strong>文章作者：</strong></p><p>吴说区块链</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>吴说区块链：</strong>Q：当你四处旅行和生活时，哪个实验性社区活动给了你最大的启发？
@@ -57,21 +67,18 @@ A：今年跟以太坊相关的事务已经很低了，即使有关，也是在�
 Q：Dencun 升级后的表现有超预期吗？
 A：我认为这取决于你对 “超预期” 的理解。从技术角度来看，升级进展顺利。网络参与率仅从 99% 下降到了 95%，这比我们以前的任何硬分叉都要好。有趣的是，使用量目前非常低。目标是每个区块约 3 个 blobs，但平均使用量仅为每个区块一个 blob。这意味着 blobs 目前非常便宜。如果你想发布一个 blob，基本上只需支付以太坊的交易费用。高昂的以太坊交易费用可能是其中一个原因，但如果 blobs 的价格接近于零，它们可以用于各种用途，比如备份加密的硬盘副本。对于保证数据库来说，有无限的用途。我相信使用量最终会增加，但目前对于当下的 Rollups 来说，价格非常便宜是有利的。我期待在未来几个月看到使用量增加。</p><a href="https://mp.weixin.qq.com/s/57RgHfu472vlRZEYoetaEg">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-22T05:52:27+00:00</pubDate>
 </item>
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。zkBridge开发商Polyhedra Network以10亿美元估值完成了2000万美元的战略融资，Polychain Capital领投，多家知名机构参投。融资将用于招聘跨职能部门人员，将团队规模扩大到约80人，推动产品、工程、业务开发和营销等方面的发展。融资过程中采用了未来代币或SAFT的简单协议。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。zkBridge开发商Polyhedra Network以10亿美元估值完成了2000万美元的战略融资，Polychain Capital领投，多家知名机构参投。融资将用于招聘跨职能部门人员，将团队规模扩大到约80人，推动产品、工程、业务开发和营销等方面的发展。融资过程中采用了未来代币或SAFT的简单协议。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
-
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
