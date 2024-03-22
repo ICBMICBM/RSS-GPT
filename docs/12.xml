@@ -4,6 +4,32 @@
 <title>Bitcoinist.com</title>
 <link>https://bitcoinist.com</link>
 
+<item>
+<title>Urgent Alert For Apple Mac Users: Your Cryptos Could Be At Risk</title>
+<link>https://bitcoinist.com/urgent-alert-apple-mac-crypto-at-risk/</link>
+<guid>https://bitcoinist.com/urgent-alert-apple-mac-crypto-at-risk/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是消极的。苹果M系列处理器中发现的漏洞可能会对加密货币用户产生严重影响，可能危及加密数字资产的安全。漏洞源于芯片的数据内存相关预取器，可泄露在加密操作中使用的秘钥。攻击方法称为“GoFetch”，不需要管理访问权限，可能导致秘钥被泄露。漏洞导致传统加密协议和抗量子计算攻击的算法受到影响。苹果尚未公开回应这一发现，建议用户密切关注解决这一漏洞的软件更新。加密社区面临不确定性和风险。 <div>
+<p>A newly identified vulnerability in Apple&#8217;s M-series processors could have dire implications for crypto users, with the potential to compromise the private keys essential for securing digital assets. This flaw, which resides deep within the microarchitecture of these chips, was first <a href="https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/" rel="noopener nofollow" target="_blank">reported</a> by Ars Technica and detailed in a paper published by a collective of researchers from top US universities.</p>
+<h2>Mac Users Beware: This Is Crucial For Crypto Owners</h2>
+<p>The vulnerability stems from a side channel in the chip&#8217;s data memory-dependent prefetcher (DMP), a mechanism designed to enhance computing efficiency. However, this feature inadvertently allows for the extraction of secret keys during cryptographic operations, a process that is fundamental to the <a href="https://bitcoinist.com/ledger-expose-bitcoins-private-keys-subpoena/" rel="noopener " target="_blank">security of cryptocurrencies</a> and other digital transactions.</p>
+<p>&#8220;The DMP [&#8230;] uses the data values in order to make predictions [&#8230;] if a data value &#8216;looks like&#8217; a pointer, it will be treated as an &#8216;address&#8217; [&#8230;] the data from this &#8216;address&#8217; will be brought to the cache, leaking over cache side channels,&#8221; the researchers explained, underscoring the inadvertent risk posed by this hardware optimization.</p>
+
+<p>Dubbed &#8220;GoFetch&#8221; by its discoverers, this attack method does not require administrative access, raising alarms about the ease with which bad actors could exploit this vulnerability.</p>
+<p>According to the team, &#8220;We don’t care about the data value being prefetched, but the fact that the intermediate data looked like an address is visible via a cache channel and is sufficient to reveal the secret key over time.&#8221; This discovery is particularly concerning for cryptocurrency holders, as <a href="https://bitcoinist.com/what-are-private-keys-and-why-are-they-important/" rel="noopener " target="_blank">private keys</a> are the linchpin of security for digital wallets and transactions.</p>
+<p>The implications of GoFetch are vast, affecting not only traditional encryption protocols but also those designed to be resistant against quantum computing attacks. This puts a wide array of cryptographic keys at risk, including RSA and Diffie-Hellman, along with post-quantum algorithms like Kyber-512 and Dilithium-2.</p>
+<p>The researchers reported that &#8220;The GoFetch app requires less than an hour to extract a 2048-bit RSA key and a little over two hours to extract a 2048-bit Diffie-Hellman key,&#8221; highlighting the efficiency and danger of this attack vector.</p>
+
+<p>Mitigation of this vulnerability poses a significant challenge due to its hardware-based nature. While software-based defenses can be developed, they often come at the cost of degraded performance, particularly on devices with older M-series chips.</p>
+<p>&#8220;For developers of cryptographic software running on M1 and M2 processors [&#8230;] they will have to employ other defenses, almost all of which come with significant performance penalties,&#8221; the researchers noted, indicating a difficult road ahead for both developers and users.</p>
+<p>Apple has yet to make a public statement regarding the GoFetch findings, leaving the tech community and <a href="https://bitcoinist.com/macbook-crypto-users-targeted-by-malware-attack/" rel="noopener " target="_blank">crypto users</a> eagerly awaiting a response. In the meantime, the researchers advise end users to look out for software updates that specifically address this vulnerability.</p>
+<p>Given the manual and slow process required to assess an implementation&#8217;s vulnerability, the crypto community is faced with a period of uncertainty and heightened risk.</p>
+<p>At press time, the Bitcoin price stood at $63,396, down 5.1% in the last 24 hours.</p>
+<img alt="Bitcoin price" class="size-full wp-image-288934" height="472" src="https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSD_2024-03-22_15-06-02.png?resize=1024%2C472" width="1024" />
+]]></content:encoded>
+<pubDate>Fri, 22 Mar 2024 15:00:03 +0000</pubDate>
+<pubDate>Fri, 22 Mar 2024 15:00:03 +0000</pubDate>
+</item>
 
 <item>
 <title>Cardano Founder Charles Hoskinson Unveils Predictions For 2030</title>

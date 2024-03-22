@@ -4,6 +4,47 @@
 <title>NewsBTC</title>
 <link>https://www.newsbtc.com/</link>
 
+<item>
+<title>Fantom (FTM) Jumps 180% In 4 Weeks: Just The Beginning?</title>
+<link>https://www.newsbtc.com/news/fantom-ftm-jumps-180-4-weeks-just-the-beginning/</link>
+<guid>https://www.newsbtc.com/news/fantom-ftm-jumps-180-4-weeks-just-the-beginning/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：这些信息是积极的。Fantom（FTM）在过去24小时中表现出色，价格涨幅达13.5％，过去四周涨幅达180％。这一涨势主要归因于即将到来的Sonic升级，旨在提高Fantom技术堆栈的可伸缩性，从而提高交易吞吐量。Andre Cronje的承诺和Coinbase的宣布也是价格上涨的动力。技术分析显示Fantom价格在逐渐上升，目标位于Fibonacci的不同级别。整体而言，Fantom面临积极前景。 <div>
+<p>Over the past 24 hours, Fantom (FTM) has emerged as the standout performer among the top 100 cryptocurrencies by market capitalization, registering a remarkable 13.5% gain. This surge is part of a broader rally that has seen the FTM price soar by 180% over the last four weeks, propelling it from $0.42 to $1.20. This upward trajectory has significantly boosted Fantom&#8217;s market capitalization to $3.3 billion, positioning it as the 41st largest digital asset worldwide. Here&#8217;s why this might be just the beginning:</p>
+<h2>#1 Sonic Upgrade: The Catalyst for Fantom&#8217;s Rally</h2>
+<p>The anticipated Sonic upgrade is central to Fantom&#8217;s recent success. Designed to enhance the Fantom technology stack, Sonic introduces major scalability improvements without necessitating a disruptive <a href="https://www.newsbtc.com/news/now-that-optimism-bedrock-hard-fork-is-done-what-can-we-expect/" rel="noopener " target="_blank">hard fork</a>. Key components of the <a href="https://twitter.com/QuickNode/status/1769749849099174122" rel="noopener nofollow" target="_blank">Sonic upgrade</a> include:</p>
+<ul>
+<li><strong>Fantom Virtual Machine (FVM): </strong>Aims to significantly boost transaction throughput.</li>
+<li><strong>Carmen Database: </strong>Promises to reduce storage requirements by up to 90%.</li>
+<li><strong>Optimized Lachesis Consensus: </strong>Improves upon the existing consensus mechanism for enhanced performance.</li>
+</ul>
+<p>With these enhancements, Fantom targets a throughput of over 2,000 transactions per second (TPS), marking a substantial leap in scalability. Importantly, the upgrade ensures that existing Fantom Opera smart contracts and tools remain fully compatible with the Sonic mainnet, which is scheduled to launch in Spring 2024.</p>
+
+<p>Recent testnets have demonstrated Sonic&#8217;s potential. The closed testnet, focused on ERC-20 swaps, achieved an impressive ~4,000 TPS with ~1.3-second finality. Furthermore, a reconfiguration to process only ERC-20 transfers led to a groundbreaking ~10,000 TPS at ~1.6-second finality, showcasing the capabilities of next-generation decentralized exchanges (DEXs) and wallets.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">10k tps achieved. Publicly verifiable. Can test for yourself, on public infrastructure. No need for &quot;trust me bro&quot;. Available today, no need to wait. And we havent even started with the parallel execution meme. <a href="https://t.co/q2QRKM9WXe" rel="nofollow">https://t.co/q2QRKM9WXe</a></p>
+<p>&mdash; Andre Cronje (@AndreCronjeTech) <a href="https://twitter.com/AndreCronjeTech/status/1768688491225837764?ref_src=twsrc%5Etfw" rel="nofollow">March 15, 2024</a></p></blockquote>
+<p></p>
+<p>Reflecting on Sonic&#8217;s impact, Reflexivity Research <a href="https://twitter.com/FantomFDN/status/1770851499314188683" rel="noopener nofollow" target="_blank">highlighted</a>, &#8220;Fantom Sonic unlocks new possibilities for the Fantom ecosystem, particularly in decentralized finance (DeFi) platforms, <a href="https://www.newsbtc.com/web3/what-is-web3-gaming-top-web3-games-companies/" rel="noopener " target="_blank">blockchain games</a>, high-frequency applications, and the Internet of Things (IoT).&#8221;</p>
+<p>The research firm added that another cornerstone for Fantom is its exemplary 99.9% uptime. “Fantom&#8217;s novel solutions position it as a frontrunner in the development of decentralized networks,” Reflexivity Research stated.</p>
+#2 Andre Cronje: The Innovator&#8217;s Promise
+<p>Andre Cronje, the founder of Fantom and one of the brightest minds in the crypto industry, has been instrumental in driving innovation within the ecosystem. Cronje recently underscored his commitment to advancing the crypto space, <a href="https://twitter.com/AndreCronjeTech/status/1770821896671510803" rel="noopener nofollow" target="_blank">stating</a>, &#8220;The number 1 dex on <a href="https://www.newsbtc.com/news/crypto-analyst-base-next-memecoin-hotspot-top-8/" rel="noopener " target="_blank">Base</a>, and the number 1 dex on Optimism are both built with code I wrote and pioneered. Stick to where the innovators are, post Sonic I will be adding some new primitives to crypto.&#8221;</p>
+
+#3 Coinbase Announcement: A New Milestone
+<p>Another factor driving today’s price rally is probably today’s Coinbase International announcement that it will launch Fantom perpetual futures on Coinbase International Exchange and Coinbase Advanced, set to commence on or after 9:30am UTC on March 28, 2024. This move by Coinbase is expected to further enhance Fantom&#8217;s liquidity and accessibility, contributing to its growing appeal among investors.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en"><a href="https://twitter.com/CoinbaseIntExch?ref_src=twsrc%5Etfw" rel="nofollow">@CoinbaseIntExch</a> will add support for Fantom and THORChain perpetual futures on Coinbase International Exchange and Coinbase Advanced. The opening of our FTM-PERP and RUNE-PERP markets will begin on or after 9:30am UTC on 28 MAR 2024. <a href="https://t.co/CHBVF58ISc" rel="nofollow">pic.twitter.com/CHBVF58ISc</a></p>
+<p>&mdash; Coinbase International Exchange <img alt="🛡" class="wp-smiley" src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f6e1.png" style="height: 1em;" /> (@CoinbaseIntExch) <a href="https://twitter.com/CoinbaseIntExch/status/1770842554231292035?ref_src=twsrc%5Etfw" rel="nofollow">March 21, 2024</a></p></blockquote>
+<p></p>
+#4 Technical Analysis: FTM/USD
+<p>The bullish momentum of Fantom price is apparent in the weekly FTM/USD chart on Binance, signified by the latest candlestick closure above the key exponential moving averages (EMAs) of 20, 50, 100, and 200 periods. This week&#8217;s candlestick represents a notable increase of approximately 50% from the intra-week low.</p>
+<p>Fantom&#8217;s ascent has propelled its value beyond the 0.382 Fibonacci retracement level, situated at $0.9176. This bullish breakout suggests the market may target subsequent Fibonacci levels, with $1.38 (0.382 Fib) acting as an intermediate psychological and technical resistance, followed by $1.76 (05 Fib), and potentially extending towards the golden ratio at $2.13, which corresponds with the 0.618 Fibonacci level.</p>
+<p>On the flip side of this bullish scenario, should a correction occur across the broader crypto market, immediate support for FTM can be anticipated at the $0.92 level. Stability at or above this threshold could reaffirm bullish market control. Conversely, a downward breach could intensify selling pressure, possibly leading to a retest of support around the $0.56 mark.</p>
+<img alt="Fantom FTM price" class="wp-image-599205 size-full" height="1673" src="https://www.newsbtc.com/wp-content/uploads/2024/03/FTMUSD_2024-03-22_13-03-36.png?resize=3628%2C1673" width="3628" />
+]]></content:encoded>
+<pubDate>Fri, 22 Mar 2024 15:00:21 +0000</pubDate>
+<pubDate>Fri, 22 Mar 2024 15:00:21 +0000</pubDate>
+</item>
 
 <item>
 <title>Bitcoin Spot ETFs See 4 Consecutive Days Of Outflows, Here’s What Happened Last Time</title>
