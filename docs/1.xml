@@ -4,6 +4,88 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>Ultiverse项目速览：顶级机构加持的AI+链游</title>
+<link>https://www.panewslab.com/zh/articledetails/bs0g538q9ncr.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/bs0g538q9ncr.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了Ultiverse项目，一个基于区块链和AI的元宇宙世界。Ultiverse拥有强大的基础设施和核心资产，以及多样化的Dapp。团队拥有优秀的投资背景和合作伙伴关系。同时，Ultiverse的代币经济模型和使用案例也得到了充分的解释。Ultiverse在web3游戏领域的发展前景引人注目。 <div>
+<h3>引言</h3>
+<p>Web3游戏一直是Mint Ventures密切关注的赛道。尽管上一轮牛市所带来的Play 2 Earn概念已经不再有人提起，目前来看，Axie和StepN都作为旁氏轰轰烈烈地倒下了，但是他们高峰时期所拥有的百万级别且极具粘性的日活数据，是Crypto行业第一次如此近的接触“Massive Adoption”。相比于另一个有Massive Adoption可能性的社交产品类别，游戏天然具备更丰富庞杂的经济生态，团队也具备更加精细的调控空间从多个角度抽税，叠加游戏本身可以带来的体验感和基于精妙设计的的非理性消费，从而更加有可能长时间维持生态的相对平衡。此外web3游戏还能够更有效地利用Crypto所能带来的便利的资产化途径，也就使得投资人们普遍看好web3游戏的前景。</p>
+<p>自Axie和StepN以来，web3游戏又有如下<strong>天时地利</strong>：</p>
+<ul>
+<li><strong>基础设施的进一步完善</strong>。在2024年的今天，游戏项目方在链的选择上有了更加丰富的选择：不论是直接基于现有的L1（如Solana）或者L2（如Arbitrum），还是使用L1或L2提供的一键发链服务（如Avalanche子网和OP Stack），又或者顺应模块化潮流自由组合，游戏开发者都可以有很多高性能低费用的选择。在钱包方面，MPC和AA钱包的方案都已足以商用，令普通用户头痛的私钥问题得以解决。</li>
+<li>市场行情逐步好转，近期BTC ETF的通过带来加密市场总体的强劲反弹，使得<strong>Crypto整体又开始吸引更多普罗大众的注意力</strong>，对于游戏而言，则提供了更大的潜在用户群。</li>
+</ul>
+<p>而相比传统的Web2游戏，Web3游戏仍然具备非常明显的优势：</p>
+<ul>
+<li>web3游戏典型的“NFT销售-FT发行-游戏上线”生命周期中，在游戏上线之前就有NFT版税、FT交易费收入等诸多收入来源，帮助游戏团队可以从游戏开发的第一天就获得收入，可以抵消漫长研发周期和不菲的研发成本。同时在游戏上线之后，在游戏各个环节的抽税也远比web2游戏灵活。<strong>更早期、更多样的商业化选择是吸引游戏团队进入</strong><strong>web3</strong><strong>的关键因素。</strong></li>
+<li><strong>web3游戏尚未有话语权强的渠道方</strong>，这也意味着web2游戏高昂的买量成本在web3游戏中并不存在。换句话说，web3游戏并不“卷”，一片蛮荒等待有能力的团队来开拓。</li>
+</ul>
+<p>我们也看到诸多有经验的游戏开发团队开始进入web3游戏，他们正在构建一大批叙事优秀、体验良好、可玩性强的游戏，web3游戏的供给侧得到长足发展，这也构成了web3游戏的<strong>人和。</strong></p>
+<p>基于上述原因，Mint Ventures一直持续关注游戏赛道。Ultiverse是Mint Ventures从此前的市场熊市阶段就持续关注的游戏项目，他们在熊市中持续建设，产品矩阵不断丰富，积极拓展产品所包含的叙事，同时具备优秀的投资背景，近期又推出了多个旨在吸引新用户的空投活动，值得保持关注。</p>
+<p><strong>利益相关：Mint Ventures 参与了 Ultiverse ElectricSheep</strong><strong>NFT</strong><strong>的Builder Round铸造，并仍然持有ElectricSheep NFT</strong></p>
+<h3><span id="Ultiverse%E4%BB%8B%E7%BB%8D"></span>Ultiverse介绍</h3>
+<p>Ultiverse是一个以区块链为基础的元宇宙世界，并与AI深度集成。其架构共分为4层：</p>
+<p><img alt="Ultiverse项目速览：顶级机构加持的AI+链游" src="https://cdn-img.panewslab.com/panews/images/51BDr9ZVhs.PNG" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>协议层</strong>：Ultiverse以菩提协议（Bodhi Protocol）作为整个生态的基础，根据官网文档信息，Bodhi Protocol使用大语言模型和Stable Diffusion模型来生成游戏内的多种内容，使用AI来帮助生态内的各个相关方，比如帮助游戏生成更智能的NPC，帮助生成丰富的背景内容等等。</p>
+<p><strong>基础设施</strong>：Ultiverse将游戏需要的一系列基础设施都抽象成了SDK，后续可供其他的开发者使用。这些基础设施包括MPC钱包和AA钱包、内置交易市场和DID系统等。除此以外，其面向用户的直播平台Ultiverse Live在Binance live获得了35万粉丝的关注，以及近4000万的点赞，也可以对其合作方带来不小的曝光；Ultiverse的基础设施还包括自己建立的任务平台Misson Runner。</p>
+<p><strong>核心资产</strong>：Ultiverse的核心资产目前包括Electric Sheep NFT、Meta GF NFT以及World Fragment。</p>
+<p>Electric Sheep NFT是Ultiverse生态的第一个资产，也是其核心资产，数量为7000个，于2022年7月以0.5ETH的价格铸造，目前地板价在 2 ETH附近，为持有者带来了以ETH计价4倍、以USD计价8倍的收益，也帮助构建了其坚实的社区。Electric Sheep可以获得Ultiverse生态内诸多项目的优先访问权和奖励增幅特权，并可以获得Ultiverse治理代币 $ULTC的空投。</p>
+<p><img alt="Ultiverse项目速览：顶级机构加持的AI+链游" src="https://cdn-img.panewslab.com/panews/images/Y5bSKKxK0y.PNG" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre><a href="https://nftgo.io/collection/ultiverse---electric-sheep/overview" rel="nofollow">Electric Sheep的历史地板价变化情况</a></pre>
+<p>Meta GF NFT于2022年底发行，定位为AI伴侣，支持自定义捏脸，可以陪伴玩家在Ultiverse世界探索。</p>
+<p>World Fragment NFT则尚未发行，未来将会空投给Electric Sheep的持有人。根据官方文档中的介绍，玩家可以将世界碎片合成成为世界，持有不同的世界NFT可以在游戏中获得由AI支持的不同的个性化体验，包括不同的故事情节、人物、世界目标和核心冲突等，也就是说，持有不同的NFT可以获得完全不同的游戏体验。</p>
+<p><strong>Dapp</strong>：Dapp在Ultiverse生态内也叫做“微观世界 Micro worlds”，Ultiverse生态内的Dapp可以分为两类：一类是与Ultiverse有合作关系的Dapp，比如此前上线的休闲养成类游戏Meta Merge，以及即将在Blast上线的赛车游戏BAC等。这类生态项目与Ultiverse之间的关系并不仅仅是简单的导流合作，而是信任程度更高的资产互换类的关系，比如Meta Merge就曾经将其代币 $MMM 空投给Electric Sheep持有人，而Meta Merge的NFT也可以获得即将发行的 $ULTC的部分空投。另一类则是Ultiverse自研的Dapp，主要包括在2月底刚刚上线的Ulti-pilot、Terminus、Endless Loop等。</p>
+<p>Terminus已经于3月上线，这是Ultiverse生态内的核心平台，使用UE5引擎构建，包括PC版本和VR版本。根据官方文档介绍，Terminus是一个虚拟世界，与传统的游戏不同，Terminus的NPC都是由高智能的AI所驱动，可以和玩家进行多路径、强反馈性的互动和对话，并且最终可能影响游戏的体验和结果。同时角色也可以由AI驱动，即便玩家下线，其角色也可以持续的进化，从而使得Terminus成为一个永远在线的游戏世界。</p>
+<p><img alt="Ultiverse项目速览：顶级机构加持的AI+链游" src="https://cdn-img.panewslab.com/panews/images/K5o0E9M085.PNG" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>Terminus截图</pre>
+<p>Ulti-pilot于2月上线，是用户体验Ultiverse世界的门户，用户可以派遣自己的角色探索Ultiverse世界，同时可以获得不菲的Soul激励（可用于后续兑换治理代币 $ULTC）</p>
+<p>Endless Loop则是Ultiverse的一款MMORPG游戏，同样由UE5引擎构建。目前游戏尚未上线。</p>
+<p>从产品架构可以看出，Ultiverse并不只是一个游戏，其目标是成为一个AI驱动的元宇宙平台：一方面对接海量的C端用户，另一方面对接web3行业的各种关联方，最终实现其Meta-Fi的构想。</p>
+<p>未来路线图方面，Ultiverse在今年的主要任务就是完整的上线其产品，包括Terminus的PC和VR版本，并引入更多的游戏合作伙伴。他们计划在24年下半年推出Game Launchpad，并上线自己的Rollup，从而更好的服务游戏合作伙伴，实现其Web3游戏平台的构想。</p>
+<h3><span id="%E6%8A%95%E8%B5%84%E8%83%8C%E6%99%AF%E5%8F%8A%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4"></span>投资背景及合作伙伴</h3>
+<p>Ultiverse总计完成了三轮融资，投资阵容优秀：</p>
+<p>2022年3月18日，Ultiverse以5000万美元的估值完成 450 万美元种子轮融资。本轮融资由 Binance Labs 和 Defiance Capital 共同领投，三箭资本和 SkyVision Capital 参投。</p>
+<p>2022年3月25日，Binance Labs向Ultiverse 追加投资 500 万美元，投资将以股权收购的形式进行。Binance Labs 的主管 Nicole Zhang 表示，此次投资是为了确保 Binance Labs 对 Ultiverse 团队未来发展方向保有一定发言权。</p>
+<p>2024年2月14日，Ultiverse 以1.5亿美元的估值完成 400 万美元战略轮融资，IDG Capital 领投，Animoca Brands、Polygon Ventures、MorningStar Ventures、Taiko、ZetaChain、Manta Network、DWF Ventures 等参投。除此以外，还有一系列NFT领域的KOL也参与了战略轮，包括Dingaling、Grail.eth、Christian2022.eth、0xSun等。</p>
+<p><img alt="Ultiverse项目速览：顶级机构加持的AI+链游" src="https://cdn-img.panewslab.com/panews/images/YF9QAQ5b68.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre><a href="https://twitter.com/UltiverseDAO/status/1759928248249807079/photo/1" rel="nofollow">Ultiverse的投资方</a></pre>
+<p>总体而言，Ultiverse的投资背景优秀，囊括了行业头部VC、做市商、交易所、公链以及具备不俗影响力的KOL，可以助力Ultiverse的各项发展。</p>
+<p>团队创始人 Frank 毕业于 CMU，是游戏的狂热爱好者。目前团队成员超过200人，团队成员之前曾在 Gameloft、暴雪、育碧、腾讯等游戏大厂认知任职，参与过Elden Ring、Assassin’s Creed和Prince of Persia等知名游戏的开发设计。</p>
+<p>由于目标是成为连接玩家和游戏的平台，Ultiverse的合作伙伴众多，广泛的与游戏生态内的各类项目方以及社区合作。</p>
+<p>比如3月份的Terminus finding your path partners活动就是Ultiverse与公链（Zetachain）、其他游戏（Ainchess）、基础设施服务商（Rpggo、Particle Network）、游戏公会（N9Club、GuildFi）、NFT社区（Weirdo Ghost Gang）等联合推出的。</p>
+<p><img alt="Ultiverse项目速览：顶级机构加持的AI+链游" src="https://cdn-img.panewslab.com/panews/images/PDh54TT5MA.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>来源：https://twitter.com/UltiverseDAO</pre>
+<p>除此以外，Ultiverse刚刚宣布<a href="https://twitter.com/UltiverseDAO/status/1768650484188135576" rel="nofollow">与300多个</a>web2和web3的AI及游戏团队达成了合作关系，基本囊括了所有的头部web3游戏，有助于实现其游戏平台的构想。</p>
+<p><img alt="Ultiverse项目速览：顶级机构加持的AI+链游" src="https://cdn-img.panewslab.com/panews/images/4M7TH6BdT6.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h3><span id="%E4%BB%A3%E5%B8%81%E7%BB%8F%E6%B5%8E"></span>代币经济</h3>
+<p>Ultiverse已经公布了其治理代币 $ULTC 的用例和经济模型：</p>
+<p><img alt="Ultiverse项目速览：顶级机构加持的AI+链游" src="https://cdn-img.panewslab.com/panews/images/oZCTY4P5rG.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>在Ultiverse生态中， $ULTC主要有如下三个作用：</p>
+<ul>
+<li>治理</li>
+<li>Dapp如果想要进入Ultiverse生态，需要支付 $ULTC，这些ULTC中的一部分会给到用户</li>
+<li>$ULTC是Ultiverse生态中资产的支付手段</li>
+</ul>
+<p>$ULTC总量100亿枚，其分配情况如下图所示：</p>
+<p><img alt="Ultiverse项目速览：顶级机构加持的AI+链游" src="https://cdn-img.panewslab.com/panews/images/35EJy7r7rS.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>来源：https://docs.ultiverse.io/ultiverse-tokenomics/token-structure-overview</pre>
+<p>比较值得注意的是，代币总量的8%将会用于空投，空投范围包括Electric Sheep NFT和MetaGF NFT的持有人、Soul的持有人、以及生态系统内其他资产的持有人。</p>
+<p>Electric Sheep NFT目前地板价2 ETH左右，总市值14000ETH，约合4760万美元左右。倘若我们以Electric Sheep NFT 可以获得2%的 $ULTC来计算，则对应$ULTC的全流通市值为23.8亿美元，这一全流通市值与Binance上一个上线的Game+Ai项目Portal比较接近，估值合理。当然，Electric Sheep NFT除了获得 $ULTC之外，在Ultiverse生态还有诸多其他作用，比如可以获得我们上文提到的World NFT。</p>
+<p>Soul是目前Ultiverse生态内的“积分”，最初可以通过质押Electric Sheep NFT获得，作为对早期持有者的奖励。此前团队曾公布Soul与$ULTC的兑换比例为100:1，在公布了代币经济模型之后，Ultiverse又开始了多个活动来吸引新用户，希望借由Soul助力Ultiverse的品牌推广更进一步，其中2月下旬开始的Ulti-pilot活动，将会释放100亿个Soul（对应1亿枚$ULTC，占总量的1%），吸引了很多用户参与。</p>
+<h3><span id="%E5%B0%8F%E7%BB%93"></span>小结</h3>
+<p>Ultiverse是一个值得关注的项目，主要原因有如下几点：</p>
+<ul>
+<li>web3游戏赛道在本轮周期具备天时地利人和，在牛市周期有望迎来爆发</li>
+<li>Ultiverse团队在熊市期间持续Build，不仅交付了体验不俗的产品，也构建了具有不错凝聚力的社区</li>
+<li>AI在最近一年的快速发展令世界瞩目，Ultiverse在架构的各处都将AI进行了深度整合，在未来当AI+游戏概念得到市场重视时，可能有较好的表现</li>
+<li>投资背景良好</li>
+</ul>
+]]></content:encoded>
+<pubDate>Fri, 22 Mar 2024 11:00:34 +0800</pubDate>
+<pubDate>Fri, 22 Mar 2024 11:00:34 +0800</pubDate>
+</item>
 
 <item>
 <title>Polyhedra：基于ZK技术的跨链巨头</title>
