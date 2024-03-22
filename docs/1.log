@@ -6547,3 +6547,15 @@ Existing_entries: 335
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-22 13:58:33.201322
+------------------------------------------------------
+Started: 2024-03-22 14:13:26.869919
+Existing_entries: 335
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 76
+Summarized using GPT-3.5-turbo-1106
+Append: [行情：比特币短时跌破63000美元](https://www.panewslab.com/zh/sqarticledetails/fklvld2m.html)
+Token length: 814
+Summarized using GPT-3.5-turbo-1106
+Append: [SIMP诞生1日便“归零”，ERC-314社会实验失败了？](https://www.panewslab.com/zh/articledetails/t6q2iboz.html)
+append_entries: 2
+Finish: 2024-03-22 14:13:35.298606
