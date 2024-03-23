@@ -4,6 +4,126 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>以太坊生态跑出的千亿赛道：梳理近期热度较高的质押项目</title>
+<link>https://www.panewslab.com/zh/articledetails/gy7vvxs2.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/gy7vvxs2.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了近期热门的质押项目，包括EigenLayer、Merlin Chain、Blast、ether.fi、Puffer、Renzo、Ethena和Babylon。这些项目在质押赛道中具有不同的特点和优势，如安全性、资金量、机构背书和团队背景。每个项目都有其独特的定位和目标，为用户提供质押、流动性再质押、收益机会等服务。投资机构的背书以及项目的TVL也是考虑参与的重要因素。需要注意项目的背景和风险并做好调研。 <div>
+<p><img alt="以太坊生态跑出的千亿赛道：梳理近期热度较高的质押项目" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/999782a61b65f535e1723133595f53f5.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>作者 | Day</p>
+<p>出品｜白话区块链</p>
+<p>随着以太坊转PoS经过一年多的发展，以太坊链的质押赛道也逐渐衍变成千亿市值的赛道，截止目前，以太坊锁仓量达到4180万枚，占比超35%，而锁仓量的上升，让以太坊上涨变得更加容易。</p>
+<p><img alt="以太坊生态跑出的千亿赛道：梳理近期热度较高的质押项目" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/427683ee200faeb34fc67e2b5780a0cd.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>另外，近期质押相关项目不断冒出，TVL数亿甚至数十亿美元的项目开始出现，像BN、a16z等顶级机构也开始广撒网，进一步导致质押项目扎堆出现，而普通投资者，为了项目方的Airdrop预期，也会积极参与质押。今天，白话来给大家梳理下近期热度较高的一些质押项目。</p>
+<h3>01、加密项目治理Token分发的演进</h3>
+<p>区块链行业发展至今，已经历经好几轮牛熊交替，虽然每轮都会冒出新叙事、新的玩法，但其中却有一些相似的地方。为了更好的理解质押，以及其为什么能火起来，我们先来了解下这个行业出现了哪些资产发行方式：</p>
+<p><strong>区块生产—— 代表项目：比特币、以太坊</strong></p>
+<p>任何人在维护区块链网络安全以及去中心化的同时，获得Token奖励，随着行业的发展，门槛逐渐变高，区块生产也逐渐成为一种产业。</p>
+<p><strong>公开出售 —— 代表项目：EOS、BTT</strong></p>
+<p>最初“简单粗暴”的直接出售筹码，也是随着行业发展，衍生出不同的模式，门槛不断加高，比如需要有项目方指定的Token才能获得资格和筹码。</p>
+<p><strong>流动性挖矿 —— 代表项目：Uniswap</strong></p>
+<p>用户通过提供流动性来获得Token奖励，可以说目前链上交易能有如今的发展，与此机制息息相关。早期很多项目方将其作为筹码分发的主要手段，筹码过于分散，导致Token价格波动极大，很容易出现死亡螺旋，项目直接死掉，目前只是作为交易市场的辅助手段。</p>
+<p><strong>Airdrop —— 代表项目：Uniswap dydx</strong></p>
+<p>根据用户参与应用的不同程度免费分发Token作为奖励，早期区块链用户较少，作为使用其产品一种奖励，现在逐渐发展为吸引用户使用其产品，反向给项目方提供业务数据的一种方式，并且出现了“反撸”这个词。</p>
+<p><strong>铭文 —— 代表项目：ORDI、Sats</strong></p>
+<p>多数项目Token属于100%释放，任何人都可参与，完全处于公平分发，随着整个赛道变热，开始内卷，最大获利方变为比特币矿工。</p>
+<p><strong>质押 （积分）—— 代表项目：friend tech、blast</strong></p>
+<p>质押，只需将主流的加密资产参与质押（增加项目方TVL相关数据），在获得质押收益的同时，可以获得项目方积分（作为后续Token分发凭证），因为Airdrop预期的存在（有机构投资的项目更受欢迎的原因），仅仅只是占用资金，风险相对较小，属于白嫖，并且积分的分发具有即时性的特点，使得大家更乐于参与。</p>
+<p>刚开始时，质押只集中在以太坊的节点质押，只是为了赚取年华收益，但发展到现在，不再局限以太坊那点利息，其他项目也开始模仿，只要有积分拿，项目不错，大家也会适当参与，<strong>目前，积分已经是吸引用户使用其产品的重要手段之一，但对于用户来说就不那么美好了，各种各样的交互任务，存在被项目方持续PUA的可能。</strong></p>
+<p>可以看出，由于区块链的特性，行业内的筹码分发方式，尤其那些短期引领行业发展的方式，是低门槛、易于参与的。</p>
+<h3>02、质押赛道热点项目盘点</h3>
+<p>质押项目，最重要的一点当然是安全性：项目方背景清晰可靠、有机构背书、跑路风险低，不然就变成“你惦记别人利润，别人惦记你本金”。</p>
+<p><strong>目前主要从以下个三个方向来考虑：</strong></p>
+<p><strong>资金量：</strong>当前项目质押资金量多少，资金量大意味着参与人多，相对安全；</p>
+<p><strong>机构背书：</strong>是否有顶级机构加持，有机构加持相对会有一定的保障；</p>
+<p><strong>团队背景：</strong>项目方的成员是否公开，是否做过其他知名项目。</p>
+<ul>
+<li><strong>EigenLayer</strong></li>
+</ul>
+<p>EigenLayer 是一个基于以太坊的 Restake 协议，主要服务包括 LSD 资产的 Restake、节点运营和 AVS 服务(主动验证服务)，旨在提供加密经济中的安全性和奖励机制。它允许用户重新质押原生ETH、LSDETH和LP Token，为第三方项目提供了一个安全的平台，使其能够在享受以太坊主网的安全性的同时获得更多的奖励，总体目标是促进整个生态系统的发展。</p>
+<p><strong>TVL：119亿美元</strong></p>
+<p>据Defillama 数据，截止3月10日，EigenLayer 总 TVL 为 119 亿美元（下图左边红色区域），金库中占比前三的 ETH 及其衍生品分别为：WETH（42.56%）、STETH（31.62%）、SWETH（6.9%），可以看出，EigenLayer质押资产都是与以太坊相关，完全服务于以太坊。</p>
+<p><img alt="以太坊生态跑出的千亿赛道：梳理近期热度较高的质押项目" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/9129c769be3d6c3247902319d77439d3.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>投资机构：</strong></p>
+<p>目前共完成四轮融资，投资机构有a16z、Coinbase Ventures、Polychain Capital等，其中a16z在今年2 月 22 日，向其投资 1 亿美元。</p>
+<ul>
+<li><strong>Merlin Chain</strong></li>
+</ul>
+<p>Merlin Chain是一个整合了ZK-Rollup网络、去中心化预言机和链上BTC防欺诈模块的比特币 L2 解决方案。Merlin Chain的目标是提高比特币交易的效率和可扩展性，使比特币生态系统更加活跃。</p>
+<p>Merlin Chain背后团队是Bitmap Tech，已经成功推出了一系列具有高价值的NFT资产，包括Bitmaps、Goosinals NFT以及BRC-420蓝盒子等比特币NFT，且在去年均有不错的表现。</p>
+<p><strong>投资机构：</strong></p>
+<p>今年2月，Merlin Chain 背后团队Bitmap Tech获得ABCDE、OKX Ventures的投资，具体金额未知。</p>
+<p><strong>TVL：30亿美元</strong></p>
+<p>官推数据显示，截止3月2日，Merlin Chain 主网上线23天，TVL就突破30亿美元，其中Bitcoin占比58%、Ordinals占比33% ，项目方比较注重社区声音以及与比特币生态之间的合作。</p>
+<ul>
+<li><strong>Blast</strong></li>
+</ul>
+<p>Blast是由Blur团队推出的一个基于以太坊的 L2，旨在为用户提供原生收益功能。它是第一个将原生收益纳入其设计的L2网络，让用户的资产在Blast上获得增值。<strong>Blast通过在以太坊上进行质押和实物资产（RWA）协议来产生收益。相比其他L2链上的利率为0%，Blast为存入的ETH提供4%左右的利率。</strong>Blast的目标是让L2网络具备收益能力，用户存入资产后，Blast会定期发放收益。</p>
+<p>Blast主打口号是“可以帮您赚钱的L2网络”。用户将资金存入Blast的L2网络，然后Blast将这笔资金在以太坊的Layer1进行质押，通常是通过Lido进行质押。然后，Blast将获得的利息返回给用户，实现所谓的“赚钱”。<strong>与用户直接使用Lido进行质押相比，使用Blast还可以获得一些额外的Blast积分。</strong></p>
+<p><strong>TVL：28.6亿美元</strong></p>
+<p>官网显示，截止3月9日，Blast TVL 28.6亿美元，总用户数42万。</p>
+<p><strong>投资机构：</strong></p>
+<p>2023年11月Blast 2000 万美元融资，由Paradigm、Lido 战略顾问 Hasu、The Block CEO等参投。</p>
+<ul>
+<li><strong>ether.fi</strong></li>
+</ul>
+<p>ether.fi是一个去中心化的非托管质押协议，用户可以在该平台上质押他们的以太坊（ETH）并获得相应的流动性质押Token（eETH）。这些质押Token可用于参与DeFi活动，并产生额外的收益。<strong>它的主要特点是让质押者可以控制自己的密钥，从而确保了资金的安全。</strong>Ether.fi还创建了一个节点服务市场，允许用户注册节点并提供基础设施服务。这进一步促进了去中心化，增加了质押者和节点运营商的选择和灵活性。近期ETHFI已经发Token，因为孙哥的原因，被大家诟病为大户提款机。</p>
+<p><strong>TVL：22 亿美元</strong></p>
+<p>Defillama 数据显示，截止3月10日，ether.fi TVL 达 22 亿美元。</p>
+<p><strong>投资机构：</strong></p>
+<p>完成2轮融资，总共融资3200 万美元，由Bankless VC、OKX Ventures、Consensys、BitMex 创始人 Arthur Hayes 等参投。</p>
+<ul>
+<li><strong>Puffer</strong></li>
+</ul>
+<p>Puffer是基于EigenLayer构建的无需许可的原生流动性再质押协议，它的目标是为节点运营者（NoOps）、再质押运营者（ReOps）和ETH质押者提供服务。</p>
+<p>在Puffer中，节点运营者扮演着重要角色，他们可以以低成本参与节点验证和AVSs的运行。Puffer采用了独特的抗罚没技术，使得节点能够安全地参与验证过程，并积累PoS奖励。同时，节点还可以通过AVSs的运行获得再质押奖励，增加他们的收益。Puffer的设计旨在提供更加灵活和高效的流动性再质押过程。</p>
+<p><strong>TVL：14亿美元</strong></p>
+<p>据官网数据，截止3月10日，TVL 达 14 亿美元，已产生 80 亿 Puffer 积分、2.4亿 Eigenlayer 积分以及超 3.3% 的综合 APY。</p>
+<p><img alt="以太坊生态跑出的千亿赛道：梳理近期热度较高的质押项目" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/da459e195cac8dd1521c613c6bfcdd05.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>投资机构：</strong></p>
+<p>完成三轮融资，早期获得以太坊基金会的拨款，后由Bankless Ventures、Animoca Venture以及Eigen Layer 创始人、神鱼、Coinbase 质押业务主管等众多KOL参与投资， 今年最新一轮融资由 Binance Lab 投资，Puffer 短期内 TVL 的飙升与Binance Labs 的投资密切相关。</p>
+<ul>
+<li><strong>Renzo</strong></li>
+</ul>
+<p>Renzo是EigenLayer上的原生再质押协议，引入了一种叫做ezETH的流动性再质押Token。用户可以将以太坊或EigenLayer的Token存入Renzo来铸造ezETH Token。这样的操作使用户能够参与流动性再质押，并将ezETH用于其他DeFi协议以获取更多收益。</p>
+<p>Renzo的目标是降低用户参与的门槛，让他们能够轻松地参与EigenLayer生态系统的流动性再质押。</p>
+<p><strong>TVL：9亿美元</strong></p>
+<p>Defillama 数据显示，截止3月10日，Renzo TVL 突破 9 亿美元</p>
+<p><strong>投资机构：</strong></p>
+<p>目前完成两轮融资，由OKX Ventures、Binance Labs等机构参投。</p>
+<ul>
+<li><strong>Ethena</strong></li>
+</ul>
+<p>Ethena是基于以太坊的合成美元（USDe）协议，旨在提供加密原生解决方案，通过Delta对冲和互联网债券等策略来创建稳定的合成美元USDe，并为用户提供收益机会。</p>
+<ul>
+<li>Ethena USDe 通过两种主要策略产生其 USD 价值和收益：</li>
+<li>利用 stETH 及其固有收益；</li>
+<li>采取 ETH 空头头寸以平衡 Delta，并利用永续/期货资金率。</li>
+</ul>
+<p>官网数据显示，目前USDe年年化109%。</p>
+<p><img alt="以太坊生态跑出的千亿赛道：梳理近期热度较高的质押项目" src="https://cdn-img.panewslab.com//panews/2022/3/22/images/75ef1bbac2a15e98fffb35341d6cc2ad.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>TVL：8.5 亿美元</strong></p>
+<p>官网数据显示，截止3月10日，USDe 池 TVL 达 8.5 亿美元</p>
+<p><strong>投资机构：</strong></p>
+<p>完成2轮融资，总融资 2000 万美元，投资机构有Dragonfly、PayPal Ventures、Binance Labs、OKX等。</p>
+<ul>
+<li><strong>Babylon</strong></li>
+</ul>
+<p>Babylon是一个基于Cosmos SDK开发的Layer1，目标是将比特币的安全性扩展到更多的去中心化应用（DApp）和区块链网络。为了实现这一目标，Babylon引入了BTC资产，并允许用户将比特币质押在Babylon网络上，并获得相应的奖励。</p>
+<p><strong>Babylon利用了比特币的一些核心特性来增强安全性：</strong></p>
+<p><strong>首先，它使用比特币的时间戳服务，</strong>确保Babylon网络的时间戳与比特币网络保持同步，提供更高的安全性和可靠性；</p>
+<p><strong>其次，Babylon利用比特币的区块空间，</strong>将比特币的安全性扩展到其他基于权益证明机制的区块链网络，从而形成一个更加统一和强大的生态系统；</p>
+<p><strong>最后，Babylon将比特币作为资产价值的基准，</strong>实现与比特币的互操作性，使得比特币在Babylon网络中的质押和流动性更加便捷。</p>
+<p><strong>前几天测试网刚结束，主网还没上线，所以没有 TVL 相关数据，</strong>但作为比特币生态的质押项目，有 EigenLayer 珠玉在前，所以值得重点关注。</p>
+<p><strong>投资机构：</strong></p>
+<p>目前完成两轮融资，第一轮融资1800万美金，第二轮未知，投资机构有Binance Lab、Polychain Capital、ABCDE Capital、Polygon、OKX Ventures 等。</p>
+<h3>03、小结</h3>
+<p>以上便是质押赛道目前热门项目的盘点，需要注意的是，虽然大多项目有各种光环加持，但并不代表不会携款跑路，所以在参与前还是要注意风险，做好调研。</p>
+]]></content:encoded>
+<pubDate>Sat, 23 Mar 2024 10:30:19 +0800</pubDate>
+<pubDate>Sat, 23 Mar 2024 10:30:19 +0800</pubDate>
+</item>
 
 <item>
 <title>彭博社：Hack VC正在为一支加密基金筹集至少1亿美元</title>
