@@ -4,12 +4,13 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+
 <item>
 <title>苹果芯片被曝安全漏洞，钱包密钥存在泄露可能</title>
 <link>https://www.panewslab.com/zh/articledetails/2yu9wuix.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/2yu9wuix.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是消极的。学术研究人员发现苹果M系列芯片存在新的安全漏洞，允许攻击者窃取密钥。漏洞源自DMP，攻击通过操纵加密算法中的数据以间接泄露密钥信息。这可能对多种加密实现构成威胁，且芯片本身难以修补。缓解措施可能影响性能，尤其对M1和M2系列芯片而言。苹果公司拒绝发表评论，用户和开发者需密切关注未来的更新和缓解措施。Meltdown和Spectre漏洞等先前的事件表明芯片漏洞可能成为设备生产商的大问题。 <div>
+<div> <br /><br />摘要：<br />这些信息是消极的。学术研究人员发现苹果M系列芯片存在新的安全漏洞，允许攻击者窃取密钥。漏洞源自DMP，攻击通过操纵加密算法中的数据以间接泄露密钥信息。这可能对多种加密实现构成威胁，且芯片本身难以修补。缓解措施可能影响性能，尤其对M1和M2系列芯片而言。苹果公司拒绝发表评论，用户和开发者需密切关注未来的更新和缓解措施。Meltdown和Spectre漏洞等先前的事件表明芯片漏洞可能成为设备生产商的大问题。 <div>
 <p>综编：Felix, PANews</p>
 <p>3月21日，学术研究人员称在苹果M系列芯片中发现了一项新的安全漏洞。该漏洞允许攻击者在执行广泛使用的加密操作时从Mac电脑中提取密钥。漏洞无法通过直接修补芯片解决，只能依赖第三方加密软件，但此举或导致性能大幅下降。</p>
 <p>经研究人员测验，该漏洞对多种加密实现构成威胁。目前已从OpenSSL Diffie-Hellman、Go RSA以及CRYSTALS Kyber和Dilithium中提取了密钥。</p>
@@ -32,9 +33,7 @@
 <p>相关阅读：<a href="https://www.panewslab.com/zh/articledetails/1624d8cc.html">比特币“万币候”们如何保管他们的“巨额资产”？</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 23 Mar 2024 14:01:12 +0800</pubDate>
-<pubDate>Sat, 23 Mar 2024 14:01:12 +0800</pubDate>
 </item>
-
 <item>
 <title>昨日比特币现货ETF净流出5160万美元，贝莱德ETF净流入仅为1889万美元续创新低</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/hefpjjsy.html</link>
