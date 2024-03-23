@@ -5,11 +5,23 @@
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
 <item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Polyhedra Network以10亿美元估值完成了2000万美元的战略融资，由Polychain Capital领投，其他投资者包括Animoca Brands、Hashkey Capital、Longhash Ventures等。融资将用于招聘扩大团队规模，提升产品、工程、业务开发和营销等跨职能部门。融资是通过未来代币或SAFT的简单协议进行的，这是他们第五轮融资。Polyhedra Network的团队目前约50人，计划扩大到约80人。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
+
+<item>
 <title>Cosmos + 以太坊：正和最终博弈</title>
 <link>https://mp.weixin.qq.com/s/n2NDwkU2qyFYvbWRIptrWw</link>
 <guid>https://mp.weixin.qq.com/s/n2NDwkU2qyFYvbWRIptrWw</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的<br>在ETHDenver 2044活动上，Noble、Polygon、Union、Movement Labs和0xMuto的创始人讨论了Cosmos和以太坊之间的界限。Cosmos的一致性采取了不同形式，与以太坊保持一致意味着选择技术解决方案。Cosmos的最终目标是允许开发人员构建与其他加密货币互操作的主权应用。Cosmos堆栈允许区块链选择执行环境，解决了启动L1的问题。以太坊可能需要与Cosmos合作以实现互操作性。Cosmos与以太坊的一致性体现在水平扩展和技术上。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的<br />在ETHDenver 2044活动上，Noble、Polygon、Union、Movement Labs和0xMuto的创始人讨论了Cosmos和以太坊之间的界限。Cosmos的一致性采取了不同形式，与以太坊保持一致意味着选择技术解决方案。Cosmos的最终目标是允许开发人员构建与其他加密货币互操作的主权应用。Cosmos堆栈允许区块链选择执行环境，解决了启动L1的问题。以太坊可能需要与Cosmos合作以实现互操作性。Cosmos与以太坊的一致性体现在水平扩展和技术上。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>在 ETHDenver 2044 期间的「融合：Cosmos 和以太坊的碰撞」主题活动上，Noble 联合创始人 Jelena Djuric、Polygon 联合创始人 Sandeep Nailwal、Union 联合创始人 Karel Kubat、Movement Labs 和 0xMuto 联合创始人 Rushi Manche 对  Cosmos 和以太坊之间的界限进行了深入探讨。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/n2NDwkU2qyFYvbWRIptrWw">https://mp.weixin.qq.com/s/n2NDwkU2qyFYvbWRIptrWw</a></p>
 <p><strong>文章作者：</strong></p><p>Sebastien Couture</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Sebastien Couture：</strong>虽然以太坊的一致性问题与其原生资产和理念相悖，但 Cosmos 的一致性采取了不同的形式。由于没有规范的 Gas 代币或中心价值累积机制，链仅在技术意义上与 Cosmos 保持一致。与 Cosmos 一致意味着与堆栈以及与将其绑在一起的工具一致：IBC。Neutron、Stride 和 Aether 等团队在与 Cosmos Hub 保持一致并为 ATOM 积累价值方面处于领先地位。他们的努力代表了对该 Hub 作为潜在安全提供商的乐观探索。尽管该 Hub 在通向长期成功和可持续价值的道路不断发展，但这些举措标志着在实现其巨大潜力方面取得了不错的进展。事实上，Cosmos 一致性似乎意味着选择技术解决方案，而不是帮别人搬行李。对于想要构建协议外的前沿应用来说，几乎没有可行的选择，Cosmos 堆栈是最成熟、最通用的。
@@ -18,21 +30,18 @@
 
 Cosmos 的最终目标是允许开发人员构建与其他加密货币互操作的主权应用。从这个角度来看，以太坊需要 IBC。在拥有数千条链和应用的以 Rollup 为中心的世界中，原子可组合性被打破，互操作性成为加密货币的关键原则。与此同时，Cosmos 需要以太坊，可能还需要比特币来保证安全。Cosmos 堆栈对于利用哪个底层作为安全层链没有意见。Cosmos 与以太坊的一致性体现在水平扩展和技术上优于单链 L1 的模块化堆栈。希望我们能够迈向这样一个未来：区块空间是可替代的，并由通过 IBC 连接的大量验证者来保证安全。</p><a href="https://mp.weixin.qq.com/s/n2NDwkU2qyFYvbWRIptrWw">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-23T06:45:31+00:00</pubDate>
 </item>
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，估值达 10 亿美元。投资方包括 Polychain Capital、Animoca Brands 等，资金将用于团队扩展和业务发展。这些信息是积极的。 <div>
+<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，估值达 10 亿美元。投资方包括 Polychain Capital、Animoca Brands 等，资金将用于团队扩展和业务发展。这些信息是积极的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
-
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
