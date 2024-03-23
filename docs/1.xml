@@ -4,6 +4,36 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>苹果芯片被曝安全漏洞，钱包密钥存在泄露可能</title>
+<link>https://www.panewslab.com/zh/articledetails/2yu9wuix.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/2yu9wuix.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是消极的。学术研究人员发现苹果M系列芯片存在新的安全漏洞，允许攻击者窃取密钥。漏洞源自DMP，攻击通过操纵加密算法中的数据以间接泄露密钥信息。这可能对多种加密实现构成威胁，且芯片本身难以修补。缓解措施可能影响性能，尤其对M1和M2系列芯片而言。苹果公司拒绝发表评论，用户和开发者需密切关注未来的更新和缓解措施。Meltdown和Spectre漏洞等先前的事件表明芯片漏洞可能成为设备生产商的大问题。 <div>
+<p>综编：Felix, PANews</p>
+<p>3月21日，学术研究人员称在苹果M系列芯片中发现了一项新的安全漏洞。该漏洞允许攻击者在执行广泛使用的加密操作时从Mac电脑中提取密钥。漏洞无法通过直接修补芯片解决，只能依赖第三方加密软件，但此举或导致性能大幅下降。</p>
+<p>经研究人员测验，该漏洞对多种加密实现构成威胁。目前已从OpenSSL Diffie-Hellman、Go RSA以及CRYSTALS Kyber和Dilithium中提取了密钥。</p>
+<h3><strong>攻击者可以窃取密钥</strong></h3>
+<p>漏洞源于数据内存依赖预取器（Data Memory-Dependent Prefetcher，简称为DMP），DMP能够预测将要访问的内存地址以提高处理器效率。</p>
+<p>然而，DMP有时会错误地将密钥等敏感数据内容与内存地址指针混淆，攻击者可以通过操纵加密算法中的中间数据，使其在特定输入下看起来像是地址，从而利用DMP的这一特性来间接泄露密钥信息。这种攻击不是立即破解加密密钥。然而，攻击可以重复进行，直到密钥暴露。</p>
+<p>研究人员声称，这种攻击既可以攻击经典的加密算法，也可以攻击最新的量子强化算法。</p>
+<p>至于其有效性，研究人员的测试应用程序能够在不到一个小时的时间内提取2048位的RSA密钥，而提取2048位的Diffie-Hellman密钥只需两个多小时。除去离线处理时间，获取Dilithium-2密钥需要十个小时。</p>
+<h3><strong>苹果芯片自身难以修补</strong></h3>
+<p>这次攻击的主要问题是，因属于其苹果Silicon芯片的核心部分，自身无法修补，只能依赖第三方加密软件增加防御措施。</p>
+<p>问题是，任何缓解措施都将增加执行操作所需的工作负载，进而影响性能，特别是对于M1和M2系列芯片来说，这种性能下降可能更为明显。</p>
+<p>苹果拒绝就此事发表评论。研究人员声称，他们在公开发布报告之前向苹果公司进行了负责任的披露，于2023年12月5日通知了该公司。</p>
+<p>用户和软件开发人员可能需要密切关注 macOS 和其他操作系统中与此漏洞相关的未来Apple更新和缓解措施。</p>
+<h3><strong>芯片漏洞屡屡被曝</strong></h3>
+<p>值得一提的是，此前一些研究人员在2022年就指出苹果芯片的DMP存在一个名为“Augury ”的漏洞。当时，所谓的Augury漏洞并未被认为会构成重大威胁”。</p>
+<p>此外，麻省理工学院的研究人员在2022年发现了一个名为“PACMAN”的无法修复的漏洞，该漏洞利用指针身份验证过程创建了旁路攻击。</p>
+<p>芯片漏洞对设备生产商来说可能是一个大问题，特别是不得不对操作系统和软件进行更改。</p>
+<p>2018年，Meltdown和Spectre芯片被发现漏洞，影响了所有Mac和iOS设备，以及自1997年以来生产的几乎所有X86设备。这些安全漏洞依赖于“推测性执行”，即芯片可以通过同时处理多条指令，甚至无序处理来提高速度。</p>
+<p>参考：<a href="https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/" rel="nofollow">Ars Technica</a>、<a href="https://appleinsider.com/articles/24/03/21/apple-silicon-vulnerability-leaks-encryption-keys-and-cant-be-patched-easily" rel="nofollow">Appleinsider</a></p>
+<p>相关阅读：<a href="https://www.panewslab.com/zh/articledetails/1624d8cc.html">比特币“万币候”们如何保管他们的“巨额资产”？</a></p>
+]]></content:encoded>
+<pubDate>Sat, 23 Mar 2024 14:01:12 +0800</pubDate>
+<pubDate>Sat, 23 Mar 2024 14:01:12 +0800</pubDate>
+</item>
 
 <item>
 <title>昨日比特币现货ETF净流出5160万美元，贝莱德ETF净流入仅为1889万美元续创新低</title>
