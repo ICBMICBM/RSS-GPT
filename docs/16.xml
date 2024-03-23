@@ -5,17 +5,44 @@
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
 <item>
+<title>对话 Arweave 核心贡献者兼 everVision 首席执行官：漫谈以太坊，比特币和 Arweave 的未来分工</title>
+<link>https://www.techflowpost.com/article/detail_16964.html</link>
+<guid>https://www.techflowpost.com/article/detail_16964.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>outprog.ar认为，AO可以解决应用间通信问题，并建立完全去中心化的分布式计算网络。Arweave和AO的设计与以太坊有所不同，Arweave专注于全球性的存储硬盘。对于AI在去中心化领域的应用，将数据和计算转移到链下，并利用类似Arweave的永久存储解决方案，可以实现产业链上下游的无缝对接，确保高价值数据的永久保存。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>深潮 TechFlow 对话 everVision 首席执行官 outprog.ar，针对 Arweave 和 AO 的组合和以太坊之间的区别、SCP（存储共识范式）、AI 和区块链的结合及 Arweave 和 Filecoin 之间的区别进行了共同探讨。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.techflowpost.com/article/detail_16964.html">https://www.techflowpost.com/article/detail_16964.html</a></p>
+<p><strong>文章作者：</strong></p><p>深潮 TechFlow</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>outprog.ar：</strong>AO 的初衷实际上是为了解决应用间通信的问题。AO 不仅能解决 SCP 应用之间的通信问题，而且它还是一个全球性的、混合型的超级并行计算机。我们原有的 SCP 应用，如我们的 everPay 和 WARP，都将被改造成为这个超级计算机中的一个线程或进程，使我们能在这套系统中实现相互通信和可信计算。另外，AO 的最初设计虽然是为了解决通信问题，但实际上它能够建立一个完全去中心化的分布式计算网络。在这个网络中，无论是用户、机器人还是其他程序，都可以请求其他线程进行计算，仿佛是让多个计算单元为程序提供算力。因此，我们可以认为 AO 真正实现了一个全能计算机，这与以太坊只能通过 EVM 进行链上计算的局限性形成对比。在 AO 体系下，所有的计算资源都是分散且全球化的。我们可以将计算任务外包给任何计算单元或部分计算单元完成。
+
+首先，Arweave 配合 AO 和以太坊之间最主要的区别在于以太坊将磁盘（硬盘）与计算集成在一起，这意味着以太坊的虚拟机（EVM）同时包含计算单元（CPU）和存储。当然，最近的 ConsenSys 升级可能对存储部分进行了一些裁剪，但这是另一个话题。至于 Arweave 和 AO，它们在设计之初就是分离的。从一开始，Sam 在设计 Arweave 时并未考虑任何计算功能。我们的目标仅是创建一个完全去中心化的、全球性的存储硬盘。如果用区块链行业内广为人知的术语来描述，这种模式实际上是一种模块化区块链。虽然模块化区块链的概念可能源自以太坊生态，Arweave 并没有直接提出模块化区块链，但从 SCP 的架构出发，我们的设计可以被视为模块化区块链的终极形态。
+
+对于 AI 在去中心化领域的应用来说，整个产业链的去中心化是必须的，这包括从数据生成到数据消费的全过程。目前很多 AI 项目可能采用了以太坊或其他 EVM 兼容的区块链来处理数据的生成和训练分布，例如让 100 或 1000 个用户加入进行数据训练，并将一些过程记录在以太坊上。然而，这些项目往往忽略了数据消费层面，用户无法通过以太坊来消费 AI 服务，因为链上消费支付的成本过高。这导致了生产和消费之间的脱节，即便是产生了共识的数据，也无法让消费者在智能合约中消费这些数据，从而实现产业链上下游的价值流通。我认为，这是一个巨大的挑战。但是，如果转向 Arweave 或链下计算模式，或者利用一种永久的存储硬盘，所有人的工作和训练，包括算法等，都可以在这个硬盘上形成共识。消费者也能直接调用这些计算单元来获取计算结果或 AI 输出，从而实现整个产业链的无缝对接。因此，我相信，要实现这样的模式，不仅需要将计算转移到链下，还需要借助像 Arweave 这样的存储作为共识的基础设施。AI 依赖的数据的正确性和质量至关重要，这些高价值的数据需要被永久保存。</p><a href="https://www.techflowpost.com/article/detail_16964.html">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-23T05:01:45+00:00</pubDate>
+</item>
+<item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Polyhedra Network 完成了 2000 万美元的战略融资，估值达到 10 亿美元。Polychain Capital 领投，其他投资方包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。融资将用于团队扩大到约 80 人，招聘产品、工程、业务开发和营销人员。这是该公司第五轮融资，都通过未来代币或SAFT协议进行。 <div>
+<div> <br><br>摘要：<br>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，估值达到 10 亿美元，Polychain Capital 领投，其他投资方包括 Animoca Brands、Hashkey Capital、Longhash Ventures 等。融资将用于团队扩大到约 80 人，招聘跨职能部门人才。此前，公司已进行过四轮融资，都采用未来代币或 SAFT 协议。<br><br>这些信息是积极的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
 
+<item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
+<content:encoded><![CDATA[
+<div> <br /><br />摘要：<br />这些信息是积极的。Polyhedra Network 完成了 2000 万美元的战略融资，估值达到 10 亿美元。Polychain Capital 领投，其他投资方包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。融资将用于团队扩大到约 80 人，招聘产品、工程、业务开发和营销人员。这是该公司第五轮融资，都通过未来代币或SAFT协议进行。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
