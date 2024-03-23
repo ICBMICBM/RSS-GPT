@@ -5,11 +5,48 @@
 <link>https://bitcoinist.com</link>
 
 <item>
+<title>Is Your Crypto Safe? Trezor Addresses Concerns Over Hack, Claims “Sophisticated Phishing Scam”</title>
+<link>https://bitcoinist.com/is-your-crypto-safe-trezor-addresses-concerns-over-hack-claims-sophisticated-phishing-scam/</link>
+<guid>https://bitcoinist.com/is-your-crypto-safe-trezor-addresses-concerns-over-hack-claims-sophisticated-phishing-scam/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：这些信息是消极的。<br>3月19日，Trezor的社交媒体账户遭受了黑客攻击，暴露了20万关注者，引发了一场虚假加密货币预售骗局。黑客利用精心设计的网络钓鱼攻击窃取了8000美元价值的加密资产。Trezor公司表示他们的安全措施仍然牢固，而事件的发生是由于一场精心策划的网络钓鱼攻击。虽然攻击者企图进行大规模盗窃，但由于加密社区的监控和误操作的特点，被成功阻止。 <div>
+<p style="font-weight: 400;">On March 19, Trezor’s X suffered a <a href="https://bitcoinist.com/trezor-alerts-66000-users-to-risk-of-phishing/" rel="noopener " target="_blank">security breach</a> that exposed the account’s 200,000 followers to a fake crypto presale. After the alarms were raised, most crypto users stayed vigilant while the hardware wallet company regained control.</p>
+<p style="font-weight: 400;">Trezor’s team recently published a preliminary report addressing the concerns. The post also explained the elaborate phishing scam that bypassed the company’s security measures.</p>
+
+<h2 style="font-weight: 400;">Is Trezor’s “Unwavering Security” Still Protecting Your Crypto?</h2>
+<p style="font-weight: 400;">After gaining control of the account, the hacker <a href="https://twitter.com/zachxbt/status/1770225097552363795?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1770225097552363795%7Ctwgr%5Ed4397b1156b69bcb1b5b5db472759fc1be8caf10%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.newsbtc.com%2Fnews%2Ftrezor-x-account-hacked-how-much-was-taken-in-the-fake-crypto-presale%2F" rel="noopener nofollow" target="_blank">posted</a> a fake presale address for a $TRZR token. Disguised as an “initiative” to help the Slerf community, the post offered a “separate bonus airdrop” from a website linked in the post that redirected to a wallet drainer.</p>
+<p style="font-weight: 400;">After Trezor regained control of the account, X users expressed their worries about the incident and suggested that the hack was a “bad look” on the security-focused company. However, the company guaranteed that they had “robust security measures.”</p>
+<blockquote><p>We want to clarify that we do not make use of SMS for 2FA, and instead employ more secure methods of authentication.</p></blockquote>
+<p style="font-weight: 400;">The company finally <a href="https://blog.trezor.io/update-addressing-concerns-around-our-recent-x-twitter-account-breach-a888bc349007" rel="noopener nofollow" target="_blank">addressed</a> users’ concerns in a preliminary report. The hack is possible due to a “sophisticated phishing scam” instead of a lack of basic security measures.</p>
+<p style="font-weight: 400;">The company is based on “unwavering security,” the post states; as such, all products and internal systems remain unaffected despite the breach.</p>
+<p><img alt="Trezor, crypto hack" class="size-large wp-image-288963 aligncenter" height="225" src="https://bitcoinist.com/wp-content/uploads/2024/03/Captura-de-Pantalla-2024-03-22-a-las-11.55.14-a.-m.png?w=980&#038;resize=980%2C225" width="980" /></p>
+
+<h2 style="font-weight: 400;">Sophisticated Phishing Scam Steals Pocket Change</h2>
+<p style="font-weight: 400;">According to Trezor, the ongoing investigation has revealed that “the breach appears to have arisen from a sophisticated and calculated phishing attack that was in the works for weeks.”</p>
+<p style="font-weight: 400;">The <a href="https://bitcoinist.com/over-2-6m-stolen-in-phishing-scam-involving-top-crypto-trader/" rel="noopener " target="_blank">calculated scheme</a> began on February 29 after the attacker posed for a “credible entity” from the crypto industry. At the time of writing, the identity of the impersonated figure was not revealed.</p>
+<p style="font-weight: 400;">The attacker contacted Trezor’s PR team through X using a “well-crafted social media presence.” The seemingly genuine contact aimed to schedule an interview with the company’s CEO.</p>
+<p style="font-weight: 400;">According to the report, the attacker and the team had a back-and-forth conversation over several days, which made the efforts to stage a call seem more credible. However, the call agreement led to the click of the link that granted access to Trezor’s X account.</p>
+<p style="font-weight: 400;">The malicious link was disguised as a Calendly invite that, upon clicking, redirected a Trezor’s team member to a page requesting the X login credentials. The team rescheduled the call as the incident raised red flags.</p>
+<p style="font-weight: 400;">During the rescheduled call, the attacker pretended to have technical issues and urged Trezor’s team member “to ‘authorize’ joining the call.” This authorization connected the hacker’s Calendly app with the company’s <a href="https://bitcoinist.com/microstrategy-x-account-hacked/" rel="noopener " target="_blank">X account</a>. As a result, the attacker gained access to the account and published the now-deleted posts.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">he got a whopping 0.96 Solana as well <a href="https://t.co/zqHjxM8EOI" rel="nofollow" target="_blank">pic.twitter.com/zqHjxM8EOI</a></p>
+<p>&mdash; xc (@Theft) <a href="https://twitter.com/Theft/status/1770237549547802922?ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">March 19, 2024</a></p></blockquote>
+<p></p>
+<p style="font-weight: 400;">The hacker only stole $8,100 from the malicious link redirecting to the wallet drainer.  Impressively, just 0.96 SOL (around $162,4 at writing time’s pricing) were sent to the fake presale address.</p>
+<p style="font-weight: 400;">Undoubtedly, the attack was a calculated and elaborate scheme that aimed to become a big heist. However, the hacker’s attempt was halted by the crypto community surveillance and the suspicious nature of the unauthorized posts.</p>
+
+<p><img alt="BTC,BTCUSDT, crypto scam, trezor" class="size-large wp-image-288958 aligncenter" height="493" src="https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSDT_2024-03-22_11-21-07.png?w=980&#038;resize=980%2C493" width="980" /></p>
+]]></content:encoded>
+<pubDate>Sat, 23 Mar 2024 01:00:10 +0000</pubDate>
+<pubDate>Sat, 23 Mar 2024 01:00:10 +0000</pubDate>
+</item>
+
+<item>
 <title>Spot Bitcoin ETF Issuer WisdomTree Receives Approval For Crypto App Launch In New York</title>
 <link>https://bitcoinist.com/wisdomtree-receives-approval-for-crypto-app-launch/</link>
 <guid>https://bitcoinist.com/wisdomtree-receives-approval-for-crypto-app-launch/</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。WisdomTree获得了纽约州金融服务部（NYDFS）的信托公司特许经营权，允许其提供数字资产的托管服务，并发行和交易DFS批准的稳定币。该公司计划在纽约推出数字资产应用程序，并提供金币和美元币等产品。该特许经营权使WisdomTree能够提供符合最高合规标准的数字化产品和服务。他们也计划在未来在传统金融和区块链技术领域发挥重要作用。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。WisdomTree获得了纽约州金融服务部（NYDFS）的信托公司特许经营权，允许其提供数字资产的托管服务，并发行和交易DFS批准的稳定币。该公司计划在纽约推出数字资产应用程序，并提供金币和美元币等产品。该特许经营权使WisdomTree能够提供符合最高合规标准的数字化产品和服务。他们也计划在未来在传统金融和区块链技术领域发挥重要作用。 <div>
 <p>In a significant development, spot Bitcoin exchange-traded fund (ETF) manager WisdomTree, <a href="https://www.businesswire.com/news/home/20240322928015/en/WisdomTree-Granted-Trust-Company-Charter-by-New-York-State-Department-of-Financial-Services-DFS-WisdomTree-Prime" rel="noopener nofollow" target="_blank">has been granted</a> a trust company charter by the New York State Department of Financial Services (NYDFS), marking another regulatory victory for the company following its <a href="https://bitcoinist.com/breaking-spot-bitcoin-etfs-approved-by-us-sec/" rel="noopener " target="_blank">ETF approval</a> by the US Securities and Exchange Commission on January 10. </p>
 <p>This regulatory win allows the company to operate as a limited-purpose trust company under the New York Banking Law, clearing the path for the asset manager to launch its highly anticipated crypto app in New York.</p>
 <h2>WisdomTree Receives NYDFS Trust Company Charter</h2>
@@ -30,9 +67,7 @@
 <p>Featured image from Shutterstock, chart from TradingView.com </p>
 ]]></content:encoded>
 <pubDate>Sat, 23 Mar 2024 00:00:32 +0000</pubDate>
-<pubDate>Sat, 23 Mar 2024 00:00:32 +0000</pubDate>
 </item>
-
 <item>
 <title>Will Shiba Inu Outperform Dogecoin In 2024 As The Top Meme Coin?</title>
 <link>https://bitcoinist.com/shiba-inu-outperform-dogecoin/</link>
