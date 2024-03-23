@@ -6447,3 +6447,12 @@ Existing_entries: 104
 Fetching from https://www.newsbtc.com/feed
 append_entries: 0
 Finish: 2024-03-23 14:31:10.508473
+------------------------------------------------------
+Started: 2024-03-23 14:38:36.921836
+Existing_entries: 104
+Fetching from https://www.newsbtc.com/feed
+Token length: 2233
+Summarized using GPT-3.5-turbo-1106
+Append: [Ethereum Drops Below The 100-Day Moving Average – What’s Next?](https://www.newsbtc.com/news/ethereum/ethereum-drops-below-the-100-day-moving-average-whats-next/)
+append_entries: 1
+Finish: 2024-03-23 14:38:39.795152
