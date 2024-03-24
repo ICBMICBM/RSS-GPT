@@ -8212,3 +8212,21 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [深度解读Solana：像Apple，但又不同于Apple](https://www.panewslab.com/zh/articledetails/4dnlr9e3.html)
 append_entries: 1
 Finish: 2024-03-23 23:54:44.309287
+------------------------------------------------------
+Started: 2024-03-24 00:39:23.876951
+Existing_entries: 369
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 11874
+Summarized using GPT-3.5-turbo-1106
+Append: [黄仁勋对话Transformer论文七大作者：我们被困在原始模型里，还需要更强大的新架构](https://www.panewslab.com/zh/articledetails/17yghhlu.html)
+Token length: 104
+Summarized using GPT-3.5-turbo-1106
+Append: [自1月11日以来，灰度已将266,470枚转出用于GBTC赎回](https://www.panewslab.com/zh/sqarticledetails/0hzd285a.html)
+Token length: 109
+Summarized using GPT-3.5-turbo-1106
+Append: [Ether.fi：第二季空投将于3月15日上线，占供应量的5%](https://www.panewslab.com/zh/sqarticledetails/inlbc410.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [深度解读Solana：像Apple，但又不同于Apple](https://www.panewslab.com/zh/articledetails/4dnlr9e3.html)
+append_entries: 4
+Finish: 2024-03-24 00:39:34.380368
