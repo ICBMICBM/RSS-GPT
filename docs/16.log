@@ -10483,3 +10483,33 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Smart Layer：以 token 和用户为中心的未来](https://mp.weixin.qq.com/s/sn6AcY-0TN-wigVBi-f2TQ)
 append_entries: 7
 Finish: 2024-03-24 22:47:30.488380
+------------------------------------------------------
+Started: 2024-03-24 22:54:27.143340
+Existing_entries: 1007
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 740
+Summarized using GPT-3.5-turbo-1106
+Append: [坎昆之后的以太坊怎么看？一文梳理社区观点](https://www.theblockbeats.info/news/51877)
+Token length: 750
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文】「Beyond the Block」 MEV 研究日演讲内容回顾：求解器、交易供应链、MEV Boost 拍卖......](https://twitter.com/0xArnav/status/1768302236503859704)
+Token length: 882
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文长推】Variant 合伙人 Li Jin：消费者加密应用未来之路](https://twitter.com/ljin18/status/1767978929569358251)
+Token length: 406
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文】Solana 深度剖析：重塑叙事框架](https://twitter.com/kelxyz_/status/1673725589876797441)
+Token length: 1228
+Summarized using GPT-3.5-turbo-1106
+Append: [对话 Cycle Network：全链应用、链抽象和基础设施发展方向](https://substack.chainfeeds.xyz/p/cycle-network)
+Token length: 1385
+Summarized using GPT-3.5-turbo-1106
+Append: [Celestia 创始人：百日上线续写 DA 华章](https://mp.weixin.qq.com/s/KsjAg-ccQ8FRVVwnnEaOOw)
+Token length: 1704
+Summarized using GPT-3.5-turbo-1106
+Append: [技术解析 Particle Chain：如何帮 Merlin 达成 40 亿美元 TVL？](https://mp.weixin.qq.com/s/DCMJK1CmgV02WCfMdNcnOg)
+Token length: 266
+Summarized using GPT-3.5-turbo-1106
+Append: [ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round )
+append_entries: 8
+Finish: 2024-03-24 22:55:02.487734

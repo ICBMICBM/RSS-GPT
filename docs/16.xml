@@ -5,11 +5,162 @@
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
 <item>
+<title>坎昆之后的以太坊怎么看？一文梳理社区观点</title>
+<link>https://www.theblockbeats.info/news/51877</link>
+<guid>https://www.theblockbeats.info/news/51877</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的<br>1）以太坊Gas费降低10倍，可能鼓励更多用户参与应用程序和增加链上活动。<br>2）Dencun升级可能利好RaaS市场，增强了以太坊的可扩展性。<br>3）以太坊和通用L2市场表现并没有太大涨幅，未来以太坊主网的商业模式或许会转移给通用L2团队。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Gas 费已降低 10 倍，要开始布局以太坊了吗？</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.theblockbeats.info/news/51877">https://www.theblockbeats.info/news/51877</a></p>
+<p><strong>文章作者：</strong></p><p>BlockBeats</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>BlockBeats：</strong>1）大盘轮动到以太坊和山寨：在 Decun 升级和以太坊 ETF 双重预期加持下，以太坊从 2300 美元涨至 4000 美元。如今 Dencun 已经主网激活，Gas 降低，预计将鼓励用户参与更多的应用程序并增加他们的链上活动。也正因此，社区有人认为，EIP-4844 将减少以太坊的整体收入。尽管 L2 为以太坊上的 DA 支付的费用确实会减少，但这种减少不太可能对以太坊的总费用产生产生重大影响。L2 的 DA 费用仅占以太坊全部费用收入的约为 7-10%。
+
+2）Dencun 或利好 RaaS 市场：一种观点认为，坎昆升级之后，更多的 Dapp 会独立做 1 条 Rollup，反而有利于 RaaS 市场的繁荣。Dencun 的炒作卖点，本质上是 EIP-4844 和 Blob 携带交易引入了三个关键增强功能。除了降低交易费用外，还包括增强以太坊的可扩展性，以及使社区能够测试以太坊网络处理生产中增加的数据负载的能力，并为全面分片升级做好准备。与现有方法相比，EIP-4844 和 Blob 携带交易可以更有效地利用区块空间。此外，由于 blob 完全是一种不同类型的交易，因此它们有自己的费用市场，并且不会受到以太坊主网上常规交易活动增加的影响。
+
+3）从目前市场表现来看，以太坊和通用 L2 并没有太大涨幅。加密研究员 @0xNing0x 认为，坎昆升级之后，以太坊主网的商业模式将以售卖区块空间为主，应用层税费这块收入将转移给通用 L2。可通用 L2 团队意识形态化严重，完全不是 Solana 等竞争链的对手。</p><a href="https://www.theblockbeats.info/news/51877">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-15T09:00:48+00:00</pubDate>
+</item>
+<item>
+<title>【英文】「Beyond the Block」 MEV 研究日演讲内容回顾：求解器、交易供应链、MEV Boost 拍卖......</title>
+<link>https://twitter.com/0xArnav/status/1768302236503859704</link>
+<guid>https://twitter.com/0xArnav/status/1768302236503859704</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Arnva回顾了「Beyond the Block」的MEV研究日活动的演讲内容。主要要点包括：1）专业市场的出现和中心化问题；2）交易供应链的隐私现状；3）MEV Boost拍卖的结构分析；4）有竞争力的预确认市场；5）执行票据的缺点；6）链上求解器的优势；7）成熟提议者的崛起。文章涵盖了这些方面，提供了深入的见解和讨论。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>HashKey Capital 成员 Arnav 撰文对「Beyond the Block」的 MEV 研究日活动的演讲内容进行了回顾总结。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/0xArnav/status/1768302236503859704">https://twitter.com/0xArnav/status/1768302236503859704</a></p>
+<p><strong>文章作者：</strong></p><p>Arnva</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Arnva：</strong>1）从求解器市场到构建者补贴战争：探讨了综合流动性和路由的专业市场的出现，及随之而来的中心化问题。链接：https://youtu.be/Z-eplG8-QYY
+
+2）交易供应链的隐私现状：讨论了隐私内存池、隐私拍卖、协作区块构建等问题。此外，小组还讨论了 FHE 的缺点和可能的缓解措施。链接：https://youtu.be/ssSfVhl2n3A
+
+3）MEV Boost 拍卖的结构分析：当某些竞标者相对于其他竞标者实力较强时，第一出价密封竞价拍卖可能会产生更高的收益。链接：https://youtu.be/IaZMxu4JRFg
+
+4）有竞争力的预确认市场：概述了预确认设计，并介绍了跨 Rollup MEV 和应用程序内互操作，在应用程序内互操作中，应用程序可以根据特定于应用程序的逻辑提供无争议的预确认。链接：https://youtu.be/vr_8VL8yJbw
+
+5）执行票据：解读了 PBS 的缺点，包括扭曲验证器经济学、时序游戏、审查制度等。链接：https://youtu.be/FhpquTtk8TU
+
+6）链上求解器：探讨了基于智能合约的求解器的优势，包括重构保护、不依赖构建者、原子可合成性、不依赖模拟等。链接：https://youtu.be/5vfDfWoViS4
+
+7）成熟提议者的崛起：深入解读了节点操作员的意图，包括时序博弈、风险分析、重组、垂直整合到 DVT 等各个方面。链接：https://youtu.be/SO48JU7eimE</p><a href="https://twitter.com/0xArnav/status/1768302236503859704">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-15T08:31:30+00:00</pubDate>
+</item>
+<item>
+<title>【英文长推】Variant 合伙人 Li Jin：消费者加密应用未来之路</title>
+<link>https://twitter.com/ljin18/status/1767978929569358251</link>
+<guid>https://twitter.com/ljin18/status/1767978929569358251</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章描述了新的创新浪潮――「只用加密货币」，通过加密货币提供的全球支付、链上资产和身份可组合性以及创造新市场和新资产的功能，创造全新体验的产品。举例说明了如何利用加密货币在游戏、约会应用程序和可组合应用程序中实现更丰富的操作，提升用户体验，并降低交易摩擦，深化流动性网络效应。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>本文为 Variant 合伙人 Li Jin 在 BoysClubWorld  上主题演讲的部分内容。Li Jin 认为新的创新浪潮为「仅使用加密货币（only with crypto）」。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/ljin18/status/1767978929569358251">https://twitter.com/ljin18/status/1767978929569358251</a></p>
+<p><strong>文章作者：</strong></p><p>Li Jin（Variant 联合创始人）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Li Jin（Variant 联合创始人）：</strong>我们现在看到的是一股新的创新浪潮，我称之为「只用加密货币」：使用加密货币提供的构建模块来创造全新体验的产品。在这一类产品中，加密货币开启了一个全新的设计空间，创造了在 Web2 时代根本不可能实现的体验。其功能源于加密货币所带来的独特优势：1）全球支付；2）链上资产和身份的可组合性；3）创造新市场和新资产。这些元素结合在一起，将带来全新的体验。
+
+举几个例子，例如 Crypto: The Game 使用加密货币作为支付渠道。未来可以想象这款游戏将利用个加密货币引入各种新机制，比如嵌入预测市场，让观众可以对接下来发生的事情下注，从而在 Web2 可能实现的功能之外增加另一层参与性。根据我在过去 7 年多的市场投资经验，我意识到世界上有一整套市场和网络类型本应存在，这意味着它们将惠及最终用户。但却没有存在，因为存在巨大的冷启动问题。例如，从新的约会应用程序到本地社交网络，再到各种服务的市场平台，这些网络都是许多 Web2 创始人试图建立的，但却很难起步或扩大规模。你可以将代币作为一种新的引导工具来构建这些网络。这
+
+另一个只有使用加密货币才能实现的例子是，新的可组合应用程序和分销渠道可以连接到用户的钱包，从而实现更丰富的操作。上个月推出的 Farcaster Frames，这是一个用于构建迷你应用程序的框架。换句话说，这些应用程序可以在用户已经花费时间和钱包已经连接的地方满足他们的需求。我们已经看到开发者在使用这个新框架来创建各种体验。作为其延伸，可组合性允许您创建无头市场，利用全球链上流动性，但无论用户的钱包连接在哪里，最终用户体验都能满足他们的需求。最终结果是降低交易摩擦，深化流动性网络效应。【原文为英文】</p><a href="https://twitter.com/ljin18/status/1767978929569358251">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-15T07:30:24+00:00</pubDate>
+</item>
+<item>
+<title>【英文】Solana 深度剖析：重塑叙事框架</title>
+<link>https://twitter.com/kelxyz_/status/1673725589876797441</link>
+<guid>https://twitter.com/kelxyz_/status/1673725589876797441</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Solana的状态压缩提供了永久低资产发行成本，RPC供应商对压缩功能的发挥至关重要，Rollup的规模似乎还达不到Solana，地方收费市场可提供L2扩展，SOL与ETH的最终状态相同，SOL的发行量超过费用消耗量，需要交易量或手续费增加350倍来实现平衡。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Solana 是所有加密货币中最具争议的话题。Messari 研究员 kelxyz 撰文对 Solana 的特点及优势进行了梳理分析，包括其估值介绍及与以太坊的对比。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/kelxyz_/status/1673725589876797441">https://twitter.com/kelxyz_/status/1673725589876797441</a></p>
+<p><strong>文章作者：</strong></p><p>Kel</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Kel：</strong>1）Solana 的状态压缩提供了永久低资产发行成本。据我所知，这是在不耗费 Masayoshi Son 现金的情况下在链上运行 Web2 商业模式的唯一方法；
+
+2）RPC 供应商对压缩功能的充分发挥直观重要，Helius 为此作出了巨大贡献；
+
+3）就目前来看，Rollup 的规模似乎还达不到 Solana；
+
+4）地方收费市场可以提供 L2 类型扩展，并且不引入新的跨链桥风险；
+
+5）在去中心化方面，SOL 与 ETH 的最终状态是一样的；
+
+6）关于商品价值，SOL 的发行量远远超过了费用的消耗量。要达到平衡，交易量或手续费必须达到 350 倍。【原文为英文】</p><a href="https://twitter.com/kelxyz_/status/1673725589876797441">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-15T06:28:52+00:00</pubDate>
+</item>
+<item>
+<title>对话 Cycle Network：全链应用、链抽象和基础设施发展方向</title>
+<link>https://substack.chainfeeds.xyz/p/cycle-network</link>
+<guid>https://substack.chainfeeds.xyz/p/cycle-network</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>1. 就全链应用的现状进行讨论，指出现行问题包括不安全、gas 昂贵、跨链交互延迟、用户使用复杂等<br>2. 研究链抽象概念，探讨如何利用 Rollup 技术实现无需多链部署合约，并让终端用户感知不到跨链存在<br>3. 着眼于 Trustless 的理念，致力于打造全链账本的开发范式，实现全链数据的编程自由<br>4. 通过建立安全的底层链路通信，实现全链的无信任交互，将L1 和L2的桥接扩展到所有外部网络<br>5. 通过 Cycle 连接多个网络实现各个网络之间的无信任通信。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>ChainFeeds 邀请到专门在做链抽象的团队 Cycle Network CEO Robbie，就当下全链应用的现状、链抽象叙事、未来基础设施的发展方向等问题展开探讨。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://substack.chainfeeds.xyz/p/cycle-network">https://substack.chainfeeds.xyz/p/cycle-network</a></p>
+<p><strong>文章作者：</strong></p><p>0xNatalie</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Robbie：</strong>对与全链应用的现状对于项目开发者来说，因为在过去可能是个单体链的时代，很多开发者会选择某一个网络去部署自己的一个应用。在单体链 L1 争夺的时代，L1 的构成成本相对较高，那么每个 L1 能够吸附的一个用户体量还是相对较大的，所以开发者选择单链去构建的应用是有生存空间的。现在大家可以看到在模块化的一个既定的趋势，这个背景下很多应用转到二层去 build，各个二层的网络都在去争夺一个 TVL。应用如果还要类似像单体链时代这样的一种打法去构建的话，会发现他们带着沉重的裹脚布在整个 web3 的世界去构建，给开发者带来割裂部署的问题。所以可以看到现在这样一个情况下，整个行业面临着各种不安全、gas 昂贵、跨链交互延迟、用户使用复杂程度高等问题。
+
+23 年末的时候链抽象这个概念一下就火起来了，这样一个叙事的确是能够很好的概括我们想做的一个事情，但我们其实也观察到就目前市面上有很多的类似的项目也在尝试去做我们相同的事情。我们在 22 年十月份就有了这个想法，因为当时正好是有 ETH Global 的一个 Hackson，所以想一起去组了一个小团队想去试一下。当时我们在想通过自托管的方式让用户与整个链上的数据进行交互，一定是一个未来非常大的趋势。现在整个行业的大部分的用户其实是沉淀在中心化的应用，那到底是什么去阻碍了用户去到真正的一个去中心化的世界，包括对于开发者来说，怎样能让开发者去 Focus 在自己的应用发展过程中，不会被自己所选择的 Infra 去限制。所以我们当时就立了 Cycle 这个项。Cycle 的优势是利用 Rollup 技术实现应用的开发者不用去多链部署合约这一层，并且终端的用户感知不到跨链的存在，这也是链抽象的目标。
+
+回到 Cycle 的初心就是我们想定义新的全链账本的开发范式。其实可以看到我们 Trustless 是 Crypto 里面的一种信仰吧。Trustless 是整个 Crypto 世界里一直所追求的一件事情。Cycle 保持着对 Trustless 的这个初心， 对 Trustless 有着极致要求。所以目前所有的资源基本上是投入到了这个无信任的全链账本的研发中。我们希望实现的目标就是促进整个行业未来有这样一个全链账本，应用能够用它自由地在一个 web3 世界进行全链数据的编程，不再被多链束缚。我们通过建立在安全基础上的底层链路通信，实现全链的无信任交互。众所周知，L1 和 L2 桥接是双向验证的过程，只要资产处理正常，它就是无信任的本地桥接。我们将这一特性扩展到 Cycle 所连接的所有外部网络，实现了各个网络之间的无信任通信。</p><a href="https://substack.chainfeeds.xyz/p/cycle-network">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-15T06:23:33+00:00</pubDate>
+</item>
+<item>
+<title>Celestia 创始人：百日上线续写 DA 华章</title>
+<link>https://mp.weixin.qq.com/s/KsjAg-ccQ8FRVVwnnEaOOw</link>
+<guid>https://mp.weixin.qq.com/s/KsjAg-ccQ8FRVVwnnEaOOw</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>文章提到了在 Celestia 推出后的122天内，可扩展的数据可用性是如何帮助应用程序和开发人员的。文章指出了Layer 2和Rollups等协议的发展，以及可扩展的DA解决方案的重要性。还讨论了Layer 3的部署和生产化，Rollup作为服务提供商的出现，以及对更多吞吐量和数据可用性采样安全性的追求。文章还提到了正在开发的Level-5轻节点安全性协议。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>本篇文章为 Celestia 创始人兼 CRO John Adler 带来的「DA: 100 Days Later」主题演讲内容，谈一谈在 Celestia 推出后的 122 天，以及可扩展数据可用性的出现如何使应用程序和开发人员有所作为。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/KsjAg-ccQ8FRVVwnnEaOOw">https://mp.weixin.qq.com/s/KsjAg-ccQ8FRVVwnnEaOOw</a></p>
+<p><strong>文章作者：</strong></p><p>John Adler（Celestia 创始人）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>John Adler（Celestia 创始人）：</strong>有许多 Layer 2 和 Rollups 等协议并不会在以太坊上。有一些是 Celestia native 的，或者是 native 于其他区块链的，比如说 Solana， 我不知道 Solana 是否有任何的 Layer 2，但是你可以在这里看到，很多都在用我们 Celestia 来进行 DA，我们还看到了一些长时间以来人们一直在谈论，但长时间没有部署的东西，其中之一是缺乏可扩展的 DA 解决方案，如果没有可扩展的 DA 解决方案，大量的执行就没有太多价值，因为执行并不是瓶颈，DA 的成本才是。但是从那时起，我们看到了 Layer 3 的部署和生产化。例如，在 Arbitrum 生态系统中有 Arbitrum Orbit，还有 Optimism 超级链。当然，还有一些团队正在开发它们的 Layer 3 解决方案，正在进行中。例如 zkSync Hyperchains 还有 Starknet。Layer 3 具有这种长期以来一直在谈论的分形扩容。但是，由于 DA 是执行的瓶颈，所以以前并不太需要它们。
+
+现在有了可扩展的 DA 解决方案，你就会看到像 Arbitrum Orbit 和 Optimism Superchain 这样的东西进入生产阶段，人们可以启动大量的 Rollups，具有各种不同的良好特性。你可以共享桥梁，共享流动性，共享共同的社区价值和治理等等。在 Celestia 推出之前，这实际上都不算什么事。还有 RaaS 或 Rollup 作为服务提供商的推出。它其实可以让你部署一个 Rollup，并选择要使用的堆栈，例如 OP 堆栈、Superchain 或 Arbitrum Orbit。选择它的链。因此，它可以是以太坊或者其他的。或者它可以是，你可以选择使用这些堆栈中的一个来部署你的 Rollup。点击几下按钮，点击部署，然后，你的 Rollup 就被部署了。与部署智能合约一样容易，或者在这种情况下甚至可能更容易。这种东西在模块化区块链之前根本不存在。
+
+接下来呢？我们还没有结束，当然。我们需要更多的吞吐量，就怕没有更多的吞吐量。因此，我们的目标是至少 1GB 的区块，这将提供大约每秒 100MB 的吞吐量，这又是一个数量级的增加。Celestia 的推出比当时存在的情况多了两个数量级。我们希望再增加两个数量级。这将使你可以拥有十亿用户和百万个 Rollup。此外，提高数据可用性采样的安全性，这是所有这些数据可用性协议的安全基础，包括 Celestia、EigenDA、Avail，甚至以太坊 Danksharding 都使用了一些形式的数据可用性采样，它是安全的基础。因此，我们正在开发我们一直称之为 level-5 轻节点安全性的东西，其中包括直到匿名数据可用性采样。最后，这种协议随着运行轻节点的用户数量增加而扩展。</p><a href="https://mp.weixin.qq.com/s/KsjAg-ccQ8FRVVwnnEaOOw">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-15T05:27:26+00:00</pubDate>
+</item>
+<item>
+<title>技术解析 Particle Chain：如何帮 Merlin 达成 40 亿美元 TVL？</title>
+<link>https://mp.weixin.qq.com/s/DCMJK1CmgV02WCfMdNcnOg</link>
+<guid>https://mp.weixin.qq.com/s/DCMJK1CmgV02WCfMdNcnOg</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的<br>1. MerlinChain 是一个 EVM-Compatible 的 BTC Layer2 链，旨在为 BTC 及其衍生资产提供高可扩展性，释放更大流动性和市场潜力。<br>2. 技术挑战在于实现 BTC 资产的安全跨链，衍生资产账本迁移以及在 Layer2 上构建 DeFi 应用环境。<br>3. Particle Network 的 BTC-Connect 技术支持使用户能够跨链交易，并在 MerlinChain 中处理资产。<br>4. Particle 在 MerlinChain 中起到关键作用，包括存储大部分迁入的资产和支持各类 DeFi 协议。<br>5. 链下 indexer 系统对于管理铭文资产在 layer2 环境中的流通也至关重要，需要精确记录和管理资产的流动情况。<br> <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>加密研究员 Haotian 认为「链抽象」是模块化之后的下一个焦点赛道，并撰文从 Particle Chain 的链抽象技术出发解读了 MerlinChain 能够吸纳 40 亿美金 TVL 资产的原因。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/DCMJK1CmgV02WCfMdNcnOg">https://mp.weixin.qq.com/s/DCMJK1CmgV02WCfMdNcnOg</a></p>
+<p><strong>文章作者：</strong></p><p>Haotian</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Haotian：</strong>以 MerlinChain 为例，它本身是 EVM- Compatible 的新兴 BTC Layer2 链，目的通过 Layer2 的高扩展性能为 BTC 及 BRC20、ARC20、BTC420 等 BTC Layer1 上原生资产扩展应用生态，让这些 BTC 衍生资产能够摆脱主网链性能局限，释放出更大的流动性及市场潜力。因此，MerlinChain 的主要技术门槛在于如何把 BTC 原生资产及其他铭文风刮起来的衍生资产「跨链」到 Layer2 链上并快速构建一个「应用协议」生态，给铭文资产一个庞大的流动性市场，进而盘活沉寂许久的铭文生态。要做到这些，需要能无缝连接 B TC UTXO 链和 EVM- Compatible 链，涉及 BTC 资产安全跨链、BRC20 等衍生资产无缝账本迁移、BTC 等系列资产在二层的 DeFi 应用环境快速构建等等技术问题。
+
+以 Particle 对 Merlin 的技术支持为例，看看 Particle Network 专门定制开发的 BTC-Connect 具体如何工作：简单来说，Unisat 和 Metamask 分别有不同的公私钥加密算法以及解析签名特殊性，Particle 需要衔接好双方的通信协调工作：
+1）当用户在 Unisat 发起交易时，Unist 要先通过 Particle 的 SDK，向 Partcile Chain 发出交易请求，Particle 链会先生成该 Unisat 地址对应的一个 EVM Smart Contract 地址，然后该 AA 地址会在 EVM 环境下发起一个交易，并请求 MerlinChain 的响应；
+2）用户初次连接时，需要先将一部分 BTC 链上的资产 Bridge 至 Particle 链上的 AA 地址中，该地址具备 Paymaster 代付能功能，可代执行后续一系列交互操作，比如委托交易，代付 Gas、多重签名管理等等；
+3）在 Particle 完成一系列 SDK 可交互操作性基础衔接后，用户交易发送到 Particle Chain，Particle Chain 会验证执行，协调 MerlinChain，Merlin 收到新的交易请求时，会直接通过 AA 合约解析验证 Bitcoin 钱包签名，完成交易。
+
+在完成钱包抽象的适配处理后，Particle 在 MerlinChain 的资产迁入和处理等环节也都发挥一定作用，比如：用户通过 Unisat 转移资产到 MerlinChain 会存放到由 Cobo 平台提供的托管地址中，Particle 则应立即触发响应生成相应的 Wrap 资产，并产生一个可进行多重签名和委托交易的 AA 地址，Particle 相当于 BTC 原生资产进入 MerlinChain 的必经管道。这意味着：
+1）ParticleChain 会沉淀大部分由 BTC 链迁入的原生资产的 Wrap 版，可以认为 MerlinChain 将近 40 亿美金的 TVL 资产，大部分都会在 Particle Chain 的所辖范围内；
+2）对于其他 EVM- Compatible 环境下流入的 ETH、USDT、USDC 等资产，Particle 则会基于其 AA 账户抽象特性，同样做相应的资产流通记账管理，以支撑后续 MerlinChain 上各类 Swap、Staking、Restaking 等有关的 DeFi 协议应用产生；
+3）铭文资产对应的链下 indexer 系统也至关重要，作为管理链上交易数据的核心工具，当铭文资产流入 layer2 二层 EVM 环境后，索引器需要被精准记录追踪有效并管理这类资产的流通，尤其是协调不同索引之间的账本差异时。</p><a href="https://mp.weixin.qq.com/s/DCMJK1CmgV02WCfMdNcnOg">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-15T04:38:37+00:00</pubDate>
+</item>
+<item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Polychain Capital领投了Polyhedra Network的2000万美元战略融资，总估值达到10亿美元。其他参投方还包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium和Mapleblock Capital。融资将用于团队扩大，招聘产品、工程、业务开发和营销等跨职能部门。至今，已进行了五轮融资，通过未来代币或SAFT的简单协议完成。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
+
+<item>
 <title>【英文长推】EIP-4844 正式上线，是否不负众望？</title>
 <link>https://twitter.com/WestieCapital/status/1768354086913532158</link>
 <guid>https://twitter.com/WestieCapital/status/1768354086913532158</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章指出通过Layer 2 Gas变化带来的潜在成本节约。Zk Rollups和Arbitrum节省了约93%，而OP Stack Rollups节省了99%。尽管Blob数量在缓慢攀升，但未来Gas价格的平衡情况仍需观察。Rollup项目的价格差异很大，需要关注外部因素如blobs对构建者市场的影响。总体而言，这对以太坊及其加密货币是一个重大胜利，成本降低90%以上且惠及用户。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章指出通过Layer 2 Gas变化带来的潜在成本节约。Zk Rollups和Arbitrum节省了约93%，而OP Stack Rollups节省了99%。尽管Blob数量在缓慢攀升，但未来Gas价格的平衡情况仍需观察。Rollup项目的价格差异很大，需要关注外部因素如blobs对构建者市场的影响。总体而言，这对以太坊及其加密货币是一个重大胜利，成本降低90%以上且惠及用户。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>随着升级已经落地。BlockWorks 研究员 Westie 撰文对落地后  Layer 2 Gas 变化进行了分析解读。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/WestieCapital/status/1768354086913532158">https://twitter.com/WestieCapital/status/1768354086913532158</a></p>
 <p><strong>文章作者：</strong></p><p>Westie</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Westie：</strong>目前的数据看起来非常有前景。与 calldata 相比，Zk Rollups 和 Arbitrum 节省了约 93%，而 OP Stack Rollups 节省了 99%。不过，这不会永远持续下去。据我所知，很多主要的 Rollup 项目仍未部署使用 blobs，包括 Polygon、Manta、Metis、Linea 等。Blob 数量正在缓慢攀升，以达到每个区块 3 个的目标。一旦我们持续看到每个区块有超过这个目标的 Blob，我们就可以预期价格会大幅上涨。
@@ -18,7 +169,6 @@
 
 当然，我们还需要关注其他外部因素，例如 blobs 对构建者市场的影响。在区块中包含 blobs 所产生的摩擦可能会导致构建者忽略 blobs，以减少延迟并抓住其他 MEV 机会。总体而言，我认为这对以太坊及其加密货币来说是一个巨大的胜利，成本降低 90% 以上并惠及用户都是一个巨大进步。【原文为英文】</p><a href="https://twitter.com/WestieCapital/status/1768354086913532158">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-15T03:53:48+00:00</pubDate>
 </item>
 <item>
@@ -26,7 +176,7 @@
 <link>https://talk.nervos.org/t/jan-xie-web5-web5-web2-web3/7920</link>
 <guid>https://talk.nervos.org/t/jan-xie-web5-web5-web2-web3/7920</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章总结了在比特币区块链上发行资产的现状以及对比特币文艺复兴的需求。作者提到比特币是最安全、去中心化的平台，但其上发行的资产价值远远落后于其他区块链。文章指出了需求存在，并探讨了在比特币链上发行点对点、抗审查资产的可能性，需要一个可编程层来实现。最后，作者提出了构建一个通过P2P网络连接的Web5的愿景。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章总结了在比特币区块链上发行资产的现状以及对比特币文艺复兴的需求。作者提到比特币是最安全、去中心化的平台，但其上发行的资产价值远远落后于其他区块链。文章指出了需求存在，并探讨了在比特币链上发行点对点、抗审查资产的可能性，需要一个可编程层来实现。最后，作者提出了构建一个通过P2P网络连接的Web5的愿景。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>3 月 9 日，在由 Nervos Foundation 和 ABCDE 共同举办的 Bitcoin Singapore 2024 大会上，CKB 首席架构师 Jan Xie 发表了主题演讲「Bitcoin Renaissance: Why & How?」。本篇文章根据其英文演讲内容整理。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://talk.nervos.org/t/jan-xie-web5-web5-web2-web3/7920">https://talk.nervos.org/t/jan-xie-web5-web5-web2-web3/7920</a></p>
 <p><strong>文章作者：</strong></p><p>Jan（Nervos 首席架构师）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Jan（Nervos 首席架构师）：</strong>目前为止，在比特币区块链上发行的资产总价值为 30 亿美元，远远落后于在其他区块链上发行的资产总价值。比特币是最安全、最去中心化、最抗审查的平台，然而在这个平台上发行的资产总价值是最少的。作为对比，波场（Tron）的市值约为 120 亿美元， 而在波场区块链上发行的资产总价值达到了 100 亿美元。这是好事还是坏事？比特币带来了许多真正的创新，但过去几年里这个行业把这些东西都抛弃了，比如 PoW、UTXO、P2P 网络。所以，我们现在为什么需要比特币文艺复兴？我认为原因在于确实存在真实的需求，对新资产有需求，对比特币的使用场景有需求。
@@ -35,7 +185,6 @@
 
 比特币作为底层的资产发行平台，上面是一个可编程层，在可编程层上构建可扩展性和隐私性层。在我看来，L3 甚至都不需要使用区块链，因为区块链有利于透明度和全球共识，但它对可扩展性和隐私性反而有害。这一点有别于以太坊生态，以太坊生态全景图是 Rollup 上面再叠加 Rollup。 这个行业为什么需要那么多区块链呢？其实并不需要。L3 上应该是 P2P 网络，然后通道可以连接这一切。所以，我认为我们要构建的是 Web5，Web5 就是 Web2 加上 Web3。Web3 极力地把所有的东西搬到链上，但我们为什么需要把所有的东西往链上搬呢？互联网其实做得很好，只不过它有一些问题而已，我们用 P2P 技术、密码学技术以及其他一些新技术来修复 Web2 即可，它不是 Web3， 我们不需要把所有的东西都放在链上。利用这些技术，我们想要构建的其实是 Web5。</p><a href="https://talk.nervos.org/t/jan-xie-web5-web5-web2-web3/7920">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-15T03:22:04+00:00</pubDate>
 </item>
 <item>
@@ -43,10 +192,9 @@
 <link>https://www.bloomberg.com/news/articles/2024-03-15/crypto-s-berachain-becomes-unicorn-in-69-million-vc-round</link>
 <guid>https://www.bloomberg.com/news/articles/2024-03-15/crypto-s-berachain-becomes-unicorn-in-69-million-vc-round</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。根据知情人士报道，Berachain 正在通过出售代币进行超 6900 万美元融资，Brevan Howard Digital 和 Framework Ventures 共同领投，估值将达到 15 亿美元。目前暂不清楚该轮融资是否已经完成。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。根据知情人士报道，Berachain 正在通过出售代币进行超 6900 万美元融资，Brevan Howard Digital 和 Framework Ventures 共同领投，估值将达到 15 亿美元。目前暂不清楚该轮融资是否已经完成。 <div>
 <p>彭博社援引知情人士报道，Berachain 正在通过出售代币进行超 6900 万美元融资，Brevan Howard Digital 和 Framework Ventures 共同领投，估值将达到 15 亿美元。目前暂不清楚该轮融资是否已经完成。</p><p><a href="https://www.bloomberg.com/news/articles/2024-03-15/crypto-s-berachain-becomes-unicorn-in-69-million-vc-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-15T01:40:12+00:00</pubDate>
 </item>
 <item>
@@ -54,21 +202,19 @@
 <link>https://www.theblock.co/post/282515/metis-decentralized-sequencer-alpha-version</link>
 <guid>https://www.theblock.co/post/282515/metis-decentralized-sequencer-alpha-version</guid>
 <content:encoded><![CDATA[
-<div> 这些信息是积极的。<br><br>摘要：<br>以太坊 Layer2 网络 Metis 推出去中心化排序器 alpha 版本，排序器节点可以获得 METIS 奖励，以激励参与网络区块生成和网络交易处理。所有排序器节点在第一年里将获得 20% 的挖矿奖励率。 <div>
+<div> 这些信息是积极的。<br /><br />摘要：<br />以太坊 Layer2 网络 Metis 推出去中心化排序器 alpha 版本，排序器节点可以获得 METIS 奖励，以激励参与网络区块生成和网络交易处理。所有排序器节点在第一年里将获得 20% 的挖矿奖励率。 <div>
 <p>以太坊 Layer2 网络 Metis 推出去中心化排序器 alpha 版本，排序器节点可以获得 METIS 奖励，以激励参与网络区块生成和网络交易处理。此外，第一年里所有排序器节点都将获得 20% 的挖矿奖励率。</p><p><a href="https://www.theblock.co/post/282515/metis-decentralized-sequencer-alpha-version">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-15T01:27:32+00:00</pubDate>
 </item>
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Polyhedra Network以10亿美元估值完成2000万美元战略融资，由Polychain Capital领投，其他投资方包括Animoca Brands、Hashkey Capital等。融资将用于招聘跨职能部门人员，将团队规模从50人扩大到80人。此前的五轮融资均通过未来代币或SAFT简单协议进行。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。Polyhedra Network以10亿美元估值完成2000万美元战略融资，由Polychain Capital领投，其他投资方包括Animoca Brands、Hashkey Capital等。融资将用于招聘跨职能部门人员，将团队规模从50人扩大到80人。此前的五轮融资均通过未来代币或SAFT简单协议进行。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
 <item>
@@ -76,7 +222,7 @@
 <link>https://blog.openzeppelin.com/top-10-blockchain-hacking-techniques-of-2023</link>
 <guid>https://blog.openzeppelin.com/top-10-blockchain-hacking-techniques-of-2023</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的<br>OpenZeppelin的安全专家小组选出了2023年十大区块链黑客技术。首先是Vyper编译器的不可重入锁漏洞，导致Curve池被利用。其次是2023年4月3日的Mev-Boost中继器事件，涉及时间问题。最后是Euler攻击事件，涉及近2亿美元的盗窃，利用了看似简单的函数。这些事件凸显了智能合约整体安全性的脆弱性。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的<br />OpenZeppelin的安全专家小组选出了2023年十大区块链黑客技术。首先是Vyper编译器的不可重入锁漏洞，导致Curve池被利用。其次是2023年4月3日的Mev-Boost中继器事件，涉及时间问题。最后是Euler攻击事件，涉及近2亿美元的盗窃，利用了看似简单的函数。这些事件凸显了智能合约整体安全性的脆弱性。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>区块链安全平台 OpenZeppelin 的安全专家小组投票选出了 2023 年十大区块链黑客技术，并给出了理由和启示。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://blog.openzeppelin.com/top-10-blockchain-hacking-techniques-of-2023">https://blog.openzeppelin.com/top-10-blockchain-hacking-techniques-of-2023</a></p>
 <p><strong>文章作者：</strong></p><p>OpenZeppelin</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>OpenZeppelin：</strong>1）Vyper 不可重入锁漏洞技术。由于 Vyper 编译器中的不可重入性漏洞而导致 Curve 池被利用，这是 Web3 安全领域认知范围的重大转变。虽然编译器漏洞被利用并不是新鲜事，但这一漏洞却让绝大多数研究人员深入了解了智能合约安全领域。
@@ -85,7 +231,6 @@
 
 3） Euler 攻击事件。Euler 是历史上最大的非桥接漏洞之一，被盗金额近 2 亿美元。这个漏洞的新颖性源于两个部分，一是添加了一个简单的实用程序函数，二是攻击的简单性。donateToReserves 函数是作为包装功能和潜在的 Gas 节约的实用程序引入的，这个看似无害的附加函数却帮助了这次大规模的漏洞攻击。虽然这种攻击的完全复制可能不会直接适用于其他协议，但添加看似简单的函数却凸显了智能合约整体安全性的脆弱性。【原文为英文】</p><a href="https://blog.openzeppelin.com/top-10-blockchain-hacking-techniques-of-2023">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-14T09:55:00+00:00</pubDate>
 </item>
 <item>
@@ -93,7 +238,7 @@
 <link>https://mp.weixin.qq.com/s/sn6AcY-0TN-wigVBi-f2TQ</link>
 <guid>https://mp.weixin.qq.com/s/sn6AcY-0TN-wigVBi-f2TQ</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。<br>1. Smart Layer项目的联合创始人Victor解释了他们以token为中心构建理念的背景和目的。<br>2. Smart Layer项目将Dai token与自己的前端关联，提供更全面的功能和逻辑。<br>3. 小猫NFT项目展示了链上逻辑和链下逻辑的结合，将消息存储和UI等功能放在去中心化的服务网络上。<br>4. Victor强调token应该是未来区块链世界的中心，具有最大化的可组合性和可移植性，而不是应用。<br>5. 通过给token一个可编程前端，使其能够在不同系统中使用，具备更强的灵活性和可扩展性。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。<br />1. Smart Layer项目的联合创始人Victor解释了他们以token为中心构建理念的背景和目的。<br />2. Smart Layer项目将Dai token与自己的前端关联，提供更全面的功能和逻辑。<br />3. 小猫NFT项目展示了链上逻辑和链下逻辑的结合，将消息存储和UI等功能放在去中心化的服务网络上。<br />4. Victor强调token应该是未来区块链世界的中心，具有最大化的可组合性和可移植性，而不是应用。<br />5. 通过给token一个可编程前端，使其能够在不同系统中使用，具备更强的灵活性和可扩展性。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>橙皮书采访了 Smart Layer 联合创始人 Victor，讲述了 Smart Layer 为何以 token 为中心的构建理念，以及项目的进展与应用。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/sn6AcY-0TN-wigVBi-f2TQ">https://mp.weixin.qq.com/s/sn6AcY-0TN-wigVBi-f2TQ</a></p>
 <p><strong>文章作者：</strong></p><p>橙皮书</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Victor Zhang（Smart Token Labs 联创兼首席执行官）：</strong>Smart token 的做法是把 Makerdao 的网站放在一边，它上面能够实现更复杂的逻辑和功能，这很好。我们再给 Dai token 加上一个它自己的前端。这个前端也是 Makerdao 写的，上面有 Makerdao 的签名，所以它的安全和可信性和 Dai token 都是一样的。然后我们用 ERC5169 这个标准把 Dai 的智能合约跟它自己的前端关联在一起，从此以后，不管 Dai 在哪个钱包或者应用，有谁想要调用这个 token，一看这个 token 有 ERC5169 的接口，就会知道它指向一个它自己的可编程前端，钱包或者应用就可以调用这个前端来使用这个 token 的全部功能。
@@ -102,10 +247,8 @@
 
 我们再看区块链世界，钱包是跟着用户自己的，以用户为中心。另外一个就是 token，以用户为中心。但是应用不是以用户为中心的。token 才是真正有可能拥有最大化的可组合性和可移植性的载体，而不是应用。不能搞一个超级平台应用，把各种东西都连上这个平台，那就又倒退回中心化的时代了。所以 token 应该是未来区块链世界的中心，token 是一等公民，而不是应用是一等公民。给 token 一个它自己的可编程前端，让它能够在不同的系统中使用。</p><a href="https://mp.weixin.qq.com/s/sn6AcY-0TN-wigVBi-f2TQ">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-14T09:51:38+00:00</pubDate>
 </item>
-
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
@@ -10714,139 +10857,6 @@ Points as Reputation（积分即信誉）：积分很容易被认为是社会经
 <p>据彭博社援引消息人士报道，面对监管机构的密切关注，币安收紧代币上市流程，以增强其平台上的投资者保护。币安现要求上市的加密项目必须同意至少一年的 cliff（即代币解禁之前的时间段），此前最多不超过六个月。目前币安已向寻求上市的项目方口头传达了该变化，项目方在此期间不能出售任何代币，同时为做市商留出更多代币并支付保证金，这些变化于去年年底开始生效。</p><p><a href="https://www.bloomberg.com/news/articles/2024-03-15/binance-extends-token-listing-cliff-period-requires-deposit-bnb">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-16T02:47:59+00:00</pubDate>
-</item>
-<item>
-<title>坎昆之后的以太坊怎么看？一文梳理社区观点</title>
-<link>https://www.theblockbeats.info/news/51877</link>
-<guid>https://www.theblockbeats.info/news/51877</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。<br />1）以太坊价格上涨至4000美元，Gas费降低10倍，预计将增加用户活动。<br />2）升级后有利于RaaS市场，提升以太坊的可扩展性。<br />3）以太坊主网商业模式或将以售卖区块空间为主，L2将成为税费收入的重要来源。以太坊和通用L2的涨幅不大。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>Gas 费已降低 10 倍，要开始布局以太坊了吗？</p>
-<p><strong>文章来源：</strong></p><p><a href="https://www.theblockbeats.info/news/51877">https://www.theblockbeats.info/news/51877</a></p>
-<p><strong>文章作者：</strong></p><p>BlockBeats</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>BlockBeats：</strong>1）大盘轮动到以太坊和山寨：在 Decun 升级和以太坊 ETF 双重预期加持下，以太坊从 2300 美元涨至 4000 美元。如今 Dencun 已经主网激活，Gas 降低，预计将鼓励用户参与更多的应用程序并增加他们的链上活动。也正因此，社区有人认为，EIP-4844 将减少以太坊的整体收入。尽管 L2 为以太坊上的 DA 支付的费用确实会减少，但这种减少不太可能对以太坊的总费用产生产生重大影响。L2 的 DA 费用仅占以太坊全部费用收入的约为 7-10%。
-
-2）Dencun 或利好 RaaS 市场：一种观点认为，坎昆升级之后，更多的 Dapp 会独立做 1 条 Rollup，反而有利于 RaaS 市场的繁荣。Dencun 的炒作卖点，本质上是 EIP-4844 和 Blob 携带交易引入了三个关键增强功能。除了降低交易费用外，还包括增强以太坊的可扩展性，以及使社区能够测试以太坊网络处理生产中增加的数据负载的能力，并为全面分片升级做好准备。与现有方法相比，EIP-4844 和 Blob 携带交易可以更有效地利用区块空间。此外，由于 blob 完全是一种不同类型的交易，因此它们有自己的费用市场，并且不会受到以太坊主网上常规交易活动增加的影响。
-
-3）从目前市场表现来看，以太坊和通用 L2 并没有太大涨幅。加密研究员 @0xNing0x 认为，坎昆升级之后，以太坊主网的商业模式将以售卖区块空间为主，应用层税费这块收入将转移给通用 L2。可通用 L2 团队意识形态化严重，完全不是 Solana 等竞争链的对手。</p><a href="https://www.theblockbeats.info/news/51877">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-15T09:00:48+00:00</pubDate>
-</item>
-<item>
-<title>【英文】「Beyond the Block」 MEV 研究日演讲内容回顾：求解器、交易供应链、MEV Boost 拍卖......</title>
-<link>https://twitter.com/0xArnav/status/1768302236503859704</link>
-<guid>https://twitter.com/0xArnav/status/1768302236503859704</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。文章总结了 HashKey Capital 成员 Arnav 在 MEV 研究日活动中的演讲内容，包括求解器市场、交易供应链隐私、MEV Boost 拍卖、预确认市场、执行票据、链上求解器以及成熟提议者的讨论。Arnav深入探讨了这些主题，涉及到了中心化问题、隐私现状、竞价拍卖结构分析、预确认设计、PBS的缺点、链上求解器优势以及节点操作员的意图。整体而言，这些演讲内容为深入了解MEV相关议题提供了有价值的见解。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>HashKey Capital 成员 Arnav 撰文对「Beyond the Block」的 MEV 研究日活动的演讲内容进行了回顾总结。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/0xArnav/status/1768302236503859704">https://twitter.com/0xArnav/status/1768302236503859704</a></p>
-<p><strong>文章作者：</strong></p><p>Arnva</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Arnva：</strong>1）从求解器市场到构建者补贴战争：探讨了综合流动性和路由的专业市场的出现，及随之而来的中心化问题。链接：https://youtu.be/Z-eplG8-QYY
-
-2）交易供应链的隐私现状：讨论了隐私内存池、隐私拍卖、协作区块构建等问题。此外，小组还讨论了 FHE 的缺点和可能的缓解措施。链接：https://youtu.be/ssSfVhl2n3A
-
-3）MEV Boost 拍卖的结构分析：当某些竞标者相对于其他竞标者实力较强时，第一出价密封竞价拍卖可能会产生更高的收益。链接：https://youtu.be/IaZMxu4JRFg
-
-4）有竞争力的预确认市场：概述了预确认设计，并介绍了跨 Rollup MEV 和应用程序内互操作，在应用程序内互操作中，应用程序可以根据特定于应用程序的逻辑提供无争议的预确认。链接：https://youtu.be/vr_8VL8yJbw
-
-5）执行票据：解读了 PBS 的缺点，包括扭曲验证器经济学、时序游戏、审查制度等。链接：https://youtu.be/FhpquTtk8TU
-
-6）链上求解器：探讨了基于智能合约的求解器的优势，包括重构保护、不依赖构建者、原子可合成性、不依赖模拟等。链接：https://youtu.be/5vfDfWoViS4
-
-7）成熟提议者的崛起：深入解读了节点操作员的意图，包括时序博弈、风险分析、重组、垂直整合到 DVT 等各个方面。链接：https://youtu.be/SO48JU7eimE</p><a href="https://twitter.com/0xArnav/status/1768302236503859704">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-15T08:31:30+00:00</pubDate>
-</item>
-<item>
-<title>【英文长推】Variant 合伙人 Li Jin：消费者加密应用未来之路</title>
-<link>https://twitter.com/ljin18/status/1767978929569358251</link>
-<guid>https://twitter.com/ljin18/status/1767978929569358251</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。<br />文章提到了新的创新浪潮"只用加密货币"，这为创造全新体验的产品提供了新的设计空间。加密货币的独特优势包括全球支付、链上资产和身份的可组合性以及创造新市场和新资产。具体案例包括Crypto: The Game和Farcaster Frames，展示了加密货币带来的新机会和可能性。这一新潮流有助于解决传统网络的冷启动问题，深化流动性网络效应。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>本文为 Variant 合伙人 Li Jin 在 BoysClubWorld  上主题演讲的部分内容。Li Jin 认为新的创新浪潮为「仅使用加密货币（only with crypto）」。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/ljin18/status/1767978929569358251">https://twitter.com/ljin18/status/1767978929569358251</a></p>
-<p><strong>文章作者：</strong></p><p>Li Jin（Variant 联合创始人）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Li Jin（Variant 联合创始人）：</strong>我们现在看到的是一股新的创新浪潮，我称之为「只用加密货币」：使用加密货币提供的构建模块来创造全新体验的产品。在这一类产品中，加密货币开启了一个全新的设计空间，创造了在 Web2 时代根本不可能实现的体验。其功能源于加密货币所带来的独特优势：1）全球支付；2）链上资产和身份的可组合性；3）创造新市场和新资产。这些元素结合在一起，将带来全新的体验。
-
-举几个例子，例如 Crypto: The Game 使用加密货币作为支付渠道。未来可以想象这款游戏将利用个加密货币引入各种新机制，比如嵌入预测市场，让观众可以对接下来发生的事情下注，从而在 Web2 可能实现的功能之外增加另一层参与性。根据我在过去 7 年多的市场投资经验，我意识到世界上有一整套市场和网络类型本应存在，这意味着它们将惠及最终用户。但却没有存在，因为存在巨大的冷启动问题。例如，从新的约会应用程序到本地社交网络，再到各种服务的市场平台，这些网络都是许多 Web2 创始人试图建立的，但却很难起步或扩大规模。你可以将代币作为一种新的引导工具来构建这些网络。这
-
-另一个只有使用加密货币才能实现的例子是，新的可组合应用程序和分销渠道可以连接到用户的钱包，从而实现更丰富的操作。上个月推出的 Farcaster Frames，这是一个用于构建迷你应用程序的框架。换句话说，这些应用程序可以在用户已经花费时间和钱包已经连接的地方满足他们的需求。我们已经看到开发者在使用这个新框架来创建各种体验。作为其延伸，可组合性允许您创建无头市场，利用全球链上流动性，但无论用户的钱包连接在哪里，最终用户体验都能满足他们的需求。最终结果是降低交易摩擦，深化流动性网络效应。【原文为英文】</p><a href="https://twitter.com/ljin18/status/1767978929569358251">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-15T07:30:24+00:00</pubDate>
-</item>
-<item>
-<title>【英文】Solana 深度剖析：重塑叙事框架</title>
-<link>https://twitter.com/kelxyz_/status/1673725589876797441</link>
-<guid>https://twitter.com/kelxyz_/status/1673725589876797441</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。文章梳理了Solana的特点及优势，包括其状态压缩提供低资产发行成本的特点，RPC供应商对压缩功能的重要性，Solana规模优势超过Rollup，地方收费市场提供L2扩展，SOL与ETH最终状态相似，以及SOL的发行量问题。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>Solana 是所有加密货币中最具争议的话题。Messari 研究员 kelxyz 撰文对 Solana 的特点及优势进行了梳理分析，包括其估值介绍及与以太坊的对比。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/kelxyz_/status/1673725589876797441">https://twitter.com/kelxyz_/status/1673725589876797441</a></p>
-<p><strong>文章作者：</strong></p><p>Kel</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Kel：</strong>1）Solana 的状态压缩提供了永久低资产发行成本。据我所知，这是在不耗费 Masayoshi Son 现金的情况下在链上运行 Web2 商业模式的唯一方法；
-
-2）RPC 供应商对压缩功能的充分发挥直观重要，Helius 为此作出了巨大贡献；
-
-3）就目前来看，Rollup 的规模似乎还达不到 Solana；
-
-4）地方收费市场可以提供 L2 类型扩展，并且不引入新的跨链桥风险；
-
-5）在去中心化方面，SOL 与 ETH 的最终状态是一样的；
-
-6）关于商品价值，SOL 的发行量远远超过了费用的消耗量。要达到平衡，交易量或手续费必须达到 350 倍。【原文为英文】</p><a href="https://twitter.com/kelxyz_/status/1673725589876797441">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-15T06:28:52+00:00</pubDate>
-</item>
-<item>
-<title>对话 Cycle Network：全链应用、链抽象和基础设施发展方向</title>
-<link>https://substack.chainfeeds.xyz/p/cycle-network</link>
-<guid>https://substack.chainfeeds.xyz/p/cycle-network</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。<br />ChainFeeds邀请Cycle Network CEO Robbie讨论全链应用现状、链抽象、未来基础设施发展。 Robbie表示，随着链抽象概念兴起，整个行业面临着安全、gas费用、跨链交互、用户复杂性等问题。Cycle致力于建立无信任的全链账本，通过Rollup技术减少多链部署合约，实现全链的无信任交互。他们希望促进全链数据编程，摆脱多链束缚，实现无信任通信和无信任桥接。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>ChainFeeds 邀请到专门在做链抽象的团队 Cycle Network CEO Robbie，就当下全链应用的现状、链抽象叙事、未来基础设施的发展方向等问题展开探讨。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://substack.chainfeeds.xyz/p/cycle-network">https://substack.chainfeeds.xyz/p/cycle-network</a></p>
-<p><strong>文章作者：</strong></p><p>0xNatalie</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Robbie：</strong>对与全链应用的现状对于项目开发者来说，因为在过去可能是个单体链的时代，很多开发者会选择某一个网络去部署自己的一个应用。在单体链 L1 争夺的时代，L1 的构成成本相对较高，那么每个 L1 能够吸附的一个用户体量还是相对较大的，所以开发者选择单链去构建的应用是有生存空间的。现在大家可以看到在模块化的一个既定的趋势，这个背景下很多应用转到二层去 build，各个二层的网络都在去争夺一个 TVL。应用如果还要类似像单体链时代这样的一种打法去构建的话，会发现他们带着沉重的裹脚布在整个 web3 的世界去构建，给开发者带来割裂部署的问题。所以可以看到现在这样一个情况下，整个行业面临着各种不安全、gas 昂贵、跨链交互延迟、用户使用复杂程度高等问题。
-
-23 年末的时候链抽象这个概念一下就火起来了，这样一个叙事的确是能够很好的概括我们想做的一个事情，但我们其实也观察到就目前市面上有很多的类似的项目也在尝试去做我们相同的事情。我们在 22 年十月份就有了这个想法，因为当时正好是有 ETH Global 的一个 Hackson，所以想一起去组了一个小团队想去试一下。当时我们在想通过自托管的方式让用户与整个链上的数据进行交互，一定是一个未来非常大的趋势。现在整个行业的大部分的用户其实是沉淀在中心化的应用，那到底是什么去阻碍了用户去到真正的一个去中心化的世界，包括对于开发者来说，怎样能让开发者去 Focus 在自己的应用发展过程中，不会被自己所选择的 Infra 去限制。所以我们当时就立了 Cycle 这个项。Cycle 的优势是利用 Rollup 技术实现应用的开发者不用去多链部署合约这一层，并且终端的用户感知不到跨链的存在，这也是链抽象的目标。
-
-回到 Cycle 的初心就是我们想定义新的全链账本的开发范式。其实可以看到我们 Trustless 是 Crypto 里面的一种信仰吧。Trustless 是整个 Crypto 世界里一直所追求的一件事情。Cycle 保持着对 Trustless 的这个初心， 对 Trustless 有着极致要求。所以目前所有的资源基本上是投入到了这个无信任的全链账本的研发中。我们希望实现的目标就是促进整个行业未来有这样一个全链账本，应用能够用它自由地在一个 web3 世界进行全链数据的编程，不再被多链束缚。我们通过建立在安全基础上的底层链路通信，实现全链的无信任交互。众所周知，L1 和 L2 桥接是双向验证的过程，只要资产处理正常，它就是无信任的本地桥接。我们将这一特性扩展到 Cycle 所连接的所有外部网络，实现了各个网络之间的无信任通信。</p><a href="https://substack.chainfeeds.xyz/p/cycle-network">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-15T06:23:33+00:00</pubDate>
-</item>
-<item>
-<title>Celestia 创始人：百日上线续写 DA 华章</title>
-<link>https://mp.weixin.qq.com/s/KsjAg-ccQ8FRVVwnnEaOOw</link>
-<guid>https://mp.weixin.qq.com/s/KsjAg-ccQ8FRVVwnnEaOOw</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。在Celestia推出后的122天中，可扩展的数据可用性的出现使应用程序和开发人员受益。Layer 3（如Arbitrum Orbit和Optimism Superchain）的部署和生产化，Rollup作为服务提供商的推出，以及对更高吞吐量和数据可用性采样安全性的追求展示了Celestia在协议升级和发展方面的雄心壮志。这些步骤将进一步提高Celestia的能力，提供更多的应用程序和用户。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>本篇文章为 Celestia 创始人兼 CRO John Adler 带来的「DA: 100 Days Later」主题演讲内容，谈一谈在 Celestia 推出后的 122 天，以及可扩展数据可用性的出现如何使应用程序和开发人员有所作为。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/KsjAg-ccQ8FRVVwnnEaOOw">https://mp.weixin.qq.com/s/KsjAg-ccQ8FRVVwnnEaOOw</a></p>
-<p><strong>文章作者：</strong></p><p>John Adler（Celestia 创始人）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>John Adler（Celestia 创始人）：</strong>有许多 Layer 2 和 Rollups 等协议并不会在以太坊上。有一些是 Celestia native 的，或者是 native 于其他区块链的，比如说 Solana， 我不知道 Solana 是否有任何的 Layer 2，但是你可以在这里看到，很多都在用我们 Celestia 来进行 DA，我们还看到了一些长时间以来人们一直在谈论，但长时间没有部署的东西，其中之一是缺乏可扩展的 DA 解决方案，如果没有可扩展的 DA 解决方案，大量的执行就没有太多价值，因为执行并不是瓶颈，DA 的成本才是。但是从那时起，我们看到了 Layer 3 的部署和生产化。例如，在 Arbitrum 生态系统中有 Arbitrum Orbit，还有 Optimism 超级链。当然，还有一些团队正在开发它们的 Layer 3 解决方案，正在进行中。例如 zkSync Hyperchains 还有 Starknet。Layer 3 具有这种长期以来一直在谈论的分形扩容。但是，由于 DA 是执行的瓶颈，所以以前并不太需要它们。
-
-现在有了可扩展的 DA 解决方案，你就会看到像 Arbitrum Orbit 和 Optimism Superchain 这样的东西进入生产阶段，人们可以启动大量的 Rollups，具有各种不同的良好特性。你可以共享桥梁，共享流动性，共享共同的社区价值和治理等等。在 Celestia 推出之前，这实际上都不算什么事。还有 RaaS 或 Rollup 作为服务提供商的推出。它其实可以让你部署一个 Rollup，并选择要使用的堆栈，例如 OP 堆栈、Superchain 或 Arbitrum Orbit。选择它的链。因此，它可以是以太坊或者其他的。或者它可以是，你可以选择使用这些堆栈中的一个来部署你的 Rollup。点击几下按钮，点击部署，然后，你的 Rollup 就被部署了。与部署智能合约一样容易，或者在这种情况下甚至可能更容易。这种东西在模块化区块链之前根本不存在。
-
-接下来呢？我们还没有结束，当然。我们需要更多的吞吐量，就怕没有更多的吞吐量。因此，我们的目标是至少 1GB 的区块，这将提供大约每秒 100MB 的吞吐量，这又是一个数量级的增加。Celestia 的推出比当时存在的情况多了两个数量级。我们希望再增加两个数量级。这将使你可以拥有十亿用户和百万个 Rollup。此外，提高数据可用性采样的安全性，这是所有这些数据可用性协议的安全基础，包括 Celestia、EigenDA、Avail，甚至以太坊 Danksharding 都使用了一些形式的数据可用性采样，它是安全的基础。因此，我们正在开发我们一直称之为 level-5 轻节点安全性的东西，其中包括直到匿名数据可用性采样。最后，这种协议随着运行轻节点的用户数量增加而扩展。</p><a href="https://mp.weixin.qq.com/s/KsjAg-ccQ8FRVVwnnEaOOw">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-15T05:27:26+00:00</pubDate>
-</item>
-<item>
-<title>技术解析 Particle Chain：如何帮 Merlin 达成 40 亿美元 TVL？</title>
-<link>https://mp.weixin.qq.com/s/DCMJK1CmgV02WCfMdNcnOg</link>
-<guid>https://mp.weixin.qq.com/s/DCMJK1CmgV02WCfMdNcnOg</guid>
-<content:encoded><![CDATA[
-<div> 
-<br /><br />摘要：<br />这些信息是积极的。<br />加密研究员Haotian认为「链抽象」是下一个模块化焦点，介绍了Particle Chain的链抽象技术，并解读了MerlinChain吸纳40亿美元TVL资产的原因。文章提及MerlinChain是EVM-Compatible的BTC Layer2链，通过高扩展性为BTC和其衍生资产构建生态。Particle Network的BTC-Connect支持BTC资产的跨链转移至MerlinChain，在此过程中解决了BTC原生资产的Wrap版本存放、资产流通管理和链下索引器系统的关键问题。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>加密研究员 Haotian 认为「链抽象」是模块化之后的下一个焦点赛道，并撰文从 Particle Chain 的链抽象技术出发解读了 MerlinChain 能够吸纳 40 亿美金 TVL 资产的原因。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/DCMJK1CmgV02WCfMdNcnOg">https://mp.weixin.qq.com/s/DCMJK1CmgV02WCfMdNcnOg</a></p>
-<p><strong>文章作者：</strong></p><p>Haotian</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Haotian：</strong>以 MerlinChain 为例，它本身是 EVM- Compatible 的新兴 BTC Layer2 链，目的通过 Layer2 的高扩展性能为 BTC 及 BRC20、ARC20、BTC420 等 BTC Layer1 上原生资产扩展应用生态，让这些 BTC 衍生资产能够摆脱主网链性能局限，释放出更大的流动性及市场潜力。因此，MerlinChain 的主要技术门槛在于如何把 BTC 原生资产及其他铭文风刮起来的衍生资产「跨链」到 Layer2 链上并快速构建一个「应用协议」生态，给铭文资产一个庞大的流动性市场，进而盘活沉寂许久的铭文生态。要做到这些，需要能无缝连接 B TC UTXO 链和 EVM- Compatible 链，涉及 BTC 资产安全跨链、BRC20 等衍生资产无缝账本迁移、BTC 等系列资产在二层的 DeFi 应用环境快速构建等等技术问题。
-
-以 Particle 对 Merlin 的技术支持为例，看看 Particle Network 专门定制开发的 BTC-Connect 具体如何工作：简单来说，Unisat 和 Metamask 分别有不同的公私钥加密算法以及解析签名特殊性，Particle 需要衔接好双方的通信协调工作：
-1）当用户在 Unisat 发起交易时，Unist 要先通过 Particle 的 SDK，向 Partcile Chain 发出交易请求，Particle 链会先生成该 Unisat 地址对应的一个 EVM Smart Contract 地址，然后该 AA 地址会在 EVM 环境下发起一个交易，并请求 MerlinChain 的响应；
-2）用户初次连接时，需要先将一部分 BTC 链上的资产 Bridge 至 Particle 链上的 AA 地址中，该地址具备 Paymaster 代付能功能，可代执行后续一系列交互操作，比如委托交易，代付 Gas、多重签名管理等等；
-3）在 Particle 完成一系列 SDK 可交互操作性基础衔接后，用户交易发送到 Particle Chain，Particle Chain 会验证执行，协调 MerlinChain，Merlin 收到新的交易请求时，会直接通过 AA 合约解析验证 Bitcoin 钱包签名，完成交易。
-
-在完成钱包抽象的适配处理后，Particle 在 MerlinChain 的资产迁入和处理等环节也都发挥一定作用，比如：用户通过 Unisat 转移资产到 MerlinChain 会存放到由 Cobo 平台提供的托管地址中，Particle 则应立即触发响应生成相应的 Wrap 资产，并产生一个可进行多重签名和委托交易的 AA 地址，Particle 相当于 BTC 原生资产进入 MerlinChain 的必经管道。这意味着：
-1）ParticleChain 会沉淀大部分由 BTC 链迁入的原生资产的 Wrap 版，可以认为 MerlinChain 将近 40 亿美金的 TVL 资产，大部分都会在 Particle Chain 的所辖范围内；
-2）对于其他 EVM- Compatible 环境下流入的 ETH、USDT、USDC 等资产，Particle 则会基于其 AA 账户抽象特性，同样做相应的资产流通记账管理，以支撑后续 MerlinChain 上各类 Swap、Staking、Restaking 等有关的 DeFi 协议应用产生；
-3）铭文资产对应的链下 indexer 系统也至关重要，作为管理链上交易数据的核心工具，当铭文资产流入 layer2 二层 EVM 环境后，索引器需要被精准记录追踪有效并管理这类资产的流通，尤其是协调不同索引之间的账本差异时。</p><a href="https://mp.weixin.qq.com/s/DCMJK1CmgV02WCfMdNcnOg">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-15T04:38:37+00:00</pubDate>
 </item>
 </channel>
 </rss>
