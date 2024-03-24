@@ -9,13 +9,23 @@
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投。Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 参投。融资将用于团队扩大到约 80 人，并招聘跨职能部门人员。融资通过未来代币或 SAFT 的简单协议进行。 <div>
+<div> <br><br>摘要：<br>这些信息是积极的。ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，获得了Polychain Capital 领投。其他投资者包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。本轮融资和之前的四轮融资都是通过未来代币或SAFT的简单协议进行的。资金将用于招聘人员，扩大团队规模。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
 
+<item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
+<content:encoded><![CDATA[
+<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投。Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 参投。融资将用于团队扩大到约 80 人，并招聘跨职能部门人员。融资通过未来代币或 SAFT 的简单协议进行。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
@@ -10964,20 +10974,6 @@ Cell 模型实现扩展性：CKB 不仅继承了比特币架构的思想，还�
 高层次「抽象」：CKB 通过 Cell 模型实现了账户抽象。例如，Nervos 生态钱包 UniPass 打造了一套基于邮箱和手机的身份认证系统。用户能够通过邮箱和密码登录，类似于传统互联网账户。去中心化身份服务提供商 d.id 团队开发的去中心化域名协议 .bit 也是利用 Nervos 抽象账户的特性，使得互联网用户、以太坊用户、EOS 用户都可以直接操作应用，而不仅仅局限于 CKB 用户。此外，CKB 采用的是 CKB-VM，借助 RISC-V 指令集的特性，CKB-VM 使得开发者可以使用 C 和 Rust 等语言实现密码学算法。例如，基于 CKB 构建的 JoyID 钱包就充分利用了 Nervos CKB 自定义密码学的优势，实现了无需密码和助记词，直接用指纹等生物辨识技术创建钱包和确认交易。最终，CKB 的目标是构建更高层次的抽象以提高性能及吞吐量。随着抽象层次的提高，Nervos 网络能够将更多工作迁移到链外或 Layer 2 上。</p><a href="https://substack.chainfeeds.xyz/p/ckb-layer2">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-09T04:50:15+00:00</pubDate>
-</item>
-<item>
-<title>【英文】Based Espresso 简介：如何真正构建共享排序市场？</title>
-<link>https://hackmd.io/@EspressoSystems/BasedEspresso</link>
-<guid>https://hackmd.io/@EspressoSystems/BasedEspresso</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的<br />Espresso 正在创建一个共享排序市场，允许Layer2将区块空间出售给提议者，并创造剩余价值。Based Espresso特性包括L1有效性和中立性、L1可组合性、快速（预）确认以及收入再分配。基于Espresso的设计实现了预确认安全性和排序收益分成，通过动态出售排序权利的市场机制。 L1提议者可以参与排序和提供预先确认，但如果不行使权利，其他方也可获得相同能力。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>Espresso 正在创建一个共享排序市场，通过这个市场，Layer2 将区块空间出售给共享提议者，包括以太坊主网 EVM 本身的提议者，他们通过满足用户在多个链上的意图来创造剩余价值。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://hackmd.io/@EspressoSystems/BasedEspresso#The-Based-Espresso-design">https://hackmd.io/@EspressoSystems/BasedEspresso#The-Based-Espresso-design</a></p>
-<p><strong>文章作者：</strong></p><p>Ben Fisch</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Ben Fisch：</strong>我们努力实现的 Based Espresso 特性包括：1）L1 有效性和中立性： Rollup 从以太坊 L1 继承了有效性和可信中立性，不会因 L1 外部基础设施的故障而造成过度延迟；2）L1 可组合性：以太坊主网 EVM（L1）区块的提议者应能够与 L1 同步更新 Rollup 状态，并在 Rollup 和 L1 之间实现其所需的任何原子、条件执行。最终，通过实时证明，该提议者应能促进 Rollup 上的应用程序与 L1 之间的同步可组合性；3）快速（预）确认：当 Rollup 交易被纳入区块后，Rollup 交易的用户应能快速获得 Rollup 交易确认，几乎没有延迟。在理想情况下， Rollup 交易的确认应具有可忽略不计的逆转风险，至少以其所依托的以太坊 L1 状态的最终性为条件。用户还应该能够表达包含 Rollup 交易和以太坊主网 EVM（L1）执行之间原子依赖关系的意图，从质押提议者那里获得意图满足的预先确认（或违反意图的低成本保险）；4）收入（MEV）再分配： Rollup 应从联合排序 MEV 中获得与其边际贡献成比例的份额。
-
-基于 Espresso 的设计实现了上一节所述的基于排序的理想需求。与普通排序相比，基于 Espresso 的排序为 Rollup 提供了更强的预确认安全性（最终性）和排序收益分成。事实上，Based Espresso 的排序不是简单地将排序权免费授予 L1 提议者，而是参与一个可以动态出售这些权利的市场。这基于两个不同的想法，一个是利用 BFT 终结小工具，L1 验证者可以通过重新排序参与其中；另一个是使用类似于执行票的提议者选择机制。另一个重要区别是，虽然 L1 提议者可以获得提议 Rollup 和提供预先确认的权利，但如果 L1 提议者不为自己的时隙行使这一权利，另一方也会获得这一权利，并具有提供预先确认的相同能力（尽管只针对 L2 事务）。如果最初只有一小部分 L1 提议者参与 Rollup 排序和预先确认，因此 L1 到 L2 的同步互动就不那么频繁，那么这一点就特别有利。【原文为英文】</p><a href="https://hackmd.io/@EspressoSystems/BasedEspresso#The-Based-Espresso-design">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-09T04:22:47+00:00</pubDate>
 </item>
 </channel>
 </rss>
