@@ -9,10 +9,62 @@
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，估值达 10 亿美元。投资方包括 Polychain Capital、Animoca Brands 等，融资通过未来代币或 SAFT 进行。资金将用于扩大团队规模、招募人才、产品开发和市场营销。<br><br>这些信息是积极的。 <div>
+<div> <br><br>摘要：<br>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，融资总额估值达到了 10 亿美元。这次融资由 Polychain Capital 领投，同时还有其他投资者参与。融资将用于招聘新人扩大团队规模，实现团队持续发展。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
+<item>
+<title>【英文】RIP-7212：支持 secp256r1 曲线的预编译</title>
+<link>https://www.alchemy.com/blog/what-is-rip-7212</link>
+<guid>https://www.alchemy.com/blog/what-is-rip-7212</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的<br>Rollup Improvement Proposal 7212是以太坊协议的核心变更，旨在提供廉价、安全、快速的P256曲线验证。RIP-7212将支持secp256r1曲线的预编译合约，提供高效、安全和快速的P256验证方式。已经有一些团队承诺在其rollup生态系统中实施RIP-7212。开发者可以结合RIP-7212和ERC-6900，创建一个简单的账户插件，实现高效P256验证，为用户提供廉价、安全的生物识别验证。
+ <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Rollup Improvement Proposal（RIP）7212 是以太坊协议的一项核心变更，旨在提供廉价、安全、快速的 P256 曲线验证。Clave 研究员 Dogan Alpaslan 和 Alchemy 工程师 Noam Hurwitz 共同撰文，讨论开发者如何使用生物识别签名器，通过即将集成的 RIP-7212（以前称为 EIP-7212）来改善用户体验。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.alchemy.com/blog/what-is-rip-7212">https://www.alchemy.com/blog/what-is-rip-7212</a></p>
+<p><strong>文章作者：</strong></p><p>Dogan Alpaslan、Noam Hurwitz</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Dogan：</strong>RIP-7212 是支持 secp256r1 曲线的预编译合约，是第一个被 Layer2 区块链提出并通过的 Rollup Improvement Proposal。预编译合约不是传统意义上的「合约」，而是预定义、「预编译」的原生函数，在以太坊协议中原生可用。预编译合约针对某些操作的性能和 Gas 成本进行了优化，例如加密计算（如 secp256k1 和 secp256r1 的签名验证）或哈希函数。
+
+与其他解决方案相比，使用 RIP-7212 验证 P256 只需花费 3450 Gas，比最佳非协议变更方案减少了 100 倍。RIP-7212 是在 EVM 链上验证 P256 的最高效、最安全且最快的方法。
+
+RIP-7212 规范已最终确定，一些团队（Kakarot、Polygon、Optimism、zkSync 和 Arbitrum）已经承诺在其 rollup 生态系统中实施这种预编译。RIP-7212 的用例不仅限于智能账户，还可用于验证可信执行环境的远程证明，而这种环境已用于去中心化区块构建（SUAVE）、rollup（Taiko 和 Scroll）2FA 等等。
+
+RIP-7212 推出后，下一步就是让开发者尽可能轻松地使用它来改善终端用户体验。将新代码集成到智能账户中是一项高摩擦、高风险的工作，即使是 RIP-7212 提供的这种高度简化的流程，也仍需精心架构、测试和审核，这正是 ERC-6900 的优势。将 RIP-7212 和 ERC-6900 结合起来，可以产生一个简单的账户插件，实现高效 P256 验证，以最小开发者开支为用户提供廉价、安全的生物识别验证。随着 RIP-7212 的主网采用加速，我们很高兴发布这个支持 rollup 的插件。【原文为英文】</p><a href="https://www.alchemy.com/blog/what-is-rip-7212">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-12T09:19:28+00:00</pubDate>
+</item>
+<item>
+<title>解读 Starknet 智能合约模型与原生 AA：特立独行的技术巨匠</title>
+<link>https://mp.weixin.qq.com/s/jwThAzDuxUaf84UASV5QMA</link>
+<guid>https://mp.weixin.qq.com/s/jwThAzDuxUaf84UASV5QMA</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了Starknet的主要技术特性，包括利于ZK证明生成的Cairo语言、原生级别的AA、业务逻辑与状态存储相独立的智能合约模型。Cairo语言可实现智能合约并用于传统应用，智能合约模型分离业务逻辑与状态数据存储，AA方案吸收ERC-4337思路并实施多种反制措施。Starknet的技术特性利于代码复用、存储分层和AA生态的发展。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>抱着对区块链技术的兴趣与探索欲，以及对 Starknet 的价值发现，极客 web3 从 Starknet 的智能合约模型与原生 AA 出发，为大家简单梳理其技术方案与机制设计，展示 Starknet 的技术特性。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/jwThAzDuxUaf84UASV5QMA">https://mp.weixin.qq.com/s/jwThAzDuxUaf84UASV5QMA</a></p>
+<p><strong>文章作者：</strong></p><p>Shew、Faust</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>极客web3：</strong>Starknet 最主要的几大技术特性，包括利于 ZK 证明生成的 Cairo 语言、原生级别的 AA、业务逻辑与状态存储相独立的智能合约模型。
+
+Cairo 是一种通用 ZK 语言，既可以在 Starknet 上实现智能合约，也可以用于开发偏传统的应用，其编译流程中引入 Sierra 作为中间语言，使得 Cairo 可以频繁迭代，但又不必变更最底层的字节码，只需要把变化传导至中间语言身上；在 Cairo 的标准库内，还纳入了账户抽象所需要的许多基本数据结构。
+
+Starknet 智能合约将业务逻辑与状态数据分开来存储，不同于 EVM 链，Cairo 合约部署包含「编译、声明、部署」三阶段，业务逻辑被声明在 Contract class 中，包含状态数据的 Contract 实例可以与 class 建立关联，并调用后者包含的代码；
+
+Starknet 的上述智能合约模型利于代码复用、合约状态复用、存储分层、检测垃圾合约，也利于存储租赁制和交易并行化的实现。虽然后两者目前暂未落地，但 Cairo 智能合约的架构，还是为其创造了「必要条件」。
+
+Starknet 链上只有智能合约账户，没有 EOA 账户，从一开始就支持原生级别的 AA 账户抽象。其 AA 方案一定程度吸收了 ERC-4337 的思路，允许用户选择高度定制化的交易处理方案。为了防止潜在的攻击场景，Starknet 做出了诸多反制措施，为 AA 生态做出了重要的探索。</p><a href="https://mp.weixin.qq.com/s/jwThAzDuxUaf84UASV5QMA">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-12T08:11:03+00:00</pubDate>
+</item>
+
+<item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
+<content:encoded><![CDATA[
+<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，估值达 10 亿美元。投资方包括 Polychain Capital、Animoca Brands 等，融资通过未来代币或 SAFT 进行。资金将用于扩大团队规模、招募人才、产品开发和市场营销。<br /><br />这些信息是积极的。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
 <item>
@@ -20,7 +72,7 @@
 <link>https://wormhole.com/from-eligibility-to-sybil-detection-a-deep-dive-into-wormholes-multichain-airdrop/</link>
 <guid>https://wormhole.com/from-eligibility-to-sybil-detection-a-deep-dive-into-wormholes-multichain-airdrop/</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Wormhole公布了空投细则，主要关注基于Wormhole的多链应用程序和链上用户。Wormhole贡献者进行了全面分析，基于交易历史和行为模式对钱包进行加权，以识别并奖励长期与Wormhole进行真正交互的用户。空投计划于2024年2月7日进行，总共空投678,823,000枚W，其中链上用户将获得81%，社区团体获得19%。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。Wormhole公布了空投细则，主要关注基于Wormhole的多链应用程序和链上用户。Wormhole贡献者进行了全面分析，基于交易历史和行为模式对钱包进行加权，以识别并奖励长期与Wormhole进行真正交互的用户。空投计划于2024年2月7日进行，总共空投678,823,000枚W，其中链上用户将获得81%，社区团体获得19%。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>Wormhole 发文公布空投细则，分享有关空投算法、链上用户奖励、多链社区以及用户资格标准的详细信息。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://wormhole.com/from-eligibility-to-sybil-detection-a-deep-dive-into-wormholes-multichain-airdrop/">https://wormhole.com/from-eligibility-to-sybil-detection-a-deep-dive-into-wormholes-multichain-airdrop/</a></p>
 <p><strong>文章作者：</strong></p><p>Wormhole</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Wormhole：</strong>Wormhole 空投重点放在两个主要群体上：基于 Wormhole 的多链应用程序和桥接器的链上用户，以及主要多链社区群体。
@@ -29,10 +81,8 @@
 
 本次空投概要：快照拍摄时间 2024 年 2 月 7 日 7:59，合格钱包总数超 40 万，总共空投 678,823,000 枚 W，占总供应量的 6.78%。其中链上用户约占空投供应量的 81%（约 5.49 亿枚 W），社区团体约占空投供应量的 19%（约 1.29 亿枚 W）。【原文为英文】</p><a href="https://wormhole.com/from-eligibility-to-sybil-detection-a-deep-dive-into-wormholes-multichain-airdrop/">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-12T07:24:19+00:00</pubDate>
 </item>
-
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
@@ -10753,44 +10803,6 @@ L2 多重验证为围绕 L2 的安全问题提供了一个前景广阔的解决�
 比特币协议核心原则和价值的保护在很大程度上归功于社区对变革的抵制。这种态度是一把双刃剑，减缓了新功能的整合和本地生态系统内的采用速度。为了摆脱这种矛盾，需要共同努力吸引用户并提升用户体验。对于特别注重比特币纯粹性的人来说，关键在于提供机会，同时不牺牲他们的核心价值观，如去中心化和安全性。特别是需要适当的基础设施和工具，以及教育资源，来培养他们对这些系统完整性的信任。</p><a href="https://www.hellobtc.com/kp/du/03/5063.html">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-12T09:59:17+00:00</pubDate>
-</item>
-<item>
-<title>【英文】RIP-7212：支持 secp256r1 曲线的预编译</title>
-<link>https://www.alchemy.com/blog/what-is-rip-7212</link>
-<guid>https://www.alchemy.com/blog/what-is-rip-7212</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。Rollup Improvement Proposal（RIP）7212是以太坊协议的关键变更，旨在提供廉价、安全、快速的P256曲线验证。RIP-7212支持secp256r1曲线的预编译合约，是第一个被Layer2区块链提出并通过的。验证P256只需3450 Gas，比其他解决方案减少100倍。各团队已承诺在其rollup生态系统中实施RIP-7212。结合RIP-7212和ERC-6900可以实现简单的账户插件，提供廉价、安全的生物识别验证。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>Rollup Improvement Proposal（RIP）7212 是以太坊协议的一项核心变更，旨在提供廉价、安全、快速的 P256 曲线验证。Clave 研究员 Dogan Alpaslan 和 Alchemy 工程师 Noam Hurwitz 共同撰文，讨论开发者如何使用生物识别签名器，通过即将集成的 RIP-7212（以前称为 EIP-7212）来改善用户体验。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://www.alchemy.com/blog/what-is-rip-7212">https://www.alchemy.com/blog/what-is-rip-7212</a></p>
-<p><strong>文章作者：</strong></p><p>Dogan Alpaslan、Noam Hurwitz</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Dogan：</strong>RIP-7212 是支持 secp256r1 曲线的预编译合约，是第一个被 Layer2 区块链提出并通过的 Rollup Improvement Proposal。预编译合约不是传统意义上的「合约」，而是预定义、「预编译」的原生函数，在以太坊协议中原生可用。预编译合约针对某些操作的性能和 Gas 成本进行了优化，例如加密计算（如 secp256k1 和 secp256r1 的签名验证）或哈希函数。
-
-与其他解决方案相比，使用 RIP-7212 验证 P256 只需花费 3450 Gas，比最佳非协议变更方案减少了 100 倍。RIP-7212 是在 EVM 链上验证 P256 的最高效、最安全且最快的方法。
-
-RIP-7212 规范已最终确定，一些团队（Kakarot、Polygon、Optimism、zkSync 和 Arbitrum）已经承诺在其 rollup 生态系统中实施这种预编译。RIP-7212 的用例不仅限于智能账户，还可用于验证可信执行环境的远程证明，而这种环境已用于去中心化区块构建（SUAVE）、rollup（Taiko 和 Scroll）2FA 等等。
-
-RIP-7212 推出后，下一步就是让开发者尽可能轻松地使用它来改善终端用户体验。将新代码集成到智能账户中是一项高摩擦、高风险的工作，即使是 RIP-7212 提供的这种高度简化的流程，也仍需精心架构、测试和审核，这正是 ERC-6900 的优势。将 RIP-7212 和 ERC-6900 结合起来，可以产生一个简单的账户插件，实现高效 P256 验证，以最小开发者开支为用户提供廉价、安全的生物识别验证。随着 RIP-7212 的主网采用加速，我们很高兴发布这个支持 rollup 的插件。【原文为英文】</p><a href="https://www.alchemy.com/blog/what-is-rip-7212">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-12T09:19:28+00:00</pubDate>
-</item>
-<item>
-<title>解读 Starknet 智能合约模型与原生 AA：特立独行的技术巨匠</title>
-<link>https://mp.weixin.qq.com/s/jwThAzDuxUaf84UASV5QMA</link>
-<guid>https://mp.weixin.qq.com/s/jwThAzDuxUaf84UASV5QMA</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。Starknet 最主要的几大技术特性包括利于 ZK 证明生成的 Cairo 语言、原生级别的 AA、业务逻辑与状态存储相独立的智能合约模型。Cairo语言是通用ZK语言，可在Starknet上实现智能合约，同时具备灵活的编译流程。Starknet的智能合约模型区分存储业务逻辑和状态数据，提高了代码复用性和存储租赁制的实现。此外，Starknet支持原生级别的AA账户抽象，吸收了ERC-4337的思路，为AA生态的发展做出探索。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>抱着对区块链技术的兴趣与探索欲，以及对 Starknet 的价值发现，极客 web3 从 Starknet 的智能合约模型与原生 AA 出发，为大家简单梳理其技术方案与机制设计，展示 Starknet 的技术特性。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/jwThAzDuxUaf84UASV5QMA">https://mp.weixin.qq.com/s/jwThAzDuxUaf84UASV5QMA</a></p>
-<p><strong>文章作者：</strong></p><p>Shew、Faust</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>极客web3：</strong>Starknet 最主要的几大技术特性，包括利于 ZK 证明生成的 Cairo 语言、原生级别的 AA、业务逻辑与状态存储相独立的智能合约模型。
-
-Cairo 是一种通用 ZK 语言，既可以在 Starknet 上实现智能合约，也可以用于开发偏传统的应用，其编译流程中引入 Sierra 作为中间语言，使得 Cairo 可以频繁迭代，但又不必变更最底层的字节码，只需要把变化传导至中间语言身上；在 Cairo 的标准库内，还纳入了账户抽象所需要的许多基本数据结构。
-
-Starknet 智能合约将业务逻辑与状态数据分开来存储，不同于 EVM 链，Cairo 合约部署包含「编译、声明、部署」三阶段，业务逻辑被声明在 Contract class 中，包含状态数据的 Contract 实例可以与 class 建立关联，并调用后者包含的代码；
-
-Starknet 的上述智能合约模型利于代码复用、合约状态复用、存储分层、检测垃圾合约，也利于存储租赁制和交易并行化的实现。虽然后两者目前暂未落地，但 Cairo 智能合约的架构，还是为其创造了「必要条件」。
-
-Starknet 链上只有智能合约账户，没有 EOA 账户，从一开始就支持原生级别的 AA 账户抽象。其 AA 方案一定程度吸收了 ERC-4337 的思路，允许用户选择高度定制化的交易处理方案。为了防止潜在的攻击场景，Starknet 做出了诸多反制措施，为 AA 生态做出了重要的探索。</p><a href="https://mp.weixin.qq.com/s/jwThAzDuxUaf84UASV5QMA">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-12T08:11:03+00:00</pubDate>
 </item>
 </channel>
 </rss>
