@@ -9,10 +9,102 @@
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。 1. Polyhedra Network 完成 2000 万美元战略融资，估值达到 10 亿美元。 2. Polychain Capital 领投，多家机构参投。 3. 融资通过未来代币或 SAFT 简单协议进行。 4. 融资将用于招聘扩大团队，从目前的50人扩展到80人。 <div>
+<div> <br><br>摘要：<br>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，估值达 10 亿美元。Polychain Capital 领投，其他投资者包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。融资资金将用于团队扩张、产品、工程、业务开发和营销等跨职能部门。当前 50 人团队计划扩展至约 80 人。本轮融资和之前的融资都采用未来代币或 SAFT 协议。这些信息是积极的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
+<item>
+<title>【英文】从 EIP 到以太坊主网：EIP-4844 的过去、现在与将来</title>
+<link>https://blog.oplabs.co/the-collective-triumph-of-4844/</link>
+<guid>https://blog.oplabs.co/the-collective-triumph-of-4844/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的<br>本文回顾了以太坊EIP-4844的启动和实施过程，分析了对以太坊未来发展的意义。核心开发人员遇到的挑战包括复杂的设计和原型、多客户端互操作性、事务池设计、新密码学支持和网络稳健性。展望未来，以太坊计划实现全面分片，探索数据可用性解决方案和针对关键主题的并行研发工作，显示未来路线图充满活力和机遇。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>OP Labs 开发者 protolambda 撰文回顾了 EIP-4844 从启动到实施的历程，并分析了此次更新对以太坊的未来发展有何意义。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://blog.oplabs.co/the-collective-triumph-of-4844/">https://blog.oplabs.co/the-collective-triumph-of-4844/</a></p>
+<p><strong>文章作者：</strong></p><p>Protolambda</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Protolambda：</strong>构建升级并应对挑战：将 EIP-4844 引入以太坊主网的过程绝对是一项艰巨的任务，以下是核心开发人员遇到的一些情况：1）设计和原型复杂性：在研究人员的带头下，初始阶段涉及解决 EIP-4844 的复杂设计，为即将到来的事情奠定基础；2）多客户端互操作性：实施者面临着一项艰巨的任务，即确保不同以太坊客户端之间的无缝操作，解决网络固有的复杂性；3）事务池设计： Geth 团队接受了设计一个能够承受 DoS 和负载问题的事务池的挑战，这是可扩展性的关键组成部分；4）支持新密码学：KZG 密码学的实施需要专门的团队进行特殊的仪式，以确保网络的安全性和完整性；5）确保网络稳健性：从吞吐量的压力测试到协调开发网络、测试网络和影子分叉，EF Devops 团队在确保网络为 EIP-4844 做好准备方面发挥了关键作用。
+
+扩展方面的反思和未来雄心：展望未来，全面分片的愿景及更多可能性令人振奋。其中包括计划逐步增加每个区块的 blob 数量，探索 PeerDAS 和全 DAS 等创新数据可用性解决方案，以及针对抗 MEV、Verkle Tree 和网络优化等关键主题的并行研发工作。所有这些都预示着未来的路线图将充满活力。未来的道路充满机遇和挑战，但如果说 EIP-4844 的故事告诉了我们什么，那就是以太坊社区完全有能力将有远见的想法变为现实。【原文为英文】</p><a href="https://blog.oplabs.co/the-collective-triumph-of-4844/">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-14T03:21:36+00:00</pubDate>
+</item>
+<item>
+<title>以太坊 Dencun 升级已在以太坊主网激活</title>
+<link>https://twitter.com/parithosh_j/status/1767973626987606190</link>
+<guid>https://twitter.com/parithosh_j/status/1767973626987606190</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。以太坊 Dencun 升级已在以太坊主网激活，使得Arbitrum、Optimism、Base、Starknet等Layer2解决方案得以启用或即将启用。此次升级将为以太坊网络带来更高的性能和更好的去中心化应用体验。 <div>
+<p>以太坊 Dencun 升级已于北京时间 3 月 13 日 22 时左右在以太坊主网激活。随着以太坊主网成功完成 Dencun 升级，Arbitrum、Optimism、Base、Starknet 等 Layer2 均已启用或即将启用 blob。</p><p><a href="https://twitter.com/parithosh_j/status/1767973626987606190">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-14T02:07:11+00:00</pubDate>
+</item>
+<item>
+<title>【英文】比特币正面临需求冲击，有何影响？</title>
+<link>https://blog.coinshares.com/the-bitcoin-demand-shock-5be12c1738b3</link>
+<guid>https://blog.coinshares.com/the-bitcoin-demand-shock-5be12c1738b3</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。James Butterfill指出，比特币正经历积极的需求冲击，主要是由于ETF的发行需求增加。目前，ETF的每日平均需求量已经超过了比特币的每日平均开采量，导致价格大幅上涨。美国ETF市场已经吸引创纪录的资金流入，比特币供应量相对固定，市场正在寻找新的供需平衡点。这种情况预计将持续一段时间，直至市场找到新的平衡点。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>CoinShares 研究主管撰文对 ETF 的发行需求和即将到来的减半将加剧需求冲击的影响进行了分析解读。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://blog.coinshares.com/the-bitcoin-demand-shock-5be12c1738b3">https://blog.coinshares.com/the-bitcoin-demand-shock-5be12c1738b3</a></p>
+<p><strong>文章作者：</strong></p><p>James Butterfill</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>James Butterfill：</strong>目前，我们认为比特币正在经历一种积极的需求冲击。美国证券交易委员会（SEC）批准了基于现货的 ETF，为超过 14 万亿美元的资产提供了进入传统市场的通道，尽管这一事件众所周知，但其影响规模和时机尚不明确。然而，1 月 11 日推出的 ETF 已经导致了每日平均需求量达到 4500 个比特币（仅限交易日），而与此同时，新比特币的每日平均开采量仅为 921 个。这导致了近期比特币价格的大幅上涨，因为新开采的比特币供应跟不上需求，导致 ETF 发行者不得不主要从二级市场采购。数据显示，OTC 市场持有量自 2020 年以来已经下降了 74%，这很可能是由于近年来 ETF 需求的增加所致。
+
+从统计数据来看，自 2020 年以来，美国 ETF 已经见证了创纪录的 100 亿美元资金流入，远远超过了 2005 年首个黄金 ETF 在同一时期的资金流入。与 2020 年的情况相似，尽管需求量大增，但比特币供应量是固定且不可变的，因此市场需要时间来寻求新的供需平衡。
+
+总的来说，比特币市场正在经历一种积极的需求冲击，这导致了价格的上涨。而与大宗商品市场不同，比特币的供应量是固定的，因此市场调整通常会在价格层面进行，而不是在供应水平上。这种情况预计将持续一段时间，直至市场找到新的平衡点。【原文为英文】</p><a href="https://blog.coinshares.com/the-bitcoin-demand-shock-5be12c1738b3">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-13T08:59:37+00:00</pubDate>
+</item>
+<item>
+<title>SevenX Ventures：速览 11 大主流加密 AI 项目</title>
+<link>https://www.jinse.cn/blockchain/3677551.html</link>
+<guid>https://www.jinse.cn/blockchain/3677551.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。在ETHDenver大会期间，SevenX Ventures邀请了11个最主流的AI项目。其中包括Grass，提供数据访问协议；Story Protocol，链上IP层允许创作者自主设置参与规则；Space and Time，索引器和ZK证明器；Bittensor，去中心化的开源AI平台；以及Sentient，主权激励驱动的人工智能开发平台。这些项目各有自己的愿景、实现方法和应用场景。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>ETHDenver 大会期间，SevenX Ventures 在 ETHDenver 期间邀请了 11 个最主流的 AI 项目。本文将简要概述各项目愿景、实现方法和应用场景。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.jinse.cn/blockchain/3677551.html">https://www.jinse.cn/blockchain/3677551.html</a></p>
+<p><strong>文章作者：</strong></p><p>Rui（SevenX Ventures）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Rui（SevenX Ventures）：</strong>1）Grass：数据提供协议，使数据可访问，促进 AI 基础设施的公平。用户安装一个 Chrome web extension（网络扩展程序），并利用其多余的计算和带宽来扫描互联网搜索人工智能数据。Grass 运营着一个由近 100 万个全球网络抓取节点组成的网络。使用这个网络，Grass 每天清理擦除超 1TB 的数据，然后生成结构化数据集。
+
+2）Story Protocol：可组合的链上 IP 层允许创作者自主设置参与规则。为全局 IP 作品增加可辨性和流动性。创作者可以购买许可式 NFT，将其静态 IP 转换为可编程 IP。可编程 IP 是一个任何程序都可以读写的层，由 Nouns 和 Verbs 组成。Nouns 包括数据结构、IP 相关元数据、使用 ERC6551；Verbs 包括模块，IP 资产的一系列功能，如许可、衍生作品的收入流和全局访问。只要衍生品盈利，收益就会自动回流。
+
+3）Space and Time：索引器和 ZK 证明器，它根据索引数据证明 SQL 查询或向量搜索。LLM 提供商可以将自己的链上 / 链下训练数据集加载到 Space and Time，在那里数据被见证并使用加密承诺进行阈值签名，随后用于证明数据集确实被用于训练。那之后，律师或审计员 / 审查员可以确保数据集在训练后没有被篡改。Space and Time 开发了 GPU 加速器「Blitzar」，它已在单个 GPU 上实现以 14 秒的验证时间完成 200 万行表查询。
+
+4）Bittensor：去中心化的开源 AI 平台。Bittensor 网络有 32 个子网。这些子网始于模型，但现在已经扩展到存储、计算、抓取、跟踪和不同的人工智能领域。TAO 代币激励子网建设者不断完善模型或项目，验证者对子网的结果进行排名，排名将改变 TAO 的分布，最后一名将被踢出网络。这一机制保证了模型竞争产出最佳输出数据，而对集体价值最大的工作将获得奖励。
+
+5）Sentient：主权激励驱动的人工智能开发平台。Sentient 使用众包方法，支持社区协调和贡献训练模型以降低成本，使用开放协议控制推理，实现模型之间的可组合性，并将价值流回网络参与者。聚合 web2 和 web3 力量，并利用代币，Sentient 将在很大程度上激励开发人员进行无需信任的 AGI 的建设。</p><a href="https://www.jinse.cn/blockchain/3677551.html">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-13T07:58:10+00:00</pubDate>
+</item>
+<item>
+<title>Web3 注意力经济：消费者应用与价值注意力理论</title>
+<link>https://mp.weixin.qq.com/s/d5ls45PFWpayeWK7ibsMHQ</link>
+<guid>https://mp.weixin.qq.com/s/d5ls45PFWpayeWK7ibsMHQ</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的<br>Shayon Sengupta介绍了一种新型应用「发布者交易所」，允许在Web3社交平台发布内容和交易。文章强调加密货币实现任意的、双向的价值转移，将金钱和注意力市场联系起来。发布者交易所的目标是在用户关注的内容同时进行交易，实现对注意力的货币化。未来消费者应用预计会将加密货币纳入其结构和用户体验中，改变内容和交易场所的范围。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Multicoin Capital 投资合伙人 Shayon Sengupta 撰文介绍了一种新型应用「发布者交易所」，指的是可以在 Web3 社交平台发布内容和交易。让用户能够在其中发布内容、吸引关注、实现交易，并从中获得利益。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/d5ls45PFWpayeWK7ibsMHQ">https://mp.weixin.qq.com/s/d5ls45PFWpayeWK7ibsMHQ</a></p>
+<p><strong>文章作者：</strong></p><p>Shayon Sengupta</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Shayon Sengupta：</strong>互联网实现了任意的、双向的信息传输。加密货币在这些基础上构建，通过实现任意的、双向的价值转移。如今的消费者互联网 —— 流媒体平台、在线媒体、移动应用、社交媒体等 —— 可以被总结为一个注意力市场，因此，金钱和注意力越来越具有相似的特征。虽然注意力和价值的市场在现实中存在，但我们尚未真正看到它们的碰撞。当我们思考加密消费者应用时，这就是我们在寻找的内容。加密使得能够快速创建围绕关注的新资产，并在聚集了这种关注的地方进行交易：面向消费者的应用程序。在未来几年，我们预计消费者开发人员会将加密货币有意义地纳入其应用程序的结构和用户体验中，大规模地改变可以交易的内容和交易场所的范围。在内部，我们将这类应用称为「发布者交易所」。
+
+交易所在加密领域自然而然地具有产品市场契合度，因为加密货币的核心用途之一是传输价值。Coinbase（法币兑换和中心化交易所）、Tensor（数字收藏品交易所）、Jito（交易意向和区块空间交易所）和 Phantom（订单流交易所）等都是不同形式的交易所。随着我们思考下一代消费者应用，我们期望消除交易所和发布者之间的界限，打造结合货币和注意力的新体验。发布者交易所通过将发行和原生交易嵌入应用程序前端，增加了新资产发行的表面积，并允许以新颖的方式交互和协调这些资产。在熟悉的场所引入交易可能看起来狭窄或模拟，但我们相信狭窄的市场是发现新兴行为的开端，这将导致巨大新平台的诞生。
+
+Publisher-Exchange（发布者交易所）的目标是在任何特定时刻，与用户所关注的内容同时进行交易，以满足用户的需求。加密领域中下一代消费者应用程序将允许用户本地发行和交易资产，从而直接实现对他们捕获的用户注意力的货币化。</p><a href="https://mp.weixin.qq.com/s/d5ls45PFWpayeWK7ibsMHQ">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-13T06:56:48+00:00</pubDate>
+</item>
+
+<item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
+<content:encoded><![CDATA[
+<div> <br /><br />摘要：<br />这些信息是积极的。 1. Polyhedra Network 完成 2000 万美元战略融资，估值达到 10 亿美元。 2. Polychain Capital 领投，多家机构参投。 3. 融资通过未来代币或 SAFT 简单协议进行。 4. 融资将用于招聘扩大团队，从目前的50人扩展到80人。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
 <item>
@@ -20,7 +112,7 @@
 <link>https://www.longhash.vc/post/bootstrapping-developer-ecosystems-for-web3-protocols</link>
 <guid>https://www.longhash.vc/post/bootstrapping-developer-ecosystems-for-web3-protocols</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。LongHash Ventures提出了一种系统性方法，以建立和发展一个强大、参与度高的Web3开发者社区。方法分为三个发展阶段：产品前阶段、代币前阶段和代币后阶段。在每个阶段，都有不同的策略和措施，如增加开发者成功机会、培养文化和认同感、创建端到端支持机制、利用空投和建立新的管理机构。这些都有助于吸引和留住优秀的开发者，推动Web3生态系统的发展。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。LongHash Ventures提出了一种系统性方法，以建立和发展一个强大、参与度高的Web3开发者社区。方法分为三个发展阶段：产品前阶段、代币前阶段和代币后阶段。在每个阶段，都有不同的策略和措施，如增加开发者成功机会、培养文化和认同感、创建端到端支持机制、利用空投和建立新的管理机构。这些都有助于吸引和留住优秀的开发者，推动Web3生态系统的发展。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>Web3 生态系统在吸引和利用全球人才方面拥有无可比拟的优势。对于开发者社区的重要性进行低估将是一个严重的错误。LongHash Ventures 概述了一种系统性方法，旨在构建一个高度参与的 Web3 开发者社区。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://www.longhash.vc/post/bootstrapping-developer-ecosystems-for-web3-protocols">https://www.longhash.vc/post/bootstrapping-developer-ecosystems-for-web3-protocols</a></p>
 <p><strong>文章作者：</strong></p><p>LongHash Ventures</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>LongHash Ventures：</strong>要建立和发展一个强大的、参与度高的 Web3 开发人员社区，需要采用一种计划性的方法。这种方法可分为三个发展阶段：
@@ -31,7 +123,6 @@
 
 3）代币后阶段（成熟）： 生态系统应重新将重点放在支持每个阶段的构建者上，这一阶段的三个关键杠杆分别是：首先要利用空投，如果执行得当，可以将合适的开发者和项目纳入生态系统。其次是运行价值调整计划，随着代币发行后金库充实，生态系统应继续扩大其在激励新建设者和奖励团队方面的努力，更深入地关注补助金、加速器和生态系统基金。最后是组建新的管理机构。为了确保生态系统与建立在生态系统之上的 dApp 之间的长期一致性，可以考虑通过价值一致性计划（VAP）建立代币交换机制。【原文为英文】</p><a href="https://www.longhash.vc/post/bootstrapping-developer-ecosystems-for-web3-protocols">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-13T05:55:32+00:00</pubDate>
 </item>
 <item>
@@ -39,7 +130,7 @@
 <link>https://archetype.mirror.xyz/btY8TEd7Bvy_KsGvlnj9EyWkVop2xVGP0gbyuWvbOMw</link>
 <guid>https://archetype.mirror.xyz/btY8TEd7Bvy_KsGvlnj9EyWkVop2xVGP0gbyuWvbOMw</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章讨论了ETHDenver的感想，提到了叙事与基本面的冲突、宏观、基础设施和人工智能未来发展。作者认为新一代项目在模块化浪潮中针对以太坊的结构缺陷，以提高吞吐量和降低费用。此外，以碎片化和跨链竞争为中心的地缘政治范式正在出现，并传统企业对加密货币的探索正从研发阶段过渡到生产阶段。最后，机构资本引入链上可能成为重要拼图。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章讨论了ETHDenver的感想，提到了叙事与基本面的冲突、宏观、基础设施和人工智能未来发展。作者认为新一代项目在模块化浪潮中针对以太坊的结构缺陷，以提高吞吐量和降低费用。此外，以碎片化和跨链竞争为中心的地缘政治范式正在出现，并传统企业对加密货币的探索正从研发阶段过渡到生产阶段。最后，机构资本引入链上可能成为重要拼图。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>Archetype 投资人 Danny Sursock 撰文分享了一些关于 ETHDenver 的感想，包括叙事与基本面的冲突、宏观、基础设施和人工智能未来发展等。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://archetype.mirror.xyz/btY8TEd7Bvy_KsGvlnj9EyWkVop2xVGP0gbyuWvbOMw">https://archetype.mirror.xyz/btY8TEd7Bvy_KsGvlnj9EyWkVop2xVGP0gbyuWvbOMw</a></p>
 <p><strong>文章作者：</strong></p><p>Danny Sursock</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Danny Sursock：</strong>在人工智能炒作和经济乐观主义的双重作用下，公共和私人市场的爆炸式增长掩盖了几种正在发生的变化。事实上，一种截然不同的地缘政治范式正在出现：一种以碎片化和跨链竞争为中心的范式。还有一个要点值得一提：加密货币历来是大型企业尝试新技术的中转站。由于上述因素，传统企业对加密货币的探索正从研发阶段过渡到生产阶段。可以肯定的是，经济和地缘政治挑战一直在推动用户使用加密货币，尤其是在发展中市场。当然，所有这一切都取决于最后一块拼图：将机构资本引入链上。现货 BTC ETF 的批准标志着这方面的一个重要转折点，而 ETH 似乎也即将迎来类似的结果。
@@ -50,7 +141,6 @@
 
 就像以太坊试图超越比特币的功能限制一样，新一代项目也在模块化浪潮中瞄准了以太坊自身的结构缺陷。Alt L1 和侧链一直是前几轮周期的特点，但没有一个能成功颠覆以太坊在用户、TVL、开发者和活动方面的主导地位。随着 Arbitrum 和 Optimism 等项目的推出，这种情况发生了改变，这些项目旨在通过卸载以太坊上的计算，实现更好的吞吐量和更低的费用。虽然这些新层的规模已经可以与以太坊本身相媲美，甚至在某些情况下超过了以太坊本身，但构建者们还在做着更大的梦想，因为他们希望进一步优化 L1 堆栈。这是因为，尽管 L2 上的日活跃用户数量在去年增长了 8 倍，但用户的大部分实际行为看起来与历史上的 L1 活动基本相似。因此，正在形成的共识是，将交易卸载到成本更低的执行环境不足以实现真正新颖的链上体验。我们实际上需要重新构建支撑区块链的组件，从数据可用性（DA）到状态访问瓶颈和并行执行。【原文为英文】</p><a href="https://archetype.mirror.xyz/btY8TEd7Bvy_KsGvlnj9EyWkVop2xVGP0gbyuWvbOMw">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-13T04:53:21+00:00</pubDate>
 </item>
 <item>
@@ -58,7 +148,7 @@
 <link>https://substack.chainfeeds.xyz/p/7a9</link>
 <guid>https://substack.chainfeeds.xyz/p/7a9</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。咕噜认为，区块链的终局是模块化区块链，Gas 成本将大幅降低，去中心化程度得到保留。区块链的「非国家空间」提高了信任、扩大了产品市场契合度、推动了资产区块链化。去中心化交易对于区块链生态至关重要，随着链吞吐量提升，未来交易更多在链上完成。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。咕噜认为，区块链的终局是模块化区块链，Gas 成本将大幅降低，去中心化程度得到保留。区块链的「非国家空间」提高了信任、扩大了产品市场契合度、推动了资产区块链化。去中心化交易对于区块链生态至关重要，随着链吞吐量提升，未来交易更多在链上完成。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>作为以太坊发展道路上的一个重要节点，Dencun 升级将于 3 月 13 日进行。在此背景下，ChainFeeds 邀请到了以太坊 OG 咕噜，共同就以太坊生态的关键议题展开探讨，包括对链的理解、去中心化在区块链发展中的重要性，以及 DeFi、稳定币和价值存储等领域的潜力发展等。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://substack.chainfeeds.xyz/p/7a9">https://substack.chainfeeds.xyz/p/7a9</a></p>
 <p><strong>文章作者：</strong></p><p>ChainFeeds</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>咕噜：</strong>整个区块链行业的终局是模块化区块链，即 Layer1 和 Layer2 的结合：
@@ -74,7 +164,6 @@
 
 去中心化交易对于区块链生态至关重要。在区块链吞吐量足以支持每秒十万笔交易时，对用户而言，链内交易的成本是最低的，且最便捷。然而，目前高昂的 GAS 费用限制了像 DeFi 这样的应用，导致大部分交易仍然发生在中心化交易所上。但随着链的吞吐量提升，未来交易将更多地在链上完成。</p><a href="https://substack.chainfeeds.xyz/p/7a9">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-13T04:00:55+00:00</pubDate>
 </item>
 <item>
@@ -82,7 +171,7 @@
 <link>https://mirror.xyz/tumilet.eth/309o294dI38nETEUhF6Yjk8zH6smoa1rqaqv5jFbCjg</link>
 <guid>https://mirror.xyz/tumilet.eth/309o294dI38nETEUhF6Yjk8zH6smoa1rqaqv5jFbCjg</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。<br>1）Automata正在使用Flashbots进行无信任MEV供应堆栈开发，提高了安全性和隐私保护。<br>2）Automata通过实施SGX备用证明增强了Layer2的可扩展性和安全性，提高了Optimistic和ZK Rollups的有效性。<br>3）Automata的技术支持链上人工智能和Depin验证，使智能合约可以访问大型语言模型输出。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。<br />1）Automata正在使用Flashbots进行无信任MEV供应堆栈开发，提高了安全性和隐私保护。<br />2）Automata通过实施SGX备用证明增强了Layer2的可扩展性和安全性，提高了Optimistic和ZK Rollups的有效性。<br />3）Automata的技术支持链上人工智能和Depin验证，使智能合约可以访问大型语言模型输出。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>加密研究员撰文对 TEE 协处理器进行了深入研究，并对为什么认为 Automata 可能会从 SUAVE 生态系统、L2s、AI 和 DEPIN 的叙事中获益。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://mirror.xyz/tumilet.eth/309o294dI38nETEUhF6Yjk8zH6smoa1rqaqv5jFbCjg">https://mirror.xyz/tumilet.eth/309o294dI38nETEUhF6Yjk8zH6smoa1rqaqv5jFbCjg</a></p>
 <p><strong>文章作者：</strong></p><p>tumilet</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>tumilet：</strong>我认为，鉴于 TEE 协处理器（尤其是 Automata）的多方面应用，其价值被低估了：
@@ -94,10 +183,8 @@
 
 L2 多重验证为围绕 L2 的安全问题提供了一个前景广阔的解决方案，尤其是当越来越多的资产从以太坊迁移到 L2 时。Scroll 与 Automata 的合作是通过多重验证提高 L2 网络安全性的重要一步。通过将 TEE 校验器作为传统 ZK 证明的辅助机制，Scroll 旨在降低与复杂软件系统中固有的错误和漏洞相关的风险。采用多重证明方法的根本原因在于，在不影响最终时间或大幅增加交易成本的情况下加强了 L2 的安全性。【原文为英文】</p><a href="https://mirror.xyz/tumilet.eth/309o294dI38nETEUhF6Yjk8zH6smoa1rqaqv5jFbCjg">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-13T03:16:08+00:00</pubDate>
 </item>
-
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
@@ -10749,82 +10836,6 @@ NRAR 曾在 NEARCON 2023 上推出过 NEAR Tasks，目标是为了进行人工�
 「基于意图的市场分析」一文指出了如何建立一个真正去中心化的基于意图的市场的方向，而不影响提供最大的用户满意度。实现这一目标需要最大限度地降低与求解器开发和操作相关的成本，同时提供一个便于解决方案原子集成的事务平台。我们将在 Khalani Network 上实现这一愿景，将其打造为可组合求解器网络。【原文为英文】</p><a href="https://twitter.com/knwang/status/1767975287151554662">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T03:23:28+00:00</pubDate>
-</item>
-<item>
-<title>【英文】从 EIP 到以太坊主网：EIP-4844 的过去、现在与将来</title>
-<link>https://blog.oplabs.co/the-collective-triumph-of-4844/</link>
-<guid>https://blog.oplabs.co/the-collective-triumph-of-4844/</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。文章总结了EIP-4844在以太坊主网上的实施历程，并分析了对未来发展的意义。主要要点包括复杂的设计和原型、多客户端互操作性、事务池设计、支持新密码学和网络稳健性。文章还展望了未来的发展方向，包括全面分片的愿景、PeerDAS和全DAS解决方案，以及针对各种关键主题的并行研发工作。文章强调以太坊社区有能力将创新想法变为现实。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>OP Labs 开发者 protolambda 撰文回顾了 EIP-4844 从启动到实施的历程，并分析了此次更新对以太坊的未来发展有何意义。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://blog.oplabs.co/the-collective-triumph-of-4844/">https://blog.oplabs.co/the-collective-triumph-of-4844/</a></p>
-<p><strong>文章作者：</strong></p><p>Protolambda</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Protolambda：</strong>构建升级并应对挑战：将 EIP-4844 引入以太坊主网的过程绝对是一项艰巨的任务，以下是核心开发人员遇到的一些情况：1）设计和原型复杂性：在研究人员的带头下，初始阶段涉及解决 EIP-4844 的复杂设计，为即将到来的事情奠定基础；2）多客户端互操作性：实施者面临着一项艰巨的任务，即确保不同以太坊客户端之间的无缝操作，解决网络固有的复杂性；3）事务池设计： Geth 团队接受了设计一个能够承受 DoS 和负载问题的事务池的挑战，这是可扩展性的关键组成部分；4）支持新密码学：KZG 密码学的实施需要专门的团队进行特殊的仪式，以确保网络的安全性和完整性；5）确保网络稳健性：从吞吐量的压力测试到协调开发网络、测试网络和影子分叉，EF Devops 团队在确保网络为 EIP-4844 做好准备方面发挥了关键作用。
-
-扩展方面的反思和未来雄心：展望未来，全面分片的愿景及更多可能性令人振奋。其中包括计划逐步增加每个区块的 blob 数量，探索 PeerDAS 和全 DAS 等创新数据可用性解决方案，以及针对抗 MEV、Verkle Tree 和网络优化等关键主题的并行研发工作。所有这些都预示着未来的路线图将充满活力。未来的道路充满机遇和挑战，但如果说 EIP-4844 的故事告诉了我们什么，那就是以太坊社区完全有能力将有远见的想法变为现实。【原文为英文】</p><a href="https://blog.oplabs.co/the-collective-triumph-of-4844/">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T03:21:36+00:00</pubDate>
-</item>
-<item>
-<title>以太坊 Dencun 升级已在以太坊主网激活</title>
-<link>https://twitter.com/parithosh_j/status/1767973626987606190</link>
-<guid>https://twitter.com/parithosh_j/status/1767973626987606190</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。以太坊 Dencun 升级已成功激活，使得Arbitrum、Optimism、Base、Starknet等Layer2已经或者即将启用。以太坊主网充满活力地迎接新的改变，为区块链生态系统带来更多的可能性。 <div>
-<p>以太坊 Dencun 升级已于北京时间 3 月 13 日 22 时左右在以太坊主网激活。随着以太坊主网成功完成 Dencun 升级，Arbitrum、Optimism、Base、Starknet 等 Layer2 均已启用或即将启用 blob。</p><p><a href="https://twitter.com/parithosh_j/status/1767973626987606190">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T02:07:11+00:00</pubDate>
-</item>
-<item>
-<title>【英文】比特币正面临需求冲击，有何影响？</title>
-<link>https://blog.coinshares.com/the-bitcoin-demand-shock-5be12c1738b3</link>
-<guid>https://blog.coinshares.com/the-bitcoin-demand-shock-5be12c1738b3</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。文章分析了比特币市场目前正在经历的积极需求冲击。美国证券交易委员会（SEC）批准了基于现货的 ETF，导致需求增加。最新的ETF已经导致每日平均需求量超过比特币每日平均开采量。 ETF需求持续增加，而比特币供应是固定的，市场需要时间来找到新的供需平衡。比特币价格最近大幅上涨，但市场预计会找到新的平衡点。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>CoinShares 研究主管撰文对 ETF 的发行需求和即将到来的减半将加剧需求冲击的影响进行了分析解读。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://blog.coinshares.com/the-bitcoin-demand-shock-5be12c1738b3">https://blog.coinshares.com/the-bitcoin-demand-shock-5be12c1738b3</a></p>
-<p><strong>文章作者：</strong></p><p>James Butterfill</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>James Butterfill：</strong>目前，我们认为比特币正在经历一种积极的需求冲击。美国证券交易委员会（SEC）批准了基于现货的 ETF，为超过 14 万亿美元的资产提供了进入传统市场的通道，尽管这一事件众所周知，但其影响规模和时机尚不明确。然而，1 月 11 日推出的 ETF 已经导致了每日平均需求量达到 4500 个比特币（仅限交易日），而与此同时，新比特币的每日平均开采量仅为 921 个。这导致了近期比特币价格的大幅上涨，因为新开采的比特币供应跟不上需求，导致 ETF 发行者不得不主要从二级市场采购。数据显示，OTC 市场持有量自 2020 年以来已经下降了 74%，这很可能是由于近年来 ETF 需求的增加所致。
-
-从统计数据来看，自 2020 年以来，美国 ETF 已经见证了创纪录的 100 亿美元资金流入，远远超过了 2005 年首个黄金 ETF 在同一时期的资金流入。与 2020 年的情况相似，尽管需求量大增，但比特币供应量是固定且不可变的，因此市场需要时间来寻求新的供需平衡。
-
-总的来说，比特币市场正在经历一种积极的需求冲击，这导致了价格的上涨。而与大宗商品市场不同，比特币的供应量是固定的，因此市场调整通常会在价格层面进行，而不是在供应水平上。这种情况预计将持续一段时间，直至市场找到新的平衡点。【原文为英文】</p><a href="https://blog.coinshares.com/the-bitcoin-demand-shock-5be12c1738b3">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-13T08:59:37+00:00</pubDate>
-</item>
-<item>
-<title>SevenX Ventures：速览 11 大主流加密 AI 项目</title>
-<link>https://www.jinse.cn/blockchain/3677551.html</link>
-<guid>https://www.jinse.cn/blockchain/3677551.html</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。<br />在ETHDenver大会期间，SevenX Ventures邀请了11个主流AI项目。其中包括Grass提供数据访问协议，Story Protocol允许创作者设置参与规则，Space and Time提供索引和ZK证明，Bittensor是去中心化AI平台，Sentient是人工智能开发平台。这些项目通过不同的方法实现其愿景，并在各自领域寻找应用场景。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>ETHDenver 大会期间，SevenX Ventures 在 ETHDenver 期间邀请了 11 个最主流的 AI 项目。本文将简要概述各项目愿景、实现方法和应用场景。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://www.jinse.cn/blockchain/3677551.html">https://www.jinse.cn/blockchain/3677551.html</a></p>
-<p><strong>文章作者：</strong></p><p>Rui（SevenX Ventures）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Rui（SevenX Ventures）：</strong>1）Grass：数据提供协议，使数据可访问，促进 AI 基础设施的公平。用户安装一个 Chrome web extension（网络扩展程序），并利用其多余的计算和带宽来扫描互联网搜索人工智能数据。Grass 运营着一个由近 100 万个全球网络抓取节点组成的网络。使用这个网络，Grass 每天清理擦除超 1TB 的数据，然后生成结构化数据集。
-
-2）Story Protocol：可组合的链上 IP 层允许创作者自主设置参与规则。为全局 IP 作品增加可辨性和流动性。创作者可以购买许可式 NFT，将其静态 IP 转换为可编程 IP。可编程 IP 是一个任何程序都可以读写的层，由 Nouns 和 Verbs 组成。Nouns 包括数据结构、IP 相关元数据、使用 ERC6551；Verbs 包括模块，IP 资产的一系列功能，如许可、衍生作品的收入流和全局访问。只要衍生品盈利，收益就会自动回流。
-
-3）Space and Time：索引器和 ZK 证明器，它根据索引数据证明 SQL 查询或向量搜索。LLM 提供商可以将自己的链上 / 链下训练数据集加载到 Space and Time，在那里数据被见证并使用加密承诺进行阈值签名，随后用于证明数据集确实被用于训练。那之后，律师或审计员 / 审查员可以确保数据集在训练后没有被篡改。Space and Time 开发了 GPU 加速器「Blitzar」，它已在单个 GPU 上实现以 14 秒的验证时间完成 200 万行表查询。
-
-4）Bittensor：去中心化的开源 AI 平台。Bittensor 网络有 32 个子网。这些子网始于模型，但现在已经扩展到存储、计算、抓取、跟踪和不同的人工智能领域。TAO 代币激励子网建设者不断完善模型或项目，验证者对子网的结果进行排名，排名将改变 TAO 的分布，最后一名将被踢出网络。这一机制保证了模型竞争产出最佳输出数据，而对集体价值最大的工作将获得奖励。
-
-5）Sentient：主权激励驱动的人工智能开发平台。Sentient 使用众包方法，支持社区协调和贡献训练模型以降低成本，使用开放协议控制推理，实现模型之间的可组合性，并将价值流回网络参与者。聚合 web2 和 web3 力量，并利用代币，Sentient 将在很大程度上激励开发人员进行无需信任的 AGI 的建设。</p><a href="https://www.jinse.cn/blockchain/3677551.html">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-13T07:58:10+00:00</pubDate>
-</item>
-<item>
-<title>Web3 注意力经济：消费者应用与价值注意力理论</title>
-<link>https://mp.weixin.qq.com/s/d5ls45PFWpayeWK7ibsMHQ</link>
-<guid>https://mp.weixin.qq.com/s/d5ls45PFWpayeWK7ibsMHQ</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的<br />1. 发布者交易所是一种新型应用，允许在Web3社交平台上发布内容和进行交易。<br />2. 互联网和加密货币为任意的、双向的信息传输和价值转移奠定了基础。<br />3. 当前的消费者互联网可以被总结为一个注意力市场，金钱和注意力日益相似。<br />4. 加密技术使得能够快速创建围绕关注的新资产，并在这些地方进行交易，即面向消费者的应用程序。<br />5. 发布者交易所的目标是与用户关注的内容同时进行交易，实现对用户捕获的注意力的货币化。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>Multicoin Capital 投资合伙人 Shayon Sengupta 撰文介绍了一种新型应用「发布者交易所」，指的是可以在 Web3 社交平台发布内容和交易。让用户能够在其中发布内容、吸引关注、实现交易，并从中获得利益。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/d5ls45PFWpayeWK7ibsMHQ">https://mp.weixin.qq.com/s/d5ls45PFWpayeWK7ibsMHQ</a></p>
-<p><strong>文章作者：</strong></p><p>Shayon Sengupta</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Shayon Sengupta：</strong>互联网实现了任意的、双向的信息传输。加密货币在这些基础上构建，通过实现任意的、双向的价值转移。如今的消费者互联网 —— 流媒体平台、在线媒体、移动应用、社交媒体等 —— 可以被总结为一个注意力市场，因此，金钱和注意力越来越具有相似的特征。虽然注意力和价值的市场在现实中存在，但我们尚未真正看到它们的碰撞。当我们思考加密消费者应用时，这就是我们在寻找的内容。加密使得能够快速创建围绕关注的新资产，并在聚集了这种关注的地方进行交易：面向消费者的应用程序。在未来几年，我们预计消费者开发人员会将加密货币有意义地纳入其应用程序的结构和用户体验中，大规模地改变可以交易的内容和交易场所的范围。在内部，我们将这类应用称为「发布者交易所」。
-
-交易所在加密领域自然而然地具有产品市场契合度，因为加密货币的核心用途之一是传输价值。Coinbase（法币兑换和中心化交易所）、Tensor（数字收藏品交易所）、Jito（交易意向和区块空间交易所）和 Phantom（订单流交易所）等都是不同形式的交易所。随着我们思考下一代消费者应用，我们期望消除交易所和发布者之间的界限，打造结合货币和注意力的新体验。发布者交易所通过将发行和原生交易嵌入应用程序前端，增加了新资产发行的表面积，并允许以新颖的方式交互和协调这些资产。在熟悉的场所引入交易可能看起来狭窄或模拟，但我们相信狭窄的市场是发现新兴行为的开端，这将导致巨大新平台的诞生。
-
-Publisher-Exchange（发布者交易所）的目标是在任何特定时刻，与用户所关注的内容同时进行交易，以满足用户的需求。加密领域中下一代消费者应用程序将允许用户本地发行和交易资产，从而直接实现对他们捕获的用户注意力的货币化。</p><a href="https://mp.weixin.qq.com/s/d5ls45PFWpayeWK7ibsMHQ">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-13T06:56:48+00:00</pubDate>
 </item>
 </channel>
 </rss>
