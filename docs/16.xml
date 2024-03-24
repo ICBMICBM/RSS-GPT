@@ -9,13 +9,23 @@
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Polyhedra Network的开发商zkBridge以10亿美元估值完成了2000万美元的战略融资，由Polychain Capital领投。其他参投方包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium和Mapleblock Capital。融资将用于扩大团队规模、招聘跨职能部门员工并加强产品、工程、业务开发和营销。之前的融资都是通过未来代币或SAFT进行的。 <div>
+<div> <br><br>摘要：<br>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，由 Polychain Capital 领投，其他参投方包括 Animoca Brands、Hashkey Capital 等。融资资金将用于团队扩大到约 80 人，招聘产品、工程、业务开发和营销等跨职能部门。本轮融资和之前的四轮融资均通过未来代币或 SAFT 协议实施。这些信息是积极的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
 
+<item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
+<content:encoded><![CDATA[
+<div> <br /><br />摘要：<br />这些信息是积极的。Polyhedra Network的开发商zkBridge以10亿美元估值完成了2000万美元的战略融资，由Polychain Capital领投。其他参投方包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium和Mapleblock Capital。融资将用于扩大团队规模、招聘跨职能部门员工并加强产品、工程、业务开发和营销。之前的融资都是通过未来代币或SAFT进行的。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
@@ -11016,22 +11026,6 @@ MASK 最令人刮目的是其 Web2 级别的「产品力」，这和腾讯公司
 主张 3：Uniswap 和其他 CFMM（几乎）都是 0.5 阶幂永续合约。Uniswap 池中的流动性头寸的价值与两种资产相对价格的平方根成正比。对于 ETH/USD 池，LP（流动性提供者） 的价值为：V = 2 * (k * (ETH 价格 ))^0.5。其中 k 是两个代币数量的乘积。现在考虑一下幂永续合约：抵押资产：美元；指数资产：ETH；计价资产：美元；抵押比例：1.2；幂：0.5。这个幂永续合约将跟踪 ETH 价格平方根的值。LP 将获得资金费和 AMM 费用之间的差额。由于此交易抵消了价格风险，因此 0.5 阶幂永续合约交易价格应恰好低于：预期 Uniswap 费用 = 指数价格 - 标记价格。在零利率的简化情况下：均衡 Uniswap 回报 = σ²/8。其中 σ² 是交易池中一种资产相对于另一种资产的价格回报的方差。</p><a href="https://foresightnews.pro/article/detail/55068">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-08T04:22:42+00:00</pubDate>
-</item>
-<item>
-<title>【英文长推】以太坊互操作协议 Omni 白皮书解读：构建 Rollup 生态系统的枢纽</title>
-<link>https://twitter.com/chasedevens/status/1765809031757644079</link>
-<guid>https://twitter.com/chasedevens/status/1765809031757644079</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。Omni 是一个经过外部验证的互操作网络，使用新框架结合了 CometBFT 共识与 EVM，实现了亚秒级的跨 Rollup 消息验证。Omni EVM 提供全局协调层管理应用程序部署，与任何 Rollup 虚拟机或编程语言兼容。设计向后兼容现有合约，通用 gas 市场处理跨 Rollup 网络的 gas 支付。测试网即将上线，主网将随后推出。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>以太坊互操作协议 Omni 团队成员解读了最新发布的白皮书，从设计意图、技术架构、项目进展等方面介绍了 Omni Network。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/chasedevens/status/1765809031757644079">https://twitter.com/chasedevens/status/1765809031757644079</a></p>
-<p><strong>文章作者：</strong></p><p>Chase Devens</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Chase Devens：</strong>Omni 是一个经过外部验证的互操作网络，通过重质押从以太坊 L1 获得其加密经济安全性。Omni 使用一种将 CometBFT 共识与 EVM 相结合的新框架，实现了亚秒级的大规模跨 Rollup 消息验证。这个设计的关键是以太坊的 Engine API。以前的 CometBFT+EVM 框架受到内存池和状态转换的限制。Engine API 允许 Omni 将 tx 内存池移动到执行层。通过一个 ABCI++ 封装器用于处理 EVM 和 CometBFT 之间的转换。
-
-Omni EVM 提供了一个全局协调层，用于管理跨 Rollup 的应用程序部署。原生全局应用程序可在该层上构建，默认情况下可访问以太坊的所有流动性和用户。对于现有应用程序，Omni 的设计向后兼容现有合约，只需更改前端应用程序指令，就可以集成 Omni。Omni 的通用 gas 市场对此提供了进一步的支持，该工具可代表用户和开发人员处理跨 Rollup 网络的 gas 支付。
-
-Omni 的设计意图是与任何 Rollup 虚拟机或编程语言兼容，其定位是成为连接整个 Rollup 生态系统的全球枢纽。最后的测试网即将上线。主网将紧随其后。【原文为英文】</p><a href="https://twitter.com/chasedevens/status/1765809031757644079">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-08T03:18:32+00:00</pubDate>
 </item>
 </channel>
 </rss>
