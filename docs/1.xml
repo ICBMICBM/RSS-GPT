@@ -4,6 +4,94 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>深度解读Blast黄金积分价值及撸分攻略</title>
+<link>https://www.panewslab.com/zh/articledetails/l9n3dysn.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/l9n3dysn.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了当前最热门的未发币L2项目Blast，并讨论了其黄金积分的分配情况和收益估算。提供了对参与黄金积分高回报项目的介绍，包括衍生品交易平台、Dex、CDP协议等，以及它们的特点和参与方式。最后，建议探索游戏类、NFT类等项目，以期获取更多黄金积分收益。 <div>
+<p>作者：Infinity Labs Research</p>
+<p>Blast无疑是当前最热门的未发币L2，Big Bang活动有超过3000个项目报名参与，热度空前。</p>
+<p>3月22日，Blast对主网的dApp分配了第一次黄金积分，总共为1000万个，其中Bigbang获奖项目额外获得总共400万个，主网dApps总共获得600万个。这是第一期的分配，按照2-3周一次来算，估计总共还会有5次分配，总共的黄金积分估计为4000万个。</p>
+<h3><strong>1个黄金积分价值多少？</strong></h3>
+<p>按照Blast当前场外的估值50亿美元计算，假设Blast最终空投的总量为20%，即10亿美元，根据Blast的规则，其中10%给到Blast Points，10%给到Blast Gold：</p>
+<p><img alt="深度解读Blast黄金积分价值及撸分攻略" height="683" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/D5MYjd4Jf3.png" style="display: block; margin-left: auto; margin-right: auto;" width="1208" /></p>
+<p>那我们可以大概估算出：<strong>1 Blast Gold 约为 12U。</strong></p>
+<h3><strong>Blast黄金积分撸分攻略</strong></h3>
+<p>要想得到黄金积分，必须要参与到dApp中去，目前链上很大一部分人的资金实际上是闲置的，这样看来，参与到dApp中去的玩家可能获得巨大的超额收益。</p>
+<p>但与此同时，我们注意到，分配给项目方的黄金积分和TVL并不是完全呈线性关系，TVL最高的项目得到20万分，一些TVL低，但做的比较好的项目也有几万甚至十万分。</p>
+<p>所以对于考验资金的项目来说，<strong>最佳的黄金积分捕获策略是去参与那些Gold分配数量多， 但是暂时TVL还没有被大量资金涌入的项目。</strong></p>
+<p>我们从Defilama上对照一下这些项目的TVL和Blast Gold的获得数量，可以估算出一个性价比排行。</p>
+<p><img alt="深度解读Blast黄金积分价值及撸分攻略" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/fH07k118a6.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>这个表格主要针对Defi类项目，简单的将TVL作为大致的判断依据，上面的表格中排名第一的项目存入1U可以分到0.4U，性价比超高。</p>
+<p>排名前五的项目，有三个衍生品交易平台，1个Dex，以及一个CDP Lending协议。本文将对这五个项目进行简单介绍，帮助大家选择合适自己的黄金积分高收益项目参与。</p>
+<h3><strong>黄金积分高回报项目介绍</strong></h3>
+<p>先介绍三个衍生品交易平台，Blast Futures，Blitz以及Particle。衍生品交易平台在这一轮牛市中成为了除Dex以外竞争最激烈的赛道。衍生品交易平台的交易频率高于Dex，一个优秀的项目能给公链平台贡献巨大的用户数和交易次数，所以公链平台往往也对此类项目有更高的关注度。</p>
+<p>目前这三个衍生品交易平台的TVL相当接近，都处在$8M左右，对龙二的位置发起了激烈的竞争。</p>
+<p><strong>Particle</strong></p>
+<p>Defilama上查询的TVL为$8.3M，Particle官方TVL数据为$13M，成交量为$3M，成交量和TVL的比值为0.23。</p>
+<p>Particle目前有8个交易对可以做现货交易和做多做空的杠杆交易，每个交易对的深度和多空单的大小，决定了杠杆的最大倍数。</p>
+<p><img alt="深度解读Blast黄金积分价值及撸分攻略" height="717" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/KNypdC0e7f.png" style="display: block; margin-left: auto; margin-right: auto;" width="1145" /></p>
+<p>Paticle第一期获得了224,305个黄金积分，根据官方公告，这些黄金积分将根据Paticle Points分配给用户，具体的分配细则尚未公布，但总的来说，获得越高的Paticle Points，能分配到的黄金积分就越多。</p>
+<p>Paticle的Leaderboard页面可以查询到自己的积分，用户可以通过TVL贡献和交易额贡献去获取，同时有一个加成系数，最高为2.5x。Blast跨链用户，Particle的测试网用户，Uniswap用户和一些NFT的持有者能获得加成系数。</p>
+<p><img alt="深度解读Blast黄金积分价值及撸分攻略" height="641" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/bvdww4E3TA.png" style="display: block; margin-left: auto; margin-right: auto;" width="1280" /></p>
+<p>合约安全方面，Particle提供了合约审计报告：https://code4rena.com/reports/2023-12-particle，上线以来运行正常。</p>
+<p>在参与项目的时候需要注意，无论是做交易对流动性贡献还是交易量贡献，都可能会有一定的磨损，建议可以参与到深度大的交易对中，比如USDB-WETH交易对，尽可能降低磨损。</p>
+<p><strong>Blitz</strong></p>
+<p>Blitz提供的衍生品交易比较多，有超过40个Token的衍生品交易，覆盖了主流的蓝筹项目，能满足用户更多样的需求。Defilama上查询到Blitz的TVL为$8.08M，24小时成交量为$48M，成交量和TVL的比值为5.94，数据上看，Blitz资金利用率较高，成交活跃。</p>
+<p>Blitz使用的是中心化交易所的订单薄形式，用户需要先充值到Blitz平台再进行交易。每种衍生品有不同的杠杆系数，最多可放到20倍。</p>
+<p><img alt="深度解读Blast黄金积分价值及撸分攻略" height="715" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/gUYQBt6hd2.png" style="display: block; margin-left: auto; margin-right: auto;" width="1280" /></p>
+<p>Blitz第一期获得了277,792个黄金积分，Blitz需要存入至少5USDB或者0.003WETH才能进入积分系统，并获得属于自己的邀请链接。</p>
+<p><img alt="深度解读Blast黄金积分价值及撸分攻略" height="769" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/y3i5E5vT59.png" style="display: block; margin-left: auto; margin-right: auto;" width="755" /></p>
+<p>根据网页上的提示，目前的积分显示并未上线，具体的规则也尚未公布，但可以猜测得到的是，想要获得Blitz的积分，应该也是需要对流动性和交易量做出贡献。另外，Blitz在Galxe上的活动仍然在进行中，可以通过活动获得Blitz Community Points，具体的规则参考官方说明：https://docs.blitz.exchange/points-and-protocol-rewards/blitz-community-points</p>
+<p><strong>Blast Futures</strong></p>
+<p>Blast Futures的TVL 是$7.91M, 24小时成交量约$246M，成交量和TVL的比值为31.09，是三个衍生品交易平台中最高的。这个数据甚至高过龙一Synfutures（Synfutures的TVL是$22M，24小时成交量是$333M)</p>
+<p>Blast Futures 平台现在可以交易的品种有37种，基本上囊括了主流资产和当下热门的资产，交易深度不错，用户体验丝滑。</p>
+<p><img alt="深度解读Blast黄金积分价值及撸分攻略" height="640" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/yKr6KjHdk4.png" style="display: block; margin-left: auto; margin-right: auto;" width="1280" /></p>
+<p>Blast Futures 第一期获得277,797个黄金积分，官方公告说会100%将Blast Gold投放给用户，而且说会每天投放，根据我们研究，因为Blast Gold是2-3周才发放一次，它应该是将Gold记录在用户账户里，等收到Gold后才能发放。</p>
+<p>如何才能领到Blast Gold呢？ 根据官方文档，用户可以通过交易量、存入资产和Staking三种方式。</p>
+<p>75%的Blast Gold会发放给存入资产和金库Staking的用户，根据用户的存款金额和期限分配Blast Gold，简单讲就是存钱越多，时间越长就收到越多。</p>
+<p>25%的Blast Gold会根据交易量发放，交易量越多分到的Gold就越多，而且通过升级，可以得到40%的加成。</p>
+<p>等级和加成系数如下：</p>
+<p><img alt="深度解读Blast黄金积分价值及撸分攻略" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/fkhRP49F2p.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>了解这个机制后，我们可以通过存入USDB来参与活动：</p>
+<p><img alt="深度解读Blast黄金积分价值及撸分攻略" height="966" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/VhV9nMl397.png" style="display: block; margin-left: auto; margin-right: auto;" width="812" /></p>
+<p>存入金库的USDB是作为协议的动态AMM 资金作用的，当前的资金还有41.46%的年化收益，当然BFX 的这个动态机制在市场单边行情的时候也可能有风险，用户需要知晓。</p>
+<p>另一种方式是提高交易量，当前的合约交易都是某一资产和稳定币的交易对，这个要看我们用户对哪种资产比较熟悉，找一个相对稳定的资产来刷交易也是一种策略，但需要尽量减少交易摩擦成本。</p>
+<p>Blast Futures 的合约也通过了审计（<a href="https://github.com/BlastFutures/Blast-Futures-Exchange/blob/main/audits/bfx_audit_report_hats.pdf" rel="nofollow">https://github.com/BlastFutures/Blast-Futures-Exchange/blob/main/audits/bfx_audit_report_hats.pdf</a>），项目方在安全方面还是比较重视的。</p>
+<p>另外，项目方的代币还没有公开，也许未来也是会给用户福利的。</p>
+<p><strong>Blasterswap</strong></p>
+<p>Blasterswap 是一个Dex协议，它是一个基于uniswap V2、V3的分叉协议，创新的功能是会加入Launchpad 让用户轻松发币、加入限价单功能以及零失误执行部署投资策略（DCA）功能。但是为了追求协议的稳定，当前阶段Blasterswap选择只上线了最保守的uniswap V2基础功能，其它的创新功能并没有上线，看网站的优先级显示，下一个阶段的重点在Launchpad。当前的Blasterswap TVL显示是$2.91M，在dex赛道‘Blast排名第六位，主要也是因为它产品刚刚上线不久，目前能提供的交易对也不太多。</p>
+<p><img alt="深度解读Blast黄金积分价值及撸分攻略" height="583" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/w55g99354M.png" style="display: block; margin-left: auto; margin-right: auto;" width="1280" /></p>
+<p>这样的项目相对来说大家比较容易理解，没有额外的学习成本，所以本文也不作过多的项目产品介绍。对于来赚积分的用户说也是比较友好的，因为uniswap V2协议已经经历了市场的检验，会比较安全。但是这里风险也要提示一下:AMM的交易对如果不是稳定币交易对的话会有无常损失，另外，纯粹的分叉协议显得项目的技术含量不高，我们只观察它的运营能力了。</p>
+<p>Blasterswap第一期获得108,508个黄金积分，从项目方的文档和Discord内管理员的介绍来看，Blasterswap是承诺将100%的Blast Gold会投放给用户和合作方，截止到发稿时间，项目方没有公布具体的投放比例，事后会公开细则。上面表格中的收益率是假设它将100%的Gold投放给用户来计算的，如果投放给合作方的占比不大的话，偏差不会很多。</p>
+<p>用户具体的参与方式是参加Blasterswap 的 Pre-Generation活动赚取它的Pre-token和参加活动。 当前，早鸟活动已经结束了，所以我们只能参与Pre-Generation。</p>
+<p><img alt="深度解读Blast黄金积分价值及撸分攻略" height="581" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/5dVFE689X9.png" style="display: block; margin-left: auto; margin-right: auto;" width="1280" /></p>
+<p>活动的机制也比较简单，基本分为了四类：交易奖励、任务奖励、提供流动性奖励和推广奖励。</p>
+<p>交易奖励：用户在平台的交易量会被记录下来，$100等值的交易量可以获得15分，达到$1000可以获得200分，达到$10000可以获得3000分。</p>
+<p>任务奖励：每天交易$100价值交易量能加速积分，连续10天的话最大可以加成50%。</p>
+<p>流动性提供奖励：用户在平台存入$100价值的资产每天可以获得10分，超过$1000可以获得150分，超过$10000可以获得2000分。</p>
+<p>推广奖励：邀请用户可以获得被邀请人10%的积分返佣</p>
+<p>交易和提供流动性是主要获取积分的方式，想避免无常损失的话，可以考虑冲稳定币交易对来获取积分。</p>
+<p>合约安全方面，Blasterswap 提交了合约审计报告：<a href="https://github.com/blasterswap/blasterswap-core-v2/blob/main/AstraSec-AuditReport-BlasterSwap.pdf" rel="nofollow">https://github.com/blasterswap/blasterswap-core-v2/blob/main/AstraSec-AuditReport-BlasterSwap.pdf</a></p>
+<p>加上它的机制来源于很成熟的uniswap V2，我认为应该是比较安全的。</p>
+<p>Blasterswap需要每天来交易赚取更多的积分，相对来说比较占用精力，但是它的Gold积分收益预期还是值得参与的。另外平台自己的代币应该也会分发给用户，收益空间就更大了。</p>
+<p><strong>Wand Protocol</strong></p>
+<p>Wand Protocol是一个CDP协议，在Defilama上可以看到，Blast上的CDP协议其实比较少，而原生的CDP协议目前就只有Wand Protocol。所谓的CDP就是超额抵押债仓的简称，鼻祖是MakerDao。CDP模型的逻辑很简单，假设当前$ETH价格是$3000，你拿1个$ETH质押进MakerDao中，你可以大概可以换出2500 $DAI，这样就实现了链上的抵押贷款，多出来的$500就是你的超额抵押部分。</p>
+<p>Wand协议做了一些创新，提出了Pooled-CDP模型，在Wand协议中，每种资产对应一个共用的CDP Vault，这样一来就做到了全局负债，同时超额抵押部分也是全局共有的，Wand将超额抵押部分也进行了代币化，铸造成为Margin Token，让超额抵押部分可以进行交易，这样资金利用率就得到了提升，并衍生出更多的玩法。</p>
+<p>这个创新提高了用户的学习门槛，所以还没有大规模资金涌入，目前Wand协议的TVL为$1.6M。协议开了两个池子，分别是ETH和USDB，都是Blast的原生带息Token，用户可以将ETH或者是USDB存入Vault中，借贷出协议稳定币$USB，同时还可以获得$ETHx和$USDBx。$ETHx相当于是ETH的杠杆代币，而$USDBx则是将USDB的收益放大数倍的权益代币。</p>
+<p><img alt="深度解读Blast黄金积分价值及撸分攻略" height="647" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/S2F5504sz4.png" style="display: block; margin-left: auto; margin-right: auto;" width="1280" /></p>
+<p>Wand第一期获得53,492个黄金积分，根据官方文档公告，这些黄金积分都会分配给Wand的用户。Wand设计了自己的积分系统，可以从Early Access进入，需要邀请码的可以到Wand discord里面去寻找。</p>
+<p><img alt="深度解读Blast黄金积分价值及撸分攻略" height="885" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/8sZ8Nv2sY6.png" style="display: block; margin-left: auto; margin-right: auto;" width="980" /></p>
+<p>具体的积分获得规则可以参考官方文档说明：https://docs.wand.fi/early-access-campaign/blast-gold-developer-points</p>
+<p>有参与过Wand Galxe活动的和Blast之前存过钱的地址都有初始分（白嫖党福音），然后其它的就是根据TVL贡献来分配了。建议可以根据自己的资产，选择存入ETH或者是USDB都可以，或者是可以直接从Thruster上Swap Wand的协议代币，稳定币理财的用户可以选择买$USB（APY约20%）或者$USDBx（APY约50%），这两种稳定币理财的APY都还蛮香的。ETH的多头可以直接买$ETHx，相当于现货杠杆做多ETH。</p>
+<p>合约安全方面，Wand提供了第三方审核报告：https://github.com/wandfi/wand-contract-blast/blob/main/audits/Beosin_202403081621.pdf，预言机用的是Redstone。</p>
+<p>CDP类的协议相对比较成熟，项目上线以来运行正常，相对而言安全方面还是比较可靠的，安心撸分的同时，还可以期待一下Wand自己的平台代币空投。</p>
+<p>除了这些比较好参与的Defi类项目以外，建议大家还可以积极探索游戏类，NFT类的项目，Blast官方公告上说后续的黄金积分还会分配给一些ERC721,ERC20代币持有者，我们也会持续关注黄金积分的分配情况，并及时更新给大家更好的撸分攻略。</p>
+]]></content:encoded>
+<pubDate>Sun, 24 Mar 2024 16:28:17 +0800</pubDate>
+<pubDate>Sun, 24 Mar 2024 16:28:17 +0800</pubDate>
+</item>
 
 <item>
 <title>行情：NULS、BADGER日内涨幅超50%</title>
