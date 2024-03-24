@@ -10429,3 +10429,30 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Web3 注意力经济：消费者应用与价值注意力理论](https://mp.weixin.qq.com/s/d5ls45PFWpayeWK7ibsMHQ)
 append_entries: 6
 Finish: 2024-03-24 22:32:48.670976
+------------------------------------------------------
+Started: 2024-03-24 22:39:29.842500
+Existing_entries: 1006
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 266
+Summarized using GPT-3.5-turbo-1106
+Append: [ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round )
+Token length: 603
+Summarized using GPT-3.5-turbo-1106
+Append: [【长推】解读 Nubit 的比特币模块化 DA 方案：能否成为 BTC 上的 Celestia？](https://twitter.com/Cook0x/status/1767836102336168410)
+Token length: 533
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文】Mask Network 第三轮 Web3 社交生态资助项目盘点](https://masknetwork.medium.com/mask-network-web3-social-ecosystem-grant-round-3-review-3d314177dd86)
+Token length: 1554
+Summarized using GPT-3.5-turbo-1106
+Append: [BTC L2 Summer？一览主流比特币二层协议特点及优缺点](https://substack.chainfeeds.xyz/p/btc-l2-summer)
+Token length: 1079
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文长推】盘点 Dencun 升级前的 L2 生态数据：TVL 及 Gas 使用量](https://twitter.com/singularity7x/status/1767911340167868531)
+Token length: 951
+Summarized using GPT-3.5-turbo-1106
+Append: [【长推】链抽象还是 AI？解析 NEAR 的 AI 布局](https://twitter.com/tmel0211/status/1767739189985227104)
+Token length: 657
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文长推】构建模块化求解器平台：Khalani Network 如何优化求解器机制？](https://twitter.com/knwang/status/1767975287151554662)
+append_entries: 7
+Finish: 2024-03-24 22:39:56.087000

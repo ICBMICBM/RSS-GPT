@@ -9,10 +9,127 @@
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，估值达 10 亿美元。Polychain Capital 领投，其他投资者包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。融资资金将用于团队扩张、产品、工程、业务开发和营销等跨职能部门。当前 50 人团队计划扩展至约 80 人。本轮融资和之前的融资都采用未来代币或 SAFT 协议。这些信息是积极的。 <div>
+<div> <br><br>摘要：<br>这些信息是积极的。Polyhedra Network以10亿美元估值完成2000万美元战略融资，由Polychain Capital领投，并有Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital参投。融资将用于扩大团队规模、招聘跨职能部门人员以及产品、工程、业务开发和营销等方面的发展。所有融资进行通过未来代币或SAFT的简单协议进行。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
+<item>
+<title>【长推】解读 Nubit 的比特币模块化 DA 方案：能否成为 BTC 上的 Celestia？</title>
+<link>https://twitter.com/Cook0x/status/1767836102336168410</link>
+<guid>https://twitter.com/Cook0x/status/1767836102336168410</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>比特币模块化 DA 方案的原理是通过 Nubit DA 层管理和验证数据，并依靠比特币作为基础可信数据层。架构包括委员会索引器和轻量级索引器，确保数据的完整性和可用性。Nubit与BounceBit合作，实现了比特币原生数据可用性解决方案的第一个落地场景。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>加密研究员 Cook 解析了 Nubit 的比特币模块化 DA 方案的原理、架构和优势。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/Cook0x/status/1767836102336168410">https://twitter.com/Cook0x/status/1767836102336168410</a></p>
+<p><strong>文章作者：</strong></p><p>Cook Sun</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Cook Sun：</strong>原理：Nubit 在中心化索引器和去中心化索引器之间提供了一个中间选项，即通过构建一个 Nubit DA 层来管理数据并验证数据，但最终仍然是依靠比特币作为最基础的可信数据层。这提供了一个相对去中心化且不牺牲过多安全性的方案。
+
+架构：1）该架构依赖于比特币作为最基本的可信数据层；2）「委员会索引器」根据比特币区块计算协议状态，并生成检查点，发布到 Nubit DA（数据可用性层）；3）Nubit DA 负责发布数据和确保检查点数据可用；4）索引器负责向用户提供查询结果和相应的证明；5）「轻量级索引器」由用户运行，可以从索引器查询协议状态的必要部分，利用检查点验证结果的正确性。
+
+优势：Nubit 提出的方案是不进行整个状态转换的完整性检查，而是简化为检查少量检查点的有效性。目标是实现即使在大多数委员会索引器被攻击或是作恶的情况下，只要有 1 个委员会索引器在做正确的验证，也能保证数据的完整性和可用性。同时，Nubit 在近日宣布了与 BounceBit 合作，通过 BounceBit 的 BTC- restaking 技术与 Nubit 的比特币原生数据可用性解决方案相结合。立即为此方案实现了第一个落地场景。</p><a href="https://twitter.com/Cook0x/status/1767836102336168410">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-14T08:12:40+00:00</pubDate>
+</item>
+<item>
+<title>【英文】Mask Network 第三轮 Web3 社交生态资助项目盘点</title>
+<link>https://masknetwork.medium.com/mask-network-web3-social-ecosystem-grant-round-3-review-3d314177dd86</link>
+<guid>https://masknetwork.medium.com/mask-network-web3-social-ecosystem-grant-round-3-review-3d314177dd86</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Mask Network公布了入选其第三轮Web3社交生态资助项目的名单，共有33个项目入选。其中，Web3社交赛道有10个项目入选，自治世界赛道有12个项目入选，公共产品赛道有10个项目入选。具体入选项目包括eth.limo、Dhive、On Chain Game等，涵盖了不同领域和主题。这表明对Web3社交生态的持续支持和发展。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Mask Network 公布入选其第三轮 Web3 社交生态资助项目，分为 Web3 社交、自治世界和公共物品三个赛道共计 33 个项目入选。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://masknetwork.medium.com/mask-network-web3-social-ecosystem-grant-round-3-review-3d314177dd86">https://masknetwork.medium.com/mask-network-web3-social-ecosystem-grant-round-3-review-3d314177dd86</a></p>
+<p><strong>文章作者：</strong></p><p>Mask Network</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Mask Network：</strong>Web3 社交有 10 个项目入选：eth.limo、Data2.cash、Solid Credentials Client、DAuth Network、Ensō Collective、FAST、TonUP、Dhive、eth.cd、Pulse。
+
+世界自治赛道有 12 个项目入选：On Chain Game、Stratagems、Jimu、PixeLAW、Minters World、FunBlocks、Mississippi、Loot underworld、dmstfctn — Godmode Chronicles、AW Research、WASD、grug’s lair。
+
+公共产品赛道有 10 个项目入选：ZKP2P、Cloudline、OpenBuild、Glacier Network、SheFi、MOSS、Discoco lab、Concrete、tokenary、Laputa。【原文为英文】</p><a href="https://masknetwork.medium.com/mask-network-web3-social-ecosystem-grant-round-3-review-3d314177dd86">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-14T08:11:24+00:00</pubDate>
+</item>
+<item>
+<title>BTC L2 Summer？一览主流比特币二层协议特点及优缺点</title>
+<link>https://substack.chainfeeds.xyz/p/btc-l2-summer</link>
+<guid>https://substack.chainfeeds.xyz/p/btc-l2-summer</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了市场上热门的四个比特币二层项目：BEVM、Merlin Chain、B² Network和BounceBit。Merlin Chain通过无缝映射BTC与EVM地址实现跨链互动，采用了zkEVM Layer2解决方案；B² Network引入了ZKP的Rollup技术确保交易安全，并有数据可用性层保证系统安全性；BEVM基于Taproot升级，允许以太坊DApp在BTC网络上运行；Bouncebit通过双代币系统加强网络安全，并支持50个验证者，提升了比特币资产的灵活性和应用场景。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>比特币铭文的兴起给比特币生态注入了新的活力，重新引起了人们对比特币的关注，这也催生了很多新的比特币二层项目，本篇文章则选取了市场上热度比较高的四个项目：BEVM、Merlin、B² Network、BounceBit 进行解读，各自都有哪些亮点和优势？</p>
+<p><strong>文章来源：</strong></p><p><a href="https://substack.chainfeeds.xyz/p/btc-l2-summer">https://substack.chainfeeds.xyz/p/btc-l2-summer</a></p>
+<p><strong>文章作者：</strong></p><p>Hamster</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Hamster：</strong>1）Merlin Chain：Merlin Chain 的技术框架核心在于其对链无关性（Chain-Agnostic）的账户体系和 Particle Network 提供的 BTC Connect 技术。这些创新不仅促成了 BTC 与 EVM 地址之间的无缝映射，还为用户带来了一个既高效又安全的跨链互动环境。此外，Merlin Chain 基于 Polygon CDK 框架开发了 zkEVM Layer2 解决方案，它巧妙地运用了 ZK-Rollup 技术，以有效压缩和验证大量交易数据，极大提升了交易处理速度与网络的可扩展性。且在 Polygon CDK 的技术架构下，Merlin Chain 采用了一种名为 CDK Validium 的方案，这种方案结合了 Polygon zkEVM 技术和 DAC 的概念，旨在以太坊链上实现多签形式的有效性验证。目前比特币二层赛道中， Merlin 的 TVL 最高；
+
+2）B² Network：采用了 ZKP 的 Rollup 技术，旨在提升交易处理速度和扩展应用场景的多样性，而不以牺牲安全性为代价。作为首个在 BTC 上实施 ZPVC（零知识证明验证承诺）Rollup 的网络，它引入了挑战 - 应答机制，通过 ZKP 和 Taproot 确保了交易的隐私与安全。在 B² Network 架构中，Rollup 层负责接收、存储、排序和处理用户交易，并生成 ZKP 验证交易真实性，从而保障了交易的安全和数据的可用性。而数据可用性（DA）层包括了去中心化存储、B² 节点和 BTC 网络，负责永久存储 Rollup 数据副本、验证 Rollup 的 ZKP，并在 BTC 网络上进行最终确认，保证了系统的安全性和不可篡改性；
+
+3）BEVM：基于 Taproot 升级的去中心化、EVM 兼容 BTC Layer 2 解决方案。它允许使用 BTC 作为交易的 Gas，并且允许以太坊生态系统中的 DApp 在 BTC 网络上运行。技术架构方面，BEVM 通过 Taproot 共识，结合了比特币原生的 Taproot 技术栈和由比特币 SPV 节点组成的 BFT PoS 网络，创造了一个去中心化的 BTC L2 解决方案。Taproot 共识由三部分组成：Taproot 技术（包括 Musig2、Schnorr  签名、MAST 等）、一个由比特币 SPV 构成的 BFT PoS 网络，以及通过 Signal 协议形成的阈值节点通信。这种架构提高了比特币网络的可扩展性和隐私性，同时通过 BEVM 技术的批量验证处理，提升了比特币网络交易的效率。
+
+4）Bouncebit：引入了以资产为驱动的 PoS Layer 1 方法，通过 BTC 和 BounceBit 原生代币的双代币系统加强网络安全实现了与 EVM 兼容链的互操作性，并结合 CeFi 技术，如 Mainnet Digital 托管和 Ceffu 的 MirrorX 技术，提升交易透明度及流动性，增强比特币资产的灵活性和应用场景。其双代币 PoS 共识机制，支持 50 个验证者，通过智能合约和基于 Epoch 的时间线优化验证者选举和奖励分配，同时允许验证者对奖励收取佣金，平衡节点运营成本与收益，共同营造了一个安全高效的区块链生态系统。</p><a href="https://substack.chainfeeds.xyz/p/btc-l2-summer">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-14T06:27:44+00:00</pubDate>
+</item>
+<item>
+<title>【英文长推】盘点 Dencun 升级前的 L2 生态数据：TVL 及 Gas 使用量</title>
+<link>https://twitter.com/singularity7x/status/1767911340167868531</link>
+<guid>https://twitter.com/singularity7x/status/1767911340167868531</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Juan Leon在2月份对各Layer2的TVL和Gas使用量数据进行了对比。乐观Rollups（OR）的TVL增长了36%，OP Mainnet领先增长率为41%，而零知识Rollups（ZKR）主要由于STRK代币推出增长16亿美元。Gas使用量方面，ZKR消耗239 ETH，环比下降5.5%，OR环比上升1.7%达173 ETH。其中，zkSync Era的Gas使用量最大，为89 ETH。整体而言，2月份的TVL和Gas使用量数据显示Layer2生态系统有不错的增长。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Bitwise 研究员 Juan Leon 盘点了 2 月份各 Layer2 的 TVL 数据和 Gas 使用量数据对比。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/singularity7x/status/1767911340167868531">https://twitter.com/singularity7x/status/1767911340167868531</a></p>
+<p><strong>文章作者：</strong></p><p>Juan Leo</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Juan Leo：</strong>TVL 和估值：1）乐观 Rollups（OR）的 TVL 在二月份增长了 36%。OP Mainnet 以 41% 的增长率遥遥领先，而 Base、Arbitrum One 和 Boba 的增长率分别为 34%、26% 和 23%。总体而言，OR 的 TVL 增长了 59 亿美元；2）零知识 Rollups（ZKR）的 TVL 增长超过 16 亿美元，主要是由于 STRK 代币的推出。Starknet、Scroll、Linea 和 zkSync Era 分别实现了 749%、103%、85% 和 59% 的显著增长；3）Validiums 的 TVL 也出现了不错的增长，增长了近 1.4 亿美元，月增长 44%；4）Optimiums 在 2 月份有 32% 的可观增长。值得注意的 Optimium 包括 Mantle 和 Arbitrum Nova，它们的 TVL 分别增长了 82% 和 49%。1 月份推出 MANTA 代币的 Manta 增长幅度相对较小，仅为 16%。Optimium 的总体 TVL 增至 35 亿美元。
+
+Gas 使用量：ZKR 在 2 月份消耗了超过 239 ETH，环比下降了 5.5%，而 OR 则环比上升了 1.7%，达到 173 ETH。2 月份 Gas 使用量最大的是 zkSync Era，为 89 ETH，Arbitrum One 以 74 ETH 的 Gas 使用量迅速赶上。
+
+Gas 使用量：1）Arbitrum One 的 Gas 使用量继续下降，2 月份从 88 ETH 至 74 ETH，而 OP Mainnet 的 Gas 使用量则停滞在 54 ETH。Base 再次迎头赶上，消耗了 43 ETH，而 Boba 则以 0.2 ETH 的使用量继续落后；2）ZKR 2 月份的 Gas 使用量主要由 zkSync Era 主导，达到 90 ETH。Linea 和 Scroll 继续迎头赶上，分别消耗了 33 ETH 和 63 ETH；3）Optimiums 2 月份消耗了 4 ETH，比 1 月份有所下降，这很可能是由于用户离开了 Manta Pacific 生态系统；4）在 ApeX 的带领下，Validiums 在 2 月份总共消耗了 7 ETH。【原文为英文】</p><a href="https://twitter.com/singularity7x/status/1767911340167868531">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-14T04:27:16+00:00</pubDate>
+</item>
+<item>
+<title>【长推】链抽象还是 AI？解析 NEAR 的 AI 布局</title>
+<link>https://twitter.com/tmel0211/status/1767739189985227104</link>
+<guid>https://twitter.com/tmel0211/status/1767739189985227104</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>NEAR 创始人在英伟达 AI 大会上引起了关注，表明 NEAR 公链在 AI 领域有布局。NEAR推出了NEAR Tasks来进行人工智能模型训练和改进，并在生态系统中推出AI Agent服务。NEAR通过AI技术延展和叙事引导，整合了链性能和团队资源，提升了用户链上交互体验。链抽象和AI赋能将是NEAR未来的关注重点和潜在的牛市催化剂。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>NEAR 创始人 Illia Polosukhin 将亮相英伟达 AI 大会的消息，让 NEAR 公链赚足了眼球。加密研究员 Haotian 解析了 NEAR 在 AI 方面的布局，他认为长期关注还是得看 NEAR 在「链抽象」上的布局和产品推进，但 AI 会是个不错的加分项和牛市催化剂。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/tmel0211/status/1767739189985227104">https://twitter.com/tmel0211/status/1767739189985227104</a></p>
+<p><strong>文章作者：</strong></p><p>Haotian</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Haotian：</strong>NEAR 创始人 Illia Polosukhin 有过较长时间的 AI 背景，是 Transformer 架构的共同构建者。而 Transformer 架构是如今 LLMs 大型语言模型训练 ChatGPT 的基础架构，足以证明 NEAR 老板在成立 NEAR 前确实有 AI 大模型系统的创建和领导经验。
+
+NRAR 曾在 NEARCON 2023 上推出过 NEAR Tasks，目标是为了进行人工智能模型的的训练和改进，简单来说，模型训练需求方（Vendor）可以在平台发布任务请求，并上传基础数据素材，用户（Tasker）可以参与进行任务答题，为数据进行文本标注和图像识别等人工操作。任务完成后，平台会给用户 NEAR 代币奖励，而这些经过人工标注的数据会被用于训练相应的 AI 模型。
+
+不过，NEAR 仅仅凭借 Tasks 平台，就想成为 AI 公链龙头显然还不够，NEAR 其实还在生态系统中进行 AI Agent 服务，用来自动执行用户一切链上行为和操作，用户只需授权就可以自由在市场中买卖资产。这有点类似 Intent-centric，用 AI 自动化执行来提升用户链上交互体验。除此之外，NEAR 强大的 DA 能力可以让它在 AI 数据来源的可追溯性上发挥作用，追踪 AI 模型训练数据有效性和真实性。
+
+总之，背靠高性能的链功能，NEAR 做 AI 方向的技术延展和叙事引导，似乎要比纯链抽象要不明觉厉多了。半个月前我在分析 NRAR 链抽象时，就看到了 NEAR 链性能 + 团队超强 Web2 资源整合能力的优势，万万没想到，链抽象还没有普及开来摘到果子，这一波 AI 赋能再一次把想象力放大了。长期关注还是得看 NEAR 在「链抽象」上的布局和产品推进，AI 会是个不错的加分项和牛市催化剂！</p><a href="https://twitter.com/tmel0211/status/1767739189985227104">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-14T04:24:40+00:00</pubDate>
+</item>
+<item>
+<title>【英文长推】构建模块化求解器平台：Khalani Network 如何优化求解器机制？</title>
+<link>https://twitter.com/knwang/status/1767975287151554662</link>
+<guid>https://twitter.com/knwang/status/1767975287151554662</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>knwang从「基于意图的市场分析」论文入手，描述了Khalani Network如何最大限度地降低与求解器开发和操作相关的成本，提供一个便于解决方案原子集成的事务平台的愿景。文章强调了模块化求解器平台的重要性，以支持无需权限模块的运行时集成，通过委托和分摊求解器操作来降低运营成本。此外，文章提出了建立真正去中心化的基于意图的市场的方向，减轻高交易费和竞标失败的影响，简化交易和意图实现为原子交易的重要性。最终，Khalani Network的目标是将其打造为可组合求解器网络。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>模块化求解器平台 Khalani Network 构建者 knwang 从「基于意图的市场分析」论文入手，描述了 Khalani Network 如何最大限度地降低与求解器开发和操作相关的成本，并提供一个便于解决方案原子集成的事务平台的愿景。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/knwang/status/1767975287151554662">https://twitter.com/knwang/status/1767975287151554662</a></p>
+<p><strong>文章作者：</strong></p><p>knwang</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>knwang：</strong>高昂的进入成本主要来自求解器的开发和运营费用。如今，开发人员在构建求解器时面临着巨大的成本压力，因为求解器必须作为一个集成堆栈从零开始构建。降低成本的关键在于拥有一个模块化求解器平台，该平台支持支持无需权限模块的运行时集成。通过委托和分摊求解器操作，可以大幅降低运营成本。
+
+求解器市场参与度增加的一个显着缺点是「拥堵成本」，表现为更高的交易费、失败率和流动性成本，所有这些都会降低用户福利。为了应对不断上涨的交易费用，一个理想的基于意图的市场将实施针对每次拍卖的本地化费用结构，减轻高参与率或同时拍卖的影响。求解器越多，竞标失败的可能性就会增加。理想的机制是确保只有中标者支付费用，从而消除未中标的成本。最好的方法是将交易对手选择、流动性获取和意图实现简化为原子交易。
+
+「基于意图的市场分析」一文指出了如何建立一个真正去中心化的基于意图的市场的方向，而不影响提供最大的用户满意度。实现这一目标需要最大限度地降低与求解器开发和操作相关的成本，同时提供一个便于解决方案原子集成的事务平台。我们将在 Khalani Network 上实现这一愿景，将其打造为可组合求解器网络。【原文为英文】</p><a href="https://twitter.com/knwang/status/1767975287151554662">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-14T03:23:28+00:00</pubDate>
+</item>
+
+<item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
+<content:encoded><![CDATA[
+<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，估值达 10 亿美元。Polychain Capital 领投，其他投资者包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。融资资金将用于团队扩张、产品、工程、业务开发和营销等跨职能部门。当前 50 人团队计划扩展至约 80 人。本轮融资和之前的融资都采用未来代币或 SAFT 协议。这些信息是积极的。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
 <item>
@@ -20,14 +137,13 @@
 <link>https://blog.oplabs.co/the-collective-triumph-of-4844/</link>
 <guid>https://blog.oplabs.co/the-collective-triumph-of-4844/</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的<br>本文回顾了以太坊EIP-4844的启动和实施过程，分析了对以太坊未来发展的意义。核心开发人员遇到的挑战包括复杂的设计和原型、多客户端互操作性、事务池设计、新密码学支持和网络稳健性。展望未来，以太坊计划实现全面分片，探索数据可用性解决方案和针对关键主题的并行研发工作，显示未来路线图充满活力和机遇。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的<br />本文回顾了以太坊EIP-4844的启动和实施过程，分析了对以太坊未来发展的意义。核心开发人员遇到的挑战包括复杂的设计和原型、多客户端互操作性、事务池设计、新密码学支持和网络稳健性。展望未来，以太坊计划实现全面分片，探索数据可用性解决方案和针对关键主题的并行研发工作，显示未来路线图充满活力和机遇。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>OP Labs 开发者 protolambda 撰文回顾了 EIP-4844 从启动到实施的历程，并分析了此次更新对以太坊的未来发展有何意义。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://blog.oplabs.co/the-collective-triumph-of-4844/">https://blog.oplabs.co/the-collective-triumph-of-4844/</a></p>
 <p><strong>文章作者：</strong></p><p>Protolambda</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Protolambda：</strong>构建升级并应对挑战：将 EIP-4844 引入以太坊主网的过程绝对是一项艰巨的任务，以下是核心开发人员遇到的一些情况：1）设计和原型复杂性：在研究人员的带头下，初始阶段涉及解决 EIP-4844 的复杂设计，为即将到来的事情奠定基础；2）多客户端互操作性：实施者面临着一项艰巨的任务，即确保不同以太坊客户端之间的无缝操作，解决网络固有的复杂性；3）事务池设计： Geth 团队接受了设计一个能够承受 DoS 和负载问题的事务池的挑战，这是可扩展性的关键组成部分；4）支持新密码学：KZG 密码学的实施需要专门的团队进行特殊的仪式，以确保网络的安全性和完整性；5）确保网络稳健性：从吞吐量的压力测试到协调开发网络、测试网络和影子分叉，EF Devops 团队在确保网络为 EIP-4844 做好准备方面发挥了关键作用。
 
 扩展方面的反思和未来雄心：展望未来，全面分片的愿景及更多可能性令人振奋。其中包括计划逐步增加每个区块的 blob 数量，探索 PeerDAS 和全 DAS 等创新数据可用性解决方案，以及针对抗 MEV、Verkle Tree 和网络优化等关键主题的并行研发工作。所有这些都预示着未来的路线图将充满活力。未来的道路充满机遇和挑战，但如果说 EIP-4844 的故事告诉了我们什么，那就是以太坊社区完全有能力将有远见的想法变为现实。【原文为英文】</p><a href="https://blog.oplabs.co/the-collective-triumph-of-4844/">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-14T03:21:36+00:00</pubDate>
 </item>
 <item>
@@ -35,10 +151,9 @@
 <link>https://twitter.com/parithosh_j/status/1767973626987606190</link>
 <guid>https://twitter.com/parithosh_j/status/1767973626987606190</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。以太坊 Dencun 升级已在以太坊主网激活，使得Arbitrum、Optimism、Base、Starknet等Layer2解决方案得以启用或即将启用。此次升级将为以太坊网络带来更高的性能和更好的去中心化应用体验。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。以太坊 Dencun 升级已在以太坊主网激活，使得Arbitrum、Optimism、Base、Starknet等Layer2解决方案得以启用或即将启用。此次升级将为以太坊网络带来更高的性能和更好的去中心化应用体验。 <div>
 <p>以太坊 Dencun 升级已于北京时间 3 月 13 日 22 时左右在以太坊主网激活。随着以太坊主网成功完成 Dencun 升级，Arbitrum、Optimism、Base、Starknet 等 Layer2 均已启用或即将启用 blob。</p><p><a href="https://twitter.com/parithosh_j/status/1767973626987606190">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-14T02:07:11+00:00</pubDate>
 </item>
 <item>
@@ -46,7 +161,7 @@
 <link>https://blog.coinshares.com/the-bitcoin-demand-shock-5be12c1738b3</link>
 <guid>https://blog.coinshares.com/the-bitcoin-demand-shock-5be12c1738b3</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。James Butterfill指出，比特币正经历积极的需求冲击，主要是由于ETF的发行需求增加。目前，ETF的每日平均需求量已经超过了比特币的每日平均开采量，导致价格大幅上涨。美国ETF市场已经吸引创纪录的资金流入，比特币供应量相对固定，市场正在寻找新的供需平衡点。这种情况预计将持续一段时间，直至市场找到新的平衡点。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。James Butterfill指出，比特币正经历积极的需求冲击，主要是由于ETF的发行需求增加。目前，ETF的每日平均需求量已经超过了比特币的每日平均开采量，导致价格大幅上涨。美国ETF市场已经吸引创纪录的资金流入，比特币供应量相对固定，市场正在寻找新的供需平衡点。这种情况预计将持续一段时间，直至市场找到新的平衡点。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>CoinShares 研究主管撰文对 ETF 的发行需求和即将到来的减半将加剧需求冲击的影响进行了分析解读。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://blog.coinshares.com/the-bitcoin-demand-shock-5be12c1738b3">https://blog.coinshares.com/the-bitcoin-demand-shock-5be12c1738b3</a></p>
 <p><strong>文章作者：</strong></p><p>James Butterfill</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>James Butterfill：</strong>目前，我们认为比特币正在经历一种积极的需求冲击。美国证券交易委员会（SEC）批准了基于现货的 ETF，为超过 14 万亿美元的资产提供了进入传统市场的通道，尽管这一事件众所周知，但其影响规模和时机尚不明确。然而，1 月 11 日推出的 ETF 已经导致了每日平均需求量达到 4500 个比特币（仅限交易日），而与此同时，新比特币的每日平均开采量仅为 921 个。这导致了近期比特币价格的大幅上涨，因为新开采的比特币供应跟不上需求，导致 ETF 发行者不得不主要从二级市场采购。数据显示，OTC 市场持有量自 2020 年以来已经下降了 74%，这很可能是由于近年来 ETF 需求的增加所致。
@@ -55,7 +170,6 @@
 
 总的来说，比特币市场正在经历一种积极的需求冲击，这导致了价格的上涨。而与大宗商品市场不同，比特币的供应量是固定的，因此市场调整通常会在价格层面进行，而不是在供应水平上。这种情况预计将持续一段时间，直至市场找到新的平衡点。【原文为英文】</p><a href="https://blog.coinshares.com/the-bitcoin-demand-shock-5be12c1738b3">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-13T08:59:37+00:00</pubDate>
 </item>
 <item>
@@ -63,7 +177,7 @@
 <link>https://www.jinse.cn/blockchain/3677551.html</link>
 <guid>https://www.jinse.cn/blockchain/3677551.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。在ETHDenver大会期间，SevenX Ventures邀请了11个最主流的AI项目。其中包括Grass，提供数据访问协议；Story Protocol，链上IP层允许创作者自主设置参与规则；Space and Time，索引器和ZK证明器；Bittensor，去中心化的开源AI平台；以及Sentient，主权激励驱动的人工智能开发平台。这些项目各有自己的愿景、实现方法和应用场景。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。在ETHDenver大会期间，SevenX Ventures邀请了11个最主流的AI项目。其中包括Grass，提供数据访问协议；Story Protocol，链上IP层允许创作者自主设置参与规则；Space and Time，索引器和ZK证明器；Bittensor，去中心化的开源AI平台；以及Sentient，主权激励驱动的人工智能开发平台。这些项目各有自己的愿景、实现方法和应用场景。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>ETHDenver 大会期间，SevenX Ventures 在 ETHDenver 期间邀请了 11 个最主流的 AI 项目。本文将简要概述各项目愿景、实现方法和应用场景。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://www.jinse.cn/blockchain/3677551.html">https://www.jinse.cn/blockchain/3677551.html</a></p>
 <p><strong>文章作者：</strong></p><p>Rui（SevenX Ventures）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Rui（SevenX Ventures）：</strong>1）Grass：数据提供协议，使数据可访问，促进 AI 基础设施的公平。用户安装一个 Chrome web extension（网络扩展程序），并利用其多余的计算和带宽来扫描互联网搜索人工智能数据。Grass 运营着一个由近 100 万个全球网络抓取节点组成的网络。使用这个网络，Grass 每天清理擦除超 1TB 的数据，然后生成结构化数据集。
@@ -76,7 +190,6 @@
 
 5）Sentient：主权激励驱动的人工智能开发平台。Sentient 使用众包方法，支持社区协调和贡献训练模型以降低成本，使用开放协议控制推理，实现模型之间的可组合性，并将价值流回网络参与者。聚合 web2 和 web3 力量，并利用代币，Sentient 将在很大程度上激励开发人员进行无需信任的 AGI 的建设。</p><a href="https://www.jinse.cn/blockchain/3677551.html">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-13T07:58:10+00:00</pubDate>
 </item>
 <item>
@@ -84,7 +197,7 @@
 <link>https://mp.weixin.qq.com/s/d5ls45PFWpayeWK7ibsMHQ</link>
 <guid>https://mp.weixin.qq.com/s/d5ls45PFWpayeWK7ibsMHQ</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的<br>Shayon Sengupta介绍了一种新型应用「发布者交易所」，允许在Web3社交平台发布内容和交易。文章强调加密货币实现任意的、双向的价值转移，将金钱和注意力市场联系起来。发布者交易所的目标是在用户关注的内容同时进行交易，实现对注意力的货币化。未来消费者应用预计会将加密货币纳入其结构和用户体验中，改变内容和交易场所的范围。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的<br />Shayon Sengupta介绍了一种新型应用「发布者交易所」，允许在Web3社交平台发布内容和交易。文章强调加密货币实现任意的、双向的价值转移，将金钱和注意力市场联系起来。发布者交易所的目标是在用户关注的内容同时进行交易，实现对注意力的货币化。未来消费者应用预计会将加密货币纳入其结构和用户体验中，改变内容和交易场所的范围。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>Multicoin Capital 投资合伙人 Shayon Sengupta 撰文介绍了一种新型应用「发布者交易所」，指的是可以在 Web3 社交平台发布内容和交易。让用户能够在其中发布内容、吸引关注、实现交易，并从中获得利益。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/d5ls45PFWpayeWK7ibsMHQ">https://mp.weixin.qq.com/s/d5ls45PFWpayeWK7ibsMHQ</a></p>
 <p><strong>文章作者：</strong></p><p>Shayon Sengupta</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Shayon Sengupta：</strong>互联网实现了任意的、双向的信息传输。加密货币在这些基础上构建，通过实现任意的、双向的价值转移。如今的消费者互联网 —— 流媒体平台、在线媒体、移动应用、社交媒体等 —— 可以被总结为一个注意力市场，因此，金钱和注意力越来越具有相似的特征。虽然注意力和价值的市场在现实中存在，但我们尚未真正看到它们的碰撞。当我们思考加密消费者应用时，这就是我们在寻找的内容。加密使得能够快速创建围绕关注的新资产，并在聚集了这种关注的地方进行交易：面向消费者的应用程序。在未来几年，我们预计消费者开发人员会将加密货币有意义地纳入其应用程序的结构和用户体验中，大规模地改变可以交易的内容和交易场所的范围。在内部，我们将这类应用称为「发布者交易所」。
@@ -93,10 +206,8 @@
 
 Publisher-Exchange（发布者交易所）的目标是在任何特定时刻，与用户所关注的内容同时进行交易，以满足用户的需求。加密领域中下一代消费者应用程序将允许用户本地发行和交易资产，从而直接实现对他们捕获的用户注意力的货币化。</p><a href="https://mp.weixin.qq.com/s/d5ls45PFWpayeWK7ibsMHQ">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-13T06:56:48+00:00</pubDate>
 </item>
-
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
@@ -10736,106 +10847,6 @@ Points as Reputation（积分即信誉）：积分很容易被认为是社会经
 我们再看区块链世界，钱包是跟着用户自己的，以用户为中心。另外一个就是 token，以用户为中心。但是应用不是以用户为中心的。token 才是真正有可能拥有最大化的可组合性和可移植性的载体，而不是应用。不能搞一个超级平台应用，把各种东西都连上这个平台，那就又倒退回中心化的时代了。所以 token 应该是未来区块链世界的中心，token 是一等公民，而不是应用是一等公民。给 token 一个它自己的可编程前端，让它能够在不同的系统中使用。</p><a href="https://mp.weixin.qq.com/s/sn6AcY-0TN-wigVBi-f2TQ">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T09:51:38+00:00</pubDate>
-</item>
-<item>
-<title>【长推】解读 Nubit 的比特币模块化 DA 方案：能否成为 BTC 上的 Celestia？</title>
-<link>https://twitter.com/Cook0x/status/1767836102336168410</link>
-<guid>https://twitter.com/Cook0x/status/1767836102336168410</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。Cook Sun解析了Nubit的比特币模块化DA方案，包括原理、架构和优势。Nubit提供中心化索引器和去中心化索引器之间的中间选项，并通过构建Nubit DA层管理数据和验证数据，依赖比特币作为可信数据层。架构包括委员会索引器、Nubit DA和轻量级索引器。Nubit的方案简化了状态转换的完整性检查，目标是确保数据的完整性和可用性。与BounceBit合作的宣布使该方案得以落地应用。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>加密研究员 Cook 解析了 Nubit 的比特币模块化 DA 方案的原理、架构和优势。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/Cook0x/status/1767836102336168410">https://twitter.com/Cook0x/status/1767836102336168410</a></p>
-<p><strong>文章作者：</strong></p><p>Cook Sun</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Cook Sun：</strong>原理：Nubit 在中心化索引器和去中心化索引器之间提供了一个中间选项，即通过构建一个 Nubit DA 层来管理数据并验证数据，但最终仍然是依靠比特币作为最基础的可信数据层。这提供了一个相对去中心化且不牺牲过多安全性的方案。
-
-架构：1）该架构依赖于比特币作为最基本的可信数据层；2）「委员会索引器」根据比特币区块计算协议状态，并生成检查点，发布到 Nubit DA（数据可用性层）；3）Nubit DA 负责发布数据和确保检查点数据可用；4）索引器负责向用户提供查询结果和相应的证明；5）「轻量级索引器」由用户运行，可以从索引器查询协议状态的必要部分，利用检查点验证结果的正确性。
-
-优势：Nubit 提出的方案是不进行整个状态转换的完整性检查，而是简化为检查少量检查点的有效性。目标是实现即使在大多数委员会索引器被攻击或是作恶的情况下，只要有 1 个委员会索引器在做正确的验证，也能保证数据的完整性和可用性。同时，Nubit 在近日宣布了与 BounceBit 合作，通过 BounceBit 的 BTC- restaking 技术与 Nubit 的比特币原生数据可用性解决方案相结合。立即为此方案实现了第一个落地场景。</p><a href="https://twitter.com/Cook0x/status/1767836102336168410">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T08:12:40+00:00</pubDate>
-</item>
-<item>
-<title>【英文】Mask Network 第三轮 Web3 社交生态资助项目盘点</title>
-<link>https://masknetwork.medium.com/mask-network-web3-social-ecosystem-grant-round-3-review-3d314177dd86</link>
-<guid>https://masknetwork.medium.com/mask-network-web3-social-ecosystem-grant-round-3-review-3d314177dd86</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：这些信息是积极的。Mask Network 公布入选其第三轮 Web3 社交生态资助项目，分为 Web3 社交、自治世界和公共物品三个赛道共计 33 个项目入选。在 Web3 社交赛道中，共有10个项目入选，包括 eth.limo、Data2.cash 等。在自治世界赛道中，共有12个项目入选，包括 On Chain Game、Jimu 等。而在公共产品赛道中，共有10个项目入选，包括 Cloudline、Glacier Network 等。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>Mask Network 公布入选其第三轮 Web3 社交生态资助项目，分为 Web3 社交、自治世界和公共物品三个赛道共计 33 个项目入选。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://masknetwork.medium.com/mask-network-web3-social-ecosystem-grant-round-3-review-3d314177dd86">https://masknetwork.medium.com/mask-network-web3-social-ecosystem-grant-round-3-review-3d314177dd86</a></p>
-<p><strong>文章作者：</strong></p><p>Mask Network</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Mask Network：</strong>Web3 社交有 10 个项目入选：eth.limo、Data2.cash、Solid Credentials Client、DAuth Network、Ensō Collective、FAST、TonUP、Dhive、eth.cd、Pulse。
-
-世界自治赛道有 12 个项目入选：On Chain Game、Stratagems、Jimu、PixeLAW、Minters World、FunBlocks、Mississippi、Loot underworld、dmstfctn — Godmode Chronicles、AW Research、WASD、grug’s lair。
-
-公共产品赛道有 10 个项目入选：ZKP2P、Cloudline、OpenBuild、Glacier Network、SheFi、MOSS、Discoco lab、Concrete、tokenary、Laputa。【原文为英文】</p><a href="https://masknetwork.medium.com/mask-network-web3-social-ecosystem-grant-round-3-review-3d314177dd86">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T08:11:24+00:00</pubDate>
-</item>
-<item>
-<title>BTC L2 Summer？一览主流比特币二层协议特点及优缺点</title>
-<link>https://substack.chainfeeds.xyz/p/btc-l2-summer</link>
-<guid>https://substack.chainfeeds.xyz/p/btc-l2-summer</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。文章介绍了比特币生态中热门的四个二层项目：Merlin Chain、B² Network、BEVM和BounceBit。Merlin Chain采用无链账户和ZK-Rollup技术，目前TVL最高。B² Network使用ZKP技术保障交易隐私和安全性。BEVM基于Taproot升级，允许以太坊DApp在BTC网络上运行。BounceBit引入双代币系统加强安全性和提升交易透明度。每个项目都有独特的优势和创新点。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>比特币铭文的兴起给比特币生态注入了新的活力，重新引起了人们对比特币的关注，这也催生了很多新的比特币二层项目，本篇文章则选取了市场上热度比较高的四个项目：BEVM、Merlin、B² Network、BounceBit 进行解读，各自都有哪些亮点和优势？</p>
-<p><strong>文章来源：</strong></p><p><a href="https://substack.chainfeeds.xyz/p/btc-l2-summer">https://substack.chainfeeds.xyz/p/btc-l2-summer</a></p>
-<p><strong>文章作者：</strong></p><p>Hamster</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Hamster：</strong>1）Merlin Chain：Merlin Chain 的技术框架核心在于其对链无关性（Chain-Agnostic）的账户体系和 Particle Network 提供的 BTC Connect 技术。这些创新不仅促成了 BTC 与 EVM 地址之间的无缝映射，还为用户带来了一个既高效又安全的跨链互动环境。此外，Merlin Chain 基于 Polygon CDK 框架开发了 zkEVM Layer2 解决方案，它巧妙地运用了 ZK-Rollup 技术，以有效压缩和验证大量交易数据，极大提升了交易处理速度与网络的可扩展性。且在 Polygon CDK 的技术架构下，Merlin Chain 采用了一种名为 CDK Validium 的方案，这种方案结合了 Polygon zkEVM 技术和 DAC 的概念，旨在以太坊链上实现多签形式的有效性验证。目前比特币二层赛道中， Merlin 的 TVL 最高；
-
-2）B² Network：采用了 ZKP 的 Rollup 技术，旨在提升交易处理速度和扩展应用场景的多样性，而不以牺牲安全性为代价。作为首个在 BTC 上实施 ZPVC（零知识证明验证承诺）Rollup 的网络，它引入了挑战 - 应答机制，通过 ZKP 和 Taproot 确保了交易的隐私与安全。在 B² Network 架构中，Rollup 层负责接收、存储、排序和处理用户交易，并生成 ZKP 验证交易真实性，从而保障了交易的安全和数据的可用性。而数据可用性（DA）层包括了去中心化存储、B² 节点和 BTC 网络，负责永久存储 Rollup 数据副本、验证 Rollup 的 ZKP，并在 BTC 网络上进行最终确认，保证了系统的安全性和不可篡改性；
-
-3）BEVM：基于 Taproot 升级的去中心化、EVM 兼容 BTC Layer 2 解决方案。它允许使用 BTC 作为交易的 Gas，并且允许以太坊生态系统中的 DApp 在 BTC 网络上运行。技术架构方面，BEVM 通过 Taproot 共识，结合了比特币原生的 Taproot 技术栈和由比特币 SPV 节点组成的 BFT PoS 网络，创造了一个去中心化的 BTC L2 解决方案。Taproot 共识由三部分组成：Taproot 技术（包括 Musig2、Schnorr  签名、MAST 等）、一个由比特币 SPV 构成的 BFT PoS 网络，以及通过 Signal 协议形成的阈值节点通信。这种架构提高了比特币网络的可扩展性和隐私性，同时通过 BEVM 技术的批量验证处理，提升了比特币网络交易的效率。
-
-4）Bouncebit：引入了以资产为驱动的 PoS Layer 1 方法，通过 BTC 和 BounceBit 原生代币的双代币系统加强网络安全实现了与 EVM 兼容链的互操作性，并结合 CeFi 技术，如 Mainnet Digital 托管和 Ceffu 的 MirrorX 技术，提升交易透明度及流动性，增强比特币资产的灵活性和应用场景。其双代币 PoS 共识机制，支持 50 个验证者，通过智能合约和基于 Epoch 的时间线优化验证者选举和奖励分配，同时允许验证者对奖励收取佣金，平衡节点运营成本与收益，共同营造了一个安全高效的区块链生态系统。</p><a href="https://substack.chainfeeds.xyz/p/btc-l2-summer">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T06:27:44+00:00</pubDate>
-</item>
-<item>
-<title>【英文长推】盘点 Dencun 升级前的 L2 生态数据：TVL 及 Gas 使用量</title>
-<link>https://twitter.com/singularity7x/status/1767911340167868531</link>
-<guid>https://twitter.com/singularity7x/status/1767911340167868531</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。在文章中，Juan Leon指出了各Layer2网络在2月份的TVL数据和Gas使用量数据对比。乐观Rollups（OR）的TVL增长了36%，而零知识Rollups（ZKR）的TVL增长超过了16亿美元。Gas使用量方面，ZKR消耗了239 ETH，环比下降了5.5%，而OR则环比上升了1.7%。在Gas使用量最大的网络中，zkSync Era以89 ETH位列第一，Arbitrum One以74 ETH快速赶上。Optimiums在2月份的Gas使用量有所下降，可能是由于用户离开了Manta Pacific生态系统。Validiums在2月份总共消耗了7 ETH。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>Bitwise 研究员 Juan Leon 盘点了 2 月份各 Layer2 的 TVL 数据和 Gas 使用量数据对比。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/singularity7x/status/1767911340167868531">https://twitter.com/singularity7x/status/1767911340167868531</a></p>
-<p><strong>文章作者：</strong></p><p>Juan Leo</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Juan Leo：</strong>TVL 和估值：1）乐观 Rollups（OR）的 TVL 在二月份增长了 36%。OP Mainnet 以 41% 的增长率遥遥领先，而 Base、Arbitrum One 和 Boba 的增长率分别为 34%、26% 和 23%。总体而言，OR 的 TVL 增长了 59 亿美元；2）零知识 Rollups（ZKR）的 TVL 增长超过 16 亿美元，主要是由于 STRK 代币的推出。Starknet、Scroll、Linea 和 zkSync Era 分别实现了 749%、103%、85% 和 59% 的显著增长；3）Validiums 的 TVL 也出现了不错的增长，增长了近 1.4 亿美元，月增长 44%；4）Optimiums 在 2 月份有 32% 的可观增长。值得注意的 Optimium 包括 Mantle 和 Arbitrum Nova，它们的 TVL 分别增长了 82% 和 49%。1 月份推出 MANTA 代币的 Manta 增长幅度相对较小，仅为 16%。Optimium 的总体 TVL 增至 35 亿美元。
-
-Gas 使用量：ZKR 在 2 月份消耗了超过 239 ETH，环比下降了 5.5%，而 OR 则环比上升了 1.7%，达到 173 ETH。2 月份 Gas 使用量最大的是 zkSync Era，为 89 ETH，Arbitrum One 以 74 ETH 的 Gas 使用量迅速赶上。
-
-Gas 使用量：1）Arbitrum One 的 Gas 使用量继续下降，2 月份从 88 ETH 至 74 ETH，而 OP Mainnet 的 Gas 使用量则停滞在 54 ETH。Base 再次迎头赶上，消耗了 43 ETH，而 Boba 则以 0.2 ETH 的使用量继续落后；2）ZKR 2 月份的 Gas 使用量主要由 zkSync Era 主导，达到 90 ETH。Linea 和 Scroll 继续迎头赶上，分别消耗了 33 ETH 和 63 ETH；3）Optimiums 2 月份消耗了 4 ETH，比 1 月份有所下降，这很可能是由于用户离开了 Manta Pacific 生态系统；4）在 ApeX 的带领下，Validiums 在 2 月份总共消耗了 7 ETH。【原文为英文】</p><a href="https://twitter.com/singularity7x/status/1767911340167868531">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T04:27:16+00:00</pubDate>
-</item>
-<item>
-<title>【长推】链抽象还是 AI？解析 NEAR 的 AI 布局</title>
-<link>https://twitter.com/tmel0211/status/1767739189985227104</link>
-<guid>https://twitter.com/tmel0211/status/1767739189985227104</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。NEAR创始人Illia Polosukhin在AI方面有丰富经验，NEAR推出NEAR Tasks平台用于AI模型训练和改进。NEAR还提供AI Agent服务自动执行用户操作，并利用DA能力追踪AI模型训练数据。NEAR在AI方面的技术延展和叙事引导使其在链抽象领域更加出色，AI有望成为链上加分项和促进牛市的催化剂。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>NEAR 创始人 Illia Polosukhin 将亮相英伟达 AI 大会的消息，让 NEAR 公链赚足了眼球。加密研究员 Haotian 解析了 NEAR 在 AI 方面的布局，他认为长期关注还是得看 NEAR 在「链抽象」上的布局和产品推进，但 AI 会是个不错的加分项和牛市催化剂。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/tmel0211/status/1767739189985227104">https://twitter.com/tmel0211/status/1767739189985227104</a></p>
-<p><strong>文章作者：</strong></p><p>Haotian</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Haotian：</strong>NEAR 创始人 Illia Polosukhin 有过较长时间的 AI 背景，是 Transformer 架构的共同构建者。而 Transformer 架构是如今 LLMs 大型语言模型训练 ChatGPT 的基础架构，足以证明 NEAR 老板在成立 NEAR 前确实有 AI 大模型系统的创建和领导经验。
-
-NRAR 曾在 NEARCON 2023 上推出过 NEAR Tasks，目标是为了进行人工智能模型的的训练和改进，简单来说，模型训练需求方（Vendor）可以在平台发布任务请求，并上传基础数据素材，用户（Tasker）可以参与进行任务答题，为数据进行文本标注和图像识别等人工操作。任务完成后，平台会给用户 NEAR 代币奖励，而这些经过人工标注的数据会被用于训练相应的 AI 模型。
-
-不过，NEAR 仅仅凭借 Tasks 平台，就想成为 AI 公链龙头显然还不够，NEAR 其实还在生态系统中进行 AI Agent 服务，用来自动执行用户一切链上行为和操作，用户只需授权就可以自由在市场中买卖资产。这有点类似 Intent-centric，用 AI 自动化执行来提升用户链上交互体验。除此之外，NEAR 强大的 DA 能力可以让它在 AI 数据来源的可追溯性上发挥作用，追踪 AI 模型训练数据有效性和真实性。
-
-总之，背靠高性能的链功能，NEAR 做 AI 方向的技术延展和叙事引导，似乎要比纯链抽象要不明觉厉多了。半个月前我在分析 NRAR 链抽象时，就看到了 NEAR 链性能 + 团队超强 Web2 资源整合能力的优势，万万没想到，链抽象还没有普及开来摘到果子，这一波 AI 赋能再一次把想象力放大了。长期关注还是得看 NEAR 在「链抽象」上的布局和产品推进，AI 会是个不错的加分项和牛市催化剂！</p><a href="https://twitter.com/tmel0211/status/1767739189985227104">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T04:24:40+00:00</pubDate>
-</item>
-<item>
-<title>【英文长推】构建模块化求解器平台：Khalani Network 如何优化求解器机制？</title>
-<link>https://twitter.com/knwang/status/1767975287151554662</link>
-<guid>https://twitter.com/knwang/status/1767975287151554662</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。文章涵盖了建立一个去中心化基于意图的市场的方向。作者提到了问题的核心在于求解器开发和运营成本，需要降低成本。为了解决这一问题，作者提出了模块化求解器平台的概念，支持无需权限模块的运行时集成。此外，作者提到了降低拥堵成本的重要性，以及实施针对每次拍卖的本地化费用结构的必要性。最后，作者强调了构建一个原子交易的网络的重要性。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>模块化求解器平台 Khalani Network 构建者 knwang 从「基于意图的市场分析」论文入手，描述了 Khalani Network 如何最大限度地降低与求解器开发和操作相关的成本，并提供一个便于解决方案原子集成的事务平台的愿景。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/knwang/status/1767975287151554662">https://twitter.com/knwang/status/1767975287151554662</a></p>
-<p><strong>文章作者：</strong></p><p>knwang</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>knwang：</strong>高昂的进入成本主要来自求解器的开发和运营费用。如今，开发人员在构建求解器时面临着巨大的成本压力，因为求解器必须作为一个集成堆栈从零开始构建。降低成本的关键在于拥有一个模块化求解器平台，该平台支持支持无需权限模块的运行时集成。通过委托和分摊求解器操作，可以大幅降低运营成本。
-
-求解器市场参与度增加的一个显着缺点是「拥堵成本」，表现为更高的交易费、失败率和流动性成本，所有这些都会降低用户福利。为了应对不断上涨的交易费用，一个理想的基于意图的市场将实施针对每次拍卖的本地化费用结构，减轻高参与率或同时拍卖的影响。求解器越多，竞标失败的可能性就会增加。理想的机制是确保只有中标者支付费用，从而消除未中标的成本。最好的方法是将交易对手选择、流动性获取和意图实现简化为原子交易。
-
-「基于意图的市场分析」一文指出了如何建立一个真正去中心化的基于意图的市场的方向，而不影响提供最大的用户满意度。实现这一目标需要最大限度地降低与求解器开发和操作相关的成本，同时提供一个便于解决方案原子集成的事务平台。我们将在 Khalani Network 上实现这一愿景，将其打造为可组合求解器网络。【原文为英文】</p><a href="https://twitter.com/knwang/status/1767975287151554662">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T03:23:28+00:00</pubDate>
 </item>
 </channel>
 </rss>
