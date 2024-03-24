@@ -10384,3 +10384,24 @@ Summarized using GPT-3.5-turbo-1106
 Append: [比特币生态系统的发展](https://www.hellobtc.com/kp/du/03/5063.html)
 append_entries: 4
 Finish: 2024-03-24 22:09:37.141038
+------------------------------------------------------
+Started: 2024-03-24 22:24:43.026148
+Existing_entries: 1004
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 266
+Summarized using GPT-3.5-turbo-1106
+Append: [ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round )
+Token length: 935
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文】LongHash Ventures：如何为 Web3 协议构建开发者生态？](https://www.longhash.vc/post/bootstrapping-developer-ecosystems-for-web3-protocols)
+Token length: 1214
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文】新时代加密市场：哪些利好因素推动了市场变迁？](https://archetype.mirror.xyz/btY8TEd7Bvy_KsGvlnj9EyWkVop2xVGP0gbyuWvbOMw)
+Token length: 1369
+Summarized using GPT-3.5-turbo-1106
+Append: [对话咕噜：以太坊终局解读，以太坊真的胜出了吗？](https://substack.chainfeeds.xyz/p/7a9)
+Token length: 1085
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文】深入探究 TEE 协处理器应用价值：是否被低估？](https://mirror.xyz/tumilet.eth/309o294dI38nETEUhF6Yjk8zH6smoa1rqaqv5jFbCjg)
+append_entries: 5
+Finish: 2024-03-24 22:25:03.094313
