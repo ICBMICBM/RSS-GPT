@@ -8944,3 +8944,15 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [深度解读Solana：像Apple，但又不同于Apple](https://www.panewslab.com/zh/articledetails/4dnlr9e3.html)
 append_entries: 1
 Finish: 2024-03-24 13:58:40.228877
+------------------------------------------------------
+Started: 2024-03-24 14:11:46.249634
+Existing_entries: 388
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 6463
+Summarized using GPT-3.5-turbo-1106
+Append: [一周预告 | Circle跨链传输协议CCTP上线Solana主网；Optimism（OP）解锁价值约8000万美元的代币](https://www.panewslab.com/zh/articledetails/fnrufvdp.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [深度解读Solana：像Apple，但又不同于Apple](https://www.panewslab.com/zh/articledetails/4dnlr9e3.html)
+append_entries: 2
+Finish: 2024-03-24 14:11:52.839926
