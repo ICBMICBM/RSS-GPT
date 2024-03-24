@@ -8254,3 +8254,21 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [深度解读Solana：像Apple，但又不同于Apple](https://www.panewslab.com/zh/articledetails/4dnlr9e3.html)
 append_entries: 2
 Finish: 2024-03-24 02:15:05.460808
+------------------------------------------------------
+Started: 2024-03-24 02:31:30.458930
+Existing_entries: 374
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 176
+Summarized using GPT-3.5-turbo-1106
+Append: [dYdX社区投票通过在Stride质押2000万枚DYDX的信号提案](https://www.panewslab.com/zh/sqarticledetails/8wyrt7qb.html)
+Token length: 3489
+Summarized using GPT-3.5-turbo-1106
+Append: [深入探究DAO的实用性现状与潜在用例](https://www.panewslab.com/zh/articledetails/bysmwoyn.html)
+Token length: 61
+Summarized using GPT-3.5-turbo-1106
+Append: [Polyhedra Network：将推出价值1500万美元的ZK代币空投活动](https://www.panewslab.com/zh/sqarticledetails/3bbt7gv9.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [深度解读Solana：像Apple，但又不同于Apple](https://www.panewslab.com/zh/articledetails/4dnlr9e3.html)
+append_entries: 4
+Finish: 2024-03-24 02:31:41.977339
