@@ -5,17 +5,49 @@
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
 <item>
+<title>MEME 热潮下，Solana 链上还有哪些应用值得关注？</title>
+<link>https://www.chaincatcher.com/article/2118030</link>
+<guid>https://www.chaincatcher.com/article/2118030</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：这些信息是积极的。文章总结了 Solana 链上活跃的代表项目，包括DEX领域的Raydium、Orca、Jupiter，流动质押赛道的Marinade、Jito、BlazeStake，以及借贷协议的Kamino和Marginfi。这些项目为用户提供了各种DeFi功能，如交易、流动性挖矿、质押、借贷等，丰富了Solana生态系统。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>MEME 币的财富效应给 Solana 带来了巨大的流量和关注度，并吸引了一批外来应用倒向 Solana 生态。除 MEME 币外，Solana 链上生态还有哪些机会值得参与与关注？链捕手研究员西柚撰文梳理了 Solana 链上的活跃代表项目。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.chaincatcher.com/article/2118030">https://www.chaincatcher.com/article/2118030</a></p>
+<p><strong>文章作者：</strong></p><p>西柚</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>西柚：</strong>DEX：1）Raydium：基于 Solana 链构建的自动化做市商 AMM 交易平台，工作机制类似于 Uniswap。目前，Raydium 产品功能包含了 DEX 交易、AMM Swap 交换、流动性挖矿、质押挖矿、IDO 发射 Acceleraytor 等功能。
+2）Orca：同样是 Solana 链上的第一代 AMM（自动做市商）DEX，与集成众多功能的 DEX 不同，该平台页面非常简洁，仅支持代币兑换和流动资金池添加。
+3）Jupiter：Solana 链上的交易聚合器，旨在通过集成 Solana 链上主要的流动性市场，为用户提供最佳兑换汇率和体验。
+
+流动质押赛道：1）Marinade：Solana 链上最大的流动性质押协议，用户可将 SOL 质押在平台并得到 mSO 作为质押凭证，获取 PoS 网络质押收益的同时还能参与其它链上 DeFi 的交互、提高资金利用率。
+2）Jito：Solana 链上的第二大流动质押协议，用户可以质押 SOL 以换取质押凭证 LSD 代币 JitoSOL。该平台不仅给用户提供 PoS 网络的质押奖励收益，还会将获得的 MEV 收益奖励分配给质押用户。
+3）BlazeStake：Solana 链上的第三大流动质押协议，用户质押 SOL 获取质押代币 bSOL。
+
+借贷协议：1）Kamino：集成了借贷、自动化收益策略和杠杆易等功能，旨在为用户提供一个统一、安全的 DeFi 产品套件。在 Kamino 上，用户可以借贷资产、提供杠杆流动性给性 DEX、构建自动化收益策略，以及使用集中流动性头寸作为抵押品等。
+2）Marginfi：整合了 Swap、LST、跨链桥、稳定币等，该协议为用户提供了一个统一的账户来管理自己的资产，或组成投资组合并提高基础交易协议的资本效率。</p><a href="https://www.chaincatcher.com/article/2118030">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-24T04:51:36+00:00</pubDate>
+</item>
+<item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。zkBridge的开发商Polyhedra Network以10亿美元估值完成了2000万美元的战略融资，由Polychain Capital领投，其他公司也参与了投资。资金将用于招聘扩大团队规模，将目前的50人团队扩大到80人，并用于产品、工程、业务开发和营销等方面。<br> <div>
+<div> <br><br>摘要：<br>这些信息是积极的。Polyhedra Network 完成了 2000 万美元战略融资，估值达到 10 亿美元，由 Polychain Capital 领投，其他投资方包括 Animoca Brands、Hashkey Capital、Longhash Ventures 等。融资资金将用于扩大团队规模，招聘产品、工程、业务开发和营销人员，将目前约 50 人的团队扩大到约 80 人。通过简单协议进行的融资有利于公司的发展。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
 
+<item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
+<content:encoded><![CDATA[
+<div> <br /><br />摘要：<br />这些信息是积极的。zkBridge的开发商Polyhedra Network以10亿美元估值完成了2000万美元的战略融资，由Polychain Capital领投，其他公司也参与了投资。资金将用于招聘扩大团队规模，将目前的50人团队扩大到80人，并用于产品、工程、业务开发和营销等方面。<br /> <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
