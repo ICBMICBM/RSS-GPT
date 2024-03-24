@@ -6853,3 +6853,12 @@ Existing_entries: 33
 Fetching from https://rss.app/feeds/wUQN1BEONEifvDV7.xml
 append_entries: 0
 Finish: 2024-03-24 15:24:42.425051
+------------------------------------------------------
+Started: 2024-03-24 15:32:21.615957
+Existing_entries: 33
+Fetching from https://rss.app/feeds/wUQN1BEONEifvDV7.xml
+Token length: 127
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin ETFs see full week of net outflows, record low inflows for BlackRock, Fidelity](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f93b14df5133b819a3bacfb34608a5059d07d963db4df443e48d7268236d4995763c5ab3bb7e1ae2ff7fc8821aa3bfa671d8737401a5741f1fcbf947e57cfdeb9b5c9819f8807038c12c690617787652564939356859c0ffdd0)
+append_entries: 1
+Finish: 2024-03-24 15:32:23.080859
