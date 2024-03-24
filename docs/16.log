@@ -10546,3 +10546,39 @@ Summarized using GPT-3.5-turbo-1106
 Append: [ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round )
 append_entries: 9
 Finish: 2024-03-24 23:08:13.932299
+------------------------------------------------------
+Started: 2024-03-24 23:22:14.156884
+Existing_entries: 1009
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 971
+Summarized using GPT-3.5-turbo-1106
+Append: [UXLink：从「大基建」到「小社群」——Web3 社交项目的迭代演进](https://mp.weixin.qq.com/s/wEzCn2egGbIYVVpnvvOzvw)
+Token length: 896
+Summarized using GPT-3.5-turbo-1106
+Append: [深入讨论 RGB++：安全性分析](https://talk.nervos.org/t/rgb-1/7798)
+Token length: 1000
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文长推】介绍「httpz」：如何构建可信互联网](https://twitter.com/WillCove/status/1768617782361374803)
+Token length: 1091
+Summarized using GPT-3.5-turbo-1106
+Append: [Folius Ventures：Web3 中国消费者应用开发报告](https://docsend.com/view/wtyk9aujbg73gdjq)
+Token length: 1113
+Summarized using GPT-3.5-turbo-1106
+Append: [【长推】构建 zkBridge 跨链桥：B² Network 如何用 BitVM 挑战机制落地双向管道？](https://twitter.com/tmel0211/status/1769231704508809435)
+Token length: 816
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文长推】ETHGlobal 伦敦决赛入围项目一览](https://twitter.com/ETHGlobal/status/1769417544329240965)
+Token length: 635
+Summarized using GPT-3.5-turbo-1106
+Append: [Web3 入门指南：加密新人如何系统了解区块链？](https://www.web3brand.io/p/web3-101-materials)
+Token length: 164
+Summarized using GPT-3.5-turbo-1106
+Append: [Mask Network 推出质押计划，参与者将获得其生态系统代币奖励](https://twitter.com/realMaskNetwork/status/1769529257238093825)
+Token length: 1245
+Summarized using GPT-3.5-turbo-1106
+Append: [重新解读「冷门公链」TON 的跨生态互联](https://research.mintventures.fund/2024/03/14/zh-exploring-cross-ecosystem-connectivity-of-the-niche-blockchain-ton/)
+Token length: 266
+Summarized using GPT-3.5-turbo-1106
+Append: [ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round )
+append_entries: 10
+Finish: 2024-03-24 23:22:51.837405
