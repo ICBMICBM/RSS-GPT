@@ -5,11 +5,168 @@
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
 <item>
+<title>【英文长推】为什么 SUAVE 应该实施 RIP-7560 或考虑在 SGX 内运行 4337 捆绑程序？</title>
+<link>https://twitter.com/doganeth_en/status/1767312296122958097</link>
+<guid>https://twitter.com/doganeth_en/status/1767312296122958097</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>Clave 研究员 Dogan 认为，SUAVE 可以成为区块链世界的信任来源以及用户交互的门户。为实现这一愿景，账户抽象是不可或缺的。SUAVE 应该实施 RIP-7560 或考虑在 SGX 内运行 4337 捆绑程序。SUAVE 是订单流机器，可以为用户提供最佳执行路径，同时为验证者带来最高利润。开发者认为SUAVE 的最大优点是能够抽象链，但以太坊当前的账户模型并不为用户体验而设计。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Clave 研究员 Dogan 认为，SUAVE 可以成为区块链世界的信任来源以及用户交互的门户。而想要实现这一愿景，账户抽象是不可或缺的。为此，SUAVE 应该实施 RIP-7560 或考虑在 SGX 内运行 4337 捆绑程序。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/doganeth_en/status/1767312296122958097">https://twitter.com/doganeth_en/status/1767312296122958097</a></p>
+<p><strong>文章作者：</strong></p><p>Dogan</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Dogan：</strong>作为构建面向消费者的加密应用程序的团队的研究员，我对 SUAVE 的看法是，SUAVE 应该成为用户与区块链世界交互的门户。我们有足够多 rollups 和 L1，但 MEV 和互操作领域仍然缺乏。SUAVE 是一个订单流机器，可以为用户提供最佳执行路径，同时为验证者带来尽可能高的利润，这是通过其基于 SGX 的架构实现的。因此，我坚信 SUAVE 可以作为整个区块链世界的信任来源。
+
+对于开发者来说，SUAVE 的最大优点是能够抽象链，这是真实存在的（不像其他「链抽象」流行语）。然而，以太坊当前的账户模型并不是为最佳用户体验而设计的，这使得构建抽象应用程序变得困难。如果没有账户抽象，SUAVE 就像一辆法拉利跑车，里面只有一把旧椅子。因为用户不应该关心种子短语、gas 令牌，甚至链本身。最棒的是什么？如果账户在 SUAVE 上结算，就能解决多链 AA 问题。
+
+我认为 RIP-7560 或 4337 差别不大，因为我看不到在 SGX 和 RIP-7560 内运行 ERC-4337 捆绑程序时有任何信任假设变化。但 AA 是 SUAVE 的必备条件。【原文为英文】</p><a href="https://twitter.com/doganeth_en/status/1767312296122958097">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-17T06:00:07+00:00</pubDate>
+</item>
+<item>
+<title>MT Capital：AI x Crypto 交汇点的机遇与挑战</title>
+<link>https://productive-apple-b65.notion.site/MT-Capital-AI-x-Crypto-20768d4a49b5493fb85630052e530f89</link>
+<guid>https://productive-apple-b65.notion.site/MT-Capital-AI-x-Crypto-20768d4a49b5493fb85630052e530f89</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。MT Capital发布研究报告，深入分析了AI x Crypto领域的发展路径和障碍。他们认为AI x Crypto赛道的发展是可持续的，包括细分领域如AI Agent、去中心化计算等，最引人注目的是去中心化计算。推荐了一些具有领导地位和潜力的主要项目，如Worldcoin、Arkham、Render Network等。AI x Crypto领域不仅可行，更是必要的战略选择。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>MT Capital 发布研报，深入分析「算力资产化」、「模型 / Agent 资产化」以及「数据资产化」三大核心场景，探讨 AI x Crypto 领域的革新路径和存在的障碍，并对该领域一些代表项目进行介绍。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://productive-apple-b65.notion.site/MT-Capital-AI-x-Crypto-20768d4a49b5493fb85630052e530f89">https://productive-apple-b65.notion.site/MT-Capital-AI-x-Crypto-20768d4a49b5493fb85630052e530f89</a></p>
+<p><strong>文章作者：</strong></p><p>Xinwei、Ian</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>MT Capital：</strong>1. 我们认为 AI x Crypto 赛道的发展是可持续的，而不仅仅是一时的热潮。随着 AI 技术的发展和时间的推移，我们预计会看到更多资金和注意力持续流入这一领域，带来多轮发展机遇。因此，布局 AI x Crypto 赛道不仅是可行的，更是必要的战略选择。
+2. 在 AI x Crypto 领域中，我们可以看到多个细分领域，包括 AI Agent、去中心化计算、数据、预言机、ZKML、FHEML、协处理器、Meme、全民基本收入、生成式艺术平台以及游戏等应用。在这些领域中，去中心化计算尤其引人瞩目，无论是 GPU 计算还是算法模型，都代表着巨大的创新空间，且对算力的需求极高，算力成为一种共识形式，其价值潜力可以与公链的市值天花板相媲美。同时，我们也看好 ZKML、FHEML 和协处理器这些尚处于早期阶段但潜力巨大的领域。
+3. 考虑到当前市场流动性、项目基本面以及社区影响力，Worldcoin、Arkham、Render Network、Arweave、Akash Network、Bittensor 和 [io.net](http://io.net) 均为我们认为具有领导地位和发展潜力的主要项目。</p><a href="https://productive-apple-b65.notion.site/MT-Capital-AI-x-Crypto-20768d4a49b5493fb85630052e530f89">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-17T04:34:35+00:00</pubDate>
+</item>
+<item>
+<title>【英文】适用于积分系统的专用虚拟机</title>
+<link>https://mirror.xyz/stackrlabs.eth/xSRyanslzZEW95mP1_N8Z5X5_eIaEXQBgwc42txZPDI</link>
+<guid>https://mirror.xyz/stackrlabs.eth/xSRyanslzZEW95mP1_N8Z5X5_eIaEXQBgwc42txZPDI</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章探讨了如何通过 micro-rollup 构建适用于积分系统的专用虚拟机，以跟踪和管理协议积分。 micro-rollup 是快速、灵活、自托管的执行环境，可以支持可验证的链下计算，确保系统运行可预测且不被篡改。此外，文章提到了积分系统的进一步扩展，包括乘数、推荐、积分自动化和积分作为声誉的应用。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>目前，积分已成为激励用户和发展协议的最新原语，为传统的空投机制增添了新意。考虑到当前用于运行积分系统的基础设施存在的问题，Stackr Labs 撰文探讨如何通过 micro-rollup 构建适用于积分系统的专用虚拟机，以跟踪和管理协议积分。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://mirror.xyz/stackrlabs.eth/xSRyanslzZEW95mP1_N8Z5X5_eIaEXQBgwc42txZPDI">https://mirror.xyz/stackrlabs.eth/xSRyanslzZEW95mP1_N8Z5X5_eIaEXQBgwc42txZPDI</a></p>
+<p><strong>文章作者：</strong></p><p>Stackr Labs</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Stackr Labs：</strong>micro-rollup 本质上是一种状态机，它在链下执行某些逻辑，然后将执行验证外包给另一层，我们称之为「Vulcan」，它负责验证状态更新并将计算数据推送到链上。micro-rollup 是快速、灵活、自托管的执行环境，这确保了积分的传递不会产生「链上」开销，且所有状态更新都会尽快发生；micro-rollup 支持可验证的链下计算，确保系统可预测地运行且不被篡改；micro-rollup 使状态可审计，确保提供商没有任意更改系统规则；micro-rollup 可直接在 L1 上结算，可以直接在合约内部使用状态证明来执行链上操作。验证层通过提供预结算保证，确保结算周期大大缩短。
+
+积分系统还可以进一步扩展，以构建更丰富的功能。例如：
+
+Multipliers（乘数）：团队可以在某些事件或活动的基线积分上使用有时限的乘数，因为这是一种与其他项目协作、增加社区和协议活动等的良好机制。在这一版本的积分系统中，我们存储了在特定时间为事件分配的积分，很容易迭代和实现乘数。
+
+Referrals（推荐）：推荐系统很难完全构建在链上，因为它们的结构可能相当复杂。将积分系统构建为 micro-rollup，可以在自己的主权执行环境中自由地实现上述复杂机制。
+
+Points Automation（积分自动化）：上面讨论的系统具有很大灵活性，但也需要额外的基础设施作为管理员（或机器人）开销来更新用户积分。可以通过 L1Syncer （SDK 内置模块）将所有用户事件从选定合约导入 micro-rollup，从而提高系统自主性。
+
+Points as Reputation（积分即信誉）：积分很容易被认为是社会经济中的 XP 或声誉。它们是对为协议或产品贡献价值的认可形式。使用积分系统作为社会经济中的声誉跟踪器来创建链上体验的潜力是巨大的，且充满了令人兴奋的参与和创新可能性。【原文为英文】</p><a href="https://mirror.xyz/stackrlabs.eth/xSRyanslzZEW95mP1_N8Z5X5_eIaEXQBgwc42txZPDI">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-17T03:04:02+00:00</pubDate>
+</item>
+<item>
+<title>解析 B^2 新版技术路线图：比特币链下 DA 与验证层的必要性</title>
+<link>https://mp.weixin.qq.com/s/ZqQaoAHud3OGFDQG9z5IJg</link>
+<guid>https://mp.weixin.qq.com/s/ZqQaoAHud3OGFDQG9z5IJg</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>1. B^2 Network在比特币链下建立了名为B^2 Hub的DA层，借鉴Celestia的思路，引入数据采样与纠删码。<br>2. Committer会将DA数据的存储索引和数据hash上传到比特币链上。<br>3. B^2尝试建立存储网络，通过存储激励方式激励节点存储历史数据集。<br>4. 采用混合式状态验证方案，链下验证ZK证明，链上通过bitVM思路挑战ZK证明验证痕迹。<br>5. B^2 Hub可以成为比特币链下功能拓展层，对接多个比特币Layer2。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>极客 web3 创始人 Faust 撰文深入解析 B^2 的新版技术路线图，包括其比特币链下 DA 层  B^2 Hub、存储网络、混合型状态验证方案等，认为 B^2 Hub 可以成为比特币链下功能拓展层。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/ZqQaoAHud3OGFDQG9z5IJg">https://mp.weixin.qq.com/s/ZqQaoAHud3OGFDQG9z5IJg</a></p>
+<p><strong>文章作者：</strong></p><p>Faust</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Faust：</strong>B^2 Network 在比特币链下设置了名为 B^2 Hub 的 DA 层，该 DA 层网络借鉴了 Celestia 的思路，引入数据采样与纠删码，确保新增数据可以快速分发给大量外部节点，并极力避免数据扣留的发生。同时，B^2 Hub 网络中的 Committer 会把 DA 数据的存储索引以及数据 hash 上传到比特币链上，供任何人读取；
+
+为减轻 DA 层节点压力，B^2 Hub 中的历史数据不会永久保存，所以 B^2 又尝试搭建起一个存储网络，通过类似于 Arweave 的存储激励方式，刺激更多节点存储更完备的历史数据集，以获取存储激励；
+
+在状态验证方面，B^2 采用了混合式验证方案，在链下验证 ZK 证明，链上通过 bitVM 的思路，挑战 ZK 证明验证痕迹，只要有 1 个挑战者节点在检测到错误后发起挑战，B^2 网络就是安全的，这符合欺诈证明协议的信任模型，但由于用到了 ZK，这种状态验证实际上是混合型的。
+
+按照 B^2 Network 的未来路线图，EVM 兼容的 B^2 Hub 可以成为对接多个比特币 Layer2 的链下验证层与 DA 层，成为一个类似于 BTCKB 的比特币链下功能拓展层。由于比特币本身无法支持很多场景，这种链下搭建功能拓展层的方式将会成为 Layer2 生态里越来越常态化的现象。</p><a href="https://mp.weixin.qq.com/s/ZqQaoAHud3OGFDQG9z5IJg">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-16T05:56:05+00:00</pubDate>
+</item>
+<item>
+<title>ZK 黑客松指南：分析现阶段知名 ZKML 框架在神经网络上的表现</title>
+<link>https://hackmd.io/@Guy1m0/rkmmmlGAp</link>
+<guid>https://hackmd.io/@Guy1m0/rkmmmlGAp</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Guy1m0开发了ZKML基准测试，评估不同框架在神经网络模型中的性能表现。发现zk-SNARKs和Halo2在处理神经网络时性能有显著差异，opML展示了潜力。缩放因子对精度损失有影响，EZKL在精度模式下表现良好。但存在最佳缩放因子的问题，DDKang ZKML未优于EZKL。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>加密研究员 Guy1m0 注意到，黑客松上与零知识（ZK）相关的赛道越来越多。他开发了一套 ZKML 基准测试，专注于神经网络模型中的 DNN 与 CNN，侧重于在所有框架中创建统一的条件，以提供实用和直接的比较，旨在帮助开发人员了解不同框架之间的性能差异。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://hackmd.io/@Guy1m0/rkmmmlGAp">https://hackmd.io/@Guy1m0/rkmmmlGAp</a></p>
+<p><strong>文章作者：</strong></p><p>Guy1m0</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Guy1m0：</strong>在此基准测试项目中，我们严格地评估了四种知名 zkML 框架在六种 DNN 和 CNN 神经网络架构上的表现。我们的分析揭示了这些框架的性能表现的几个可能原因。
+
+一个重要发现是，zk-SNARKs 和 Halo2 这两种 zk 系统在性能上有显著差异，特别是在处理神经网络时。Circomlib-ml 将 'Conv2d' 转译为电路的做法似乎造成了显著的资源消耗，与之形成对比的是，EZKL 和 DDKang ZKML 则更多地受到层数和网络参数变化的影响。
+
+此外，opML 框架的系统在图像分类任务中展现了相当可观的潜力。尽管目前在 operator 支持方面有所局限，该框架在 DNN 模型上的表现表明，依然可将其视为传统 zkML 框架的有力替代方案，尤其是在对「任意信任」（any-trust）的保证就已足够的情况下 —— 即单个诚实的验证者即可强制执行正确的行为。
+
+本基准测试未涉及的一个关键方面是缩放因子（scaling factor）对精度损失的影响。值得注意的是，EZKL 在精度模式下在 DNN 模型上实现了完美精度，而其资源模式下的表现不佳，这凸显了缩放因子的重要性。然而，尽管具有更高的缩放因子并采用相同的证明系统，Daniel Kang 的 DDKang ZKML 在精度上并没有优于 EZKL。这提出了一个关键问题：或许存在一个最佳的缩放因子，能够同时使性能和精度达到一种平衡。</p><a href="https://hackmd.io/@Guy1m0/rkmmmlGAp">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-16T04:22:35+00:00</pubDate>
+</item>
+<item>
+<title>剑指 ATH，BNB 为何重回强势？</title>
+<link>https://sleepintherain.substack.com/p/athbnb</link>
+<guid>https://sleepintherain.substack.com/p/athbnb</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。从2024年开始，BNB经历了预期反转，涨幅超过90%，领跑同类型代币。雨中狂睡认为，BNB重回强势的原因包括整体市场转牛、Binance交易数据增长和金铲子属性。BTC的上涨增加了市场信心，Binance的现货交易量不断增长，且BNB被打造成金铲子项目。预期反转的核心理念是好项目经历负面事件后重新回到高估状态。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>从 2024 年开始，BNB 迎来预期反转，涨幅超过 90%，领跑所有同类型代币。经历了熊市和加息周期以及政策上的影响，BNB 为何又重回强势，直指 ATH？加密 KOL 雨中狂睡将其归结于整体市场的转牛、Binance 交易数据的增长以及金铲子属性。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://sleepintherain.substack.com/p/athbnb">https://sleepintherain.substack.com/p/athbnb</a></p>
+<p><strong>文章作者：</strong></p><p>雨中狂睡</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>雨中狂睡：</strong>1）牛市：BTC 的上涨给予了市场足够的信心，去建仓一些蓝筹 Token。
+
+2）数据增长：随着流动性回归和牛市到来，中心化交易所的现货交易量也不断攀升。Binance 仍占据着加密市场现货交易量的主导地位。3 月仅半个月就快追上 2 月整月现货交易量。可以预见的是，三月交易量将有机会回升到 22 年 12 月，甚至是 21 年的水平。合约交易量亦然。相较之前牛市，合约交易量的表现要更好一些。
+
+3）金铲子：与上轮牛市相似，Binance 的主要思路就是将 BNB 塑造成一个金铲子。用户只需要将 BNB 存在 Binance 上，参与持续不断的 Launchpool/Launchpad 打新即可。
+
+另外，值得一提的是，BNB 是一个「预期反转」的典型例子。预期反转的核心在于一个好项目在经历负面事件后，项目 Token 价格受影响下跌，处于低估状态。随着事件影响减弱，项目 Token 会重新回到合理区间或高估状态。如果不想陷入「老手死于抄底」的境地，可以多关注对应标的的估值和项目方的新动作。从项目方的动作中往往可以看出它的倾向。</p><a href="https://sleepintherain.substack.com/p/athbnb">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-16T04:02:31+00:00</pubDate>
+</item>
+<item>
+<title>【长推】如何看待币安 Launchpool 新上线的再质押项目 ether.fi</title>
+<link>https://twitter.com/tmel0211/status/1768810825597469043</link>
+<guid>https://twitter.com/tmel0211/status/1768810825597469043</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Haotian分享了对ether.fi的看法，指出其对Restaking领域的重要性。他解释了ether.fi如何实现非托管用户掌管私钥和去中心化节点治理，包括使用eETH代币、ECIES加密技术和DVT分布式验证器技术。文章还讨论了ETHFI与Eigenlayer和LIDO之间的竞争关系以及其技术架构的创新性。整体而言，Haotian认为ETHFI有潜力在行业内拥有重要地位。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>币安 Launchpool 第 49 个项目将上线 ether.fi（ETHFI），加密研究员 Haotian 分享其对 ether.fi 的几点看法，介绍 ether.fi 如何实现非托管用户掌管私钥以及去中心化节点治理。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/tmel0211/status/1768810825597469043">https://twitter.com/tmel0211/status/1768810825597469043</a></p>
+<p><strong>文章作者：</strong></p><p>Haotian</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Haotian：</strong>1）ETHFI 上线对 Restaking 赛道有「风向标」意义，作为 Restaking 赛道 TVL 总量超 30 亿美元的头部项目，ETHFI 的技术框架、创新范式以及上所后的市场影响都会有一定引领效用。尤其是，Restaking 究竟是一种创新的 LSD 技术探索还是存量资金无处安放的投机倒把，目前还存在不确定性「争议」；
+
+2）质押 ETH 得 eETH 再流通，参与 ETHFI 质押可得平台积分，此外还能同时得到 Eigenlayer 的质押积分，这种「一鱼三吃」的 Restaking 范式也是获得超额市场预期的关键。问题是，Eigenlayer 把 AVS 活跃节点向链外「商品化」输出的核心立足点还没被有效验证，抢先内卷一鱼多吃的 Tokenomics 泡沫，多少会有不安定感；这个角度看，头部项目的快速落地会加速行业内卷和洗牌；
+
+3）ETHFI 的战略卡位很特别，可以说它是 Eigenlayer 的竞争者，也可以说它在试图冲击 LIDO 老大哥的地位，它的技术架构和叙事可以同时跨越 Staking 和 Restaking 两条战线。ETHFI 在私钥管理、节点选择、质押和奖励等方面都有了领先的技术创新性；无论是硬刚 LIDO 还是弯道超车 Eigenlayer，似乎都有故事可以讲；
+
+4）ETHFI 称可以实现非托管用户掌管私钥的方式，又可以实现去中心化节点治理，具体如何做到呢？
+1、用户将 ETH 存入合约后，会得到一份 eETH 代币，可以直接用私钥控制资产流通，没有任何第三方可接触私钥，确保了资产安全；
+2、当用户存入资产超过 32ETH 后，ETHFI 会自动生成一个验证器私钥对，该私钥 Validtors 只有「使用权」但没法直接明文接触。ETHFI 采用了 ECIES 加密技术，验证器无法获得私钥的完整访问权限，只能提交请求，ECIES 会将私钥安全传递给其他节点，全程不会暴露，保证了分布式节点验证机制的运转。
+3、用户参与节点质押的风险莫过于节点因技术问题掉线导致资产被 Slash 遭受损失。ETHFI 采用 DVT 分布式验证器技术，Validators 会成为一组利益相关者整体进行工作，如果组内某个节点突然遇到问题，其他验证器会代替履行职责，确保验证过程顺利进行。具体采用了将私钥拆分成私钥共享的管理技术 Obol，并配置一定阈值进行管理。</p><a href="https://twitter.com/tmel0211/status/1768810825597469043">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-16T03:26:05+00:00</pubDate>
+</item>
+<item>
+<title>彭博社：币安收紧代币上市流程，锁仓期延长至至少一年</title>
+<link>https://www.bloomberg.com/news/articles/2024-03-15/binance-extends-token-listing-cliff-period-requires-deposit-bnb</link>
+<guid>https://www.bloomberg.com/news/articles/2024-03-15/binance-extends-token-listing-cliff-period-requires-deposit-bnb</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。根据消息人士报道，币安收紧代币上市流程，要求项目方同意至少一年的解禁期，并支付更多保证金。这一举措旨在加强平台上的投资者保护，遵守监管机构的要求。这一变化从去年底开始生效，旨在为做市商留出更多代币并增加项目方的责任。 <div>
+<p>据彭博社援引消息人士报道，面对监管机构的密切关注，币安收紧代币上市流程，以增强其平台上的投资者保护。币安现要求上市的加密项目必须同意至少一年的 cliff（即代币解禁之前的时间段），此前最多不超过六个月。目前币安已向寻求上市的项目方口头传达了该变化，项目方在此期间不能出售任何代币，同时为做市商留出更多代币并支付保证金，这些变化于去年年底开始生效。</p><p><a href="https://www.bloomberg.com/news/articles/2024-03-15/binance-extends-token-listing-cliff-period-requires-deposit-bnb">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-16T02:47:59+00:00</pubDate>
+</item>
+<item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>ZK 互操作协议zkBridge的开发商Polyhedra Network以10亿美元估值完成2000万美元战略融资，由Polychain Capital领投，其它投资方包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。融资将用于招聘，将团队规模从50人扩大到80人。这些信息是积极的。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
+
+<item>
 <title>坎昆之后的以太坊怎么看？一文梳理社区观点</title>
 <link>https://www.theblockbeats.info/news/51877</link>
 <guid>https://www.theblockbeats.info/news/51877</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的<br>1）以太坊Gas费降低10倍，可能鼓励更多用户参与应用程序和增加链上活动。<br>2）Dencun升级可能利好RaaS市场，增强了以太坊的可扩展性。<br>3）以太坊和通用L2市场表现并没有太大涨幅，未来以太坊主网的商业模式或许会转移给通用L2团队。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的<br />1）以太坊Gas费降低10倍，可能鼓励更多用户参与应用程序和增加链上活动。<br />2）Dencun升级可能利好RaaS市场，增强了以太坊的可扩展性。<br />3）以太坊和通用L2市场表现并没有太大涨幅，未来以太坊主网的商业模式或许会转移给通用L2团队。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>Gas 费已降低 10 倍，要开始布局以太坊了吗？</p>
 <p><strong>文章来源：</strong></p><p><a href="https://www.theblockbeats.info/news/51877">https://www.theblockbeats.info/news/51877</a></p>
 <p><strong>文章作者：</strong></p><p>BlockBeats</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>BlockBeats：</strong>1）大盘轮动到以太坊和山寨：在 Decun 升级和以太坊 ETF 双重预期加持下，以太坊从 2300 美元涨至 4000 美元。如今 Dencun 已经主网激活，Gas 降低，预计将鼓励用户参与更多的应用程序并增加他们的链上活动。也正因此，社区有人认为，EIP-4844 将减少以太坊的整体收入。尽管 L2 为以太坊上的 DA 支付的费用确实会减少，但这种减少不太可能对以太坊的总费用产生产生重大影响。L2 的 DA 费用仅占以太坊全部费用收入的约为 7-10%。
@@ -18,7 +175,6 @@
 
 3）从目前市场表现来看，以太坊和通用 L2 并没有太大涨幅。加密研究员 @0xNing0x 认为，坎昆升级之后，以太坊主网的商业模式将以售卖区块空间为主，应用层税费这块收入将转移给通用 L2。可通用 L2 团队意识形态化严重，完全不是 Solana 等竞争链的对手。</p><a href="https://www.theblockbeats.info/news/51877">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-15T09:00:48+00:00</pubDate>
 </item>
 <item>
@@ -26,7 +182,7 @@
 <link>https://twitter.com/0xArnav/status/1768302236503859704</link>
 <guid>https://twitter.com/0xArnav/status/1768302236503859704</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Arnva回顾了「Beyond the Block」的MEV研究日活动的演讲内容。主要要点包括：1）专业市场的出现和中心化问题；2）交易供应链的隐私现状；3）MEV Boost拍卖的结构分析；4）有竞争力的预确认市场；5）执行票据的缺点；6）链上求解器的优势；7）成熟提议者的崛起。文章涵盖了这些方面，提供了深入的见解和讨论。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。Arnva回顾了「Beyond the Block」的MEV研究日活动的演讲内容。主要要点包括：1）专业市场的出现和中心化问题；2）交易供应链的隐私现状；3）MEV Boost拍卖的结构分析；4）有竞争力的预确认市场；5）执行票据的缺点；6）链上求解器的优势；7）成熟提议者的崛起。文章涵盖了这些方面，提供了深入的见解和讨论。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>HashKey Capital 成员 Arnav 撰文对「Beyond the Block」的 MEV 研究日活动的演讲内容进行了回顾总结。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/0xArnav/status/1768302236503859704">https://twitter.com/0xArnav/status/1768302236503859704</a></p>
 <p><strong>文章作者：</strong></p><p>Arnva</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Arnva：</strong>1）从求解器市场到构建者补贴战争：探讨了综合流动性和路由的专业市场的出现，及随之而来的中心化问题。链接：https://youtu.be/Z-eplG8-QYY
@@ -43,7 +199,6 @@
 
 7）成熟提议者的崛起：深入解读了节点操作员的意图，包括时序博弈、风险分析、重组、垂直整合到 DVT 等各个方面。链接：https://youtu.be/SO48JU7eimE</p><a href="https://twitter.com/0xArnav/status/1768302236503859704">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-15T08:31:30+00:00</pubDate>
 </item>
 <item>
@@ -51,7 +206,7 @@
 <link>https://twitter.com/ljin18/status/1767978929569358251</link>
 <guid>https://twitter.com/ljin18/status/1767978929569358251</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章描述了新的创新浪潮――「只用加密货币」，通过加密货币提供的全球支付、链上资产和身份可组合性以及创造新市场和新资产的功能，创造全新体验的产品。举例说明了如何利用加密货币在游戏、约会应用程序和可组合应用程序中实现更丰富的操作，提升用户体验，并降低交易摩擦，深化流动性网络效应。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章描述了新的创新浪潮――「只用加密货币」，通过加密货币提供的全球支付、链上资产和身份可组合性以及创造新市场和新资产的功能，创造全新体验的产品。举例说明了如何利用加密货币在游戏、约会应用程序和可组合应用程序中实现更丰富的操作，提升用户体验，并降低交易摩擦，深化流动性网络效应。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>本文为 Variant 合伙人 Li Jin 在 BoysClubWorld  上主题演讲的部分内容。Li Jin 认为新的创新浪潮为「仅使用加密货币（only with crypto）」。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/ljin18/status/1767978929569358251">https://twitter.com/ljin18/status/1767978929569358251</a></p>
 <p><strong>文章作者：</strong></p><p>Li Jin（Variant 联合创始人）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Li Jin（Variant 联合创始人）：</strong>我们现在看到的是一股新的创新浪潮，我称之为「只用加密货币」：使用加密货币提供的构建模块来创造全新体验的产品。在这一类产品中，加密货币开启了一个全新的设计空间，创造了在 Web2 时代根本不可能实现的体验。其功能源于加密货币所带来的独特优势：1）全球支付；2）链上资产和身份的可组合性；3）创造新市场和新资产。这些元素结合在一起，将带来全新的体验。
@@ -60,7 +215,6 @@
 
 另一个只有使用加密货币才能实现的例子是，新的可组合应用程序和分销渠道可以连接到用户的钱包，从而实现更丰富的操作。上个月推出的 Farcaster Frames，这是一个用于构建迷你应用程序的框架。换句话说，这些应用程序可以在用户已经花费时间和钱包已经连接的地方满足他们的需求。我们已经看到开发者在使用这个新框架来创建各种体验。作为其延伸，可组合性允许您创建无头市场，利用全球链上流动性，但无论用户的钱包连接在哪里，最终用户体验都能满足他们的需求。最终结果是降低交易摩擦，深化流动性网络效应。【原文为英文】</p><a href="https://twitter.com/ljin18/status/1767978929569358251">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-15T07:30:24+00:00</pubDate>
 </item>
 <item>
@@ -68,7 +222,7 @@
 <link>https://twitter.com/kelxyz_/status/1673725589876797441</link>
 <guid>https://twitter.com/kelxyz_/status/1673725589876797441</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Solana的状态压缩提供了永久低资产发行成本，RPC供应商对压缩功能的发挥至关重要，Rollup的规模似乎还达不到Solana，地方收费市场可提供L2扩展，SOL与ETH的最终状态相同，SOL的发行量超过费用消耗量，需要交易量或手续费增加350倍来实现平衡。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。Solana的状态压缩提供了永久低资产发行成本，RPC供应商对压缩功能的发挥至关重要，Rollup的规模似乎还达不到Solana，地方收费市场可提供L2扩展，SOL与ETH的最终状态相同，SOL的发行量超过费用消耗量，需要交易量或手续费增加350倍来实现平衡。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>Solana 是所有加密货币中最具争议的话题。Messari 研究员 kelxyz 撰文对 Solana 的特点及优势进行了梳理分析，包括其估值介绍及与以太坊的对比。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/kelxyz_/status/1673725589876797441">https://twitter.com/kelxyz_/status/1673725589876797441</a></p>
 <p><strong>文章作者：</strong></p><p>Kel</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Kel：</strong>1）Solana 的状态压缩提供了永久低资产发行成本。据我所知，这是在不耗费 Masayoshi Son 现金的情况下在链上运行 Web2 商业模式的唯一方法；
@@ -83,7 +237,6 @@
 
 6）关于商品价值，SOL 的发行量远远超过了费用的消耗量。要达到平衡，交易量或手续费必须达到 350 倍。【原文为英文】</p><a href="https://twitter.com/kelxyz_/status/1673725589876797441">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-15T06:28:52+00:00</pubDate>
 </item>
 <item>
@@ -91,7 +244,7 @@
 <link>https://substack.chainfeeds.xyz/p/cycle-network</link>
 <guid>https://substack.chainfeeds.xyz/p/cycle-network</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。<br>1. 就全链应用的现状进行讨论，指出现行问题包括不安全、gas 昂贵、跨链交互延迟、用户使用复杂等<br>2. 研究链抽象概念，探讨如何利用 Rollup 技术实现无需多链部署合约，并让终端用户感知不到跨链存在<br>3. 着眼于 Trustless 的理念，致力于打造全链账本的开发范式，实现全链数据的编程自由<br>4. 通过建立安全的底层链路通信，实现全链的无信任交互，将L1 和L2的桥接扩展到所有外部网络<br>5. 通过 Cycle 连接多个网络实现各个网络之间的无信任通信。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。<br />1. 就全链应用的现状进行讨论，指出现行问题包括不安全、gas 昂贵、跨链交互延迟、用户使用复杂等<br />2. 研究链抽象概念，探讨如何利用 Rollup 技术实现无需多链部署合约，并让终端用户感知不到跨链存在<br />3. 着眼于 Trustless 的理念，致力于打造全链账本的开发范式，实现全链数据的编程自由<br />4. 通过建立安全的底层链路通信，实现全链的无信任交互，将L1 和L2的桥接扩展到所有外部网络<br />5. 通过 Cycle 连接多个网络实现各个网络之间的无信任通信。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>ChainFeeds 邀请到专门在做链抽象的团队 Cycle Network CEO Robbie，就当下全链应用的现状、链抽象叙事、未来基础设施的发展方向等问题展开探讨。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://substack.chainfeeds.xyz/p/cycle-network">https://substack.chainfeeds.xyz/p/cycle-network</a></p>
 <p><strong>文章作者：</strong></p><p>0xNatalie</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Robbie：</strong>对与全链应用的现状对于项目开发者来说，因为在过去可能是个单体链的时代，很多开发者会选择某一个网络去部署自己的一个应用。在单体链 L1 争夺的时代，L1 的构成成本相对较高，那么每个 L1 能够吸附的一个用户体量还是相对较大的，所以开发者选择单链去构建的应用是有生存空间的。现在大家可以看到在模块化的一个既定的趋势，这个背景下很多应用转到二层去 build，各个二层的网络都在去争夺一个 TVL。应用如果还要类似像单体链时代这样的一种打法去构建的话，会发现他们带着沉重的裹脚布在整个 web3 的世界去构建，给开发者带来割裂部署的问题。所以可以看到现在这样一个情况下，整个行业面临着各种不安全、gas 昂贵、跨链交互延迟、用户使用复杂程度高等问题。
@@ -100,7 +253,6 @@
 
 回到 Cycle 的初心就是我们想定义新的全链账本的开发范式。其实可以看到我们 Trustless 是 Crypto 里面的一种信仰吧。Trustless 是整个 Crypto 世界里一直所追求的一件事情。Cycle 保持着对 Trustless 的这个初心， 对 Trustless 有着极致要求。所以目前所有的资源基本上是投入到了这个无信任的全链账本的研发中。我们希望实现的目标就是促进整个行业未来有这样一个全链账本，应用能够用它自由地在一个 web3 世界进行全链数据的编程，不再被多链束缚。我们通过建立在安全基础上的底层链路通信，实现全链的无信任交互。众所周知，L1 和 L2 桥接是双向验证的过程，只要资产处理正常，它就是无信任的本地桥接。我们将这一特性扩展到 Cycle 所连接的所有外部网络，实现了各个网络之间的无信任通信。</p><a href="https://substack.chainfeeds.xyz/p/cycle-network">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-15T06:23:33+00:00</pubDate>
 </item>
 <item>
@@ -108,7 +260,7 @@
 <link>https://mp.weixin.qq.com/s/KsjAg-ccQ8FRVVwnnEaOOw</link>
 <guid>https://mp.weixin.qq.com/s/KsjAg-ccQ8FRVVwnnEaOOw</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。<br>文章提到了在 Celestia 推出后的122天内，可扩展的数据可用性是如何帮助应用程序和开发人员的。文章指出了Layer 2和Rollups等协议的发展，以及可扩展的DA解决方案的重要性。还讨论了Layer 3的部署和生产化，Rollup作为服务提供商的出现，以及对更多吞吐量和数据可用性采样安全性的追求。文章还提到了正在开发的Level-5轻节点安全性协议。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。<br />文章提到了在 Celestia 推出后的122天内，可扩展的数据可用性是如何帮助应用程序和开发人员的。文章指出了Layer 2和Rollups等协议的发展，以及可扩展的DA解决方案的重要性。还讨论了Layer 3的部署和生产化，Rollup作为服务提供商的出现，以及对更多吞吐量和数据可用性采样安全性的追求。文章还提到了正在开发的Level-5轻节点安全性协议。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>本篇文章为 Celestia 创始人兼 CRO John Adler 带来的「DA: 100 Days Later」主题演讲内容，谈一谈在 Celestia 推出后的 122 天，以及可扩展数据可用性的出现如何使应用程序和开发人员有所作为。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/KsjAg-ccQ8FRVVwnnEaOOw">https://mp.weixin.qq.com/s/KsjAg-ccQ8FRVVwnnEaOOw</a></p>
 <p><strong>文章作者：</strong></p><p>John Adler（Celestia 创始人）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>John Adler（Celestia 创始人）：</strong>有许多 Layer 2 和 Rollups 等协议并不会在以太坊上。有一些是 Celestia native 的，或者是 native 于其他区块链的，比如说 Solana， 我不知道 Solana 是否有任何的 Layer 2，但是你可以在这里看到，很多都在用我们 Celestia 来进行 DA，我们还看到了一些长时间以来人们一直在谈论，但长时间没有部署的东西，其中之一是缺乏可扩展的 DA 解决方案，如果没有可扩展的 DA 解决方案，大量的执行就没有太多价值，因为执行并不是瓶颈，DA 的成本才是。但是从那时起，我们看到了 Layer 3 的部署和生产化。例如，在 Arbitrum 生态系统中有 Arbitrum Orbit，还有 Optimism 超级链。当然，还有一些团队正在开发它们的 Layer 3 解决方案，正在进行中。例如 zkSync Hyperchains 还有 Starknet。Layer 3 具有这种长期以来一直在谈论的分形扩容。但是，由于 DA 是执行的瓶颈，所以以前并不太需要它们。
@@ -117,7 +269,6 @@
 
 接下来呢？我们还没有结束，当然。我们需要更多的吞吐量，就怕没有更多的吞吐量。因此，我们的目标是至少 1GB 的区块，这将提供大约每秒 100MB 的吞吐量，这又是一个数量级的增加。Celestia 的推出比当时存在的情况多了两个数量级。我们希望再增加两个数量级。这将使你可以拥有十亿用户和百万个 Rollup。此外，提高数据可用性采样的安全性，这是所有这些数据可用性协议的安全基础，包括 Celestia、EigenDA、Avail，甚至以太坊 Danksharding 都使用了一些形式的数据可用性采样，它是安全的基础。因此，我们正在开发我们一直称之为 level-5 轻节点安全性的东西，其中包括直到匿名数据可用性采样。最后，这种协议随着运行轻节点的用户数量增加而扩展。</p><a href="https://mp.weixin.qq.com/s/KsjAg-ccQ8FRVVwnnEaOOw">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-15T05:27:26+00:00</pubDate>
 </item>
 <item>
@@ -125,7 +276,7 @@
 <link>https://mp.weixin.qq.com/s/DCMJK1CmgV02WCfMdNcnOg</link>
 <guid>https://mp.weixin.qq.com/s/DCMJK1CmgV02WCfMdNcnOg</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的<br>1. MerlinChain 是一个 EVM-Compatible 的 BTC Layer2 链，旨在为 BTC 及其衍生资产提供高可扩展性，释放更大流动性和市场潜力。<br>2. 技术挑战在于实现 BTC 资产的安全跨链，衍生资产账本迁移以及在 Layer2 上构建 DeFi 应用环境。<br>3. Particle Network 的 BTC-Connect 技术支持使用户能够跨链交易，并在 MerlinChain 中处理资产。<br>4. Particle 在 MerlinChain 中起到关键作用，包括存储大部分迁入的资产和支持各类 DeFi 协议。<br>5. 链下 indexer 系统对于管理铭文资产在 layer2 环境中的流通也至关重要，需要精确记录和管理资产的流动情况。<br> <div>
+<div> <br /><br />摘要：<br />这些信息是积极的<br />1. MerlinChain 是一个 EVM-Compatible 的 BTC Layer2 链，旨在为 BTC 及其衍生资产提供高可扩展性，释放更大流动性和市场潜力。<br />2. 技术挑战在于实现 BTC 资产的安全跨链，衍生资产账本迁移以及在 Layer2 上构建 DeFi 应用环境。<br />3. Particle Network 的 BTC-Connect 技术支持使用户能够跨链交易，并在 MerlinChain 中处理资产。<br />4. Particle 在 MerlinChain 中起到关键作用，包括存储大部分迁入的资产和支持各类 DeFi 协议。<br />5. 链下 indexer 系统对于管理铭文资产在 layer2 环境中的流通也至关重要，需要精确记录和管理资产的流动情况。<br /> <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>加密研究员 Haotian 认为「链抽象」是模块化之后的下一个焦点赛道，并撰文从 Particle Chain 的链抽象技术出发解读了 MerlinChain 能够吸纳 40 亿美金 TVL 资产的原因。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/DCMJK1CmgV02WCfMdNcnOg">https://mp.weixin.qq.com/s/DCMJK1CmgV02WCfMdNcnOg</a></p>
 <p><strong>文章作者：</strong></p><p>Haotian</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Haotian：</strong>以 MerlinChain 为例，它本身是 EVM- Compatible 的新兴 BTC Layer2 链，目的通过 Layer2 的高扩展性能为 BTC 及 BRC20、ARC20、BTC420 等 BTC Layer1 上原生资产扩展应用生态，让这些 BTC 衍生资产能够摆脱主网链性能局限，释放出更大的流动性及市场潜力。因此，MerlinChain 的主要技术门槛在于如何把 BTC 原生资产及其他铭文风刮起来的衍生资产「跨链」到 Layer2 链上并快速构建一个「应用协议」生态，给铭文资产一个庞大的流动性市场，进而盘活沉寂许久的铭文生态。要做到这些，需要能无缝连接 B TC UTXO 链和 EVM- Compatible 链，涉及 BTC 资产安全跨链、BRC20 等衍生资产无缝账本迁移、BTC 等系列资产在二层的 DeFi 应用环境快速构建等等技术问题。
@@ -140,21 +291,18 @@
 2）对于其他 EVM- Compatible 环境下流入的 ETH、USDT、USDC 等资产，Particle 则会基于其 AA 账户抽象特性，同样做相应的资产流通记账管理，以支撑后续 MerlinChain 上各类 Swap、Staking、Restaking 等有关的 DeFi 协议应用产生；
 3）铭文资产对应的链下 indexer 系统也至关重要，作为管理链上交易数据的核心工具，当铭文资产流入 layer2 二层 EVM 环境后，索引器需要被精准记录追踪有效并管理这类资产的流通，尤其是协调不同索引之间的账本差异时。</p><a href="https://mp.weixin.qq.com/s/DCMJK1CmgV02WCfMdNcnOg">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-15T04:38:37+00:00</pubDate>
 </item>
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Polychain Capital领投了Polyhedra Network的2000万美元战略融资，总估值达到10亿美元。其他参投方还包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium和Mapleblock Capital。融资将用于团队扩大，招聘产品、工程、业务开发和营销等跨职能部门。至今，已进行了五轮融资，通过未来代币或SAFT的简单协议完成。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。Polychain Capital领投了Polyhedra Network的2000万美元战略融资，总估值达到10亿美元。其他参投方还包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium和Mapleblock Capital。融资将用于团队扩大，招聘产品、工程、业务开发和营销等跨职能部门。至今，已进行了五轮融资，通过未来代币或SAFT的简单协议完成。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
-
 <item>
 <title>【英文长推】EIP-4844 正式上线，是否不负众望？</title>
 <link>https://twitter.com/WestieCapital/status/1768354086913532158</link>
@@ -10713,150 +10861,6 @@ Yield [.] me 是一款移动应用程序，旨在以一种非常容易理解的�
 3）多链流动性 Launchpad：XTON 是 TON 生态首个引入多链流动性的 Launchpad，团队成员来自 TON 基金会。XTON 将在 Q1 完成主网上线和代币销售，Q2 启动第一个项目。顺应 XTON 的愿景，TON 生态将有机会完成 Web2 社交巨头和 Web3 EVM 世界的双边流量接轨。</p><a href="https://research.mintventures.fund/2024/03/14/zh-exploring-cross-ecosystem-connectivity-of-the-niche-blockchain-ton/">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-17T07:13:03+00:00</pubDate>
-</item>
-<item>
-<title>【英文长推】为什么 SUAVE 应该实施 RIP-7560 或考虑在 SGX 内运行 4337 捆绑程序？</title>
-<link>https://twitter.com/doganeth_en/status/1767312296122958097</link>
-<guid>https://twitter.com/doganeth_en/status/1767312296122958097</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />SUAVE 可以成为区块链世界的信任来源以及用户交互的门户。为了实现这一愿景，账户抽象是必不可少的。研究员建议实施 RIP-7560 或考虑在 SGX 内运行 ERC-4337 捆绑程序，以提高 SUAVE 的效能和适用性。SUAVE 的订单流机器能为用户提供最佳执行路径，并为验证者带来高利润，通过其基于 SGX 的架构实现。链抽象是 SUAVE 的重要优势，为用户体验提供便利，解决多链 AA 问题。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>Clave 研究员 Dogan 认为，SUAVE 可以成为区块链世界的信任来源以及用户交互的门户。而想要实现这一愿景，账户抽象是不可或缺的。为此，SUAVE 应该实施 RIP-7560 或考虑在 SGX 内运行 4337 捆绑程序。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/doganeth_en/status/1767312296122958097">https://twitter.com/doganeth_en/status/1767312296122958097</a></p>
-<p><strong>文章作者：</strong></p><p>Dogan</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Dogan：</strong>作为构建面向消费者的加密应用程序的团队的研究员，我对 SUAVE 的看法是，SUAVE 应该成为用户与区块链世界交互的门户。我们有足够多 rollups 和 L1，但 MEV 和互操作领域仍然缺乏。SUAVE 是一个订单流机器，可以为用户提供最佳执行路径，同时为验证者带来尽可能高的利润，这是通过其基于 SGX 的架构实现的。因此，我坚信 SUAVE 可以作为整个区块链世界的信任来源。
-
-对于开发者来说，SUAVE 的最大优点是能够抽象链，这是真实存在的（不像其他「链抽象」流行语）。然而，以太坊当前的账户模型并不是为最佳用户体验而设计的，这使得构建抽象应用程序变得困难。如果没有账户抽象，SUAVE 就像一辆法拉利跑车，里面只有一把旧椅子。因为用户不应该关心种子短语、gas 令牌，甚至链本身。最棒的是什么？如果账户在 SUAVE 上结算，就能解决多链 AA 问题。
-
-我认为 RIP-7560 或 4337 差别不大，因为我看不到在 SGX 和 RIP-7560 内运行 ERC-4337 捆绑程序时有任何信任假设变化。但 AA 是 SUAVE 的必备条件。【原文为英文】</p><a href="https://twitter.com/doganeth_en/status/1767312296122958097">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-17T06:00:07+00:00</pubDate>
-</item>
-<item>
-<title>MT Capital：AI x Crypto 交汇点的机遇与挑战</title>
-<link>https://productive-apple-b65.notion.site/MT-Capital-AI-x-Crypto-20768d4a49b5493fb85630052e530f89</link>
-<guid>https://productive-apple-b65.notion.site/MT-Capital-AI-x-Crypto-20768d4a49b5493fb85630052e530f89</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。<br />MT Capital发布研究报告，深入分析AI x Crypto领域的发展路径和障碍，包括算力资产化、模型/Agent资产化和数据资产化等核心场景。他们指出，在AI x Crypto领域存在多个细分领域，如去中心化计算、数据、预言机等应用，其中去中心化计算尤其引人瞩目。他们还介绍了几个代表项目，包括Worldcoin、Arkham、Render Network等，认为这些项目具有领导地位和发展潜力。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>MT Capital 发布研报，深入分析「算力资产化」、「模型 / Agent 资产化」以及「数据资产化」三大核心场景，探讨 AI x Crypto 领域的革新路径和存在的障碍，并对该领域一些代表项目进行介绍。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://productive-apple-b65.notion.site/MT-Capital-AI-x-Crypto-20768d4a49b5493fb85630052e530f89">https://productive-apple-b65.notion.site/MT-Capital-AI-x-Crypto-20768d4a49b5493fb85630052e530f89</a></p>
-<p><strong>文章作者：</strong></p><p>Xinwei、Ian</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>MT Capital：</strong>1. 我们认为 AI x Crypto 赛道的发展是可持续的，而不仅仅是一时的热潮。随着 AI 技术的发展和时间的推移，我们预计会看到更多资金和注意力持续流入这一领域，带来多轮发展机遇。因此，布局 AI x Crypto 赛道不仅是可行的，更是必要的战略选择。
-2. 在 AI x Crypto 领域中，我们可以看到多个细分领域，包括 AI Agent、去中心化计算、数据、预言机、ZKML、FHEML、协处理器、Meme、全民基本收入、生成式艺术平台以及游戏等应用。在这些领域中，去中心化计算尤其引人瞩目，无论是 GPU 计算还是算法模型，都代表着巨大的创新空间，且对算力的需求极高，算力成为一种共识形式，其价值潜力可以与公链的市值天花板相媲美。同时，我们也看好 ZKML、FHEML 和协处理器这些尚处于早期阶段但潜力巨大的领域。
-3. 考虑到当前市场流动性、项目基本面以及社区影响力，Worldcoin、Arkham、Render Network、Arweave、Akash Network、Bittensor 和 [io.net](http://io.net) 均为我们认为具有领导地位和发展潜力的主要项目。</p><a href="https://productive-apple-b65.notion.site/MT-Capital-AI-x-Crypto-20768d4a49b5493fb85630052e530f89">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-17T04:34:35+00:00</pubDate>
-</item>
-<item>
-<title>【英文】适用于积分系统的专用虚拟机</title>
-<link>https://mirror.xyz/stackrlabs.eth/xSRyanslzZEW95mP1_N8Z5X5_eIaEXQBgwc42txZPDI</link>
-<guid>https://mirror.xyz/stackrlabs.eth/xSRyanslzZEW95mP1_N8Z5X5_eIaEXQBgwc42txZPDI</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。文章介绍了Stackr Labs讨论如何通过micro-rollup构建适用于积分系统的专用虚拟机，以解决积分系统基础设施存在的问题。micro-rollup是快速、灵活、自托管的执行环境，支持可验证的链下计算，使状态可审计。积分系统可以进一步扩展，如使用乘数、推荐系统、自动化积分和积分作为声誉的潜力。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>目前，积分已成为激励用户和发展协议的最新原语，为传统的空投机制增添了新意。考虑到当前用于运行积分系统的基础设施存在的问题，Stackr Labs 撰文探讨如何通过 micro-rollup 构建适用于积分系统的专用虚拟机，以跟踪和管理协议积分。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://mirror.xyz/stackrlabs.eth/xSRyanslzZEW95mP1_N8Z5X5_eIaEXQBgwc42txZPDI">https://mirror.xyz/stackrlabs.eth/xSRyanslzZEW95mP1_N8Z5X5_eIaEXQBgwc42txZPDI</a></p>
-<p><strong>文章作者：</strong></p><p>Stackr Labs</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Stackr Labs：</strong>micro-rollup 本质上是一种状态机，它在链下执行某些逻辑，然后将执行验证外包给另一层，我们称之为「Vulcan」，它负责验证状态更新并将计算数据推送到链上。micro-rollup 是快速、灵活、自托管的执行环境，这确保了积分的传递不会产生「链上」开销，且所有状态更新都会尽快发生；micro-rollup 支持可验证的链下计算，确保系统可预测地运行且不被篡改；micro-rollup 使状态可审计，确保提供商没有任意更改系统规则；micro-rollup 可直接在 L1 上结算，可以直接在合约内部使用状态证明来执行链上操作。验证层通过提供预结算保证，确保结算周期大大缩短。
-
-积分系统还可以进一步扩展，以构建更丰富的功能。例如：
-
-Multipliers（乘数）：团队可以在某些事件或活动的基线积分上使用有时限的乘数，因为这是一种与其他项目协作、增加社区和协议活动等的良好机制。在这一版本的积分系统中，我们存储了在特定时间为事件分配的积分，很容易迭代和实现乘数。
-
-Referrals（推荐）：推荐系统很难完全构建在链上，因为它们的结构可能相当复杂。将积分系统构建为 micro-rollup，可以在自己的主权执行环境中自由地实现上述复杂机制。
-
-Points Automation（积分自动化）：上面讨论的系统具有很大灵活性，但也需要额外的基础设施作为管理员（或机器人）开销来更新用户积分。可以通过 L1Syncer （SDK 内置模块）将所有用户事件从选定合约导入 micro-rollup，从而提高系统自主性。
-
-Points as Reputation（积分即信誉）：积分很容易被认为是社会经济中的 XP 或声誉。它们是对为协议或产品贡献价值的认可形式。使用积分系统作为社会经济中的声誉跟踪器来创建链上体验的潜力是巨大的，且充满了令人兴奋的参与和创新可能性。【原文为英文】</p><a href="https://mirror.xyz/stackrlabs.eth/xSRyanslzZEW95mP1_N8Z5X5_eIaEXQBgwc42txZPDI">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-17T03:04:02+00:00</pubDate>
-</item>
-<item>
-<title>解析 B^2 新版技术路线图：比特币链下 DA 与验证层的必要性</title>
-<link>https://mp.weixin.qq.com/s/ZqQaoAHud3OGFDQG9z5IJg</link>
-<guid>https://mp.weixin.qq.com/s/ZqQaoAHud3OGFDQG9z5IJg</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。Faust解析了B^2的新技术路线图，包括B^2 Hub的比特币链下DA层、存储网络、混合型状态验证方案。B^2 Hub借鉴Celestia思路，保证数据快速分发且避免扣留；数据存储索引与hash上传到比特币链；历史数据不永久保存，搭建存储网络；采用混合式验证方案，在链下验证ZK证明。B^2 Hub可成为比特币链下功能拓展层，对接多个比特币Layer2。这种搭建功能拓展层的方式将在Layer2生态中变得更常见。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>极客 web3 创始人 Faust 撰文深入解析 B^2 的新版技术路线图，包括其比特币链下 DA 层  B^2 Hub、存储网络、混合型状态验证方案等，认为 B^2 Hub 可以成为比特币链下功能拓展层。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/ZqQaoAHud3OGFDQG9z5IJg">https://mp.weixin.qq.com/s/ZqQaoAHud3OGFDQG9z5IJg</a></p>
-<p><strong>文章作者：</strong></p><p>Faust</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Faust：</strong>B^2 Network 在比特币链下设置了名为 B^2 Hub 的 DA 层，该 DA 层网络借鉴了 Celestia 的思路，引入数据采样与纠删码，确保新增数据可以快速分发给大量外部节点，并极力避免数据扣留的发生。同时，B^2 Hub 网络中的 Committer 会把 DA 数据的存储索引以及数据 hash 上传到比特币链上，供任何人读取；
-
-为减轻 DA 层节点压力，B^2 Hub 中的历史数据不会永久保存，所以 B^2 又尝试搭建起一个存储网络，通过类似于 Arweave 的存储激励方式，刺激更多节点存储更完备的历史数据集，以获取存储激励；
-
-在状态验证方面，B^2 采用了混合式验证方案，在链下验证 ZK 证明，链上通过 bitVM 的思路，挑战 ZK 证明验证痕迹，只要有 1 个挑战者节点在检测到错误后发起挑战，B^2 网络就是安全的，这符合欺诈证明协议的信任模型，但由于用到了 ZK，这种状态验证实际上是混合型的。
-
-按照 B^2 Network 的未来路线图，EVM 兼容的 B^2 Hub 可以成为对接多个比特币 Layer2 的链下验证层与 DA 层，成为一个类似于 BTCKB 的比特币链下功能拓展层。由于比特币本身无法支持很多场景，这种链下搭建功能拓展层的方式将会成为 Layer2 生态里越来越常态化的现象。</p><a href="https://mp.weixin.qq.com/s/ZqQaoAHud3OGFDQG9z5IJg">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-16T05:56:05+00:00</pubDate>
-</item>
-<item>
-<title>ZK 黑客松指南：分析现阶段知名 ZKML 框架在神经网络上的表现</title>
-<link>https://hackmd.io/@Guy1m0/rkmmmlGAp</link>
-<guid>https://hackmd.io/@Guy1m0/rkmmmlGAp</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />主要要点：
-1. Guy1m0开发了ZKML基准测试，用于评估不同框架中神经网络模型的性能。
-2. zk-SNARKs和Halo2在性能上有显著差异，尤其在处理神经网络时。
-3. Circomlib-ml的转译方式导致显著的资源消耗，而EZKL和DDKang ZKML更受层数和网络参数变化的影响。
-4. opML框架在图像分类任务中展现了潜力，可视为传统zkML框架的有力替代。
-5. EZKL在精度模式下达到了完美精度，强调了缩放因子的重要性，但DDKang ZKML并没有优于EZKL，可能存在最佳的缩放因子。
-
-摘要：这些信息是积极的。Guy1m0开发了ZKML基准测试，评估神经网络模型的性能，发现不同框架在处理神经网络时有显著差异。Circomlib-ml的资源消耗较高，而opML框架展现了潜力。EZKL在精度模式下表现很好，但缩放因子的选择至关重要。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>加密研究员 Guy1m0 注意到，黑客松上与零知识（ZK）相关的赛道越来越多。他开发了一套 ZKML 基准测试，专注于神经网络模型中的 DNN 与 CNN，侧重于在所有框架中创建统一的条件，以提供实用和直接的比较，旨在帮助开发人员了解不同框架之间的性能差异。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://hackmd.io/@Guy1m0/rkmmmlGAp">https://hackmd.io/@Guy1m0/rkmmmlGAp</a></p>
-<p><strong>文章作者：</strong></p><p>Guy1m0</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Guy1m0：</strong>在此基准测试项目中，我们严格地评估了四种知名 zkML 框架在六种 DNN 和 CNN 神经网络架构上的表现。我们的分析揭示了这些框架的性能表现的几个可能原因。
-
-一个重要发现是，zk-SNARKs 和 Halo2 这两种 zk 系统在性能上有显著差异，特别是在处理神经网络时。Circomlib-ml 将 'Conv2d' 转译为电路的做法似乎造成了显著的资源消耗，与之形成对比的是，EZKL 和 DDKang ZKML 则更多地受到层数和网络参数变化的影响。
-
-此外，opML 框架的系统在图像分类任务中展现了相当可观的潜力。尽管目前在 operator 支持方面有所局限，该框架在 DNN 模型上的表现表明，依然可将其视为传统 zkML 框架的有力替代方案，尤其是在对「任意信任」（any-trust）的保证就已足够的情况下 —— 即单个诚实的验证者即可强制执行正确的行为。
-
-本基准测试未涉及的一个关键方面是缩放因子（scaling factor）对精度损失的影响。值得注意的是，EZKL 在精度模式下在 DNN 模型上实现了完美精度，而其资源模式下的表现不佳，这凸显了缩放因子的重要性。然而，尽管具有更高的缩放因子并采用相同的证明系统，Daniel Kang 的 DDKang ZKML 在精度上并没有优于 EZKL。这提出了一个关键问题：或许存在一个最佳的缩放因子，能够同时使性能和精度达到一种平衡。</p><a href="https://hackmd.io/@Guy1m0/rkmmmlGAp">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-16T04:22:35+00:00</pubDate>
-</item>
-<item>
-<title>剑指 ATH，BNB 为何重回强势？</title>
-<link>https://sleepintherain.substack.com/p/athbnb</link>
-<guid>https://sleepintherain.substack.com/p/athbnb</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。<br />2024年起，BNB迎来预期反转，涨幅超过90%，领跑同类型代币。雨中狂睡指出，市场转牛、Binance交易数据增长以及金铲子属性是BNB重新回到强势状态的原因。BTC上涨给市场信心，中心化交易所交易量增加，Binance打造BNB为金铲子。BNB是预期反转的典型例子，项目Token价格在负面事件后反弹至合理或高估状态。监控项目方动向可避免抄底风险。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>从 2024 年开始，BNB 迎来预期反转，涨幅超过 90%，领跑所有同类型代币。经历了熊市和加息周期以及政策上的影响，BNB 为何又重回强势，直指 ATH？加密 KOL 雨中狂睡将其归结于整体市场的转牛、Binance 交易数据的增长以及金铲子属性。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://sleepintherain.substack.com/p/athbnb">https://sleepintherain.substack.com/p/athbnb</a></p>
-<p><strong>文章作者：</strong></p><p>雨中狂睡</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>雨中狂睡：</strong>1）牛市：BTC 的上涨给予了市场足够的信心，去建仓一些蓝筹 Token。
-
-2）数据增长：随着流动性回归和牛市到来，中心化交易所的现货交易量也不断攀升。Binance 仍占据着加密市场现货交易量的主导地位。3 月仅半个月就快追上 2 月整月现货交易量。可以预见的是，三月交易量将有机会回升到 22 年 12 月，甚至是 21 年的水平。合约交易量亦然。相较之前牛市，合约交易量的表现要更好一些。
-
-3）金铲子：与上轮牛市相似，Binance 的主要思路就是将 BNB 塑造成一个金铲子。用户只需要将 BNB 存在 Binance 上，参与持续不断的 Launchpool/Launchpad 打新即可。
-
-另外，值得一提的是，BNB 是一个「预期反转」的典型例子。预期反转的核心在于一个好项目在经历负面事件后，项目 Token 价格受影响下跌，处于低估状态。随着事件影响减弱，项目 Token 会重新回到合理区间或高估状态。如果不想陷入「老手死于抄底」的境地，可以多关注对应标的的估值和项目方的新动作。从项目方的动作中往往可以看出它的倾向。</p><a href="https://sleepintherain.substack.com/p/athbnb">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-16T04:02:31+00:00</pubDate>
-</item>
-<item>
-<title>【长推】如何看待币安 Launchpool 新上线的再质押项目 ether.fi</title>
-<link>https://twitter.com/tmel0211/status/1768810825597469043</link>
-<guid>https://twitter.com/tmel0211/status/1768810825597469043</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。<br />币安 Launchpool将上线ether.fi（ETHFI），导致Restaking领域将有所引领。ETHFI提供Restaking范式，用户可质押ETH获eETH和平台积分，且可得Eigenlayer质押积分。ETHFI采用特殊战略卡位竞争Eigenlayer和冲击LIDO，技术上实现非托管用户掌控私钥和去中心化节点治理。用户存入ETH后获eETH，私钥控制资产；存入超过32ETH后生成验证器私钥对，采用ECIES加密技术确保验证器安全传递私钥，避免被Slash损失。DVT分布式验证器技术确保节点问题时其他验证器替代。Obol管理技术将私钥拆分管理。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>币安 Launchpool 第 49 个项目将上线 ether.fi（ETHFI），加密研究员 Haotian 分享其对 ether.fi 的几点看法，介绍 ether.fi 如何实现非托管用户掌管私钥以及去中心化节点治理。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/tmel0211/status/1768810825597469043">https://twitter.com/tmel0211/status/1768810825597469043</a></p>
-<p><strong>文章作者：</strong></p><p>Haotian</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Haotian：</strong>1）ETHFI 上线对 Restaking 赛道有「风向标」意义，作为 Restaking 赛道 TVL 总量超 30 亿美元的头部项目，ETHFI 的技术框架、创新范式以及上所后的市场影响都会有一定引领效用。尤其是，Restaking 究竟是一种创新的 LSD 技术探索还是存量资金无处安放的投机倒把，目前还存在不确定性「争议」；
-
-2）质押 ETH 得 eETH 再流通，参与 ETHFI 质押可得平台积分，此外还能同时得到 Eigenlayer 的质押积分，这种「一鱼三吃」的 Restaking 范式也是获得超额市场预期的关键。问题是，Eigenlayer 把 AVS 活跃节点向链外「商品化」输出的核心立足点还没被有效验证，抢先内卷一鱼多吃的 Tokenomics 泡沫，多少会有不安定感；这个角度看，头部项目的快速落地会加速行业内卷和洗牌；
-
-3）ETHFI 的战略卡位很特别，可以说它是 Eigenlayer 的竞争者，也可以说它在试图冲击 LIDO 老大哥的地位，它的技术架构和叙事可以同时跨越 Staking 和 Restaking 两条战线。ETHFI 在私钥管理、节点选择、质押和奖励等方面都有了领先的技术创新性；无论是硬刚 LIDO 还是弯道超车 Eigenlayer，似乎都有故事可以讲；
-
-4）ETHFI 称可以实现非托管用户掌管私钥的方式，又可以实现去中心化节点治理，具体如何做到呢？
-1、用户将 ETH 存入合约后，会得到一份 eETH 代币，可以直接用私钥控制资产流通，没有任何第三方可接触私钥，确保了资产安全；
-2、当用户存入资产超过 32ETH 后，ETHFI 会自动生成一个验证器私钥对，该私钥 Validtors 只有「使用权」但没法直接明文接触。ETHFI 采用了 ECIES 加密技术，验证器无法获得私钥的完整访问权限，只能提交请求，ECIES 会将私钥安全传递给其他节点，全程不会暴露，保证了分布式节点验证机制的运转。
-3、用户参与节点质押的风险莫过于节点因技术问题掉线导致资产被 Slash 遭受损失。ETHFI 采用 DVT 分布式验证器技术，Validators 会成为一组利益相关者整体进行工作，如果组内某个节点突然遇到问题，其他验证器会代替履行职责，确保验证过程顺利进行。具体采用了将私钥拆分成私钥共享的管理技术 Obol，并配置一定阈值进行管理。</p><a href="https://twitter.com/tmel0211/status/1768810825597469043">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-16T03:26:05+00:00</pubDate>
-</item>
-<item>
-<title>彭博社：币安收紧代币上市流程，锁仓期延长至至少一年</title>
-<link>https://www.bloomberg.com/news/articles/2024-03-15/binance-extends-token-listing-cliff-period-requires-deposit-bnb</link>
-<guid>https://www.bloomberg.com/news/articles/2024-03-15/binance-extends-token-listing-cliff-period-requires-deposit-bnb</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。币安收紧代币上市流程，要求加密项目同意至少一年的 cliff，以增强投资者保护。此举可防止项目方在上市后立即出售代币，同时为做市商提供更多代币并支付保证金。这些变化自去年年底开始生效。 <div>
-<p>据彭博社援引消息人士报道，面对监管机构的密切关注，币安收紧代币上市流程，以增强其平台上的投资者保护。币安现要求上市的加密项目必须同意至少一年的 cliff（即代币解禁之前的时间段），此前最多不超过六个月。目前币安已向寻求上市的项目方口头传达了该变化，项目方在此期间不能出售任何代币，同时为做市商留出更多代币并支付保证金，这些变化于去年年底开始生效。</p><p><a href="https://www.bloomberg.com/news/articles/2024-03-15/binance-extends-token-listing-cliff-period-requires-deposit-bnb">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-16T02:47:59+00:00</pubDate>
 </item>
 </channel>
 </rss>
