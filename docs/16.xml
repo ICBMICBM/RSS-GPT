@@ -5,14 +5,115 @@
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
 <item>
+<title>【英文长推】EIP-4844 正式上线，是否不负众望？</title>
+<link>https://twitter.com/WestieCapital/status/1768354086913532158</link>
+<guid>https://twitter.com/WestieCapital/status/1768354086913532158</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章指出通过Layer 2 Gas变化带来的潜在成本节约。Zk Rollups和Arbitrum节省了约93%，而OP Stack Rollups节省了99%。尽管Blob数量在缓慢攀升，但未来Gas价格的平衡情况仍需观察。Rollup项目的价格差异很大，需要关注外部因素如blobs对构建者市场的影响。总体而言，这对以太坊及其加密货币是一个重大胜利，成本降低90%以上且惠及用户。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>随着升级已经落地。BlockWorks 研究员 Westie 撰文对落地后  Layer 2 Gas 变化进行了分析解读。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/WestieCapital/status/1768354086913532158">https://twitter.com/WestieCapital/status/1768354086913532158</a></p>
+<p><strong>文章作者：</strong></p><p>Westie</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Westie：</strong>目前的数据看起来非常有前景。与 calldata 相比，Zk Rollups 和 Arbitrum 节省了约 93%，而 OP Stack Rollups 节省了 99%。不过，这不会永远持续下去。据我所知，很多主要的 Rollup 项目仍未部署使用 blobs，包括 Polygon、Manta、Metis、Linea 等。Blob 数量正在缓慢攀升，以达到每个区块 3 个的目标。一旦我们持续看到每个区块有超过这个目标的 Blob，我们就可以预期价格会大幅上涨。
+
+我们需要在未来几周内观察 Gas 价格的平衡情况。Blob 的平均基本费用一直保持在 1 Gwei。这是 Blob 可能的最低价格。因此，我们可以预计，如果没有其他优化，昨天发布的所有交易费用都是我们将看到的最低费用。此外，Rollup 与成本之间也存在巨大差异。tarkware 和 zkSync 支付的每 MB 费用分别约为 242 美元和 321 美元，而 Optimism Mainnet 和 Base 则分别为 35 美元和 36 美元。而 Celestia 上每 MB 的中位成本约为 3 美元。
+
+当然，我们还需要关注其他外部因素，例如 blobs 对构建者市场的影响。在区块中包含 blobs 所产生的摩擦可能会导致构建者忽略 blobs，以减少延迟并抓住其他 MEV 机会。总体而言，我认为这对以太坊及其加密货币来说是一个巨大的胜利，成本降低 90% 以上并惠及用户都是一个巨大进步。【原文为英文】</p><a href="https://twitter.com/WestieCapital/status/1768354086913532158">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-15T03:53:48+00:00</pubDate>
+</item>
+<item>
+<title>CKB 首席架构师：我们需要构建 Web5，而 Web5 = Web2 + Web3</title>
+<link>https://talk.nervos.org/t/jan-xie-web5-web5-web2-web3/7920</link>
+<guid>https://talk.nervos.org/t/jan-xie-web5-web5-web2-web3/7920</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章总结了在比特币区块链上发行资产的现状以及对比特币文艺复兴的需求。作者提到比特币是最安全、去中心化的平台，但其上发行的资产价值远远落后于其他区块链。文章指出了需求存在，并探讨了在比特币链上发行点对点、抗审查资产的可能性，需要一个可编程层来实现。最后，作者提出了构建一个通过P2P网络连接的Web5的愿景。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>3 月 9 日，在由 Nervos Foundation 和 ABCDE 共同举办的 Bitcoin Singapore 2024 大会上，CKB 首席架构师 Jan Xie 发表了主题演讲「Bitcoin Renaissance: Why & How?」。本篇文章根据其英文演讲内容整理。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://talk.nervos.org/t/jan-xie-web5-web5-web2-web3/7920">https://talk.nervos.org/t/jan-xie-web5-web5-web2-web3/7920</a></p>
+<p><strong>文章作者：</strong></p><p>Jan（Nervos 首席架构师）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Jan（Nervos 首席架构师）：</strong>目前为止，在比特币区块链上发行的资产总价值为 30 亿美元，远远落后于在其他区块链上发行的资产总价值。比特币是最安全、最去中心化、最抗审查的平台，然而在这个平台上发行的资产总价值是最少的。作为对比，波场（Tron）的市值约为 120 亿美元， 而在波场区块链上发行的资产总价值达到了 100 亿美元。这是好事还是坏事？比特币带来了许多真正的创新，但过去几年里这个行业把这些东西都抛弃了，比如 PoW、UTXO、P2P 网络。所以，我们现在为什么需要比特币文艺复兴？我认为原因在于确实存在真实的需求，对新资产有需求，对比特币的使用场景有需求。
+
+幸运的是，用户想要发行新的资产，用户的需求一直存在，也有了一些资产发行协议，比如 Ordinals、Runes、BRC-20、Taproot Assets 等。我们可以在比特币链上发行资产，发行点对点、抗审查的资产，而且不需要比特币做出任何改变，不需要分叉。我们还需要一个可编程的层，因为比特币本身是受限的，我们不能在比特币链上做很多事情。如果我们能基于比特币创建一个层，赋予比特币链上资产可编程的能力，我们就能做很多事情了。这个可编程的层将是其他一切的基础，包括可扩展性、隐私性、比特币金融活动等。然后，我们需要比特币和可编程层之间的高速公路。我们可以使用 Two-Way Peg（双向锚定），或者是使用一种创新的方法来桥接比特币和可编程层之间的资产，这个方法我称之为 UIB（Universal Isomorphic Binding，通用同构绑定）。UIB 的想法起源于 Cipher，他是 RGB++ 协议的作者，而同构绑定正是 RGB++ 的核心技术之一。
+
+比特币作为底层的资产发行平台，上面是一个可编程层，在可编程层上构建可扩展性和隐私性层。在我看来，L3 甚至都不需要使用区块链，因为区块链有利于透明度和全球共识，但它对可扩展性和隐私性反而有害。这一点有别于以太坊生态，以太坊生态全景图是 Rollup 上面再叠加 Rollup。 这个行业为什么需要那么多区块链呢？其实并不需要。L3 上应该是 P2P 网络，然后通道可以连接这一切。所以，我认为我们要构建的是 Web5，Web5 就是 Web2 加上 Web3。Web3 极力地把所有的东西搬到链上，但我们为什么需要把所有的东西往链上搬呢？互联网其实做得很好，只不过它有一些问题而已，我们用 P2P 技术、密码学技术以及其他一些新技术来修复 Web2 即可，它不是 Web3， 我们不需要把所有的东西都放在链上。利用这些技术，我们想要构建的其实是 Web5。</p><a href="https://talk.nervos.org/t/jan-xie-web5-web5-web2-web3/7920">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-15T03:22:04+00:00</pubDate>
+</item>
+<item>
+<title>知情人士：Berachain 正在通过出售代币进行超 6900 万美元融资，Brevan Howard Digital 和 Framework Ventures 领投</title>
+<link>https://www.bloomberg.com/news/articles/2024-03-15/crypto-s-berachain-becomes-unicorn-in-69-million-vc-round</link>
+<guid>https://www.bloomberg.com/news/articles/2024-03-15/crypto-s-berachain-becomes-unicorn-in-69-million-vc-round</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。根据知情人士报道，Berachain 正在通过出售代币进行超 6900 万美元融资，Brevan Howard Digital 和 Framework Ventures 共同领投，估值将达到 15 亿美元。目前暂不清楚该轮融资是否已经完成。 <div>
+<p>彭博社援引知情人士报道，Berachain 正在通过出售代币进行超 6900 万美元融资，Brevan Howard Digital 和 Framework Ventures 共同领投，估值将达到 15 亿美元。目前暂不清楚该轮融资是否已经完成。</p><p><a href="https://www.bloomberg.com/news/articles/2024-03-15/crypto-s-berachain-becomes-unicorn-in-69-million-vc-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-15T01:40:12+00:00</pubDate>
+</item>
+<item>
+<title>以太坊 Layer2 网络 Metis 推出去中心化排序器 alpha 版本</title>
+<link>https://www.theblock.co/post/282515/metis-decentralized-sequencer-alpha-version</link>
+<guid>https://www.theblock.co/post/282515/metis-decentralized-sequencer-alpha-version</guid>
+<content:encoded><![CDATA[
+<div> 这些信息是积极的。<br><br>摘要：<br>以太坊 Layer2 网络 Metis 推出去中心化排序器 alpha 版本，排序器节点可以获得 METIS 奖励，以激励参与网络区块生成和网络交易处理。所有排序器节点在第一年里将获得 20% 的挖矿奖励率。 <div>
+<p>以太坊 Layer2 网络 Metis 推出去中心化排序器 alpha 版本，排序器节点可以获得 METIS 奖励，以激励参与网络区块生成和网络交易处理。此外，第一年里所有排序器节点都将获得 20% 的挖矿奖励率。</p><p><a href="https://www.theblock.co/post/282515/metis-decentralized-sequencer-alpha-version">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-15T01:27:32+00:00</pubDate>
+</item>
+<item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Polyhedra Network以10亿美元估值完成2000万美元战略融资，由Polychain Capital领投，并有Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital参投。融资将用于扩大团队规模、招聘跨职能部门人员以及产品、工程、业务开发和营销等方面的发展。所有融资进行通过未来代币或SAFT的简单协议进行。 <div>
+<div> <br><br>摘要：<br>这些信息是积极的。Polyhedra Network以10亿美元估值完成2000万美元战略融资，由Polychain Capital领投，其他投资方包括Animoca Brands、Hashkey Capital等。融资将用于招聘跨职能部门人员，将团队规模从50人扩大到80人。此前的五轮融资均通过未来代币或SAFT简单协议进行。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
+<item>
+<title>【英文】2023 年十大区块链黑客技术榜单</title>
+<link>https://blog.openzeppelin.com/top-10-blockchain-hacking-techniques-of-2023</link>
+<guid>https://blog.openzeppelin.com/top-10-blockchain-hacking-techniques-of-2023</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的<br>OpenZeppelin的安全专家小组选出了2023年十大区块链黑客技术。首先是Vyper编译器的不可重入锁漏洞，导致Curve池被利用。其次是2023年4月3日的Mev-Boost中继器事件，涉及时间问题。最后是Euler攻击事件，涉及近2亿美元的盗窃，利用了看似简单的函数。这些事件凸显了智能合约整体安全性的脆弱性。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>区块链安全平台 OpenZeppelin 的安全专家小组投票选出了 2023 年十大区块链黑客技术，并给出了理由和启示。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://blog.openzeppelin.com/top-10-blockchain-hacking-techniques-of-2023">https://blog.openzeppelin.com/top-10-blockchain-hacking-techniques-of-2023</a></p>
+<p><strong>文章作者：</strong></p><p>OpenZeppelin</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>OpenZeppelin：</strong>1）Vyper 不可重入锁漏洞技术。由于 Vyper 编译器中的不可重入性漏洞而导致 Curve 池被利用，这是 Web3 安全领域认知范围的重大转变。虽然编译器漏洞被利用并不是新鲜事，但这一漏洞却让绝大多数研究人员深入了解了智能合约安全领域。
+
+2）2023 年 4 月 3 日 Mev-Boost 中继器事件和相关时间问题。Flashbots mev-boost 中继受到攻击是因为存在一个漏洞，如果区块头无效，该漏洞就会泄露区块生成器的区块内容。攻击者是一名恶意提议者，他利用泄露的内容重建了自己的区块，并从三明治机器人那里窃取了 2000 万美元。由于攻击者利用它所需的利基知识集，我认为这种黑客技术值得在此列表中占有一席之地。
+
+3） Euler 攻击事件。Euler 是历史上最大的非桥接漏洞之一，被盗金额近 2 亿美元。这个漏洞的新颖性源于两个部分，一是添加了一个简单的实用程序函数，二是攻击的简单性。donateToReserves 函数是作为包装功能和潜在的 Gas 节约的实用程序引入的，这个看似无害的附加函数却帮助了这次大规模的漏洞攻击。虽然这种攻击的完全复制可能不会直接适用于其他协议，但添加看似简单的函数却凸显了智能合约整体安全性的脆弱性。【原文为英文】</p><a href="https://blog.openzeppelin.com/top-10-blockchain-hacking-techniques-of-2023">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-14T09:55:00+00:00</pubDate>
+</item>
+<item>
+<title>Smart Layer：以 token 和用户为中心的未来</title>
+<link>https://mp.weixin.qq.com/s/sn6AcY-0TN-wigVBi-f2TQ</link>
+<guid>https://mp.weixin.qq.com/s/sn6AcY-0TN-wigVBi-f2TQ</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>1. Smart Layer项目的联合创始人Victor解释了他们以token为中心构建理念的背景和目的。<br>2. Smart Layer项目将Dai token与自己的前端关联，提供更全面的功能和逻辑。<br>3. 小猫NFT项目展示了链上逻辑和链下逻辑的结合，将消息存储和UI等功能放在去中心化的服务网络上。<br>4. Victor强调token应该是未来区块链世界的中心，具有最大化的可组合性和可移植性，而不是应用。<br>5. 通过给token一个可编程前端，使其能够在不同系统中使用，具备更强的灵活性和可扩展性。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>橙皮书采访了 Smart Layer 联合创始人 Victor，讲述了 Smart Layer 为何以 token 为中心的构建理念，以及项目的进展与应用。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/sn6AcY-0TN-wigVBi-f2TQ">https://mp.weixin.qq.com/s/sn6AcY-0TN-wigVBi-f2TQ</a></p>
+<p><strong>文章作者：</strong></p><p>橙皮书</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Victor Zhang（Smart Token Labs 联创兼首席执行官）：</strong>Smart token 的做法是把 Makerdao 的网站放在一边，它上面能够实现更复杂的逻辑和功能，这很好。我们再给 Dai token 加上一个它自己的前端。这个前端也是 Makerdao 写的，上面有 Makerdao 的签名，所以它的安全和可信性和 Dai token 都是一样的。然后我们用 ERC5169 这个标准把 Dai 的智能合约跟它自己的前端关联在一起，从此以后，不管 Dai 在哪个钱包或者应用，有谁想要调用这个 token，一看这个 token 有 ERC5169 的接口，就会知道它指向一个它自己的可编程前端，钱包或者应用就可以调用这个前端来使用这个 token 的全部功能。
+
+说回小猫 nft。小猫的智能合约本身就有许多功能了，比如证明两个猫之间是朋友关系是，还有洗猫、喂猫这些动作，都是链上的 transaction，由智能合约提供。但是猫和猫之间互相发消息，这个消息本身是端到端加密的，它就不是发生在链上了。这个消息的存储，你可以想象成非区块链的服务器，一个去中心化的服务网络，就像去中心化的 AWS 一样，但它不服务应用，只服务 token。还有猫猫的图片 UI，如何调用智能合约的 Javascript 代码，这些东西也没法直接全都存到智能合约里面。这些链下逻辑和智能合约的链上逻辑加在一起，才是 token 的完全体。
+
+我们再看区块链世界，钱包是跟着用户自己的，以用户为中心。另外一个就是 token，以用户为中心。但是应用不是以用户为中心的。token 才是真正有可能拥有最大化的可组合性和可移植性的载体，而不是应用。不能搞一个超级平台应用，把各种东西都连上这个平台，那就又倒退回中心化的时代了。所以 token 应该是未来区块链世界的中心，token 是一等公民，而不是应用是一等公民。给 token 一个它自己的可编程前端，让它能够在不同的系统中使用。</p><a href="https://mp.weixin.qq.com/s/sn6AcY-0TN-wigVBi-f2TQ">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-14T09:51:38+00:00</pubDate>
+</item>
+
+<item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
+<content:encoded><![CDATA[
+<div> <br /><br />摘要：<br />这些信息是积极的。Polyhedra Network以10亿美元估值完成2000万美元战略融资，由Polychain Capital领投，并有Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital参投。融资将用于扩大团队规模、招聘跨职能部门人员以及产品、工程、业务开发和营销等方面的发展。所有融资进行通过未来代币或SAFT的简单协议进行。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
 <item>
@@ -20,7 +121,7 @@
 <link>https://twitter.com/Cook0x/status/1767836102336168410</link>
 <guid>https://twitter.com/Cook0x/status/1767836102336168410</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。<br>比特币模块化 DA 方案的原理是通过 Nubit DA 层管理和验证数据，并依靠比特币作为基础可信数据层。架构包括委员会索引器和轻量级索引器，确保数据的完整性和可用性。Nubit与BounceBit合作，实现了比特币原生数据可用性解决方案的第一个落地场景。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。<br />比特币模块化 DA 方案的原理是通过 Nubit DA 层管理和验证数据，并依靠比特币作为基础可信数据层。架构包括委员会索引器和轻量级索引器，确保数据的完整性和可用性。Nubit与BounceBit合作，实现了比特币原生数据可用性解决方案的第一个落地场景。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>加密研究员 Cook 解析了 Nubit 的比特币模块化 DA 方案的原理、架构和优势。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/Cook0x/status/1767836102336168410">https://twitter.com/Cook0x/status/1767836102336168410</a></p>
 <p><strong>文章作者：</strong></p><p>Cook Sun</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Cook Sun：</strong>原理：Nubit 在中心化索引器和去中心化索引器之间提供了一个中间选项，即通过构建一个 Nubit DA 层来管理数据并验证数据，但最终仍然是依靠比特币作为最基础的可信数据层。这提供了一个相对去中心化且不牺牲过多安全性的方案。
@@ -29,7 +130,6 @@
 
 优势：Nubit 提出的方案是不进行整个状态转换的完整性检查，而是简化为检查少量检查点的有效性。目标是实现即使在大多数委员会索引器被攻击或是作恶的情况下，只要有 1 个委员会索引器在做正确的验证，也能保证数据的完整性和可用性。同时，Nubit 在近日宣布了与 BounceBit 合作，通过 BounceBit 的 BTC- restaking 技术与 Nubit 的比特币原生数据可用性解决方案相结合。立即为此方案实现了第一个落地场景。</p><a href="https://twitter.com/Cook0x/status/1767836102336168410">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-14T08:12:40+00:00</pubDate>
 </item>
 <item>
@@ -37,7 +137,7 @@
 <link>https://masknetwork.medium.com/mask-network-web3-social-ecosystem-grant-round-3-review-3d314177dd86</link>
 <guid>https://masknetwork.medium.com/mask-network-web3-social-ecosystem-grant-round-3-review-3d314177dd86</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Mask Network公布了入选其第三轮Web3社交生态资助项目的名单，共有33个项目入选。其中，Web3社交赛道有10个项目入选，自治世界赛道有12个项目入选，公共产品赛道有10个项目入选。具体入选项目包括eth.limo、Dhive、On Chain Game等，涵盖了不同领域和主题。这表明对Web3社交生态的持续支持和发展。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。Mask Network公布了入选其第三轮Web3社交生态资助项目的名单，共有33个项目入选。其中，Web3社交赛道有10个项目入选，自治世界赛道有12个项目入选，公共产品赛道有10个项目入选。具体入选项目包括eth.limo、Dhive、On Chain Game等，涵盖了不同领域和主题。这表明对Web3社交生态的持续支持和发展。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>Mask Network 公布入选其第三轮 Web3 社交生态资助项目，分为 Web3 社交、自治世界和公共物品三个赛道共计 33 个项目入选。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://masknetwork.medium.com/mask-network-web3-social-ecosystem-grant-round-3-review-3d314177dd86">https://masknetwork.medium.com/mask-network-web3-social-ecosystem-grant-round-3-review-3d314177dd86</a></p>
 <p><strong>文章作者：</strong></p><p>Mask Network</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Mask Network：</strong>Web3 社交有 10 个项目入选：eth.limo、Data2.cash、Solid Credentials Client、DAuth Network、Ensō Collective、FAST、TonUP、Dhive、eth.cd、Pulse。
@@ -46,7 +146,6 @@
 
 公共产品赛道有 10 个项目入选：ZKP2P、Cloudline、OpenBuild、Glacier Network、SheFi、MOSS、Discoco lab、Concrete、tokenary、Laputa。【原文为英文】</p><a href="https://masknetwork.medium.com/mask-network-web3-social-ecosystem-grant-round-3-review-3d314177dd86">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-14T08:11:24+00:00</pubDate>
 </item>
 <item>
@@ -54,7 +153,7 @@
 <link>https://substack.chainfeeds.xyz/p/btc-l2-summer</link>
 <guid>https://substack.chainfeeds.xyz/p/btc-l2-summer</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了市场上热门的四个比特币二层项目：BEVM、Merlin Chain、B² Network和BounceBit。Merlin Chain通过无缝映射BTC与EVM地址实现跨链互动，采用了zkEVM Layer2解决方案；B² Network引入了ZKP的Rollup技术确保交易安全，并有数据可用性层保证系统安全性；BEVM基于Taproot升级，允许以太坊DApp在BTC网络上运行；Bouncebit通过双代币系统加强网络安全，并支持50个验证者，提升了比特币资产的灵活性和应用场景。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章介绍了市场上热门的四个比特币二层项目：BEVM、Merlin Chain、B² Network和BounceBit。Merlin Chain通过无缝映射BTC与EVM地址实现跨链互动，采用了zkEVM Layer2解决方案；B² Network引入了ZKP的Rollup技术确保交易安全，并有数据可用性层保证系统安全性；BEVM基于Taproot升级，允许以太坊DApp在BTC网络上运行；Bouncebit通过双代币系统加强网络安全，并支持50个验证者，提升了比特币资产的灵活性和应用场景。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>比特币铭文的兴起给比特币生态注入了新的活力，重新引起了人们对比特币的关注，这也催生了很多新的比特币二层项目，本篇文章则选取了市场上热度比较高的四个项目：BEVM、Merlin、B² Network、BounceBit 进行解读，各自都有哪些亮点和优势？</p>
 <p><strong>文章来源：</strong></p><p><a href="https://substack.chainfeeds.xyz/p/btc-l2-summer">https://substack.chainfeeds.xyz/p/btc-l2-summer</a></p>
 <p><strong>文章作者：</strong></p><p>Hamster</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Hamster：</strong>1）Merlin Chain：Merlin Chain 的技术框架核心在于其对链无关性（Chain-Agnostic）的账户体系和 Particle Network 提供的 BTC Connect 技术。这些创新不仅促成了 BTC 与 EVM 地址之间的无缝映射，还为用户带来了一个既高效又安全的跨链互动环境。此外，Merlin Chain 基于 Polygon CDK 框架开发了 zkEVM Layer2 解决方案，它巧妙地运用了 ZK-Rollup 技术，以有效压缩和验证大量交易数据，极大提升了交易处理速度与网络的可扩展性。且在 Polygon CDK 的技术架构下，Merlin Chain 采用了一种名为 CDK Validium 的方案，这种方案结合了 Polygon zkEVM 技术和 DAC 的概念，旨在以太坊链上实现多签形式的有效性验证。目前比特币二层赛道中， Merlin 的 TVL 最高；
@@ -65,7 +164,6 @@
 
 4）Bouncebit：引入了以资产为驱动的 PoS Layer 1 方法，通过 BTC 和 BounceBit 原生代币的双代币系统加强网络安全实现了与 EVM 兼容链的互操作性，并结合 CeFi 技术，如 Mainnet Digital 托管和 Ceffu 的 MirrorX 技术，提升交易透明度及流动性，增强比特币资产的灵活性和应用场景。其双代币 PoS 共识机制，支持 50 个验证者，通过智能合约和基于 Epoch 的时间线优化验证者选举和奖励分配，同时允许验证者对奖励收取佣金，平衡节点运营成本与收益，共同营造了一个安全高效的区块链生态系统。</p><a href="https://substack.chainfeeds.xyz/p/btc-l2-summer">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-14T06:27:44+00:00</pubDate>
 </item>
 <item>
@@ -73,7 +171,7 @@
 <link>https://twitter.com/singularity7x/status/1767911340167868531</link>
 <guid>https://twitter.com/singularity7x/status/1767911340167868531</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Juan Leon在2月份对各Layer2的TVL和Gas使用量数据进行了对比。乐观Rollups（OR）的TVL增长了36%，OP Mainnet领先增长率为41%，而零知识Rollups（ZKR）主要由于STRK代币推出增长16亿美元。Gas使用量方面，ZKR消耗239 ETH，环比下降5.5%，OR环比上升1.7%达173 ETH。其中，zkSync Era的Gas使用量最大，为89 ETH。整体而言，2月份的TVL和Gas使用量数据显示Layer2生态系统有不错的增长。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。Juan Leon在2月份对各Layer2的TVL和Gas使用量数据进行了对比。乐观Rollups（OR）的TVL增长了36%，OP Mainnet领先增长率为41%，而零知识Rollups（ZKR）主要由于STRK代币推出增长16亿美元。Gas使用量方面，ZKR消耗239 ETH，环比下降5.5%，OR环比上升1.7%达173 ETH。其中，zkSync Era的Gas使用量最大，为89 ETH。整体而言，2月份的TVL和Gas使用量数据显示Layer2生态系统有不错的增长。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>Bitwise 研究员 Juan Leon 盘点了 2 月份各 Layer2 的 TVL 数据和 Gas 使用量数据对比。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/singularity7x/status/1767911340167868531">https://twitter.com/singularity7x/status/1767911340167868531</a></p>
 <p><strong>文章作者：</strong></p><p>Juan Leo</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Juan Leo：</strong>TVL 和估值：1）乐观 Rollups（OR）的 TVL 在二月份增长了 36%。OP Mainnet 以 41% 的增长率遥遥领先，而 Base、Arbitrum One 和 Boba 的增长率分别为 34%、26% 和 23%。总体而言，OR 的 TVL 增长了 59 亿美元；2）零知识 Rollups（ZKR）的 TVL 增长超过 16 亿美元，主要是由于 STRK 代币的推出。Starknet、Scroll、Linea 和 zkSync Era 分别实现了 749%、103%、85% 和 59% 的显著增长；3）Validiums 的 TVL 也出现了不错的增长，增长了近 1.4 亿美元，月增长 44%；4）Optimiums 在 2 月份有 32% 的可观增长。值得注意的 Optimium 包括 Mantle 和 Arbitrum Nova，它们的 TVL 分别增长了 82% 和 49%。1 月份推出 MANTA 代币的 Manta 增长幅度相对较小，仅为 16%。Optimium 的总体 TVL 增至 35 亿美元。
@@ -82,7 +180,6 @@ Gas 使用量：ZKR 在 2 月份消耗了超过 239 ETH，环比下降了 5.5%�
 
 Gas 使用量：1）Arbitrum One 的 Gas 使用量继续下降，2 月份从 88 ETH 至 74 ETH，而 OP Mainnet 的 Gas 使用量则停滞在 54 ETH。Base 再次迎头赶上，消耗了 43 ETH，而 Boba 则以 0.2 ETH 的使用量继续落后；2）ZKR 2 月份的 Gas 使用量主要由 zkSync Era 主导，达到 90 ETH。Linea 和 Scroll 继续迎头赶上，分别消耗了 33 ETH 和 63 ETH；3）Optimiums 2 月份消耗了 4 ETH，比 1 月份有所下降，这很可能是由于用户离开了 Manta Pacific 生态系统；4）在 ApeX 的带领下，Validiums 在 2 月份总共消耗了 7 ETH。【原文为英文】</p><a href="https://twitter.com/singularity7x/status/1767911340167868531">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-14T04:27:16+00:00</pubDate>
 </item>
 <item>
@@ -90,7 +187,7 @@ Gas 使用量：1）Arbitrum One 的 Gas 使用量继续下降，2 月份从 88 
 <link>https://twitter.com/tmel0211/status/1767739189985227104</link>
 <guid>https://twitter.com/tmel0211/status/1767739189985227104</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。<br>NEAR 创始人在英伟达 AI 大会上引起了关注，表明 NEAR 公链在 AI 领域有布局。NEAR推出了NEAR Tasks来进行人工智能模型训练和改进，并在生态系统中推出AI Agent服务。NEAR通过AI技术延展和叙事引导，整合了链性能和团队资源，提升了用户链上交互体验。链抽象和AI赋能将是NEAR未来的关注重点和潜在的牛市催化剂。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。<br />NEAR 创始人在英伟达 AI 大会上引起了关注，表明 NEAR 公链在 AI 领域有布局。NEAR推出了NEAR Tasks来进行人工智能模型训练和改进，并在生态系统中推出AI Agent服务。NEAR通过AI技术延展和叙事引导，整合了链性能和团队资源，提升了用户链上交互体验。链抽象和AI赋能将是NEAR未来的关注重点和潜在的牛市催化剂。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>NEAR 创始人 Illia Polosukhin 将亮相英伟达 AI 大会的消息，让 NEAR 公链赚足了眼球。加密研究员 Haotian 解析了 NEAR 在 AI 方面的布局，他认为长期关注还是得看 NEAR 在「链抽象」上的布局和产品推进，但 AI 会是个不错的加分项和牛市催化剂。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/tmel0211/status/1767739189985227104">https://twitter.com/tmel0211/status/1767739189985227104</a></p>
 <p><strong>文章作者：</strong></p><p>Haotian</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Haotian：</strong>NEAR 创始人 Illia Polosukhin 有过较长时间的 AI 背景，是 Transformer 架构的共同构建者。而 Transformer 架构是如今 LLMs 大型语言模型训练 ChatGPT 的基础架构，足以证明 NEAR 老板在成立 NEAR 前确实有 AI 大模型系统的创建和领导经验。
@@ -101,7 +198,6 @@ NRAR 曾在 NEARCON 2023 上推出过 NEAR Tasks，目标是为了进行人工�
 
 总之，背靠高性能的链功能，NEAR 做 AI 方向的技术延展和叙事引导，似乎要比纯链抽象要不明觉厉多了。半个月前我在分析 NRAR 链抽象时，就看到了 NEAR 链性能 + 团队超强 Web2 资源整合能力的优势，万万没想到，链抽象还没有普及开来摘到果子，这一波 AI 赋能再一次把想象力放大了。长期关注还是得看 NEAR 在「链抽象」上的布局和产品推进，AI 会是个不错的加分项和牛市催化剂！</p><a href="https://twitter.com/tmel0211/status/1767739189985227104">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-14T04:24:40+00:00</pubDate>
 </item>
 <item>
@@ -109,7 +205,7 @@ NRAR 曾在 NEARCON 2023 上推出过 NEAR Tasks，目标是为了进行人工�
 <link>https://twitter.com/knwang/status/1767975287151554662</link>
 <guid>https://twitter.com/knwang/status/1767975287151554662</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。<br>knwang从「基于意图的市场分析」论文入手，描述了Khalani Network如何最大限度地降低与求解器开发和操作相关的成本，提供一个便于解决方案原子集成的事务平台的愿景。文章强调了模块化求解器平台的重要性，以支持无需权限模块的运行时集成，通过委托和分摊求解器操作来降低运营成本。此外，文章提出了建立真正去中心化的基于意图的市场的方向，减轻高交易费和竞标失败的影响，简化交易和意图实现为原子交易的重要性。最终，Khalani Network的目标是将其打造为可组合求解器网络。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。<br />knwang从「基于意图的市场分析」论文入手，描述了Khalani Network如何最大限度地降低与求解器开发和操作相关的成本，提供一个便于解决方案原子集成的事务平台的愿景。文章强调了模块化求解器平台的重要性，以支持无需权限模块的运行时集成，通过委托和分摊求解器操作来降低运营成本。此外，文章提出了建立真正去中心化的基于意图的市场的方向，减轻高交易费和竞标失败的影响，简化交易和意图实现为原子交易的重要性。最终，Khalani Network的目标是将其打造为可组合求解器网络。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>模块化求解器平台 Khalani Network 构建者 knwang 从「基于意图的市场分析」论文入手，描述了 Khalani Network 如何最大限度地降低与求解器开发和操作相关的成本，并提供一个便于解决方案原子集成的事务平台的愿景。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/knwang/status/1767975287151554662">https://twitter.com/knwang/status/1767975287151554662</a></p>
 <p><strong>文章作者：</strong></p><p>knwang</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>knwang：</strong>高昂的进入成本主要来自求解器的开发和运营费用。如今，开发人员在构建求解器时面临着巨大的成本压力，因为求解器必须作为一个集成堆栈从零开始构建。降低成本的关键在于拥有一个模块化求解器平台，该平台支持支持无需权限模块的运行时集成。通过委托和分摊求解器操作，可以大幅降低运营成本。
@@ -118,10 +214,8 @@ NRAR 曾在 NEARCON 2023 上推出过 NEAR Tasks，目标是为了进行人工�
 
 「基于意图的市场分析」一文指出了如何建立一个真正去中心化的基于意图的市场的方向，而不影响提供最大的用户满意度。实现这一目标需要最大限度地降低与求解器开发和操作相关的成本，同时提供一个便于解决方案原子集成的事务平台。我们将在 Khalani Network 上实现这一愿景，将其打造为可组合求解器网络。【原文为英文】</p><a href="https://twitter.com/knwang/status/1767975287151554662">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-14T03:23:28+00:00</pubDate>
 </item>
-
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
@@ -10753,100 +10847,6 @@ Points as Reputation（积分即信誉）：积分很容易被认为是社会经
 3）铭文资产对应的链下 indexer 系统也至关重要，作为管理链上交易数据的核心工具，当铭文资产流入 layer2 二层 EVM 环境后，索引器需要被精准记录追踪有效并管理这类资产的流通，尤其是协调不同索引之间的账本差异时。</p><a href="https://mp.weixin.qq.com/s/DCMJK1CmgV02WCfMdNcnOg">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-15T04:38:37+00:00</pubDate>
-</item>
-<item>
-<title>【英文长推】EIP-4844 正式上线，是否不负众望？</title>
-<link>https://twitter.com/WestieCapital/status/1768354086913532158</link>
-<guid>https://twitter.com/WestieCapital/status/1768354086913532158</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。<br />文章指出Layer 2 Gas变化已经落地，Zk Rollups和Arbitrum节省了93%的Gas，OP Stack Rollups节省了99%。Blob数量在逐渐增加，平均基本费用为1 Gwei。Rollup之间的成本差异很大，需要继续观察Gas价格的平衡情况和Blob对构建者市场的影响。该进展对以太坊和加密货币是巨大的胜利，成本降低超过90%并受益于用户。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>随着升级已经落地。BlockWorks 研究员 Westie 撰文对落地后  Layer 2 Gas 变化进行了分析解读。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/WestieCapital/status/1768354086913532158">https://twitter.com/WestieCapital/status/1768354086913532158</a></p>
-<p><strong>文章作者：</strong></p><p>Westie</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Westie：</strong>目前的数据看起来非常有前景。与 calldata 相比，Zk Rollups 和 Arbitrum 节省了约 93%，而 OP Stack Rollups 节省了 99%。不过，这不会永远持续下去。据我所知，很多主要的 Rollup 项目仍未部署使用 blobs，包括 Polygon、Manta、Metis、Linea 等。Blob 数量正在缓慢攀升，以达到每个区块 3 个的目标。一旦我们持续看到每个区块有超过这个目标的 Blob，我们就可以预期价格会大幅上涨。
-
-我们需要在未来几周内观察 Gas 价格的平衡情况。Blob 的平均基本费用一直保持在 1 Gwei。这是 Blob 可能的最低价格。因此，我们可以预计，如果没有其他优化，昨天发布的所有交易费用都是我们将看到的最低费用。此外，Rollup 与成本之间也存在巨大差异。tarkware 和 zkSync 支付的每 MB 费用分别约为 242 美元和 321 美元，而 Optimism Mainnet 和 Base 则分别为 35 美元和 36 美元。而 Celestia 上每 MB 的中位成本约为 3 美元。
-
-当然，我们还需要关注其他外部因素，例如 blobs 对构建者市场的影响。在区块中包含 blobs 所产生的摩擦可能会导致构建者忽略 blobs，以减少延迟并抓住其他 MEV 机会。总体而言，我认为这对以太坊及其加密货币来说是一个巨大的胜利，成本降低 90% 以上并惠及用户都是一个巨大进步。【原文为英文】</p><a href="https://twitter.com/WestieCapital/status/1768354086913532158">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-15T03:53:48+00:00</pubDate>
-</item>
-<item>
-<title>CKB 首席架构师：我们需要构建 Web5，而 Web5 = Web2 + Web3</title>
-<link>https://talk.nervos.org/t/jan-xie-web5-web5-web2-web3/7920</link>
-<guid>https://talk.nervos.org/t/jan-xie-web5-web5-web2-web3/7920</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。文章提到在比特币区块链上发行资产的需求，以及发行新资产的协议和方法。作者呼吁建立可编程层来支持比特币链上资产的发行和运行，同时强调比特币和可编程层之间的高速连接的重要性。作者认为构建一个基于P2P网络的Web5，修复现有互联网的问题，是更有意义的做法，而非将所有东西都搬到区块链上。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>3 月 9 日，在由 Nervos Foundation 和 ABCDE 共同举办的 Bitcoin Singapore 2024 大会上，CKB 首席架构师 Jan Xie 发表了主题演讲「Bitcoin Renaissance: Why & How?」。本篇文章根据其英文演讲内容整理。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://talk.nervos.org/t/jan-xie-web5-web5-web2-web3/7920">https://talk.nervos.org/t/jan-xie-web5-web5-web2-web3/7920</a></p>
-<p><strong>文章作者：</strong></p><p>Jan（Nervos 首席架构师）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Jan（Nervos 首席架构师）：</strong>目前为止，在比特币区块链上发行的资产总价值为 30 亿美元，远远落后于在其他区块链上发行的资产总价值。比特币是最安全、最去中心化、最抗审查的平台，然而在这个平台上发行的资产总价值是最少的。作为对比，波场（Tron）的市值约为 120 亿美元， 而在波场区块链上发行的资产总价值达到了 100 亿美元。这是好事还是坏事？比特币带来了许多真正的创新，但过去几年里这个行业把这些东西都抛弃了，比如 PoW、UTXO、P2P 网络。所以，我们现在为什么需要比特币文艺复兴？我认为原因在于确实存在真实的需求，对新资产有需求，对比特币的使用场景有需求。
-
-幸运的是，用户想要发行新的资产，用户的需求一直存在，也有了一些资产发行协议，比如 Ordinals、Runes、BRC-20、Taproot Assets 等。我们可以在比特币链上发行资产，发行点对点、抗审查的资产，而且不需要比特币做出任何改变，不需要分叉。我们还需要一个可编程的层，因为比特币本身是受限的，我们不能在比特币链上做很多事情。如果我们能基于比特币创建一个层，赋予比特币链上资产可编程的能力，我们就能做很多事情了。这个可编程的层将是其他一切的基础，包括可扩展性、隐私性、比特币金融活动等。然后，我们需要比特币和可编程层之间的高速公路。我们可以使用 Two-Way Peg（双向锚定），或者是使用一种创新的方法来桥接比特币和可编程层之间的资产，这个方法我称之为 UIB（Universal Isomorphic Binding，通用同构绑定）。UIB 的想法起源于 Cipher，他是 RGB++ 协议的作者，而同构绑定正是 RGB++ 的核心技术之一。
-
-比特币作为底层的资产发行平台，上面是一个可编程层，在可编程层上构建可扩展性和隐私性层。在我看来，L3 甚至都不需要使用区块链，因为区块链有利于透明度和全球共识，但它对可扩展性和隐私性反而有害。这一点有别于以太坊生态，以太坊生态全景图是 Rollup 上面再叠加 Rollup。 这个行业为什么需要那么多区块链呢？其实并不需要。L3 上应该是 P2P 网络，然后通道可以连接这一切。所以，我认为我们要构建的是 Web5，Web5 就是 Web2 加上 Web3。Web3 极力地把所有的东西搬到链上，但我们为什么需要把所有的东西往链上搬呢？互联网其实做得很好，只不过它有一些问题而已，我们用 P2P 技术、密码学技术以及其他一些新技术来修复 Web2 即可，它不是 Web3， 我们不需要把所有的东西都放在链上。利用这些技术，我们想要构建的其实是 Web5。</p><a href="https://talk.nervos.org/t/jan-xie-web5-web5-web2-web3/7920">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-15T03:22:04+00:00</pubDate>
-</item>
-<item>
-<title>知情人士：Berachain 正在通过出售代币进行超 6900 万美元融资，Brevan Howard Digital 和 Framework Ventures 领投</title>
-<link>https://www.bloomberg.com/news/articles/2024-03-15/crypto-s-berachain-becomes-unicorn-in-69-million-vc-round</link>
-<guid>https://www.bloomberg.com/news/articles/2024-03-15/crypto-s-berachain-becomes-unicorn-in-69-million-vc-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。根据知情人士报道，Berachain 正在通过出售代币融资超过 6900 万美元，Brevan Howard Digital 和 Framework Ventures 共同领投。这轮融资预计将使Berachain的估值达到 15 亿美元，但目前尚不清楚该融资是否已经完成。 <div>
-<p>彭博社援引知情人士报道，Berachain 正在通过出售代币进行超 6900 万美元融资，Brevan Howard Digital 和 Framework Ventures 共同领投，估值将达到 15 亿美元。目前暂不清楚该轮融资是否已经完成。</p><p><a href="https://www.bloomberg.com/news/articles/2024-03-15/crypto-s-berachain-becomes-unicorn-in-69-million-vc-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-15T01:40:12+00:00</pubDate>
-</item>
-<item>
-<title>以太坊 Layer2 网络 Metis 推出去中心化排序器 alpha 版本</title>
-<link>https://www.theblock.co/post/282515/metis-decentralized-sequencer-alpha-version</link>
-<guid>https://www.theblock.co/post/282515/metis-decentralized-sequencer-alpha-version</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。以太坊 Layer2 网络 Metis 推出去中心化排序器 alpha 版本，节点可获得 METIS 奖励激励区块生成和交易处理。首年所有排序器节点将获得 20% 挖矿奖励率。 <div>
-<p>以太坊 Layer2 网络 Metis 推出去中心化排序器 alpha 版本，排序器节点可以获得 METIS 奖励，以激励参与网络区块生成和网络交易处理。此外，第一年里所有排序器节点都将获得 20% 的挖矿奖励率。</p><p><a href="https://www.theblock.co/post/282515/metis-decentralized-sequencer-alpha-version">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-15T01:27:32+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，估值达到 10 亿美元。Polychain Capital 领投，多家机构参投。融资将用于团队扩大至约 80 人，以加强产品、工程、业务开发和营销等跨职能部门。融资通过未来代币或 SAFT 简单协议进行。<br />这些信息是积极的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>【英文】2023 年十大区块链黑客技术榜单</title>
-<link>https://blog.openzeppelin.com/top-10-blockchain-hacking-techniques-of-2023</link>
-<guid>https://blog.openzeppelin.com/top-10-blockchain-hacking-techniques-of-2023</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是消极的。OpenZeppelin安全专家小组选出了2023年十大区块链黑客技术。其中包括Vyper编译器中的不可重入锁漏洞技术、2023年4月3日的Mev-Boost中继器事件、以及Euler攻击事件。这些事件表明在智能合约安全领域存在重大的认知范围转变和漏洞问题。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>区块链安全平台 OpenZeppelin 的安全专家小组投票选出了 2023 年十大区块链黑客技术，并给出了理由和启示。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://blog.openzeppelin.com/top-10-blockchain-hacking-techniques-of-2023">https://blog.openzeppelin.com/top-10-blockchain-hacking-techniques-of-2023</a></p>
-<p><strong>文章作者：</strong></p><p>OpenZeppelin</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>OpenZeppelin：</strong>1）Vyper 不可重入锁漏洞技术。由于 Vyper 编译器中的不可重入性漏洞而导致 Curve 池被利用，这是 Web3 安全领域认知范围的重大转变。虽然编译器漏洞被利用并不是新鲜事，但这一漏洞却让绝大多数研究人员深入了解了智能合约安全领域。
-
-2）2023 年 4 月 3 日 Mev-Boost 中继器事件和相关时间问题。Flashbots mev-boost 中继受到攻击是因为存在一个漏洞，如果区块头无效，该漏洞就会泄露区块生成器的区块内容。攻击者是一名恶意提议者，他利用泄露的内容重建了自己的区块，并从三明治机器人那里窃取了 2000 万美元。由于攻击者利用它所需的利基知识集，我认为这种黑客技术值得在此列表中占有一席之地。
-
-3） Euler 攻击事件。Euler 是历史上最大的非桥接漏洞之一，被盗金额近 2 亿美元。这个漏洞的新颖性源于两个部分，一是添加了一个简单的实用程序函数，二是攻击的简单性。donateToReserves 函数是作为包装功能和潜在的 Gas 节约的实用程序引入的，这个看似无害的附加函数却帮助了这次大规模的漏洞攻击。虽然这种攻击的完全复制可能不会直接适用于其他协议，但添加看似简单的函数却凸显了智能合约整体安全性的脆弱性。【原文为英文】</p><a href="https://blog.openzeppelin.com/top-10-blockchain-hacking-techniques-of-2023">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T09:55:00+00:00</pubDate>
-</item>
-<item>
-<title>Smart Layer：以 token 和用户为中心的未来</title>
-<link>https://mp.weixin.qq.com/s/sn6AcY-0TN-wigVBi-f2TQ</link>
-<guid>https://mp.weixin.qq.com/s/sn6AcY-0TN-wigVBi-f2TQ</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。文章介绍了Smart Layer的联合创始人Victor的观点，他强调了以token为中心构建理念的重要性。项目使用ERC5169标准将Dai智能合约与自己的前端关联，实现更广泛的功能和逻辑。他还提到小猫NFT的例子，讨论了链上逻辑和链下逻辑的结合，强调token在区块链世界中的中心地位。他认为token具有最大的可组合性和可移植性，应该是未来区块链世界的一等公民。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>橙皮书采访了 Smart Layer 联合创始人 Victor，讲述了 Smart Layer 为何以 token 为中心的构建理念，以及项目的进展与应用。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/sn6AcY-0TN-wigVBi-f2TQ">https://mp.weixin.qq.com/s/sn6AcY-0TN-wigVBi-f2TQ</a></p>
-<p><strong>文章作者：</strong></p><p>橙皮书</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Victor Zhang（Smart Token Labs 联创兼首席执行官）：</strong>Smart token 的做法是把 Makerdao 的网站放在一边，它上面能够实现更复杂的逻辑和功能，这很好。我们再给 Dai token 加上一个它自己的前端。这个前端也是 Makerdao 写的，上面有 Makerdao 的签名，所以它的安全和可信性和 Dai token 都是一样的。然后我们用 ERC5169 这个标准把 Dai 的智能合约跟它自己的前端关联在一起，从此以后，不管 Dai 在哪个钱包或者应用，有谁想要调用这个 token，一看这个 token 有 ERC5169 的接口，就会知道它指向一个它自己的可编程前端，钱包或者应用就可以调用这个前端来使用这个 token 的全部功能。
-
-说回小猫 nft。小猫的智能合约本身就有许多功能了，比如证明两个猫之间是朋友关系是，还有洗猫、喂猫这些动作，都是链上的 transaction，由智能合约提供。但是猫和猫之间互相发消息，这个消息本身是端到端加密的，它就不是发生在链上了。这个消息的存储，你可以想象成非区块链的服务器，一个去中心化的服务网络，就像去中心化的 AWS 一样，但它不服务应用，只服务 token。还有猫猫的图片 UI，如何调用智能合约的 Javascript 代码，这些东西也没法直接全都存到智能合约里面。这些链下逻辑和智能合约的链上逻辑加在一起，才是 token 的完全体。
-
-我们再看区块链世界，钱包是跟着用户自己的，以用户为中心。另外一个就是 token，以用户为中心。但是应用不是以用户为中心的。token 才是真正有可能拥有最大化的可组合性和可移植性的载体，而不是应用。不能搞一个超级平台应用，把各种东西都连上这个平台，那就又倒退回中心化的时代了。所以 token 应该是未来区块链世界的中心，token 是一等公民，而不是应用是一等公民。给 token 一个它自己的可编程前端，让它能够在不同的系统中使用。</p><a href="https://mp.weixin.qq.com/s/sn6AcY-0TN-wigVBi-f2TQ">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T09:51:38+00:00</pubDate>
 </item>
 </channel>
 </rss>
