@@ -4,6 +4,105 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>Runes预挖矿概念：一文读懂Rune Kingdom符文龙</title>
+<link>https://www.panewslab.com/zh/articledetails/428g49q757p8.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/428g49q757p8.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了符文龙项目，包括发行数量、玩法说明、挖矿数值计算、预估盈利分析和官方信息渠道。符文龙有4个品种，每种龙有特殊技能，能获得RMP奖励。预计符文代币市值为78.34 BTC，根据符文龙产生的最高RMP来计算挖矿价值。在MagicEden上的地板价为0.0015 BTC。详细信息可在官方渠道获取。 <div>
+<p>Rune Kingdom，后面简称「符文龙」。基于铭文采用递归逻辑，让龙蛋慢慢孵化变成小龙，觉得挺有意思，这次我们一起来深入了解一下。</p>
+<p>本质上，符文龙也属于「符文预挖矿」类的项目，基本逻辑就是：先给一个 Ordinals 铭文作为挖矿凭证，然后根据持有数量、时长或其他一些玩法进行所谓的「挖矿」；等到 Rnues 协议上主网之后，就会将挖到的符文代币分发到钱包地址。</p>
+<p><img alt="Runes预挖矿概念：一文读懂Rune Kingdom符文龙" height="459" src="https://cdn-img.panewslab.com/panews/images/7zaX8vWUj4.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="1080" /></p>
+<p><em>作者：Portal_Kay</em></p>
+<p><em>X/推：@portal_kay</em></p>
+<h4><strong>1.</strong><strong>发行数量</strong></h4>
+<p>发行总量：10,000 张</p>
+<p>空投情况：空投数量：9,000 张（90%）；</p>
+<p>空投条件：持有蓝筹 Ordinals 铭文的钱包（具体的官方有没有说得太清楚）。</p>
+<p>团队保留：1,000 张（10%）</p>
+<h4><strong>2.</strong><strong>玩法说明</strong></h4>
+<p><strong>2.1</strong><strong>铭文激活</strong></p>
+<p>激活方式：拿到铭文后，自己往自己钱包地址转一次（如果是从 ME 等二级市场买的，就不需要再激活了）</p>
+<p>激活查询：进入网页 ，输入铭文编号；在详情页「Metaprotoco」如果显示绿色「ACTIVATED」就是已经激活了。</p>
+<p>网页：</p>
+<p>https://ordiscan.com</p>
+<p><img alt="Runes预挖矿概念：一文读懂Rune Kingdom符文龙" height="575" src="https://cdn-img.panewslab.com/panews/images/q3Fpfz6EFA.png" style="display: block; margin-left: auto; margin-right: auto;" width="1080" /></p>
+<p><strong>2.2 符文龙介绍</strong></p>
+<p>符文龙总共包含4个品种（Othila、Anzus、Gebo、Fehu），对应4种不同的稀有度。下面是各个品种的龙不同等级的样子。</p>
+<p><img alt="Runes预挖矿概念：一文读懂Rune Kingdom符文龙" height="648" src="https://cdn-img.panewslab.com/panews/images/5oo93WiJQN.png" style="display: block; margin-left: auto; margin-right: auto;" width="1080" /></p>
+<p><strong>符文龙升级</strong></p>
+<p>符文龙会随着比特币区块的提升自动获得经验并升级。规则很简单，每增加一个区块，每条龙会自动会 1 点 EXP。</p>
+<p>由于 符文龙 项目从 833,000 区块开始计算，那么截止到减半所属的 840,000 区块，每条龙最多可以积攒的 EXP 就是 7,000 点（事实上即使升到最高的 30 级，也仅需 3900 EXP，详见下方表格）。</p>
+<p>每当 EXP 积累到一定程度，就可以升级，比如：从 0 级 升到 1 级，需要 50 EXP，对应就是要过 50 个区块；从 4 级 升到 5级 需要 100 EXP，需要经过 100 个区块。具体每个等级升级需要的 EXP 以及 截止到该等级所需的累计 EXP 如下表所示：</p>
+<p><img alt="Runes预挖矿概念：一文读懂Rune Kingdom符文龙" height="607" src="https://cdn-img.panewslab.com/panews/images/F0DCJ38Xw4.png" style="display: block; margin-left: auto; margin-right: auto;" width="1080" /></p>
+<p><strong>2.3 符文龙属性</strong></p>
+<p>稀有度：不同品种的稀有度就是这个品种在所有符文龙当中的占比，占比越少稀有度越高，其他的一些属性也会更优质；比如，所有龙当中有 55% 是最普通的 Othila，而只有 5% 是最稀有的 Fehu（具体见下方表格）。</p>
+<p>最高等级：不同稀有度的龙能升到的最高等级也不同，比如：Othila 只能升到 20 级，但是 Fehu 可以升到 30 级。</p>
+<p>最高 RMP：RMP（Rune Mining Power）是指符文挖矿的能力，这是符文龙作为一款 Runes 铭文预挖矿项目最核心的指标，它直接关系到最后能够获得的 Runes 协议上 符文龙代币 的数量。每产生一个比特币区块，对应就会产生一定数量的 RMP，而不同等级的龙产生的 RMP 是不同的，比如：20级对应的是 50 RMP 每个区块，30级对应的是 70 RMP 每个区块（详见 2.3 挖矿数值计算）。</p>
+<p>特殊技能及奖励：除了最普通的 Othila 以外，其余3个品种的符文龙都有特殊技能，具体可以看下面表格，触发技能后就能获得额外的 RMP 奖励。</p>
+<p><img alt="Runes预挖矿概念：一文读懂Rune Kingdom符文龙" height="340" src="https://cdn-img.panewslab.com/panews/images/q8Su3ELe10.png" style="display: block; margin-left: auto; margin-right: auto;" width="1080" /></p>
+<h4><strong>3.</strong><strong>挖矿数值 RMP 计算【硬核】</strong></h4>
+<p><strong>3.1 各等级 RMP 计算</strong></p>
+<p>如前面所说：符文龙作为一款 Runes 铭文预挖矿项目，最核心的指标就是符文挖矿的能力 RMP，它直接关系到最后能够获得的 Runes 协议上 符文龙代币 的数量。</p>
+<p>下方表格中，我根据官方提供的每个等级下单个区块能获得 RMP 数量。</p>
+<p>表格链接：</p>
+<p>https://docs.bitknight.net/about-dragons/lvl-exp-and-rmp</p>
+<p>其中，「经历区块」是指在这个等级上需要经历多少个区块（经历完这些区块后就升级了），因此可以得出：本等级全部 RMP=每区块 RMP × 经历区块数。比如：0 级需要经历 50 个区块才能升到1级，所以一条龙在0级的状态会持续 50 个区块，0 级龙能够获得的全部 RMP 就是 250。</p>
+<p>「累计 RMP」是指截止到那个等级，一条龙能够正常获得的 RMP 总和（不包含 Boost、触发技能可获得的 RMP）。但是这个「累计 RMP」的计算其实仅适用于 Fehu 这个品种，因为只有它能升到 30 级，其他品种只能升到 20 或 25 级。每个品种的符文龙能够获得的最高 RMP 请见「2.4 各品种符文龙最高 RMP 计算」。</p>
+<p>注：其中 30 级因为是最高级，它会经历的区块数是按照最终到减半区块 840,000 区块计算，即：升级至 30 级是 836,900 区块，到 840,000 区块总共会经历 840,000-836,900=3,100 个区块。对应的「本等级全部 RMP」就是 70×3,100=217,000。</p>
+<p><img alt="Runes预挖矿概念：一文读懂Rune Kingdom符文龙" height="1570" src="https://cdn-img.panewslab.com/panews/images/92p03jk5y6.png" style="display: block; margin-left: auto; margin-right: auto;" width="1080" /></p>
+<p><strong>3.2 各品种符文龙常规 RMP 计算</strong></p>
+<p>2.3 部分已经把到某个等级能拿到的累计 RMP 计算完毕，在这个基础上计算各个品种的符文龙能拿到的 RMP 总和就比较简单了。至最高级累计 RMP：即 2.3 部分表格中这个品种的龙升到最高级之前能拿到的全部 RMP。比如，Othila 最高 20 级，那么在 20 级之前（即 19 级）能拿到的全部 RMP 就是 63,060。</p>
+<p>最高级至减半 RMP：然后确定到达最高等级所在的区块高度，再用减半区块 840,000 减去这个区块高度，这就是从到达最高等级后至减半一条龙在最高级需要经历的所有区块数；然后再用这个区块数乘以最高级每区块能获得 RMP 数，就是截止到减半区块时，这条最高等级的符文龙能够拿到的 RMP 数量。</p>
+<p>常规 RMP 之和：最后，将「至最高级累计 RMP」和「最高级至减半 RMP」相加，即为一条龙在常规情况下能获得的 RMP 数量。注意，这里我们还没有考虑到每种龙的技能产生的奖励 RMP，以及使用 Bitcoin Knight 之后的 Boost 加层。</p>
+<p><img alt="Runes预挖矿概念：一文读懂Rune Kingdom符文龙" height="306" src="https://cdn-img.panewslab.com/panews/images/2BW04y054T.png" style="display: block; margin-left: auto; margin-right: auto;" width="1080" /></p>
+<p><strong>3.3 各品种符文龙最高 RMP 计算</strong></p>
+<p>3.2 部分计算了不同品种的符文龙在常规情况下能获得的 RMP 数值，另外还有两种 buff 能够提升 RMP，但是使用 Bitcoin Knight 这部分由于需要额外购买其他铭文产生额外成本，因此就不再考虑这部分的加成效果。以下仅考虑每种龙自带技能产生的 RMP 奖励。</p>
+<p>在 2.3 部分「符文龙属性」中，我们知道除了 Othila 以外，其他龙都有自己的技能。而对应的技能其实可以知道具体的发生概率有多少，比如：</p>
+<p>Anzus 的技能是「当铭文编号的最后一位数字与当前区块哈希值最后一位数字相同」，而铭文编号最后一位 0-9 共10个数字，也就是平均发生概率是 10%，即有 10% 概率的区块，一条 Anzus 能拿 166 RMP 奖励。</p>
+<p>Gebo 的技能是「当前区块哈希值最后一位为偶数」，即有 50% 概率的区块，一条 Gebo 能拿 200 RMP 奖励。</p>
+<p>比较复杂的其实是 Fehu，因为它同时具有两种技能，并且跟 DC 管理确认如果某些区块下同时满足两个条件，那么 Fehu 是可以领取两份奖励的（200+166=366）。所以一条 Fehu 等于能同时拿 Anzus + Gebo 的奖励总和。</p>
+<p>「预估奖励总和」：技能发生概率 × 经历区块总数(840,000-833,000=7000) × 奖励数；当然因此发生概率只是个理想值，事实上那 7,000 个区块哈希最后一位数字是不是绝对有10%跟铭文编号相同，或者50%是偶数，都不是绝对确定的，只能是预估。</p>
+<p>然后我们将 3.2 部分计算的「常规 RMP 之和」跟这部分「预估奖励总和」相加，就能得到每个品种的符文龙，理论上能拿到的最高 RMP（不含 Bitcoin Knight 加成 ）。具体数值如下：</p>
+<p><img alt="Runes预挖矿概念：一文读懂Rune Kingdom符文龙" height="275" src="https://cdn-img.panewslab.com/panews/images/Zyc05nt5hJ.png" style="display: block; margin-left: auto; margin-right: auto;" width="1080" /></p>
+<p>通过上面的表格，我们就能够直观判断出来不同品种的符文龙的价值差异了。相比较而言，Gebo 的表现是最为突出的，虽然有 20% 的概率，但是最高可得的 RMP 跟 5% 概率的 Fehu 仅相差 12.5%。</p>
+<h4><strong>4. 预估盈利分析</strong></h4>
+<p><strong>4.1 RMP 理论最大值</strong></p>
+<p>通过上面的分析，我们已经将不同品种的符文龙能获得的最高 RMP 计算出来，由于各个品种符文龙的数量是确定的，因此很容易能够计算出所有符文龙理论上能产生 RMP 的最大值，如下方表格：</p>
+<p><img alt="Runes预挖矿概念：一文读懂Rune Kingdom符文龙" height="389" src="https://cdn-img.panewslab.com/panews/images/9902b067Bs.png" style="display: block; margin-left: auto; margin-right: auto;" width="1080" /></p>
+<p>将上方表格中 4 个品种的符文龙能获得的最高 RMP 加总，就能得到理论上能够产生的最高 RMP 为 5,364,030,000（53.64 亿）。</p>
+<p><strong>4.2 RMP 预估实际最大值</strong></p>
+<p>根据 Rune Kingdom 官方推特Bitcoin Knight发布的推文，截止区块高度 835,164，总共有 48% 的符文龙被激活。由于在未激活状态下，尽管龙都会正常升级，但是产生的 RMP 是不算数的。从符文龙开始的 833,000 区块到最终 840,000 区块经过了 40% 左右的区块。假设到了 840,000 区块时，所有符文龙都会激活，但是因为未激活状态下产生的 RMP 是不作计算的。由于高等级状态下，龙的单区块 RMP 更高，因此后面被激活的符文龙虽然经历的区块可能不足 50%，但是却能拿到更高的 RMP。因此，我们假设所有真正被激活状态下产生的 RMP 占理论情况下的 70%（注：这里拍脑袋成分比较高）。</p>
+<p>详情：</p>
+<p>https://twitter.com/CKN_BIT/status/1769559524187500753</p>
+<p><img alt="Runes预挖矿概念：一文读懂Rune Kingdom符文龙" height="219" src="https://cdn-img.panewslab.com/panews/images/xpbWo2nqUf.png" style="display: block; margin-left: auto; margin-right: auto;" width="1080" /></p>
+<p>RMP 预估实际最大值 = 理论最大值 × 激活产生比例 60% = 5,364,030,000 × 70%= 3,754,821,000（37.55亿）</p>
+<p><strong>4.3 Rune Kingdom 符文代币预估市值</strong></p>
+<p>在「符文预挖矿」项目中，目前 Runestone 以大约 4271 BTC（单价≈0.038 BTC）的总市值跑在第一。而 Rune Kingdom 铭文的总市值仅为 15 BTC（这里按地板价≈0.0015 BTC计算，但其实符文龙有稀有度差异，完全按地板价算会偏低）。即使咱们按照这个较低的 15 BTC 总市值估算，那么是龙一 Runestone 市值的 0.351%。</p>
+<p>而 Runestone 最终也会在 Runes 协议上发布代币，假设这个代币也是 Runes 协议上的龙一，那么我们就以 BRC-20 上的龙一代币 $ORDI 市值（22,318.91 BTC）作为 Runestone 的市值，将 Rune Kingdom 铭文市值占据 Runestone 铭文市值的比例当做最终符文代币的比例。</p>
+<p>即 Rune Kingdom 符文代币市值预估= 22,318.91 BTC × 0.351% ≈ 78.34 BTC</p>
+<p><strong>4.4 各品种符文龙挖矿价值</strong></p>
+<p>通过上面的分析，我们已经将 Rune Kingdom 符文代币预估总市值为 78.34 BTC，后续再计算每条符文龙产生的挖矿价值就非常简单了，只需要将一条符文龙产生的最高 RMP 除以「RMP 预估实际最大值」再乘以「符文代币预估总市值」就可以了，具体计算如下方表格：</p>
+<p><img alt="Runes预挖矿概念：一文读懂Rune Kingdom符文龙" height="298" src="https://cdn-img.panewslab.com/panews/images/qF0sSppZxL.jfif" style="display: block; margin-left: auto; margin-right: auto;" width="1080" /></p>
+<p>好了，这次关于 符文龙 的项目分析到这边就结束了。目前，MagicEden 上 Rune Kingdom 的地板价是 0.0015 BTC</p>
+<p><strong>5. 官方信息渠道</strong></p>
+<p>白皮书：</p>
+<p>https://docs.bitknight.net/</p>
+<p>官推：</p>
+<p>https://twitter.com/CKN_BIT</p>
+<p>MagicEden 合集：</p>
+<p>https://magiceden.io/ordinals/marketplace/runekingdom</p>
+<p>项目介绍：</p>
+<p>https://www.ord.io/63496557</p>
+<p>父铭文：</p>
+<p>https://ordiscan.com/inscription/61278</p>
+<p>https://ordiscan.com/inscription/233833</p>
+<p>https://ordiscan.com/inscription/61577</p>
+<p><strong>免责声明：本文仅供参考，不得被用作法律、税务、投资、理财或任何其他建议，不代表 RunesCC 立场。</strong></p>
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 11:00:58 +0800</pubDate>
+<pubDate>Mon, 25 Mar 2024 11:00:58 +0800</pubDate>
+</item>
 
 <item>
 <title>Do Kwon被安置在黑山外国人营地等待引渡结果，且护照已被没收</title>
