@@ -10015,3 +10015,15 @@ Existing_entries: 427
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-25 09:53:11.271755
+------------------------------------------------------
+Started: 2024-03-25 10:00:21.408391
+Existing_entries: 427
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 1133
+Summarized using GPT-3.5-turbo-1106
+Append: [3分钟了解国人背景的Artela：引入 EVM++，高扩展性并行 EVM Layer1](https://www.panewslab.com/zh/articledetails/dtvv4k89.html)
+Token length: 222
+Summarized using GPT-3.5-turbo-1106
+Append: [香港证监会告诫公众谨防HKCEXP涉嫌虚拟资产相关诈骗行为](https://www.panewslab.com/zh/sqarticledetails/1b1m4j2b.html)
+append_entries: 2
+Finish: 2024-03-25 10:00:31.757054
