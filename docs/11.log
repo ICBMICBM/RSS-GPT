@@ -8844,3 +8844,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [FTX to Sell $884M of Anthropic Shares to Two Dozen Institutional Investors](https://www.coindesk.com/policy/2024/03/25/ftx-to-sell-884m-of-anthropic-shares-to-two-dozen-institutional-investors/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 2
 Finish: 2024-03-25 16:59:41.539562
+------------------------------------------------------
+Started: 2024-03-25 17:14:36.170348
+Existing_entries: 195
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 44
+Summarized using GPT-3.5-turbo-1106
+Append: [TrueFi Unveils Lending Protocol for Tokenized Real-World Assets; TRU Jumps 14%](https://www.coindesk.com/business/2024/03/25/truefi-unveils-lending-protocol-for-tokenized-real-world-assets-tru-jumps-14/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-25 17:14:41.811729
