@@ -7627,3 +7627,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Understanding Primex Finance: A Comprehensive Overview](https://messari.io/article/understanding-primex-a-comprehensive-overview)
 append_entries: 1
 Finish: 2024-03-25 13:38:22.275868
+------------------------------------------------------
+Started: 2024-03-25 13:45:21.389229
+Existing_entries: 20
+Fetching from https://messari.io/rss
+append_entries: 0
+Finish: 2024-03-25 13:45:22.018879
