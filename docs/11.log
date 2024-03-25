@@ -9117,3 +9117,9 @@ Existing_entries: 200
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-25 23:40:09.125685
+------------------------------------------------------
+Started: 2024-03-25 23:47:35.486964
+Existing_entries: 200
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-03-25 23:47:35.806030
