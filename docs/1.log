@@ -10240,3 +10240,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [过去1小时全网爆仓3861.11万美元，其中比特币爆仓近2014万美元](https://www.panewslab.com/zh/sqarticledetails/5q4ih4x3.html)
 append_entries: 1
 Finish: 2024-03-25 14:50:04.475885
+------------------------------------------------------
+Started: 2024-03-25 14:57:30.551530
+Existing_entries: 444
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+append_entries: 0
+Finish: 2024-03-25 14:57:32.393712
