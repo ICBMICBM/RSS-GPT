@@ -8127,3 +8127,12 @@ Existing_entries: 13
 Fetching from https://blog.chainalysis.com/feed
 append_entries: 0
 Finish: 2024-03-25 22:00:00.027949
+------------------------------------------------------
+Started: 2024-03-25 22:16:15.828478
+Existing_entries: 13
+Fetching from https://blog.chainalysis.com/feed
+Token length: 6854
+Summarized using GPT-3.5-turbo-1106
+Append: [OFAC Sanctions Russia-based Blockchain Companies, Including Netex24 and Bitpapa, for Facilitating Sanctions Evasion](https://www.chainalysis.com/blog/ofac-sanctions-russia-blockchain-companies-netex24-bitpapa/)
+append_entries: 1
+Finish: 2024-03-25 22:16:20.185081

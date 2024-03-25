@@ -4,6 +4,88 @@
 <title>Chainalysis</title>
 <link>https://www.chainalysis.com/</link>
 
+<item>
+<title>OFAC Sanctions Russia-based Blockchain Companies, Including Netex24 and Bitpapa, for Facilitating Sanctions Evasion</title>
+<link>https://www.chainalysis.com/blog/ofac-sanctions-russia-blockchain-companies-netex24-bitpapa/</link>
+<guid>https://www.chainalysis.com/blog/ofac-sanctions-russia-blockchain-companies-netex24-bitpapa/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是消极的。2024年3月25日，美国财政部外国资产控制办公室对12家实体和2个个人进行制裁，因为他们帮助建立或运营基于区块链的服务，以促进俄罗斯个人可能逃避制裁。文章详细介绍了被制裁的实体和个人的活动，包括Netex24和Bitpapa。链分析显示，Netex24和Bitpapa向被制裁的实体和暗网市场发送了大量资金，并在乌克兰地区的一些组织进行了交易。美国财政部一直在努力打击基于俄罗斯的加密犯罪，这些努力包括对涉及俄罗斯银行的加密企业进行制裁。 <div>
+<p><span style="font-weight: 400;">On March 25, 2024, the United States Department of the Treasury’s Office of Foreign Assets Control (OFAC) </span><a href="https://home.treasury.gov/news/press-releases/jy2204"><span style="font-weight: 400;">sanctioned</span></a><span style="font-weight: 400;"> twelve entities and two individuals for helping to build or operate blockchain-based services to facilitate potential sanctions evasion on behalf of Russian nationals. Five of these entities were operated by OFAC-designated individuals. </span></p>
+<p><span style="font-weight: 400;">In this blog, we’ll explore the activities of these entities, including an on-chain analysis of addresses we identified as associated with two of the businesses sanctioned: Netex24 and Bitpapa. </span></p>
+<h2><span style="font-weight: 400;">Who are the sanctioned entities and individuals and what did they do? </span></h2>
+<p><span style="font-weight: 400;">Most of the sanctioned entities and individuals are based in Russia and all of them are linked to Russia through the services they provided: </span></p>
+<ul>
+<li><b>Joint Stock Company B-Crypto</b><span style="font-weight: 400;"> worked with </span><a href="https://ofac.treasury.gov/recent-actions/20221215"><span style="font-weight: 400;">OFAC-designated Rosbank </span></a><span style="font-weight: 400;">to support cross-border transactions in crypto. </span></li>
+<li><b>Obshchestvo S Ogranichennoy Otvetstvennostyu Sistemy Raspredelennogo Reyestra (Masterchain) </b><span style="font-weight: 400;">has agreements with several OFAC-designated Russian banks to issue digital currencies.</span></li>
+</ul>
+<ul>
+<li><b>Obshchestvo S Ogranichennoy Otvetstvennostyu Laitkhaus </b><span style="font-weight: 400;">issued and exchanged digital currencies to support several OFAC-designated banks. </span></li>
+</ul>
+<ul>
+<li><b>Obshchestvo S Ogranichennoy Otvetstvennostyu Atomaiz </b><span style="font-weight: 400;">tokenized diamonds and precious metals on behalf of Russian banks. </span></li>
+</ul>
+<ul>
+<li><b>Tokentrust Holdings Ltd.</b><span style="font-weight: 400;"> is Atomiaz’s majority shareholder. </span></li>
+</ul>
+<ul>
+<li><b>Obshchestvo S Ogranichennoy Otvetstvennostyu Veb3 Tekhnologii </b><span style="font-weight: 400;">provided blockchain-based services and platforms for the Russian financial sector, including sanctioned Russian banks. </span></li>
+</ul>
+<ul>
+<li><b>Obshchestvo S Ogranichennoy Otvetstvennostyu Veb3 Integrator</b><span style="font-weight: 400;"> also provided blockchain-based services and platforms for the Russian financial sector, including sanctioned Russian banks. </span></li>
+</ul>
+<ul>
+<li><b>Igor Veniaminovich Kaigorodov </b><span style="font-weight: 400;">is the majority shareholder for Veb3 Tekhnologii and Veb3 Integrator. </span></li>
+</ul>
+<ul>
+<li><b>Obshchestvo S Ogranichennoy Otvetstvennostyu Tsentr Obrabotki Elektronnykh Platezhey (TOEP) </b><span style="font-weight: 400;">is a digital currency exchange that operates under the names Netexchange and Netex24, and facilitated payments to OFAC-sanctioned banks including Sberbank and Alfa-Bank, as well as </span><a href="https://www.chainalysis.com/blog/hydra-garantex-ofac-sanctions-russia/"><span style="font-weight: 400;">Hydra</span></a><span style="font-weight: 400;">, the sanctioned darknet market. </span></li>
+<li><b>Timur Evgenyevich Bukanov</b><span style="font-weight: 400;"> is the owner and director of TOEP.</span></li>
+</ul>
+<ul>
+<li><b>Bitfingroup OÜ</b><span style="font-weight: 400;"> is an Estonia-based company likely controlled by Bukanov. </span></li>
+</ul>
+<ul>
+<li><b>Bitpapa IC FZC LLC </b><span style="font-weight: 400;">is a peer-to-peer (P2P) exchange that facilitated millions in payments for OFAC-designated Russian cryptocurrency businesses, Garantex and Hydra. </span></li>
+</ul>
+<ul>
+<li style="font-weight: 400;"><b>Crypto Explorer DMCC </b><span style="font-weight: 400;">operates under the name AWEX as a digital currency exchange based in Russia and the UAE, offering crypto-to-fiat conversions for Russian rubles and UAE dirhams.</span></li>
+<li style="font-weight: 400;"><b>Obshchestvo S Ogranichennoy Otvetstvennostyu Kripto Eksplorer (OOO Kripto Eksplorer)</b><span style="font-weight: 400;"> is owned by Crypto Explorer DMCC. </span></li>
+</ul>
+<h2><span style="font-weight: 400;">Analyzing the activity of Netex24 and Bitpapa</span></h2>
+<p><span style="font-weight: 400;">In its press release on their sanctions designations, OFAC notes that Netex24 and Bitpapa have a history of transacting with OFAC-sanctioned banks, cryptocurrency exchanges, and darknet markets by using cryptocurrency, therefore facilitating potential sanctions evasion for Russia’s financial infrastructure. </span></p>
+<p><span style="font-weight: 400;">As we see in the screenshot below, Netex24 supports off-ramping to sanctioned Russian banks Tinkoff and Sberbank, as well as other similar organizations. </span></p>
+<p><img alt="" class="alignnone size-medium wp-image-13191" height="457" src="https://www.chainalysis.com/wp-content/uploads/2024/03/netex-800x457.png" width="800" /></p>
+<p><span style="font-weight: 400;">Although OFAC did not include any crypto addresses in its designations of Netex24 or Bitpapa, Chainalysis has identified clusters associated with both services. Over the last two years, on-chain data shows that both Netex24 and Bitpapa have facilitated significant sending of funds to sanctioned entities. Darknet markets also make up a significant volume of transaction history, in addition to exchanges without Know Your Customer (KYC) controls, many of which are Russian-language sites offering on and off ramping with sanctioned Russian banks. [1]</span></p>
+<figure class="wp-caption alignnone" id="attachment_13192" style="width: 800px;"><img alt="" class="wp-image-13192 size-medium" height="536" src="https://www.chainalysis.com/wp-content/uploads/2024/03/netex24-outflows-800x536.png" width="800" /><figcaption class="wp-caption-text" id="caption-attachment-13192">Source: Chainalysis Reactor</figcaption></figure>
+<p>&nbsp;</p>
+<figure class="wp-caption alignnone" id="attachment_13193" style="width: 800px;"><img alt="" class="wp-image-13193 size-medium" height="516" src="https://www.chainalysis.com/wp-content/uploads/2024/03/bitpapa-outflows-800x516.png" width="800" /><figcaption class="wp-caption-text" id="caption-attachment-13193">Source: Chainalysis Reactor</figcaption></figure>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Value sent by Netex24 and Bitpapa to sanctioned entities and darknet markets has steadily increased since the start of Russia’s war in Ukraine, whereas value sent to exchanges without KYC guidelines and other illicit services has remained relatively flat. </span></p>
+<figure class="wp-caption alignnone" id="attachment_13194" style="width: 800px;"><img alt="" class="wp-image-13194 size-medium" height="538" src="https://www.chainalysis.com/wp-content/uploads/2024/03/cumulative-value-800x538.png" width="800" /><figcaption class="wp-caption-text" id="caption-attachment-13194">Source: Chainalysis Reactor</figcaption></figure>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">We can see examples of some of this activity on the blockchain for both Netex24 and Bitpapa using </span><a href="http://reactor.chainalysis.com"><span style="font-weight: 400;">Chainalysis Reactor</span></a><span style="font-weight: 400;">. As highlighted in the OFAC designation, both entities transferred millions of dollars in cryptocurrency to Hydra and Garantex, and regularly interacted with Bitzlato. </span></p>
+<figure class="wp-caption alignnone" id="attachment_13195" style="width: 800px;"><img alt="" class="wp-image-13195 size-medium" height="521" src="https://www.chainalysis.com/wp-content/uploads/2024/03/graph-asset-v2-eip155-1-native-bitpapa-netex-bad-exposure-1-800x521.png" width="800" /><figcaption class="wp-caption-text" id="caption-attachment-13195">Source: Chainalysis Reactor</figcaption></figure>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">In addition to facilitating transactions on behalf of larger sanctioned financial services and crypto entities, Netex24 and Bitpapa have also facilitated transactions for various </span><a href="https://www.chainalysis.com/blog/pro-russian-crypto-donations-war-in-ukraine/"><span style="font-weight: 400;">pro-Russian militia and propaganda groups</span></a><span style="font-weight: 400;">, including </span><a href="https://ofac.treasury.gov/recent-actions/20231102"><span style="font-weight: 400;">MOO Veche</span></a><span style="font-weight: 400;">, an OFAC designated Russian militia group. All of these entities have been known to operate in the Donetsk, Luhansk, or Crimean regions of Ukraine. </span></p>
+<figure class="wp-caption alignnone" id="attachment_13196" style="width: 800px;"><img alt="" class="wp-image-13196 size-medium" height="475" src="https://www.chainalysis.com/wp-content/uploads/2024/03/graph-asset-v2-algorand-wghe2pwdvd7s12bl5faop20egyesn73k-native-bitpapa-netex-designation-1-800x475.png" width="800" /><figcaption class="wp-caption-text" id="caption-attachment-13196">Source: Chainalysis Reactor</figcaption></figure>
+<h2><span style="font-weight: 400;">OFAC’s continued efforts to combat Russia-based crypto crimes </span></h2>
+<p><span style="font-weight: 400;">As Brian E. Nelson, Under Secretary of the Treasury for Terrorism and Financial Intelligence, stated, “Russia is increasingly turning to alternative payment mechanisms to circumvent U.S. sanctions and continue to </span><a href="https://www.chainalysis.com/blog/russia-ukraine-war-cryptocurrency-one-year/"><span style="font-weight: 400;">fund its war against Ukraine</span></a><span style="font-weight: 400;">.” Based on this designation, sanctions evasion through utilization of cryptocurrency businesses to facilitate on- and off-ramp activities for sanctioned Russian banks appears to be a growing focus for OFAC. These efforts expand on an already extensive focus of the illicit Russian crypto ecosystem, which includes ransomware, darknet markets, militia groups, disinformation groups, and various other cybercrime actors.</span></p>
+<p><span style="font-weight: 400;">We commend OFAC for its actions here and have labeled the relevant addresses as associated with Netex24 and Bitpapa in our product suite.</span></p>
+<p><span style="font-weight: 400;"><div class="inline-promo-container">
+			<a class="promo__text" href="https://go.chainalysis.com/crypto-crime-2024.html">
+                <h2 class="promo__title">The Chainalysis 2024 Crypto Crime Report</h2>
+                <p class="promo__subtitle">Available now</p>
+                <span class="promo__button">Get your copy</span>
+            </a><a class="promo__image" href="https://go.chainalysis.com/crypto-crime-2024.html"><img alt="" src="https://www.chainalysis.com/wp-content/uploads/2024/01/crime-report-2024-promo-image.jpg" /></a></div></span></p>
+<p><b>Endnotes: </b></p>
+<p><span style="font-weight: 400;">[1] In the data presented in this blog, Hydra is included in the darknet market category rather than as a sanctioned entity. </span></p>
+<p><i><span style="font-weight: 400;">This website contains links to third-party sites that are not under the control of Chainalysis, Inc. or its affiliates (collectively “Chainalysis”). Access to such information does not imply association with, endorsement of, approval of, or recommendation by Chainalysis of the site or its operators, and Chainalysis is not responsible for the products, services, or other content hosted therein. </span></i></p>
+<p><i><span style="font-weight: 400;">This material is for informational purposes only, and is not intended to provide legal, tax, financial, or investment advice. Recipients should consult their own advisors before making these types of decisions. Chainalysis has no responsibility or liability for any decision made or any other acts or omissions in connection with Recipient’s use of this material.</span></i></p>
+<p><i><span style="font-weight: 400;">Chainalysis does not guarantee or warrant the accuracy, completeness, timeliness, suitability or validity of the information in this report and will not be responsible for any claim attributable to errors, omissions, or other inaccuracies of any part of such material.</span></i></p>
+<p>The post <a href="https://www.chainalysis.com/blog/ofac-sanctions-russia-blockchain-companies-netex24-bitpapa/">OFAC Sanctions Russia-based Blockchain Companies, Including Netex24 and Bitpapa, for Facilitating Sanctions Evasion</a> appeared first on <a href="https://www.chainalysis.com">Chainalysis</a>.</p>
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 22:02:26 +0000</pubDate>
+<pubDate>Mon, 25 Mar 2024 22:02:26 +0000</pubDate>
+</item>
 
 <item>
 <title>Asset Tokenization Explained: Benefits, Risks, and How It Can Work</title>
