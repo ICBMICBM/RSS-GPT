@@ -10048,3 +10048,12 @@ Existing_entries: 430
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-25 10:37:24.255794
+------------------------------------------------------
+Started: 2024-03-25 10:44:49.494593
+Existing_entries: 430
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 143
+Summarized using GPT-3.5-turbo-1106
+Append: [Terraform Labs的民事欺诈审判将于周一在曼哈顿举行，Do Kwon将不会出席庭审](https://www.panewslab.com/zh/sqarticledetails/t75wqf87.html)
+append_entries: 1
+Finish: 2024-03-25 10:44:54.573658
