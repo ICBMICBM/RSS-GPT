@@ -4,6 +4,74 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>重新思考PBS的市场结构与ePBS的改进设计</title>
+<link>https://www.panewslab.com/zh/articledetails/1s8lss3dg37n.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/1s8lss3dg37n.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章讨论了重新考虑PBS的市场结构，提出了分配机制和市场结构的问题。作者讨论了ePBS的提案以及验证者作为提议者的挑战。他们探讨了验证者是否适合成为默认的提议者，并考虑了验证者-提议者-分离市场结构。最后，文章提出了执行票证作为验证者和提议者分离的可能解决方案。文章深入讨论了这些问题，提出了对市场结构和分配机制的深思熟虑。 <div>
+<p><strong>原文标题：《Reconsidering the market structure of PBS》</strong></p>
+<p><strong>撰文：Barnabé Monnot，Robust Incentives Group 研究员</strong></p>
+<p><strong>编译：Tia，Techub News</strong></p>
+<p>在当前的交易市场中，区块提议者通过查看内存池中哪些交易支付最高优先级费用来直接选择将哪些交易包含在下一个区块中。这使得区块提议者能够使用复杂的策略来选择包含哪些交易，甚至包含自己的交易，以利用 MEV 来实现利润最大化。</p>
+<p>提案者构建者分离（Proposer-Builder Separation，PBS）通过将区块构建角色与区块提案角色分开来解决这个问题。称为构建者的单独一类参与者构建执行区块（本质上是成为块的主要 payload 的有序交易列表），并提交出价。提议者的工作只是接受出价最高的执行区块。</p>
+<p>距离我上次写 PBS 已经有一段时间了，看到最近几个月关于 PBS 的相关进展，我觉得这是再次讨论 PBS 的好时机。在此，我更多表达的是一些尚未结构化的思考，不是非常清晰但也足够讨论了。</p>
+<p><img alt="重新思考PBS的市场结构与ePBS的改进设计" height="610" src="https://cdn-img.panewslab.com/panews/images/Ci7bmkEDwz.png" style="display: block; margin-left: auto; margin-right: auto;" width="978" /></p>
+<h3>ePBS 回来了</h3>
+<p>最近关于 ePBS 的提案（<u><a href="https://ethresear.ch/t/epbs-design-constraints/18728?u=barnabe" rel="nofollow">Potuz</a></u>,<u><a href="https://ethresear.ch/t/minimal-epbs-beacon-chain-changes/18653?u=barnabe" rel="nofollow">Terence</a></u><u>）</u>正在寻求 MEV-Boost 的支持，在此引起了关于「PBS 是做什么的」的讨论。</p>
+<p>为了让接下来的讨论更据框架性，我将把 PBS 的组成部分拆分成两部分：</p>
+<ol start="1">
+<li>
+<p>市场结构：如今的想法是将验证者的角色进行拆分，将其拆分为提议者和构建者，并将这两个拆分了的角色进行交换，就像 Potuz 的文章《<a href="https://ethresear.ch/t/epbs-design-constraints/18728?u=barnabe" rel="nofollow">ePBS 的设计限制</a>》中想满足的那样。</p>
+</li>
+<li>
+<p>分配机制：PBS 定义了提议者和第三方可以进入的空间。如今，使用 MEV-Boost，提议者放弃了执行 payloads 的权利。</p>
+</li>
+</ol>
+<p>我认为运用像 ePBS 这样的特殊分配机制可能是很危险的，我们很可能让验证者执行可编程的公平交易，尽最大可能让验证者作为提议者的角色进入委员会，在这篇文章，我将对此进行深入探讨，并对验证者作为提议者这一市场架构进行质疑，比如最近的<u><a href="https://ethresear.ch/t/execution-tickets/17944?u=barnabe" rel="nofollow">Execution Tickets</a></u>提议。最近提出的 ePBS 继承了 MEV-Boost 的特殊市场架构以及分配机制。市场架构决定了可能的分配机制空间，我认为一些 MEV-Boost 的限制，比如引导一个「健康的」构建者市场，也许是由于验证者作为提议者这一市场结构引起的。</p>
+<p>接下来，我会用「payload」而不是「block」来将讨论限制在 payload 的执行，本文并不会讨论验证者的职责：在 beacon 区块的发送。</p>
+<h3>提议者作为验证者的痛苦</h3>
+<p>MEV-Boost 的核心是：验证者将被给予提议执行 payload 的权利，并从这些权利中获得收益。然而，验证者希望将构建权承包出去，让其他人（一个或多个构建者）代表他们决定区块的内容。MEV-Boost 允许这样的事情发生。提议者出售其全部 payload，而构建者在投标时承诺有效 payload 内容<em>。</em>这是一种特定的分配机制，并且存在其他设计，例如<u><a href="https://mirror.xyz/0x03c29504CEcCa30B93FF5774183a1358D41fbeB1/CPYI91s98cp9zKFkanKs_qotYzw09kWvouaAa9GXBrQ" rel="nofollow">插槽或混合拍卖</a></u>，承诺使用来自特定构建者的有效 payload。</p>
+<p>在这一节点最重要的是，验证者必须继续作为 payload 提议者，他们必须签署一个与其构建无关的流程，感觉就像是协议限制。从这个意义上说，提议者的签名感觉几乎纯粹是装饰性的，是技术上的必需品。与此同时，这种技术仍然需要 MEV-Boost 核心的公平交换复杂机制。所讨论的交换是构建者承诺的输出（一个区块），与验证者的签名相对应，验证者分配构建权，同时保留自己的提议权。</p>
+<p>操作此交换的复杂性无法消除，因此某些信任假设会跟着复杂性是存在于协议外或协议内而改变。如果我们认为构建权进行分配是正确的，那么承担这种复杂性可能是值得的。通过实现这种交换，验证者成为执行 payload 的提议者，并且协议使用特定分配机制来执行交换，或者使用<u><a href="https://hackmd.io/@potuz/ry9NirU2p" rel="nofollow">Potuz 最近提出的</a></u>一项提案，「批发 PBS」，又名插槽拍卖。</p>
+<p>因此，现在的问题是决定是否为验证者作为提议者和构建者建立一种协议机制，以便彼此签订相互约束的协议，即验证者作为提议者拥有出售其构建的权利。<u><a href="https://www.youtube.com/watch?v=63juNVzd1P4" rel="nofollow">在最近的 (e)PBS 突破电话会议</a></u>中提出的一个论点是，该机制会净化该市场的供应方，即中继和构建者。对于中继来说，争论的焦点是，既然存在协议批准机制，我们现在就可以卸下弄清楚可持续中继经济学的责任了。对于构建者来说，我们现在的想法是，我们现在为进入服务提供了公平的竞争环境，因为存在一种无需信任的、协议内的方式来进行构建。</p>
+<p>我的问题是，这两种假设都没有对此产生质疑，到底是分配机制还是市场结构本身造成了我们认为的过于集中的市场。中继的存在是为了让作为提议者的验证者和构建者之间进行公平交换，在具有相同的经济机制的不同结构下，并没有迹象表明中继依旧会存在。由于分配机制其批发和现货的本质，构建者也很可能受到中心化力量的影响。因此，实施 ePBS 可以解决我们想解决的哪些问题。因此，虽然 ePBS 确实通过增加所有市场参与者的行动集改善了 MEV-Boost 的现状，但它是否使一个尚未适应的市场继续存在？相对于开发成本而言，这些改进是否值得？它们为协议设定了正确的边界了嘛？</p>
+<h3>验证者是好的提议者吗？</h3>
+<p>我们首先对市场结构进行质疑：为什么提议执行 payload 的权利首先应该默认授予验证者<em>？</em></p>
+<p><img alt="重新思考PBS的市场结构与ePBS的改进设计" height="509" src="https://cdn-img.panewslab.com/panews/images/i2x12vwGV9.jpeg" style="display: block; margin-left: auto; margin-right: auto;" width="663" /></p>
+<p>让我们尝试思考为什么验证者应该成为默认 payload 提议者的原因。抗审查可能是让验证者在执行有效payload 的构建中保持活跃的一个原因。我们希望验证者集去中心化，这是关键，这可以使 payload 在构建过程中得到运用。然而，验证者今天在使用 MEV-Boost 时完全放弃了这种能力，或者明天在使用 ePBS 时也可能完全放弃这种能力。诸如<u><a href="https://eips.ethereum.org/EIPS/eip-7547" rel="nofollow">包含列表</a></u>或衍生品（例如，<u><a href="https://www.notion.so/7def9d354f8a4ed5a0722f4eb04ca73b?pvs=21" rel="nofollow">多重性</a></u>）之类的提案可以解决这种情况，允许验证者对 payload 构建施加有约束力但不会降低约束的效率。然而，这些提案在某种程度上与分配提案权利的问题正交（orthogonal ），因为它们对碰巧拥有该权利的任何人都有约束力，无论是另一个验证者还是其他方。</p>
+<p>为什么我们关心将提议权默认赋予验证者，答案也可能是：我们关心自我构建的验证者，他们会按照他们最喜欢的顺序或按照他们的意愿构建 payload 内容，即我们希望他们保留构建权利以及提议权利。事实上，一组分散的参与者（验证者）是以轮流的方式来构建适合他们的 payload，这可以被视为一个特征。Alice 可能希望她的 payload 被公平地排序，但这里的公平是相对于 Alice 而言的，可能与 Bob 所认为的公平截然不同。在这种情况下，从验证者中删除构建的执行 payload 将是一个问题：我们将不再保证验证者可以随意构建执行 payload<em>。</em>我个人并不认为这是一个主要问题。首先，市场表明大多数验证者倾向于自己不行使该构建权，而是将构建委托给其他方。其次，虽然验证者通过自行构建来处理 payload 内容可能是好的，但在我看来，验证者并没有比其他任何人更有理由去构建「有序的 payload」（把在上一章已经解决了的审查抵抗的问题分离出来）。请注意，诸如<u><a href="https://ethresear.ch/t/mev-burn-a-simple-design/15590" rel="nofollow">MEV-Burn</a></u>之类的早期设计保留了对验证者提议权的默认分配，同时迫使他们放弃其构建权。</p>
+<h3>验证者-提议者分离（又名证明者-提议者分离，又名执行票证）</h3>
+<p>那么，如果协议决定不再默认将提议和构建 payload 的权利归属于验证者，而是通过某种机制将其分配给可能与验证者不同的其他方呢？如果验证者是一组构建 payload 的第三方实体的简单「传递」中介，那么协议只关心提议权的分配难道没有意义吗？</p>
+<p><img alt="重新思考PBS的市场结构与ePBS的改进设计" height="1360" src="https://cdn-img.panewslab.com/panews/images/wqL3i3KaJK.png" style="display: block; margin-left: auto; margin-right: auto;" width="2324" /></p>
+<p>这就是执行票（ET）的要点，无需许可的市场允许买家购买提议执行 payload 的权利。这些权利赋予票证持有者随机分配的权利，持有者可以提前了解（要决定参数的具体时间）他们的票证何时允许他们有机会提议执行 payload。</p>
+<p>然后，协议可能不再关心协议合法的验证者作为提议者和协议不合法的构建者之间构建权利的公平交换<em>。</em>持票人作为提议者对于协议来说仍然是清晰的，尽管持票人可能不会被质押。特别是，协议可能不再负责作为提议者的票证持有者和构建者之间的公平交换（如果有）：协议在出售票证时已执行其分配功能。</p>
+<p>关于执行票作为将验证者与提议者分开的市场结构的分配机制的可行性，仍然存在许多问题。我个人的观点是，如果 ET 确实不是正确的机制，那么让我们相信市场结构的正确性将使我们相信存在某种机制可以正确执行分配，无论是 ET 还是其他。</p>
+<p>我见过的质疑验证者-提议者-分离市场结构的最有力的论点来自 Quintus Kilbourn 和 Conor McMenamin 的文章「<u><a href="https://collective.flashbots.net/t/when-to-sell-your-blocks/2814?u=barnabemonnot" rel="nofollow">何时出售你的区块</a></u>」。在这里，他们区分了<em>被动垄断者</em>和<em>主动垄断者</em>。在<em>验证者即提议者</em>模型中，人们可能会认为验证者是一个被动的垄断者，他只是听取构建者对构建 payload 的权利的出价。在<em>验证者-提议者-分离</em>模型中，例如由 ET 执行的那样，持票人将成为<em>主动垄断者</em>，根据 Quintus 和 Conor 的说法，他「无法被规避，因此需要做支付一些费用才能被纳入区块（<u><a href="https://arxiv.org/abs/2311.12731" rel="nofollow">垄断定价</a></u>）和以及在资源有限的情况下进行抢跑。」</p>
+<p>昆图斯和康纳进一步指出：</p>
+<blockquote>
+<p>主动垄断者和被动垄断者之间的区别并不存在一个理性模型。这种区别更多地源自验证者观察到的行为。从长远来看，验证者可能会作为积极垄断者并采取理性行动。另一方面，外部声誉问题可能会阻止这种情况的发生。</p>
+</blockquote>
+<p>换句话说，如果验证者从长远来看倾向于理性，那么作为提议者的验证者和作为提议者的持票人之间的差异可能不会保持很大。这种理性趋势的加速主义论证已经在实践中得到确立，但验证者所拥有的基本属性是否会阻止他们完全成为主动垄断者？在我看来，这仍然是一个悬而未决的问题，我最近尝试在<u><a href="https://ethresear.ch/t/unbundling-staking-towards-rainbow-staking/18683?u=barnabe" rel="nofollow">彩虹质押框架</a></u>下进一步分解验证者的角色，从而解决了这个问题。如果验证者可能体现的不同角色之间不存在互补性（作为证明者、作为审查抵制生产者、作为 payload 生产者），那么就有一个更强有力的论据来解释为什么验证者本质上没有任何东西可以阻止他们走向主动垄断，以及为什么将这些角色进行分拆可能是一个好主意。</p>
+<h3>结论</h3>
+<p>当在验证者-提议者分离的世界中，协议招募的提议者可以再次将构建的角色委托给另一个实体，即构建者（如果提议者使用不同的分配机制，如部分区块拍卖<em>）</em>时，存在一种分形构造。所以总的来说，当我们谈论市场结构或分配机制时，我们需要明确我们感兴趣的是哪个市场：分配提案<em>权的市场，还是分配构建权的</em>市场？</p>
+<p><img alt="重新思考PBS的市场结构与ePBS的改进设计" height="656" src="https://cdn-img.panewslab.com/panews/images/r9N9loi72r.png" style="display: block; margin-left: auto; margin-right: auto;" width="2396" /></p>
+<p>我认为，与其他选择（例如更广泛的执行票证和验证者-提议者分离）相比，应该全面考虑实施 ePBS。ePBS 确实改进了当前 MEV-Boost 市场的某些方面，例如提供对无需信任路径的访问，并使我们能够采用不同的机制（例如插槽拍卖）。然而，ePBS 主要关注的是构建权的分配，也许这不是协议应该关心的问题。分配提议权可能就足够了。</p>
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 14:00:37 +0800</pubDate>
+<pubDate>Mon, 25 Mar 2024 14:00:37 +0800</pubDate>
+</item>
+<item>
+<title>Kevin Hart将其以79.5 ETH购入的Ape #9258以13.26 ETH售出</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/37iniphj.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/37iniphj.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：这些信息是消极的。根据链上数据显示，美国喜剧演员Kevin Hart在Blur上以低于购入价值的价格出售了他持有的NFT，这可能导致他遭受了财务损失。Kevin Hart以13.26 ETH售出Ape #9258，而购入该NFT的成本为79.5 ETH。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月25日消息，链上数据显示，8小时前，美国喜剧演员Kevin Hart已将其持有的Ape #9258以13.26 ETH (约合4.5万美元)在Blur上售出。而Kevin Hart此前购入该NFT的成本为79.5 ETH。</p>
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 13:57:46 +0800</pubDate>
+<pubDate>Mon, 25 Mar 2024 13:57:46 +0800</pubDate>
+</item>
 
 <item>
 <title>Bankless：一览2024年12个最热门的加密叙事</title>
