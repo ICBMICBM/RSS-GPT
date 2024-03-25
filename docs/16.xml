@@ -5,17 +5,61 @@
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
 <item>
+<title>Solana 热潮下的必备利器：四大 Solana TG 交易机器人</title>
+<link>https://mp.weixin.qq.com/s/kh4I67MnoyCh4zTHomXDtA</link>
+<guid>https://mp.weixin.qq.com/s/kh4I67MnoyCh4zTHomXDtA</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了Solana链上的四款热门TG Trading Bot，包括BonkBot、Sol Trading Bot、Trojan on Solana和Pepe Boost。每个机器人都有不同的交易手续费、推荐机制和特点，如抗Mev交易、代币功能和界面支持。它们在Solana链上交易量和手续费收入上表现出色，为Meme交易者提供了必备工具。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>上周，Solana Memecoin 大爆发，出现多个超过一亿市值的现象级 Memecoin，Solana 链上异常拥塞，许多网页前端手动交易更新不及时，Solana 钱包应用又大多无法调整 Gas Fee，许多交易皆以失败收场，TG Trading Bot 成为 Meme 交易者的必需品。Dr. DODO 撰文介绍了四款 Solana 链上的热门 TG Trading Bot。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/kh4I67MnoyCh4zTHomXDtA">https://mp.weixin.qq.com/s/kh4I67MnoyCh4zTHomXDtA</a></p>
+<p><strong>文章作者：</strong></p><p>dt</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>dt：</strong>BonkBot：交易手续费：1%；推荐机制：首月赚取交易手续费的 30%，第二个月赚取 20%，永远赚取 10%；是否有代币：无，且明确表示不会发币，将持续赋能 BONK。BonkBot 是 Bonk 社区制作的 TG 交易机器人，也是目前 Solana TG Trading Bot 中交易量第一的机器人。以其简洁的使用界面为特色，具备抗 Mev 交易、调整 Gas Fee 等功能。最高峰 3/18 单日交易量突破 250M，单日手续费收入达 1.4M 美元。目前数据回落，平均每日交易量约 50M。
+
+Sol Trading Bot：交易手续费：1%，部分代币免费用（MYRO, BONK, WIF, JUP, WEN）；推荐机制：交易手续费的 30%；是否有代币：有，STBOT，但目前代币无赋能。Sol Trading Bot 与其他机器人最大不同在于提供狙击代币功能，以及 DCA 定投、限价订单等较复杂的订单功能，还有新币新池子监控等，功能多元。交易数据方面仅次于 BonkBot，排名第二。3/18 高峰期单日交易量突破 143M，单日手续费收入突破 1.4M 美元。目前交易量与 Trojan 旗鼓相当，每日约 20M。
+
+Trojan on Solana：交易手续费：1%，通过推荐加入者 0.9%；推荐机制：阶层分级机制，一周内交易量超过 1 万美元将获得被推荐者交易手续费 35%；是否有代币：无，但表示未来会发币。Trojan 前身是 Unibot on Solana，由前 Unibot 社区营运负责人 Reethmos 带领制作，与原团队关于利润分配以及是否发行新币存在分歧，被 Unibot 团队踢除，更名成 Trojan。交易界面与 Unibot 风格类似，具备跟单交易、DCA 定投交易等较复杂的订单形式。目前交易量排名第三，最高峰 3/18 日交易量突破 109M，单日手续费突破 1.1M 美元，目前下滑至约 20M 交易量。
+
+Pepe Boost：交易手续费：1%；推荐机制：交易手续费的 25%；是否有代币：无，且明确表示不会发币。Pepe Boost 是中文圈最多人使用的交易机器人，界面原生支持中文，在 ETH 上经营了接近半年，良好的社区声誉加上有问必答的客服让其踏足 Solana 后同样风生水起。交易数据虽不如前三者，但同样表现不俗，3/18 最高时期交易量达单日 13M，总手续收入 103K，目前交易量回调至每日约 5M。</p><a href="https://mp.weixin.qq.com/s/kh4I67MnoyCh4zTHomXDtA">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-25T10:00:48+00:00</pubDate>
+</item>
+<item>
+<title>了解 Artela：引入 EVM++，高扩展性并行 EVM Layer1</title>
+<link>https://sleepintherain.substack.com/p/artela-evmevm-layer1</link>
+<guid>https://sleepintherain.substack.com/p/artela-evmevm-layer1</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了Artela开启EVM++研发，旨在实现高扩展性和性能。Artela的并行EVM具有三个特点：并行执行、弹性计算和弹性区块空间。团队拥有大厂背景，于2023年7月完成了615万美元的种子轮融资，得到多家机构投资。<br> <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>前段时间 SEI 的大幅上涨给了市场关注和看好并行 EVM 叙事的理由，资本市场的动作同样反映出其对该叙事的关注。在此机会下，加密 KOL 雨中狂睡选择关注 Canto 和 Artela，并撰文对 Artela 进行介绍。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://sleepintherain.substack.com/p/artela-evmevm-layer1">https://sleepintherain.substack.com/p/artela-evmevm-layer1</a></p>
+<p><strong>文章作者：</strong></p><p>雨中狂睡</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>雨中狂睡：</strong>3 月 13 日，Artela 宣布开启 EVM++ 研发，对其执行层进行全面升级。之前，Artela 通过引入 WASM 虚拟机构建了一条高扩展性 EVM+ 公链。如今，Artela 希望在保持高扩展性的同时，引入并行 EVM 实现扩容特性，即 EVM++。EVM++ 代表着高扩展性 + 高性能，官方用的英文单词是 extensibility 和 scalability。Artela 的并行 EVM 有三个特点：并行执行 Parallel Execution；弹性计算 Elastic Computing（高性能）和弹性区块空间 Elastic Block Space（低费用）。
+
+团队及融资：Artela 创始人兼 CEO Jerry Li 曾在蚂蚁链、摩拜单车和苹果中国任职，其他联创都拥有大厂（蚂蚁集团、腾讯）背景。Artela 在 23 年 7 月完成了 Seed 轮 615 万融资，Shima Capital 领投，A&amp;T Capital、Big Brain Holdings、SevenX Ventures、Dispersion Capital、Amino Capital 等机构参投。</p><a href="https://sleepintherain.substack.com/p/artela-evmevm-layer1">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-25T09:42:12+00:00</pubDate>
+</item>
+<item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Polyhedra Network通过未来代币或SAFT进行简单协议的融资，获得2000万美元战略融资，估值达10亿美元。Polychain Capital领投，其他投资方包括Animoca Brands、Hashkey Capital等。所筹资金将用于团队扩大，招聘产品、工程、业务开发和营销等跨职能部门，团队人数将从50人扩大到80人。 <div>
+<div> <br><br>摘要：<br>这些信息是积极的。Polyhedra Network以10亿美元估值完成了2000万美元战略融资，由Polychain Capital领投，其他公司也参投。融资将用于扩大团队，招聘跨职能部门人员，并加速产品、工程、业务开发和营销。融资通过未来代币或SAFT简单协议进行。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
 
+<item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
+<content:encoded><![CDATA[
+<div> <br /><br />摘要：<br />这些信息是积极的。Polyhedra Network通过未来代币或SAFT进行简单协议的融资，获得2000万美元战略融资，估值达10亿美元。Polychain Capital领投，其他投资方包括Animoca Brands、Hashkey Capital等。所筹资金将用于团队扩大，招聘产品、工程、业务开发和营销等跨职能部门，团队人数将从50人扩大到80人。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
@@ -10824,16 +10868,6 @@ Solana 采用确定性并行化，注重硬件利用率和吞吐量。Sei 采用
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />这些信息是积极的。zkBridge开发商Polyhedra Network以10亿美元估值完成了2000万美元的战略融资，由Polychain Capital领投。其他投资方包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium和Mapleblock Capital。筹集的资金将用于招聘跨部门人员，将目前的50人团队扩大到80人。此轮融资是通过未来代币或SAFT简单协议进行的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成了 2000 万美元的战略融资，Polychain Capital 领投，其他投资方包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。筹得的资金将用于团队扩张和招聘跨职能部门人员。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
