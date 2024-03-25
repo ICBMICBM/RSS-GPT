@@ -4,12 +4,13 @@
 <title>Chainalysis</title>
 <link>https://www.chainalysis.com/</link>
 
+
 <item>
 <title>OFAC Sanctions Russia-based Blockchain Companies, Including Netex24 and Bitpapa, for Facilitating Sanctions Evasion</title>
 <link>https://www.chainalysis.com/blog/ofac-sanctions-russia-blockchain-companies-netex24-bitpapa/</link>
 <guid>https://www.chainalysis.com/blog/ofac-sanctions-russia-blockchain-companies-netex24-bitpapa/</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是消极的。2024年3月25日，美国财政部外国资产控制办公室对12家实体和2个个人进行制裁，因为他们帮助建立或运营基于区块链的服务，以促进俄罗斯个人可能逃避制裁。文章详细介绍了被制裁的实体和个人的活动，包括Netex24和Bitpapa。链分析显示，Netex24和Bitpapa向被制裁的实体和暗网市场发送了大量资金，并在乌克兰地区的一些组织进行了交易。美国财政部一直在努力打击基于俄罗斯的加密犯罪，这些努力包括对涉及俄罗斯银行的加密企业进行制裁。 <div>
+<div> <br /><br />摘要：<br />这些信息是消极的。2024年3月25日，美国财政部外国资产控制办公室对12家实体和2个个人进行制裁，因为他们帮助建立或运营基于区块链的服务，以促进俄罗斯个人可能逃避制裁。文章详细介绍了被制裁的实体和个人的活动，包括Netex24和Bitpapa。链分析显示，Netex24和Bitpapa向被制裁的实体和暗网市场发送了大量资金，并在乌克兰地区的一些组织进行了交易。美国财政部一直在努力打击基于俄罗斯的加密犯罪，这些努力包括对涉及俄罗斯银行的加密企业进行制裁。 <div>
 <p><span style="font-weight: 400;">On March 25, 2024, the United States Department of the Treasury’s Office of Foreign Assets Control (OFAC) </span><a href="https://home.treasury.gov/news/press-releases/jy2204"><span style="font-weight: 400;">sanctioned</span></a><span style="font-weight: 400;"> twelve entities and two individuals for helping to build or operate blockchain-based services to facilitate potential sanctions evasion on behalf of Russian nationals. Five of these entities were operated by OFAC-designated individuals. </span></p>
 <p><span style="font-weight: 400;">In this blog, we’ll explore the activities of these entities, including an on-chain analysis of addresses we identified as associated with two of the businesses sanctioned: Netex24 and Bitpapa. </span></p>
 <h2><span style="font-weight: 400;">Who are the sanctioned entities and individuals and what did they do? </span></h2>
@@ -84,9 +85,7 @@
 <p>The post <a href="https://www.chainalysis.com/blog/ofac-sanctions-russia-blockchain-companies-netex24-bitpapa/">OFAC Sanctions Russia-based Blockchain Companies, Including Netex24 and Bitpapa, for Facilitating Sanctions Evasion</a> appeared first on <a href="https://www.chainalysis.com">Chainalysis</a>.</p>
 ]]></content:encoded>
 <pubDate>Mon, 25 Mar 2024 22:02:26 +0000</pubDate>
-<pubDate>Mon, 25 Mar 2024 22:02:26 +0000</pubDate>
 </item>
-
 <item>
 <title>Asset Tokenization Explained: Benefits, Risks, and How It Can Work</title>
 <link>https://www.chainalysis.com/blog/asset-tokenization-explained/</link>
