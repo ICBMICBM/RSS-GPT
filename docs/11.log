@@ -8823,3 +8823,12 @@ Existing_entries: 192
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-25 16:44:37.652427
+------------------------------------------------------
+Started: 2024-03-25 16:52:03.142951
+Existing_entries: 192
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 10
+Summarized using GPT-3.5-turbo-1106
+Append: [Record $1B Exited Crypto Funds Last Week: CoinShares](https://www.coindesk.com/markets/2024/03/25/record-1b-exited-crypto-funds-last-week-coinshares/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-25 16:52:06.937231
