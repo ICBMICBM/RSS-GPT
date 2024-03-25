@@ -9973,3 +9973,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [马斯克询问Vitalik为何离开X平台](https://www.panewslab.com/zh/sqarticledetails/83p84kc6.html)
 append_entries: 1
 Finish: 2024-03-25 08:58:39.325924
+------------------------------------------------------
+Started: 2024-03-25 09:14:14.349441
+Existing_entries: 425
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 201
+Summarized using GPT-3.5-turbo-1106
+Append: [尼日利亚指控币安逃税，且被拘留的两名币安高管之一已“越狱”](https://www.panewslab.com/zh/sqarticledetails/a4qk7jj9.html)
+Token length: 1464
+Summarized using GPT-3.5-turbo-1106
+Append: [上线数日跻身头部NFT，浅谈符石的愿景与创新](https://www.panewslab.com/zh/articledetails/ccrict72.html)
+append_entries: 2
+Finish: 2024-03-25 09:14:26.753034
