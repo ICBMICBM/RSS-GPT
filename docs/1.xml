@@ -4,6 +4,140 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>Dragonfly 2023年加密行业薪酬报告：股权、Token 和稳定币多种薪酬支付方式并行</title>
+<link>https://www.panewslab.com/zh/articledetails/z52u24yx.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/z52u24yx.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>1. 美国公司提供的薪酬高于国际公司。<br>2. 创始人薪酬随融资次数增多而增加，股权/代币所有权随之降低。<br>3. 大多数公司不会根据生活成本调整薪酬，但这种情况正在改善。<br>4. 大多数公司以法币支付工资，而国际公司在加密支付方面更领先。<br>5. 国际公司比美国公司更有可能发行代币。 <div>
+<p>原文作者：Zack Skelly、Chris Ahsing，Dragonfly</p>
+<p>原文编译：Meteor，ChainCatcher</p>
+<p>编者按：加密行业发展迅速，但薪酬似乎对大多用户来说似乎一直是个谜，无外乎是因为加密行业的复杂金融属性，薪酬不仅是个人工资的发放，或还包括代币奖励、股权奖励等多种方式，Dragonfly 编写了 2023 年加密领域薪酬报告，数据基于 49 家加密公司，统计维度包括薪资、股权和代币薪资范围、创始人薪资、生活成本（COL）调整薪资、支付方式、代币发行、股权 / 代币计算方法等。</p>
+<p>更清晰的薪酬报告可以帮助更多人对Web3产生兴趣，也能侧面为大家展示加密领域的竞争格局和发展方向。ChainCatcher 整理并编译了该报告如下（原文分 9 部分，整理为 8 部分）：</p>
+<h3>美国公司提供的薪酬高于国际（非美国）公司</h3>
+<p>与国际公司相比，美国公司在几乎所有同职位和资历级别都提供更高的薪酬。平均而言，美国公司工资多出 13%，股权和代币薪酬上涨 30%。</p>
+<p>与其他职位相比，国际公司的产品设计师的股权和代币薪酬更符合美国公司的情况；</p>
+<p>国际公司的产品经理职位在所有职位中的股权薪酬普遍较高；</p>
+<p>与美国公司的职位相比，国际公司的 GTM 职位在高管/董事级别中的薪酬和股权更高；</p>
+<h3>在种子轮和 A 轮融资的公司中，美国公司创始人的薪水略高，股权 / 代币所有权也多</h3>
+<p><img alt="Dragonfly 2023年加密行业薪酬报告：股权、Token 和稳定币多种薪酬支付方式并行" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/2167e6f0190bc1ab7fa16327ac7d6fdb.webp" /></p>
+<p>随着公司进行更多次融资，如上图所示，创始人的薪水增加，而股权/代币所有权会随之降低，原因大概是由于股权稀释。大多数创始人报告的 B 轮薪酬低于中位数。</p>
+<p><img alt="Dragonfly 2023年加密行业薪酬报告：股权、Token 和稳定币多种薪酬支付方式并行" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/160422a477543abaee50408caf5e50a7.webp" /></p>
+<p>由于缺乏 Pre-seed、B 轮和 C 轮阶段的国际公司数据，很难对美国和国际公司创始人进行比较。不过，相比种子期和 A 轮融资时，美国创始人的薪酬普遍略高，但所有权更大。在种子阶段尤其如此。</p>
+<h3>大多数公司不会根据生活成本（COL）调整薪资，但随着公司的发展，这种情况正在改善</h3>
+<p><img alt="Dragonfly 2023年加密行业薪酬报告：股权、Token 和稳定币多种薪酬支付方式并行" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/73d8cdd37aaea8819843190f8f03d53d.webp" /></p>
+<p>大多数公司不会根据生活成本调整薪酬。但随着公司的发展，根据 COL 调整薪资的可能性会越来越大。</p>
+<p>目前公司进行薪酬调整会根据两种方式进行：一是根据当地市场价格进行调整，这种方式很受欢迎；二是在分层的地理框架内进行调整。公司会从特定（通常竞争激烈）地区的薪酬基准开始，并根据地理层级（主要市区的半径制定）按一定比例调整每个人的薪酬，旨在平衡地区的内部薪酬公平与外部竞争力。</p>
+<p>出于对世界不同地区整体购买力的公平考虑，团队也可能决定不进行 COL 调整；对于没有进行调整的公司，通常公司员工的薪酬与其为企业创造的价值相关，多劳多得，这类公司在招聘速度和吸引人才方面很具竞争优势。</p>
+<p>但这种现状也正在改善，假设未来将看到更多的解决办法，比如公司将从生活成本调整转向劳动力成本调整。生活成本是根据所在地区的费率调整薪酬，而劳动力成本是根据所在地区的职位需求调整薪酬。目前还没有足够的行业数据进行劳动力成本调整（尤其是在 crypto 领域，很多地区没有职位需求），但许多薪酬专家和数据提供商正在考虑这种模式。</p>
+<p>只在国内招聘员工的美国公司不太可能根据 COL 进行调整，对于在国际上招聘的美国公司来说，一半进行调整，一半不进行调整。所有国际公司都在美国外招聘员工，大多数公司都不会根据 COL 的情况进行薪酬调整。</p>
+<p>处于融资的后期阶段的公司往往会减少在美国以外地区的招聘。然而，这项分析中的大多数受访者都来自美国。</p>
+<h3>大多数情况下，公司以法币向员工支付工资。国际公司在加密货币支付方面处于领先地位</h3>
+<p><img alt="Dragonfly 2023年加密行业薪酬报告：股权、Token 和稳定币多种薪酬支付方式并行" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/c586eddb411247e3186044e12fa72c0c.webp" /></p>
+<p>大多数情况下，公司都会采用法币支付。国际公司在加密支付方面处于领先地位（如USDC），总部位于美国的公司更有可能通过 crypto 承包商而不是直接发给员工。</p>
+<p>大多公司通常使用 crypto 进行国际支付，以简化跨境交易、减轻汇率波动和/或利用某些司法管辖区的税收考虑。对于在银行基础设施有限或需要隐私的地区拥有员工的团队来说，这种方法也很有用，例如拥有匿名贡献者的公司。</p>
+<p>随着加密法规以及付费员工和承包商之间的法律区别的发展，全球薪资提供商（如 Liquifi）正在通过将合规性纳入其服务并在本地支持加密交易来简化采用过程。</p>
+<h3>国际公司比美国公司更有可能发行代币</h3>
+<p><img alt="Dragonfly 2023年加密行业薪酬报告：股权、Token 和稳定币多种薪酬支付方式并行" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/7201bd19acb58ac87a74cb5ec081dbcd.webp" /></p>
+<p>国际公司更有可能发行代币，已有代币或计划发行代币的比例更高。总部位于美国的公司（或鉴于监管环境），更多团队选择完全不发行代币。</p>
+<h3>基础设施公司最有可能发行代币</h3>
+<p><img alt="Dragonfly 2023年加密行业薪酬报告：股权、Token 和稳定币多种薪酬支付方式并行" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/d31e445f8cbe8b27d14f7bbf096e085e.webp" /></p>
+<p>总体而言，基础设施公司在代币采用方面处领先地位，超过四分之三的公司已有或计划发行代币。这些公司可能会使用代币作为基础货币（尤其是 L1 和 L2）。游戏类公司也会发行代币，因游戏原生代币在游戏内资产、代币、奖励、激励以及治理方面越来越重要。DeFi 领域也会发行代币，代币是其治理、质押和奖励模式不可或缺的一部分。专注于消费者的公司通常会将代币整合到更传统的商业模式中，“其他”类别公司具有很大的不确定性。</p>
+<p>尽管数据上表明，随着公司在融资规模、阶段和公司规模的发展，它们更有可能计划和推出代币，但这些因素并不是决定发行代币的主要原因。</p>
+<p><img alt="Dragonfly 2023年加密行业薪酬报告：股权、Token 和稳定币多种薪酬支付方式并行" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/f3a143ebcfe32e27c355e7257b290def.webp" /></p>
+<p>小型初创公司，尤其是处于种子轮期间且拥有 190 万至 490 万美元资金的初创公司，对代币化很感兴趣，但很少有公司这么早就会发行代币。随着公司员工的增加和获得更多资金，在A轮和B轮中会表现出明显的发币计划。</p>
+<p>融资规模在 2000 万至 4000 万美元之间的公司是个例外，因为它们有着代币发行计划，但没有一家公司发行过代币。</p>
+<p>对于资金超过 4000 万美元、员工超过 100 人的大公司来说，发行代币的比例要高得多。一般到了 C 轮融资阶段就会出现明确的发币计划，并思考代币如何适用于已经成熟的产品，或者考虑在新项目/风险投资中使用代币。</p>
+<p>75% 融资超过 4000万 美元的公司（报道中最高的融资级别）专注于基础设施开发，这部分公司本质上需要大量资本，并经常在其产品中集成代币。</p>
+<h3>近一半的公司只支付股权</h3>
+<p><img alt="Dragonfly 2023年加密行业薪酬报告：股权、Token 和稳定币多种薪酬支付方式并行" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/ce51bcce0707b30e80102532c5c2ccf1.webp" /></p>
+<p>公司通常提供薪酬是股权、代币或两者的某种组合。在计划薪酬或评估报价时，对创始人和员工来说，考虑公司如何以及在哪里积累价值至关重要，无论是代币还是股权。</p>
+<p>将近一半的公司只支付股权。不过大多数表示未来可能推出代币的公司只提供股权，所有目前拥有代币的项目都提供代币作为薪酬的一部分。</p>
+<p>一定比例的美国和国际公司提供股权和代币的组合作为薪酬；其偏好有所不同：更多的美国公司只提供股权，更多的国际公司只提供代币（总体而言，国际公司似乎更倾向于代币)。</p>
+<p>很多报告数据显示，随着时间推移越来越少的公司提供代币红利。</p>
+<p><img alt="Dragonfly 2023年加密行业薪酬报告：股权、Token 和稳定币多种薪酬支付方式并行" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/c6dd73362637321d46147e0cc7de79d2.webp" /></p>
+<p>尽管基础设施公司最有可能已有或计划发行代币，但大多数基础设施公司仅发行股权，而非仅发行代币或两者兼有。</p>
+<p>DeFi 领域也遵循类似的趋势，但其薪酬模式更加平衡。</p>
+<p>游戏公司表现出对提供股权和代币的强烈偏好，值得注意的是，没有游戏公司只提供代币。</p>
+<p>所有消费者和“其他”公司要么不确定是否会发行代币，要么最终不打算发行代币，因此大部分公司只提供股权。</p>
+<p>在考虑融资、公司阶段和公司规模时，早期初创企业大量使用股权，随着公司继续筹集更多实质性种子轮资金，薪酬策略也变得多样。</p>
+<p><img alt="Dragonfly 2023年加密行业薪酬报告：股权、Token 和稳定币多种薪酬支付方式并行" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/7682a0abb2ae4fdaaf4acc01e6bc33e0.webp" /></p>
+<p>在 Pre-seed 阶段，我们看到公司只提供股权（所有接受调查的 Pre-seed 轮公司还未确定是否推出代币）。</p>
+<p>少数筹集了 190 万至 490 万美元种子期资金的公司仍以股权为主。</p>
+<p>融资 500 万至 1990 万美元的公司通常仍处于种子轮阶段，员工超过 10 人。越来越多的此类公司开始提供代币薪酬，并开始更频繁地提供股权和代币的混合薪酬。其次，随着员工数量的增加，公司通常更有可能同时提供股权和代币。</p>
+<h3>大多数公司使用“代币百分比”方法来计算代币价格，更多公司在后期融资阶段使用基于市场价值（FMV）的方法</h3>
+<p><img alt="Dragonfly 2023年加密行业薪酬报告：股权、Token 和稳定币多种薪酬支付方式并行" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/3e6d7bdac9664e0b5c45bab37db5e233.webp" /></p>
+<p>目前大多数团队更喜欢也是最常见的方法: 拥有代币的团队采用基于市场价值（FMV）的方法，首先确定向员工提供的总美元价值。然后，根据计算、授予或归属时的公平市价计算要授予的代币数量，但或因代币波动，这类方法缺少稳定性。</p>
+<p>没有代币的团队最常见的方式是根据股权分配比例提供未来代币。另一种方法是对代币的完全稀释价值进行市值计算，该价值由获得未来代币股权的风投公司确定。鉴于风投的代币价格是固定的，这为薪酬提供了一个公平的基础，直到代币公开发行。</p>
+<p>代币百分比方法试图模拟传统初创公司如何计算基于股权的奖励。这种方式考虑到市场波动并减轻员工薪酬不平等，同时最大限度地减少不必要的代币稀释并保护员工薪酬的公平权益。 </p>
+<p>有效的代币百分比方法可以采用与股权相同的方式，并根据特定于代币的波动进行调整，最终授予固定代币池的百分比。</p>
+<p>目前来看，大多公司都会采用基于市值的薪酬方法，美国公司更倾向于使用“代币百分比”的薪酬方法。</p>
+<p>“其他”方法可能包括年度奖金、基于绩效奖金的结构、采用股权和代币之间的浮动比例以及其他。 </p>
+<p><img alt="Dragonfly 2023年加密行业薪酬报告：股权、Token 和稳定币多种薪酬支付方式并行" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/0a577b0262986f5864cef464ed9eff00.webp" /></p>
+<p>游戏和“其他”公司更有可能使用“代币百分比”方法，而基础设施更有倾向使用基于市值的方法。</p>
+<p><img alt="Dragonfly 2023年加密行业薪酬报告：股权、Token 和稳定币多种薪酬支付方式并行" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/3944abcc9581e0a9c1482ca173349d2a.webp" /></p>
+<p>更多公司在后期融资阶段采用基于市值的方法，因其筹集了更多资金。种子轮公司和融资额不超过 4000 万美元的公司主要使用代币百分比法。从 A 轮开始，基于市值的计算变得更受欢迎，尤其是在拥有 21-50 名员工的公司中，在 B 轮和拥有 100 多名员工的公司中更为常见。融资超过 4000 万美元的公司倾向于使用基于市值的计算和其他不太明确的方法的平衡组合。</p>
+<p>最后，该分析报告基于 2023 年对 49 家投资组合公司进行的调查结果而出。基于现有数据并反映趋势而不是确定的行业标准，这份报告具指示性而非结论性。</p>
+<p>希望这份报告能清晰地展现行业趋势，让任何设定、谈判或试图了解薪酬的人都能了解这些，无论是招聘团队、求职者还是行业观察人士。</p>
+<p>原文链接</p>
+<p> </p>
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 16:33:12 +0800</pubDate>
+<pubDate>Mon, 25 Mar 2024 16:33:12 +0800</pubDate>
+</item>
+<item>
+<title>较大空投预期：融资1800万美元，手把手带你参与Mystiko积分活动</title>
+<link>https://www.panewslab.com/zh/articledetails/298799cf.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/298799cf.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Mystiko.Network是Web3的基础设施层，提供通用ZK协议和软件开发工具包。他们完成了1800万美元种子轮融资，目前在Galxe上线多项任务。用户可以通过完成任务来获得积分，有大量空投预期。任务包括链上充值、社交类任务和推荐任务。链上充值交互有不同链和次数的选择，用户根据偏好进行交互选择。完成任务后，用户可能会获得一些福利。 <div>
+<p>原创｜Odaily星球日报</p>
+<p>作者｜Kate</p>
+<p>Mystiko.Network 是 Web3 的一个基础设施层，提供通用 ZK 协议和 ZK 软件开发工具包，同时具有可扩展性、互操作性和隐私性，产品可以集成到所有 L1、L2、钱包、跨链桥接器、DEX 和 dApp。Mystiko致力于保护每个人的链上隐私，并在Web3中建立健康的金融隐私环境。</p>
+<p>今年 3 月，Mystiko.Network 宣布完成 1800 万美元种子轮融资，Sequoia Capital India/SEA（现称为 Peak XV Partners）领投，Samsung Next、HashKey、Mirana、Signum、Coinlist、 Naval Ravikant、Sandeep Nailwal、Gokul Rajaram、Tribe Capital、Morningstar Ventures 等参投。</p>
+<p>目前，Mystiko 已在 Galxe上线多项任务，用户完成任务可以获得积分（Points），有较大空投预期。<strong>Odaily星球日报带大家手把手参与Mystiko 交互。</strong></p>
+<p><img alt="较大空投预期：融资1800万美元，手把手带你参与Mystiko积分活动" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/c6d84d4a48a493a60e839150a7c9bb96.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h3>Galxe 任务</h3>
+<p>用户首先需要用钱包登陆自己的Galxe账户，根据任务地址进入Mystiko Network界面，任务地址：https://galxe.com/mystikonetwork</p>
+<h4><strong>链上充值任务</strong></h4>
+<p><img alt="较大空投预期：融资1800万美元，手把手带你参与Mystiko积分活动" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/bf14b4b8b1ae3c10cc3e1d0938ae134f.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Mystiko 链上充值交互有两种选择：一个是 BNB/Polygon/Avalance/Base 链，另一个是以太坊链。<strong>选择不同链和不同交互次数对应的积分也不同：</strong>选择 BNB/Polygon/Avalance/Base 链做交互，交互 1、5、10、20 次对应的积分值分别为：10 分，40 分，50 分，60 分。</p>
+<p><img alt="较大空投预期：融资1800万美元，手把手带你参与Mystiko积分活动" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/0484105c58247f96b56948fba69d9132.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>选择以太坊链做交互，交互交互1、5、10、20次对应的积分值分别为：100分，150分，200分，300分。</p>
+<p><img alt="较大空投预期：融资1800万美元，手把手带你参与Mystiko积分活动" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/a8feb09b7ec9ee49363e6eb7678ea72f.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>大家可以根据自己的偏好进行交互选择。</p>
+<h4><strong>任务步骤</strong></h4>
+<p>我们以100分值等以太坊链1次充值交互为例，为大家讲解步骤。点击开此任务界面，可看到相应的任务列表如下图所示：</p>
+<p><img alt="较大空投预期：融资1800万美元，手把手带你参与Mystiko积分活动" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/839d78899b13f3479fc0b30b22e80475.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>1 完成链上充值交互</strong></p>
+<p>点击此任务，例如“mystiko加速器-ETH-1”，用户将被引导至生态钱包CAMO钱包。存款后，等待20-30分钟，然后可以返回Galxe页面进行验证。存款完成后，用户可以随时提取资金。如果存款超过5/10/20，用户还将有资格参加Galxe中同一系列中的其他活动。充值教程：https://docs.camowallet.app/</p>
+<p><img alt="较大空投预期：融资1800万美元，手把手带你参与Mystiko积分活动" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/9bbf18d2f7eae45026027e30af97c783.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img alt="较大空投预期：融资1800万美元，手把手带你参与Mystiko积分活动" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/c105d7838a84df6e43ddd31c5c5f6843.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>2 完成社交类任务</strong></p>
+<ul>
+<li><strong>转发推文并@三位好友</strong></li>
+</ul>
+<p><img alt="较大空投预期：融资1800万美元，手把手带你参与Mystiko积分活动" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/11c1693aa991a9ae2603c821ac5f07c4.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<ul>
+<li><strong>关注官方X账户@MystikoNetwork</strong></li>
+</ul>
+<p><img alt="较大空投预期：融资1800万美元，手把手带你参与Mystiko积分活动" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/a913c81ba6a01c074b3960e863d12154.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<ul>
+<li><strong>关注官方X钱包账户@WalletCamo</strong></li>
+</ul>
+<p><img alt="较大空投预期：融资1800万美元，手把手带你参与Mystiko积分活动" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/d04620edb2f3b99ea51fd39147e1feed.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<ul>
+<li><strong>加入MystikoNetwork Discord并获得member role</strong></li>
+</ul>
+<p><img alt="较大空投预期：融资1800万美元，手把手带你参与Mystiko积分活动" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/0f3323a465d37e5aed8ab13063a75b09.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>3推荐任务：推荐好友</strong></p>
+<p>将 Galxe链接分享给朋友，以获得任务中设置的推荐版税积分。有链接、二维码、X三种分享方式。</p>
+<p><img alt="较大空投预期：融资1800万美元，手把手带你参与Mystiko积分活动" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/44df249e0083cf5ae91711d0a0847df0.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>至此，用户完成了本项任务。感兴趣的可以将Mystiko 上的任务全部完成，未来或许会有福报。</p>
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 16:32:48 +0800</pubDate>
+<pubDate>Mon, 25 Mar 2024 16:32:48 +0800</pubDate>
+</item>
 
 <item>
 <title>ONDO项目方经由中间地址将433万枚ONDO充值进Bybit，价值402万美元</title>

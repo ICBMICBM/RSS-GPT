@@ -5,17 +5,48 @@
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
 <item>
+<title>【英文】解析 AVS 面临的挑战：如何确保可持续未来？</title>
+<link>https://mirror.xyz/kenton.eth/4ixe8ca9d25nLCCschjfGA5D66VNQw_kKJoLQs5U-1w</link>
+<guid>https://mirror.xyz/kenton.eth/4ixe8ca9d25nLCCschjfGA5D66VNQw_kKJoLQs5U-1w</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是消极的。文章探讨了AVS网络面临的挑战，包括移动性、奖励波动性和资源规划。同时，还提到了平衡各方需求和激励、并发AVS罚没风险以及长尾AVS风险复合等其他挑战。这些问题可能影响AVS网络的长期经济安全。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>加密研究员 Kenton 在与众多 LRT 团队、AVS 网络和运营商交谈后，撰文探讨 EigenLayer 生态系统中主动验证服务（AVS）的现状，并重点介绍了这些服务在获取经济安全方面面临的一些挑战，旨在为 AVS 网络的长期经济安全挑战提供广泛视角。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://mirror.xyz/kenton.eth/4ixe8ca9d25nLCCschjfGA5D66VNQw_kKJoLQs5U-1w">https://mirror.xyz/kenton.eth/4ixe8ca9d25nLCCschjfGA5D66VNQw_kKJoLQs5U-1w</a></p>
+<p><strong>文章作者：</strong></p><p>Kenton、Josh Levine、Steven Valeri</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Kenton Prescott（Sense Finance 联合创始人）：</strong>AVS 网络面临的三个主要挑战：
+1）Restaker、LRT（流动性再质押代币）和节点运营商的移动性：我们无法从本质上保证 Retakes 会继续再质押，LRT 将始终委托给特定 AVS，或运营商将继续支持特定 AVS，而无需链下协议。我们希望 LRT 能经常重新评估其 AVS 分配策略，并确保其份额获得最高的风险调整回报。缺乏承诺可能会使 AVS 难以维持稳定的经济安全水平。
+2）AVS 奖励波动性：再质押奖励可能会以 AVS 原生代币或一些「积分」变体的形式提供 —— 我们将这些奖励称为 $AVS。早期，$AVS 的价值将具有高度投机性和波动性，很难确保长期经济安全。在 AVS 能证明其效用和吸引力之前，$AVS 可能会受到投机的支撑，并且必须抵抗持续的抛售压力。
+3）AVS 资源规划：AVS 在资源规划方面面临不确定性。确定适当的经济安全水平并不简单，将取决于其独特的 PfC。 例如，桥接协议的 PfC 可能受其流动性池 TVL 的约束，而预言机网络的 PfC 则受其预言机保护的总价值的约束，这可能会触及外部 DeFi 协议。对于共享排序器和 RAAS 平台等新网络类型来说，这种不确定性尤其严重。
+
+其他挑战：
+1）平衡各方的需求 / 激励：AVS 必须确定合适的运营商来构建，并确保声誉良好的运营商能够轻松运行其验证器。合适的 LRT 也很重要，因为 AVS 必须确定哪些 LRT 重视非 ETH 收益激励，并评估哪些 LRT 能正确评估其带来的风险。无法评估风险的 LRT 可能会要求不合理的更高收益作为回报。
+2）并发 AVS 罚没风险：通过混用风险和安全 AVS 来共享安全性的 Restakers 可能会无意中危及安全 AVS 的安全性。风险在于，由低级运营商管理的低级 AVS 会罚没蓝筹 AVS 的质押，破坏其安全性并使其面临后续攻击。假设安全 AVS 的 PfC（如大型 DeFi 协议的 TVL 或预言机操纵的回报）对经济安全性的变化反应不够迅速，AVS 就会面临被攻击或操纵的风险，从而进一步加剧后续相邻罚没的风险。
+3）长尾 AVS 风险复合：知名运营商和 LRT 可能更愿意只支持符合标准、高收益的 AVS，从而将长尾 AVS 留给更高风险的运营商和更低的质押份额。长尾 AVS 最终可能会更多地与风险最大的 AVS 有共同的风险敞口，使其最容易受到经济安全挑战的影响。【原文为英文】</p><a href="https://mirror.xyz/kenton.eth/4ixe8ca9d25nLCCschjfGA5D66VNQw_kKJoLQs5U-1w">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-25T08:13:46+00:00</pubDate>
+</item>
+<item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，估值达到 10 亿美元。本轮融资由 Polychain Capital 领投，其他投资者包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。资金将用于团队扩张和各部门招聘。 <div>
+<div> <br><br>摘要：<br>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成了 2000 万美元的战略融资，总估值达到 10 亿美元。融资由 Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。公司将利用所筹资金扩大团队规模，招募更多人才，并加强产品、工程、业务开发和营销等跨职能部门。当前公司团队规模约为50人，计划扩大至80人。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
 
+<item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
+<content:encoded><![CDATA[
+<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，估值达到 10 亿美元。本轮融资由 Polychain Capital 领投，其他投资者包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。资金将用于团队扩张和各部门招聘。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
@@ -10809,16 +10840,6 @@ Solana 采用确定性并行化，注重硬件利用率和吞吐量。Sei 采用
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，估值达10亿美元。新融资将用于团队扩张至80人，招聘产品、工程、业务开发和营销等跨职能部门。融资通过未来代币或SAFT进行，参投方包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成了 2000 万美元战略融资，估值达到 10 亿美元。投资方包括 Polychain Capital、Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等。资金将用于招募新员工，扩大团队规模，并推动产品、工程、业务开发和营销等方面的发展。offsetof <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
