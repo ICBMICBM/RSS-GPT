@@ -4,6 +4,231 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>Web3公共物品生态研究报告：概念意义、存在价值及生态展望</title>
+<link>https://www.panewslab.com/zh/articledetails/5fdjkjwj.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/5fdjkjwj.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章首先介绍了传统经济学中对公共物品的定义，然后探讨了Web3时代对公共物品的重新定义，包括边际回报递增和正外部性的重要性。作者还提及了帕累托最优的概念，解释了公共物品对Web3的意义，如提供去信任化和免许可访问。此外，收入邪恶曲线被用来评估公共物品的商业化对其正外部性的影响。最后，对当前Web3公共物品生态进行展望，讨论了公共物品的可持续性实现路径和存在的挑战。 <div>
+<p>作者：白丁，极客web3</p>
+<p><strong>摘要：</strong></p>
+<p>·在传统的西方经济学理论中，公共物品需要具备非排他性和非竞争性。排他性是指，某物品不利于被许多人同时使用；竞争性是指，某物品被人用过后，其他人能使用的该物品数量与质量下滑（被消耗）。</p>
+<p>·除了非排他性和非竞争性，公共物品还应具备<strong>正外部性</strong>。所谓正外部性，就是指某物品给群众带来了益处，但未收取等价的费用。</p>
+<p>·<strong>关于公共物品判定理论，Vitalik提出过“收入-邪恶曲线”，用来衡量一样公共物品商业化/货币化之后，会对其正外部性带来多大伤害。</strong>依照该理论，最需要获取捐赠的公共物品是免费的开源软件，最不需要捐赠的是普通商品卖家；</p>
+<p>·其实，<strong>公共物品捐赠最大的目的，是为了尽可能实现“帕累托最优”，</strong>在这种状态下，社会整体或行业整体的利益得到最大化。而要促成该状态，有必要对公共物品的供给者进行适度捐赠，或允许其适度货币化/商业化，这可以让供给者与需求者的利益达成最大程度的共赢。</p>
+<p>·<strong>在Web2中打造一个产品，一定是通过产品、数据、技术等建立壁垒，使其获取较高的排他性和竞争性。</strong>而Web3的产品逻辑是完全相反的，一定要与用户的连接足够强才能使产品更具优势，所以一定要<strong>具有足够的非排他性和非竞争性，也就是说，开源的公共物品会催生Web3产品的新商业模式，主旨是开放而非封闭。</strong></p>
+<p><img alt="Web3公共物品生态研究报告：概念意义、存在价值及生态展望" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/c415de20a7562123f0f816106ab67809.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>正文：</strong>公共物品或public goods，是西⽅经济学中有关社会及市场整体福利的经典概念。从宏观角度看，区块链带来了新的⽣产关系，此时的“公共物品”会拥有在传统经济学中本不具备的意义；从微观角度看，Web3中很多底层设施，如公链、智能合约等等，由于其去中⼼化的理念，天⽣便具备公共物品的重要特性。</p>
+<p>综合上述两点，厘清web3语境下的公共物品概念，是很有必要的，关于Web3公共物品的相关研究也越来越多。但<strong>要厘清公共物品的概念，需先解决两个问题</strong>：</p>
+<p>第⼀，随着⽣产⼒的⻜速发展，世界经济体系与过去西⽅经济学体系建立时，产⽣了翻天覆地的变化，所以彼时对公共物品的定义，在今天不再完全适用，需要更新迭代；</p>
+<p>第⼆，Web3在传统经济体系之上，进⾏了去中⼼化、去信任化的⾰命性突破，使新⽣的经济主体与经济⾏为⼤量涌现，在此背景下，对公共物品的判定⽅式也是值得讨论的话题。</p>
+<p>在本文中，我们<strong>将以读后总结的形式，</strong>夹带作者身为经济学硕士的专业积淀，为大家介绍由<strong>LXDAO的Ray与Tiao、Uncommons的Twone、GCC的Hazel和Yuxin等人共同参与编写的76页《Web3公共物品⽣态研究报告》，</strong>于下文中向大家简单介绍报告中涉及的核心内容与理论框架。</p>
+<p>综合来看，GCC的研报从公共物品的定义出发，阐述了如何判定Web3公共物品，并重点分析了当前的Web3公共物品⽣态，对其未来发展及挑战做出了展望。可以说，<strong>这是目前关于web3公共物品的研究成果中，最有参考价值的资料之一，</strong>对于公共物品生态相对薄弱的中文世界更是难得的瑰宝。</p>
+<h3>公共物品基本概念介绍</h3>
+<h4><strong>1. 公共物品的传统经济学定义</strong></h4>
+<p>如本文开篇所述，随着生产力及生产关系的发展，公共物品的定义也应是不断与时俱进的。要研究Web3公共物品生态，先要从头到尾搞清楚公共物品的定义。</p>
+<p>曼昆的《经济学原理（微观部分）》代表了传统的西方经济学。在该书中，所有商品按照是否具有排他性和竞争性，被分为了私人物品、俱乐部资源、公共物品和公共资源四种，故首先我们需要介绍什么是排他性和竞争性。</p>
+<p><strong>排他性：</strong>当某物品被使用时，具有阻止其他主体使用的特性（类似于操作系统和数据库里的锁）。</p>
+<p><strong>竞争性：</strong>某物品被某一主体使用后，减少其他主体使用该物品数量与质量的特性（被消耗）。</p>
+<p>举例来说，商场中的任何一件商品，你购买后就拥有全部的使用权， 排斥其他人使用这件商品，这就是排他性；采摘园里的水果总量有限，你摘走后虽然别人也能继续采摘剩余的水果，但是可采摘的总量会变少，你多摘一些，别人就只能少摘一些，所以采摘者之间存在竞争关系，这就是竞争性。</p>
+<p><strong>按照是否存在这两个性质，商品在传统经济学中被分为了四类：</strong></p>
+<p><img alt="Web3公共物品生态研究报告：概念意义、存在价值及生态展望" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/a9242819c9b8125e2b350cede5a3fe9b.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>这里可以看出，<strong>传统西方经济学对于公共物品的定义，是具有非排他性和非竞争性的物品。</strong>但随着生产力的发展和全球化的推进，这种定义存在两个问题：</p>
+<p>第一，参考标准的改变，会导致矛盾对立面之间的转化，比如一个国家的国防，对于该国具有非排他性，而对于其他国家则具有排他性。</p>
+<p>第二，<strong>商品是否有排他性和竞争性，并不是简单的二元论，而是在私人物品到公共物品之间，形成一个二维的“广泛光谱“</strong>（如图一）。</p>
+<p><img alt="Web3公共物品生态研究报告：概念意义、存在价值及生态展望" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/81c522f4fe86eca1363ca80933e94762.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>上图中，Alice拥有1000枚ETH需要出售，Bob经营航空公司并销售机票，Charlie建造桥梁并收取通行费，David发布了播客，Eve发布了一首歌曲，Fred发明了一种更好的密码学算法。</p>
+<p>这6个例子并不能按照有无排他性、有无竞争性这种简单粗暴的二元论来分类，而是按不同强弱的排他性和竞争性分布在坐标系中（其中Charlie最为特殊，他造的桥的竞争性不明确，与道路拥挤程度正相关）。显然， <strong>传统的二元论无法将它们进行有效地分类，判断哪些属于公共物品。</strong></p>
+<h4><strong>2.公共物品理解的发展</strong></h4>
+<p>上述传统经济学中对公共物品的定义存在不足，很多经济学家都尝试进行改良，但都有时代局限性，并可能形成互斥。当然，这不是经济学家的问题，任何的“绝对真理”都会随着世界的发展，弱化为相对真理。对于公共物品，我们需要找到适合当下时代的定义与范畴，才能对我们的实践行为产生指导意义。</p>
+<p>在《Web3公共物品生态研究报告》中，考虑到公共物品定义对Web3建设者们的意义，综合各种观念，最终对公共物品给出了两个参考点：<strong>边际回报递增和正外部性。</strong></p>
+<p><strong>2.1 边际回报递增</strong></p>
+<p>这是一个较为复杂的参考点，《报告》原文限于精力，也没有花太多篇幅展开论述，但提到了<strong>在Vitalik Buterin, Zo¨e Hitzig, 和 E. Glen Weyl 合写的 “A Flexible Design for Funding Public Goods” 中对公共物品的定义：</strong></p>
+<p>By “public goods” we refer to any activity with increasing returns in the sense that the socially efficient price to charge for the activity (marginal cost) is significantly below the average cost of creating the good.（所谓的“公共物品”，是指那些具有递增回报的活动。这意味着对该活动收取的社会效率价格（边际成本），远远低于创建该物品的平均成本）</p>
+<p>该文章和以太坊中公共物品资助的兴起有很多联系；除此之外，文章作者并未采用非排他性和非竞争性的框架，而是用物品的 increasing returns 与 maginal cost 之间的⽭盾，去定义公共物品，公共物品的范围变得更⼤了。由于这个参考点较为复杂，本文限于篇幅，在此不加另外说明，若有兴趣可以阅读GCC和LXDAO的《报告》原文。</p>
+<p><strong>2.2正外部性</strong></p>
+<p>“外部性”是经济学中一个非常重要的概念，指经济活动对于第三方的影响没有被体现在价格/价值交换中。</p>
+<p>举例说明，造纸厂排污水给附近居民造成了健康危害，但并未因此给予居民补偿或者交税来承担责任，这对第三方造成了负面影响却没有进行补偿，则说造纸厂对社会产生了“负外部性”；而接种疫苗者付费接种，除了自己免受传染风险外，还降低了没有打疫苗的人感染的风险，但却并没有向其收钱，对第三方造成了正面影响却没有要求回报，则说接种疫苗者对社会产生了“正外部性”。</p>
+<p><strong>公共物品是不会向使用者收取任何费用的，也不会限制任何人使用，却给社会带来了收益（经济收益而非会计收益），</strong>再加上区块链等技术进步给社会带来的额外回报，我们可以定义：如果某项活动能够带来一定的正外部性，我们就说它是一种公共物品。</p>
+<h4><strong>3.帕累托最优</strong></h4>
+<p>帕累托最优是一种理想的资源分配状态，是社会在当前生产力前提下，达到的整体收益最大化的状态。此时，除了生产力的进步，无论怎样调整社会的参数/内部结构，都不会使社会变得更好，属于一种理想化的社会状态。</p>
+<p>公共物品与社会整体的收益息息相关，而帕累托最优又是社会整体收益的重要评判标准，所以这个概念对于理解后面的内容比较关键，我们在此举例详述。</p>
+<p>理解帕累托最优的最大障碍是，我们在社会中似乎感觉到商品的价格越低，对于社会上的个体好处就越大，进而整个社会的整体效益就越好。但实际上，这种低物价水平远未达到帕累托最优，因为社会上的经济角色可以划分为生产者（供给）和消费者（需求）两类，低物价忽略了生产者的收益。</p>
+<p>反过来，高物价也不行，<strong>只有“合适的价格”才是达到帕累托最优的关键。</strong>在此我们用一个简单的供需曲线来举例说明：</p>
+<p><img alt="Web3公共物品生态研究报告：概念意义、存在价值及生态展望" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/af8a5b0074fd8ce971f22fbf6f26c19c.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>假设某社会只有一种商品，该商品的价格代表整个社会的物价水平。图一是该商品的供给曲线与需求曲线，在价格P=5时，供给者愿意提供5件商品，消费者愿意购买5件商品，供给与需求完全均衡；</p>
+<p>如果价格降低为P=2，看似物价降低了，社会收益水平提升，但根据供给曲线，生产者为了不赔本，只会卖出2个商品，消费者虽然想购买8个商品，但由于只有2个，所以只能买2个。此时，富余的生产原料没有被及时采用，造成了浪费，社会整体收益反而下降；</p>
+<p>如果将价格抬到P=7时，道理类似。所以，<strong>P=5是“合适的价格”，此价格使社会达成帕累托最优状态，除此价格之外，无论怎么改变，整个社会都不可能变得更好。</strong></p>
+<p>公共物品是免费的，所以其价格一定是低于“合适的价格”的，也就是说，免费的公共物品对于社会并不是收益最高的，起码需要一定的措施，使得公共物品提供者获得一定收益，才能更好地促进公共物品的可持续发展，提升社会整体收益。</p>
+<h3>公共物品对Web3的意义</h3>
+<p>Web3对于新时代的网络和数字资产具有重塑意义，而公链、智能合约等概念天生就具备公共物品的属性，W可以说，公共物品不但为Web3生态提供了基础，更为其赋予了深厚的人文与科技意义。</p>
+<h4><strong>1.公共物品提供了去信任化</strong></h4>
+<p>信任从来都是稀缺资源，到了数字互联网时代更甚。Web2世界中，无论线上还是线下，经济主体达成交易，都必须先形成信任关系，为此往往付出大量成本。而Web3⽣态中的公共物品如公链、智能合约等都是基于区块链技术的，每⼀笔交易、每⼀个智能合约的执⾏都会被记录在区块链上，任何⼈都可以查看和验证，致使交易前形成信任这个过程被完全省略了，这也就是区块链技术的一个重大意义：去信任化。这种基于透明和不可篡改的去信任化，使得公共物品在Web3生态中得到更多的发展。</p>
+<h4><strong>2.公共物品实现了对Web3的免许可访问</strong></h4>
+<p>Web2世界中的资源和服务往往会受到访问限制。而在Web3世界中，公共物品保证了每个人可以平等地访问资源与服务。一方面，这种免许可是通过智能合约，把审批验证权从中心化机构手里分化出来，使得网络更加去中心化，保证了Web3生态的安全性；另一方面，免许可使得任何人均可参与Web3生态，确保了Web3公共物品的开放性和包容性，进而促进了Web3生态的发展。</p>
+<h4><strong>3.公共物品的复杂性</strong></h4>
+<p>除以上积极意义之外，Web3的公共物品⽣态呈现出⼀种前所未有的复杂性，这种复杂性不仅源于技术的进步，还与Web3的去中心化、开放性和全球性密切相关。<strong>这主要体现在以下几个方面：</strong></p>
+<p><strong>（1）各类物品之间的转化：</strong>在Web3世界中，Token、智能合约、DAO、DApps等多种数字资产和服务之间均可相互转化、互相调用，这些都可归于公共物品的范畴，它们之间的转化不仅给Web3世界带来了更多灵活性和机遇，更带来了复杂的风险和挑战。</p>
+<p><strong>（2）不完备的去中心化：</strong>去中心化是Web3理论上的核心特点之一，但在真正实践中，Web3组织往往并不去中心化，而是多中心化。这种不完备的去中心化，虽然给公共物品提供了一定的灵活性和自由性，但也使得资源的协调分配变得更加复杂，这是公共物品的挑战，也是其魅力所在。</p>
+<p><strong>（3）多样性与互操作性：</strong>各种不同的公链、DApps、Token使Web3生态充满了多样性，同时也带来了互操作性的挑战。确保不同公共物品之间的顺畅交互协作，避免“孤岛效应”和碎片化，是Web3公共物品亟待解决的问题。</p>
+<h4><strong>4.公共物品的货币化（收入邪恶曲线）</strong></h4>
+<p><strong>收⼊邪恶曲线是由 Vitalik Buterin 提出的⼀种研究⽅法和⼯具（2022），⽤于分析不同的货币化/商业化策略对公共物品的潜在伤害。</strong></p>
+<p>根据前文的定义，<strong>公共物品是具有正外部性的，也就是说对社会造成了正面影响而未体现在价格中。那么公共物品的货币化/商业化，即是在削减这种正外部性，对其造成的正面影响采取一定形式的收费。</strong></p>
+<p>这样的结果，是使公共物品所有者获益，但会因失去正外部性而减少整个社会的收益。<strong>那么这种使自己获益而损害公共利益的倾向程度，在收入邪恶曲线中被描述为“邪恶程度”。</strong>收入邪恶曲线给了我们一种对于公共物品全新的评判标准，而且也许更适合Web3。图一所示六例的收入邪恶曲线如图三所示。</p>
+<p><img alt="Web3公共物品生态研究报告：概念意义、存在价值及生态展望" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/31ee715a63e7e084d535e63732db0f80.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>图中纵坐标Evil即邪恶程度。由图三可知，邪恶程度虽然是获取个人利益的倾向程度，但由于六个人所拥有的商品属性不同，它们提升邪恶程度，导致最终获取的真实个人利益也不同，分析如下：</p>
+<p><strong>Alice：</strong>邪恶程度越高挂单价就越高，挂单价越高买入者越少，而实际收入最高的点反而是邪恶程度最低的点，也就是以市场价卖出ETH。</p>
+<p><strong>Bob：</strong>邪恶程度最低点即市场价卖出机票。若想快速获益而低价倾销机票，会使Bob自己的收益减少，很多对机票有急迫需求的人也未必能抢到机票，距离帕累托最优很遥远；若想提价获取更多收益，仍会远离帕累托最优的状态，后半段的邪恶程度甚至是超线性的曲线。</p>
+<p><strong>Charlie：</strong>若桥梁道路舒缓，则任何收费行为都会阻碍很多有需求的人，为社会带来负收益，且邪恶程度越高，Charlie自己获得的收益就越大；若桥梁道路拥堵，则适当的收费会缓解拥堵，过高或过低的收费则会使社会的整体收益降低，所以其图形形状与Bob相似。</p>
+<p><strong>David与Eve：</strong>David与Eve的商品类似，肯定是进行收费就会增加自己收益而降低社会收益，且呈正相关；区别是David的播客只能采取插播广告等收费形式，但广告费未必全部转嫁给听众，而Eve可以直接设置付费听歌，所以Eve的歌曲实际上对于听众来说成本更高昂，所以Eve的曲线更陡峭。</p>
+<p><strong>Fred：</strong>Fred的商品更具特殊性，如果想货币化只能出售专利、拍卖等等，容易把原本开源的东西变成某些公司或个人垄断下的独家产品，一旦这种情况发生，对社会带来的负外部性极大，所以其收入-邪恶曲线更陡峭。</p>
+<p><strong>一个商品拥有正外部性，产生更多社会收益，是因为商品拥有者放弃了使其货币化的权利，供大家免费使用，</strong>所以邪恶程度和个人收益呈正相关的便可定义为公共物品。故在上述六例中，舒缓桥梁、播客、歌曲和ZK加密算法则可以被归类为公共物品。</p>
+<p>在Web3世界中，由于Token的存在，这种公共物品的货币化是非常容易的。一方面，公共物品货币化会导致其定价更加依赖市场而非本身的社会价值，这很容易导致价值扭曲，丢失公共物品的本质。</p>
+<p>另一方面，如果公共物品邪恶程度低，那么其本身发展会受限；如果其邪恶程度高，则会对整个生态造成负面影响，这二者形成了悖论，需要外界因素来打破。<strong>所以找到一种方法既资助公共物品发展，又不损害其公共性和价值是必要的（比如适当的资助）。</strong></p>
+<p>更进一步来看，当公共物品货币化（Token化）之后，公共物品的收益分配也成了Web3生态中的一个复杂问题。Token持有者和社区成员都是公共物品的重要参与者，应该如何分配收益。建立一个新的治理模型解决该问题，确保公共物品的收益公平、透明地分配，成为了Web3生态的核心挑战。</p>
+<h3>Web3公共物品的重新定义</h3>
+<p>回溯前文，GCC的《报告》先详述了传统经济学中公共物品的定义，然后给出了新时代对于公共物品的理解，最后引用了Vitalik的收入邪恶曲线。<strong>该报告在此基础上，对Web3生态中的公共物品概念和理解进行了探讨，尝试重新定义和解释Web3公共物品，进而判断资助的对象。</strong>那么如何判断一个Web3项目或资产是否为公共物品呢？有以下三个角度：</p>
+<h4><strong>1.排他性和竞争性</strong></h4>
+<p>排他性和和竞争性仍是判断公共物品的重要标准，但如果按照二元论去分析则纯粹的公共物品很少，资助的对象标准也很难评判，所以<strong>Vitalik在其收入邪恶曲线的描述中，按照上文的排他性和竞争性二维光谱，将资助的优先级分为四类：</strong></p>
+<ol>
+<li>具有完全的⾮竞争性，要获取价值，只能降低其非排他性的公共物品（比如原本开源的算法或者代码）；</li>
+<li>具有完全的⾮竞争性，同时可以不降低⾮排他性，来获取价值的公共物品（比如获得广告收益的播客）；</li>
+<li>具有⼀定程度的竞争性，但可以通过资助，防止其收费过高的物品（比如机票）；</li>
+<li>可以完全通过市场进⾏调节的物品，这些不需要资助，只需要作为私⼈物品（比如ETH代币）。</li>
+</ol>
+<h4><strong>2.正外部性</strong></h4>
+<p>Web3生态中，公链、智能合约、预言机等许多物品都具有正外部性，对这些物品的付费使用，往往也可以为付费者之外的人带来好处，具有正外部性，可以被认为是广义的公共物品。</p>
+<h4><strong>3.去中心化程度</strong></h4>
+<p>公共物品的生产和治理权应该是去中心化的，掌握在公众手中，否则会因单点邪恶程度产生故障，威胁系统安全，减少公共物品对整个生态和社区的价值。</p>
+<p><strong>综上所述，Web3公共物品要确保非排他性、非竞争性、正外部性，原则上也应具有一定程度的去中心化，这是对任一好的Web3项目或资产的要求。</strong></p>
+<h3>当前Web3公共物品生态</h3>
+<p><img alt="Web3公共物品生态研究报告：概念意义、存在价值及生态展望" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/1af9d168ee8fbb0906b7e08492079bf2.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>基于Web3公共物品的复杂性，<strong>GCC的报告将当前Web3公共物品分为上中下游。</strong>上游是Web3的基建，如公链、存储，SDK及相关代码；中游包含中间件及服务；下游则是直接与普通用户交互的应用。《Web3公共物品生态研究报告》对于Web3公共物品生态的介绍十分详细，<strong>而本文限于篇幅，将此部分内容简述在表格中</strong>（表格中X表示报告中未描述）。</p>
+<h4><strong>1.上游</strong></h4>
+<p><img alt="Web3公共物品生态研究报告：概念意义、存在价值及生态展望" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/f656cdcebc8ca6a8f464a022211102d6.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img alt="Web3公共物品生态研究报告：概念意义、存在价值及生态展望" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/858ba27992ab7a1870762e2853f68d8d.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h4><strong>2.中游</strong></h4>
+<p><img alt="Web3公共物品生态研究报告：概念意义、存在价值及生态展望" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/99b7d111cc108b36f49bc080ecc48551.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img alt="Web3公共物品生态研究报告：概念意义、存在价值及生态展望" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/83d47c81388fb44ec5e526665ca1fc06.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img alt="Web3公共物品生态研究报告：概念意义、存在价值及生态展望" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/c8de10c8dc64ef1f928670dab5f9bf1b.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img alt="Web3公共物品生态研究报告：概念意义、存在价值及生态展望" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/1dbd37994d099184eff516079d8d3e8b.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img alt="Web3公共物品生态研究报告：概念意义、存在价值及生态展望" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/5cf32b95c143d324fbbd95ec8240bebf.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img alt="Web3公共物品生态研究报告：概念意义、存在价值及生态展望" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/b64195847a87e68abf0e7804528dd1a5.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h4><strong>3.下游</strong></h4>
+<p><img alt="Web3公共物品生态研究报告：概念意义、存在价值及生态展望" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/2f6950b7065363ece337b4dd9a3e189f.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img alt="Web3公共物品生态研究报告：概念意义、存在价值及生态展望" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/f230a77f82dc788900a0905484d19799.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img alt="Web3公共物品生态研究报告：概念意义、存在价值及生态展望" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/356e417f86d903b432e3cbd8a073dbf0.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img alt="Web3公共物品生态研究报告：概念意义、存在价值及生态展望" src="https://cdn-img.panewslab.com/yijian/2024/3/25/images/b3f1f6015184581dedf153725afaac69.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h3>Web3公共物品生态展望</h3>
+<h4><strong>1.公链生态提供基础</strong></h4>
+<p>区块链以数据的不可篡改和透明性实现了去信任化，公链、Token和智能合约为DAO和链上治理提供了基础。越来越多人意识到了Web3公共物品持续发展的重要性，越来越多的基金会和项目方愿意对公共物品进行资助。在未来，这种趋势一定会更加明显。</p>
+<h4><strong>2.公共物品-Web3产品的新模式</strong></h4>
+<p><strong>在Web2中打造一个产品，一定是通过产品、数据、技术等建立壁垒，使其获取较高的排他性和竞争性。而Web3的产品逻辑是完全相反的，一定要与用户的连接足够强才能使产品更具优势，所以一定要具有足够的非排他性和非竞争性，也就是说，开源的公共物品会催生Web3产品的新商业模式，主旨是开放而非封闭。</strong></p>
+<h4><strong>3.公共物品可持续性实现的路径</strong></h4>
+<p>如前文所述，公共物品具有正外部性，其创造的价值一般难以体现在自己的收益中，这就很难持续，所以需要一定的外部资产或收入帮助其实现可持续性。下面是几种Web3公共物品可持续性实现的可能路径：</p>
+<p><strong>（1）捐赠：</strong>捐赠依然是目前资助公共物品最通用的方式。首先对于捐赠的对象，可以根据收入邪恶曲线来判定一个公共物品货币化的可能，首选货币化可能性比较低的公共物品。</p>
+<p>其次，捐赠存在两个问题，其一是没有回报，可能会因为捐赠个人或机构的资金不足，导致公共物品失去资金来源而难以持续；其二是捐赠发出后，无法对资金的使用和管理进行追踪，导致资金利用率低下。QF机制指让社区的人决定资金的去向，可以解决哪些资助对象选择的问题，但资金使用和管理的问题目前还难以解决。<strong>捐赠的适用场景，主要为冷启动的、缺乏资金渠道的初创项目。</strong></p>
+<p><strong>（2）CSR收入：</strong>CSR即Contract Secured Revenue，合约安全收入，指的是EIP6968[159] ，内容是将Gas分为三部分：⽤于燃烧的⽹络基础费用、⽤于奖励矿⼯的费用、和用于奖励合约开发者的费用。通过为合约开发者提供⼀部分Gas费⽤，可以⿎励他们为公共物品投⼊更多的时间和精⼒，从⽽提⾼公共物品的质量和可⽤性。<strong>CSR收入适用于合约类的公共物品。</strong></p>
+<p><strong>（3）公链gas用于支持公共物品：</strong>CSR 只能⽤来资助链上的公共物品，⽽ Gitcoin发起的一个实验——PGN 则提出了另外⼀种思路来资助公共物品，从节点的Gas中分配⼀部分资助公共物品。这种思路适用冷启动的、链下的公共物品。</p>
+<p><strong>（4）回溯性资助：</strong>指在公共物品被验证为有价值后，再进行资助，由Optimism提出。这种模式避免了资金错投，提高了资金的使用率，但是无法解决冷启动公共物品的初始资金问题，对于所谓“有价值”的衡量标准也难以量化统一。<strong>回溯性资助适用于已经为生态做出过贡献的公共物品。</strong></p>
+<p><strong>（5）DAO+Token模式：</strong>利用区块链的底层技术——智能合约和Token。运行成熟的公共物品可以发币进行IDO，解决资金问题的同时，可以让持有Token的人参与DAO公开透明的治理，把握公共物品后续的发展方向，并分享公共物品的收益。这种模式适用于已经成熟运行的公共物品，理论上是最不依赖于外界资金，内生可持续性最强的路径。</p>
+<h4><strong>4.存在的挑战</strong></h4>
+<p>实现公共物品可持续发展的道路上还有很多问题需要解决，如：</p>
+<p>（1）公众对于公共物品的认知和关注不足；</p>
+<p>（2）公共物品治理过程不够清晰和透明；</p>
+<p>（3）大多数的公共物品缺乏影响力，难以获得足够的捐赠；</p>
+<p>（4）资金利用效率低；</p>
+<p>（5）难以量化公共物品的影响力。</p>
+<p>除这些之外，公共物品的可持续发展还存在很多大大小小的问题。但是，公共物品对Web3生态的积极影响是巨大的，公共物品的可持续性发展是一条值得探索的道路。而Web3的底层逻辑为公共物品的发展提供了适合的机制和充足的资金来源，很多基于Web3的潜力方案正在解决实现公共物品可持续发展道路上出现的问题，智能合约和Token的存在，更使得公共物品的发展看到了新的希望。</p>
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 19:00:34 +0800</pubDate>
+<pubDate>Mon, 25 Mar 2024 19:00:34 +0800</pubDate>
+</item>
+<item>
+<title>PA日报｜被尼日利亚拘留的两名币安高管之一已“越狱”；马斯克询问Vitalik为何离开X平台</title>
+<link>https://www.panewslab.com/zh/articledetails/it19rz27.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/it19rz27.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是负面的。首先，尼日利亚税务当局以逃税罪名起诉币安，导致币安两名高管被拘留。另外，Terraform Labs前首席执行官Do Kwon在黑山遭到监禁并面临引渡审判。此外，香港证监会警告公众注意虚拟资产相关的欺诈活动。最后，RippleX开发部门发现XRP Ledger上自动做市商池存在技术问题。货币市场协议Dolomite遭遇攻击。 <div>
+<p dir="ltr"><strong>今日要闻提示：</strong></p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/a4qk7jj9.html">尼日利亚指控币安逃税，且被拘留的两名币安高管之一已“越狱”</a></p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/t75wqf87.html">Terraform Labs的民事欺诈审判将于周一在曼哈顿举行，Do Kwon将不会出席庭审</a></p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/1b1m4j2b.html">香港证监会告诫公众谨防HKCEXP涉嫌虚拟资产相关诈骗行为</a></p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/83p84kc6.html">马斯克询问Vitalik为何离开X平台</a></p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/h1ga371h.html">Polygon zkEVM主网Beta版已恢复运行</a></p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/hjnqz2m3.html">Binance Labs宣布已投资LST协议StakeStone</a></p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/dg4m4lwx.html">数据：价值1.65亿美元的代币将在本周解锁</a></p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/wc2r2thi.html">CoinShares：上周数字资产投资产品净流出9.42亿美元</a></p>
+<p dir="ltr"><strong>监管消息</strong></p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/a4qk7jj9.html">尼日利亚指控币安逃税，且被拘留的两名币安高管之一已“越狱”</a></p>
+<p dir="ltr">据CoinDesk援引多家媒体及知情人士报道，尼日利亚税务当局最近以逃税罪名起诉了加密货币交易所币安。这一指控发生在币安与尼日利亚政府之间紧张关系加剧的几周后，导致币安两名高级执行官被当局拘留。报道还提到，其中一名被拘留的高级执行官已经“越狱”并可能已离开该国。币安被指控四项税务逃漏罪，包括未支付增值税、公司所得税、未按时提交税务申报表，以及通过其平台帮助客户逃税。​​</p>
+<p dir="ltr">据当地媒体Premium Times报道，Anjarwalla于3月22日从其在阿布贾的拘留地逃出，据信其利用中东航线飞离阿布贾。尼日利亚当局正在尝试确定其逃离后的目的地，以便将其重新拘留。一名移民官员表示，币安高管持肯尼亚护照逃离尼日利亚。不过，他表示，鉴于他在被拘留时没有携带其他旅行证件（除了英国护照），当局正在试图确定他是如何获得护照的。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/4wm5fs3q.html">Do Kwon被安置在黑山外国人营地等待引渡结果，且护照已被没收</a></p>
+<p dir="ltr">据The Block引援当地媒体报道，Terraform Labs前首席执行官Do Kwon在3月23日刑期结束后，被黑山当局安置在外国人“接待中心”。Do Kwon在被转移到营地之前还受到当地检查员审问了五个小时。预计Do Kwon将继续在该营地中受到看守，直到当地法院就他的引渡做出新的决定。 Do Kwon的当地法律代表Goran Rodić认为这种待遇是非法的，并表示他将向当地行政法院提出申诉。当地媒体称，Do Kwon的护照上周也被没收。 此前消息，Do Kwon已出黑山监狱等待引渡。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/t75wqf87.html">Terraform Labs的民事欺诈审判将于周一在曼哈顿举行，Do Kwon将不会出席庭审</a></p>
+<p dir="ltr">据路透社报道，Terraform Labs及其创始人Do Kwon将于周一在曼哈顿面临审判，此案由美国证券交易委员会提起，指控他们在两种加密货币崩溃前向投资者撒谎。Do Kwon因在黑山被捕，不会出席审判。SEC估计投资者在两种代币上损失超过400亿美元。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/1b1m4j2b.html">香港证监会告诫公众谨防HKCEXP涉嫌虚拟资产相关诈骗行为</a></p>
+<p dir="ltr">香港证监会警告公众注意一些以“HKCEXP”名义运作的实体，这些实体涉嫌进行虚拟资产相关的欺诈活动。被害人在提款时遇到困难，且被要求支付高额的“税款”。HKCEXP在其网站上提供了虚假的香港地址，误导投资者，并自称为“获证监会注册的公司”，发布虚假及具误导性的信息。警方已封锁了HKCEXP的相关网站，并于今日将HKCEXP网站相关列入证监会可疑虚拟及其资产交易平台警惕名单。但公众应警惕骗子可能创建新的类似网站。</p>
+<p dir="ltr"><strong>项目动态</strong></p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/83p84kc6.html">马斯克询问Vitalik为何离开X平台</a></p>
+<p dir="ltr">据The Block报道，马斯克今天询问以太坊联合创始人Vitalik Buterin为何离开X平台（原推特）。马斯克的问题是对X账户Autism Capital的回复，该账户分享了其观点，即“Vitalik需要回归X”。Buterin一直活跃在Web3社交媒体平台Farcaster，Vitalik曾在2月份写道：“对于很多人来说，Farcaster已经达到了一个非常有用的地步，可以作为推特的替代品。” Autism Capital认为：“Farcaster不会赢得文化战争，如果Vitalik希望以太坊大放异彩，他应该更多地参与X平台，而不是将自己与他选择的同行隔离在一个岛上。如果他与这里更大的社区互动，他将产生更大的影响力。”</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/kch520ox.html">分析师分享通过Pac Finance在Blast生态实现三份收益的方法</a></p>
+<p dir="ltr">链上分析师余烬在X平台介绍了通过Blast生态借贷协议Pac Finance在Blast生态实现三份收益的方法：1.Pac Finance代币空投：Pac Finance尚未发币，存入资产和邀请朋友获取积分，积分则对应Pac Finance未来的代币空投。2.Blast代币空投：作为Blast主办的BIG BANG竞赛47个获奖项目之一，Pac Finance将会获得Blast的开发者空投奖励，而这些奖励Pac Finance也会全部空投给项目的早期用户。3.存款本身收益：存入的 ETH 目前可以获得 5.82% 的 APY；USDB 获得 22.22% 的 APY。 </p>
+<p dir="ltr"> 据悉，Pac Finance由Parallel Network团队孵化，作为Blast上TVL前三的项目， 拥有着2.07亿美元TVL，是Blast上最大的未发币借贷协议。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/cb2okpg9.html">币安添加大量“智能找回”币种，充错找回只收取5枚USDT费用</a></p>
+<p dir="ltr">据吴说区块链报道，币安表示，已最新添加大量充值错误的“智能找回”币种，减少人工时间，手续费也大大减少，只收取 5 USDT。用户误充后会显示在充值历史页面，且旁边有“立即找回”按钮，只需点击该按钮即可发起资金自动退回流程。 </p>
+<p dir="ltr">支持此功能的最新添加币种如下： </p>
+<p dir="ltr">ARBITRUM: WETH、WBTC、GRT； </p>
+<p dir="ltr">BASE: WETH； </p>
+<p dir="ltr">BSC: GAL、APE、UST、NFT、RWT、LUNA、GMT； </p>
+<p dir="ltr">ETH: SOL、FTN、BETH、XSHIB、HBTC、COMBO、GMT； </p>
+<p dir="ltr">FTM: BNB、DAI； MATIC: WETH、WMATIC、AVAX、IXT、UST、BNB、BUSD、OUSDT；</p>
+<p dir="ltr">NEAR: USDT； OPTIMISM: WETH、WBTC、DAI； TRX: MOF、USDD； ZKSYNCERA: USDT。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/knk2tm0r.html">PUMP将于今晚7点开放交易，按初始流动性计算市值为1290万美元</a></p>
+<p dir="ltr">据链上分析师@ai_9684xtpa的X帖子，参与资金超2.8亿美金，Bakeryswap Meme项目PUMP将于今晚七点开启交易，（根据Bakeryswap官方消息，PancakeSwap于北京时间3月25日19:00开放PUMP交易）。关于PUMP/WBNB初始流动性，半小时前，Bakeryswap已创建PUMP/WBNB交易对并注入2000亿枚PUMP和1000枚WBNB的初始流动性，这意味着PUMP开盘市值为1290万美元，起始价格为0.000002902美元。 关于PUMP/WBNB市值估算，有两种方式计算：1.按PUMP/WBNB初始流动性计算，市值1290万美元，PUMP价格为0.000002902美元；2.按Whales Market场外价格计算，市值约7777万美元，PUMP价格为0.0000175美元。目前场外价格是开盘价格的5倍。此外，按当前场外价格计算，每 BNB获得150万枚PUMP空投，价值26.25美元，回报率约4.5%。 </p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/e5d1g6y6.html">Greeks.live：本次比特币回调大概率已进入尾声，重点关注周五美国核心PCE数据</a></p>
+<p dir="ltr">PANews 3月25日消息，Greeks.live宏观研究员Adam在X平台发文表示，本周主要看周五核心PCE的数据，上周鲍威尔讲话已经重申降息预期，如果本周五的数据不太离谱则美联储利率政策上对币市则暂时无利空。周末币市整体反弹也印证了市场的乐观情绪，本次BTC 73000——61000回调大概率已经进入尾声。 比特币和整个加密货币市场在过去一周经历了深度回调，但是随着美联储放鸽，以比特币为首的加密货币整体反弹，目前BTC在66500上下，进一步下跌的风险降低，Dvol也进一步下探至72.5，随着交割日的临近，Dvol很可能会进一步下跌。加密利率市场方面，Bitfinex现货大户正在加杠杆，绿叶利率市场重新活跃，使用高利模式可能会有惊喜。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/h1ga371h.html">Polygon zkEVM主网Beta版已恢复运行</a></p>
+<p dir="ltr">Polygon在X平台表示，Polygon zkEVM主网Beta版已恢复运行。Polygon zkEVM主网Beta版紧急委员会激活了紧急状态，允许Polygon zkEVM核心团队对系统进行必要的修复，从而恢复Polygon zkEVM主网Beta版的L1结算。完成本次升级后，紧急状态被解除，这意味着对系统的任何进一步更新都需要10天的时间锁定才能生效。官方团队将在Polygon基金会论坛上发布详细的后续报告。 这仅影响Polygon zkEVM主网Beta版，不会影响Polygon PoS、Polygon CDK或任何使用Polygon CDK部署的链。</p>
+<p dir="ltr">此前昨日早间消息，<a href="https://www.panewslab.com/zh/sqarticledetails/ks4rslgv.html">Polygon zkEVM主网Beta版本因L1重组出现排序器问题</a>。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/366bjf56.html">RippleX披露影响XRP Ledger上AMM池的技术问题，目前正审查拟议修复方案</a></p>
+<p dir="ltr">Ripple开发部门RippleX透露了一个影响XRP Ledger上自动做市商（AMM）池的技术问题。这一漏洞扰乱了交易和资金池，促使RippleX管理层向用户通报资金存款的最新情况。</p>
+<p dir="ltr">根据X社交平台上的帖子，RippleX的技术团队发现XRP Ledger上部分AMM池存在差异，导致交易处理不正确。由于持续存在的技术问题，RippleX建议其用户不再将资金存入受影响的AMM池中。这种预防措施旨在消除当前漏洞可能引起的任何可能的并发症，建议在这些池中拥有LP代币的人赎回它们，直到问题得到解决。</p>
+<p dir="ltr">今日凌晨最新消息，<a href="https://twitter.com/RippleXDev/status/1771961354297241930" rel="nofollow">RippleX在X平台发布更新称</a>，问题已经确定——在一些复杂的支付路径场景中，这种差异影响了DEX支付引擎如何通过AMM池和订单簿路由流动性，正在与社区一起审查提议的修复方案。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/3g8u8byl.html">CryptoQuant：估值指标尚未接近过去牛市顶峰，比特币牛市周期未结束</a></p>
+<p dir="ltr">CryptoQuant分析师认为，比特币牛市周期尚未结束，因为价格估值指标与过去牛市顶峰时还相差甚远。比特币在升至73700美元的历史高位后进入价格修正期，矿工、"鲸鱼 "和其他市场参与者，包括大型投资者，都开始抛售手中的比特币以获利了结。CryptoQuant还发现，未实现利润率飙升至69%，为2021年3月以来的最高水平，当时比特币的交易价格约为6万美元。尽管交易者正在抛售资产，但未实现利润率仍高达47%。从长期来看，比特币尚未触及本轮牛市周期的顶部，这也反映在低水平的新投资流动中。目前，大约48%的比特币投资来自短期投资者，而从历史上看，当短期投资者占84%-92%的投资时牛市周期结束。此外，估值指标尚未接近与过去牛市顶峰一致的水平。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/mj8oey79.html">一场针对BlockFi、FTX债权人的电子邮件钓鱼骗局已造成至少500万美元损失</a></p>
+<p dir="ltr">据The Block报道，上周，一个以太坊钱包涉嫌一个针对BlockFi和FTX等破产加密公司的债权人的复杂诈骗行为，已在过去一周不断盗取至少价值500万美元的加密货币和NFT，而且没有停止的迹象。</p>
+<p dir="ltr">安全专家Plumferno首先在X上的一个帖子中指出了这一操作，她发现钱包被盗的加密货币疑似源自加密公司BlockFi和FTX以及其他公司向现已破产的公司的债权人发送的一系列网络钓鱼邮件，黑客有可能从最初从电子邮件服务Mailer Lite窃取的数据中获取了电子邮件地址列表，该服务于1月份遭到黑客攻击，导致另一起网络钓鱼骗局，并带来了巨额损失。 Plumferno在她的帖子中写道：“这个骗局最糟糕的部分是，大部分资产都是从休眠钱包中被盗的，这些人可能受到BlockFi破产的影响，并且从那以后就没有再动过这些资金。其中一些受害者也可能还不知道自己被盗。”</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/vsta6tn9.html">Dolomite：已成功追回盗资金的90%，将于本周内公布分配计划</a></p>
+<p dir="ltr">货币市场协议Dolomite在推特发文称，已成功追回被盗资金的90%。将在本周内向每位受害者发布一份分配计划、一份详细的漏洞时候分析报告和一份事件日志。据此前消息，PeckShield监测显示，Dolomite Exchange的旧合约遭受攻击，导致约200万美元的损失。攻击者将盗取的USDC代币换成了大约541.5个以太坊（ETH），价值约190万美元，以及94000个DAI代币。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/hjnqz2m3.html">Binance Labs宣布已投资LST协议StakeStone</a></p>
+<p dir="ltr">Binance Labs宣布已投资全链LST协议StakeStone，具体投资金额未披露，后者是一家支持以太坊重新质押的流动性基础设施初创公司。StakeStone自称为一个全链路流动性分配网络，能够整合包括以太坊质押、重新质押、现实世界资产以及人工智能和去中心化物理基础设施网络资产等多种收益来源。​​</p>
+<p dir="ltr"><strong>融资消息</strong></p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/s2zv7671.html">比特币L2项目BEVM完成种子轮及部分A轮千万美元融资，投后估值达2亿美元</a></p>
+<p dir="ltr">PANews 3月25日消息，据官方消息，基于Taproot Consensus的BTC Layer2项目BEVM宣布完成种子轮及部分A轮融资，融资额达千万美元，参投方有RockTree Capital、Waterdrip Capital、Arkstream Capital、ViaBTC Capital、Satoshi Lab、Web3port、Cogitent Ventures 、MH Ventues、Mapleblock、Electrum Capital、Zephyrus Capital、Lotus Capital、7UPDAO 、TimeTells等近20家机构，投后估值为2亿美元。 此外，BEVM将推出“BEVM- stack”(BTC L2即服务)，帮助开发者一键启动BTC layer2。此外，BEVM将开发DBFX(去中心化比特币外汇)协议，旨在无缝地将本地BTC连接到任何链上的任何Defi协议。</p>
+<p dir="ltr"><strong>重要数据</strong></p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/dg4m4lwx.html">数据：价值1.65亿美元的代币将在本周解锁</a></p>
+<p dir="ltr">Token Unlocks数据显示，本周OP、PRIME和YGG等代币将迎来一次性大额解锁，总计释放价值1.65亿美元。其中：</p>
+<p dir="ltr">Optimism（OP）将于3月29日中午12点解锁2416万枚代币，价值约8432万美元，占流通供应量的2.4%；</p>
+<p dir="ltr">Echelon Prime（PRIME）将于3月31日上午8点解锁166万枚代币，价值约3753万美元，占流通供应量的4.65%；</p>
+<p dir="ltr">Yield Guild Games（YGG）将于3月27日晚上10点解锁1669万枚代币，价值约1689万美元，占流通供应量的5.39%。</p>
+<p dir="ltr">SingularityNET（AGIX）将于3月28日上午8点解锁884万枚代币，价值约926万美元，占流通供应量的0.69%。</p>
+<p dir="ltr">Sui（SUI）将于3月31日上午8点解锁400万枚代币，价值约668万美元，占流通供应量的0.32%。</p>
+<p dir="ltr">Acala（ACA）将于3月25日上午8点解锁466万枚代币，价值约89.9万美元，占流通供应量的0.48%。</p>
+<p dir="ltr">Euler（EUL）将于3月28日晚上8点30分解锁8.16万枚代币，价值约50.2万美元，占流通供应量的0.44%。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/wc2r2thi.html">CoinShares：上周数字资产投资产品净流出9.42亿美元，逆转流入趋势</a></p>
+<p dir="ltr">据CoinShares最新周报，数字资产投资产品上周经历了创纪录的资金外流，总计达到9.42亿美元，这是继之前创纪录的连续七周、总计123亿美元资金流入后的首次资金外流。尽管如此，美国新的ETF发行人上周吸引了11亿美元的资金流入，部分抵消了Grayscale的20亿美元大规模资金外流。与此同时，其他山寨币领域表现良好，净流入资金为1600万美元，其中最为显著的包括Polkadot（500万美元）、Avalanche（290万美元）和Litecoin（200万美元）。</p>
+<p dir="ltr"><strong>PANews新功能「龙」重登场，焕新出发！</strong></p>
+<p dir="ltr">PANews APP及网页端上线4大实用新功能，助力获取专属自己的Alpha资讯：</p>
+<p dir="ltr">【今日必读】每日热点，迅速掌握；</p>
+<p dir="ltr">【发现】热门活动、行业关键数据实时查看；</p>
+<p dir="ltr">【观点】大V观点，看看有无道理；</p>
+<p>【深度】原创文章、行业研报、事件解读，带来深度思考。<a href="https://www.panewslab.com/download.html">立即下载</a>！</p>
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 18:59:56 +0800</pubDate>
+<pubDate>Mon, 25 Mar 2024 18:59:56 +0800</pubDate>
+</item>
 
 <item>
 <title>CoinShares：上周数字资产投资产品净流出9.42亿美元，逆转流入趋势</title>

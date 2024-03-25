@@ -10072,3 +10072,15 @@ Existing_entries: 432
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-25 10:59:42.587558
+------------------------------------------------------
+Started: 2024-03-25 11:14:11.510054
+Existing_entries: 432
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 8928
+Summarized using GPT-3.5-turbo-1106
+Append: [Web3公共物品生态研究报告：概念意义、存在价值及生态展望](https://www.panewslab.com/zh/articledetails/5fdjkjwj.html)
+Token length: 5802
+Summarized using GPT-3.5-turbo-1106
+Append: [PA日报｜被尼日利亚拘留的两名币安高管之一已“越狱”；马斯克询问Vitalik为何离开X平台](https://www.panewslab.com/zh/articledetails/it19rz27.html)
+append_entries: 2
+Finish: 2024-03-25 11:14:27.212803
