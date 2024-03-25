@@ -10585,3 +10585,12 @@ Existing_entries: 449
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-25 23:32:34.817473
+------------------------------------------------------
+Started: 2024-03-25 23:39:58.472886
+Existing_entries: 449
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 261
+Summarized using GPT-3.5-turbo-1106
+Append: [Bakkt去年总收入为7.801亿美元，预计将于今年第三季度推出机构交易服务](https://www.panewslab.com/zh/sqarticledetails/rqylj24c.html)
+append_entries: 1
+Finish: 2024-03-25 23:40:04.101015
