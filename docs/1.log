@@ -9565,3 +9565,18 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [深度解读Solana：像Apple，但又不同于Apple](https://www.panewslab.com/zh/articledetails/4dnlr9e3.html)
 append_entries: 6
 Finish: 2024-03-25 01:04:58.496104
+------------------------------------------------------
+Started: 2024-03-25 01:56:07.176032
+Existing_entries: 397
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 2262
+Summarized using GPT-3.5-turbo-1106
+Append: [昨夜今晨重要资讯（3月24日-3月25日）](https://www.panewslab.com/zh/sqarticledetails/s6b53o8b.html)
+Token length: 309
+Summarized using GPT-3.5-turbo-1106
+Append: [Polygon zkEVM主网Beta版已恢复运行](https://www.panewslab.com/zh/sqarticledetails/h1ga371h.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [深度解读Solana：像Apple，但又不同于Apple](https://www.panewslab.com/zh/articledetails/4dnlr9e3.html)
+append_entries: 3
+Finish: 2024-03-25 01:56:16.851410

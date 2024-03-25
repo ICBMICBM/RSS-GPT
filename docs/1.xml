@@ -5,11 +5,66 @@
 <link>https://rss.panewslab.com/</link>
 
 <item>
+<title>昨夜今晨重要资讯（3月24日-3月25日）</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/s6b53o8b.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/s6b53o8b.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是消极的。首先，Polygon zkEVM主网Beta版已恢复运行，但存在紧急情况需修复。其次，XRP Ledger上的技术问题影响了AMM池，可能导致交易处理不正确。此外，比特币牛市周期尚未结束，但存在未实现利润率飙升等迹象。另外，一些加密公司受到复杂诈骗行为的影响，导致大量加密货币和NFT被盗。最后，多个代币将迎来一次性大额解锁，可能给市场带来波动。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p><img alt="昨夜今晨重要资讯（3月24日-3月25日）" height="605" src="https://cdn-img.panewslab.com/panews/2024/03/25/images/07wcrwcLkQ.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="1209" /></p>
+<p><a href="https://www.panewslab.com/zh/sqarticledetails/h1ga371h.html" rel="noopener" target="_blank">Polygon zkEVM主网Beta版已恢复运行</a></p>
+<p>Polygon在X平台表示，Polygon zkEVM主网Beta版已恢复运行。Polygon zkEVM主网Beta版紧急委员会激活了紧急状态，允许Polygon zkEVM核心团队对系统进行必要的修复，从而恢复Polygon zkEVM主网Beta版的L1结算。完成本次升级后，紧急状态被解除，这意味着对系统的任何进一步更新都需要10天的时间锁定才能生效。官方团队将在Polygon基金会论坛上发布详细的后续报告。 这仅影响Polygon zkEVM主网Beta版，不会影响Polygon PoS、Polygon CDK或任何使用Polygon CDK部署的链。</p>
+<p>此前昨日早间消息，<a href="https://www.panewslab.com/zh/sqarticledetails/ks4rslgv.html" rel="noopener" target="_blank">Polygon zkEVM主网Beta版本因L1重组出现排序器问题</a>。</p>
+<p><a href="https://www.panewslab.com/zh/sqarticledetails/366bjf56.html" rel="noopener" target="_blank">RippleX披露影响XRP Ledger上AMM池的技术问题，目前正审查拟议修复方案</a></p>
+<p>Ripple开发部门RippleX透露了一个影响XRP Ledger上自动做市商（AMM）池的技术问题。这一漏洞扰乱了交易和资金池，促使RippleX管理层向用户通报资金存款的最新情况。</p>
+<p>根据X社交平台上的帖子，RippleX的技术团队发现XRP Ledger上部分AMM池存在差异，导致交易处理不正确。由于持续存在的技术问题，RippleX建议其用户不再将资金存入受影响的AMM池中。这种预防措施旨在消除当前漏洞可能引起的任何可能的并发症，建议在这些池中拥有LP代币的人赎回它们，直到问题得到解决。</p>
+<p>今日凌晨最新消息，<a href="https://twitter.com/RippleXDev/status/1771961354297241930" rel="nofollow" target="_blank">RippleX在X平台发布更新称</a>，问题已经确定——在一些复杂的支付路径场景中，这种差异影响了DEX支付引擎如何通过AMM池和订单簿路由流动性，正在与社区一起审查提议的修复方案。</p>
+<p><a href="https://www.panewslab.com/zh/sqarticledetails/3g8u8byl.html" rel="noopener" target="_blank">CryptoQuant：估值指标尚未接近过去牛市顶峰，比特币牛市周期未结束</a></p>
+<p>CryptoQuant分析师认为，比特币牛市周期尚未结束，因为价格估值指标与过去牛市顶峰时还相差甚远。比特币在升至73700美元的历史高位后进入价格修正期，矿工、"鲸鱼 "和其他市场参与者，包括大型投资者，都开始抛售手中的比特币以获利了结。CryptoQuant还发现，未实现利润率飙升至69%，为2021年3月以来的最高水平，当时比特币的交易价格约为6万美元。尽管交易者正在抛售资产，但未实现利润率仍高达47%。从长期来看，比特币尚未触及本轮牛市周期的顶部，这也反映在低水平的新投资流动中。目前，大约48%的比特币投资来自短期投资者，而从历史上看，当短期投资者占84%-92%的投资时牛市周期结束。此外，估值指标尚未接近与过去牛市顶峰一致的水平。</p>
+<p><a href="https://www.panewslab.com/zh/sqarticledetails/mj8oey79.html" rel="noopener" target="_blank">一场针对BlockFi、FTX债权人的电子邮件钓鱼骗局已造成至少500万美元损失</a></p>
+<p>据The Block报道，上周，一个以太坊钱包涉嫌一个针对BlockFi和FTX等破产加密公司的债权人的复杂诈骗行为，已在过去一周不断盗取至少价值500万美元的加密货币和NFT，而且没有停止的迹象。</p>
+<p>安全专家Plumferno首先在X上的一个帖子中指出了这一操作，她发现钱包被盗的加密货币疑似源自加密公司BlockFi和FTX以及其他公司向现已破产的公司的债权人发送的一系列网络钓鱼邮件，黑客有可能从最初从电子邮件服务Mailer Lite窃取的数据中获取了电子邮件地址列表，该服务于1月份遭到黑客攻击，导致另一起网络钓鱼骗局，并带来了巨额损失。 Plumferno在她的帖子中写道：“这个骗局最糟糕的部分是，大部分资产都是从休眠钱包中被盗的，这些人可能受到BlockFi破产的影响，并且从那以后就没有再动过这些资金。其中一些受害者也可能还不知道自己被盗。”</p>
+<p><a href="https://www.panewslab.com/zh/sqarticledetails/dg4m4lwx.html" rel="noopener" target="_blank">数据：价值1.65亿美元的代币将在本周解锁</a></p>
+<p>Token Unlocks数据显示，本周OP、PRIME和YGG等代币将迎来一次性大额解锁，总计释放价值1.65亿美元。其中：</p>
+<p>Optimism（OP）将于3月29日中午12点解锁2416万枚代币，价值约8432万美元，占流通供应量的2.4%；</p>
+<p>Echelon Prime（PRIME）将于3月31日上午8点解锁166万枚代币，价值约3753万美元，占流通供应量的4.65%；</p>
+<p>Yield Guild Games（YGG）将于3月27日晚上10点解锁1669万枚代币，价值约1689万美元，占流通供应量的5.39%。</p>
+<p>SingularityNET（AGIX）将于3月28日上午8点解锁884万枚代币，价值约926万美元，占流通供应量的0.69%。</p>
+<p>Sui（SUI）将于3月31日上午8点解锁400万枚代币，价值约668万美元，占流通供应量的0.32%。</p>
+<p>Acala（ACA）将于3月25日上午8点解锁466万枚代币，价值约89.9万美元，占流通供应量的0.48%。</p>
+<p>Euler（EUL）将于3月28日晚上8点30分解锁8.16万枚代币，价值约50.2万美元，占流通供应量的0.44%。</p>
+<p><a href="https://www.panewslab.com/zh/sqarticledetails/vsta6tn9.html" rel="noopener" target="_blank">Dolomite：已成功追回被盗资金的90%，将于本周内公布分配计划</a></p>
+<p>货币市场协议Dolomite在推特发文称，已成功追回被盗资金的90%。将在本周内向每位受害者发布一份分配计划、一份详细的漏洞时候分析报告和一份事件日志。据此前消息，PeckShield监测显示，Dolomite Exchange的旧合约遭受攻击，导致约200万美元的损失。攻击者将盗取的USDC代币换成了大约541.5个以太坊（ETH），价值约190万美元，以及94000个DAI代币。</p>
+<p><a href="https://www.panewslab.com/zh/sqarticledetails/sfxv4py4.html" rel="noopener" target="_blank">行情：比特币突破67000美元，24小时涨幅4.4%</a></p>
+<p>行情显示，比特币突破67000美元，目前报67,300.48美元，24小时涨幅4.4%。与此同时，以太坊突破3400美元，目前报3,453.67美元，24小时涨幅2.78%。</p>
+<p dir="ltr"><strong>PANews新功能「龙」重登场，焕新出发！</strong></p>
+<p dir="ltr">PANews APP及网页端上线4大实用新功能，助力获取专属自己的Alpha资讯：</p>
+<p dir="ltr">【今日必读】每日热点，迅速掌握；</p>
+<p dir="ltr">【发现】热门活动、行业关键数据实时查看；</p>
+<p dir="ltr">【观点】大V观点，看看有无道理；</p>
+<p>【深度】原创文章、行业研报、事件解读，带来深度思考。<a href="https://www.panewslab.com/download.html">立即下载</a>！</p>
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 09:48:58 +0800</pubDate>
+<pubDate>Mon, 25 Mar 2024 09:48:58 +0800</pubDate>
+</item>
+<item>
+<title>Polygon zkEVM主网Beta版已恢复运行</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/h1ga371h.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/h1ga371h.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章指出Polygon zkEVM主网Beta版已恢复运行，紧急委员会激活了紧急状态，并允许核心团队对系统进行修复。完成升级后，解除紧急状态，任何进一步更新需要10天才能生效。只影响主网Beta版，不会影响其他链。将在Polygon基金会论坛发布详细后续报告。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月25日消息，Polygon在X平台表示，Polygon zkEVM主网Beta版已恢复运行。Polygon zkEVM主网Beta版紧急委员会激活了紧急状态，允许Polygon zkEVM核心团队对系统进行必要的修复，从而恢复Polygon zkEVM主网Beta版的L1结算。完成本次升级后，紧急状态被解除，这意味着对系统的任何进一步更新都需要10天的时间锁定才能生效。官方团队将在Polygon基金会论坛上发布详细的后续报告。 这仅影响Polygon zkEVM主网Beta版，不会影响Polygon PoS、Polygon CDK或任何使用Polygon CDK部署的链。</p>
+<p>此前昨日早间消息，<a href="https://www.panewslab.com/zh/sqarticledetails/ks4rslgv.html" rel="noopener" target="_blank">Polygon zkEVM主网Beta版本因L1重组出现排序器问题</a>。</p>
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 09:30:26 +0800</pubDate>
+<pubDate>Mon, 25 Mar 2024 09:30:26 +0800</pubDate>
+</item>
+
+<item>
 <title>模块化战局中，NEAR DA将成为终级解？</title>
 <link>https://www.panewslab.com/zh/articledetails/u2r34t7d.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/u2r34t7d.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。NEAR将成为模块化区块链的主要数据层，支持Rollup可扩展性解决方案。NEAR DA利用NEAR共识机制Nightshade，实现高效的数据可用性。NEAR具备高效的数据存储成本优势，为Rollup方案提供了强大的数据支持。NEAR协议的可扩展性和安全性经过实战验证，并在整个模块化堆栈中得到广泛应用。NEAR正在与Rollup开发工具包集成，为建立在NEAR协议之上的完整生态系统铺平道路。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。NEAR将成为模块化区块链的主要数据层，支持Rollup可扩展性解决方案。NEAR DA利用NEAR共识机制Nightshade，实现高效的数据可用性。NEAR具备高效的数据存储成本优势，为Rollup方案提供了强大的数据支持。NEAR协议的可扩展性和安全性经过实战验证，并在整个模块化堆栈中得到广泛应用。NEAR正在与Rollup开发工具包集成，为建立在NEAR协议之上的完整生态系统铺平道路。 <div>
 <p>撰文：zerokn0wledge</p>
 <p>编译：Frank，Foresight News</p>
 <p>NEAR 将成为模块化区块链的主要数据层，本文将关于 NEAR DA 的数据驱动展开研究。</p>
@@ -88,19 +143,17 @@
 <p>很快，我们将看到一个建立在 NEAR 协议之上的完整的模块化区块链生态系统。</p>
 ]]></content:encoded>
 <pubDate>Mon, 25 Mar 2024 09:00:00 +0800</pubDate>
-<pubDate>Mon, 25 Mar 2024 09:00:00 +0800</pubDate>
 </item>
 <item>
 <title>RippleX披露影响XRP Ledger上AMM池的技术问题，目前正审查拟议修复方案</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/366bjf56.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/366bjf56.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是消极的。据报道，Ripple开发部门RippleX发现了XRP Ledger上自动做市商（AMM）池存在的技术问题，导致交易处理不正确。RippleX建议用户不要将资金存入受影响的AMM池中，并建议持有LP代币的人赎回它们。问题已经确定，并正在与社区一起审查提议的修复方案。 <div>
+<div> <br /><br />摘要：<br />这些信息是消极的。据报道，Ripple开发部门RippleX发现了XRP Ledger上自动做市商（AMM）池存在的技术问题，导致交易处理不正确。RippleX建议用户不要将资金存入受影响的AMM池中，并建议持有LP代币的人赎回它们。问题已经确定，并正在与社区一起审查提议的修复方案。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月25日消息，据Cointelegraph报道，Ripple开发部门RippleX透露了一个影响XRP Ledger上自动做市商（AMM）池的技术问题。这一漏洞扰乱了交易和资金池，促使RippleX管理层向用户通报资金存款的最新情况。</p>
 <p>根据X社交平台上的帖子，RippleX的技术团队发现XRP Ledger上部分AMM池存在差异，导致交易处理不正确。由于持续存在的技术问题，RippleX建议其用户不再将资金存入受影响的AMM池中。这种预防措施旨在消除当前漏洞可能引起的任何可能的并发症，建议在这些池中拥有LP代币的人赎回它们，直到问题得到解决。</p>
 <p>今日凌晨最新消息，<a href="https://twitter.com/RippleXDev/status/1771961354297241930" rel="nofollow" target="_blank">RippleX在X平台发布更新称</a>，问题已经确定——在一些复杂的支付路径场景中，这种差异影响了DEX支付引擎如何通过AMM池和订单簿路由流动性，正在与社区一起审查提议的修复方案。</p>
 ]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 08:42:23 +0800</pubDate>
 <pubDate>Mon, 25 Mar 2024 08:42:23 +0800</pubDate>
 </item>
 <item>
@@ -108,12 +161,11 @@
 <link>https://www.panewslab.com/zh/sqarticledetails/3g8u8byl.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/3g8u8byl.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。CryptoQuant分析师认为比特币牛市周期尚未结束，因为估值指标与过去牛市顶峰相差甚远。比特币价格虽然进入修正期，但未实现利润率飙升至69%，仍然高达47%。大约48%的比特币投资来自短期投资者，远低于牛市周期结束时的84%-92%。估值指标也尚未达到过去牛市顶峰的水平。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。CryptoQuant分析师认为比特币牛市周期尚未结束，因为估值指标与过去牛市顶峰相差甚远。比特币价格虽然进入修正期，但未实现利润率飙升至69%，仍然高达47%。大约48%的比特币投资来自短期投资者，远低于牛市周期结束时的84%-92%。估值指标也尚未达到过去牛市顶峰的水平。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><div class="">
 <p class="content">PANews 3月25日消息，CryptoQuant分析师认为，比特币牛市周期尚未结束，因为价格估值指标与过去牛市顶峰时还相差甚远。比特币在升至73700美元的历史高位后进入价格修正期，矿工、"鲸鱼 "和其他市场参与者，包括大型投资者，都开始抛售手中的比特币以获利了结。CryptoQuant还发现，未实现利润率飙升至69%，为2021年3月以来的最高水平，当时比特币的交易价格约为6万美元。尽管交易者正在抛售资产，但未实现利润率仍高达47%。从长期来看，比特币尚未触及本轮牛市周期的顶部，这也反映在低水平的新投资流动中。目前，大约48%的比特币投资来自短期投资者，而从历史上看，当短期投资者占84%-92%的投资时牛市周期结束。此外，估值指标尚未接近与过去牛市顶峰一致的水平。</p>
 </div>
 ]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 08:14:31 +0800</pubDate>
 <pubDate>Mon, 25 Mar 2024 08:14:31 +0800</pubDate>
 </item>
 <item>
@@ -121,11 +173,10 @@
 <link>https://www.panewslab.com/zh/sqarticledetails/mj8oey79.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/mj8oey79.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是消极的。据报道，一个以太坊钱包涉嫌在过去一周持续盗取至少500万美元的加密货币和NFT，涉及针对BlockFi和FTX等破产加密公司的债权人的复杂诈骗行为。安全专家Plumferno发现钱包被盗的加密货币可能源自网络钓鱼邮件，黑客从电子邮件服务Mailer Lite窃取数据，导致巨额损失。受害者大部分为休眠钱包持有者，可能尚未意识到自己被盗。 <div>
+<div> <br /><br />摘要：<br />这些信息是消极的。据报道，一个以太坊钱包涉嫌在过去一周持续盗取至少500万美元的加密货币和NFT，涉及针对BlockFi和FTX等破产加密公司的债权人的复杂诈骗行为。安全专家Plumferno发现钱包被盗的加密货币可能源自网络钓鱼邮件，黑客从电子邮件服务Mailer Lite窃取数据，导致巨额损失。受害者大部分为休眠钱包持有者，可能尚未意识到自己被盗。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月25日消息，据The Block报道，上周，一个以太坊钱包涉嫌一个针对BlockFi和FTX等破产加密公司的债权人的复杂诈骗行为，已在过去一周不断盗取至少价值500万美元的加密货币和NFT，而且没有停止的迹象。</p>
 <p>安全专家Plumferno首先在X上的一个帖子中指出了这一操作，她发现钱包被盗的加密货币疑似源自加密公司BlockFi和FTX以及其他公司向现已破产的公司的债权人发送的一系列网络钓鱼邮件，黑客有可能从最初从电子邮件服务Mailer Lite窃取的数据中获取了电子邮件地址列表，该服务于1月份遭到黑客攻击，导致另一起网络钓鱼骗局，并带来了巨额损失。 Plumferno在她的帖子中写道：“这个骗局最糟糕的部分是，大部分资产都是从休眠钱包中被盗的，这些人可能受到BlockFi破产的影响，并且从那以后就没有再动过这些资金。其中一些受害者也可能还不知道自己被盗。”</p>
 ]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 08:13:18 +0800</pubDate>
 <pubDate>Mon, 25 Mar 2024 08:13:18 +0800</pubDate>
 </item>
 <item>
@@ -133,7 +184,7 @@
 <link>https://www.panewslab.com/zh/articledetails/m3zeiwkg.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/m3zeiwkg.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。本文首先讨论了比特币减半对市场供应的影响，指出ETF对比特币需求的显著增加可能抵消了减半带来的供应挤压效应。其次，分析了长期持有者（LTH）在市场中的关键作用，以及他们对比特币供应的影响。接着，提到了减半是否会成为新闻销售事件的可能性，以及当前周期与以往周期的不同之处。最后，强调了监控ETF活动和LTH行为对于制定有效交易策略的重要性。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。本文首先讨论了比特币减半对市场供应的影响，指出ETF对比特币需求的显著增加可能抵消了减半带来的供应挤压效应。其次，分析了长期持有者（LTH）在市场中的关键作用，以及他们对比特币供应的影响。接着，提到了减半是否会成为新闻销售事件的可能性，以及当前周期与以往周期的不同之处。最后，强调了监控ETF活动和LTH行为对于制定有效交易策略的重要性。 <div>
 <p>作者：Marcin Milosierny</p>
 <p>编译：Ladyfinger，Blockbeats</p>
 <p>随着比特币逐渐迈向下一次减半事件，市场结构和参与者行为的微妙变化揭示了一幅复杂的交易图景。本报告深入探讨了 ETF 的显著购买力如何重塑了传统关于减半带来的供应挤压效应的预期，以及长期持有者（LTH）在当前市场周期中所扮演的关键角色。通过综合分析历史数据、市场趋势以及投资者行为，本文为交易者提供了宝贵的见解，旨在帮助他们在比特币市场的独特环境中导航，优化其交易策略。随着市场前行至关键的减半节点，理解这些动态成为把握未来市场方向的关键。</p>
@@ -177,9 +228,7 @@
 <p>因此，在这个周期中成功的方向性交易很可能取决于多方面的方法。交易者需要密切关注 ETF 活动，寻找持续需求或出现卖压的迹象。同时，他们必须评估 LTH 的情绪和行动，后者决定卖出或持有可以进一步影响市场的供应动态。适应这些影响的交易策略对于有效地导航比特币市场周期的下一阶段至关重要。</p>
 ]]></content:encoded>
 <pubDate>Mon, 25 Mar 2024 08:00:00 +0800</pubDate>
-<pubDate>Mon, 25 Mar 2024 08:00:00 +0800</pubDate>
 </item>
-
 <item>
 <title>数据：价值1.65亿美元的代币将在本周解锁</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/dg4m4lwx.html</link>
