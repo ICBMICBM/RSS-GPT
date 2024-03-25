@@ -4,6 +4,29 @@
 <title>Bitcoinist.com</title>
 <link>https://bitcoinist.com</link>
 
+<item>
+<title>XRP Ledger’s Shiny New AMM Runs Into Problems – Here’s What We Know</title>
+<link>https://bitcoinist.com/xrp-ledger-amm-problems/</link>
+<guid>https://bitcoinist.com/xrp-ledger-amm-problems/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了XRP Ledger（XRPL）新的AMM在推出后遭遇到的一个意外bug。XRPL开发人员发现了系统中的各种不一致之处，导致了问题的出现。开发人员呼吁修复bug，并强调了需要加强测试程序，以及引入Canary Network来增强AMM的稳定性。WietseWind开发人员呼吁建立Canary Network来改善AMM，并提出了这一解决方案的优势。 <div>
+<p>Following the <a href="https://x.com/ripplexdev/status/1771271093468193241?s=46" rel="nofollow" target="_blank">official launch</a> of XRP Ledger’s (XRPL) <a href="https://www.newsbtc.com/analysis/xrp/ripple-amms-to-xrpl-xrp-price/" rel="nofollow noopener" target="_blank">Automated Market Maker (AMM)</a>, XLS-30, on March 22, developers unearthed various discrepancies linked to a system bug. As a result, an XRPL developer has called for a fix, highlighting the need for enhanced testing procedures and the incorporation of a Canary Network to bolster the AMM’s stability. </p>
+<h2>XRPL’s New AMM Encounters Unexpected Bug</h2>
+<p>On March 24, the RippleX development team <a href="https://x.com/ripplexdev/status/1771680918895558913?s=46" rel="nofollow" target="_blank">unveiled</a> a technical glitch in its newly launched AMM. The revelation comes as a <a href="https://x.com/maria06801698/status/1771969474310127774?s=46" rel="nofollow" target="_blank">surprise</a> to the general XRPL community, as they had been eagerly waiting for the <a href="https://www.newsbtc.com/xrp-news/xrp-not-bank-stablecoin-post-amm/" rel="nofollow noopener" target="_blank">protocol to roll out</a>. </p>
+
+<p>According to the official statement released by the <a href="https://bitcoinist.com/ripple-releases-amm-devnet-unlocks-defi-potential/">RippleX team</a>, the technical glitch surfaced as a result of multiple discrepancies identified in several <a href="https://www.newsbtc.com/analysis/xrp/ripple-cto-amm-xrp-income/" rel="nofollow noopener" target="_blank">AMM pools</a>. Upon investigation, the team revealed that the inconsistencies had “affected how the DEX payment engine routes liquidity through the AMM pools and order books.”</p>
+<p>Addressing the issue, the development team has assured users that the engineering team were working diligently to resolve the bug issue and restore normal operation in the <a href="https://bitcoinist.com/ripple-cto-breaks-down-the-amm-feature/">AMM</a>. Additionally, they have advised users to remain cautious and avoid depositing new funds into the AMM pools until the dilemma has been rectified.</p>
+<p>Despite the temporary setback, optimism remains in the <a href="https://bitcoinist.com/primary-threat-to-xrp-ledger-uncovered/">XRPL</a> community, with many <a href="https://x.com/gootecks/status/1771974042817528258?s=46" rel="nofollow" target="_blank">expressing</a> confidence in the development team’s ability to swiftly address the issue. The RippleX team has also <a href="https://x.com/ripplexdev/status/1771961354297241930?s=46" rel="nofollow" target="_blank">stated</a> that it has begun reviewing several proposed fixes for the AMM glitch, highlighting that the proposals will have to go through an amendment voting process before any solution is implemented.  </p>
+<h2>XRPL Dev Calls For Canary Network</h2>
+<p>In response to the <a href="https://bitcoinist.com/ripple-xrp-ledger-amm-launch-not-affected/">technical challenges </a>faced by XRPL’s new AMM, WietseWind, one of the developers of the <a href="https://bitcoinist.com/xrp-ledger-foundation-ripplex-governance-overhaul/">XRP Ledger</a> has <a href="https://x.com/wietsewind/status/1771998717832278162?s=46" rel="nofollow" target="_blank">proposed</a> a long-term solution that could potentially ensure a more stable protocol. According to the developer, the discovery of a bug in the newly <a href="https://bitcoinist.com/coreum-founder-teases-gains-for-xrp-users-with-amm/">launched AMM</a> is evidence of the fragility of the protocol, emphasizing a lack of proper testing before launch.</p>
+
+<p>WietseWind has stated the need for the development of a Canary Network to enhance and improve the AMM. He revealed that the Canary Network will have to be separate from the AMM, while also offering a native asset of some value so individuals can use it for real-life scenarios.</p>
+<p>The developer has disclosed that the Canary Network would enable better testing with real value on a network that is not the mainnet. Additionally, it would be an inclusive network for the developers, projects, and everyone within the <a href="https://bitcoinist.com/xrps-underperformance-ruffles-feathers-as-community-asks-ripple-to-do-something-about-price/">XRPL community.</a></p>
+<p><img alt="XRP price chart from Tradingview.com" class="aligncenter size-medium" height="1530" src="https://www.tradingview.com/x/ARb5diBS/" width="3286" /></p>
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 14:00:21 +0000</pubDate>
+<pubDate>Mon, 25 Mar 2024 14:00:21 +0000</pubDate>
+</item>
 
 <item>
 <title>Weekly Crypto Preview: Top Events And Coins To Watch</title>
