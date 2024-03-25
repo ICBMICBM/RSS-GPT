@@ -8556,3 +8556,12 @@ Existing_entries: 181
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-25 10:00:37.175264
+------------------------------------------------------
+Started: 2024-03-25 10:17:59.228165
+Existing_entries: 181
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 65
+Summarized using GPT-3.5-turbo-1106
+Append: [Crypto Market Remains Focused on Spot Bitcoin ETF Flows Over Fundamentals: Coinbase](https://www.coindesk.com/markets/2024/03/25/crypto-market-remains-focused-on-spot-bitcoin-etf-flows-over-fundamentals-coinbase/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-25 10:18:00.728862
