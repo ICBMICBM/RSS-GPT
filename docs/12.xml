@@ -4,12 +4,13 @@
 <title>Bitcoinist.com</title>
 <link>https://bitcoinist.com</link>
 
+
 <item>
 <title>XRP Ledger’s Shiny New AMM Runs Into Problems – Here’s What We Know</title>
 <link>https://bitcoinist.com/xrp-ledger-amm-problems/</link>
 <guid>https://bitcoinist.com/xrp-ledger-amm-problems/</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了XRP Ledger（XRPL）新的AMM在推出后遭遇到的一个意外bug。XRPL开发人员发现了系统中的各种不一致之处，导致了问题的出现。开发人员呼吁修复bug，并强调了需要加强测试程序，以及引入Canary Network来增强AMM的稳定性。WietseWind开发人员呼吁建立Canary Network来改善AMM，并提出了这一解决方案的优势。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章介绍了XRP Ledger（XRPL）新的AMM在推出后遭遇到的一个意外bug。XRPL开发人员发现了系统中的各种不一致之处，导致了问题的出现。开发人员呼吁修复bug，并强调了需要加强测试程序，以及引入Canary Network来增强AMM的稳定性。WietseWind开发人员呼吁建立Canary Network来改善AMM，并提出了这一解决方案的优势。 <div>
 <p>Following the <a href="https://x.com/ripplexdev/status/1771271093468193241?s=46" rel="nofollow" target="_blank">official launch</a> of XRP Ledger’s (XRPL) <a href="https://www.newsbtc.com/analysis/xrp/ripple-amms-to-xrpl-xrp-price/" rel="nofollow noopener" target="_blank">Automated Market Maker (AMM)</a>, XLS-30, on March 22, developers unearthed various discrepancies linked to a system bug. As a result, an XRPL developer has called for a fix, highlighting the need for enhanced testing procedures and the incorporation of a Canary Network to bolster the AMM’s stability. </p>
 <h2>XRPL’s New AMM Encounters Unexpected Bug</h2>
 <p>On March 24, the RippleX development team <a href="https://x.com/ripplexdev/status/1771680918895558913?s=46" rel="nofollow" target="_blank">unveiled</a> a technical glitch in its newly launched AMM. The revelation comes as a <a href="https://x.com/maria06801698/status/1771969474310127774?s=46" rel="nofollow" target="_blank">surprise</a> to the general XRPL community, as they had been eagerly waiting for the <a href="https://www.newsbtc.com/xrp-news/xrp-not-bank-stablecoin-post-amm/" rel="nofollow noopener" target="_blank">protocol to roll out</a>. </p>
@@ -25,9 +26,7 @@
 <p><img alt="XRP price chart from Tradingview.com" class="aligncenter size-medium" height="1530" src="https://www.tradingview.com/x/ARb5diBS/" width="3286" /></p>
 ]]></content:encoded>
 <pubDate>Mon, 25 Mar 2024 14:00:21 +0000</pubDate>
-<pubDate>Mon, 25 Mar 2024 14:00:21 +0000</pubDate>
 </item>
-
 <item>
 <title>Weekly Crypto Preview: Top Events And Coins To Watch</title>
 <link>https://bitcoinist.com/weekly-crypto-preview-top-events-coins-to-watch/</link>

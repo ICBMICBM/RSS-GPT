@@ -8721,3 +8721,12 @@ Existing_entries: 188
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-25 14:15:06.334408
+------------------------------------------------------
+Started: 2024-03-25 14:27:22.479048
+Existing_entries: 188
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 158
+Summarized using GPT-3.5-turbo-1106
+Append: [How Bitcoin Mining Has Changed Since the Last Halving](https://www.coindesk.com/consensus-magazine/2024/03/25/how-bitcoin-mining-has-changed-since-the-last-halving/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-25 14:27:24.614457
