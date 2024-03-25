@@ -9697,3 +9697,18 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [深度解读Solana：像Apple，但又不同于Apple](https://www.panewslab.com/zh/articledetails/4dnlr9e3.html)
 append_entries: 1
 Finish: 2024-03-25 03:55:26.834069
+------------------------------------------------------
+Started: 2024-03-25 04:11:22.254078
+Existing_entries: 405
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 205
+Summarized using GPT-3.5-turbo-1106
+Append: [10个新建地址3天前从Coinbase提取4970万枚ONDO，约合3690万美元](https://www.panewslab.com/zh/sqarticledetails/v55ew2pv.html)
+Token length: 2430
+Summarized using GPT-3.5-turbo-1106
+Append: [SEC试图将ETH归类为证券的原因及反对观点](https://www.panewslab.com/zh/articledetails/5lo667rg.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [深度解读Solana：像Apple，但又不同于Apple](https://www.panewslab.com/zh/articledetails/4dnlr9e3.html)
+append_entries: 3
+Finish: 2024-03-25 04:11:32.644793
