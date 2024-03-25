@@ -5,11 +5,187 @@
 <link>https://rss.panewslab.com/</link>
 
 <item>
+<title>模块化战局中，NEAR DA将成为终级解？</title>
+<link>https://www.panewslab.com/zh/articledetails/u2r34t7d.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/u2r34t7d.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。NEAR将成为模块化区块链的主要数据层，支持Rollup可扩展性解决方案。NEAR DA利用NEAR共识机制Nightshade，实现高效的数据可用性。NEAR具备高效的数据存储成本优势，为Rollup方案提供了强大的数据支持。NEAR协议的可扩展性和安全性经过实战验证，并在整个模块化堆栈中得到广泛应用。NEAR正在与Rollup开发工具包集成，为建立在NEAR协议之上的完整生态系统铺平道路。 <div>
+<p>撰文：zerokn0wledge</p>
+<p>编译：Frank，Foresight News</p>
+<p>NEAR 将成为模块化区块链的主要数据层，本文将关于 NEAR DA 的数据驱动展开研究。</p>
+<h3>模块化理论将重塑 Web3</h3>
+<p>模块化通过将核心功能分成不同的、可互换的层，催生了一个建立在可扩展的执行层之上的未来——这些执行层在技术栈的各个层面都经过优化，以服务于特定的用例或垂直领域。</p>
+<p><img alt="模块化战局中，NEAR DA将成为终级解？" height="801" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/2bk0xY949w.png" style="display: block; margin-left: auto; margin-right: auto;" width="1498" /></p>
+<p>虽然模块化允许各种网络配置，但 Rollup 可能是最知名的模块化网络设计。</p>
+<p>简单来说，Rollup 会将交易批量在链下处理，然后仅在链上定期集中验证它们的有效性。</p>
+<p><img alt="模块化战局中，NEAR DA将成为终级解？" height="765" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/48A9kqBttQ.png" style="display: block; margin-left: auto; margin-right: auto;" width="1504" /></p>
+<p>具体设计上，则根据状态验证机制和 Rollup 发布状态数据的位置，存在更细致的差别。</p>
+<p>从以以太坊为中心的视角来看，这部分细节对应了一些关键术语：</p>
+<ul>
+<li>Validity Rollups：数据和验证状态在 L1 上进行（有效性证明）；</li>
+<li>Optimistic Rollups：数据和验证状态在 L1 上进行（欺诈证明）；</li>
+<li>Validiums：数据在链下 &amp; 验证状态在 L1 上进行（有效性证明）；</li>
+<li>Optimiums：数据在链下 &amp; 验证状态在 L1 上进行（欺诈证明）；</li>
+</ul>
+<p><img alt="模块化战局中，NEAR DA将成为终级解？" height="990" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/G3NWZbVAzX.png" style="display: block; margin-left: auto; margin-right: auto;" width="1374" /></p>
+<p>有关整体架构的概览，请查看下图的可视化信息。</p>
+<p><img alt="模块化战局中，NEAR DA将成为终级解？" height="751" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/5iuT0z6uDF.png" style="display: block; margin-left: auto; margin-right: auto;" width="1519" /></p>
+<h3>NEAR 能做什么？</h3>
+<p>那么 NEAR Protocol 如何为这些高度可扩展、基于 Rollup 的扩展解决方案提供服务？</p>
+<ul>
+<li>NEAR 快速确定性层：更快更便宜地验证状态；</li>
+<li>NEAR 数据可用性（DA）： 更高效地发布数据；</li>
+</ul>
+<p><strong>NEAR 是以太坊的补充，不是竞争对手。</strong></p>
+<p>接下来让我们深入研究一下数据，本文我们不会深入探讨快速确定性层，相反，我们的数据驱动分析将带我们进入数据可用性的兔子洞。</p>
+<p>Rollup 方案的可扩展性瓶颈在于基础层处理其链上发布数据的的能力，</p>
+<p>而在 EIP4844 之前的时代，调用数据的花费（用于将数据发布到 L1）占了 Rollup 总费用的 80-90%。</p>
+<p>在过去 5 个月中，以太坊上的 Rollup 们每月总共花费 9,000-16,000 枚 ETH 用于数据可用性。</p>
+<p>假设平均每月 1.2 万枚 ETH，这相当于 4200 万美元的 DA 成本。</p>
+<p><img alt="模块化战局中，NEAR DA将成为终级解？" height="719" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/2hEO7ms6XF.png" style="display: block; margin-left: auto; margin-right: auto;" width="1535" /></p>
+<p>为什么 Rollup 为此要花这么多钱？因为 Rollup 需要其状态数据可用，以便计算和验证其状态。</p>
+<p>如果数据不可用，则没有人可以再验证该链，并且 Rollup 会关闭或至少容易受到攻击。以太坊是最安全且经过考验的网络之一。然而，这是有代价的。因此对于许多用例，前面提到的 Validium 和 Optimium 设计更加可行。</p>
+<p>通过在其他地方发布数据，这些网络设计可以显着降低交易成本并提高吞吐量。然而，虽然中心化的链下委员会提供了一种易于快速实施的替代方案，但它们引入了重要的信任假设。</p>
+<p>这就是为什么由全球分布的验证器集和加密经济安全机制保护的去中心化、模块化 DA 层是其中的关键：</p>
+<p>它们允许相同的可扩展性和成本改进，同时保持安全性和去中心化。</p>
+<p>等等，EIP-4844 提案不就解决这个问题了吗？只能说部分解决，但并非永久解决。</p>
+<p>引入数据片段（data blobs）的方式可以降低 Rollup 发布数据到 L1 的成本，这些数据片段会保存在 EVM 执行之外，仅存储数周（以避免状态膨胀）。</p>
+<p><img alt="模块化战局中，NEAR DA将成为终级解？" height="624" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/zKgT7ph8m5.png" style="display: block; margin-left: auto; margin-right: auto;" width="1507" /></p>
+<p><img alt="模块化战局中，NEAR DA将成为终级解？" height="737" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/BYw51okd28.png" style="display: block; margin-left: auto; margin-right: auto;" width="1527" /></p>
+<p>然而，引入数据片段仅能带来一次性的提升，随着使用 Rollup 的项目增多以及数据量增加，区块空间对于数据片段的需求也会随之增加，从而导致数据片段的费用上涨。</p>
+<p><img alt="模块化战局中，NEAR DA将成为终级解？" height="490" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/r6AVf8Jcs1.png" style="display: block; margin-left: auto; margin-right: auto;" width="1532" /></p>
+<p>长期而言，对于成本高度敏感的用例，我们需要可与以太坊结合使用的更具可扩展性的 DA 层。</p>
+<p>目前在成本和吞吐量方面最具可扩展性的解决方案就是 NEAR Protocol。</p>
+<p><img alt="模块化战局中，NEAR DA将成为终级解？" height="562" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/w9P13F3wRo.png" style="display: block; margin-left: auto; margin-right: auto;" width="1019" /></p>
+<h3>NEAR DA 的架构</h3>
+<p>是什么让 NEAR Protocol 作为 DA 层具有如此高的可扩展性？</p>
+<p>NEAR DA 利用 NEAR 共识机制的一个重要部分，即 Nightshade，它将网络并行化为多个分片（本质上是多个并行区块链）。</p>
+<p><img alt="模块化战局中，NEAR DA将成为终级解？" height="548" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/9V3854X2Sw.png" style="display: block; margin-left: auto; margin-right: auto;" width="1091" /></p>
+<p>NEAR 上的每个分片都会生成区块的一小部分，称为 chunk。</p>
+<p>这些 chunk 被聚合以产生区块。所有这些都完全发生在协议级别，因此用户和开发人员不可见。</p>
+<p><img alt="模块化战局中，NEAR DA将成为终级解？" height="401" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/B5a3Jlg3g3.png" style="display: block; margin-left: auto; margin-right: auto;" width="1097" /></p>
+<p>当一个区块生产者处理一份收据时，需要针对对应收据达成共识。一旦该区块被处理并包含在区块中后，该收据就不再需要用于共识，并且可以从区块链的状态中删除。</p>
+<p>因此，NEAR 不会在数据多于所需的情况下减慢其共识速度，但 NEAR DA 的任何用户都将有充足的时间来查询交易数据。</p>
+<p>因此，对于任何 Rollup 方案（尤其是高交易量的方案）来说，可扩展且具有成本效益的数据可用性都至关重要。</p>
+<p>游戏网络无疑是亟需这一特性的领域之一，但人工智能 / 机器学习等其他用例也同样需要可扩展的数据存储。</p>
+<p>随着 NEAR 协议转向无状态验证，它将进一步降低某些类型验证器（区块验证器）的硬件需求。</p>
+<p>通过将状态存储在内存中，NEAR 可以支持更多的分片，从而提升系统的去中心化程度。</p>
+<p><img alt="模块化战局中，NEAR DA将成为终级解？" height="543" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/qJ5kOUGMR0.png" style="display: block; margin-left: auto; margin-right: auto;" width="1096" /></p>
+<p>这意味着分片数量将会增加，从而增加整体吞吐量。</p>
+<p>目前 NEAR 协议已经非常高效，单个分片每秒处理 4MB 的数据，现有分片为 4 个，将来通过扩展到 n 个分片，意味着基于 NEAR 的 Rollup 方案或任何其他项目将不再需要竞争区块空间。</p>
+<p>这与单片式系统以及其他区块链的扩展限制形成了鲜明对比，并让 NEAR 的数据可用性（DA）具备了未来可扩展性。</p>
+<p>随着 NEAR 协议将分片数量逐步增加至 n 个，单个分片需要存储的数据量也会随之减少。</p>
+<p><img alt="模块化战局中，NEAR DA将成为终级解？" height="608" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/rjUt2I2eg6.png" style="display: block; margin-left: auto; margin-right: auto;" width="1093" /></p>
+<p>NEAR 数据可用性（DA）如今就已经展现了巨大的成本节约潜力。</p>
+<p>以 Arbitrum 为例，使用 NEAR DA 的话，其 10 周的数据存储费用仅为 87.62 美元，而使用传统方案则需要超过 1600 万美元，同期对比，Celestia 的数据存储成本也远远高于 NEAR DA。</p>
+<p>总结来说，NEAR 协议提供了一个非常强大的数据可用性（DA）解决方案，该方案将在模块化堆栈中得到广泛应用，具备以下优势：</p>
+<ul>
+<li>高性价比和可扩展性；</li>
+<li>经过实战验证的安全保障；</li>
+<li>基于面向未来的技术架构；</li>
+</ul>
+<p>NEAR 与 Rollup 开发工具包 / 堆栈（例如 Polygon CDK 或 Arbitrum Orbit Stack 及 AltLayer 等 Rollup 即服务（RaaS）提供商）的集成正在不断扩展。</p>
+<p>很快，我们将看到一个建立在 NEAR 协议之上的完整的模块化区块链生态系统。</p>
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 09:00:00 +0800</pubDate>
+<pubDate>Mon, 25 Mar 2024 09:00:00 +0800</pubDate>
+</item>
+<item>
+<title>RippleX披露影响XRP Ledger上AMM池的技术问题，目前正审查拟议修复方案</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/366bjf56.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/366bjf56.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是消极的。据报道，Ripple开发部门RippleX发现了XRP Ledger上自动做市商（AMM）池存在的技术问题，导致交易处理不正确。RippleX建议用户不要将资金存入受影响的AMM池中，并建议持有LP代币的人赎回它们。问题已经确定，并正在与社区一起审查提议的修复方案。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月25日消息，据Cointelegraph报道，Ripple开发部门RippleX透露了一个影响XRP Ledger上自动做市商（AMM）池的技术问题。这一漏洞扰乱了交易和资金池，促使RippleX管理层向用户通报资金存款的最新情况。</p>
+<p>根据X社交平台上的帖子，RippleX的技术团队发现XRP Ledger上部分AMM池存在差异，导致交易处理不正确。由于持续存在的技术问题，RippleX建议其用户不再将资金存入受影响的AMM池中。这种预防措施旨在消除当前漏洞可能引起的任何可能的并发症，建议在这些池中拥有LP代币的人赎回它们，直到问题得到解决。</p>
+<p>今日凌晨最新消息，<a href="https://twitter.com/RippleXDev/status/1771961354297241930" rel="nofollow" target="_blank">RippleX在X平台发布更新称</a>，问题已经确定——在一些复杂的支付路径场景中，这种差异影响了DEX支付引擎如何通过AMM池和订单簿路由流动性，正在与社区一起审查提议的修复方案。</p>
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 08:42:23 +0800</pubDate>
+<pubDate>Mon, 25 Mar 2024 08:42:23 +0800</pubDate>
+</item>
+<item>
+<title>CryptoQuant：估值指标尚未接近过去牛市顶峰，比特币牛市周期未结束</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/3g8u8byl.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/3g8u8byl.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。CryptoQuant分析师认为比特币牛市周期尚未结束，因为估值指标与过去牛市顶峰相差甚远。比特币价格虽然进入修正期，但未实现利润率飙升至69%，仍然高达47%。大约48%的比特币投资来自短期投资者，远低于牛市周期结束时的84%-92%。估值指标也尚未达到过去牛市顶峰的水平。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><div class="">
+<p class="content">PANews 3月25日消息，CryptoQuant分析师认为，比特币牛市周期尚未结束，因为价格估值指标与过去牛市顶峰时还相差甚远。比特币在升至73700美元的历史高位后进入价格修正期，矿工、"鲸鱼 "和其他市场参与者，包括大型投资者，都开始抛售手中的比特币以获利了结。CryptoQuant还发现，未实现利润率飙升至69%，为2021年3月以来的最高水平，当时比特币的交易价格约为6万美元。尽管交易者正在抛售资产，但未实现利润率仍高达47%。从长期来看，比特币尚未触及本轮牛市周期的顶部，这也反映在低水平的新投资流动中。目前，大约48%的比特币投资来自短期投资者，而从历史上看，当短期投资者占84%-92%的投资时牛市周期结束。此外，估值指标尚未接近与过去牛市顶峰一致的水平。</p>
+</div>
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 08:14:31 +0800</pubDate>
+<pubDate>Mon, 25 Mar 2024 08:14:31 +0800</pubDate>
+</item>
+<item>
+<title>一场针对BlockFi、FTX债权人的电子邮件钓鱼骗局已造成至少500万美元损失</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/mj8oey79.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/mj8oey79.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是消极的。据报道，一个以太坊钱包涉嫌在过去一周持续盗取至少500万美元的加密货币和NFT，涉及针对BlockFi和FTX等破产加密公司的债权人的复杂诈骗行为。安全专家Plumferno发现钱包被盗的加密货币可能源自网络钓鱼邮件，黑客从电子邮件服务Mailer Lite窃取数据，导致巨额损失。受害者大部分为休眠钱包持有者，可能尚未意识到自己被盗。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月25日消息，据The Block报道，上周，一个以太坊钱包涉嫌一个针对BlockFi和FTX等破产加密公司的债权人的复杂诈骗行为，已在过去一周不断盗取至少价值500万美元的加密货币和NFT，而且没有停止的迹象。</p>
+<p>安全专家Plumferno首先在X上的一个帖子中指出了这一操作，她发现钱包被盗的加密货币疑似源自加密公司BlockFi和FTX以及其他公司向现已破产的公司的债权人发送的一系列网络钓鱼邮件，黑客有可能从最初从电子邮件服务Mailer Lite窃取的数据中获取了电子邮件地址列表，该服务于1月份遭到黑客攻击，导致另一起网络钓鱼骗局，并带来了巨额损失。 Plumferno在她的帖子中写道：“这个骗局最糟糕的部分是，大部分资产都是从休眠钱包中被盗的，这些人可能受到BlockFi破产的影响，并且从那以后就没有再动过这些资金。其中一些受害者也可能还不知道自己被盗。”</p>
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 08:13:18 +0800</pubDate>
+<pubDate>Mon, 25 Mar 2024 08:13:18 +0800</pubDate>
+</item>
+<item>
+<title>减半与ETF对比特币的影响究竟有多大？</title>
+<link>https://www.panewslab.com/zh/articledetails/m3zeiwkg.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/m3zeiwkg.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。本文首先讨论了比特币减半对市场供应的影响，指出ETF对比特币需求的显著增加可能抵消了减半带来的供应挤压效应。其次，分析了长期持有者（LTH）在市场中的关键作用，以及他们对比特币供应的影响。接着，提到了减半是否会成为新闻销售事件的可能性，以及当前周期与以往周期的不同之处。最后，强调了监控ETF活动和LTH行为对于制定有效交易策略的重要性。 <div>
+<p>作者：Marcin Milosierny</p>
+<p>编译：Ladyfinger，Blockbeats</p>
+<p>随着比特币逐渐迈向下一次减半事件，市场结构和参与者行为的微妙变化揭示了一幅复杂的交易图景。本报告深入探讨了 ETF 的显著购买力如何重塑了传统关于减半带来的供应挤压效应的预期，以及长期持有者（LTH）在当前市场周期中所扮演的关键角色。通过综合分析历史数据、市场趋势以及投资者行为，本文为交易者提供了宝贵的见解，旨在帮助他们在比特币市场的独特环境中导航，优化其交易策略。随着市场前行至关键的减半节点，理解这些动态成为把握未来市场方向的关键。</p>
+<h3>减半与 ETF 供应下沉</h3>
+<p>市场参与者通常将比特币的减半视为牛市的前兆，因为它减少了新比特币生成的速率。减半将矿工验证交易和创建新区块的奖励减半，有效地减缓了新比特币流入市场的速度。</p>
+<p>此外，这种预设的稀缺性预计会减少矿工的销售压力，因为矿工通常需要出售奖励的比特币来支付运营成本。按理来说，随着待售新比特币的减少，稀缺效应就会启动，历史上，随着供应收紧和需求保持稳定或增长，就会为价格上涨创造条件。</p>
+<p>然而，当前的市场条件与历史标准不同。随着比特币减半时间的临近，与 ETF 激增的需求相比，新开采出来并投入流通的比特币的影响正变得越来越小。正如下面的 Glassnode 图表所示，ETF 从市场上清除的比特币数量是每天铸造比特币数量的数倍。</p>
+<p><img alt="减半与ETF对比特币的影响究竟有多大？" height="706" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/26h334Qi45.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="1239" /></p>
+<p>目前，矿工每天大约向市场提供 900 个比特币。减半后，这个数字预计将下降到大约 450 个比特币，这在过去的市场条件下，可能加剧了比特币的稀缺性并推动价格往上涨。然而，ETF 的大规模收购从流通中提取的比特币数量远超过矿工的日产量表明了即将到来的减半可能不会导致曾经预期的供应紧缩。</p>
+<p>从本质上讲，ETF 通过大量且持续的购买活动，已经预先减少了可用的供应量，从而预先影响了减半的影响。换句话说，通常从减半中期待的供应紧缩可能由于 ETF 的大规模比特币收购而发生。这些基金目前对比特币的可用性施加了重大影响，这可能会在中短期内掩盖减半对市场的影响。</p>
+<p>然而，ETF 的活动给市场动态带来了自身的复杂性。例如，ETF 对比特币价格的影响不应该是单向的。尽管目前有大量资金流入的趋势，但资金流出的可能性依然存在，这就带来了市场突然转变的风险。密切关注 ETF 活动，包括购买和潜在销售，对于预测减半临近时的市场动向至关重要。</p>
+<h3>长期持有者供应的影响</h3>
+<p>随着 ETF 活动可能减弱了减半对比特币长期价格动态的影响，其他关键市场因素将成为关注焦点。在供应动态方面，除了矿工贡献的部分外，一个主要的供应来源是来自长期持有者（LTH）。他们决定卖出还是持有对市场供需产生了显著影响。</p>
+<p>在比特币生态系统中，市场参与者常常根据持有比特币的时长被分为长期持有者（LTH）和短期持有者（STH）。LTH 被 Glassnode 定义为长时间（通常是超过 155 天）持有比特币的实体。这个分类是基于观察到超过这个期限持有的比特币在面对市场波动时被卖出的可能性较低，表明了对比特币长期价值的更强信念。相比之下，STH 对价格变动反应更为敏感，往往会造成即时的供需波动。</p>
+<p>为了说明 LTH 在比特币市场供应动态中的作用，Glassnode 的分析师提出了长期持有者市场通胀率这一指标。它显示了相对于每日矿工发行量，长期持有者积累或分配比特币的年化比率。该比率有助于识别净积累期（长期持有者有效地将比特币从市场中移除）和净分配期（长期持有者增加了市场的卖方压力）。</p>
+<p><img alt="减半与ETF对比特币的影响究竟有多大？" height="695" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/Qz5E78X6xY.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="1235" /></p>
+<p>历史规律表明，随着 LTH 分布高峰的临近，市场可能会趋于平衡，并有可能触顶。目前，LTH 市场通胀率的趋势显示，正处于分配周期的早期阶段，大约完成了 30%。这表明，在从供需角度达到市场平衡点和潜在的价格顶部之前，当前周期内还会有大量活动。</p>
+<p>鉴于此，交易者应密切监控长期持有者市场通胀率，因为这个指标可以指导交易策略，特别是在宏观尺度上识别潜在的市场顶部或底部。</p>
+<h3>减半是新闻销售的事件？</h3>
+<p>尽管减半通常被解释为比特币的看涨信号，但对市场的直接影响在很大程度上受心理因素的影响。有时，市场将其视为一个「卖出新闻」的事件，即市场情绪和价格在减半前建立动力，只是在减半后不久导致了显著的价格调整。</p>
+<p>例如，在 2016 年，市场在减半时期前后经历了从大约 760 美元降至 540 美元的急剧抛售，回调幅度为 30%。这次下跌是市场参与者对事件本身而非长期供应影响作出反应的典型例子，展示了减半能够立即触发市场的波动。</p>
+<p><img alt="减半与ETF对比特币的影响究竟有多大？" height="716" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/7ObERI3N0t.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="1248" /></p>
+<p>2020 年的减半呈现了一个更复杂的场景。尽管直接后果并没有反映出 2016 年所见的急剧抛售，但由于减半前的价格回升，紧接着是发行量减少，矿工经历了「双重打击」，这加剧了他们的挑战。这一时期没有出现传统的「卖出新闻」事件，但却强调了对减半事件的细腻市场反应，这些反应受到更广泛经济条件和市场情绪的影响。</p>
+<p><img alt="减半与ETF对比特币的影响究竟有多大？" height="698" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/kjg6I7Kq30.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="1252" /></p>
+<p>随着逐渐接近下一次比特币减半，市场结构似乎预示着可能出现一次重大调整。这样的调整不仅与历史模式保持一致，而且还能起到重新设定市场的作用，消除短期的投机行为，并为下一轮增长奠定基础。</p>
+<p>这种预期取决于几个因素，包括 ETF 对市场的持续影响。虽然它们的购买活动为比特币价格提供了实质性支持，但普遍认为这些流入不可能无限期持续。如果在减半前 ETF 的流入开始放缓或逆转们可能会看到市场的复合效应。对 ETF 需求减少的预期，加上传统的减半心理学，可能触发一个高波动性时期，交易者可能会根据转变的早期迹象调整他们的仓位。</p>
+<p>总之，减半对市场的直接影响将受到心理因素和机构参与动态的影响。交易者应该为减半期间可能的波动做好准备，将 ETF 活动作为短期市场情绪的一个关键指标。</p>
+<h3>本周期的不同之处</h3>
+<p>从历史上看，比特币周期通常在前一个牛市高点之后的 12 到 18 个月启动，新的历史最高价（ATH）在减半后几个月出现。这使许多人建议减半事件本身由于引入的供应限制而催化了下一个牛市。</p>
+<p>然而，由于比特币 ETF 引入的新的机构需求，这个周期中减半的效果可能会减弱。这种需求和 ETF 带来的资本涌入比特币网络，可能已经导致 BTC 在减半前就已经打破了前一个周期的 ATH。</p>
+<p>然而，这一事实导致一些人推测当前周期可能比以前的周期短。虽然不能确定这是否会发生，但可以查看数据来评估目前处于市场周期的哪个阶段以及牛市继续的可能性。</p>
+<p>首先，从周期模式来看，减半前打破 ATH 并不一定意味着已经偏离了比特币的历史规范。关键在于评估上一个周期的牛市顶点实际上是何时。在 Glassnode 的分析中，长期以来一直认为这发生在 2021 年 4 月，尽管从技术角度看比特币在 2021 年 11 月的价格更高。这种假设基于一个事实，即在 4 月高点之后，大多数与市场情绪和投资者行为相关的技术和链上指标开始表现出它们典型的熊市价值，并且从未真正恢复。</p>
+<p><img alt="减半与ETF对比特币的影响究竟有多大？" height="698" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/apqI2y5o3A.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="1262" /></p>
+<p>现在，以 2021 年 4 月作为前一个牛市的高点，可以看到当前周期很好地符合历史规范。这暗示尽管在减半前就已经突破了前一个 ATH，牛市可能仍将持续更长时间。</p>
+<p>在评估当前周期与历史规范和趋势之间的差异，以及考虑到增强交易策略的视角时，监控「牛市校正回撤」指标也可能是实际的。这一指标反映了在持续的牛市中，价格回撤的深度和频率。</p>
+<p><img alt="减半与ETF对比特币的影响究竟有多大？" height="698" src="https://cdn-img.panewslab.com/panews/2024/03/24/images/1Ft4dLF8tL.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="1270" /></p>
+<p>值得注意的是，这个周期展示出较不严重的回撤，与过去牛市中典型的 30-40% 的更大幅度下跌有所不同。追踪这些回撤可以为交易者提供一个市场情绪、风险偏好和潜在转折点的指标。随着 ETF 流入继续影响市场，这种较轻微回撤趋势的显著变化可能标志着投资者行为的转变，并为策略调整提供及时线索。</p>
+<h3>对定向交易策略的影响</h3>
+<p>即使越来越接近减半事件，ETF 在塑造比特币市场格局中的作用也不可忽视。然而，同样关键的是要关注长期持有者（LTH）对市场供应动态的影响。减半的供应挤压与 ETF 需求的涨落之间的相互作用引入了一个复杂的动态，可能会显著改变传统市场对减半事件的响应。</p>
+<p>对于那些希望完善其方向性策略的交易者来说，监控 LTH 的行为变得至关重要。LTH 决定持有他们的头寸还是开始分配他们的持有量，可以提供市场情绪转变和潜在流动性变化的早期指标。鉴于当前市场条件，其中 ETF 已经影响了供需平衡，LTH 的显著举动可能成为定义减半后市场方向的临界点。</p>
+<p>因此，在这个周期中成功的方向性交易很可能取决于多方面的方法。交易者需要密切关注 ETF 活动，寻找持续需求或出现卖压的迹象。同时，他们必须评估 LTH 的情绪和行动，后者决定卖出或持有可以进一步影响市场的供应动态。适应这些影响的交易策略对于有效地导航比特币市场周期的下一阶段至关重要。</p>
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 08:00:00 +0800</pubDate>
+<pubDate>Mon, 25 Mar 2024 08:00:00 +0800</pubDate>
+</item>
+
+<item>
 <title>数据：价值1.65亿美元的代币将在本周解锁</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/dg4m4lwx.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/dg4m4lwx.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是负面的。本周将有多个代币（包括OP、PRIME、YGG等）一次性大额解锁，总价值约1.65亿美元。这些代币包括Optimism（OP）、Echelon Prime（PRIME）、Yield Guild Games（YGG）、SingularityNET（AGIX）、Sui（SUI）、Acala（ACA）和Euler（EUL），释放供应量占比分别为2.4%至5.39%之间。 <div>
+<div> <br /><br />摘要：<br />这些信息是负面的。本周将有多个代币（包括OP、PRIME、YGG等）一次性大额解锁，总价值约1.65亿美元。这些代币包括Optimism（OP）、Echelon Prime（PRIME）、Yield Guild Games（YGG）、SingularityNET（AGIX）、Sui（SUI）、Acala（ACA）和Euler（EUL），释放供应量占比分别为2.4%至5.39%之间。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月25日消息，Token Unlocks数据显示，本周OP、PRIME和YGG等代币将迎来一次性大额解锁，总计释放价值1.65亿美元。其中：</p>
 <p>Optimism（OP）将于3月29日中午12点解锁2416万枚代币，价值约8432万美元，占流通供应量的2.4%；</p>
 <p>Echelon Prime（PRIME）将于3月31日上午8点解锁166万枚代币，价值约3753万美元，占流通供应量的4.65%；</p>
@@ -20,9 +196,7 @@
 <p>Euler（EUL）将于3月28日晚上8点30分解锁8.16万枚代币，价值约50.2万美元，占流通供应量的0.44%。</p>
 ]]></content:encoded>
 <pubDate>Mon, 25 Mar 2024 07:55:35 +0800</pubDate>
-<pubDate>Mon, 25 Mar 2024 07:55:35 +0800</pubDate>
 </item>
-
 <item>
 <title>Dolomite：已成功追回被盗资金的90%，将于本周内公布分配计划</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/vsta6tn9.html</link>

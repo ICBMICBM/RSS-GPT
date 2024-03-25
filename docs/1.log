@@ -9541,3 +9541,27 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [深度解读Solana：像Apple，但又不同于Apple](https://www.panewslab.com/zh/articledetails/4dnlr9e3.html)
 append_entries: 2
 Finish: 2024-03-24 23:58:58.491008
+------------------------------------------------------
+Started: 2024-03-25 01:04:34.161777
+Existing_entries: 392
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 2686
+Summarized using GPT-3.5-turbo-1106
+Append: [模块化战局中，NEAR DA将成为终级解？](https://www.panewslab.com/zh/articledetails/u2r34t7d.html)
+Token length: 364
+Summarized using GPT-3.5-turbo-1106
+Append: [RippleX披露影响XRP Ledger上AMM池的技术问题，目前正审查拟议修复方案](https://www.panewslab.com/zh/sqarticledetails/366bjf56.html)
+Token length: 341
+Summarized using GPT-3.5-turbo-1106
+Append: [CryptoQuant：估值指标尚未接近过去牛市顶峰，比特币牛市周期未结束](https://www.panewslab.com/zh/sqarticledetails/3g8u8byl.html)
+Token length: 394
+Summarized using GPT-3.5-turbo-1106
+Append: [一场针对BlockFi、FTX债权人的电子邮件钓鱼骗局已造成至少500万美元损失](https://www.panewslab.com/zh/sqarticledetails/mj8oey79.html)
+Token length: 3564
+Summarized using GPT-3.5-turbo-1106
+Append: [减半与ETF对比特币的影响究竟有多大？](https://www.panewslab.com/zh/articledetails/m3zeiwkg.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [深度解读Solana：像Apple，但又不同于Apple](https://www.panewslab.com/zh/articledetails/4dnlr9e3.html)
+append_entries: 6
+Finish: 2024-03-25 01:04:58.496104
