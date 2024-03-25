@@ -8517,3 +8517,12 @@ Existing_entries: 128
 Fetching from https://www.newsbtc.com/feed
 append_entries: 0
 Finish: 2024-03-25 22:58:16.387567
+------------------------------------------------------
+Started: 2024-03-25 23:15:00.524586
+Existing_entries: 128
+Fetching from https://www.newsbtc.com/feed
+Token length: 3275
+Summarized using GPT-3.5-turbo-1106
+Append: [Is Jupiter’s Next Leg Up Coming? Crypto Analyst Weighs In As JUP Surges 13%](https://www.newsbtc.com/news/is-jupiters-next-leg-up-coming-crypto-analyst-weighs-in-as-jup-surges-13/)
+append_entries: 1
+Finish: 2024-03-25 23:15:06.715774
