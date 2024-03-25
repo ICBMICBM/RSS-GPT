@@ -8403,3 +8403,12 @@ Existing_entries: 178
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-25 06:16:17.756339
+------------------------------------------------------
+Started: 2024-03-25 06:30:43.540243
+Existing_entries: 178
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 19
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin, Ether in the Green as Global Easing Cycle Begins](https://www.coindesk.com/markets/2024/03/25/bitcoin-ether-in-the-green-as-global-easing-cycle-begins/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-25 06:30:48.638304
