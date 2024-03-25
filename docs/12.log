@@ -8442,3 +8442,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Weekly Crypto Preview: Top Events And Coins To Watch](https://bitcoinist.com/weekly-crypto-preview-top-events-coins-to-watch/)
 append_entries: 1
 Finish: 2024-03-25 12:45:15.570186
+------------------------------------------------------
+Started: 2024-03-25 12:55:48.497962
+Existing_entries: 113
+Fetching from https://bitcoinist.com/feed
+append_entries: 0
+Finish: 2024-03-25 12:55:48.583166
