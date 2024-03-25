@@ -8805,3 +8805,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Do Kwon Released From Montenegrin Prison on Bail; Terraform Labs' Civil Trial Begins in NYC](https://www.coindesk.com/policy/2024/03/25/do-kwon-released-from-montenegrin-prison-on-bail-terraform-labs-civil-trial-begins-in-nyc/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-25 16:11:08.493208
+------------------------------------------------------
+Started: 2024-03-25 16:28:14.442534
+Existing_entries: 192
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-03-25 16:28:14.735088
