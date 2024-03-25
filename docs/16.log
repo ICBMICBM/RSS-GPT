@@ -10714,3 +10714,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round )
 append_entries: 1
 Finish: 2024-03-25 03:25:32.440909
+------------------------------------------------------
+Started: 2024-03-25 03:32:51.828225
+Existing_entries: 1001
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 828
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文长推】盘点 ETHGlobal Frameworks 黑客松决赛项目](https://twitter.com/ETHGlobal/status/1772016367761236189)
+Token length: 266
+Summarized using GPT-3.5-turbo-1106
+Append: [ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round )
+append_entries: 2
+Finish: 2024-03-25 03:32:58.748332
