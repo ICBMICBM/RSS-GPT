@@ -8763,3 +8763,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bitcoin Pumps Above $69K as Crypto Rally Resumes](https://www.coindesk.com/markets/2024/03/25/bitcoin-pumps-above-69k-as-crypto-rally-resumes/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-25 15:13:50.968637
+------------------------------------------------------
+Started: 2024-03-25 15:24:47.202173
+Existing_entries: 190
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-03-25 15:24:47.507772
