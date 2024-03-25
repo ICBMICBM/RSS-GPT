@@ -8661,3 +8661,15 @@ Existing_entries: 184
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-25 12:55:48.251063
+------------------------------------------------------
+Started: 2024-03-25 13:10:45.063145
+Existing_entries: 184
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 194
+Summarized using GPT-3.5-turbo-1106
+Append: [First Mover Americas: Back in the Green](https://www.coindesk.com/markets/2024/03/25/first-mover-americas-back-in-the-green/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 198
+Summarized using GPT-3.5-turbo-1106
+Append: [How Many Years Will SBF Get? Jury's Out on Betting Platform Polymarket](https://www.coindesk.com/tech/2024/03/25/how-many-years-will-sbf-get-jurys-out-on-betting-platform-polymarket/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 2
+Finish: 2024-03-25 13:10:49.741617

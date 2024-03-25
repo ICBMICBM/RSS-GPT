@@ -10153,3 +10153,15 @@ Existing_entries: 439
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-25 12:55:42.551965
+------------------------------------------------------
+Started: 2024-03-25 13:10:23.405629
+Existing_entries: 439
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 1313
+Summarized using GPT-3.5-turbo-1106
+Append: [ONDO一周翻倍，贝莱德入场再度点燃RWA赛道](https://www.panewslab.com/zh/articledetails/llwl72l7.html)
+Token length: 11395
+Summarized using GPT-3.5-turbo-1106
+Append: [迎接Solana DeFi 3.0？2024年Solana值得关注的10大DeFi主题](https://www.panewslab.com/zh/articledetails/nlk90ub6.html)
+append_entries: 2
+Finish: 2024-03-25 13:10:32.692907
