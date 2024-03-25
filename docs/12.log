@@ -8655,3 +8655,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Terraform Labs In The Hot Seat: Trial Begins As Do Kwon’s Final Extradition Decision Looms](https://bitcoinist.com/terraform-labs-in-the-hot-seat-trial-begins/)
 append_entries: 1
 Finish: 2024-03-25 18:09:58.649248
+------------------------------------------------------
+Started: 2024-03-25 18:26:47.692804
+Existing_entries: 118
+Fetching from https://bitcoinist.com/feed
+append_entries: 0
+Finish: 2024-03-25 18:26:47.786536
