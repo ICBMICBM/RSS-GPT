@@ -8466,3 +8466,12 @@ Existing_entries: 179
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-25 07:48:45.136194
+------------------------------------------------------
+Started: 2024-03-25 07:56:13.392847
+Existing_entries: 179
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 31
+Summarized using GPT-3.5-turbo-1106
+Append: [Nobody Wants to Sell BTC, Analyst Says as Bitcoin's On-Chain Activity Limps](https://www.coindesk.com/markets/2024/03/25/nobody-wants-to-sell-btc-analyst-says-as-bitcoins-on-chain-activity-limps/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-25 07:56:15.745554
