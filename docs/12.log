@@ -8739,3 +8739,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Large Shiba Inu Transactions Spark Fears Of A Massive Dumping Spree](https://bitcoinist.com/shiba-inu-transactions-spree/)
 append_entries: 1
 Finish: 2024-03-25 20:08:45.357048
+------------------------------------------------------
+Started: 2024-03-25 20:21:37.745695
+Existing_entries: 120
+Fetching from https://bitcoinist.com/feed
+append_entries: 0
+Finish: 2024-03-25 20:21:37.895597

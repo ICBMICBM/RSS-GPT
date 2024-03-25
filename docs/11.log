@@ -8973,3 +8973,12 @@ Existing_entries: 198
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-25 20:08:39.163684
+------------------------------------------------------
+Started: 2024-03-25 20:21:32.703460
+Existing_entries: 198
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 26
+Summarized using GPT-3.5-turbo-1106
+Append: [Is Nigeria Strong-Arming Binance?](https://www.coindesk.com/consensus-magazine/2024/03/25/is-nigeria-strong-arming-binance/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-25 20:21:37.476459
