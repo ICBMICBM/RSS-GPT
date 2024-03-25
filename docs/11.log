@@ -9003,3 +9003,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Garlinghouse Says SEC to Press Judge for $2B in Fines and Penalties in Ripple Case](https://www.coindesk.com/policy/2024/03/25/garlinghouse-says-sec-to-press-judge-for-2b-in-fines-and-penalties-in-ripple-case/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-25 20:44:34.535687
+------------------------------------------------------
+Started: 2024-03-25 20:52:05.264397
+Existing_entries: 200
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-03-25 20:52:05.560200
