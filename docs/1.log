@@ -10282,3 +10282,18 @@ Existing_entries: 444
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-25 15:55:05.062935
+------------------------------------------------------
+Started: 2024-03-25 16:10:41.897344
+Existing_entries: 444
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 265
+Summarized using GPT-3.5-turbo-1106
+Append: [伦敦证券交易所宣布自4月8日起接受比特币和以太坊ETN的上市申请](https://www.panewslab.com/zh/sqarticledetails/3ucjzd8w.html)
+Token length: 250
+Summarized using GPT-3.5-turbo-1106
+Append: [FTX将以8.84亿美元的价格出售三分之二的Anthropic股份](https://www.panewslab.com/zh/sqarticledetails/i04m9w05.html)
+Token length: 65
+Summarized using GPT-3.5-turbo-1106
+Append: [行情：BTC突破70000美元](https://www.panewslab.com/zh/sqarticledetails/3o01dsvy.html)
+append_entries: 3
+Finish: 2024-03-25 16:10:56.352343
