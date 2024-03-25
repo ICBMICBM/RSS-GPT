@@ -8832,3 +8832,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Record $1B Exited Crypto Funds Last Week: CoinShares](https://www.coindesk.com/markets/2024/03/25/record-1b-exited-crypto-funds-last-week-coinshares/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-25 16:52:06.937231
+------------------------------------------------------
+Started: 2024-03-25 16:59:35.497681
+Existing_entries: 193
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 10
+Summarized using GPT-3.5-turbo-1106
+Append: [Why the Media Is Seemingly Less Interested in Bitcoin Than Ever](https://www.coindesk.com/consensus-magazine/2024/03/25/why-the-media-is-seemingly-less-interested-in-bitcoin-than-ever/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 77
+Summarized using GPT-3.5-turbo-1106
+Append: [FTX to Sell $884M of Anthropic Shares to Two Dozen Institutional Investors](https://www.coindesk.com/policy/2024/03/25/ftx-to-sell-884m-of-anthropic-shares-to-two-dozen-institutional-investors/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 2
+Finish: 2024-03-25 16:59:41.539562
