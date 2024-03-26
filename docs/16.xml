@@ -5,11 +5,23 @@
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
 <item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Polyhedra Network以10亿美元估值完成了2000万美元的战略融资，由Polychain Capital领投，其他投资者包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium和Mapleblock Capital。资金将用于招聘人才，将团队扩大到约80人，加强产品、工程、业务开发和营销等部门。这是通过未来代币或SAFT简单协议进行的第五轮融资。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
+
+<item>
 <title>【英文】Syscoin 技术全解析：如何连接比特币安全性和以太坊可编程性</title>
 <link>https://messari.io/report/understanding-syscoin-a-comprehensive-overview</link>
 <guid>https://messari.io/report/understanding-syscoin-a-comprehensive-overview</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Messari发布了Syscoin研究报告，分析了Syscoin的技术架构、共识机制、代币经济学、网络活动和潜在风险。Syscoin是一个开源的去中心化开发平台，结合了比特币PoW的安全性和以太坊EVM的可编程性。Rollux是Syscoin的L2解决方案，具有快速、低成本的特点，同时又拥有比特币网络的安全性。Rollux使用Syscoin的数据可用性解决方案，并计划将其扩展到其他链上。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。Messari发布了Syscoin研究报告，分析了Syscoin的技术架构、共识机制、代币经济学、网络活动和潜在风险。Syscoin是一个开源的去中心化开发平台，结合了比特币PoW的安全性和以太坊EVM的可编程性。Rollux是Syscoin的L2解决方案，具有快速、低成本的特点，同时又拥有比特币网络的安全性。Rollux使用Syscoin的数据可用性解决方案，并计划将其扩展到其他链上。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>Messari 发布 Syscoin 研报，从技术架构、共识机制、代币经济学、网络活动和潜在风险等多方面分析了 Syscoin 的基本面。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://messari.io/report/understanding-syscoin-a-comprehensive-overview">https://messari.io/report/understanding-syscoin-a-comprehensive-overview</a></p>
 <p><strong>文章作者：</strong></p><p>Messari</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Messari：</strong>TLDR
@@ -25,7 +37,6 @@ Rollux 使用 Syscoin 的通用数据可用性解决方案，即数据可用性�
 
 通过使用零知识证明和基于 ZK 的 SYS 轻客户端，zkDA 得以建立，其目标是将 PoDA 扩展到其他链。【原文为英文】</p><a href="https://messari.io/report/understanding-syscoin-a-comprehensive-overview">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-20T09:19:49+00:00</pubDate>
 </item>
 <item>
@@ -33,7 +44,7 @@ Rollux 使用 Syscoin 的通用数据可用性解决方案，即数据可用性�
 <link>https://twitter.com/BMANLead/status/1769906130497536297</link>
 <guid>https://twitter.com/BMANLead/status/1769906130497536297</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。ABCDE 联合创始人 BMAN 盘点了 ZK 互操作龙头 Polyhedra 的三个重要技术突破：zkBridge 和 zkLightClient、以太坊全节点证明和比特币互操作。Polyhedra在数百万个钱包、25条链和80多个生态系统中实现了超过2000万笔跨链交易。他们在ZK领域取得了重大进展，并期望未来链与链之间实现资产、信息和协议的互操作，Polyhedra将成为万链互联的基础设施。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。ABCDE 联合创始人 BMAN 盘点了 ZK 互操作龙头 Polyhedra 的三个重要技术突破：zkBridge 和 zkLightClient、以太坊全节点证明和比特币互操作。Polyhedra在数百万个钱包、25条链和80多个生态系统中实现了超过2000万笔跨链交易。他们在ZK领域取得了重大进展，并期望未来链与链之间实现资产、信息和协议的互操作，Polyhedra将成为万链互联的基础设施。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>ABCDE 联合创始人 BMAN 盘点了 ZK 互操作龙头 Polyhedra 的 3 个重要技术突破，分别为：zkBridge 和 zkLightClient、以太坊全节点证明和比特币互操作。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/BMANLead/status/1769906130497536297">https://twitter.com/BMANLead/status/1769906130497536297</a></p>
 <p><strong>文章作者：</strong></p><p>BMAN</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>BMAN：</strong>过去 3 年，Polyhedra 基于 ZK，做出了 3 个重要的技术突破：
@@ -43,21 +54,18 @@ Rollux 使用 Syscoin 的通用数据可用性解决方案，即数据可用性�
 
 在未来几年，我们期望在数学和 ZKP 领域取得 1000 倍的性能提升，这将使得区块链完全互操作的愿景得以实现。未来链与链之间将实现：1）资产的互操作；2）信息的互操作；3）协议的互操作。未来 A 链的协议，可以自动和 B 链的协议可组合和可互通，链与链之间将成为万链互联的状态。而 Polyhedra 就像其中文「多面体」一样成为万链互联的基础设施。</p><a href="https://twitter.com/BMANLead/status/1769906130497536297">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-20T08:52:35+00:00</pubDate>
 </item>
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>ZK互操作协议zkBridge开发商Polyhedra Network以10亿美元估值完成2000万美元战略融资，Polychain Capital领投，众多投资者参与。融资将用于团队扩大到80人，招聘产品、工程、业务开发和营销等跨职能部门。所有融资都是通过未来代币或SAFT协议进行的。 <div>
+<div> <br /><br />摘要：<br />ZK互操作协议zkBridge开发商Polyhedra Network以10亿美元估值完成2000万美元战略融资，Polychain Capital领投，众多投资者参与。融资将用于团队扩大到80人，招聘产品、工程、业务开发和营销等跨职能部门。所有融资都是通过未来代币或SAFT协议进行的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
-
 <item>
 <title>对话 Solana 基金会主席 Lily Liu：Solana 的预期之中和意料之外</title>
 <link>https://www.chaincatcher.com/article/2117716</link>
@@ -10934,36 +10942,6 @@ API3 提供了一种跨 DApp 扩展的机制，而不需要第三方协议。他
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />这些信息是积极的。开发商Polyhedra Network以10亿美元估值完成2000万美元战略融资，由Polychain Capital领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital等参投。通过未来代币或SAFT简单协议进行融资，用于团队扩大招聘及跨职能部门发展。将目前50人的团队扩大到80人。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。ZK 互操作协议 zkBridge 的开发商 Polyhedra Network 完成了价值 10 亿美元的融资，Polychain Capital 领投，其他投资方包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium 和 Mapleblock Capital。融资金额为 2000 万美元，用于招聘新员工，将团队规模从目前的50人扩大到80人。融资通过未来代币或 SAFT 简单协议进行。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成了 2000 万美元的战略融资，估值达到 10 亿美元。Polychain Capital 领投，其他投资者还包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium 和 Mapleblock Capital。融资将用于团队扩张、产品开发和营销。目前的团队将扩大至约 80 人。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。1. Polyhedra Network以10亿美元估值完成2000万美元战略融资。2. Polychain Capital领投，多家投资者参与，包括Animoca Brands、Hashkey Capital等。3. 融资通过未来代币或SAFT协议进行。4. 所筹资金将用于团队扩大到约80人，招聘产品、工程、业务开发和营销等。5. 目前团队约50人。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
