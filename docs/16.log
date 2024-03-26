@@ -12916,3 +12916,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round )
 append_entries: 2
 Finish: 2024-03-26 19:20:07.365480
+------------------------------------------------------
+Started: 2024-03-26 19:27:31.258766
+Existing_entries: 1002
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 679
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文】探讨 OEV 的价值和意义：让 MEV 回到该去的地方](https://www.decentralised.co/p/on-oev)
+Token length: 266
+Summarized using GPT-3.5-turbo-1106
+Append: [ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round )
+append_entries: 2
+Finish: 2024-03-26 19:27:40.086006
