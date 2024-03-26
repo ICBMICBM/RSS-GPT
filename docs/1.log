@@ -11173,3 +11173,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [葡萄牙数据监管机构已要求Worldcoin停止收集生物识别数据90天](https://www.panewslab.com/zh/sqarticledetails/is4aplfp.html)
 append_entries: 1
 Finish: 2024-03-26 12:41:09.764884
+------------------------------------------------------
+Started: 2024-03-26 12:54:14.056884
+Existing_entries: 509
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+append_entries: 0
+Finish: 2024-03-26 12:54:15.553350
