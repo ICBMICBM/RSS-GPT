@@ -10630,3 +10630,27 @@ Summarized using GPT-3.5-turbo-1106
 Append: [数据：灰度GBTC昨日资金净流出约3.5亿美元](https://www.panewslab.com/zh/sqarticledetails/p2qd351e.html)
 append_entries: 5
 Finish: 2024-03-26 00:36:18.047345
+------------------------------------------------------
+Started: 2024-03-26 01:34:10.223693
+Existing_entries: 456
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 121
+Summarized using GPT-3.5-turbo-1106
+Append: [bazingahappy.sol以近1889万枚BOME赢得铭文149970拍卖](https://www.panewslab.com/zh/sqarticledetails/3ekwujou.html)
+Token length: 395
+Summarized using GPT-3.5-turbo-1106
+Append: [Coinbase报告：近期GBT卖压或源自Genesis Global清算破产财产](https://www.panewslab.com/zh/sqarticledetails/co2w07xq.html)
+Token length: 170
+Summarized using GPT-3.5-turbo-1106
+Append: [Coinbase Cloud报告其50%的验证器都在Nethermind上运行](https://www.panewslab.com/zh/sqarticledetails/e9bzngcm.html)
+Token length: 2157
+Summarized using GPT-3.5-turbo-1106
+Append: [速览ETHGlobal Farcaster Frames 黑客松10个获胜项目](https://www.panewslab.com/zh/articledetails/63ock180.html)
+Token length: 263
+Summarized using GPT-3.5-turbo-1106
+Append: [数据：富达FBTC昨日资金流入约2.618亿美元](https://www.panewslab.com/zh/sqarticledetails/cv2qdbru.html)
+Token length: 431
+Summarized using GPT-3.5-turbo-1106
+Append: [南美金矿商Nilam Resources签订收购24800枚比特币的意向书，价值超17亿美元](https://www.panewslab.com/zh/sqarticledetails/pekkeziz.html)
+append_entries: 6
+Finish: 2024-03-26 01:34:31.859279
