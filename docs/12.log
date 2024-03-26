@@ -8952,3 +8952,12 @@ Existing_entries: 125
 Fetching from https://bitcoinist.com/feed
 append_entries: 0
 Finish: 2024-03-26 02:58:59.046672
+------------------------------------------------------
+Started: 2024-03-26 03:14:52.909359
+Existing_entries: 125
+Fetching from https://bitcoinist.com/feed
+Token length: 2860
+Summarized using GPT-3.5-turbo-1106
+Append: [FTX Set To Cash In $884 Million From Majority Stake Sale In Anthropic](https://bitcoinist.com/ftx-set-to-cash-in-884-million-from-sale-anthropic/)
+append_entries: 1
+Finish: 2024-03-26 03:14:57.474336
