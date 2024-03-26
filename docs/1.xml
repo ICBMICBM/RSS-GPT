@@ -4,6 +4,126 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>IOSG：“四问”让你了解如何在EigenLayer上构建AVS</title>
+<link>https://www.panewslab.com/zh/articledetails/76cbyqmx.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/76cbyqmx.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>最近，使用 EigenLayer 来构建主动验证服务（AVS）项目在开发者社区中变得非常流行。AVS需要回答四个主要问题：定义AVS中的任务、需要继承的信任类型、操作员任务是轻量级还是重量级、以及惩罚条件是什么。EigenLayer支持双重质押，帮助AVS调整经济安全需求。一些外部工具如Cubist和Anzen Protocol也可协助AVS建立信任网络和提高经济安全性。 <div>
+<p><img alt="IOSG：“四问”让你了解如何在EigenLayer上构建AVS" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/318ca065125a0108884c5585af6b1aa4.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre><img alt="IOSG：“四问”让你了解如何在EigenLayer上构建AVS" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/1b58ee7d2f507cdbde3adfb8c4025d9d.png" style="display: block; margin-left: auto; margin-right: auto;" />Source: EigenLayer, IOSG</pre>
+<p>最近，使用 EigenLayer 来构建基础设施项目在开发者社区中已经变得非常流行。这些项目被称为主动验证服务（AVS），指的是任何需要自己的分布式验证语义以进行验证的系统。这些系统可以包括 DA 层、新的 VM、预言机、桥等等。</p>
+<p>但是我们到底如何构建一个 AVS？</p>
+<p>为了设置 AVS 的基本规则，您需要回答四个主要问题。</p>
+<p><img alt="IOSG：“四问”让你了解如何在EigenLayer上构建AVS" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/7e52c51b536a7796b0e436970c2161ae.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h3>Q1: What defines a Task in your AVS?</h3>
+<p>在 EigenLayer 中，任务是 Operator 承诺为 AVS 提供服务的最小工作单位。这些任务可能与AVS 的一个或多个罚没条件相关联。</p>
+<p>以下是两个示例任务：</p>
+<ul>
+<li>在 EigenDA 的中托管和提供 “DataStore”</li>
+<li>为跨链桥发布另一个区块链的状态根</li>
+</ul>
+<p>EigenLayer 在以下工作流程中提供了一个更详细的示例。这个 AVS 的任务是计算特定数字的平方。</p>
+<p><img alt="IOSG：“四问”让你了解如何在EigenLayer上构建AVS" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/ae22bc698c40a2d7485179a6369befeb.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Task Generator 以固定时间间隔发布任务。每个任务指定了需要计算平方的数字。它还包括法定人数和法定人数的阈值百分比，规定每个列出的法定人数至少需要一定比例的 Operator 签名才能通过此任务。</p>
+<p>当前加入 AVS 的 Operator 需要从任务合约中读取任务编号，计算其平方，对计算结果进行签名，并将计算结果和签名发送给 Aggregator。</p>
+<p>Aggregator 收集来自 Operator 的签名并进行聚合。如果任何来自 Operator 的响应通过 了 Task Generator 在发布任务时设置的阈值百分比，聚合器将这些响应聚合起来并发布到任务合约中。</p>
+<p>在争议解决期间，任何人都可以提出争议。DisputeResolution 合约会处理特定 Operator 的错误响应。（或者该 Operator 在这个时间窗口内没有做出响应）</p>
+<p>如果争议被最终验证并处理， Operator 将被冻结在 Registration 合约中，由 EigenLayer 的否决委员决定是否否决冻结请求。</p>
+<p><img alt="IOSG：“四问”让你了解如何在EigenLayer上构建AVS" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/0a28f3c74cbdb149f1e3518428e6b4a9.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h3>Q2: What kind of trust does your AVS want to inherit?</h3>
+<pre><img alt="IOSG：“四问”让你了解如何在EigenLayer上构建AVS" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/8d481550edb1f9cd8d738ea7e55f59a7.png" style="display: block; margin-left: auto; margin-right: auto;" />Source: EigenLayer, IOSG Ventures</pre>
+<p>EigenLayer 提供了三种可编程信任。</p>
+<p><strong>经济信任</strong></p>
+<p>经济信任依赖于人们对质押资产的信心。如果腐败带来的利润低于腐败成本，经济上理性的行为者就不会发起攻击。例如，如果对跨链桥发起攻击的成本为 10 亿美元，但利润仅为 5 亿美元，则从经济上来看，进行攻击是显然不理性的。</p>
+<p>作为广泛采用的加密经济学原语，罚没可以大大提高腐败成本，从而强化经济安全。</p>
+<p><strong>去中心化信任</strong></p>
+<p>去中心化信任的本质是拥有一个庞大且广泛分布的验证者集合，无论是在虚拟上还是在地理上。为了防止在 AVS 中各个节点之间发生串通和 Liveness Attack，最好不要让单一服务提供商运行所有节点。</p>
+<p>在 EigenLayer 上，不同的 AVS 可以定制它们的去中心化程度。例如，它们可以为 Operator 设置地理位置要求，或者只允许个人 Operator 提供节点服务，并相应地提供更多的激励来吸引这类Operator。</p>
+<p>以下是一个示例：</p>
+<p><img alt="IOSG：“四问”让你了解如何在EigenLayer上构建AVS" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/431b7e531b8574ba6cf986ecdd1262be.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Shutter 提出了一种通过使用阈值加密来防止 MEV 的解决方案。该过程涉及一组节点，称为Keypers，他们通过分布式密钥生成（DKG）参与计算一组共享的公钥和私钥。这些节点由Shutter DAO 的治理选举产生。</p>
+<p>显然，DKG 依赖于诚实多数的假设。</p>
+<p>通过借助 EigenLayer 提供的节点运营服务，Shutter 可以获得更广泛的 Kepers 分布。这种方法不仅降低了 Keypers 之间串通的风险，还增强了网络的安全性和弹性。</p>
+<p>同样，Lagrange 的 Lagrange State Committee（LSC）由再质押者组成。对于每个状态证明，至少有 2/3 的委员会成员必须签署一个特定的区块头，之后才通过 SNARK 生成一个状态证明。</p>
+<p><strong>以太坊“包含”（Inclusion）信任</strong></p>
+<p><img alt="IOSG：“四问”让你了解如何在EigenLayer上构建AVS" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/5e60392619737e182ec70338631f4392.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>以太坊验证者除了通过质押向以太坊作出承诺外，如果进一步在 EigenLayer 上再质押，他们还可以向 AVS 作出可信承诺。这使得提议者可以在以太坊上提供一些服务（例如，通过MEV-Boost++进行部分区块拍卖），而无需在以太坊的协议层面进行更改。</p>
+<p>例如，远期区块空间拍卖允许买家提前确保得到未来的区块空间。参与再质押的验证者可以对区块空间作出可信承诺，如果之后他们未包含买家的交易，则会被罚没。</p>
+<p>假设你正在构建一个预言机，你可能需要在一定时间段内提供价格。或者假设你正在运行一个L2，你可能每隔几分钟就需要向以太坊发布 L2 数据。这些都是远期区块空间拍卖的用例。</p>
+<p><img alt="IOSG：“四问”让你了解如何在EigenLayer上构建AVS" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/2f83e2d5238252efb979255f64d7e329.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h3>Q3: Is the work to be done by the operator lightweight or heavyweight?</h3>
+<p>如果你想要继承以太坊验证者的去中心化，AVS 的任务应尽可能设计得轻量级。</p>
+<p>如果任务消耗大量计算资源，Solo Operator 可能无法处理它们。</p>
+<p><img alt="IOSG：“四问”让你了解如何在EigenLayer上构建AVS" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/95ae84c4609b5c50684e1e3d66b33711.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h3>Q4: What are the slashing conditions?</h3>
+<p>通过再质押到一个特定的服务，再质押者就接受了可能存在的罚没风险，并且这个罚没条件将由 AVS 来指定。</p>
+<p>作为 AVS，应设计可在链上验证、可证明、客观可归因的罚没条件。例如，在以太坊中双重签名一个区块，以及一个轻节点跨链桥 AVS 中的节点签署来自另一个链的无效区块。</p>
+<p>设计不当的罚没条件可能导致分歧，进而引发系统性风险。</p>
+<p>AVS 还应确保可观察性，允许跨服务监控、追踪和记录请求和响应。</p>
+<p><img alt="IOSG：“四问”让你了解如何在EigenLayer上构建AVS" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/78ac18d8afc7443423ea433f8cb582d3.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h3>如何量化？</h3>
+<p>你的 AVS 需要多少信任（再质押的资本、不同的分布式验证者数量，以及需要实现以太坊验证者承诺的以太坊验证者数量），以及你将如何激励它？</p>
+<p>例如，如果一个跨链桥每周的交易量为 1 亿美元，并租用价值 1 亿美元的安全性，用户可以相信他们是安全的。即使验证者试图破坏系统，用户也会受到保护，因为他们可以通过罚没重新分配对用户进行补偿。</p>
+<p>考虑到跨链桥的 TVL、再抵押的 ETH 数量、选择加入的 Operator 数量和许多其他参数将不断变化，并可能出现大幅波动，AVS 需要某种方法来调整其安全预算和缓冲空间。</p>
+<p>AVS 可以用其总代币供应的一部分支付经济安全。</p>
+<p>But, do I compromise my token utility by using EigenLayer?</p>
+<p><img alt="IOSG：“四问”让你了解如何在EigenLayer上构建AVS" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/a44efa79a94a10ffdd35ac88330b8943.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>绝对不是！</p>
+<p>EigenLayer 支持双重质押（Dual Staking）。这使您可以同时使用 ETH 和您的原生代币来保护网络，并根据需要调整每种代币的比例。在网络的早期阶段，ETH 可能占据较大比例。随着网络成熟，您可能希望原生代币发挥更重要的作用。在这种情况下，AVS 可以通过协议治理增加原生代币的比例。</p>
+<p>此外，当 AVS 的安全需求在短期内迅速增长时，例如，当由 AVS 预言机服务的 DeFi 协议的TVL 迅速增加时，AVS 仍然可以使用EigenLayer 来加固它的经济安全。</p>
+<p>从这个角度来看，EigenLayer 是一个可编程的信任市场，提供“弹性”安全。</p>
+<h3>What external tools can I use?</h3>
+<p>以下是一些值得注意的项目。</p>
+<p>在 EigenLayer 的三方市场中， Operator 依赖于 AVS 开发者正确编码 AVS 软件并设置合理的罚没条件。然而，考虑到 AVS 的多样性，每个 AVS 与 Operator 之间的交互逻辑可能会有所不同，这创造了一个全新的领域。为了防止意外的罚没事件，AVS 可以在发布前对代码库进行审核。此外，EigenLayer 设有否决委员会，能够通过多重签名否决不正确的罚没决定。</p>
+<p>与此同时，Cubist正在与 EigenLabs 合作开发一个开放的反罚没框架，利用安全硬件并使用自定义策略在密钥管理器内签署交易和验证消息。例如，同时签署两个不同高度的区块头永远不会被密钥管理器内的策略引擎所批准。</p>
+<p>风险偏好较高的再质押者/ Operator 可能希望参与早期的 AVS 以获得更高的回报。在这种情况下，Cubist 的 Anti-slasher 可能会有用。</p>
+<p>许多人知道 EigenLayer 可以帮助 AVS 建立信任网络，但 AVS 需要为经济安全支付多少费用，以及如何抵御经济攻击呢？</p>
+<p>Anzen Protocol 开发了安全因子（SF），这是衡量 AVS 经济安全性的通用标准度量。SF 基于腐败成本和腐败利润的概念。</p>
+<p>Anzen 帮助 AVS 维护最低经济安全水平，而无需过度支付经济安全。</p>
+<p>EigenLabs 正在开发 EigenSDK，以帮助 AVS 编写其节点软件代码。该 SDK 包括签名聚合、与 EigenLayer 合约的交互逻辑、网络、密码学和事件监视客户端模块。</p>
+<p>与此同时，Othentic 正在构建一个开发工具，以帮助 AVS 更快地发布产品。</p>
+<p><strong>References:</strong></p>
+<p>https://medium.com/@lagrangelabs/state-committees-on-eigenlayer-via-lagrange-7752f1916db4</p>
+<p>https://www.blog.eigenlayer.xyz/ycie/</p>
+<p>https://www.blog.eigenlayer.xyz/eigenlayer-universe-15-unicorn-ideas/</p>
+<p>https://github.com/Layr-Labs</p>
+<p>https://docs.eigenlayer.xyz/eigenlayer/overview/</p>
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 18:00:25 +0800</pubDate>
+<pubDate>Tue, 26 Mar 2024 18:00:25 +0800</pubDate>
+</item>
+<item>
+<title>Script Network (SCPT) 推动去中心化的娱乐革命，如何打破传统电视机制并突破一亿以上用户数？</title>
+<link>https://www.panewslab.com/zh/articledetails/bp6ysqko.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/bp6ysqko.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了 Script TV 这一开源直播视频平台，通过观看视频赚取区块链奖励。与NVIDIA合作，利用AI为用户提供定制化内容。Script TV采用AI模型分析用户喜好，提供个性化推荐。平台拥有自主可控的VDN，提供高品质的视频观看体验。用户参与内容可以获得代币奖励，拥有治理效用。Script TV的创新应用包括广告领域，吸引广告商使用代币进行交易。公司团队经验丰富，与全球企业合作。项目定位于视频串流行业，准备挑战老牌玩家Theta TV。 <div>
+<p dir="ltr">作者：Chloe，PANews</p>
+<p dir="ltr">随着 YouTube 线上影片平台的崛起，传统电视行业早已处在停滞阶段，观众参与度下降、广告收入减少、来自多媒体平台的激烈竞争、观众人口数据变化以及制作成本增加，都让传统电视受到来自新兴媒体的巨大冲击。紧接着市场热度来到 Netflix 和 Amazon Prime 等串流平台手中，它们更让 AI 一同参与，分析观众偏好和观看习惯，提供量身制作的内容建议。</p>
+<p dir="ltr">而在去中心化的架构当中，视频生态会怎么被呈现？<a href="https://coinmarketcap.com/currencies/script-network/" rel="nofollow">Script Network</a> 推出了以 Script TV 为核心的 L1 开源直播视频平台，让观众可以透过观看视频就获得链上和链下奖励。Script TV 是目前市场上第一个可以让观众边观看边赚取奖励的直播视频平台，它将 Web3 经济商业模式融入传统娱乐体验当中，让用户只需观看 Script TV 上的节目内容即可获得区块链上的 SCPT 代币奖励。</p>
+<p dir="ltr">不仅只有 Script TV，<a href="https://coinmarketcap.com/currencies/script-network/" rel="nofollow">Script Network</a> 整个网络都致力于将奖励机制回馈给用户，还有重新定义加密广告（允许加密/NFT项目轻松通过平台进行推广）、游戏化奖励结构（通过观看内容、参与互动和升级用户的 NFT 获取奖励） 和全面分散式视频存储等解决方案（协助 Web2 公司降低 80% 以上的成本）。</p>
+<h3 dir="ltr">与 NVIDIA 合作，借由算力与 AI 为用户提供定制化内容</h3>
+<p dir="ltr">就在去年年底，<a href="https://coinmarketcap.com/currencies/script-network/" rel="nofollow">Script Network</a> 宣布成为 NVIDIA Inception Program 的成员之一，在该计划当中，NVIDIA 会精心挑选来自不同产业且具有国际市场发展潜力的优秀新创团队，借由 NVIDIA 的行销或业务团队甚至是 AI 技术以及运算能力等资源，协助及扶持项目推广至国际市场。</p>
+<p dir="ltr">此次合作标志着 <a href="https://coinmarketcap.com/currencies/script-network/" rel="nofollow">Script Network</a> 的一个重要里程碑，它代表人工智慧技术进入直播视频市场的时机已到。</p>
+<p dir="ltr">如今我们打开家中电视还是可以看到大多节目的设计编排皆大同小异，难以满足观众个性化需求。而 <a href="https://coinmarketcap.com/currencies/script-network/" rel="nofollow">Script Network</a> 则可以利用 TensorFlow、RNN 等顶尖 AI 模型，主动分析用户的喜好以及时常观看的内容属性，推荐契合每位观众口味的频道和节目。此外，AI 驱动的自适性串流技术（ABS, adaptive bitrate streaming）能根据网络情况、设备性能等因素动态调节影片画质，给予每位用户最佳观看体验。另外还有直播活动分析、热点话题识别等 AI 能力，都将助力 <a href="https://coinmarketcap.com/currencies/script-network/" rel="nofollow">Script Network</a> 时刻优化内容。</p>
+<p dir="ltr">不仅如此，<a href="https://coinmarketcap.com/currencies/script-network/" rel="nofollow">Script Network</a> 还开发超过 15 万行代码的视频传递网路（Video Delivery Network, VDN），VDN 简单来说是一种专门用于传输视频内容的网路基础设施，它可以对视频数据进行高效编码、快速分发至全球节点，并根据用户地理位置和网络状况动态调整传输策略，为用户提供流畅、高品质的视频观看体验。</p>
+<p dir="ltr">而<a href="https://coinmarketcap.com/currencies/script-network/" rel="nofollow"> Script Network</a> 自内测以来用户已经超过 20 万、每周平台上观看时长超过 200 万分钟，对于团队来说，建设高性能、可扩展的 VDN 是实现其服务的关键基础设施。因此，团队编写 15 万行代码量完成 VDN 的开发，说明了在该平台上已经拥有自主可控的 VDN，可大幅提升平台的内容传输效率和用户体验。</p>
+<h3 dir="ltr">边看视频边赚奖励，多元模式创造更多金流</h3>
+<p dir="ltr">前述有提到，<a href="https://coinmarketcap.com/currencies/script-network/" rel="nofollow">Script Network</a> 立足的基石是其开创性的观看即赚模式。观众因参与内容而获得网路原生代币 $SCPT 的奖励。观看的每一分钟、每一则评论以及每一次互动都有机会可以获得。不限于此，<a href="https://coinmarketcap.com/currencies/script-network/" rel="nofollow">Script Network</a> 在其生态系统中还采用双代币模型，利用 $SCPT 作为治理代币，使用 $SPAY 作为交易代币或 Gas 代币。在这种框架运用中，使用者可以透过购买 NFT（称为 Script Glasses）来使用平台的观看赚钱功能。这些 Glasses 使用户能够赚取 $SPAY 代币，作为在平台上观看内容的奖励。</p>
+<p dir="ltr">然而，$SCPT 在治理领域中有着与众不同的特点，Script TV 扩展了 $SCPT 代币的治理效用，包括平台上的内容管理。此功能使 $SCPT 代币持有者有权影响平台上广播的内容类型，确保去中心化和自治的媒体环境。这种使用者直接参与内容治理是 Script TV 的独特之处，与 Web3 的去中心化精神紧密结合。</p>
+<p dir="ltr">此外，Script TV 为其原生代币在广告领域也引入了创新应用。该平台的广告协议要求所有广告商（无论是来自 Web2 或 Web3 品牌、实体和项目）均以 $SCPT 代币进行交易。因此，想要在平台上展示广告的品牌必须从市场购买 $SCPT 代币，然后用它来支付广告投放费用。</p>
+<p dir="ltr">随着 Script TV 用户群的扩大，广告需求也必定会相应增加，以致于拉高对 $SCPT 代币的需求。这种机制更为代币的存在创造了实用且持续的商业模式。</p>
+<p dir="ltr">可见在 <a href="https://coinmarketcap.com/currencies/script-network/" rel="nofollow">Script Network</a> 生态当中，不管是 C 端还是 B 端，都可以用多元化的方法来创造金流，包括透过原创内容、广告、付费频道、NFT 市场以及链上交易都可以创造收入。</p>
+<p dir="ltr">而整合这些不同的收入来源不仅增强了 Script TV 财务结构的稳健性，这样的策略定位增强了平台的财务基础，增强了其对投资者和利害关系人的吸引力，直接让 <a href="https://coinmarketcap.com/currencies/script-network/" rel="nofollow">Script Network</a> 有着比同业更高的市场估值，目前 <a href="https://coinmarketcap.com/currencies/script-network/" rel="nofollow">Script Network</a> 已成为一级许可广告的区块链流媒体平台，在社交媒体上的人数已超过 30 万人，包括 McDonald's、Mercedes-Benz 等品牌商也已入驻该平台。</p>
+<h3 dir="ltr">挑战 Theta TV 老牌玩家，将重新定义观众与视频内容的互动方式</h3>
+<p dir="ltr"><a href="https://coinmarketcap.com/currencies/script-network/" rel="nofollow">Script Network</a> 团队由数十名来自媒体、内容和金融领域皆拥有 10 多年的经验的成员所组成，包含 Oracle、Deloitte、BBC 等，且创始团队过去曾创建过两家价值 8 位数的公司，其中一间已售出，另外一间则是收入超过 1000 万美元的 NFT 品牌。</p>
+<p dir="ltr">在过去几年中，团队已在加密以及媒体领域都获得了丰富经验，目前合作对象更包括了 Disney、FIFA、EA Sports、Paypal、Nike 等 30 多间全球企业。而 <a href="https://coinmarketcap.com/currencies/script-network/" rel="nofollow">Script Network</a> 能跨足如此之多的市场，是因为该项目在市场的定位，除了原先的 2.5 兆美元的电视和电影市场之外，还定位于 450 亿美元价值的内容传递网路(CDN) 以及 180 亿美元的广告流媒体电视（FAST）。</p>
+<p dir="ltr"><a href="https://coinmarketcap.com/currencies/script-network/" rel="nofollow">Script Network</a> 的核心使命是重新定义观众与直播视频内容的互动方式。传统电视一直是数十亿人生活的基础，<a href="https://coinmarketcap.com/currencies/script-network/" rel="nofollow">Script Network</a> 在此基础上更意识到 AI 在提升观众体验、优化内容和影视最高质量方面蕴藏着巨大潜力，总之， Script TV 其基于区块链平台进军视频串流行业，让两者有着重大的范式转变，已准备好挑战 Theta TV 等老牌玩家。</p>
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 18:00:00 +0800</pubDate>
+<pubDate>Tue, 26 Mar 2024 18:00:00 +0800</pubDate>
+</item>
 
 <item>
 <title>探索Native：打造无缝流动性体验与高效资金利用的创新平台</title>
