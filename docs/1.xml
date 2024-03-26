@@ -4,6 +4,145 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>探索Native：打造无缝流动性体验与高效资金利用的创新平台</title>
+<link>https://www.panewslab.com/zh/articledetails/2xflpior.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/2xflpior.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Native定位为区块链的流动性层，提供面向协议的流动性接口Native、交易聚合器NativeX和借贷工具Aqua，创新性强。团队成员经验丰富，获得了Nomad Capital的投资。Aqua 解决了做市商缺乏流动性的问题，提高了资本效率并降低了风险。NativeX在跨链交易聚合领域表现出色，支持多条EVM链。未来计划在永续合约和信用机制上持续创新。整体风险控制较为充分。 <div>
+<blockquote>
+<p>Native的定位为区块链的流动性层，包含三款产品：可被项目整合的流动性接口Native，交易与跨链聚合器NativeX、新型借贷工具Aqua。NativeX整合多家去中心化交易所和跨链桥作为流动性来源，并在此基础上与部分私人做市商合作，给予用户零滑点和便捷的交易体验。其核心产品Aqua可以使做市商借用存款用户的资金进行做市，解决了做市商缺乏流动性的问题。因结算时做市商使用Aqua流动性结算，资金一直存放于Aqua合约之中，风险明显低于传统的机构借贷，Aqua在控制风险的同时也增加了资金的利用效率和收益率。</p>
+</blockquote>
+<h3>项目概要</h3>
+<p><strong>Native整体的定位为可编程的流动性层，其目前拥有面向协议的流动性接口Native、跨链交易聚合NativeX和面向做市商的新型借贷工具Aqua三个产品。Native可以帮助项目方在自身的网页直接接通Native的流动性。NativeX在跨链聚合交易赛道已处于头部领域，虽赛道整体需求度较低，但在一定程度上体现出了团队的运营能力。其新借贷产品Aqua的设计在控制风险的同时极大地提高了做市商的资本效率，有较大的创新性。Native获得了Nomad Capital的两轮融资，并正在推出其核心产品Aqua。</strong></p>
+<p>Native可以帮助项目方在自己的网站上线交易功能，给予协议用户更加便捷的交互体验。协议可通过使用Native的工具，轻松地在自身网站接入Native的流动性，并自行更改交易费用。</p>
+<p><strong>跨链交易聚合产品虽目前采用较少，但有一定的增长潜力。</strong>用户对于跨链桥和交易聚合均有较大需求，但往往分开进行操作，直接使用跨链交易聚合的用户较少。跨链交易聚合虽能提供便捷的交易体验，但碍于流动性和用户习惯等问题，一直未得到广泛采用。NativeX在跨链聚合领域已处于一线水准，其整合了较多流动性并积累了较多做市商资源，能收到DeFi 70%以上的订单流，有助于后续Aqua的推出。且随着各大L1和L2的相继爆发，跨链交易的需求增多，跨链交易聚合可能获得更多的用户采用。</p>
+<p><strong>Aqua作为新型借贷工具，在尽可能降低用户资金风险的情况下，提高了做市商的资金效率。</strong>面向机构的信用借贷协议常常无需抵押，机构在被审核后可直接借出用户资金，资金借出后用途和去向等信息披露基本为零，用户需承担较大的机构违约风险。而在Aqua进行借款的做市商全部为超额抵押，且并不实际将资金借出，做市商仅使用Aqua池内的资金进行交易结算，结算前后为用户与Aqua池双向交易。而后做市商在Aqua池产生相应的多头头寸和空头头寸，做市商可同时在中心化交易所进行反向操作来赚取交易价差。对于存款用户来说，做市商抵押使用的资金一直存在Aqua池中，违约风险被降至最低，用户能获得可持续的低风险收益。对于机构来说，其在没有资产的区块链上获得了流动性，并可以开设更多的头寸，最大程度地提升了资金效率。</p>
+<p><strong>Native、NativeX和Aqua作为联合产品，可互相提供定价、订单流和流动性，形成联动的竞争优势。</strong></p>
+<p><strong>总体来看，Native在跨链交易聚合已积累了较多资源，有助于其新产品Aqua的进一步展开。并形成Native、NativeX和Aqua三者联动的效应。作为Native的新产品，Aqua开创了流动性提供者和做市商合作的新范式。在保障存款用户资金安全的同时，给予了做市商更高的资金效率和便捷性，形成了双赢局面。作为DeFi领域难得的创新，目前并无类似产品，Native值得关注。</strong></p>
+<h3>1.基本概况</h3>
+<h4><strong>1.1.项目简介</strong></h4>
+<p>Native定位为可编程的流动性层，其目前拥有面向协议的流动性接口Native和跨链交易聚合产品NativeX，以提供交易用户更加便捷的交易体验。Native已在测试网推出面向用户和做市商的新型借贷协议Aqua。Aqua使做市商通过抵押获得借款能力，并通过Aqua池的资金进行用户的交易结算，在增加资本效率的同时尽可能的降低了做市商的违约风险。</p>
+<h4><strong>1.2.基本信息</strong></h4>
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td height="14" width="106">
+<p>成立时间</p>
+</td>
+<td height="14" width="394">
+<p>2022年11月</p>
+</td>
+</tr>
+<tr>
+<td height="14" width="86">
+<p>所属板块</p>
+</td>
+<td height="14" width="394">
+<p>DeFi，交易聚合&amp;借贷</p>
+</td>
+</tr>
+<tr>
+<td height="14" width="106">
+<p>募资情况</p>
+</td>
+<td height="14" width="394">
+<p>未公开</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>2.项目详解</h3>
+<h4><strong>2.1.团队</strong></h4>
+<p>根据Linkedin数据，团队成员为3-10人。核心成员介绍如下：</p>
+<p><img alt="探索Native：打造无缝流动性体验与高效资金利用的创新平台" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/f933ce3790bfa2a65c673664c245d23a.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Meina Zhou，Native的首席执行官。拥有纽约大学的数据科学硕士学位，有超过8年的数据科学团队领导经历，在机器学习、数据挖掘和项目管理上有丰富经验。同时Meina Zhou也是 CryptoMeina 播客的创始人兼主持人。</p>
+<p><img alt="探索Native：打造无缝流动性体验与高效资金利用的创新平台" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/c9553272f586f8d86635f1f799f3b467.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Wee Howe Ang，Native的顾问，新加坡国立大学电气工程学士学位。曾任德意志银行软件开发经理（助理副总裁）。加密货币交易公司Altonomy的首席技术官，加密货币交易公司Tokka Labs的首席技术官。</p>
+<p><img alt="探索Native：打造无缝流动性体验与高效资金利用的创新平台" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/aa201e9cddc0fb8ebf42635aa8bae2df.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Hung，Native的技术负责人。于2019年3月进入加密行业，全栈工程师，熟悉EVM类智能合约。</p>
+<p>Native成员数量较少，但团队分工明确，在技术、交易和宣传运营领域均有较为丰富的行业经验。</p>
+<h4><strong>2.2.资金</strong></h4>
+<p>2023年4月，Nomad 领投了200万美元的种子轮。Nomad Capital于2023年3月获得币安投资，并于次月投资其第一个项目Native。2023年12月Native获得Nomad Capital的战略投资。</p>
+<p><strong>表2-1 Dapper Labs融资情况</strong></p>
+<p><img alt="探索Native：打造无缝流动性体验与高效资金利用的创新平台" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/cf927e2d72b5dd73924c79aff56e865a.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h4><strong>2.3.产品</strong></h4>
+<p><strong>2.3.1.Aqua</strong></p>
+<p>去中心化交易所早期多采用订单簿和RFQ（直接向做市商请求报价而非挂单，与订单簿略有不同）交易类型。但在以太坊网络进行订单簿交易所需成本过高，且交易深度差，匹配难度高。因此自动做市商机制成为了去中心化交易所的主流模式。以Uniswap为例，Uniswap采用恒定乘积做市模型，虽然实现了价格的自我发现，但资金效率较低，需要大量的流动性来降低交易的价格影响，且流动性提供者仍要面临无偿损失的风险，往往提供流动性的收益还不如单纯的拿着代币高。</p>
+<p>Native正推出交易模式的新范式Aqua，Aqua是一个面向普通用户和做市商的新型借贷产品，其结合了去中心化交易所和借贷产品的属性。致力于在确保用户资金安全的前提下，增加做市商的资本效率和用户的存款收益。通常做市商的资金存放在中心化交易所和个别区块链上，若是在新的区块链上有一定的做市需求，则需要分出部分资金并承担此区块链的安全风险，做市商可能因此放弃部分做市收益。</p>
+<p>通过Aqua，做市商使用资产抵押来在新的区块链网络进行借款做市（抵押物可存在于其它链上），一般采用RFQ机制，资金效率高却不存在滑点、MEV等弊端。其资金来源于存款用户/流动性提供者（存款用户也可获得一定的借款能力）。假设用户卖出ETH为USDT，做市商给出报价并通过Aqua的资金（用户存入）进行结算，结算后做市商即产生USDT的空头头寸和ETH的多头头寸（相当于做市商在池中借出了USDT并存入了ETH，但资金都处于Aqua合约中）。在其借款范围内，做市商可以同时维持多个头寸，最大化做市商的流动性和资金效率。</p>
+<p>Aqua不仅提高了做市商的资金效率，也解决了做市商在部分区块链上缺乏流动性的问题。更大的亮点在于，做市商借用的钱一直处于Aqua的合约之中，实际表现形式为多头头寸和空头头寸，做市商的资产表更加透明且借用资产不能挪用，风险明显低于传统机构借贷协议。</p>
+<p>对于借贷用户来说，收益在传统的借贷协议上叠加了做市商使用的资金利息（开设头寸的利息费用），存入的资金有了更多的借贷场景，收益率相比传统借贷协议更高，却不用面临做市商的信用风险（资金一直存放在Aqua合约）。且做市商对于交易结算有着持续的需求，即存款用户的收益也相对稳定且可持续。</p>
+<p><img alt="探索Native：打造无缝流动性体验与高效资金利用的创新平台" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/f2ef38feeb32df4e7f273f3044c899a9.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>图2-5 Aqua运行逻辑</pre>
+<p>Aqua做市商均为超额抵押，抵押物和结算使用资金不需存在于同一区块链。Aqua使用固定利率的借贷模型，并根据市场情况和资金利用率进行调整。利息将通过链下计算的方式来进行（根据经过的区块数和头寸变化来确定具体利息数额），经过计算的利息数额将被周期性地发送到链上。Aqua使用链下报价，当做市商的借款超过其借款额度时，白名单的清算人员可以提出清算提案、Aqua将验证提案并返回签名，清算人员随后在链上进行清算。</p>
+<p><strong>2.3.2.Native &amp; NativeX</strong></p>
+<p>自以太坊GAS问题被诟病起，加密市场正逐渐走向多链化。从TVL来看，以太坊网络TVL占比近两年一直维持在58%附近，说明了其它区块链有一定的市场竞争力并维持住了一定的流动性。从公链叙事角度来看，以太坊将服务二层网络作为核心，其未来更多的资金将向二层网络迁移。可以预计，未来的加密市场将会是多链并行而非单纯的以太坊一家通吃局面。</p>
+<p><img alt="探索Native：打造无缝流动性体验与高效资金利用的创新平台" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/6015da37da9e10a73bf5ef8ee63b8b59.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>图2-1 以太坊TVL市占比[1]</pre>
+<p>随着越来越多区块链的推出，流动性变得碎片化。无论是Solana和Aptos的一层区块链，还是以太坊二层网络等对于流动性都有着巨大的需求。</p>
+<p>对于交易者来说，中心化交易所的现价订单簿交易模式和深度流动性能降低交易成本，但同时也意味着用户需要放弃资产的所有权，且无法交易未上所代币。而在去中心化交易所虽然可以保留资产所有权，但限于链上的流动性，交易者要承受滑点、价格影响和MEV的损失。</p>
+<p>Native是一种整合了多链流动性来源的流动性解决方案。其产品Native可以帮助项目方在自身网站接入Native的流动性并上线交易功能。另一产品NativeX同时拥有跨链桥和交易的聚合功能，支持用户进行跨链交易。截至2024年3月18日，NativeX支持Ethereum、Arbitrum、Polygon、BNB Chain和Base等10条EVM兼容链，并在继续添加更多的区块链。</p>
+<p><img alt="探索Native：打造无缝流动性体验与高效资金利用的创新平台" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/6a4a13c63cebe0f39250b5e64414b23e.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>图2-2 NativeX Swap界面展示</pre>
+<p>NativeX在聚合多家DEX（包括聚合器）和跨链桥流动性的基础上，与多家私人做市商（PrivateMarket Makers）合作，给予交易者更好的报价。私人做市商有别于传统的自动做市商，私人做市商为单独的个体，提供类似于中心化交易所限价单的询价（Request for Quotation）机制，并通过其自有的算法和定价模型来为其合作伙伴（比如交易聚合器）提供流动性。RFQ机制相比自动做市商机制有更高的灵活性，且在资金效率上有极大的提升。</p>
+<p>当用户发出订单需求时，Native将从多个去中心化交易所获取报价，同时Native也会对私人做市商获取报价，私人做市商回复加密签名的报价（可以避免抢跑、价格影响和滑点损失）。Native聚合报价后为交易者提供最优价格策略，如果是和私人做市商成单，最后Native会验证交易者的数字签名，当交易条件满足时，交易者和做市商进行原子互换，否则订单将自动取消，以确保双方资金安全。</p>
+<p><img alt="探索Native：打造无缝流动性体验与高效资金利用的创新平台" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/a266833b24ba5ca8cba4d7737993bcd3.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>图2-3 Native报价聚合机制</pre>
+<p>用户与私人做市商成单亦不存在交易费用、价格影响等损失。即Native在保留用户资产所有权的基础上，一定程度上降低了用户的交易成本。</p>
+<p>NativeX面向于交易者，对于项目方来说，其可以通过内置Native程序来连接Native的流动性源，从而通过添加交易功能，项目方可以选择收取交易费用（默认0%）和向流动性提供者给予额外的代币奖励。目前，BendDAO、Aboard、Range Protocol和Velo已经内置Native以实现更加便捷的交易体验，ZetaSwap直接使用Native构建。</p>
+<p><img alt="探索Native：打造无缝流动性体验与高效资金利用的创新平台" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/b72e0d0994541c2dafe2f5e4ed28625e.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>图2-4 BendDAO Native交易界面[2]</pre>
+<p>对于做市商来说，接入Native的流动性可以获取更多的订单流，聚合器接入Native也能获取更多的报价源，有利于价格的进一步优化。</p>
+<p>总结：Native团队顾问为两家加密货币交易公司高管、有较多的做市经验。协议的产品包括NativeX和Aqua两部分。NativeX类似于跨链桥和交易的聚合器，有助于帮助用户进行更加便捷的交易。Aqua作为团队的新产品，开创了流动性提供者和做市商合作的新范式，能解决做市商在部分区块链上缺乏流动性的问题并提高做市商的资本效率，同时存款用户的资金有了更多的需求方，在提高用户存款收益的同时，也尽可能地保障的用户的资金安全。</p>
+<h3>3.发展</h3>
+<h4><strong>3.1.历史</strong></h4>
+<p><strong>表3-1 Native大事件</strong></p>
+<p><img alt="探索Native：打造无缝流动性体验与高效资金利用的创新平台" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/31c7877f71935b7a25c781f63a9a0981.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>从Native的历史进程来看，产品交付和新增支持网络速度较快，并在较短的时间内获得了一定市场需求。</p>
+<h4><strong>3.2.现状</strong></h4>
+<p>自2023年4月上线，Native累计交易量24.5亿美元，总交易数量300万次，其合作的私人做市商资产超过1亿美元。</p>
+<p><img alt="探索Native：打造无缝流动性体验与高效资金利用的创新平台" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/1f6c1130e77bc0eeb5ae6c1b9f9eb315.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>图3-1 Native累计数据[3]</pre>
+<p>协议的主要交易量来源于以太坊、Avalanche和BNB Chain，主要为其上的WAVAX、USDT和ETH代币。假设交易者考虑滑点等因素，则Native的主要竞争力为上述交易对，Native合作的私人做市商主要为以太坊和BNB Chain的mETH、AVAX和BTC代币提供流动性。</p>
+<p><img alt="探索Native：打造无缝流动性体验与高效资金利用的创新平台" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/ecc3553c9975223b7de2207c0a5c8190.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>图3-2 Native前10交易对</pre>
+<h4><strong>3.3.未来</strong></h4>
+<p>Native正在完成Aqua的最终测试（包括链上合约的审计和链下的结构执行），后续Native会对Aqua进行部署并上线主网，并陆续支持永续合约的RFQ和零知识证明的链上信用机制。</p>
+<p>总结：Native团队产品整体交付速度较快，获得了一定的市场份额。团队正推出其面向做市商的借贷产品Aqua，并于后续整合至永续合约领域和推出链上零知识证明类型的信用机制。作为团队后续的主打产品，Aqua上线后的表现和数据对Native较为关键。</p>
+<h3>4. 经济模型</h3>
+<p>Native还未发币，尚未公布其经济模型。</p>
+<h3>5. 竞争</h3>
+<h4><strong>5.1.行业概述</strong></h4>
+<p>Native目前拥有跨链交易聚合NativeX和面向做市商的借贷协议Aqua两个产品。跨链交易聚合一直属于小众赛道，而面向机构的借贷协议常给予KYC机构无抵押借贷的权利，机构借出资金后信息不透明，且资金用途缺乏限制，难以保障用户资金安全。</p>
+<p>一直以来，用户对于交易聚合都有着较大需求，以2024年3月18日为例，通过聚合器实现的交易量占DEX总交易量的36.7%。虽然交易聚合一直有着庞大的用户群体和需求，但其细分赛道跨链交易聚合一直难以赢得市场。在交易量排名前十的聚合器中仅有排名第十的Jumper Exchange（LI.FI旗下产品）为跨链交易聚合，整体来看，跨链交易聚合仍属于小众赛道，用户更熟悉使用1inch、Jupiter和CowSwap等知名聚合器。</p>
+<p><img alt="探索Native：打造无缝流动性体验与高效资金利用的创新平台" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/50a3a6c572de1478c24b27fec015d7a1.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>图5-1 聚合器交易量排名</pre>
+<p>面向机构的借贷协议往往不需要足额抵押，合作的机构之间可以直接无抵押贷款，协议的资金去向和留存透明度极低，用户甚至不知道资金被借出的数额和借出方。存款人面临较大的机构违约风险、资金安全性较低。以RWA赛道Goldfinch为例，其在2023年9月至10月经历了两次安全问题，Goldfinch在赛道内已属于借款较为谨慎的协议，但仍存在诸多借款信息和披露不足的情况。由此可见，面向机构的借贷协议严重缺乏透明度，存在较大的机构违约风险，因此赛道的TVL一直处于较低水平。</p>
+<h4><strong>5.2.竞争分析</strong></h4>
+<p><strong>5.2.1 Aqua</strong></p>
+<p>Native的新产品Aqua的产品逻辑创新性较强。Aqua同时包含去中心化交易所和借贷协议的特征，其开创了做市商和流动性提供者的新合作范式。流动性提供者存入的资金会被存放于Aqua的合约之中，做市商通过超额抵押后可以使用Aqua池中的资金进行做市，当做市商进行一笔交易时，做市商使用Aqua池中的资金进行结算。相当于在池中拥有了一个多头头寸和空头头寸（而非将资金借出合约进行做市操作），做市商可同时在中心化交易所进行反向操作来赚取交易价差。</p>
+<p>Compound和AAVE等传统借贷协议的主要借贷场景为用户自身增加杠杆、做空和利率套利，其需要有足够的市场波动等因素来创造出借贷需求，例如市场反弹带来的稳定币利率增加和以太坊质押收益提高ETH存款收益等。相比Compound，用户存入Aqua的资金有了更多的借贷需求，收益率更高。且借贷协议利率往往受市场行情波动，做市商的需求更加稳定。即用户的收益相对更加稳定且可持续。从始至终，用户的资金一直存在于Aqua的合约之中，且做市商均为超额抵押，头寸透明，相比将资金直接转移给做市商或者机构，Aqua借贷模式的安全性显著增加。</p>
+<p>对于做市商来说，做市商通过Aqua结算可以同时开设更多的头寸，相比直接借出资金最大化地提升了做市商的资金效率。且通过抵押可以获得多条区块链上的流动性，极大地丰富了做市商的做市场景，是目前DeFi的创新产品。私人做市商使用用户存入的流动性，通过RFQ机制，在单位流动性上可提供强于自动做市商的报价，或将颠覆目前去中心化交易所自动做市商机制占据主导的局面。</p>
+<p><strong>5.2.2 Native &amp; NativeX</strong></p>
+<p>在跨链交易聚合中，NativeX 24小时的350万美元交易量在该赛道已处于前列位置（聚合器总体排名12），交易量仅次于该赛道中的Jumper Exchange。Jumper Exchange由LI.FI打造，LI.FI团队于2022年7月和2023年3月分别融资550万美元和1750万美元，种子轮由1kx领投，是目前该赛道的最强选手。而作为币安投资的新创基金，Nomad在DeFi领域亦有较好的口碑，Native在融资背景上已属于一线水准</p>
+<p>跨链交易聚合的产品逻辑较为简单，协议聚合更多的跨链桥和去中心化交易所的流动性来源，并在此基础上与某些私人做市商合作以提供更多的流动性来源，最后跨链交易聚合综合报价并选出对于交易者的最优解，提供更加便捷高效的交易体验。和NativeX相似，LI.FI的推广方式主要为与其它协议的网站整合，LI.FI推出了预构建的的用户界面组件工具，项目方可将Jumper Exchange的交换服务整合进自己的网站，并实现一站式的跨链交易聚合服务。</p>
+<p>自2023年4月上线后，截至2024年3月19日，Native已聚合了300万笔交易和24.5亿美元的交易量，LI.FI目前已经聚合了500万笔交易和40亿美元的交易量。Native上线较晚，目前总交易数据约为LI.FI的60%，日交易量为350万美元约为LI.FI的53%。</p>
+<p><img alt="探索Native：打造无缝流动性体验与高效资金利用的创新平台" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/418883998dea9a5c1610e643a63f9ba8.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>图5-2 LI.FI聚合数据</pre>
+<p>目前NativeX支持10条EVM链，虽在数量上少于LI.FI，但NativeX已支持大部分重要的EVM网络，且正快速扩展至其它网络。从数据上看，NativeX在跨链交易聚合已处于一线水平。</p>
+<p><img alt="探索Native：打造无缝流动性体验与高效资金利用的创新平台" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/978080d620e5b19ba78e4ffb9726aa28.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>图5-3 LI.FI多链流动性</pre>
+<p>总结：Native的产品NativeX在跨链交易聚合赛道中数据已处于一线水平，已有较高的市场竞争力，但总体而言目前跨链交易聚合仍属于小众赛道，整体需求较少。其新产品Aqua创新点较多，使用统一的池来管控资金，做市商使用Aqua池流动性结算交易。不仅大幅增加了做市商的资金效率、帮助做市商在更多区块链上获取流动性，也尽可能地保障了用户的资金安全。</p>
+<h3>6.风险</h3>
+<p>1）代码风险</p>
+<p>Native的代码由Salus、Veridise和Halborn审计，其immunefi bounty program 也马上上线，但仍存在代码风险。</p>
+<p>2）清算不及时</p>
+<p>Aqua的清算由白名单清算人员定期进行，若做市商有明显的代币敞口且遭遇极端行情，可能出现做市商清算不及时引起流动性提供者亏损的可能。</p>
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 17:00:46 +0800</pubDate>
+<pubDate>Tue, 26 Mar 2024 17:00:46 +0800</pubDate>
+</item>
 
 <item>
 <title>专访Wormhole Foundation COO：从黑客松项目到估值25亿美元独角兽，我们做对了什么？</title>
