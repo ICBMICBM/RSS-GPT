@@ -10735,3 +10735,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [某巨鲸从币安提取140万枚WLD，约合1024万美元](https://www.panewslab.com/zh/sqarticledetails/ttiktumm.html)
 append_entries: 2
 Finish: 2024-03-26 03:31:13.861329
+------------------------------------------------------
+Started: 2024-03-26 03:38:50.899371
+Existing_entries: 471
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 192
+Summarized using GPT-3.5-turbo-1106
+Append: [香港证监会告诫公众谨防EDY涉嫌虚拟资产相关欺诈行为](https://www.panewslab.com/zh/sqarticledetails/syp3w7al.html)
+append_entries: 1
+Finish: 2024-03-26 03:38:55.590715
