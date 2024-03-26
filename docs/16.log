@@ -12568,3 +12568,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round )
 append_entries: 1
 Finish: 2024-03-26 13:29:28.559042
+------------------------------------------------------
+Started: 2024-03-26 13:36:39.880859
+Existing_entries: 1001
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 855
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文】去中心化计算网络 io.net 研报：构建革命性 GPU 计算云](https://0xgreythorn.medium.com/io-nets-revolutionary-gpu-cloud-f18c06b944e4)
+Token length: 266
+Summarized using GPT-3.5-turbo-1106
+Append: [ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round )
+append_entries: 2
+Finish: 2024-03-26 13:36:49.348421
