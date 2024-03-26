@@ -5,17 +5,53 @@
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
 <item>
+<title>【英文长推】Meme 来自未来，MEV 是过去的回声</title>
+<link>https://twitter.com/alkimiya_io/status/1772305479173067184</link>
+<guid>https://twitter.com/alkimiya_io/status/1772305479173067184</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Alkimiya协议的文章探讨了比特币上的MEV对区块空间和生态系统的影响。文章指出，随着Ordinals的崛起和交易费用的增加，区块空间需求大幅上升。比特币用户群体也变得更多样化，对比特币区块空间及扩展解决方案产生兴趣，从而推动文化转变。btc上的MEV不像智能合约链那样复杂，但随着时间推移，PvP行为将增加产生许多负外部性。Ordinals和Runes将改变区块空间经济，服务和钱包将为搜索者提供内存池分析。 MEV对新兴非EVM生态系统可能会提出挑战。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Meme 驱动高密度的链上行为，而高密度链上行为是 MEV 的食粮。Alkimiya 协议发表文章，探讨 Meme 对 MEV，尤其是比特币上的 MEV，区块空间以及生态系统的影响。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/alkimiya_io/status/1772305479173067184">https://twitter.com/alkimiya_io/status/1772305479173067184</a></p>
+<p><strong>文章作者：</strong></p><p>Alkimiya</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Alkimiya：</strong>比特币上反费用狙击缓解措施（重排保护）的早期实施可以追溯到 2013 年。虽然高 MEV 用例在 EVM 上呈指数级增长，但由于比特币的简易性，这类争论很少出现。现在，激励机制正在迅速变化，比特币区块空间里充斥着 meme。由于这些 meme，MEV 正在进入比特币。
+
+Ordinals 通过部分签名的 UTXO 进行铸造和交易，很容易受到费用狙击。搜索者可以通过替换交易目的地抢跑交易，并通过提高 RBF 费用更快将其包含在区块中。最近，Ordinals 的兴起和交易费用的飙升可能是收费市场发展的早期迹象。这导致了一些深刻的变化：
+1. 区块大小 + 内存池大小：区块空间是去中心化共识网络产生的短暂商品。比特币区块空间对非标准交易的需求导致平均区块大小急剧上升。
+2. 交易费用：链上事件对网络费用的影响众所周知，比特币区块空间中也出现了类似的模式。
+3. 全节点：从好的方面来说，为了完全控制整个铸币过程，用户必须运行完整的比特币节点。讽刺的是，用户现在终于有了运行全节点的动力。
+
+虽然现在看事态如何发展还为时尚早，但人们显然对比特币区块空间以及扩展解决方案重新产生了兴趣，比特币使用者群体正变得更加多样化。这是一种文化转变：比特币的 memes 正在改变比特币的 meme。那么，比特币上的 MEV 是什么样的呢？首先，与智能合约链相比，BTC 上的 MEV 不够复杂和程序化。然而，由于比特币出块时间较长，大量出价将被困在内存池中，给了人们更多时间竞争和提高 RBF 费用。随着时间的推移，比特币内存池的 PvP 行为会越来越多，这回产生许多负外部性：
+- 失败的 MEV 交易尝试落在区块内，使得区块中充斥着无用的恢复，而非有意义的用户交易。
+- 与链上「真实」需求相比，交易费被人为抬高。
+- 交易费的波动使用户难以持续、正确地为其交易定价，导致用户体验较差。
+- 矿工不需要在公共 mempool 中竞价，在提取 MEV 方面具有优势，这形成了有利于更复杂矿工的中心化力量。
+
+Ordinals 和 Runes 将极大地改变区块空间经济。随着减半到来，手续费将占据区块奖励的更高比例。展望未来，更多服务和钱包将投资于为搜索者提供内存池分析，主导 ETH MEV 场景的延迟讨论也将与此相关。随着铭文的出现，对更大区块的需求增加，矿池将在带外为这些非标准交易制作「定制区块」，从而产生更高的费用。MEV 对新兴非 EVM 生态系统提出了复杂的挑战，可能会影响其去中心化、安全性和用户体验。【原文为英文】</p><a href="https://twitter.com/alkimiya_io/status/1772305479173067184">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-26T10:11:35+00:00</pubDate>
+</item>
+<item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成了 2000 万美元战略融资，估值达到 10 亿美元，由 Polychain Capital 领投。其他参与者包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium 和 Mapleblock Capital。融资将用于团队扩大到约 80 人，并用于招聘产品、工程、业务开发和营销等跨职能部门。这是通过未来代币或 SAFT 的简单协议进行的第五轮融资。 <div>
+<div> <br><br>摘要：<br>这些信息是积极的。ZK 互操作协议 zkBridge 的开发商 Polyhedra Network 完成了一笔 2000 万美元的战略融资，估值达到 10 亿美元。融资由 Polychain Capital 领投，其他投资方包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等。筹集的资金将用于扩大团队规模、招聘跨职能部门人员，以支持产品、工程、业务开发和营销等方面的发展。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
 
+<item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
+<content:encoded><![CDATA[
+<div> <br /><br />摘要：<br />这些信息是积极的。ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成了 2000 万美元战略融资，估值达到 10 亿美元，由 Polychain Capital 领投。其他参与者包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium 和 Mapleblock Capital。融资将用于团队扩大到约 80 人，并用于招聘产品、工程、业务开发和营销等跨职能部门。这是通过未来代币或 SAFT 的简单协议进行的第五轮融资。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
@@ -10902,16 +10938,6 @@ Runes 协议，源自 Ordinals 创始人 Casey Rodarmor 之手，旨在在比特
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />ZK互操作协议zkBridge的开发商Polyhedra Network以10亿美元估值完成了2000万美元的战略融资，由Polychain Capital领投，其他投资方包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium和Mapleblock Capital。此轮融资将帮助公司扩大团队规模，从目前的50人扩大到约80人，用于招募产品、工程、业务开发和营销人员。所有融资都是通过未来代币或SAFT协议进行的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，估值达到 10 亿美元。Polychain Capital 领投，多家机构参投，融资通过未来代币或 SAFT 进行。筹资将用于招聘扩大团队，促进产品、工程、业务开发和营销等部门发展，将团队规模增加至约 80 人。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>

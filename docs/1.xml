@@ -5,11 +5,119 @@
 <link>https://rss.panewslab.com/</link>
 
 <item>
+<title>Telegram社区公链Ton起势，是否会成为Solana挑战者？</title>
+<link>https://www.panewslab.com/zh/articledetails/0g32734l8nq7.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/0g32734l8nq7.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了TON公链的起步情况、与Telegram的整合、技术架构和特点，以及能否成为下一个Solana的讨论。TON具有技术创新、与Telegram的合作优势和快速发展的生态系统。然而，面临市场竞争、技术挑战、法律风险和网络安全风险。总体而言，TON在社交和游戏领域有独特优势，但在技术挑战、法律风险和市场竞争方面仍需面对挑战。 <div>
+<p>最近，TON 公链在经历长时间低迷后终于开始起步，总锁仓量突破 7800 万，创历史新高。此外，其生态也涌现大量的 Memecoin，且 TON 基金会也宣布招聘 Memecoin 生态负责人，颇有大力发展 Meme 生态之意。然而，这一举措也引发了一些争议，即 Ton 能否复刻 Solana Meme 狂潮？毕竟，与 Solana 生态不同，TON 的 DeFi 生态仍处于早期阶段，目前的 DeFi 应用和工具相对有限，同时还存在中心化问题和资本效率不足的挑战。</p>
+<h3>简介</h3>
+<p id="§简介"></p>
+<p>TON（The Open Network）是一个去中心化的网络，旨在为所有人构建一个开放的互联网环境，最初由 Telegram 的创始人 Nikolai 和 Pavel Durov 构思，TON 的开发现已转变为社区驱动。这一转变强调了其去中心化的基本原则以及更广泛社区对其成长和创新的承诺。尽管 Telegram 后来因与 SEC 的监管挑战而与该项目保持距离，但网络仍与这一消息应用密切相关，将各种基于区块链的服务（如加密货币支付和存储解决方案）直接集成到 Telegram 的生态系统中。</p>
+<h3>和 Telegram 的集成</h3>
+<p id="§和-telegram-的集成"></p>
+<p><strong>TON 与 Telegram 的结合始于 Telegram 团队自 2017 年起开发的一个新区块链平台（Telegram Open Network）及其原生加密货币 Grams 的愿景</strong>。这个项目的目标是通过 TON 区块链技术改善日常商业交易的速度、效率和安全性，从而使 Grams 成为传统货币的真正补充。Telegram 希望 TON 区块链能够创造一个稳定的生态系统，并代表了速度、可用性和可扩展性方面的重大改进。</p>
+<p><strong>然而，由于与美 SEC 的法律冲突，Telegram 不得不放弃了这个项目</strong>。尽管如此，TON 并未因此而终止，在 2021 年 5 月，一个名为 NEWTON 的<strong>开发者社区接手了 Telegram 未完成的 TON 项目，并独立于 Telegram 继续其研究和开发。</strong>这个由 Telegram 社区成员自发组成的团队，后来在 2021 年改名为 TON 基金会（TON Foundation），标志着项目的新起点。<strong>随着这一重大变革，项目名称也从最初的 Telegram Open Network 更新为 The Open Network，反映了其更广泛的应用和开放性</strong>。同时，项目的原生加密代币也从 Gram 更名为 Toncoin，这一系列变化彰显了 TON 向更加去中心化和开放的网络转型的决心和步伐。</p>
+<p>TON 生态系统的发展受到了 Telegram 社区的广泛支持，这一点在其与 Telegram 的整合上表现得尤为明显，<strong>Telegram 已经无缝整合了基于 TON 的加密钱包到其生态系统中，这使得 Telegram 的近十亿用户现在可以轻松地进行加密货币支付，并访问基于 Toncoin 的众多 DApp</strong>。这不仅提升了 Toncoin 的采用率和知名度，也为 Telegram 用户提供了一种高度实用和便捷的方式来探索和参与 Web3 经济。</p>
+<p>此外，<strong>TON 基金会和 Telegram 在去年新加坡 Token2049 活动中宣布两方正式达成合作关系</strong>，展示了他们通过 Toncoin 将 Telegram 转变为 Web3 的雄心壮志，以及 Telegram 对 TON 生态的支持和承诺。</p>
+<p>通过这样的整合，TON 和 Telegram 之间的合作关系不仅推动了 Toncoin 的市场地位，而且还为 Telegram 上的加密货币社区提供了新的动力。随着更多产品和应用的推出和整合，TON 和 Telegram 之间的合作关系将继续扩大其影响力，进一步提高 Toncoin 的采用率和知名度，为整个生态系统注入活力。</p>
+<h3>技术分析</h3>
+<p id="§技术分析"></p>
+<h4><strong>技术架构</strong></h4>
+<p id="§技术架构"></p>
+<ol>
+<li>
+<p><strong>分片技术</strong>：TON 的架构采用了分片技术，将区块链划分为多个分片链（shardchains），<strong>每个分片链能够独立处理交易和智能合约，大大提高了处理大量交易的能力</strong>。</p>
+</li>
+<li>
+<p><strong>主链与工作链</strong>：TON 包括一个主链（masterchain）和多达 2^32 个工作链（workchains），<strong>每个工作链都有自己的规则集，这些规则集涵盖账户地址格式、交易协议和执行智能合约的虚拟机等</strong>。</p>
+</li>
+<li>
+<p><strong>超立方体路由</strong>：TON 使用慢超立方体路由和即时超立方体路由技术来<strong>实现分片链之间的有效消息传递</strong>，保障了网络的可扩展性和即时通信的需求。其中慢超立方体路由<strong>确保消息在多个分片链间的分发能够随着分片链数量的增加而逻辑上的增长</strong>，这意味着网络增长时，消息传递时间的增加被最小化，确保了可扩展性。即时超立方体路由则用于<strong>需要分片链间即时消息传递的场景，支持几乎即时的通信</strong>，这对于依赖实时数据交换和协调不同网络部分的操作至关重要。</p>
+</li>
+<li>
+<p><strong>拜占庭容错变体的 PoS 共识机制</strong>：将拜占庭容错技术与 PoS 共识机制结合，TON 的共识机制<strong>在提高网络安全性的同时，还保证了高效的网络操作和更低的能源消耗</strong>。验证节点需要抵押代币以参与共识过程，这不仅提供了经济上的激励，而且还增加了恶意行为的经济成本，从而增强了网络的安全性。此外，通过引入 BFT 技术<strong>，即使在面临节点故障或恶意攻击的情况下，TON 也能保持网络的正常运行，确保交易和数据的正确性与一致性。</strong></p>
+</li>
+</ol>
+<h4><strong>技术特点</strong></h4>
+<p id="§技术特点"></p>
+<ol>
+<li>
+<p><strong>高效率与可扩展性</strong>：通过分片技术和高效的路由机制，<strong>TON 能够处理每秒数百万笔交易，同时保持低延迟和低成本</strong>，解决了区块链可扩展性的挑战。</p>
+</li>
+<li>
+<p><strong>安全与去中心</strong>：TON 的治理模式固有地去中心化，<strong>网络修改的决策需要大多数验证节点的批准</strong>，通过权益证明共识机制实现，这样的机制进一步强化了网络的安全性和去中心化。</p>
+</li>
+<li>
+<p><strong>用户友好性</strong>：TON 提供了如 TON DNS、TON Storage 等多种服务，使用户能够以更直观、便捷的方式使用区块链技术。</p>
+</li>
+<li>
+<p><strong>生态系统多样性</strong>：TON 不仅支持加密货币交易和智能合约，还旨在创建一个包含去中心化存储、匿名网络、DNS 和即时支付等多种去中心化服务的生态系统，推动区块链的发展。</p>
+</li>
+</ol>
+<h4><strong>其他服务与特性</strong></h4>
+<p id="§其他服务与特性"></p>
+<ol>
+<li>
+<p><strong>TON DNS</strong>：<strong>通过将复杂的区块链地址转换成易于理解的名称来增进用户体验，类似于加密货币领域的传统域名系统，并采用「.ton」作为其专属域名后缀。</strong>这一机制使得用户可以借助简短易记的域名访问 DApp，而无需记忆或输入冗长的字母数字串。此外，用户还可以将这些域名与他们的钱包地址关联，从而简化了对区块链资源的访问过程。</p>
+</li>
+<li>
+<p><strong>TON Storage</strong>：<strong>分布式文件存储系统，其运作机理借鉴了 Torrent 网络的原理，通过分布式技术来存储和分发文件。</strong>用户可以通过提供自己的磁盘空间参与到文件的存储中，并以 TON 作为奖励。若用户需求更多云存储空间，同样可以通过支付 $TON 来获得。为确保存储渠道的安全和匿名性，TON Storage 利用加密技术和 TON Proxy 的 IP 地址掩蔽技术，以此来保护数据，防止审查和跟踪。基于其架构，TON Storage 支撑着多种分布式应用的开发，包括视频流服务，为用户提供了一个集视频流、搜索、目录及推荐系统等功能于一体的平台。</p>
+</li>
+<li>
+<p><strong>TON Payments</strong>：<strong>基于 TON 构建的内部支付系统，虽然主要以 Toncoin 为交易货币，但也支持生态系统内不同加密货币之间的转账。</strong>它不仅适用于用户间的钱包转账，也支持 DApp 内的微小支付、TON Proxy 支付以及 DNS 和文件存储服务的费用结算。TON Payments 通过去中心化和分布式技术实现了快速、高效且安全的支付流程，让用户在 TON 生态系统内可以自由、安全地进行各种交易和支付操作。</p>
+</li>
+</ol>
+<p>总结来说，TON 区块链结合先进的技术和广泛的应用场景，提供了高性能和可扩展的区块链平台。通过与 Telegram 的紧密合作，TON 进一步利用了 Telegram 庞大用户基础的优势，简化了加密货币交易，增强了区块链技术的易用性和访问性。这种合作不仅推动了 TON 的采用，也促进了区块链技术向主流社会的扩散​。</p>
+<h3>会成为下一个 Solana 吗？</h3>
+<p id="§会成为下一个-solana-吗"></p>
+<p>这轮周期不少公链都在模仿 Solana，通过 meme 的造富效应来吸引用户，TON 也是其中一员。近几日 FISH 引领着生态内的 memecoin 暴涨，不少人认为 TON 会成为下一个 Solana。</p>
+<p>本文截稿时，<strong>Toncoin 在<a href="https://coinmarketcap.com/" rel="nofollow">CoinMarketCap</a>上排名为第十一位，市值 171 亿美元，而第五名的 Solana 市值为 783 亿美元，五倍的距离</strong>。同样对比交易量，SOL 日交易量达到 22.1 亿美元，TON 则为 3.33 亿美元。另外，加密研究员<a href="https://twitter.com/riyuexiaochu/status/1771485476521923014" rel="nofollow">日月小楚</a>对 TON 的链上筹码进行了分析，表示<strong>TON 总量 51 亿枚，流通 38 亿枚，项目方手上有约 9.6 亿枚，而早期低成本矿工则拥有超过 10 亿枚</strong>。而且早期矿工有一部分是基金会。这种分布模式突显了开发团队和相关利益方保留了相当一部分代币，可能用于未来的开发、市场推广和生态系统奖励等方面。但也表明 TON 生态系统在初期依赖于这些关键支持者的事实。</p>
+<figure><a href="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F205856aa-0693-42d7-8f36-e311d447384d_2792x1112.png" rel="nofollow" target="_blank">
+<p><source type="image/webp" /><img alt="Telegram社区公链Ton起势，是否会成为Solana挑战者？" height="580" src="https://rss.panewslab.com/zh/gtimg/src" style="display: block; margin-left: auto; margin-right: auto;" width="1456" /></p>
+</a></figure>
+<p>在探讨 TON 是否能复刻 Solana 的成功轨迹时，我们可以将讨论分为正反两个观点。</p>
+<h4><strong>正面观点：TON 具有其独特优势和潜力</strong></h4>
+<p id="§正面观点ton-具有其独特优势和潜力"></p>
+<ol>
+<li>
+<p><strong>技术创新与扩展性</strong>：<strong>TON 的架构设计具有原生分片支持</strong>，理论上能够达到每秒 104,715 笔交易的处理速度，并且保持高效率<strong>。</strong>此外，<strong>TON 的多链结构和支持自定义工作链的能力为不同类型的应用提供了强大的灵活性​​​​</strong>。</p>
+</li>
+<li>
+<p><strong>与 Telegram 的结合</strong>：<strong>TON 最大的优势可能在于其与 Telegram 的紧密结合。背靠 Telegram 的九亿月活量，以及其 mini app 功能，TON 能够在社交和游戏领域提供独特的用户体验，这是其他区块链项目难以复制的​​。</strong></p>
+</li>
+<li>
+<p><strong>社区和生态系统的增长</strong>：尽管 TON 是后来者，但它正快速发展其生态系统，提供丰富的开发工具和资源。<strong>TON 的愿景是通过社区的力量推动生态系统的发展</strong>，而不是依赖于单一的开发团队或公司。</p>
+</li>
+</ol>
+<h4><strong>反面观点：TON 面临挑战和局限性</strong></h4>
+<p id="§反面观点ton-面临挑战和局限性"></p>
+<ol>
+<li>
+<p><strong>市场竞争和技术挑战</strong>：<strong>尽管 TON 在理论上具有较高的 TPS，但在实际运行中存在稳定性问题</strong>。而且，虽然 TON 区块链在 DeFi 领域展现了增长潜力，但仍面临着一些挑战和劣势。<strong>其 DeFi 生态系统还处于早期阶段，目前的 DeFi 应用和工具相对有限，且存在中心化问题和资本效率不足的问题。</strong>这些因素可能影响 TON 在竞争激烈的 DeFi 市场中的吸引力和可信度。<strong>TON 的 TVL 与其他网络如 Polygon 或 Solana 相比，在绝对值上还不可比拟。</strong></p>
+</li>
+<li>
+<p><strong>法律和监管风险</strong>：<strong>此前 Telegram 创始人表示其打算通过 IPO 在股票市场上市，</strong>是否能避免重蹈覆辙，规避法律和监管风险？如果不能，将限制 TON 的发展空间。</p>
+</li>
+<li>
+<p><strong>市场操纵和网络安全风险</strong>：早期低成本矿工筹码达 10 亿枚，可能导致市场供应和价格波动的不稳定。当这些早期矿工决定大量出售其持有的加密货币时，<strong>可能会导致市场价格急剧下跌，影响其他投资者的利益</strong>。此外，<strong>过度集中的币量还可能增加网络被少数人操控的风险，从而影响区块链网络的去中心化特性和安全性</strong>。</p>
+</li>
+</ol>
+<h3><strong>综合分析</strong></h3>
+<p id="§综合分析"></p>
+<p><strong>尽管 TON 在通过 Telegram 平台在社交和游戏方面拥有其独到之处，技术优势亦不容小觑，但它所面临的诸多挑战同样显而易见。</strong>与之形成鲜明对比的是，Solana 凭借其在技术创新和开发者友好环境方面的卓越表现，在 DeFi、NFT 市场及高频交易等众多领域建立了强大的生态系统。<strong>Solana 之所以能够取得成功，很大程度上得益于其处理超高交易速度和降低成本的能力——这正是 TON 尚未完全展现出来的能力。</strong></p>
+<p>总的来说，<strong>虽然 TON 在结合 Telegram 的社交和游戏领域有其独特的市场优势，但它所面临的技术挑战、法律风险和市场竞争可能会成为其重复 Solana 成功之路的障碍。</strong>因此，投资者和市场观察者应保持一份谨慎的乐观，继续关注 TON 在社交媒体领域的潜力发展，同时也需警惕它所面临的各种风险。</p>
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 18:30:42 +0800</pubDate>
+<pubDate>Tue, 26 Mar 2024 18:30:42 +0800</pubDate>
+</item>
+
+<item>
 <title>IOSG：“四问”让你了解如何在EigenLayer上构建AVS</title>
 <link>https://www.panewslab.com/zh/articledetails/76cbyqmx.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/76cbyqmx.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。<br>最近，使用 EigenLayer 来构建主动验证服务（AVS）项目在开发者社区中变得非常流行。AVS需要回答四个主要问题：定义AVS中的任务、需要继承的信任类型、操作员任务是轻量级还是重量级、以及惩罚条件是什么。EigenLayer支持双重质押，帮助AVS调整经济安全需求。一些外部工具如Cubist和Anzen Protocol也可协助AVS建立信任网络和提高经济安全性。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。<br />最近，使用 EigenLayer 来构建主动验证服务（AVS）项目在开发者社区中变得非常流行。AVS需要回答四个主要问题：定义AVS中的任务、需要继承的信任类型、操作员任务是轻量级还是重量级、以及惩罚条件是什么。EigenLayer支持双重质押，帮助AVS调整经济安全需求。一些外部工具如Cubist和Anzen Protocol也可协助AVS建立信任网络和提高经济安全性。 <div>
 <p><img alt="IOSG：“四问”让你了解如何在EigenLayer上构建AVS" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/318ca065125a0108884c5585af6b1aa4.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
 <pre><img alt="IOSG：“四问”让你了解如何在EigenLayer上构建AVS" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/1b58ee7d2f507cdbde3adfb8c4025d9d.png" style="display: block; margin-left: auto; margin-right: auto;" />Source: EigenLayer, IOSG</pre>
 <p>最近，使用 EigenLayer 来构建基础设施项目在开发者社区中已经变得非常流行。这些项目被称为主动验证服务（AVS），指的是任何需要自己的分布式验证语义以进行验证的系统。这些系统可以包括 DA 层、新的 VM、预言机、桥等等。</p>
@@ -91,14 +199,13 @@
 <p>https://docs.eigenlayer.xyz/eigenlayer/overview/</p>
 ]]></content:encoded>
 <pubDate>Tue, 26 Mar 2024 18:00:25 +0800</pubDate>
-<pubDate>Tue, 26 Mar 2024 18:00:25 +0800</pubDate>
 </item>
 <item>
 <title>Script Network (SCPT) 推动去中心化的娱乐革命，如何打破传统电视机制并突破一亿以上用户数？</title>
 <link>https://www.panewslab.com/zh/articledetails/bp6ysqko.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/bp6ysqko.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了 Script TV 这一开源直播视频平台，通过观看视频赚取区块链奖励。与NVIDIA合作，利用AI为用户提供定制化内容。Script TV采用AI模型分析用户喜好，提供个性化推荐。平台拥有自主可控的VDN，提供高品质的视频观看体验。用户参与内容可以获得代币奖励，拥有治理效用。Script TV的创新应用包括广告领域，吸引广告商使用代币进行交易。公司团队经验丰富，与全球企业合作。项目定位于视频串流行业，准备挑战老牌玩家Theta TV。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章介绍了 Script TV 这一开源直播视频平台，通过观看视频赚取区块链奖励。与NVIDIA合作，利用AI为用户提供定制化内容。Script TV采用AI模型分析用户喜好，提供个性化推荐。平台拥有自主可控的VDN，提供高品质的视频观看体验。用户参与内容可以获得代币奖励，拥有治理效用。Script TV的创新应用包括广告领域，吸引广告商使用代币进行交易。公司团队经验丰富，与全球企业合作。项目定位于视频串流行业，准备挑战老牌玩家Theta TV。 <div>
 <p dir="ltr">作者：Chloe，PANews</p>
 <p dir="ltr">随着 YouTube 线上影片平台的崛起，传统电视行业早已处在停滞阶段，观众参与度下降、广告收入减少、来自多媒体平台的激烈竞争、观众人口数据变化以及制作成本增加，都让传统电视受到来自新兴媒体的巨大冲击。紧接着市场热度来到 Netflix 和 Amazon Prime 等串流平台手中，它们更让 AI 一同参与，分析观众偏好和观看习惯，提供量身制作的内容建议。</p>
 <p dir="ltr">而在去中心化的架构当中，视频生态会怎么被呈现？<a href="https://coinmarketcap.com/currencies/script-network/" rel="nofollow">Script Network</a> 推出了以 Script TV 为核心的 L1 开源直播视频平台，让观众可以透过观看视频就获得链上和链下奖励。Script TV 是目前市场上第一个可以让观众边观看边赚取奖励的直播视频平台，它将 Web3 经济商业模式融入传统娱乐体验当中，让用户只需观看 Script TV 上的节目内容即可获得区块链上的 SCPT 代币奖励。</p>
@@ -122,9 +229,7 @@
 <p dir="ltr"><a href="https://coinmarketcap.com/currencies/script-network/" rel="nofollow">Script Network</a> 的核心使命是重新定义观众与直播视频内容的互动方式。传统电视一直是数十亿人生活的基础，<a href="https://coinmarketcap.com/currencies/script-network/" rel="nofollow">Script Network</a> 在此基础上更意识到 AI 在提升观众体验、优化内容和影视最高质量方面蕴藏着巨大潜力，总之， Script TV 其基于区块链平台进军视频串流行业，让两者有着重大的范式转变，已准备好挑战 Theta TV 等老牌玩家。</p>
 ]]></content:encoded>
 <pubDate>Tue, 26 Mar 2024 18:00:00 +0800</pubDate>
-<pubDate>Tue, 26 Mar 2024 18:00:00 +0800</pubDate>
 </item>
-
 <item>
 <title>探索Native：打造无缝流动性体验与高效资金利用的创新平台</title>
 <link>https://www.panewslab.com/zh/articledetails/2xflpior.html</link>
