@@ -4,6 +4,68 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>聚合超50%的DEX交易量，Jupiter是Solana DeFi生态的未来吗？</title>
+<link>https://www.panewslab.com/zh/articledetails/cujmywnf.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/cujmywnf.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了Solana生态中炙手可热的明星Jupiter的产品设计思路，强调了其三大核心功能：流动性聚合器、限价单和DCA定投。此外，还掴链各生态模块包括上游孵化器Jupiter Labs和衍生品协议Jupiter Perpetual等。文章提及Jupiter的经济模型和未来发展方向，指出在探索衍生品和稳定币领域时可能面临的风险。文章呼吁需建立完善的经济模型和稳定的代币价格来保持平衡。 <div>
+<blockquote>
+<p>作为Solana生态中炙手可热的明星，Jupiter虽然推出的时间不久但已然在DeFi领域内站稳脚跟。但另一方面，如果没有完善的经济模型和稳定的代币价格做支撑，很容易最终陷入死亡螺旋，可能会对Jupiter自身产生致命的影响。‍</p>
+</blockquote>
+<p>最近一周的Sol链风风火火，Jupiter以其代币 $JUP 在二级市场中的价格也是在过去两周紧跟Solana节奏而水涨船高几近翻倍。</p>
+<p>市场上对于Jupiter和 $JUP 的研究，更多是在二级角度。亮眼（或者暂时亮眼）的市值表现背后，除了优秀的狗庄和社区之外，也离不开它优秀的产品设计作为支撑。所以今天就从产品的角度，来扒一扒Jupiter的产品设计思路。</p>
+<p>在Solana生态中，Jupiter的出现并非偶然，而是众多DEX中一次技术创新与用户体验优化的有力证明。作为Solana网络上最具竞争力的DEX，Jupiter是Solana交易用户的主要选择之一。</p>
+<h3>Jup的三大核心功能</h3>
+<p>其产品能够备受关注的关键在于三大核心功能：流动性聚合器、现价单以及DCA/定投。这三个创新技术的应用不仅提升了Jupiter的竞争力，也为整个DEX赛道树立了新的标杆。</p>
+<h4><strong>核心功能模块1：流动性聚合器</strong></h4>
+<p>Jupiter的流动性聚合器技术是其核心竞争力之一。在传统的DEX模型中，每个交易所的流动性池是孤立存在的，用户在进行资产交换时，往往需要自己寻找最佳的交易池以获得最优的交易价格，这不仅费时费力，而且由于流动性分散，很难保证交易的最优性。Jupiter的流动性聚合器技术，能够跨越Solana生态内的众多流动性池，通过算法自动寻找并聚合最优的流动性资源，为用户提供一站式的最佳交易路径。</p>
+<p>在交易前，用户可自行选择修改交易费用、滑点大小和是否采用直接路径等参数。这意味着用户可以在一个界面上获取到整个生态中最好的交易价格和最低的滑点，提高了资产交换的效率和经济性。Jupiter交易聚合的实现是基于其后端的智能路由技术。</p>
+<p>在后端，Jupiter通过复杂的算法实时监控和分析整个市场的交易数据，包括价格、深度、滑点等多个维度。基于这些数据，智能路由算法能够为每一笔交易动态选择最佳的交易路线，即使在市场波动剧烈的情况下，也能保证用户交易的成功率和成本效率。具体来说，一旦Jupiter获得市场数据，其多路径搜索算法就会开始寻找最佳的交易路径。</p>
+<p>这个过程涉及到复杂的计算，因为它不仅要考虑直接的交易对，还要分析通过一系列中间代币转换能否获得更好的交易价格。例如，如果用户想从代币A兑换到代币C，智能路由不仅会考虑直接的A→C交易路径，还会考虑A→B→C或A→B→D→C等可能的中间路径，从而找到成本最低的交易方案。</p>
+<p>尽管智能路由的背后技术非常复杂，但Jupiter致力于为用户提供简单易用的交易体验。智能路由的操作对用户来说是完全透明的，用户只需输入想要交换的代币和数量，剩下的工作都由智能路由自动完成。这种设计最大化地降低了用户的操作难度，让用户即使没有深厚的技术背景也能轻松进行交易。</p>
+<h4><strong>核心功能模块2：限价单</strong></h4>
+<p><img alt="聚合超50%的DEX交易量，Jupiter是Solana DeFi生态的未来吗？" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/056815733d7a78c96babd117c31b8711.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Jupiter为交易者提供了限价单功能，有效避免了交易时价格影响造成的成本增加和滑点问题，同时规避了MEV问题。在未完全成交时，限价单可以被部分成交并获得成交部分的代币。在提出交易时，用户可以自行选择订单有效期、兑换价格和兑换数量，以更精确的执行自己的交易策略。该协议与 Birdeye 和TradingView合作，Birdeye提供代币的链上价格数据，Jupiter使用TradingView的技术来进行图表的数据展示。该功能使得Jupiter给用户提供的实际体验更加贴近中心化交易所。</p>
+<h4><strong>核心功能模块3：DCA定投</strong></h4>
+<p>Dollar-Cost Averaging (DCA) 是一种投资策略，投资者在特定时间间隔内，通过多次投资来摊平买入成本到一个预设价格区间，这种方法可以帮助投资者减少在单一价格点投资的风险。在Jupiter中进行DCA定投，用户只需设置购买频率（Jupiter提供最小频率为分钟，最大频率为每月）、购买价格区间，总时间段以及希望购买的资产。在定投后，用户的代币会被转移到定投相关的账户中，并且根据预设价格区间和交易频率自动执行交易。</p>
+<p><img alt="聚合超50%的DEX交易量，Jupiter是Solana DeFi生态的未来吗？" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/e46c95387b40e9e5e1e113e699a8adb7.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>在定投结束后，代币被自动转移回用户钱包，协议对定投收取千分之一的费用。可控的成本价，低廉的费用以及全托管的交易流程使得DCA成为交易者熊市中累计资产的不错的选择。然而，在牛市中，这种机制就显得比较默默无闻，因此该功能当前的总体需求量依然比较小。</p>
+<h3>Jup的其他生态模块</h3>
+<h4><strong>上游孵化器：Jupiter Labs</strong></h4>
+<p>一个独立于Jupiter运作的实验室，未来将会独立运营，致力于推动创新项目。Jupiter用户和社区成员享有某些优先权，包括优先使用权和代币激励。目前，Jupiter Labs正专注于永续合约和LSD稳定币两大项目领域。</p>
+<h4><strong>衍生品协议：Jupiter Perpetual</strong></h4>
+<p>是Jupiter Labs推出的一个衍生品协议，其模式与GMX V1类似，目前已进入实际使用阶段。该协议定义了两类主要参与者：流动性提供者和交易者。流动性提供者向池中提供资金，这些资金被转换成一揽子代币，主要包括BTC、ETH、SOL、USDC和USDT，其中SOL和USDC占有较高权重，成为主要的交易对象。</p>
+<p>交易者在进行杠杆交易时，利用池中的代币建立杠杆头寸，他们无需担心交易滑点，只需支付交易费用和借贷费，后者基于代币的利用率计算。流动性提供者则获得70%的交易费和所有借贷费，但同时也需承担交易者盈利和代币贬值带来的亏损风险。</p>
+<h4><strong>LST稳定币协议XYZ</strong></h4>
+<p>该项目尚未推出。协议与Lybra V1类似，允许用户通过抵押SOL铸造无借款利息的生息稳定币SUSD。通过LST质押获得的收入将分配给SUSD持有者和治理代币。特别之处在于，当LST收益率高于SOL借款利率时，将采用杠杆套利策略来最大化收益。</p>
+<p><img alt="聚合超50%的DEX交易量，Jupiter是Solana DeFi生态的未来吗？" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/9fa5b60322b57ddd8de522f665465935.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>此外，协议还引入了赎回机制来维持SUSD的价格稳定，虽然这可能对借款人头寸造成影响，尤其是在市场波动时。为缓解这一问题，协议可能采取在小额价格区间内用治理代币进行SUSD赎回的策略，当SUSD的价格介于0.95-1美元之间时，协议可能采用SUSD赎回治理代币的方式来降低借款人被赎回的频率。然而，该方案可能导致绝大部分的赎回均为治理代币赎回，若价格持续低于1美元，会造成较为严重的代币增发。</p>
+<h3>回归到 $Jup 经济模型</h3>
+<p>JUP代币是Jupiter生态系统中的治理代币，允许代币持有者就关键生态系统决策进行投票，涵盖如启动项目、争议名单和赠款等议题。Jupiter团队承诺，代币分配将严格遵守路线图，任何冷钱包中代币的转移都需提前六个月通告。初始流通供应量调整为13.5亿，未来流通量将通过社区多签钱包管理，确保Jupiter生态的健康发展。</p>
+<p><img alt="聚合超50%的DEX交易量，Jupiter是Solana DeFi生态的未来吗？" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/60e89903d5fb2c45864d1edfc60f6820.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h3>起高楼之后——Jup生态繁荣的沉思</h3>
+<p>与Solana生态内其他的DEX相比，Jupiter在交易效率和用户体验方面尽显优势。尽管如Raydium、Orca、Serpent等项目同样在争夺市场份额，Jupiter依然聚合了Solana上超过50%的交易量，使DEX在Solana网络上成为了真正的底层流动性协议。然而，在交易量进一步增长的空间有限的情况下，Jupiter选择了在DeFi板块横向扩张，拓宽其业务广度的长期战略。Jupiter Start或是Jupiter扩大版图的主要方向。</p>
+<p>目前Jupiter Start仅有介绍、教育和预上线功能。Jupiter Start核心功能LFG Launchpad暂未推出，但已于3月7发起了第一轮launchpad投票，排名前三的项目分别是Zeus Network (跨链通信)，SharkyFi (NFT借贷协议) 以及UpRock (DePIN)。Jupiter拥有庞大的用户群体，流量效应较强。考虑到其自身的资源优势，其发射的项目可能有较高的质量。</p>
+<p>另一方面，Jupiter推出的金融创新产品孵化平台Jupiter Labs，填补了Solana上相关项目的空白，在Jupiter的支持下仍有较大潜力。该项目展现了对金融衍生品和稳定币领域的深入探索，旨在为Solana生态下的DeFi领域带来新的动力。然而，这些创新在提高收益的同时，也带来了额外的风险，如协议风险和预言机报价风险，需要通过构建完善的经济模型、适当的激励机制和动态赎回策略来保持系统的平衡。</p>
+<p>作为Solana生态中炙手可热的明星，Jupiter虽然推出的时间不久但已然在DeFi领域内站稳脚跟。其以用户为中心的产品设计理念，全面且独具创新的产品功能和流畅的交易体验，成功俘获了用户的信任，成为Solana链上交易量最大的DEX。除此以外，Jupiter团队力求突破传统DEX上限受制于公链发展的问题，积极横向探索更广阔的发展空间，这使得Jupiter具备了成长为星辰大海的潜力。</p>
+<p>然而，应运而生的潜在问题是，在探索衍生品以及稳定币时，无论是作为孵化器还是自研产品，都会面对更大的风险。由于这类金融产品利用杠杆实现高收益的本质，如果没有完善的经济模型和稳定的代币价格做支撑，很容易最终陷入死亡螺旋，可能会对Jupiter自身产生致命的影响。</p>
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 15:30:31 +0800</pubDate>
+<pubDate>Tue, 26 Mar 2024 15:30:31 +0800</pubDate>
+</item>
+<item>
+<title>赵长鹏以1300亿人民币财富上榜《2024胡润全球富豪榜》，排名第100</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/b6ry3th2.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/b6ry3th2.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。埃隆·马斯克以1.67万亿元人民币重登首富宝座，加密货币市场发展向前迈进，赵长鹏、Brian Armstrong和Chris Larsen等人的财富增长，Coinbase董事会成员Frederick Ernest Ehrsam III也进入富豪榜单。币安虽被罚款，但加密货币市场仍吸引人们的兴趣和投资。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月26日消息，胡润研究院于3月25日发布《2024胡润全球富豪榜》（财富计算的截止日期为2024年1月15日），52岁的埃隆·马斯克以1.67万亿元人民币（2310亿美元）的财富重登首富宝座。</p>
+<p>此外，胡润研究院写道，自FTX崩盘以来，加密货币似乎已经向前发展了。虽然币安因洗钱被美国司法部罚款40多亿美元，但随着人们对加密货币的兴趣激增，其前首席执行官赵长鹏的财富增长到了1300亿人民币（180亿美元），位于该榜单第100名。Coinbase创始人Brian Armstrong和瑞波创始人Chris Larsen的财富也增长了50%，分别达到460亿人民币（64亿美元）和245亿人民币（34亿美元），分别位于该榜单第475名和第1024名。经查询，Coinbase的董事会成员Frederick Ernest Ehrsam III也以245亿人民币的财富位于该榜单第1024名。</p>
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 15:30:14 +0800</pubDate>
+<pubDate>Tue, 26 Mar 2024 15:30:14 +0800</pubDate>
+</item>
 
 <item>
 <title>币安加入全球旅行规则联盟，以推进互操作合规性并加强安全性</title>
