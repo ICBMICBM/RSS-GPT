@@ -5,11 +5,65 @@
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
 <item>
+<title>【英文】Syscoin 技术全解析：如何连接比特币安全性和以太坊可编程性</title>
+<link>https://messari.io/report/understanding-syscoin-a-comprehensive-overview</link>
+<guid>https://messari.io/report/understanding-syscoin-a-comprehensive-overview</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Messari发布了Syscoin研究报告，分析了Syscoin的技术架构、共识机制、代币经济学、网络活动和潜在风险。Syscoin是一个开源的去中心化开发平台，结合了比特币PoW的安全性和以太坊EVM的可编程性。Rollux是Syscoin的L2解决方案，具有快速、低成本的特点，同时又拥有比特币网络的安全性。Rollux使用Syscoin的数据可用性解决方案，并计划将其扩展到其他链上。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Messari 发布 Syscoin 研报，从技术架构、共识机制、代币经济学、网络活动和潜在风险等多方面分析了 Syscoin 的基本面。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://messari.io/report/understanding-syscoin-a-comprehensive-overview">https://messari.io/report/understanding-syscoin-a-comprehensive-overview</a></p>
+<p><strong>文章作者：</strong></p><p>Messari</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Messari：</strong>TLDR
+Syscoin 是一个开源的去中心化开发平台，旨在将比特币 PoW 的安全性和以太坊 EVM 的可编程性结合起来。它的模块化性能使其能够支持 EVM Rollup 和其他第二层扩展技术；
+
+Syscoin 用户群和生态系统的增长主要发生在名为 Rollux 的 L2 上，该 L2 于 2023 年 6 月 28 日部署到主网上。Syscoin L1 本身就是基础设施，SYS 也是 Rollux 的原生币；
+
+Syscoin L1 使用合并挖矿技术，目的是让 L2 拥有比特币自身网络的安全性；
+
+Rollux 是一个 Optimism 分叉，速度快、成本低，足以进行小额交易，同时又能从底层确保安全，以支持高价值用例；
+
+Rollux 使用 Syscoin 的通用数据可用性解决方案，即数据可用性证明（PoDA），与比特币矿工支持的 Syscoin L1 相连接；
+
+通过使用零知识证明和基于 ZK 的 SYS 轻客户端，zkDA 得以建立，其目标是将 PoDA 扩展到其他链。【原文为英文】</p><a href="https://messari.io/report/understanding-syscoin-a-comprehensive-overview">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-20T09:19:49+00:00</pubDate>
+</item>
+<item>
+<title>【长推】厚积薄发：ZK 互操作龙头 Polyhedra 的 3 个重要技术突破</title>
+<link>https://twitter.com/BMANLead/status/1769906130497536297</link>
+<guid>https://twitter.com/BMANLead/status/1769906130497536297</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。ABCDE 联合创始人 BMAN 盘点了 ZK 互操作龙头 Polyhedra 的三个重要技术突破：zkBridge 和 zkLightClient、以太坊全节点证明和比特币互操作。Polyhedra在数百万个钱包、25条链和80多个生态系统中实现了超过2000万笔跨链交易。他们在ZK领域取得了重大进展，并期望未来链与链之间实现资产、信息和协议的互操作，Polyhedra将成为万链互联的基础设施。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>ABCDE 联合创始人 BMAN 盘点了 ZK 互操作龙头 Polyhedra 的 3 个重要技术突破，分别为：zkBridge 和 zkLightClient、以太坊全节点证明和比特币互操作。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/BMANLead/status/1769906130497536297">https://twitter.com/BMANLead/status/1769906130497536297</a></p>
+<p><strong>文章作者：</strong></p><p>BMAN</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>BMAN：</strong>过去 3 年，Polyhedra 基于 ZK，做出了 3 个重要的技术突破：
+1）zkBridge 和 zkLightClient：Polyhedra 发明了行业首个 zkBridge，用户通过 zkBridge 在数百万个钱包，25 条链和 80 多个生态系统中发送了超过 2000 万笔跨链交易。Polyhedra 发明的 ZK 轻客户端 zkLightClient 还为  Layer1 和 Layer2 互操作提供超过 450 万条消息传输；
+2）以太坊全节点证明：Polyhedra 利用 ZK 增强 BLS 签名验证，显着减少以太坊验证节点和全节点之间的通信大小。Polyhedra 创造的单时隙最终性（SSF）还显着减少以太坊的延迟；
+3）比特币互操作：Polyhedra 在比特币生态互操作走的最前的龙头。zkBridge 已经支持了比特币生态的最大的可互操作性，连接比特币钱包、Layer2、DeFi 和基础设施。甚至在比特币和其他链之间，也可以基于 ZK 进行去信任的互操作。
+
+在未来几年，我们期望在数学和 ZKP 领域取得 1000 倍的性能提升，这将使得区块链完全互操作的愿景得以实现。未来链与链之间将实现：1）资产的互操作；2）信息的互操作；3）协议的互操作。未来 A 链的协议，可以自动和 B 链的协议可组合和可互通，链与链之间将成为万链互联的状态。而 Polyhedra 就像其中文「多面体」一样成为万链互联的基础设施。</p><a href="https://twitter.com/BMANLead/status/1769906130497536297">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-20T08:52:35+00:00</pubDate>
+</item>
+<item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>ZK互操作协议zkBridge开发商Polyhedra Network以10亿美元估值完成2000万美元战略融资，Polychain Capital领投，众多投资者参与。融资将用于团队扩大到80人，招聘产品、工程、业务开发和营销等跨职能部门。所有融资都是通过未来代币或SAFT协议进行的。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
+
+<item>
 <title>对话 Solana 基金会主席 Lily Liu：Solana 的预期之中和意料之外</title>
 <link>https://www.chaincatcher.com/article/2117716</link>
 <guid>https://www.chaincatcher.com/article/2117716</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的<br>1. Solana在FTX事件后重点关注DeFi生态项目，努力帮助受影响的项目度过难关。<br>2. Solana意外发现Saga手机在市场上获得成功，展示了对Crypto adoption的思考和实践。<br>3. Solana在公链赛道重新定义自己的角色，拓展Solana Pay、推出新的SPL代币标准等技术发展。<br>4. Solana认为未来的Crypto领域会变得分散，需有多个公链共存，让资产和数据回归用户控制。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的<br />1. Solana在FTX事件后重点关注DeFi生态项目，努力帮助受影响的项目度过难关。<br />2. Solana意外发现Saga手机在市场上获得成功，展示了对Crypto adoption的思考和实践。<br />3. Solana在公链赛道重新定义自己的角色，拓展Solana Pay、推出新的SPL代币标准等技术发展。<br />4. Solana认为未来的Crypto领域会变得分散，需有多个公链共存，让资产和数据回归用户控制。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>链捕手对话 Solana 基金会主席 Lily Liu，复盘 Solana 在经历 FTX 事件后如何复苏，以及 2024 年的规划与重点市场。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://www.chaincatcher.com/article/2117716">https://www.chaincatcher.com/article/2117716</a></p>
 <p><strong>文章作者：</strong></p><p>链捕手</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>链捕手：</strong>FTX 黑天鹅事件时，你们核心团队最担心的是什么？是否立即做了一些重要的应对决策？首先是 Solana DeFi 生态。FTX 支持了很多 Solana 的基础设施，大概有 4000 万美元归零。其次，Solana 上很多项目其实是从 FTX 获得了融资，拿到的融资或者甚至 75% 的资产也存在了 FTX。另外，当时整个舆论环境都在唱衰 Solana ，但其实生态的流失没有那么夸张，头部项目大概有两三个迁移了，所以说我们的 PR 也面临着很严峻的挑战。2022 年 11 月 - 12 月，我们所有的工作重点都是在思考如何帮助这些受到影响的生态项目渡过难关。
@@ -18,21 +72,18 @@ Solana 目前有哪些领域的发展是你们意料之外？Saga 手机，我�
 
 Solana 过往一直被定位「以太坊杀手」，经历低谷后又是如何定义自己在公链赛道的角色？我们需要把公链的技术变得有可用性，所以我们去年拓展了 Solana Pay，还有压缩 NFT 的技术，最近也在推出 SPL 代币的新标准「Token Extensions」，为了支持 RWA 资产。从长远来看，我不认为  Crypto 领域会像传统互联网领域那样高度集中和垄断，Crypto 未来可能需要上百个不同的「城市」，不同的公链。这些公链需要一起去争取，让资产和数据都回归到用户自己去控制。</p><a href="https://www.chaincatcher.com/article/2117716">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-20T08:51:21+00:00</pubDate>
 </item>
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>ZK 互操作协议 zkBridge 的开发商 Polyhedra Network 完成了 2000 万美元的战略融资，估值达到 10 亿美元。这笔资金将用于扩大团队规模，招聘跨职能部门人员，并加速产品、工程、业务开发和营销。Polychain Capital 领投，而其他知名投资机构如 Animoca Brands、Hashkey Capital、Longhash Ventures 等也参与了融资。该公司之前的四轮融资均采用未来代币或 SAFT 的简单协议。 <div>
+<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 的开发商 Polyhedra Network 完成了 2000 万美元的战略融资，估值达到 10 亿美元。这笔资金将用于扩大团队规模，招聘跨职能部门人员，并加速产品、工程、业务开发和营销。Polychain Capital 领投，而其他知名投资机构如 Animoca Brands、Hashkey Capital、Longhash Ventures 等也参与了融资。该公司之前的四轮融资均采用未来代币或 SAFT 的简单协议。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
-
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
@@ -10916,46 +10967,6 @@ API3 提供了一种跨 DApp 扩展的机制，而不需要第三方协议。他
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>【英文】Syscoin 技术全解析：如何连接比特币安全性和以太坊可编程性</title>
-<link>https://messari.io/report/understanding-syscoin-a-comprehensive-overview</link>
-<guid>https://messari.io/report/understanding-syscoin-a-comprehensive-overview</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />Syscoin是一个去中心化开发平台，结合比特币的安全性和以太坊的可编程性。Rollux是Syscoin L2，使用合并挖矿技术确保安全。Rollux是Optimism分叉，速度快、成本低。Rollux使用Syscoin的数据可用性解决方案，并建立了zkDA。Syscoin的目标是扩展PoDA到其他链。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>Messari 发布 Syscoin 研报，从技术架构、共识机制、代币经济学、网络活动和潜在风险等多方面分析了 Syscoin 的基本面。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://messari.io/report/understanding-syscoin-a-comprehensive-overview">https://messari.io/report/understanding-syscoin-a-comprehensive-overview</a></p>
-<p><strong>文章作者：</strong></p><p>Messari</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Messari：</strong>TLDR
-Syscoin 是一个开源的去中心化开发平台，旨在将比特币 PoW 的安全性和以太坊 EVM 的可编程性结合起来。它的模块化性能使其能够支持 EVM Rollup 和其他第二层扩展技术；
-
-Syscoin 用户群和生态系统的增长主要发生在名为 Rollux 的 L2 上，该 L2 于 2023 年 6 月 28 日部署到主网上。Syscoin L1 本身就是基础设施，SYS 也是 Rollux 的原生币；
-
-Syscoin L1 使用合并挖矿技术，目的是让 L2 拥有比特币自身网络的安全性；
-
-Rollux 是一个 Optimism 分叉，速度快、成本低，足以进行小额交易，同时又能从底层确保安全，以支持高价值用例；
-
-Rollux 使用 Syscoin 的通用数据可用性解决方案，即数据可用性证明（PoDA），与比特币矿工支持的 Syscoin L1 相连接；
-
-通过使用零知识证明和基于 ZK 的 SYS 轻客户端，zkDA 得以建立，其目标是将 PoDA 扩展到其他链。【原文为英文】</p><a href="https://messari.io/report/understanding-syscoin-a-comprehensive-overview">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-20T09:19:49+00:00</pubDate>
-</item>
-<item>
-<title>【长推】厚积薄发：ZK 互操作龙头 Polyhedra 的 3 个重要技术突破</title>
-<link>https://twitter.com/BMANLead/status/1769906130497536297</link>
-<guid>https://twitter.com/BMANLead/status/1769906130497536297</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。Polyhedra基于ZK取得了三项重要的技术突破，包括zkBridge和zkLightClient、以太坊全节点证明和比特币互操作。他们创造了行业首个zkBridge，促进数百万个钱包、25条链和80多个生态系统之间的跨链交易。利用ZK增强BLS签名验证，显着减少了以太坊验证节点之间的通信大小，同时在比特币生态领域走在前列。未来，他们期望在数学和ZKP领域实现1000倍性能提升，从而实现区块链的完全互操作愿景。Polyhedra将成为万链互联的基础设施。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>ABCDE 联合创始人 BMAN 盘点了 ZK 互操作龙头 Polyhedra 的 3 个重要技术突破，分别为：zkBridge 和 zkLightClient、以太坊全节点证明和比特币互操作。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/BMANLead/status/1769906130497536297">https://twitter.com/BMANLead/status/1769906130497536297</a></p>
-<p><strong>文章作者：</strong></p><p>BMAN</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>BMAN：</strong>过去 3 年，Polyhedra 基于 ZK，做出了 3 个重要的技术突破：
-1）zkBridge 和 zkLightClient：Polyhedra 发明了行业首个 zkBridge，用户通过 zkBridge 在数百万个钱包，25 条链和 80 多个生态系统中发送了超过 2000 万笔跨链交易。Polyhedra 发明的 ZK 轻客户端 zkLightClient 还为  Layer1 和 Layer2 互操作提供超过 450 万条消息传输；
-2）以太坊全节点证明：Polyhedra 利用 ZK 增强 BLS 签名验证，显着减少以太坊验证节点和全节点之间的通信大小。Polyhedra 创造的单时隙最终性（SSF）还显着减少以太坊的延迟；
-3）比特币互操作：Polyhedra 在比特币生态互操作走的最前的龙头。zkBridge 已经支持了比特币生态的最大的可互操作性，连接比特币钱包、Layer2、DeFi 和基础设施。甚至在比特币和其他链之间，也可以基于 ZK 进行去信任的互操作。
-
-在未来几年，我们期望在数学和 ZKP 领域取得 1000 倍的性能提升，这将使得区块链完全互操作的愿景得以实现。未来链与链之间将实现：1）资产的互操作；2）信息的互操作；3）协议的互操作。未来 A 链的协议，可以自动和 B 链的协议可组合和可互通，链与链之间将成为万链互联的状态。而 Polyhedra 就像其中文「多面体」一样成为万链互联的基础设施。</p><a href="https://twitter.com/BMANLead/status/1769906130497536297">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-20T08:52:35+00:00</pubDate>
 </item>
 </channel>
 </rss>

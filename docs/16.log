@@ -12853,3 +12853,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round )
 append_entries: 2
 Finish: 2024-03-26 18:30:35.988415
+------------------------------------------------------
+Started: 2024-03-26 18:37:35.985991
+Existing_entries: 1002
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 566
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文】Syscoin 技术全解析：如何连接比特币安全性和以太坊可编程性](https://messari.io/report/understanding-syscoin-a-comprehensive-overview)
+Token length: 761
+Summarized using GPT-3.5-turbo-1106
+Append: [【长推】厚积薄发：ZK 互操作龙头 Polyhedra 的 3 个重要技术突破](https://twitter.com/BMANLead/status/1769906130497536297)
+Token length: 266
+Summarized using GPT-3.5-turbo-1106
+Append: [ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round )
+append_entries: 3
+Finish: 2024-03-26 18:37:49.109150
