@@ -5,11 +5,57 @@
 <link>https://rss.panewslab.com/</link>
 
 <item>
+<title>解读Fluence DAO：耕耘4年，Multicoin看好的实力DePIN+AI项目</title>
+<link>https://www.panewslab.com/zh/articledetails/r7843nb9.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/r7843nb9.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>AIxDePin项目近期涌现，以代币激励建立分布式服务器市场。Fluence DAO在DePin热潮中涨幅64%，提供去中心化无服务器平台，强调安全可审计的计算执行。项目基于Aqua协议和Marine工具，帮助开发者管理计算需求。Fluence的代币经济学发布，供应总量1亿枚，有望成为Web3开发者的主要计算服务提供商。Multicoin Capital等投资机构看好Fluence的发展潜力。 <div>
+<p>AI 的浪潮也带火了 DePin 赛道，近期涌现出许多以「AIxDePin」为卖点的新项目，大多数项目所讲的故事都大同小异，即通过代币激励机制建立分布式服务器市场，为 AI 应用打造去中心化的物理基础设施。</p>
+<p>事实上，「租赁市场+代币激励」的搭建只是这个方向探索的开始部分，构建一个可落地运行、实现业务飞轮的算力市场要做的还有很多。比如，如何评估提供计算资源的设备质量？去中心化无服务器计算市场 Fluence DAO 为这个问题作出了它的解答。</p>
+<p>成立于 2017 年的 Fluence DAO，最初定位为 Web3 原生计算平台，曾在 2022 年获得 Multicoin Capital 领投、Tiger Global、Protocol Labs 参投的 900 万美元 A 轮融资。</p>
+<p><img alt="解读Fluence DAO：耕耘4年，Multicoin看好的实力DePIN+AI项目" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/b17d7e07cf27093be959d98cd9ccad59.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>3 月 23 日，Fluence 上线代币$FLT，两日以来涨幅 64%，截至撰稿时为 1.28 美元。作为两年前的项目，Fluence 在新一轮 DePin 热潮中将有什么表现？BlockBeats 整理了现有资料供读者参考。</p>
+<h3>Fluence：去中心化无服务器平台</h3>
+<p>Fluence 是一个由区块链经济学驱动的去中心化无服务器平台和计算市场。Fluence 是一个全球性、无需许可、可扩展且安全的集中式云计算平台替代方案。</p>
+<p>使用 Fluence，开发人员可以构建应用程序并将其部署到计算提供商网络，其中提供商的范围涵盖从专业数据中心到家用计算机。提供商在价格和性能上展开竞争，为了获得报酬和奖励，他们不断证明自己正在为应用程序提供服务。</p>
+<p>与其他类似项目不同的是，Fluence 推出的编程语言 Aqua 和工具 Marine 为开发者角度的去中心化计算资源需求搭建了具体方案，覆盖了发布任务到质量评估等各方面。</p>
+<h4><strong>技术基础：可审计与加密证明</strong></h4>
+<p>Fluence 网络完全运行在 Aqua 协议上，该协议提供安全的分布式执行，无需集中协调。Aqua 协议是免部署的，此外，Aqua 脚本执行的所有请求及其每一步执行均由参与节点签名，从而做到可审计和可验证。</p>
+<p>由于所有计算都包含在 Aqua 中，意味着 Fluence 上执行的所有操作都会在链上得到概率验证。提供商必须提交所需的执行才能获得奖励，否则将被削减。</p>
+<p>而通过 Marine，Fluence 强制为执行的每个计算函数生成加密证明。提供商生成计算证明，客户只需为工作付费，并附上工作经过验证和正确的证明。</p>
+<p>基于此，有计算需求的开发者将业务逻辑编译到 Marine Wasm 来创建和管理其计算功能，并基于 Aqua 脚本来编译其计算函数，经过打包计算工件和部署要求后，将开发者报价提交给市场，再由市场进行匹配。</p>
+<p>Fluence 对于当前存在于云中的所有类型的应用程序都适用，例如 Web 应用程序、分布式后端、通信软件和物联网，以及考虑用户数据隐私、可组合性和弹性的去中心化应用程序。具体包括：P2P 应用程序（通信、社交、流媒体）、去中心化协议（信息传递、共识引擎、去中心化治理、预言机）、社区治理（DAO 管理的应用程序、创作者经济）、区块链基础设施（CEX、钱包、跨链设施等）。</p>
+<pre><img alt="解读Fluence DAO：耕耘4年，Multicoin看好的实力DePIN+AI项目" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/4723c42e59fe127c9f20f67b8a45d16e.jpg" style="display: block; margin-left: auto; margin-right: auto;" />Fluence 网络概述</pre>
+<h4><strong>Fluence 构建的链上计算市场</strong></h4>
+<p>Fluence 的链上市场将计算提供商与付费使用提供商提供的计算资源的客户进行匹配。市场托管在 Fluence 自有的链上，该链由 IPC 提供支持，由 Fluence 计算提供商验证并锚定到 Filecoin L1。自有链可实现廉价且快速的交易，从而能够租用从微小负载到大规模的任何规模计算资源。</p>
+<pre><img alt="解读Fluence DAO：耕耘4年，Multicoin看好的实力DePIN+AI项目" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/459326b66e79741d0a42cb0042da1495.jpg" style="display: block; margin-left: auto; margin-right: auto;" />Fluence 市场上的计算提供商</pre>
+<p>Fluence 通过强制执行称为容量证明的加密证明来确保提供商公布的资源存在且可用。提供商应用其硬件资源不断生成容量证明，以确认这些资源已准备好为客户服务，而有需求的客户可以根据价格和其他参数选择提供商。</p>
+<p>对于每个部署的应用程序部署，Fluence 都会在客户和提供商列表之间在链上创建交易。交易记录财务详细信息（价格、预付款和提供商所需的抵押品）、与所需服务相关的技术要求（访问某些数据、二进制文件或 Web API）以及网络中代码安装的链接。</p>
+<pre><img alt="解读Fluence DAO：耕耘4年，Multicoin看好的实力DePIN+AI项目" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/94134aa1564d5998861f7e243939e9fb.jpg" style="display: block; margin-left: auto; margin-right: auto;" />选择供应商的匹配标准</pre>
+<p>最初的计费模式是预付费的，根据资源租用时间按周期计费。后续 Fluence 会推出弹性计费模型。目前，Fluence主要面向CPU市场，之后会逐步加入GPU需求。</p>
+<h4><strong>代币经济学</strong></h4>
+<p>3 月 23 日，Fluence 发布了项目的代币经济学。其$FLT 的供应总量为 1,000,000,000 枚，初始流通量占 5%，被分配给 2 月 27 日开始的开发者奖励计划。代币自领取之日起锁定两个月，并于 4 月 27 日开始释放。支付给存储提供商的奖励将于 3 月 20 日主网上线后支付。这些奖励取决于添加到网络中的计算量，并锁定三个月。代币发行后 24 个月内将解锁 FLT 总供应量的约 45%。</p>
+<p><img alt="解读Fluence DAO：耕耘4年，Multicoin看好的实力DePIN+AI项目" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/0221c2b93b9f824df8bbe374c89bcb1c.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h3>耕耘许久，受 Multicoin Capital 看好</h3>
+<p>对于大多数社区成员来说，通过分析 Fluence 所给出的技术方案来评判项目潜力可能门槛太高。至少从项目方的动态披露上看，可以感受到 Fluence 为发展 DePIN 行业的所做的准备和努力。其 Youtube 账号有 149 条视频，第一条视频来自 2019 年。</p>
+<pre><img alt="解读Fluence DAO：耕耘4年，Multicoin看好的实力DePIN+AI项目" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/d01d8a5c9529b3e06656e7bdd5456217.jpg" style="display: block; margin-left: auto; margin-right: auto;" />最早一条关注开发者、云计算的视频内容出现于 4 年前</pre>
+<p>此外，Fluence 创始人 Tom Trowbridge 是在 Web2 卓有成就的企业家，同时也是 RWA 协议 Hedera 的 CEO，在进入 Web3 领域之前，曾任高盛副总裁和 Stronghold Digital Mining 的董事会成员。Tom 热衷于推动有关区块链、比特币的发展，是去中心化系统/区块链技术的倡导者。</p>
+<pre><img alt="解读Fluence DAO：耕耘4年，Multicoin看好的实力DePIN+AI项目" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/35ff7a69f7aae46beb920af96859fe3e.jpg" style="display: block; margin-left: auto; margin-right: auto;" />ETHDenver 上，Tom Trowbridge 与 Multicoin Capital 的创始人 KyleSamani 一起交流</pre>
+<p>在 Tom Trowbridge 的个人主页上，可以看到过去几年间其在各种场合发表的关于对 DePIN、去中化技术的分享。</p>
+<p><img alt="解读Fluence DAO：耕耘4年，Multicoin看好的实力DePIN+AI项目" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/3559148cf60c985540725911b94b97e7.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>2022 年，投资过 Livepeer、The Graph 和 Render Network 的 Multicoin Capital 选择 Fluence，认为 Fluence 的意义更多是为 Web3 开发者提供计算服务，Multicoin Capital 管理合伙人 Kyle Samani 将其视为 Web3 开发人员的「加密原生」工具，「Fluence 创造了一种全新的方式来构建由强大、灵活且无限可扩展的 p2p 基础设施支持的应用程序和协议。」</p>
+<p>而到了 2024 年，随着 DePIN 赛道的潜力成为 Messari、Spartan、Pantera 等投研机构的共识，Fluence DAO 对去中心化计算基础设施方案的创新思考又成为了其新的发展支点。在众多项目的竞争中，Fluence 将有什么样的发展空间，还有待时间的见证。</p>
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 10:00:17 +0800</pubDate>
+<pubDate>Tue, 26 Mar 2024 10:00:17 +0800</pubDate>
+</item>
+
+<item>
 <title>探讨web3游戏公链产品组合爆火的背后逻辑</title>
 <link>https://www.panewslab.com/zh/articledetails/m2iy8cnf.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/m2iy8cnf.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。本文深入探讨了Web3游戏与游戏公链生态的关系，分析了在当前牛市中表现突出的Axie + Ronin、Gods Unchained + ImmutableX以及Mines of Dalarnia + Chromia + DAR OpenNetwork等产品组合。文章重点讨论了这些组合如何实现涨幅惊人、构建大飞轮、爆发逻辑，以及对游戏公链生态的深远影响。文章通过多个具体案例和数据，展示了Web3游戏与游戏公链在当前市场中的重要性和潜力。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。本文深入探讨了Web3游戏与游戏公链生态的关系，分析了在当前牛市中表现突出的Axie + Ronin、Gods Unchained + ImmutableX以及Mines of Dalarnia + Chromia + DAR OpenNetwork等产品组合。文章重点讨论了这些组合如何实现涨幅惊人、构建大飞轮、爆发逻辑，以及对游戏公链生态的深远影响。文章通过多个具体案例和数据，展示了Web3游戏与游戏公链在当前市场中的重要性和潜力。 <div>
 <p>撰文：Brian、小飞</p>
 <p><strong>引言：</strong></p>
 <p>区块链技术的不断演进正在催生出一个新的游戏时代，其中，Web3 游戏与游戏公链生态的完美融合成为了广受瞩目的焦点。本报告将深入探讨 Web3 游戏与游戏公链生态的密切关系，剖析其在当前牛市中的惊人表现、引爆的逻辑以及对游戏公链生态的深远影响。</p>
@@ -106,21 +152,18 @@
 <p>我们坚信，在这个比特币牛市周期中，类似 Web3 游戏与游戏公链、Web3 游戏与平台的组合模式，将会开启更为广阔的天空，释放更大的估值潜能。只有在这种更宏大的叙事模式下，项目方才能够名副其实地冲进加密世界的排行榜前 20 名，成为引领行业发展的领头羊。</p>
 ]]></content:encoded>
 <pubDate>Tue, 26 Mar 2024 12:00:52 +0800</pubDate>
-<pubDate>Tue, 26 Mar 2024 12:00:52 +0800</pubDate>
 </item>
 <item>
 <title>数据：美国比特币现货ETF昨日资金净流入约1540万美元</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/r6hq2zg3.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/r6hq2zg3.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。根据Farside Investors数据监测，美国所有比特币现货ETF在3月25日的资金净流入约1540万美元。具体来看，灰度GBTC资金净流出3.501亿美元，贝莱德的IBIT资金流入约3550万美元，富达的FBTC资金净流入约2.618亿美元，Bitwise的BITB资金流入约1400万美元，Ark 21Shares的ARKB资金流动计为0，景顺的BTCO资金流入约1850万美元，Franklin的EZBC资金流入2050万美元，Valkyrie的BRRR资金流入约1120万美元，VanEck的HODL资金流入约400万美元，WisdomTree的BTCW资金流动计为0。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。根据Farside Investors数据监测，美国所有比特币现货ETF在3月25日的资金净流入约1540万美元。具体来看，灰度GBTC资金净流出3.501亿美元，贝莱德的IBIT资金流入约3550万美元，富达的FBTC资金净流入约2.618亿美元，Bitwise的BITB资金流入约1400万美元，Ark 21Shares的ARKB资金流动计为0，景顺的BTCO资金流入约1850万美元，Franklin的EZBC资金流入2050万美元，Valkyrie的BRRR资金流入约1120万美元，VanEck的HODL资金流入约400万美元，WisdomTree的BTCW资金流动计为0。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月26日消息，据Farside Investors数据监测，美国所有比特币现货ETF在3月25日的资金净流入约1540万美元。</p>
 <p>其中，灰度GBTC资金净流出3.501亿美元，贝莱德的IBIT资金流入约3550万美元，富达的FBTC资金净流入约2.618亿美元，Bitwise的BITB资金流入约1400万美元，Ark 21Shares的ARKB资金流动计为0，景顺的BTCO资金流入约1850万美元，Franklin的EZBC资金流入2050万美元，Valkyrie的BRRR资金流入约1120万美元，VanEck的HODL资金流入约400万美元，WisdomTree的BTCW资金流动计为0。</p>
 ]]></content:encoded>
 <pubDate>Tue, 26 Mar 2024 11:57:44 +0800</pubDate>
-<pubDate>Tue, 26 Mar 2024 11:57:44 +0800</pubDate>
 </item>
-
 <item>
 <title>FTX大型债权交易价格上升至每美元93至97美分</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/m7etgxrl.html</link>
