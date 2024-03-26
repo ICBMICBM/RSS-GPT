@@ -5,11 +5,40 @@
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
 <item>
+<title>【长推】区块链扩容方案 Stackable L2 解析：基于状态堆叠的分层模式</title>
+<link>https://twitter.com/jolestar/status/1769971353959157761</link>
+<guid>https://twitter.com/jolestar/status/1769971353959157761</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>Rooch Network创始人jolestar解释了Rooch采用的堆叠式L2设计如何最大化地继承L1的数据和特性。堆叠式L2包含了L1的全量状态，并且拥有自己的交易和状态。这种设计需要一个层级的状态树方案来保证L1状态可以生成独立的状态树进行状态校验。在Rooch的堆叠式方案中，L2的交易包含L1的区块和L2自己的交易，采用Rollout模式来实现给源L1的扩容。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>比特币 Layer2 Rooch Network 创始人 jolestar 解析了 Rooch 采用的堆叠式 L2 的设计如何让 L2 最大化的继承 L1 的数据和特性。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/jolestar/status/1769971353959157761">https://twitter.com/jolestar/status/1769971353959157761</a></p>
+<p><strong>文章作者：</strong></p><p>jolestar</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>jolestar：</strong>堆叠式 L2 指在 L2 中全量包含 L1 状态的一种 L2 扩容方案。这种方案要求：1）L2 中包含 L1 的全量状态。相当于要求 L2 包含了 L1 的全节点并完整执行 L1 共识协议，L1 的状态是 L2 状态的一个子集；2）L2 可以拥有自己的交易，以及状态。这点上有区别于只读的索引器（Indexer）；3）L2 需要有一种机制实现 L2 状态和 L1 状态之间的原子化绑定，保证 L1 和 L2 的状态（资产）的所有权可以原子化转让。
+
+堆叠式状态树：既然 L2 包含了全量的 L1 的状态，以及 L2 自己的状态，需要有一种层级的状态树方案。这种方案需要保证 L1 的状态可以生成独立的状态树，以便做状态校验。在 Rooch 中，第一层的状态树的叶子结点是 Object，而每个 Object 也携带着一个状态子树，子树中可以保存该 Object 的动态字段，或者子 Object。种模式也可以用在应用中，比如有一个游戏，它的状态表达为 Gameworld，游戏中的状态都在这个 Object 中，这样可以实现应用间的交易并行以及状态拆分。
+
+堆叠式的 L2 的交易包含两部分，一部分是 L1 的区块，另外一部分是 L2 自己的交易。在 Rooch 的堆叠式方案中， L1 的区块会包含在 L2 的交易中（实际上只需要包含区块 Hash），L2 会把交易写入另外的第三方 DA 的链上去，我们把这种模式可以叫作 Rollout。Rollout 模式下，L2 通过利用其他的 DA 来实现给源 L1 扩容，是一种模块化的思路，也更具有扩展性，这是 Rooch 最开始就坚持的方案。</p><a href="https://twitter.com/jolestar/status/1769971353959157761">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-20T03:18:10+00:00</pubDate>
+</item>
+<item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。本文介绍了 ZK 互操作协议 zkBridge 的开发商 Polyhedra Network 完成了 2000 万美元战略融资，估值达到 10 亿美元。Polychain Capital 领投，同时还有其他投资方参与。融资将用于招聘新人扩大团队规模，加强产品、工程、业务开发和营销等方面的发展。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
+
+<item>
 <title>【英文】Dragonfly：2023 年加密领域薪酬报告</title>
 <link>https://dccr23.dragonfly.xyz/</link>
 <guid>https://dccr23.dragonfly.xyz/</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Dragonfly发布了2023年加密领域薪酬报告，数据基于49家加密公司。根据报告显示，在美国公司提供的薪酬高于非美国公司，薪资高出约13%，股权和代币高出约30%。此外，在种子轮和A轮融资的公司中，美国创始人的薪水略高，股权/代币所有权也更多。大多数公司不会根据生活成本调整薪资，但这种情况随着公司发展而改善。在大多数情况下，公司以法币向员工支付工资，而国际公司在加密货币支付方面处于领先地位。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。Dragonfly发布了2023年加密领域薪酬报告，数据基于49家加密公司。根据报告显示，在美国公司提供的薪酬高于非美国公司，薪资高出约13%，股权和代币高出约30%。此外，在种子轮和A轮融资的公司中，美国创始人的薪水略高，股权/代币所有权也更多。大多数公司不会根据生活成本调整薪资，但这种情况随着公司发展而改善。在大多数情况下，公司以法币向员工支付工资，而国际公司在加密货币支付方面处于领先地位。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>Dragonfly 发布 2023 年加密领域薪酬报告，数据基于 49 家加密公司，统计维度包括薪资、股权和代币薪资范围、创始人薪资、生活成本（COL）调整薪资、支付方式、代币发行、股权 / 代币计算方法等。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://dccr23.dragonfly.xyz/">https://dccr23.dragonfly.xyz/</a></p>
 <p><strong>文章作者：</strong></p><p>Zack Skelly</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Zack Skelly：</strong>1）美国公司提供的薪酬高于非美国公司：薪资高出约 13%，股权和代币高出约 30%；
@@ -22,21 +51,18 @@
 8）大约三分之一的公司提供股权和代币；
 9）大多数公司使用「代币百分比」方法来计算代币报价（例如，获得代币的 0.4％），但更多公司在后期融资阶段使用基于市场价值（FMV）的方法。【原文为英文】</p><a href="https://dccr23.dragonfly.xyz/">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-20T03:16:56+00:00</pubDate>
 </item>
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Polychain Capital领投了zkBridge的2000万美元战略融资，总估值为10亿美元。其他参投方包括Animoca Brands、Hashkey Capital、Longhash Ventures等。zkBridge计划用筹得的资金扩大团队规模，从目前的50人扩展到80人，招募跨职能部门的人员，包括产品、工程、业务开发和营销。融资均通过未来代币或SAFT的简单协议进行。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。Polychain Capital领投了zkBridge的2000万美元战略融资，总估值为10亿美元。其他参投方包括Animoca Brands、Hashkey Capital、Longhash Ventures等。zkBridge计划用筹得的资金扩大团队规模，从目前的50人扩展到80人，招募跨职能部门的人员，包括产品、工程、业务开发和营销。融资均通过未来代币或SAFT的简单协议进行。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
-
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
@@ -10923,32 +10949,6 @@ Solana 过往一直被定位「以太坊杀手」，经历低谷后又是如何�
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。Polyhedra Network以10亿美元估值完成了2000万美元的战略融资，由Polychain Capital领投，并有其他投资方参与。融资将用于招聘新员工，将团队规模扩大到约80人。融资通过未来代币或SAFT的简单协议进行。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>【长推】区块链扩容方案 Stackable L2 解析：基于状态堆叠的分层模式</title>
-<link>https://twitter.com/jolestar/status/1769971353959157761</link>
-<guid>https://twitter.com/jolestar/status/1769971353959157761</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的<br />1）堆叠式L2指在L2中全量包含L1状态的扩容方案；2）设计堆叠式状态树，保证L1状态可以生成独立的状态树以做状态校验；3）堆叠式L2交易包含L1区块和L2自己的交易，采用Rollout模式利用其他DA实现扩容；4）采用模块化思路，具有更强的扩展性；5）Rooch始终坚持该方案。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>比特币 Layer2 Rooch Network 创始人 jolestar 解析了 Rooch 采用的堆叠式 L2 的设计如何让 L2 最大化的继承 L1 的数据和特性。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/jolestar/status/1769971353959157761">https://twitter.com/jolestar/status/1769971353959157761</a></p>
-<p><strong>文章作者：</strong></p><p>jolestar</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>jolestar：</strong>堆叠式 L2 指在 L2 中全量包含 L1 状态的一种 L2 扩容方案。这种方案要求：1）L2 中包含 L1 的全量状态。相当于要求 L2 包含了 L1 的全节点并完整执行 L1 共识协议，L1 的状态是 L2 状态的一个子集；2）L2 可以拥有自己的交易，以及状态。这点上有区别于只读的索引器（Indexer）；3）L2 需要有一种机制实现 L2 状态和 L1 状态之间的原子化绑定，保证 L1 和 L2 的状态（资产）的所有权可以原子化转让。
-
-堆叠式状态树：既然 L2 包含了全量的 L1 的状态，以及 L2 自己的状态，需要有一种层级的状态树方案。这种方案需要保证 L1 的状态可以生成独立的状态树，以便做状态校验。在 Rooch 中，第一层的状态树的叶子结点是 Object，而每个 Object 也携带着一个状态子树，子树中可以保存该 Object 的动态字段，或者子 Object。种模式也可以用在应用中，比如有一个游戏，它的状态表达为 Gameworld，游戏中的状态都在这个 Object 中，这样可以实现应用间的交易并行以及状态拆分。
-
-堆叠式的 L2 的交易包含两部分，一部分是 L1 的区块，另外一部分是 L2 自己的交易。在 Rooch 的堆叠式方案中， L1 的区块会包含在 L2 的交易中（实际上只需要包含区块 Hash），L2 会把交易写入另外的第三方 DA 的链上去，我们把这种模式可以叫作 Rollout。Rollout 模式下，L2 通过利用其他的 DA 来实现给源 L1 扩容，是一种模块化的思路，也更具有扩展性，这是 Rooch 最开始就坚持的方案。</p><a href="https://twitter.com/jolestar/status/1769971353959157761">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-20T03:18:10+00:00</pubDate>
 </item>
 </channel>
 </rss>
