@@ -8574,3 +8574,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [AVAX Soars 9% As Avalanche And Chainlink Announce Partnership For Global Asset Circulation](https://www.newsbtc.com/avalanche/avax-soars-9-as-avalanche-and-chainlink-announce-partnership-for-global-asset-circulation/)
 append_entries: 1
 Finish: 2024-03-26 01:34:38.935997
+------------------------------------------------------
+Started: 2024-03-26 02:04:39.876303
+Existing_entries: 131
+Fetching from https://www.newsbtc.com/feed
+Token length: 3018
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin Rockets Past $69,000: Over 60k traders Caught In $200 Million Total Liquidations](https://www.newsbtc.com/bitcoin-news/bitcoin-rockets-past-69000-over-60k-traders-caught/)
+Token length: 2290
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin Price Reclaims $70K And Signals Fresh Surge To $75K](https://www.newsbtc.com/analysis/btc/bitcoin-price-reclaims-70k/)
+append_entries: 2
+Finish: 2024-03-26 02:04:51.859984
