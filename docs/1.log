@@ -10609,3 +10609,24 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Coinbase国际交易所3月份日均交易量创历史新高](https://www.panewslab.com/zh/sqarticledetails/38bvz7mu.html)
 append_entries: 1
 Finish: 2024-03-25 23:55:01.509302
+------------------------------------------------------
+Started: 2024-03-26 00:36:02.260764
+Existing_entries: 451
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 193
+Summarized using GPT-3.5-turbo-1106
+Append: [Ark Invest昨日减持2078万美元Coinbase股票和3150万美元Robinhood股票](https://www.panewslab.com/zh/sqarticledetails/2s7r3wx8.html)
+Token length: 263
+Summarized using GPT-3.5-turbo-1106
+Append: [Ark Invest发布创新平台白皮书，公链大规模采用将重新配置金融生态系统](https://www.panewslab.com/zh/sqarticledetails/l1qbuk7x.html)
+Token length: 211
+Summarized using GPT-3.5-turbo-1106
+Append: [美国SEC要求法官对Ripple Labs处以20亿美元罚款](https://www.panewslab.com/zh/sqarticledetails/fltd0xtn.html)
+Token length: 4102
+Summarized using GPT-3.5-turbo-1106
+Append: [StarkNet如何利用ZKP来制作可验证化链上游戏？](https://www.panewslab.com/zh/articledetails/u1h6013m15j9.html)
+Token length: 272
+Summarized using GPT-3.5-turbo-1106
+Append: [数据：灰度GBTC昨日资金净流出约3.5亿美元](https://www.panewslab.com/zh/sqarticledetails/p2qd351e.html)
+append_entries: 5
+Finish: 2024-03-26 00:36:18.047345
