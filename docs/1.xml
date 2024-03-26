@@ -4,18 +4,17 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+
 <item>
 <title>慢雾：超17万用户受使用虚假Python基础设施的攻击影响，攻击范围包括加密钱包</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/afk1yqpd.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/afk1yqpd.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是消极的。慢雾首席信息安全官23pds在X平台发布提醒称，超过17万用户受到使用虚假Python基础设施的攻击影响。恶意软件针对加密钱包、Discord和多种网络浏览器，窃取加密货币钱包、Discord Token和浏览器敏感数据，可能导致用户财产和隐私受到损害。 <div>
+<div> <br /><br />摘要：<br />这些信息是消极的。慢雾首席信息安全官23pds在X平台发布提醒称，超过17万用户受到使用虚假Python基础设施的攻击影响。恶意软件针对加密钱包、Discord和多种网络浏览器，窃取加密货币钱包、Discord Token和浏览器敏感数据，可能导致用户财产和隐私受到损害。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月26日消息，慢雾首席信息安全官23pds在X平台发布提醒称，超过17万用户受到使用虚假Python基础设施的攻击影响。对加密钱包的影响:该恶意软件包含一系列旨在从受害者系统中窃取的加密货币钱包，它搜索与每个钱包关联的特定目录，并试图窃取与钱包相关的文件；然后，被盗的钱包数据被压缩成ZIP文件并上传到攻击者的服务器。对Discord数据的影响：该代码通过搜索与Discord相关的目录和文件来专门针对Discord；它尝试定位并解密Discord Token，这些Token可用于未经授权访问受害者的Discord帐户。对浏览器数据的影响：该恶意软件针对多种网络浏览器，包括 Opera、Chrome、Brave、Vivaldi、Yandex和Edge。它搜索与每个浏览器关联的特定目录，并尝试窃取敏感数据，例如 cookie、自动填充信息、浏览历史记录、书签、信用卡和登录凭据。</p>
 ]]></content:encoded>
 <pubDate>Tue, 26 Mar 2024 10:37:07 +0800</pubDate>
-<pubDate>Tue, 26 Mar 2024 10:37:07 +0800</pubDate>
 </item>
-
 <item>
 <title>谁是“头号狗狗”？ 盘点史上七大最贵Meme NFT</title>
 <link>https://www.panewslab.com/zh/articledetails/37l8q68g.html</link>
