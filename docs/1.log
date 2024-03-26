@@ -10759,3 +10759,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [FTX大型债权交易价格上升至每美元93至97美分](https://www.panewslab.com/zh/sqarticledetails/m7etgxrl.html)
 append_entries: 1
 Finish: 2024-03-26 03:53:29.021786
+------------------------------------------------------
+Started: 2024-03-26 04:02:46.838364
+Existing_entries: 473
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 7076
+Summarized using GPT-3.5-turbo-1106
+Append: [探讨web3游戏公链产品组合爆火的背后逻辑](https://www.panewslab.com/zh/articledetails/m2iy8cnf.html)
+Token length: 305
+Summarized using GPT-3.5-turbo-1106
+Append: [数据：美国比特币现货ETF昨日资金净流入约1540万美元](https://www.panewslab.com/zh/sqarticledetails/r6hq2zg3.html)
+append_entries: 2
+Finish: 2024-03-26 04:03:01.239044
