@@ -9633,3 +9633,12 @@ Existing_entries: 212
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-26 14:50:04.739128
+------------------------------------------------------
+Started: 2024-03-26 14:57:27.205268
+Existing_entries: 212
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 22
+Summarized using GPT-3.5-turbo-1106
+Append: [The Future Is Open Finance](https://www.coindesk.com/consensus-magazine/2024/03/26/the-future-is-open-finance/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-26 14:57:30.244178
