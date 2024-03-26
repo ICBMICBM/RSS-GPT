@@ -9375,3 +9375,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bitcoin ETFs Snap Outflows Streak, Accumulate $15.4M](https://www.coindesk.com/markets/2024/03/26/bitcoin-etfs-snap-outflows-streak-accumulate-154m/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-26 08:10:15.912664
+------------------------------------------------------
+Started: 2024-03-26 08:28:13.052525
+Existing_entries: 204
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-03-26 08:28:13.650844
