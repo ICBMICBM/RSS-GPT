@@ -5,11 +5,87 @@
 <link>https://rss.panewslab.com/</link>
 
 <item>
+<title>TON市值升至12名，一览生态热门项目打新教程</title>
+<link>https://www.panewslab.com/zh/articledetails/uhbv144g.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/uhbv144g.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>今日TON涨幅超过5.4 USDT，近七日涨幅达39%，上升至加密市值第12名，链上热门Meme如FISH也水涨船高。本文详解了如何配置TON网络钱包和资产，以及热门项目参与流程，包括TON PET、TON Cats和COFE等热门代币。用户可通过交易所或跨链桥进行转账，再参与项目的募资及估值。投资者需谨慎决策是否参与投资。 <div>
+<p>原创 | Odaily星球日报</p>
+<p>作者 | 南枳</p>
+<p>今日，TON（Toncoin）涨超 5.4 USDT，近七日涨幅高达 39% ，一跃上升至加密市值第 12 名，链上热门 Meme 如 FISH 等代币也随之水涨船高。近期包括 FISH 子币等一系列热门代币开始打新，Odaily星球日报将于本文详解如何配置 TON 网络钱包和资产，以及热门项目打新的参与流程。</p>
+<h2>钱包及资产配置</h2>
+<h4><strong>TON 钱包准备</strong></h4>
+<p>最常见的 TON 钱包包括以下两种：</p>
+<ul class=" list-paddingleft-2">
+<li>
+<p>Tonkeeper：可从<a href="https://twitter.com/tonkeeper" rel="nofollow" target="_blank">官方 X 账户</a>进入下载地址，支持 iOS、Android 和桌面版本（含 macOS、Windows、Linux）。</p>
+</li>
+<li>
+<p>Telegram 内置钱包：可搜索栏直接输入“wallet”跳转。</p>
+</li>
+</ul>
+<p><img alt="TON市值升至12名，一览生态热门项目打新教程" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/d3b8ca3fca57732b263809d36d88d48b.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h4><strong>TON 资产转入</strong></h4>
+<p>目前欧易 OKX、Bitget、Gate 等交易所均支持 TON 现货交易，但 OKX、Bitget 目前暂停了提币，开放时间根据平台资产调度不定，参与用户可自行关注各平台的提现情况。</p>
+<p>此外用户还可通过跨链桥进行转账，包括<a href="https://bridge.ton.org/" rel="nofollow" target="_blank">官方跨链桥</a>（手续费： 5 TON+ 0.25% 跨链代币量）、第三方跨链桥如<a href="https://www.layerswap.io/app" rel="nofollow" target="_blank">Layerswap</a>（手续费： 4 美元）、<a href="https://app.rocketx.exchange/" rel="nofollow" target="_blank">RocketX</a>（手续费： 2 美元）等。</p>
+<h4><strong>交易与行情查看</strong></h4>
+<p>TON 网络主要的 DEX 为<a href="https://app.ston.fi/swap?chartVisible=false" rel="nofollow" target="_blank">STON.fi</a>，行情浏览工具为<a href="https://www.geckoterminal.com/zh/ton/pools" rel="nofollow" target="_blank">geckoterminal</a>。</p>
+<h2>项目 Launch 及参与流程</h2>
+<p>本节仅是对项目资料的收集、整理便于读者查阅，并非对项目本身的背书，请投资者 DYOR、谨慎投资。</p>
+<h4><strong>TON PET</strong></h4>
+<ul class=" list-paddingleft-2">
+<li>
+<p>项目背景：Ton Fish 是 Telegram 的社交 Meme 代币，目前市值为 5440 万美元。而 TPET（TON PET）是 Fish 官方发行的第二个 Meme，该代币将用于其发行的社交游戏，此外募资资金的 10% 将用于回购和销毁 FISH。</p>
+</li>
+<li>
+<p>结束时间： 3 月 26 日 23: 00 （UTC+ 8）。</p>
+</li>
+<li>
+<p>募资及估值：当前已募资 89.1 万枚 TON（价值约 472 万美元），预估初始市值为 250 万 TON（1325 万美元）。</p>
+</li>
+<li>
+<p>代币经济学：总量 3 亿枚，预售共 1.08 亿枚（36% ）， 5232.6 万枚用于添加流动性，其余分配如下图所示。</p>
+</li>
+</ul>
+<p><img alt="TON市值升至12名，一览生态热门项目打新教程" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/84134493892e4eeb053dcd0fe0c2e2b5.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<ul class=" list-paddingleft-2">
+<li>
+<p>操作流程：首先进入<a href="https://tonraffles.app/jetton/fairlaunch/TPET/EQATMBO5u31lFP0_Zo2PiDeqn3hYcuvHGTVoS_ZuPkg-bNGX" rel="nofollow" target="_blank">TonRaffles 网站</a>，然后根据下图流程链接钱包。首先点击右上角的 Connect Wallet，此时将弹出钱包选项，选择用户实际安装的钱包（不限于前一节所提的钱包），以 Telegram 内置钱包为例，将弹窗并跳转至 Telegram，选择确认链接即可，而后根据计划金额打款。</p>
+</li>
+</ul>
+<p><img alt="TON市值升至12名，一览生态热门项目打新教程" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/bec7ee9651f8421c832956f5dd4536f9.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img alt="TON市值升至12名，一览生态热门项目打新教程" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/5d8ae58821607af0c5812bdc3eef2923.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h4><strong>TON Cats</strong></h4>
+<ul>
+<li>项目背景：较为热门的预售之一，有部分生态社区支持，为动物园概念的纯Meme。</li>
+</ul>
+<p><img alt="TON市值升至12名，一览生态热门项目打新教程" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/901360ff44d71ff3d1df29c696dfbe56.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<ul>
+<li>结束时间：3月27日01:00（UTC+8）。</li>
+<li>募资及估值：当前已募资45.2万枚TON（价值约240万美元），预估初始市值为92.4万 TON（490万美元）。</li>
+<li>代币经济学：49%用于预售，其余分配如下图所示。</li>
+</ul>
+<p><img alt="TON市值升至12名，一览生态热门项目打新教程" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/2e1ee71c8e2ba7456d62d5647294e677.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<ul class=" list-paddingleft-2">
+<li>
+<p>相关链接：<a href="https://tonraffles.app/jetton/fairlaunch/CATS/" rel="nofollow" target="_blank">https://tonraffles.app/jetton/fairlaunch/CATS/</a></p>
+</li>
+</ul>
+<h4><strong>COFE</strong></h4>
+<p>COFE同样为近期预售的热门TON生态Meme代币。COFE采取了抽奖预售的形式，预售资金达57.39万枚TON，价值约300万美元。50%代币将用于预售分发，50%将用于添加LP。COFE今晨已完成预售，目前暂未公布交易开启时间，投资者可根据热度调研自行决定是否参与二级交易。</p>
+<h3>结论</h3>
+<p>网络代币的上涨通常对生态协议有一定溢出效应，但是否参与投资，仍需用户谨慎决策。</p>
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 19:00:27 +0800</pubDate>
+<pubDate>Tue, 26 Mar 2024 19:00:27 +0800</pubDate>
+</item>
+
+<item>
 <title>PA日报｜美国SEC要求法官对Ripple Labs处以20亿美元罚款；比特币突破71000美元</title>
 <link>https://www.panewslab.com/zh/articledetails/8iojlsml.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/8iojlsml.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。监管消息方面，SEC要求对Ripple处以20亿美元罚款，香港证监所警告EDY虚拟资产交易平台存在欺诈行为。项目动态显示Coinbase在加密市场中有资金流向变化，Coinbase Cloud在X平台部署Nethermind软件，Nilam Resources签署意向书收购MindWave持有24,800枚比特币。Ark Invest创新平台白皮书确定五个创新平台，Bakkt发布2023年财报。伦敦证券交易所将接受比特币和以太坊加密货币交易所交易票据上市。CommEX宣布将停止运营。胡润发布2024年全球富豪榜，埃隆·马斯克重登首富宝座。<br> <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。监管消息方面，SEC要求对Ripple处以20亿美元罚款，香港证监所警告EDY虚拟资产交易平台存在欺诈行为。项目动态显示Coinbase在加密市场中有资金流向变化，Coinbase Cloud在X平台部署Nethermind软件，Nilam Resources签署意向书收购MindWave持有24,800枚比特币。Ark Invest创新平台白皮书确定五个创新平台，Bakkt发布2023年财报。伦敦证券交易所将接受比特币和以太坊加密货币交易所交易票据上市。CommEX宣布将停止运营。胡润发布2024年全球富豪榜，埃隆·马斯克重登首富宝座。<br /> <div>
 <p><strong>今日要闻提示：</strong></p>
 <p dir="ltr"><strong><a href="https://www.panewslab.com/zh/sqarticledetails/fltd0xtn.html">美国SEC要求法官对Ripple Labs处以20亿美元罚款</a></strong></p>
 <p dir="ltr"><strong><a href="https://www.panewslab.com/zh/sqarticledetails/co2w07xq.html">Coinbase报告：近期GBT卖压或源自Genesis Global清算破产财产</a></strong></p>
@@ -93,9 +169,7 @@
 <p>【深度】原创文章、行业研报、事件解读，带来深度思考。<a href="https://www.panewslab.com/download.html">立即下载</a>！</p>
 ]]></content:encoded>
 <pubDate>Tue, 26 Mar 2024 18:50:36 +0800</pubDate>
-<pubDate>Tue, 26 Mar 2024 18:50:36 +0800</pubDate>
 </item>
-
 <item>
 <title>Telegram社区公链Ton起势，是否会成为Solana挑战者？</title>
 <link>https://www.panewslab.com/zh/articledetails/0g32734l8nq7.html</link>
