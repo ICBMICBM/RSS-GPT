@@ -5,11 +5,161 @@
 <link>https://rss.panewslab.com/</link>
 
 <item>
+<title>深度技术长文：BitVM原理解析及其优化思考</title>
+<link>https://www.panewslab.com/zh/articledetails/9s1h076j.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/9s1h076j.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。BitVM技术提供了一种在比特币网络上实现链下合约的解决方案，从而拓宽了比特币的应用范围，实现了更加复杂的智能合约验证。本文提出了优化方案，包括基于ZK的挑战次数降低、使用比特币友好的一次性签名、哈希函数优化、Scriptless Scripts BitVM和无需许可的多方挑战等。这些优化将提高BitVM的效率和安全性，推动比特币生态的繁荣。 <div>
+<p dir="ltr">来源：Bitlayer研究组</p>
+<p dir="ltr">作者: lynndell, mutourend.</p>
+<p dir="ltr">邮箱: lynndell2010@gmail.com, zouyudi@gmail.com</p>
+<h3 dir="ltr">1.引言</h3>
+<p dir="ltr">比特币是一种去中心化、安全且值得信赖的数字资产。但是，它存在重大限制，无法成为支付和其他应用的可扩展网络。比特币的扩容问题自诞生以来就一直备受关注。比特币UTXO模型将每笔交易视为一个独立事件，导致一个无状态的系统，缺乏执行复杂的、依赖状态的计算能力。因此，虽然比特币可以执行简单脚本和多签交易，但它难以促进在有状态的区块链平台上常见的复杂和动态的合约交互。这一问题显著限制了在比特币上构建的去中心化应用（dApps）和复杂金融工具的范畴，而状态模型平台提供了一个更加多样化的环境，用于部署和执行功能丰富的智能合约。</p>
+<p dir="ltr">对于比特币扩容，主要有状态通道、侧链、客户端验证等技术。其中，状态通道提供了安全且多样化的支付解决方案，但其在验证任意复杂计算的能力上有限。这种限制减少了其在需要复杂、条件性逻辑和交互的各种场景中的应用。侧链虽然支持广泛的应用，并提供超越比特币功能的多样性，但是具有较低的安全性。这种安全上的差异源于侧链采用的是独立的共识机制，这些机制远不如比特币共识机制的健壮性。客户端验证，使用比特币UTXO模型，可以处理更多复杂的交易，但是与比特币没有双向校验和约束能力，导致其安全性低于比特币。客户端验证协议的链下设计依赖于服务器或云基础设施，这可能导致集中化或通过妥协服务器进行潜在审查。客户端验证的链下设计还给区块链基础设施引入了更多复杂性，可能导致可扩展性问题。</p>
+<p dir="ltr">2023年12月，ZeroSync项目负责人Robin Linus发表了一篇名为《<a href="https://bitvm.org/bitvm.pdf" rel="nofollow">BitVM：Compute Anything On Bitcoin</a>》的白皮书，引发了大家对于提升比特币可编程性的思考。该论文提出一种在不改变比特币网络共识的情况下可实现图灵完备的比特币合约解决方案，使得任何复杂计算都可以在比特币上验证，而无需改变比特币基本规则。BitVM充分利用比特币脚本和Taproot，实现乐观Rollup。基于Lamport签名（又名bit commitment），让比特币两个UTXO之间建立联系，实现有状态的比特币脚本。在 Taproot 地址中承诺一个大型程序，operator和验证方进行大量的链下交互，在链上产生的足迹很小。如果双方合作，则可以执行任意复杂的、有状态的链下计算，而不在链上留下任何痕迹。如果双方不合作，则发生争议时，需要链上执行。因此，BitVM极大地拓宽了比特币的潜在用例，使比特币不仅可以作为一种货币，还可以作为各种去中心化应用和复杂计算任务的验证平台。</p>
+<p dir="ltr">但是，虽然BitVM技术在比特币扩容方面极具优势，但仍处于早期阶段，在效率和安全方面还存在一些问题。如：（1）挑战与响应需要多次交互，导致手续费昂贵，挑战周期长；（2）Lamport一次性签名数据较长，需要降低数据长度；（3）哈希函数复杂度较高，需要Bitcoin friendly哈希函数，降低费用；（4）现有BitVM合约庞大而比特币区块容量有限，可借助scriptless scripts来实现Scriptless Scripts BitVM，节约比特币区块空间，同时提升BitVM效率；（5）现有BitVM采用的是许可模型，仅联盟成员可发起挑战，且限定为仅两方之间，应扩展至permissionless 多方挑战模式，将信任假设进一步减小。为此，本文提出一些优化思路，进一步提高BitVM的效率和安全性。</p>
+<h3 dir="ltr">2.BitVM原理</h3>
+<p dir="ltr">BitVM定位为Bitcoin的链下合约，致力于推动Bitcoin合约功能。当前比特币脚本是完全无状态的，所以比特币脚本执行时，其执行环境在每个脚本之后都会重置。令脚本1和脚本2拥有相同x值的原生方式是不存在的，比特币脚本原生不支持该方式。但仍可以借助现有opcodes，通过Lamport一次性签名让Bitcoin脚本是有状态的，如可强制script1和script2中的x为相同值。如果参与方签署了相互冲突的x值，则可对其进行惩罚。BitVM程序计算发生在链下，而计算结果验证发生在链上。当前Bitcoin区块有1MB限制，当验证计算过于复杂时，可借助OP技术，采用挑战响应模式，支持更高复杂度的计算验证。</p>
+<p dir="ltr">与Optimistic Rollup和MATT提案（Merkelize All The Things）类似，BitVM系统基于欺诈证明和挑战-响应协议，但不需要修改比特币的共识规则。BitVM底层原语简单，主要基于哈希锁、时间锁和大型 Taproot 树。</p>
+<p dir="ltr">证明者逐字节承诺，但在链上验证所有计算将过于昂贵。所以，验证者执行一系列精心设计的挑战，以简洁地驳斥证明者的虚假主张。证明者和验证者共同预签一系列挑战和响应交易，用于解决争议，从而允许在比特币上进行通用计算验证。</p>
+<p dir="ltr">BitVM关键组件有：</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">电路承诺：证明者和验证者将程序编译为大型二进制电路。证明者在一个Taproot地址中承诺该电路，该地址下的每个叶子脚本，对应该电路中的每个逻辑门。核心是基于bit commitment来实现logic gate commitment，从实现电路承诺。</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">挑战和响应：证明者和验证者预签一系列交易来实现挑战-响应游戏。理想情况下，这种互动是在链下进行的，当证明者不配合时，也可在链上执行。</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">模棱两可惩罚：如果证明者提出任何不正确的声明，则验证者挑战成功后可拿走证明者存款，挫败证明者的作恶行为。</p>
+</li>
+</ul>
+<h3 dir="ltr">3.BitVM优化</h3>
+<h4 dir="ltr"><strong>3.1 基于ZK降低OP交互次数</strong></h4>
+<p dir="ltr">当前有2大主流Rollups：ZK Rollups和OP Rollups。其中，ZK Rollups依赖于ZK Proof的有效性验证，即正确执行的密码学证明，其安全性依赖于计算复杂度假设；OP Rollups依赖于Fraud Proof，假设所提交的状态均是正确的，设定挑战周期通常为7天，其安全性假定系统内至少有一个诚实方能探测到不正确的状态，并提交欺诈证明。假设BitVM挑战程序最大步数为2^{32}，需要内存为2^{32}*4字节，约17GB。在最坏情况下，需要约40轮挑战和响应，约半年时间，总脚本约150KB。该情况下激励严重不足，但实际情况下几乎不发生。</p>
+<p dir="ltr">考虑使用零知识证明降低BitVM的挑战次数，从而提高BitVM的效率。根据零知识证明理论，如果数据Data满足算法F，则证明proof满足验证算法Verify，即验证算法输出True；如果数据Data不满足算法F，则证明proof也不满足验证算法Verify，即验证算法输出False。在BitVM系统中，如果挑战者不认可证明方提交的数据，则发起挑战。</p>
+<p dir="ltr">对于算法F，使用二分法拆开，假设需要2^n次，则能找到错误点；如果算法复杂度太高，则n较大，需要很久才能完成。但是，零知识证明的验证算法Verify的复杂度是固定的，公开证明proof和验证算法Verify全过程，发现输出为False。零知识证明的优势在于打开验证算法Verify所需的计算复杂度，相比于二分法打开原始算法F，要低得多。因此，借助零知识证明，让BitVM挑战的不再是原始算法F，而是验证算法Verify，降低挑战轮数，缩短挑战周期。</p>
+<p dir="ltr">最后，虽然零知识证明有效性和欺诈证明依赖于不同的安全假设，但是可将二者结合，可构建ZK Fraud Proof，实现On-Demand ZK Proof。不同于full ZK Rollup，不再需要为每个单个状态变换生成ZK proof，On-Demand模型使得，仅在有挑战时才需要ZK Proof，而整个Rollup设计仍是乐观的。因此，仍默认所生成的状态是有效的，直到有人挑战该状态。如果某个状态无挑战，则无需生成任何ZK Proof。但是，如果参与方发起挑战，则需为挑战区块内所有交易的正确性生成ZK Proof。未来，可探索为单个有争议指令生成ZK Fraud Proof，避免一直生成ZK Proof的计算成本。</p>
+<h4 dir="ltr"><strong>3.2 比特币友好的一次性签名</strong></h4>
+<p dir="ltr">比特币网络中，遵循共识规则的交易是有效交易，但除共识规则之外，还额外引入了standardness规则。比特币节点仅转发广播标准交易，有效但非标准的交易被打包的唯一方法直接是与矿工合作。</p>
+<p dir="ltr">根据共识规则，legacy（即non-Segwit）交易的最大size为1MB，即占满整个区块。但legacy交易的standardness上限为100kB。根据共识规则，Segwit交易的最大size为4MB，即weight limit。但Segwit交易的standardness上限为400kB。</p>
+<p dir="ltr">Lamport签名是BitVM的基础组件，降低签名和公钥长度，有助于降低交易数据，从而降低手续费。Lamport一次性签名需使用哈希函数（如one way permutation函数f）。Lamport一次性签名方案中，消息长度为v比特，公钥长度为2v比特，签名长度也为2v比特。签名和公钥较长，需要消耗大量的存储gas。因此，需要寻找类似功能的签名方案，以降低签名和公钥长度。相比Lamport一次性签名，Winternitz一次性签名的签名和公钥长度大幅降低，但是增加了签名和验签的计算复杂度。</p>
+<p dir="ltr">在Winternitz一次性签名方案中，使用特殊函数P将v比特的消息映射为长度为n的向量s。s中每个元素的取值为{0,...,d}。Lamport一次性签名方案是d=1特殊情况下的Winternitz一次性签名方案。在Winternitz一次性签名方案中，n,d,v之间的关系满足：n≈v/log2(d+1)。当d=15时，有n≈(v/4)+1。对于包含n个元素的Winternitz签名而言，比Lamport一次性签名方案中的公钥长度和签名长度短4倍。但是，验签的复杂度提高了4倍。在BitVM中使用d=15,v=160,f=ripemd160(x)实现Winternitz一次性签名，可将bit commitment size降低50%，从而将BitVM的交易费降低至少50%。未来，在对现有Winternitz比特币脚本实现进行优化的同时，可探索以比特币脚本表达的更紧凑的一次性签名方案。</p>
+<h4 dir="ltr"><strong>3.3 比特币友好的哈希函数</strong></h4>
+<p dir="ltr">根据共识规则，P2TR script的最大size为10kB，P2TR script witness的最大size与最大Segwit交易size一样，为4MB。但P2TR script witness的standradness上限为400kB。</p>
+<p dir="ltr">当前比特币网络还不支持OP_CAT，无法拼接字符串做Merkle path验证。因此，需用现有比特币脚本，以script size和script witness size最优的方式，实现一种比特币友好的哈希函数，从而支持merkle inclusion proof验证功能。</p>
+<p dir="ltr">BLAKE3为BLAKE2哈希函数的优化版，并引入了Bao tree模式。相比于BLAKE2s-based，其压缩函数的轮数由10降至7。BLAKE3哈希函数会将其输入切分为1024字节大小的连续chunks，最后一个chunk可能更短但不为空。当只有一个chunk时，则该chunk为root node，且为该树的唯一节点。将这些chunks排布为二进制树的叶子节点，然后对每个chunk独立压缩。</p>
+<p dir="ltr">当将BitVM用于验证Merkle inclusion proof场景时，哈希运算的输入由2个256-bit哈希值拼接而成，即哈希运算的输入为64字节。使用BLAKE3哈希函数时，这64字节可分配于单个chunk内，整个BLAKE3哈希运算仅需要对单个chunk应用一次压缩函数。BLAKE3的压缩函数中，需要运行7次轮函数和6次置换函数。</p>
+<p dir="ltr">目前BitVM中已完成基于u32值的XOR、模加、位右移等基础运算，可以很容易组装出比特币脚本实现的BLAKE3哈希函数。使用stack中4个分开的字节来表示u32 words，来实现BLAKE3所需的u32 addition、u32 bitwise XOR 和 u32 bitwise rotations。目前BLAKE3哈希函数比特币脚本共约100kB，足以用于构建一个toy版本的BitVM。</p>
+<p dir="ltr">此外，可拆分这些BLAKE3代码，使得Verifier和Prover可通过将挑战-响应游戏中的执行一分为二而不是完全执行来显著降低所需的链上数据。最后，使用比特币脚本实现Keccak-256、Grøstl等哈希函数，从中选出最比特币友好的哈希函数，并探索其它新的比特币友好哈希函数。</p>
+<h4 dir="ltr"><strong>3.4 Scriptless Scripts BitVM</strong></h4>
+<p dir="ltr">Scriptless Scripts是一种通过使用Schnorr签名，在链下执行智能合约的方法。Scripless Scripts概念诞生自Mimblewimble，除了kernel及其签名之外，不存储永久数据。</p>
+<p dir="ltr">Scriptless Scripts的优点是功能、隐私和效率。</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">功能：Scriptless Scripts可增加智能合约的范围和复杂性。比特币脚本能力受限于网络中已启用的OP_CODES数量，而Scriptless Scripts将智能合约的规范和执行从链上转移到仅设计合约参与方的讨论，无需等待比特币网络的分叉来启用新的操作码。</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">隐私：将智能合约的规范和执行从链上转移到链下，可增加隐私。在链上，合约的很多细节都会共享到整个网络，这些详细信息包括参与者的数量和地址以及转账金额等。通过将智能合约移至链下，网络只知道参与者同意其合约条款已得到满足且相关交易有效。</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">效率：Scriptless Scripts最大限度地降低链上验证和存储的数据量。通过将智能合约移至链下，全节点的管理费用会减少，用户的交易费用也会降低。</p>
+</li>
+</ul>
+<p dir="ltr">Scriptless scripts是一种在比特币上设计密码学协议的方法，可避免执行显式智能合约。核心思想是使用密码算法实现期望功能，而不是使用脚本实现功能。适配器签名和多重签名，是Scriptless scripts的原始构建基石。使用Scriptless scripts，可实现比常规交易更小的交易，降低交易手续费。</p>
+<p dir="ltr">可借助Scriptless Scripts，使用Schnorr多重签名和适配器签名，不再像BitVM方案那样提供哈希值和哈希原像，也可实现BitVM电路中的逻辑门承诺，从而可节约BitVM脚本空间，提高BitVM效率。虽然现有的Scriptless Scripts方案能降低BitVM脚本空间，但是需要证明者和挑战者有大量交互来组合公钥。未来将对该方案进行改进，同时尝试将Scripless Scripts引入到具体BitVM功能模块内。</p>
+<h4 dir="ltr"><strong>3.5 无需许可的多方挑战</strong></h4>
+<p dir="ltr">当前BitVM挑战默认需要许可的原因在于：Bitcoin的UTXO仅能执行一次，导致恶意的verifier可通过挑战诚实prover来“浪费”该合约。当前BitVM限定为两方挑战模式。试图作恶的prover，可同时用自己控制的verifier发起挑战，从而“浪费”该合约，使得作恶成功，而其它verifier无法阻止该行为。因此，在Bitcoin基础之上，需要研究无需许可的多方OP挑战协议，可将BitVM的现有1-of-n信任模型，扩展至1-of-N。其中，N远大于n。此外，需要研究解决挑战者与prover串谋或恶意挑战“浪费”合约的问题。最终实现信任更小的BitVM协议。</p>
+<p dir="ltr">无需许可的多方挑战，允许任何人在没有许可名单的情况下参与。这就意味着，用户可在没有任何可信第三方参与的情况下，从L2提币。此外，任何想要参与OP挑战协议的用户均可质疑和删除无效提款。</p>
+<p dir="ltr">将BitVM扩展为无需许可多方挑战模型，需解决如下攻击：</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">女巫攻击：即使攻击者伪造多个身份参与争议挑战，单个诚实参与方仍能够赢得争议。如果诚实参与方捍卫正确结果的成本，与对攻击者的数量呈线性关系时，则当涉及大量攻击者时，诚实参与方为赢得争议所需付出的成本将变得不切实际，且容易受到女巫攻击。论文<a href="https://arxiv.org/pdf/2212.12439.pdf" rel="nofollow"> Permissionless Refereed Tournaments</a> 中，提出一种改变游戏规则的争议解决算法，单个诚实参与方赢得争议的成本随着对手的数量呈对数增长，而不是线性增长。</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">延迟攻击：某个或一群恶意方，遵循某种策略来阻止或延迟正确结果（如将资产提取到L1）在L1上的确认，并迫使诚实的prover花费L1手续费。可要求挑战者需提前质押来缓解该问题。如果挑战者发起延迟攻击，则没收其质押。但是，如果攻击者愿意在一定限度内牺牲质押来追求延迟攻击，则应该有应对策略来降低延迟攻击的影响。论文<a href="https://github.com/OffchainLabs/bold/blob/main/docs/research-specs/BOLDChallengeProtocol.pdf" rel="nofollow"> BoLD: Bounded Liquidity Delay in a Rollup Challenge Protocol</a>提出的算法，使得无论攻击者愿意失去多少质押，最坏情况下的攻击只能导致一定上限的延迟。</p>
+</li>
+</ul>
+<p dir="ltr">未来，将探索适用于比特币特性的，可抵抗以上攻击问题的BitVM无需许可多方挑战模型。</p>
+<h3 dir="ltr">4.结论</h3>
+<p dir="ltr">BitVM技术探索才刚刚开始，未来将探索和实践更多的优化方向，以实现对比特币的扩容，繁荣比特币生态。</p>
+<p dir="ltr"><strong>参考文献</strong></p>
+<ol>
+<li dir="ltr">
+<p dir="ltr"><a href="https://bitvm.org/bitvm.pdf" rel="nofollow">BitVM: Compute Anything on Bitcoin</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="https://brink.dev/assets/files/2024-01-16-eng-bitvm-slides.pdf" rel="nofollow">BitVM：Off-chain Bitcoin Contracts</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="https://www.youtube.com/watch?v=9aBuGObjEHs&amp;t=150s" rel="nofollow">Robin Linus on BitVM</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-October/thread.html#21986" rel="nofollow">[bitcoin-dev] BitVM: Compute Anything on Bitcoin</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="https://www.risczero.com/blog/altlayer-zkfraudproofs" rel="nofollow">The Odd Couple: ZK and Optimistic Rollups on a Scalability Date</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="https://bitcoin.stackexchange.com/questions/117594/what-are-bitcoins-transaction-and-script-limits" rel="nofollow">What are Bitcoin's transaction and script limits?</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="https://github.com/bitcoin/bips/blob/master/bip-0342.mediawiki" rel="nofollow">BIP-342: Validation of Taproot Scripts</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="https://twitter.com/robin_linus/status/1765337186222686347" rel="nofollow">https://twitter.com/robin_linus/status/1765337186222686347</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="https://toc.cryptobook.us/book.pdf" rel="nofollow">A Graduate Course in Applied Cryptography</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="https://github.com/BLAKE3-team/BLAKE3-specs/blob/master/blake3.pdf" rel="nofollow">BLAKE3: one function, fast everywhere</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022154.html" rel="nofollow">[bitcoin-dev] Implementing Blake3 in Bitcoin Script</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="https://github.com/BlockstreamResearch/scriptless-scripts" rel="nofollow">https://github.com/BlockstreamResearch/scriptless-scripts</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="https://tlu.tarilabs.com/cryptography/introduction-to-scriptless-scripts" rel="nofollow">Introduction to Scriptless Scripts</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="https://stacker.news/items/284642" rel="nofollow">BitVM using Scriptless Scripts</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="https://medium.com/offchainlabs/solutions-to-delay-attacks-on-rollups-434f9d05a07a" rel="nofollow">Solutions to Delay Attacks on Rollups</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="https://www.reddit.com/r/cartesi/comments/16nkvwt/introducing_dave_cartesis_permissionless/" rel="nofollow">Introducing DAVE. Cartesi's Permissionless Fault-Proof System.</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="https://ethresear.ch/t/delay-attacks-on-rollups/14508/3" rel="nofollow">Delay Attacks on Rollups</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="https://research.arbitrum.io/t/solutions-to-delay-attacks-on-rollups/692" rel="nofollow">Solutions to Delay Attacks on Rollups - Arbitrum Research</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="https://github.com/kleros/research-docs/blob/master/research-notes/interactivecomputationgamesnotes.pdf" rel="nofollow">Multiplayer Interactive Computation Games Notes</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="https://github.com/OffchainLabs/bold/blob/main/docs/research-specs/BOLDChallengeProtocol.pdf" rel="nofollow">BoLD: Bounded Liquidity Delay in a Rollup Challenge Protocol</a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><a href="https://arxiv.org/pdf/2212.12439.pdf" rel="nofollow">Permissionless Refereed Tournaments</a></p>
+</li>
+</ol>
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 14:00:01 +0800</pubDate>
+<pubDate>Tue, 26 Mar 2024 14:00:01 +0800</pubDate>
+</item>
+
+<item>
 <title>币价创历史新高，一文详解去中心化RaaS平台AltLayer</title>
 <link>https://www.panewslab.com/zh/articledetails/3mvqb46q.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/3mvqb46q.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。AltLayer是一个Rollup-as-a-Service（RaaS）平台，通过其Restaked Rollups提供多功能结构来改进Rollup的特性。该项目还支持WASM和EVM虚拟机，拓宽了应用开发的机会。此外，AltLayer开发了Flash Layers和Persistent Rollups，以解决区块链的可扩展性问题。AltLayer在RaaS市场中已经取得显著进展，并建立了重要的合作伙伴关系和战略支持。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。AltLayer是一个Rollup-as-a-Service（RaaS）平台，通过其Restaked Rollups提供多功能结构来改进Rollup的特性。该项目还支持WASM和EVM虚拟机，拓宽了应用开发的机会。此外，AltLayer开发了Flash Layers和Persistent Rollups，以解决区块链的可扩展性问题。AltLayer在RaaS市场中已经取得显著进展，并建立了重要的合作伙伴关系和战略支持。 <div>
 <p>项目名称：AltLayer</p>
 <p>项目类型：Rollup, Restaking</p>
 <p>代币符号：$ALT</p>
@@ -142,9 +292,7 @@
 <p>AltLayer以其高度适应性的RaaS解决方案而区别于市场。凭借强大的投资和出色的整合能力，它成为市场上首选的RaaS选项。然而，在加密货币市场不断发展的同时，仔细考虑潜在的供应问题和需求的持续性至关重要。</p>
 ]]></content:encoded>
 <pubDate>Tue, 26 Mar 2024 13:54:41 +0800</pubDate>
-<pubDate>Tue, 26 Mar 2024 13:54:41 +0800</pubDate>
 </item>
-
 <item>
 <title>ALT短时触及0.66997美元创新高，24小时涨幅达27.6%</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/vnwrccyu.html</link>
