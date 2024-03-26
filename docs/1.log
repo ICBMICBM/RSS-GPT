@@ -10750,3 +10750,12 @@ Existing_entries: 472
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-26 03:46:14.777790
+------------------------------------------------------
+Started: 2024-03-26 03:53:25.324980
+Existing_entries: 472
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 108
+Summarized using GPT-3.5-turbo-1106
+Append: [FTX大型债权交易价格上升至每美元93至97美分](https://www.panewslab.com/zh/sqarticledetails/m7etgxrl.html)
+append_entries: 1
+Finish: 2024-03-26 03:53:29.021786
