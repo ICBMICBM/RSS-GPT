@@ -11236,3 +11236,15 @@ Existing_entries: 514
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-26 13:58:37.052677
+------------------------------------------------------
+Started: 2024-03-26 14:14:30.463618
+Existing_entries: 514
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 2518
+Summarized using GPT-3.5-turbo-1106
+Append: [盘点五款即将登陆Sui的加密游戏](https://www.panewslab.com/zh/articledetails/vyg91eab.html)
+Token length: 285
+Summarized using GPT-3.5-turbo-1106
+Append: [Reya Network开发商Reya Labs完成1000万美元融资，Coinbase Ventures等参投](https://www.panewslab.com/zh/sqarticledetails/hat6pxre.html)
+append_entries: 2
+Finish: 2024-03-26 14:14:38.991087
