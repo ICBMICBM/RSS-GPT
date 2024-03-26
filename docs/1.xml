@@ -5,17 +5,81 @@
 <link>https://rss.panewslab.com/</link>
 
 <item>
+<title>专访Wormhole Foundation COO：从黑客松项目到估值25亿美元独角兽，我们做对了什么？</title>
+<link>https://www.panewslab.com/zh/articledetails/ei3d14o5.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/ei3d14o5.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了估值25亿美元的跨链协议Wormhole的发展历程和未来计划。Wormhole是一个通用的消息传递协议，连接多个链，具有高度去中心化和开源性。他们计划推出ZK轻客户端，以提升安全性和去中心化程度。Wormhole与Monad建立合作伙伴关系，并且积极支持开发者生态系统。通过资金支持和加速计划，Wormhole致力于推动整个跨链生态系统的发展。 <div>
+<p><em>作者：Mia，ChainCatcher</em></p>
+<p><em>编辑：Marco，ChainCatcher</em></p>
+<p><em>受访者：Dan Reecer，Wormhole Foundation</em></p>
+<p>3月7日，估值25亿美元的跨链协议Wormhole宣布将发行代币 W，并承诺向过去的用户空投6.17亿枚代币，占总供应量的6%，近40万个钱包将会获得空投。</p>
+<p>Wormhole诞生于一场黑客松，由区块链基础设施公司 Certus One 于 2020 年 10 月推出，最初采用以太坊和 Solana 生态系统之间直接代币桥的形式。Jump Crypto 内部的开发人员于 2021 年 8 月推出了该协议的第二个版本，利用权威证明（PoA）守护者网络作为预言机，并利用无需许可的中继器网络来跨链传输消息。</p>
+<p>Wormhole 作为去中心化跨链协议通过智能合约与加密技术相融合，在实现资产与数据跨链无缝传输的同时，确保过程的安全可靠。通过Wormhole，用户可轻松转移资产；开发者则获得更广阔创新空间，推动区块链生态系统扩展与行业应用。</p>
+<p>去年11月，Wormhole以25亿美元的估值，完成了2.25亿美元的融资，成为一家区块链行业的独角兽。</p>
+<p>近日，ChainCatcher专访了Wormhole Foundation首席运营官Dan Reecer，揭开Wormhole的神秘面纱。</p>
+<p>Dan Reecer毕业于美国顶尖商学院——印第安纳大学凯利商学院，在医疗健康品牌营销领域积累了四年的经验之后，投身于加密领域，并在加密货币领域深耕超过五年，曾担任Acala的首席增长官、Wanchain 营销总监，并领导了Web3 Foundation的增长项目，也为Polkadot的推出做出了重要贡献。Dan Reecer于2023年加入Wormhole Foundation，继续投入到加密项目的探索与实践中。</p>
+<p>除了宣布空投等事项外，Wormhole在推动零知识证明（ZK）技术采用方面也有新的动作。继资助Lurk Lab和Zpoken后，2月15日，Wormhole基金会宣布与Succinct团队合作，构建以太坊ZK轻客户端，旨在去中心化消息验证工作，减少平台信任，提升跨链组合性与网络安全性。</p>
+<p>此外，在硬件资源方面，Wormhole已与AMD合作，后者提供企业级FPGA硬件加速器，支持Wormhole生态系统的发展。</p>
+<h3><strong>从黑客松项目</strong><strong>到估值2</strong><strong>5</strong><strong>亿美元</strong></h3>
+<p><strong>ChainCatcher：</strong><strong>Wormhole 由以太坊和 Solana 之间的双向代币桥，演变为一个通用的消息传递协议，连接了生态系统中的多个链</strong><strong>，那么</strong><strong>Wormhole</strong><strong>是如何从一个黑客松项目逐渐成长为现在</strong><strong>Wormhole 协议</strong><strong>的？</strong></p>
+<p>Dan Reecer：Wormhole自基金会资助项目启动以来，不断取得跨链领域的突破。2020年，为打破Solana与其他主流网络的孤立状态，Wormhole团队研发了首个版本，并成功举办首届Wormhole黑客松，涉及多个团队的合作，利用区块链上的Wormhole构建跨链应用。</p>
+<p>Wormhole第一个版本的核心目标即实现以太坊与Solana的互联互通。</p>
+<p>Wormhole已经取得了重大进展，现在连接了超过30个不同的区块链。Wormhole近期达到了一个里程碑，通过Wormhole发送了10亿条跨链消息。</p>
+<p>目前，在Wormhole平台上构建了超过200个应用，每天都有数千名开发者通过Wormhole进行跨链，增强他们应用的流动性和用户基础。</p>
+<p><strong>ChainCatcher：</strong><strong>Uniswap 在其跨链部署中选择了 Wormhole 作为其主要的跨链消息传递协议</strong><strong>，</strong><strong>Wormhole</strong><strong>的跨链协议具有怎样异于其他协议的独特优势呢？</strong></p>
+<p>Dan Reecer：首先，Wormhole跨链可覆盖范围广，支持Ethereum、Solana、Aptos、NEAR、Sui、Algorand在内的6种区块链虚拟机的执行环境，并将其进行融合，这也是众多项目选择Wormhole进行跨链的原因。</p>
+<p>其次，Wormhole具有100%开源性，所有代码均公开在GitHub上，经过多次审计且将定期接受审查，确保安全无虞。近期，我们聘请了一位首席安全官与Asymmetric Research团队进行协作，致力于整个平台的安全工作。</p>
+<p>此外，与其他跨链协议通常仅受两方多签控制不同，Wormhole具有高度去中心化的特点。</p>
+<p>Wormhole 的核心组织架构基于 PoA (Proof of Authority) 机制，由一组被称为 Guardians（守护者）的受信任实体构成，Wormhole 的 Guardian 网络由 19 个成员组成，其中包括如 Chorus One、Everstake、Figment 和 xLabs 等，每一条通过Wormhole传递的消息都必须经过这19个验证者中的13个验证，才能发送到另一个区块链，目前所有验证者均在治理系统内。</p>
+<p>此外，Wormhole密切关注开发者需求，提供多样化的产品。Wormhole旗下涵盖五款核心产品，旨在构建一个综合的互操作性平台，而非局限于单一产品。</p>
+<p>例如，Synthetix使用的Remote Queries，允许从任何链上数据源提取数据到另一个区块链，目前该产品仍处于测试阶段。</p>
+<p>Uniswap正在使用Wormhole进行跨链治理，Wormhole为Uniswap提供跨链治理信息数据传输服务，确保其在各个互操作性协议上保持治理部署的一致性。</p>
+<h3><strong>计划推出ZK轻客户端</strong></h3>
+<p><strong>ChainCatcher：</strong><strong>在上月，</strong><strong>Wormhole 公布 ZK 路线图，未来几个月内将部署用于多链的 ZK 轻客户端跨链基础设施</strong><strong>，</strong><strong>在未来的跨链基础设施领域</strong><strong>将会如何</strong><strong>发展？您认为这些新的ZK轻客户端将如何改变区块链行业的现状，以及它们将如何推动Wormhole实现其长期目标？</strong></p>
+<p>Dan Reecer：Wormhole团队始终坚守加密货币的核心精神，正积极致力于将zk技术广泛应用于Wormhole的平台，减少对中心化因素的依赖。</p>
+<p>zk技术正式上线后，开发者将拥有两种选择来传输数据或代币，继续使用现有的验证者系统；或是选择完全无需信任的zk技术，摆脱对验证者的依赖。</p>
+<p>Wormhole之所以如此重视zk技术，是因为这将有效减少Wormhole系统对公司信任的依赖，进一步推动去中心化进程。通过不断的技术创新和优化，Wormhole将为开发者提供一个更加安全、高效和去中心化的互操作性平台。</p>
+<p>Wormhole已资助Lurk、Zpoken和Succinct三个团队，同时，获得了AMD在FPGA和GPU等方面的硬件支持，以优化zk技术实现速度与成本效益最大化。</p>
+<p>Wormhole预计今年将推出zk客户端，实现以太坊和NEAR等链间的无缝互操作性。</p>
+<p><strong>ChainCatcher：</strong><strong>Wormhole是否</strong><strong>会</strong><strong>推出一个专门的zk层来管理在不同链之间传输的这些zk证明？或者是打算选择特定的链来</strong><strong>解决</strong><strong>这个问题？</strong></p>
+<p>Dan Reecer：Wormhole并不需要以此为目的开发一个专属zk<strong>层</strong>。相反，Wormhole正在开发类似于zk的客户端，可以在不同的链上部署各种技术同时进行无缝集成，不需要开发类似于zkSync或Polygon的zk链这样的底层zk解决方案。</p>
+<p>虽然zk通常用于隐私保护，但在Wormhole的场景中，zk被用来减少中心化信任，并增强去中心化。</p>
+<h3><strong>致力于</strong><strong>跨链生态</strong><strong>建设</strong></h3>
+<p><strong>ChainCatcher：</strong><strong>去年12月，并行EVM区块链Monad与Wormhole宣布建立合作伙伴关系并实现技术集成</strong><strong>，</strong><strong>能否详细介绍下Wormhole与Monad合作的细节以及这次合作所带来的</strong><strong>影响</strong><strong>？</strong></p>
+<p>Dan Reecer：Wormhole将为Monad吸引用户和流动性，为其生态注入活力，用户可以通过Wormhole轻松地将SOL从Solana跨链至Monad，并自由参与包括DeFi在内的Monad生态系统的任何活动。</p>
+<p>对于Wormhole来说，这不仅是一个挑战，更是一个扩大市场份额和交易量的绝佳机会。</p>
+<p><strong>ChainCatcher：Wormhole是否会扩大对不同项目类型的覆盖范围？还是说这些项目将仅专注于消息互操作性？是否考虑</strong><strong>与像Optimism或Arbitrum这样的大型生态系统合作</strong><strong>吗</strong><strong>？</strong></p>
+<p>Dan Reecer：目前的计划依旧维持在互操作性领域，而这也是整个行业中最大的机遇之一。</p>
+<p>考虑到区块链数量和整个行业指数级增长，链与链之间的桥接变得至关重要。不可否认的是，世界正在朝着多链环境发展，需要一个安全且信任最小化的跨链设施来推动这一扩张，从而促进行业的繁荣发展。</p>
+<p>对于用户来说，关注点并非仅限于平台本身，更多的是跨链需求。</p>
+<p>正因如此，Wormhole的重点始终是构建更多产品，并无缝集成到一套工具中。目前，Wormhole正在积极与应用程序和区块链开发者、以及代币跨链的发行者密切合作，增加所覆盖的应用程序数量，进一步扩大跨链或多链代币的范围，并启动社区治理，共同推动跨链生态的发展，未来5到10年也继续坚持这一道路。</p>
+<p><strong>ChainCatcher</strong><strong>：去年11月，</strong><strong>Wormhole以25亿美元的估值</strong><strong>融资2</strong><strong>.25</strong><strong>亿美元，</strong><strong>本轮融资之后的计划是什么呢</strong><strong>？另外，Wormhole 背后的团队宣布成立Wormhole Labs，是基于怎样的考虑？</strong></p>
+<p>Dan Reecer：Wormhole始终将工程和产品置于核心地位。随着Wormhole生态的发展，逐渐形成了多个协作团队。目前，Wormhole拥有基金会、Wormhole Labs、X Labs以及专注于安全的Asymmetric Research团队，这四大团队构成了Wormhole的核心力量。</p>
+<p>在开发者方面，Wormhole在丹佛和以太坊等黑客松活动中，提供了各种赠款，并将继续参加类似的活动，致力于加强开发者生态系统。此外，Wormhole还专注于招聘顶尖人才。</p>
+<p><strong>ChainCatcher： Wormhole推出了跨链生态基金及XGrant资助计划， 在选择资助项目时，具体的标准是怎样的？未来是否计划增加资助金额，以支持更多具有潜力的项目？</strong></p>
+<p>Dan Reecer：X Grants专为Wormhole生态系统开源项目而设立的，官网附有相关的资助标准，同时自助申请将由专门团队负责评估筛选。</p>
+<p>Wormhole还与BorderlessCapital合作推出跨链生态系统基金，旨在投资可以推动整个跨链生态系统发展的项目团队，这些团队从一开始就与Wormhole进行了紧密的整合。</p>
+<p>其次，关于Outlier Ventures所运营的Wormhole Base Camp加速计划，由Borderless Capital提供资金支持，重点支持早期 Web3 创始人。目前已有五家初创公司入选，将得到Borderless Capital 提供的 20 万美元投资。</p>
+<p>Wormhole始终致力于支持整个跨链生态系统的发展，是否会扩大资金规模，还需要进一步研究和筹备。</p>
+<p><strong>ChainCatcher：</strong><strong>随着比特币近日突破新高，加密市场情绪持续高涨，受此影响，Wormhole是否会加速一些项目的进展和开发呢？</strong></p>
+<p>Dan Reecer：Wormhole并未因市场波动而改变方向。Wormhole已经开发了3年多，也经历了市场周期。Wormhole专注于目标，发布新产品，改进现有产品。</p>
+<p>市场周期或许在社交媒体上引发了一些纷扰，但Wormhole始终坚守初心，致力于实现使命。</p>
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 16:30:32 +0800</pubDate>
+<pubDate>Tue, 26 Mar 2024 16:30:32 +0800</pubDate>
+</item>
+
+<item>
 <title>数据：价值共计超150亿美元的BTC和ETH期权合约将于本周五到期交割</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/6nb1dcrw.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/6nb1dcrw.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。The Cook Capital在X平台上表示，本周五是季度大交割日，将会有41%的BTC期权和46%的ETH期权到期交割，总交割金额超过150亿美元，几乎是史上最大季度交割。这样的大规模交割将带来天量保证金的释放，可能对当前市场机构产生冲击。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。The Cook Capital在X平台上表示，本周五是季度大交割日，将会有41%的BTC期权和46%的ETH期权到期交割，总交割金额超过150亿美元，几乎是史上最大季度交割。这样的大规模交割将带来天量保证金的释放，可能对当前市场机构产生冲击。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月26日消息，The Cook Capital在X平台上表示，本周五是季度大交割日，将会有41%的BTC期权和46%的ETH期权到期交割，总交割金额超过150亿美元，无论是比例还是价值都几乎是史上最大季度交割。如此大规模的交割将会带来天量保证金的释放，这将对当前的市场机构产生冲击。</p>
 ]]></content:encoded>
 <pubDate>Tue, 26 Mar 2024 16:19:51 +0800</pubDate>
-<pubDate>Tue, 26 Mar 2024 16:19:51 +0800</pubDate>
 </item>
-
 <item>
 <title>MEW最大买家目前浮盈超2000万美元，总购入成本为107万美元</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/jvj71spk.html</link>
