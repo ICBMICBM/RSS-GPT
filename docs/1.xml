@@ -5,14 +5,154 @@
 <link>https://rss.panewslab.com/</link>
 
 <item>
+<title>币价创历史新高，一文详解去中心化RaaS平台AltLayer</title>
+<link>https://www.panewslab.com/zh/articledetails/3mvqb46q.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/3mvqb46q.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。AltLayer是一个Rollup-as-a-Service（RaaS）平台，通过其Restaked Rollups提供多功能结构来改进Rollup的特性。该项目还支持WASM和EVM虚拟机，拓宽了应用开发的机会。此外，AltLayer开发了Flash Layers和Persistent Rollups，以解决区块链的可扩展性问题。AltLayer在RaaS市场中已经取得显著进展，并建立了重要的合作伙伴关系和战略支持。 <div>
+<p>项目名称：AltLayer</p>
+<p>项目类型：Rollup, Restaking</p>
+<p>代币符号：$ALT</p>
+<p>加密货币排名：161</p>
+<p>市值：5.72亿</p>
+<p>FDV（全部稀释估值）：5.19 FDV</p>
+<p>流通供给量：11亿（11%）</p>
+<p>最大供给量：100亿</p>
+<h3><strong>开篇词</strong></h3>
+<p>在以太坊扩容解决方案的领域中，Rollup已成为关键的创新，为缓解网络的可扩展性挑战提供了有希望的途径。通过链下聚合交易并高效地加入到以太坊区块链中，Rollup不仅提高了网络能够处理的交易数量，还保持了主层的安全性和完整性。这一过程在增强以太坊处理更广泛范围dApp的能力方面发挥了重大作用。就目前而言，十大顶尖的以太坊扩容解决方案中有八个是Rollup。</p>
+<p><img alt="币价创历史新高，一文详解去中心化RaaS平台AltLayer" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/d1acbdd0e025e581825f7578847b767f.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img alt="币价创历史新高，一文详解去中心化RaaS平台AltLayer" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/c8bc69eb03d860604fc154acad3a85fc.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre> 来源: <a href="https://public.bnbstatic.com/static/files/research/the-rollups-as-a-service-primer.pdf" rel="nofollow">Binance</a><a href="https://public.bnbstatic.com/static/files/research/the-rollups-as-a-service-primer.pdf" rel="nofollow"> Research</a></pre>
+<p>在Rollup技术范围内，两个主要类别脱颖而出：<a href="https://www.binance.com/en/feed/post/269831" rel="nofollow">乐观 (Optimistic) Rollup</a>和<a href="https://www.binance.com/en/feed/post/269831" rel="nofollow">零知识（zk）Rollup</a>。每种提供了不同的交易验证方法，满足开发者社区和dApp生态系统内的不同需求。</p>
+<p><img alt="币价创历史新高，一文详解去中心化RaaS平台AltLayer" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/fb6456939c760ffff069597288a72d4a.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>Rollup-as-a-Service（RaaS）</strong>提供商的出现标志着这一领域的一个重要里程碑，简化了定制Rollup解决方案的部署。这一进步使项目能够在无需深入的区块链基础设施专业知识的情况下，利用Rollup的优势——定制性、可扩展性和效率。</p>
+<p>当我们检视以太坊扩容的当前状态和未来前景时，Rollup和RaaS提供商的角色无疑是在促进区块链空间内的创新和可访问性方面居中至关重要的。本文将仔细审视这些发展，提供关于Rollup如何工作、它们为何重要以及它们对以太坊未来可能意味着什么的见解。特别是，我们将聚焦于<a href="https://altlayer.io/" rel="nofollow">AltLayer</a>及其在这一不断发展项目，强调其创新解决方案和对使以太坊对每个人更加可扩展和可访问的贡献。</p>
+<h3>Rollup-as-a-Service（RaaS）的崛起</h3>
+<p>Rollup-as-a-Service（RaaS）正成为开发者寻求利用区块链技术的可扩展性和效率而又不涉及传统部署在以太坊Layer 1甚至Layer 2网络相关复杂性的关键解决方案。</p>
+<p>让我们从头开始。如今，寻求部署dApp的开发者有几个选项，每个选项都有自己的权衡：</p>
+<ul>
+<li><strong>在Layer 1区块链上部署：提供强大的安全性和丰富的生态系统，但由于交易空间有限而面临高成本和可扩展性问题。</strong></li>
+<li><strong>部署在Layer 2上：提供更低的费用和更好的可扩展性，但随着它们变得更受欢迎，可能会遇到成本上升和市场接受度不确定的问题。</strong></li>
+<li><strong>Appchain部署：创建一个特定于应用的区块链提供定制性和灵活性，但带来安全性和流动性风险。</strong></li>
+<li><strong>自有Rollup部署：在定制的Rollup上启动dApp带来可扩展性、安全性和定制性，而不会与区块空间竞争，潜在地通过交易费用获得持续收益。然而，启动自己的Rollup可能并不适合每一种类型的dApp。有些可能会从加入到现有的Layer 1或Layer 2提供的更大流动性池中受益更多。</strong></li>
+</ul>
+<h4><strong>RaaS的作用</strong></h4>
+<p>RaaS平台通过提供以下支持，赋予开发者启动自己的Rollup的能力：</p>
+<ul>
+<li><strong>技术支持：</strong>通过为项目需求量身定制的工具和服务（包括数据存储、交易监控和无代码部署选项）简化部署过程。</li>
+<li><strong>可扩展性和成本效率：</strong>无需深入技术知识，即可启用可扩展、高效的区块链解决方案，从而促进生态系统内的创新。</li>
+<li><strong>价值捕获：</strong>提供一种机制，让项目通过交易费用产生收入，这些收入可以与RaaS提供商共享。</li>
+</ul>
+<p><img alt="币价创历史新高，一文详解去中心化RaaS平台AltLayer" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/387ef604dbb71fd9a468c5b20e0ce9bc.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre> 来源: <a href="https://public.bnbstatic.com/static/files/research/the-rollups-as-a-service-primer.pdf" rel="nofollow">Binance</a><a href="https://public.bnbstatic.com/static/files/research/the-rollups-as-a-service-primer.pdf" rel="nofollow"> Research</a></pre>
+<p>AltLayer加入了这个RasS群体，同时它通过引入<a href="https://blog.altlayer.io/introducing-restaked-rollups-ac6a1e89b646" rel="nofollow"><strong>Restaked Rollups</strong></a>带来了更大扩展空间。理论上，这标志着应对与特定应用Rollup相关的去中心化、安全性和互操作性挑战的一大步。以下是他们实现这一目标的方式：</p>
+<ul>
+<li>去中心化排序：提供一个民主、安全的框架，符合去中心化Web3原则。</li>
+<li>确保状态正确性：利用以太坊的信任网络解决安全问题。</li>
+<li>实现更快的最终确定性：缓解以太坊交易最终确定时间慢的问题，这对于延迟敏感的应用至关重要。</li>
+</ul>
+<p>总之，通过为开发者提供部署定制、高效、安全Rollup的工具，这些RaaS服务正为更可扩展、更用户友好的区块链生态系统铺平道路，满足开发者社区及其dApps的多样化需求。</p>
+<h3>AltLayer项目概述</h3>
+<p>AltLayer是一个去中心化的Rollup-as-a-Service（RaaS）平台。它使开发者能够使用其灵活、模块化的设计创建可扩展的Layer 2解决方案，AltLayer在不同链和虚拟机之间无缝工作，已与EigenLayer和Celestia等主要参与者建立了合作伙伴关系，并建立了一个不断发展和扩展的生态系统，构建了一个旨在支持dApp开发者的集成和服务网络。</p>
+<h4><strong>基础支持和战略合作伙伴关系</strong></h4>
+<ul>
+<li>AltLayer由<a href="https://www.linkedin.com/in/jiayaoqi/" rel="nofollow">Dr. Yaoqi Jia</a>带领，他曾经领导Parity Asia并帮助启动了Zilliqa，担任其首席技术官。团队包括在Parity、Zilliqa和Synthetix有经验的区块链资深专家和顶尖研究人员。</li>
+</ul>
+<p>AltLayer在一轮<a href="https://blog.altlayer.io/press-release-altlayer-secures-14-4m-in-strategic-fundraising-round-b233ac2dc2bf" rel="nofollow">战略融资</a>中成功筹集了1440万美元，由Polychain Capital和Hack VC领投。这一轮融资得到了包括Coinbase前首席技术官Balaji Srinivasan、Circle联合创始人兼USDC架构师Sean Neville、以太坊联合创始人兼Parity Technologies首席执行官Gavin Wood以及Messari创始人Ryan Selkis等知名人士的重大贡献。</p>
+<p>此外，AltLayer与EigenLayer和Celestia等主要项目的合作，以及其不断增长的生态系统，建立了旨在赋予dApp开发者能力的集成和服务网络。</p>
+<p><img alt="币价创历史新高，一文详解去中心化RaaS平台AltLayer" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/f8e22063bfb09e58b51d42f37cf6cd5c.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>来源: <a href="https://docs.altlayer.io/altlayer-documentation/rollup-as-a-service/altlayer-ecosystem" rel="nofollow">AltLayer</a></pre>
+<h4><strong>核心特性和设计</strong></h4>
+<p>AltLayer的Rollup-as-a-Service平台具有三个主要组成部分：</p>
+<p>重质押Rollups</p>
+<ul>
+<li><strong>再质押Rollups（Restaked Rollups）</strong></li>
+</ul>
+<p>AltLayer创新的核心是其<strong>Restaked Rollups</strong>，包括三个关键服务，即主动验证服务（AVS）：</p>
+<p><img alt="币价创历史新高，一文详解去中心化RaaS平台AltLayer" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/fb3947fc481a28cf854ccc143d95d8d5.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>来源: <a href="https://blog.altlayer.io/introducing-restaked-rollups-ac6a1e89b646" rel="nofollow">AltLayer</a></pre>
+<ul>
+<li><a href="https://docs.altlayer.io/altlayer-documentation/restaked-rollups/vital-for-decentralised-verification" rel="nofollow">Vital</a>：该服务涉及操作员检查Rollup序列器提交的区块和状态。如果发现任何问题，他们可以用欺诈证明来挑战这些问题，确保准确性和可信度。</li>
+<li><a href="https://docs.altlayer.io/altlayer-documentation/restaked-rollups/mach-for-faster-finality" rel="nofollow">Mach</a>：该协议加速了Rollup的最终确定过程。它允许操作员使用基于以太坊的资产作为对Rollup状态任何声明的保证，从而导致更快的结算。</li>
+<li><a href="https://docs.altlayer.io/altlayer-documentation/restaked-rollups/squad-for-decentralised-sequencing" rel="nofollow">Squad</a>：该服务将去中心化排序引入其中，由经济激励支持。通过去中心化这一过程，它解决并减轻了由单一序列器控制Rollup而引起的如短期系统停机、不公平的交易排序（MEV）等问题。</li>
+</ul>
+<p>通过重质押连接以太坊的可信网络，这些服务应对特定应用Rollup中的去中心化和安全性挑战。通过将服务分为三个模块化部分，重质押Rollup提供了一种多功能结构，改进了Rollup的特性。</p>
+<ul>
+<li><strong>多功能Rollup堆栈</strong></li>
+</ul>
+<p>AltLayer使区块链开发灵活且用户友好，支持各种Rollup堆栈、数据层和连接。其易用的仪表板允许任何人设置和启动他们的区块链项目，无需太多技术知识，使得更多人能够接触到区块链。平台的模块化设计让用户根据自己的需求进行定制，确保它能随需求增长和变化。AltLayer还注重安全性，并支持多种虚拟机，使其成为开发区块链应用的多功能选择。</p>
+<p><img alt="币价创历史新高，一文详解去中心化RaaS平台AltLayer" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/b41cd495e2abb5c65bb9375b4e0ce77f.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>来源: <a href="https://docs.altlayer.io/altlayer-documentation/rollup-as-a-service/altlayers-raas-offering" rel="nofollow">AltLayer</a></pre>
+<ul>
+<li><strong>无代码接口的简易部署</strong></li>
+</ul>
+<p>AltLayer通过一个简单的无代码Dashboard，简化了区块链的复杂世界。这个易用的工具让任何人，无论是编码者还是非编码者，都可以在几分钟内设置自己的区块链设置。无论是选择使用多少个序列器，设置气体限制，还是添加像桥和RPC提供者这样的中间件，仪表板都使定制变得直接而灵活。现在，仅需几次点击，用户就可以快速启动定制的执行层，将区块链开发推广给更广泛的受众。</p>
+<h4><strong>Flash Layer 和 Persistent Rollups</strong></h4>
+<ul>
+<li>AltLayer引入了两种类型的Rollup来解决区块链的可扩展性问题：<a href="https://docs.altlayer.io/altlayer-documentation/rollup-types/flash-layer-rollups" rel="nofollow">Flash Layers</a> 和 <a href="https://docs.altlayer.io/altlayer-documentation/rollup-types/persistent-rollups" rel="nofollow">Persistent Rollups</a>。</li>
+</ul>
+<p><strong>Flash Layers</strong>是为了应对dApp的突然需求高峰而创建的临时、可定制的Rollup，例如在代币销售或游戏活动期间。开发者可以在预期会有大量活动时快速设置这些Rollup，使用它们来处理负载而不会减慢主网络，然后再关闭它们。</p>
+<p><strong>Persistent Rollups</strong>则是为需要长期、持续支持的dApp设计的。它们是为特定应用定制的标准乐观Rollup，并且可以支持EVM和WASM环境。这些Rollup非常适合如GameFi、SocialFi和DeFi等领域的应用，为有持续需求的项目提供稳定和可扩展的解决方案。</p>
+<p>本质上，Flash Layers提供了一种灵活的短期解决方案，用于处理区块链活动的突发高峰，而Persistent Rollups为具有持续需求的应用提供了坚实的基础。</p>
+<h3>代币经济学</h3>
+<p><strong>ALT代币</strong>是其平台的主要货币，当前流通量为11亿代币，占其总供应量100亿的11%。它承担多个功能：作为财务抵押，如有滥用行为可减少；允许持有者对协议影响决策进行投票；在平台生态系统内奖励贡献者；以及用于网络内的服务支付。</p>
+<p><img alt="币价创历史新高，一文详解去中心化RaaS平台AltLayer" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/056c35b122d41f9b2120ce6f364d3e2f.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre> 来源 <a href="https://www.binance.com/en/research/projects/altlayer" rel="nofollow">Binance</a><a href="https://www.binance.com/en/research/projects/altlayer" rel="nofollow"> Research</a></pre>
+<p>Treasury 21.50% </p>
+<p>Protocol Development 20.00%</p>
+<p>Investors 18.50%</p>
+<p>Team 15.00%</p>
+<p>Ecosystem &amp; Community 15.00%</p>
+<p>Advisors 5.00%</p>
+<p>Binance Launchpool 5.00%<img alt="币价创历史新高，一文详解去中心化RaaS平台AltLayer" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/cf7998bf397264852105d1d5601136eb.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>来源: <a href="https://www.binance.com/en/research/projects/altlayer" rel="nofollow">Binance</a><a href="https://www.binance.com/en/research/projects/altlayer" rel="nofollow"> Research</a></pre>
+<p>The project features minor daily releases. The next significant release is scheduled for July 25th, when 5% of the total supply will become available. Beginning in the third quarter of 2024, there will be a significant acceleration in the release schedule.</p>
+<p><strong><img alt="币价创历史新高，一文详解去中心化RaaS平台AltLayer" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/ab6f03c18fe0577c07469fe21ecd5027.png" style="display: block; margin-left: auto; margin-right: auto;" /></strong></p>
+<pre>来源: <a href="https://dropstab.com/coins/altlayer/vesting" rel="nofollow">DropsTap</a></pre>
+<h3><strong>竞争对手</strong></h3>
+<p>RaaS行业正在快速扩张，几个创新项目处于前沿。在这个竞争激烈的领域中，像<a href="https://conduit.xyz/" rel="nofollow">Conduit</a>, <a href="https://www.caldera.xyz/" rel="nofollow">Caldera</a>, 和 <a href="https://www.gelato.network/" rel="nofollow">Gelato</a> 这样的项目正在确立自己的独特定位。AltLayer通过优先考虑多功能性，为广泛的协议和功能提供杰出支持，从而在RaaS市场中确立了独特的地位。</p>
+<p>在这个细分市场中，AltLayer已经获得了显著的关注、资本和市场份额，将其标志为同行中的领先竞争者。</p>
+<p>下面是上述竞品的简单介绍：</p>
+<p><img alt="币价创历史新高，一文详解去中心化RaaS平台AltLayer" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/78310184f8f0557dd8822114e21e0d07.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h3><strong>看涨的基本因素</strong></h3>
+<ul>
+<li>在2023年，Rollup显著提升了以太坊的可扩展性，导致总锁定价值（TVL）大幅增长，AltLayer在Rollup-as-a-Service市场巩固了其作为领导者的地位，预示着广泛的采用。</li>
+<li>支持WASM和EVM虚拟机，拓宽了应用开发的机会。</li>
+<li>于2023年9月<a href="https://blog.altlayer.io/building-autonomous-worlds-and-on-chain-games-with-altlayers-turbo-and-celestia-9743c64d15db" rel="nofollow">推出</a>了专为GameFi设计的Rollup堆栈“Turbo”，旨在提供可扩展的、低延迟的游戏环境。</li>
+<li>2024年1月，<a href="https://blog.altlayer.io/introducing-bitcoin-security-to-thousands-of-rollups-339eea66b339" rel="nofollow">与Babylon Chain合作</a>，将比特币的安全性整合到Rollup验证中，开创了去中心化安全层的先河。</li>
+<li>预计将从以太坊的EIP-4844中受益，该提案旨在减少Rollup成本并扩大技术接入。</li>
+<li>拥有充满激动人心的计划和关键事件的战略路线图。
+<p><img alt="币价创历史新高，一文详解去中心化RaaS平台AltLayer" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/1ec7f3a486515e31751b2d93165c8c8f.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre> 来源: <a href="https://www.binance.com/en/research/projects/altlayer" rel="nofollow">Binance</a><a href="https://www.binance.com/en/research/projects/altlayer" rel="nofollow"> Research</a></pre>
+</li>
+<li>获得了重要的支持并形成了关键的合作伙伴关系，包括与<a href="https://thedefiant.io/eigenlayer-unveils-restaked-rollups-in-collaboration-with-altlayer" rel="nofollow">EigenLayer合作</a>解决以太坊的扩容挑战，通过“Restaked Rollup”。</li>
+<li>利用<a href="https://celestia.org/what-is-celestia/" rel="nofollow">Celestia</a>实现数据可用性，专注于降低成本和提高效率。</li>
+<li><a href="https://distilleddeepdives.substack.com/p/altlayer-15" rel="nofollow">与RISC Zero合作</a>，将“按需”零知识证明整合到乐观Rollup中，增强了安全性。</li>
+<li><a href="https://twitter.com/nosleepjon?lang=en" rel="nofollow">与Hyperlane合作</a>，实现无需许可的互操作性，增强了AltLayer生态系统内的沟通和服务，为开发者和项目拓宽了机会。</li>
+</ul>
+<h3><strong>看跌的基本因素</strong></h3>
+<ul>
+<li>AltLayer总代币供应量中目前只有<a href="https://dropstab.com/coins/altlayer" rel="nofollow">11%</a>处于流通状态，如果市值不与代币供应增长同步，特别是如果需求增长滞后，可能会导致通货膨胀压力。</li>
+<li>其高额的FDV（48亿美元）可能被视为高估的标志，引发对其当前市场估值的担忧。</li>
+<li>AltLayer与其他Rollup项目竞争，在拥挤Rollup赛道中，脱颖而出变得更难。</li>
+<li>要使AltLayer的解决方案产生重大影响，需要被开发者和用户广泛采用。说服区块链社区从熟悉的平台转移到AltLayer可能会很困难。</li>
+<li>AltLayer技术的复杂性意味着，随着项目的增长，维持顺畅的运作和安全可能会面临挑战。</li>
+</ul>
+<h3><strong>结束语</strong></h3>
+<p>AltLayer以其高度适应性的RaaS解决方案而区别于市场。凭借强大的投资和出色的整合能力，它成为市场上首选的RaaS选项。然而，在加密货币市场不断发展的同时，仔细考虑潜在的供应问题和需求的持续性至关重要。</p>
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 13:54:41 +0800</pubDate>
+<pubDate>Tue, 26 Mar 2024 13:54:41 +0800</pubDate>
+</item>
+
+<item>
 <title>ALT短时触及0.66997美元创新高，24小时涨幅达27.6%</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/vnwrccyu.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/vnwrccyu.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。根据3月26日的行情显示，AltLayer的ALT代币价格短时达到了0.66997美元，创下历史新高。ALT目前报价为0.65750美元，24小时涨幅达27.6%。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。根据3月26日的行情显示，AltLayer的ALT代币价格短时达到了0.66997美元，创下历史新高。ALT目前报价为0.65750美元，24小时涨幅达27.6%。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月26日消息，行情显示，AltLayer的ALT代币价格短时触及0.66997美元，创历史新高。ALT现报0.65750美元，24小时涨幅达27.6%。</p>
 ]]></content:encoded>
-<pubDate>Tue, 26 Mar 2024 13:49:31 +0800</pubDate>
 <pubDate>Tue, 26 Mar 2024 13:49:31 +0800</pubDate>
 </item>
 <item>
@@ -20,7 +160,7 @@
 <link>https://www.panewslab.com/zh/articledetails/ipp72ial.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/ipp72ial.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。2023年，加密市场迎来复苏，PANews举办“PARTY AWARD 2024”评选，共123个项目和10位个人获奖。评选包括公链、应用、工具、铭文、MEME、投资机构、交易所和KOL等多个类别，展现加密行业多样化发展和创新。最获奖项目包括Ethereum、Bitcoin、Solana、Binance、OKX等，以及个人影响力KOL，促进加密技术和资产全球发展。PANews希望激励行业建设者。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。2023年，加密市场迎来复苏，PANews举办“PARTY AWARD 2024”评选，共123个项目和10位个人获奖。评选包括公链、应用、工具、铭文、MEME、投资机构、交易所和KOL等多个类别，展现加密行业多样化发展和创新。最获奖项目包括Ethereum、Bitcoin、Solana、Binance、OKX等，以及个人影响力KOL，促进加密技术和资产全球发展。PANews希望激励行业建设者。 <div>
 <p>回望2023年，加密市场走出一条回升向好的复苏曲线，无论是资产价值还是市场情绪都迎来可喜的转变。这一年，声势浩大的比特币铭文热潮、金融巨头抢滩的RWA代币化、悄然兴起的DePIN革命以及翘首以待的比特币现货ETF......多重创新叙事都围绕着“链接”一词徐徐展开。</p>
 <p>三月万物复苏之际，PANews以“CONNECT”为主题举办了“PANews PARTY AWARD 2024”年度评选，旨在挖掘表彰过去一年来优秀的Web3项目、团队以及个人，链接Web3与现实世界，链接新老周期。经过近两个月的报名、线上投票和专业评审团评议后，第四届PANews年度评选活动已正式落下帷幕，共有123个项目/企业和10位个人脱颖而出，获得“PARTY AWARD 2024”21项权威年度奖项。</p>
 <p style="text-align: center;"><img alt=" “PARTY AWARD 2024”年度评选正式出炉！21项权威年度奖项的入榜者都有谁" src="https://cdn-img.panewslab.com/panews/2024/03/25/images/59syyWmsQe.png" /></p>
@@ -67,9 +207,7 @@
 <p>恭喜以上所有获奖的Web3项目/企业和个人。随着市场规模频刷新记录，应用场景破壁扩圈，加密技术和资产已一步步踏入全球主流视野，未来行业将朝着更加稳定和成熟的方向发展，想象空间也将被进一步扩大。PANews希望通过“PARTY AWARD 2024”榜单来记录和激励积极投身在这场金融革命浪潮中的参与者和建设者。</p>
 ]]></content:encoded>
 <pubDate>Tue, 26 Mar 2024 13:45:41 +0800</pubDate>
-<pubDate>Tue, 26 Mar 2024 13:45:41 +0800</pubDate>
 </item>
-
 <item>
 <title>VT直播拉盘秒变砸盘，华人meme真的没戏了？</title>
 <link>https://www.panewslab.com/zh/articledetails/e7h11vxf.html</link>
