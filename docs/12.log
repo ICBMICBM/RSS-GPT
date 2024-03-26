@@ -9447,3 +9447,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Shiba Inu Held On Exchanges Falls To 2-Year Low, What This Means](https://bitcoinist.com/shiba-inu-exchanges-2-year-low/)
 append_entries: 1
 Finish: 2024-03-26 16:01:10.390821
+------------------------------------------------------
+Started: 2024-03-26 16:23:05.345976
+Existing_entries: 134
+Fetching from https://bitcoinist.com/feed
+Token length: 3320
+Summarized using GPT-3.5-turbo-1106
+Append: [KuCoin Charged By DOJ As ‘Money Laundering Hub’ In Alleged $9B Scheme](https://bitcoinist.com/kucoin-faces-doj-prosecution/)
+append_entries: 1
+Finish: 2024-03-26 16:23:13.578310
