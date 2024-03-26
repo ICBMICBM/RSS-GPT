@@ -9642,3 +9642,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [The Future Is Open Finance](https://www.coindesk.com/consensus-magazine/2024/03/26/the-future-is-open-finance/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-26 14:57:30.244178
+------------------------------------------------------
+Started: 2024-03-26 15:11:53.072914
+Existing_entries: 213
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 86
+Summarized using GPT-3.5-turbo-1106
+Append: [A16z-Backed Protocol Unveils U.S. Dollar Stablecoin Passing Yield from RWA and DeFi](https://www.coindesk.com/business/2024/03/26/a16z-backed-protocol-unveils-us-dollar-stablecoin-passing-yield-from-rwa-and-defi/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-26 15:11:58.066216
