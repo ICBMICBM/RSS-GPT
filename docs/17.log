@@ -11154,3 +11154,10 @@ Fetching from https://en.foresightnews.pro/feed
 Feed error: text/html;charset=UTF-8 is not an XML media type
 append_entries: 0
 error when rendering xml, skip docs/17
+------------------------------------------------------
+Started: 2024-03-27 20:52:55.642865
+Existing_entries: 36
+Fetching from https://en.foresightnews.pro/feed
+Feed error: text/html;charset=UTF-8 is not an XML media type
+append_entries: 0
+error when rendering xml, skip docs/17
