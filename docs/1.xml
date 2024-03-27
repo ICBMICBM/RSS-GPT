@@ -5,15 +5,66 @@
 <link>https://rss.panewslab.com/</link>
 
 <item>
+<title>链抽象：多链时代下的三棱镜</title>
+<link>https://www.panewslab.com/zh/articledetails/4np3z17rm76k.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/4np3z17rm76k.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>钱包作为Web3生态系统的重要入口，不断竞争创新。链抽象概念受到关注，以实现更好的用户体验。Particle Network提供实现链抽象SDK，通过通用账户、Gas代币和流动性抽象实现无缝跨链操作。链抽象解决了复杂性和流动性分散等问题，为Web3生态系统的发展奠定基础。 <div>
+<p>作为 Crypto/Web3 生态系统的关键入口，钱包一直是创业团队竞争的焦点。除了以支持新公链为首的钱包产品外，还有很多团队希望能彻底改善 MetaMask 的体验（比如 Rabby）。当钱包团队还在关注账户抽象时，更高维度的链抽象（Chain Abstraction）叙事逐渐引起社区的关注。</p>
+<p>NEAR 联合创始人<a href="https://twitter.com/ilblackdragon?s=21&amp;t=WV2JG13w-oahrj5Xh3hZLA" rel="nofollow">Illia Polosukhin</a>前不久<a href="https://pages.near.org/blog/why-chain-abstraction-is-the-next-frontier-for-web3/" rel="nofollow">撰文</a>探讨链抽象的概念，并表明 NEAR 在实现链抽象方面的愿景。此外上个月上线主网的<a href="https://twitter.com/zetablockchain" rel="nofollow">ZetaChain</a>、模块化 L1<a href="https://twitter.com/particlentwrk?s=21&amp;t=0bwT-MRx1p5ZtvGebPAIwQ" rel="nofollow">Particle Network</a>、全链账本<a href="https://twitter.com/cyclenetwork_go" rel="nofollow">Cycle Network</a> 等项目都在为实现链抽象而探索。</p>
+<h3>链抽象为什么重要？</h3>
+<p id="§链抽象为什么重要"></p>
+<p>思考一个问题，为什么 Web3 的产品用户体验感和用户数量远低于 Web2？其中一个重要原因是现在很多项目的用户需要了解各种原理和概念，而 Web3 发展速度之快大家也有目共睹，新叙事新概念层出不穷，即使 Web3 老玩家也会有「热点变化太快学习起来太麻烦」的感觉。</p>
+<p>举个简单的例子，跨链桥协议首先需要用户理解之间资产不能互通，所以需要这样子的桥接协议来实现资产在不同链之间的转移，其次得明白如果想将资产从以太坊转移到 Solana，需要需要支付 ETH 作为 Gas 费，而不是 SOL。我只是想用以太坊上的 100 USDT 去买 Solana 生态里的 NFT 怎么这么麻烦？</p>
+<p>相比之下，Web2 的产品几乎都是包装好的，用户无需知道原理，也不知道背后谁和谁的合作关系。按照 Web2 产品体验的逻辑，我想买 Solana 生态里的 NFT，只要在这个 NFT 项目界面登入我的钱包，拿钱包里 100 USDT 直接买，最后我只要知道钱包里还剩多少钱，NFT 到账没就可以了。</p>
+<p>链抽象将不同区块链之间的差异和复杂性抽象为一种统一的接口，使得用户和开发者可以在不同的链上无缝地进行交互和操作，最终目标就是<strong>让用户感知不到链的存在，同时又享受区块链去中心化带来的好处</strong>，与意图相结合，用户体验会更加丝滑。想象一下，用户只需拥有足够的资产，不管什么代币不管在什么链上，想怎么交易都行，并且可以设置交易的时间点、条件，同时还能确保交易是安全的、隐私的、完全由自己掌控的。</p>
+<figure><a href="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8ba9743-83bb-477d-8be9-1dba5b626ab0_612x344.jpeg" rel="nofollow" target="_blank">
+<p><img alt="链抽象：多链时代下的三棱镜" src="https://cdn-img.panewslab.com/panews/images/ViL0tbQ36q.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</a></figure>
+<h3><strong>链抽象的逐步实现</strong></h3>
+<p id="§链抽象的逐步实现"></p>
+<p>在当下多链环境中，不仅用户体验变得复杂，而且流动性分散，这些都阻碍了区块链技术的大规模采用。<strong>整合流动性的有效方式是建立一个独立的平台，提供可交互操作的统一接口，即实现链抽象的平台。</strong></p>
+<p>Particle Network 就是这样一个提供实现链抽象 SDK 的 L1，它通过抽象出账户、Gas和流动性，打造了一个 dapp 背后用户无感知的开放网络接入层：</p>
+<ul>
+<li>
+<p><strong>Universal Accounts（通用账户）：</strong>用户可以在不同的链上使用相同的账户进行交易和操作。母合约控制着 50 多条链上的 AA 账户，将账户地址打通，使得打包交易更快，跨链更快（5s 内）。此外这也意味着释放更多的应用场景，比如 omnichain 的稳定币。</p>
+</li>
+<li>
+<p><strong>Universal Gas Token（通用 Gas 代币）：</strong>引入了通用 Gas 代币（SPARTI），用户可以使用该代币在不同的链上支付交易费用。不必持有每个链上的特定 Gas 代币，降低了跨链交易的成本和复杂性。并且 Particle Network 整合了 EigenLayer，通过将 SPARTI 代币和以太坊实现双重质押，从而增强网络的安全性。</p>
+</li>
+<li>
+<p><strong>Universal Liquidity（通用流动性）：</strong>通过实现流动性抽象，将不同链上的流动性聚合起来。比如用 USDT 在比特币生态里一建购买 BTC。Particle Network 充当流动性聚合协议，支持跨链原子交易执行。</p>
+</li>
+</ul>
+<p>Particle Network 的底层架构采用了 Cosmos SDK，并通过 CometBFT 共识引擎确保网络的安全性。这种模块化的底层架构使得 Particle Network 可以灵活地扩展和定制，满足不同应用场景的需求。此外， Particle Network 采用聚合式 DA，DA 不依赖于某一方（比如 Celestia 或者 EigenDA），通过在多个地方存储数据的副本来增强数据可用性。</p>
+<h3>链抽象为应用爆发做好准备</h3>
+<p id="§链抽象为应用爆发做好准备"></p>
+<p><strong>多链的时代也意味着多层套娃（rollup）的时代，在这样的背景下，链抽象就像三棱镜将多束光聚合成一束一样，将多个链统一起来</strong>，解决准入门槛高、教育用户困难等问题，避免了用户需要处理多个账户、网络切换、手续费等影响体验的操作。随着越来越多的项目和技术团队加入到链抽象的构建中，我们期待链抽象成为推动 Web3 生态系统向前发展的关键驱动力，为 Web3 带来更加统一、便捷和安全的用户体验，促进主流采用的进程。</p>
+]]></content:encoded>
+<pubDate>Wed, 27 Mar 2024 16:30:08 +0800</pubDate>
+<pubDate>Wed, 27 Mar 2024 16:30:08 +0800</pubDate>
+</item>
+<item>
+<title>UniSat宣布其安卓版App已上线Google Play</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/ywq4f4i0.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/ywq4f4i0.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。UniSat宣布其安卓版App在Google Play上发布，主要特点包括：1.支持Ordinals和Atomicals协议，2.即时刻录和查看未确认的铭文，3.个性化用户的安全设置和首选项。iOS版本正在开发中。UniSat的安卓App在功能和用户体验方面提供了许多便利，使用户可以更好地使用该服务。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月27日消息，据官方消息，UniSat宣布其安卓版App现已在Google Play上发布，主要特点包括：1.典型支持Ordinals和Atomicals协议，2.通过优化的基础设施即时刻录；即时查看未确认的铭文；个性化用户的安全设置和首选项。UniSat iOS版本仍在开发中。</p>
+]]></content:encoded>
+<pubDate>Wed, 27 Mar 2024 16:22:00 +0800</pubDate>
+<pubDate>Wed, 27 Mar 2024 16:22:00 +0800</pubDate>
+</item>
+
+<item>
 <title>AltLayer已启用ALT代币质押，为Rollup提供快速最终确定服务</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/ysvmnusm.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/ysvmnusm.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Rollup即服务协议AltLayer推出了原生代币的质押，以增加生态系统的经济安全。MACH Alpha是一种针对Layer2 Rollup的服务，利用重置机制来提高经济安全性。该服务将用于保护并帮助扩展Layer2解决方案。MACH Alpha将在EigenLayer上开发，服务于OP Mainnet和Arbitrum One的AVS。AltLayer计划引入“再质押rollup”来增强网络安全。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。Rollup即服务协议AltLayer推出了原生代币的质押，以增加生态系统的经济安全。MACH Alpha是一种针对Layer2 Rollup的服务，利用重置机制来提高经济安全性。该服务将用于保护并帮助扩展Layer2解决方案。MACH Alpha将在EigenLayer上开发，服务于OP Mainnet和Arbitrum One的AVS。AltLayer计划引入“再质押rollup”来增强网络安全。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月27日消息，据The Block报道，Rollup即服务协议AltLayer启用了其原生代币的质押，让持有者为其生态系统的经济安全做出贡献。ALT代币质押的推出启动了MACH Alpha的多阶段推出，这是一种针对Layer2 Rollup的快速最终确定服务。该服务将用于保护并帮助扩展Layer2解决方案。</p>
 <p>MACH Alpha是作为一个主动验证的服务在EigenLayer上开发的，利用其重置机制来引导经济安全。MACH Alpha将是第一个在重新分配的rollup框架下服务于两个最大的rollup: OP Mainnet和Arbitrum One的AVS。AltLayer计划引入“再质押rollup”——利用EigenLayer的重新分配机制来引导网络安全的Layer2项目。</p>
 ]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 16:05:21 +0800</pubDate>
 <pubDate>Wed, 27 Mar 2024 16:05:21 +0800</pubDate>
 </item>
 <item>
@@ -21,7 +72,7 @@
 <link>https://www.panewslab.com/zh/articledetails/447m2jyd.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/447m2jyd.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了Solana Memecoin的兴起，重点介绍了BOME和SLERF两个项目。BOME由Darkfarms1创立，致力于在区块链上保存meme内容，提供创作工具和去中心化存储。SLERF在市场上取得成功，并注重社区参与和用户体验。同时，文章探讨了成功推出Memecoin项目的关键要点，包括品牌形象塑造、社交媒体营销和社区参与度。该文章提供了对Solana Memecoin狂潮的深入分析和见解。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章介绍了Solana Memecoin的兴起，重点介绍了BOME和SLERF两个项目。BOME由Darkfarms1创立，致力于在区块链上保存meme内容，提供创作工具和去中心化存储。SLERF在市场上取得成功，并注重社区参与和用户体验。同时，文章探讨了成功推出Memecoin项目的关键要点，包括品牌形象塑造、社交媒体营销和社区参与度。该文章提供了对Solana Memecoin狂潮的深入分析和见解。 <div>
 <p>作者：Emily George，CoinMonks</p>
 <p>编译：Wenser，Odaily 星球日报</p>
 <p>欢迎来到 Solana Memecoin 的狂热世界。在这个数字时代，当meme与加密货币相互碰撞时，一股难以忽视的热潮正在蓬勃兴起，而正处于这股旋风中心的 Solana Memecoin，正迅速占据焦点。</p>
@@ -86,9 +137,7 @@
 <p>无论你是考虑推出自己的 Solana Memecoin 项目，还是对 Memecoin 的未来趋势感兴趣，BOME 和 SLERF 的崛起之路都为我们揭示了加密创新与行业激情共同形成的独特见解。</p>
 ]]></content:encoded>
 <pubDate>Wed, 27 Mar 2024 16:00:38 +0800</pubDate>
-<pubDate>Wed, 27 Mar 2024 16:00:38 +0800</pubDate>
 </item>
-
 <item>
 <title>币安将移除GNS/BTC、XVG/TUSD现货交易对</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/e32wib2t.html</link>
