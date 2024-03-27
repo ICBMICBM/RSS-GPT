@@ -5,11 +5,47 @@
 <link>https://rss.panewslab.com/</link>
 
 <item>
+<title>B²牵手Babylon：BTC模块化DA与安全质押收益的新组合？</title>
+<link>https://www.panewslab.com/zh/articledetails/dqka8y2g.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/dqka8y2g.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。BSquaredNetwork和babylon_chain的合作将通过BTC质押增强B² Hub的安全性。这种合作类似于Celestia和Eigenlayer的组合，提供了一种模块化DA层和再质押服务的安全解决方案。通过Babylon的BTC质押系统，B² Hub的验证网络安全性得到提升，同时采用时间锁、一次性签名EOTS和最终轮次多签共识等机制保障外部POS系统的安全性。该合作不仅增强了安全性，还带来了生态互通和质押收益。Celestia和Eigenlayer的效用对比可更好理解该合作对BTC layer2生态的影响。 <div>
+<p>如何看待 @BSquaredNetwork 和 @babylon_chain 的最新合作？一个是BTC模块化扩展方案供应商，推出了B² Hub模块化DA层，一个是BTC二层POS安全质押服务方，将原生资产质押生息带入了BTC网络。</p>
+<p dir="ltr">二者联合类似于，Celestia模块化DA层+Eigenlayer共享安全层的组合？接下来，我来解析下技术实现过程：</p>
+<p dir="ltr">根据公告内容，本次合作B² Hub和B² Rollup层都会采用Babylon的BTC质押来增强安全性，并支持BTC LSD和BTC Restaking功能。</p>
+<p dir="ltr">为什么说BTC质押可以为B² 内部组件提供安全性？以B² Hub为例来做进一步说明：</p>
+<p dir="ltr">1）B² Hub是B² Network的DA层中的关键组件，相当于一个去中心化的验证网络，它会处理Sequencer筛选、分布式Storage存储、ZK-Rollup层传来的数据和证明的Prove处理、生成Commitment向BTC主网发送inscription后的Indexer维护、以及对挑战者进行Commitment挑战的结果验证等等。</p>
+<p dir="ltr">应该讲，在B² Hub的每一个关键步骤都涉及一个去中心化Validators网络的验证和治理工作。</p>
+<p dir="ltr">问题来了，这个验证网络的安全性该如何保障呢？</p>
+<p dir="ltr">一种思路是采用Validators在本地网络进行POS质押，并按照约定规范进行Reward和Slash，质押资产为本地二层链的代币，这种方案理论上可行，但缺乏更高级别的安全；另一种思路是让这些Validators直接参与到BTC主网的资产质押，随后可用其保障外部POS系统的安全。</p>
+<p dir="ltr">很显然，当B² Hub和Babylon合作之后，会进阶成第二种安全保障方案，等于增强了其去中心化验证网络的安全性。</p>
+<p dir="ltr">2）Babylon引入的BTC质押系统是如何保障外部POS系统的安全性呢？</p>
+<p dir="ltr">1、时间锁，Babylon会对主网请求质押的资产进行一定时间的锁定，在锁定期间质押者无法使用被质押资产，这同时也会成为质押者在POS外部系统上的制约，使得质押者必须遵循外部POS系统的规则，一旦发生违规行为就可能导致已质押的资产无法赎回；</p>
+<p dir="ltr">2、一次性签名EOTS，Babylon引入了一个签名方案，如果使用相同的私钥在同一块高度下签署两个不同的区块，则私钥就会暴露。这意味着如果质押者试图进行双重支付，其私钥就会泄露，其质押的BTC资产就会被Slash罚没。EOTS签名可通过BTC原生的Schnorr签名来实现，等同于BTC安全级别的多签治理会生效；</p>
+<p dir="ltr">3、最终轮次多签共识，Babylon规定了一个区块只有收到2/3以上BTC质押者的EOTS签名时才会被最终确定，这意味着作恶节点想在签名少于1/3时进行双重签名时，其私钥就会被暴露，质押资产会被Slash，以此机制进一步保障了质押节点能够按照规范参与POS系统治理。</p>
+<p dir="ltr">3）那么，Babylon如何为B² Hub提供安全支撑呢？具体而言：</p>
+<p dir="ltr">首先，B² Hub的去中心化验证网络，需要达成一套共识机制，包括节点质押BTC和B²代币参与治理，采用双重资产质押机制可避免二层网络部分节点通过大量购买B²代币来试图控制网络，因为它必须同时在主网有大量的BTC资产在质押状态。</p>
+<p dir="ltr">其次，B² Hub设置了Epoch共识和CheckPoint，每个Epoch期间，验证节点需要对一切链上行为进行治理投票，且每个POS二层链区块的最终确定，要至少等待两个BTC主网出块时间戳。这会给足时间让二层自身的治理机制确定状态转移的确定性，以惩罚可能的作恶行为；</p>
+<p dir="ltr">最后，Babylon巧妙地利用了BTC时间戳来防止“长程攻击”。简单来说，若POS链有节点试图在二层制造分叉，构建了一条较长的分叉链，若新分叉链比原链长就会对整个二层网络的共识造成损坏。</p>
+<p dir="ltr">恶意节点想要达到目的势必需要长时间的酝酿和筹备工作，如果能把POS链的区块和比特币主网区块时间戳挂钩，让每一个POS区块都对应一个比特币区块，问题不就迎刃而解了？</p>
+<p dir="ltr">试想，若POS链恶意节点尝试进行长程攻击，它不仅需要搞定POS链上的连续区块做到最长链，同时还需要在BTC网络上实现最长链控制，如果说操控POS链成本可能还低一些，而要在现阶段操控BTC主网链，其算力成本估计得是个天文数字。</p>
+<p dir="ltr">当然，B² Hub和Babylon除了增强安全性之外，对双方生态互通也大有裨益，可以带来直接的再质押收益，用户质押BTC给B² Hub的Validator，可以获得B² 提供代币奖励，当Babylon质押主网上线后，还可以享受到巴比伦生态的再质押收益，质押BTC可以得到stBTC，并且同时获得质押在B² Hub质押合约以及Babylong质押合约中的双重收益。</p>
+<p dir="ltr">以上</p>
+<p dir="ltr">Celestia提供的模块化DA已经成为以太坊Rollup layer2的一个更经济高效的选择，B² Hub的长远定位也是作为模块化DA层为BTC生态的多Rollup layer2链提供服务。</p>
+<p dir="ltr">本身B² Hub独创的链下zk-Rollup证明系统和BitVM式的Commitment主网挑战相当于实现了一种接近BTC主网安全共识的POS链外共识，毕竟有挑战者机制的存在，节点行为大概率会被认为倾向“乐观”。</p>
+<p dir="ltr">Eigenlayer的再质押通过赋予以太坊节点的增益Buff来为其提供EigenDA节点服务提供保障，相当于通过经济激励机制来增强节点验证能力。类比下，Babylon的角色其实很像Eigenlayer提供的Function。</p>
+<p dir="ltr">总而言之，若把此次B² Network和Babylon的合作对BTC layer2生态的影响，类比成Celestia DA 和Eigenlayer Restaking对以太坊 layer2的效用，是不是更容易理解了？</p>
+]]></content:encoded>
+<pubDate>Wed, 27 Mar 2024 17:40:48 +0800</pubDate>
+<pubDate>Wed, 27 Mar 2024 17:40:48 +0800</pubDate>
+</item>
+
+<item>
 <title>内测活动在北美走红，早前融资5千万美元：Parallel能否火出圈？</title>
 <link>https://www.panewslab.com/zh/articledetails/dd748lknjpp4.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/dd748lknjpp4.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了区块链游戏Parallel的发展情况，包括其独特的游戏机制和NFT卡牌系统。Parallel吸引了Paradigm的5000万美元投资，并通过推出新游戏模式colony展现出创新。游戏提供了多种模式，如新手模式、排名模式等，让玩家体验丰富的游戏乐趣。Parallel的NFT卡牌成功销售，并在美国和加拿大市场引起高度关注，展现其潜力和吸引力。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章介绍了区块链游戏Parallel的发展情况，包括其独特的游戏机制和NFT卡牌系统。Parallel吸引了Paradigm的5000万美元投资，并通过推出新游戏模式colony展现出创新。游戏提供了多种模式，如新手模式、排名模式等，让玩家体验丰富的游戏乐趣。Parallel的NFT卡牌成功销售，并在美国和加拿大市场引起高度关注，展现其潜力和吸引力。 <div>
 <p dir="ltr">区块链技术的飞速发展正在推动着全新的游戏纪元的诞生，特别是在Web3游戏与区块链游戏生态的融合领域，引发了业内外的广泛关注。在这个背景下，一款集科幻主题与NFT卡牌于一体的游戏——Parallel引人注目，其在Solana链上即将推出的新游戏模式colony，通过引入人工智能代理（AI agent）在链上自主交易与管理资产的创新玩法，标志着Web3游戏生态的一大进步。</p>
 <p dir="ltr">尽管colony的社交媒体账号尚未独立设立，Parallel的官方推特已经发布了有关colony的白皮书。根据白皮书，Colony将成为Echelon Prime Foundation在Web3游戏生态中的关键布局，旨在通过构建一个社区驱动、以$PRIME代币为核心的共享资源网络，促进分布式Web3游戏的发展。近期，PRIME代币经历了一段显著的涨幅，尽管近日有所回落，但其市值仍展现出强劲的动态。</p>
 <p dir="ltr"><img alt="内测活动在北美走红，早前融资5千万美元：Parallel能否火出圈？" src="https://cdn-img.panewslab.com/panews/images/VTa6Iv6oT2.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
@@ -48,9 +84,7 @@
 <p><strong id="docs-internal-guid-dabbc7cb-7fff-0bfd-95ce-62a2f6b21445"></strong></p>
 ]]></content:encoded>
 <pubDate>Wed, 27 Mar 2024 17:31:46 +0800</pubDate>
-<pubDate>Wed, 27 Mar 2024 17:31:46 +0800</pubDate>
 </item>
-
 <item>
 <title>香港资管公司VSFG和惠理基金向SFC申请比特币现货ETF</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/thnqyxbe.html</link>

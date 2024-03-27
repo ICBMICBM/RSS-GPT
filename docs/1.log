@@ -12103,3 +12103,15 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [60+项目、7大赛道，一文解构AI+Crypto全景图](https://www.panewslab.com/zh/articledetails/6ia8uziu.html)
 append_entries: 2
 Finish: 2024-03-27 09:37:09.814069
+------------------------------------------------------
+Started: 2024-03-27 09:44:19.114288
+Existing_entries: 577
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 2375
+Summarized using GPT-3.5-turbo-1106
+Append: [B²牵手Babylon：BTC模块化DA与安全质押收益的新组合？](https://www.panewslab.com/zh/articledetails/dqka8y2g.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [60+项目、7大赛道，一文解构AI+Crypto全景图](https://www.panewslab.com/zh/articledetails/6ia8uziu.html)
+append_entries: 2
+Finish: 2024-03-27 09:44:29.658462
