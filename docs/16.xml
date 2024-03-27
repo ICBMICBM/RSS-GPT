@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>【英文】对话 Arweave 创始人和 EverVision 创始人：AO 的缘起、演进及未来愿景</title>
 <link>https://medium.com/@permadao/ao-的未来-无限可扩展的应用共识交互系统-arweave-创始人-sam-evervision-创始人outprog-对谈实录-59f2edc35b13</link>
 <guid>https://medium.com/@permadao/ao-的未来-无限可扩展的应用共识交互系统-arweave-创始人-sam-evervision-创始人outprog-对谈实录-59f2edc35b13</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的<br>文章讨论了AO的缘起、演进和未来愿景。AO是基于分布式操作系统理念的设计，支持在去中心化环境中并行运行无限数量的进程，实现了真正的并行计算。与Ethereum和Solana等其他区块链相比，AO采用了不同的架构和消息传递方法。AO被描述为一个民主化的超级计算机，用户可以通过各种设备登录并执行计算任务。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的<br />文章讨论了AO的缘起、演进和未来愿景。AO是基于分布式操作系统理念的设计，支持在去中心化环境中并行运行无限数量的进程，实现了真正的并行计算。与Ethereum和Solana等其他区块链相比，AO采用了不同的架构和消息传递方法。AO被描述为一个民主化的超级计算机，用户可以通过各种设备登录并执行计算任务。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>为了让加密行业的开发者、研究者乃至投资者更加深入的了解 AO，PermaDAO 邀请到了两位 AO 的奠基者，Arweave 创始人兼 Forward Research CEO Sam Williams 和 早期 AO 概念设计者 Outprog，针对 AO 的缘起、演进和未来愿景进行了一场关于 AO 的深度谈话。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://medium.com/@permadao/ao-的未来-无限可扩展的应用共识交互系统-arweave-创始人-sam-evervision-创始人outprog-对谈实录-59f2edc35b13">https://medium.com/@permadao/ao-的未来-无限可扩展的应用共识交互系统-arweave-创始人-sam-evervision-创始人outprog-对谈实录-59f2edc35b13</a></p>
 <p><strong>文章作者：</strong></p><p>PermaDAO</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>PermaDAO：</strong>Sam 提到，在项目的早期阶段，团队设想将 AO 构建为 Warp 之上的一个扩展层，但很快他们意识到这种方法需要对 SmartWeave 架构进行根本性的改变，这在实际操作中是不切实际的。随着去年后期团队对 AO 的持续专注开发，到了年末，他们迎来了一个突破性的「尤里卡」时刻，确认了所设计的架构不仅合理可行，而且能够实现水平扩展。在首次使用 AOS 时，团队体验到了一种全新的操作方式：他们能够登录并启动系统内部的任意数量的进程，所有这些进程都运行在一个无界限的平面空间中。
@@ -20,7 +21,6 @@ Sam 说，AO 提供了一个单一系统映像，使用户能够在一个统一�
 
 与 Solana 等其他区块链的对比。Solana 和其他一些区块链（如 Sui、Aptos）采用了广泛的不同架构，但 AO 的关键区别在于其消息传递方法。AO 认为，为了达到规模，不应该采用全局共享内存空间的优化，这是基于分布式系统和传统网络世界之外的实践经验。【原文为英文】</p><a href="https://medium.com/@permadao/ao-的未来-无限可扩展的应用共识交互系统-arweave-创始人-sam-evervision-创始人outprog-对谈实录-59f2edc35b13">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-27T05:42:26+00:00</pubDate>
 </item>
 <item>
@@ -28,7 +28,7 @@ Sam 说，AO 提供了一个单一系统映像，使用户能够在一个统一�
 <link>https://substack.chainfeeds.xyz/p/2d2</link>
 <guid>https://substack.chainfeeds.xyz/p/2d2</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了链抽象的概念，强调了在不同区块链之间提供统一接口的重要性。Particle Network作为一个提供链抽象SDK的L1，通过通用账户、通用Gas代币和通用流动性，实现了用户无感知的跨链操作。其底层架构采用Cosmos SDK，并通过CometBFT共识引擎确保网络安全性，采用聚合式DA来增强数据可用性。链抽象的实现有望促进用户在不同链上进行交易和操作的顺畅性。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章介绍了链抽象的概念，强调了在不同区块链之间提供统一接口的重要性。Particle Network作为一个提供链抽象SDK的L1，通过通用账户、通用Gas代币和通用流动性，实现了用户无感知的跨链操作。其底层架构采用Cosmos SDK，并通过CometBFT共识引擎确保网络安全性，采用聚合式DA来增强数据可用性。链抽象的实现有望促进用户在不同链上进行交易和操作的顺畅性。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>当钱包团队还在关注账户抽象时，更高维度的链抽象（Chain Abstraction）叙事逐渐引起社区的关注。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://substack.chainfeeds.xyz/p/2d2">https://substack.chainfeeds.xyz/p/2d2</a></p>
 <p><strong>文章作者：</strong></p><p>0xNatalie</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>0xNatalie：</strong>链抽象将不同区块链之间的差异和复杂性抽象为一种统一的接口，使得用户和开发者可以在不同的链上无缝地进行交互和操作，最终目标就是让用户感知不到链的存在，同时又享受区块链去中心化带来的好处，与意图相结合，用户体验会更加丝滑。想象一下，用户只需拥有足够的资产，不管什么代币不管在什么链上，想怎么交易都行，并且可以设置交易的时间点、条件，同时还能确保交易是安全的、隐私的、完全由自己掌控的。
@@ -40,10 +40,8 @@ Universal Liquidity（通用流动性）： 通过实现流动性抽象，将不
 
 Particle Network 的底层架构采用了 Cosmos SDK，并通过 CometBFT 共识引擎确保网络的安全性。这种模块化的底层架构使得 Particle Network 可以灵活地扩展和定制，满足不同应用场景的需求。此外， Particle Network 采用聚合式 DA，DA 不依赖于某一方（比如 Celestia 或者 EigenDA），通过在多个地方存储数据的副本来增强数据可用性。</p><a href="https://substack.chainfeeds.xyz/p/2d2">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-27T05:39:04+00:00</pubDate>
 </item>
-
 <item>
 <title>Delphi Digital：Ordinals 季节来临了吗？</title>
 <link>https://twitter.com/Delphi_Digital/status/1772656869040877917</link>
@@ -10988,26 +10986,6 @@ Morph 是一种完全无需许可的 EVM L2，它结合了 optimistic 和 zk rol
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />ZK互操作协议zkBridge的开发商Polyhedra Network以10亿美元估值完成2000万美元战略融资，投资方包括Polychain Capital、Animoca Brands等。融资将用于团队扩大和招聘跨职能部门。这些信息是积极的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。开发商Polyhedra Network以10亿美元估值完成2000万美元战略融资，由Polychain Capital领投，其他投资方包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium和Mapleblock Capital。融资资金将用于招聘跨职能部门人员，扩大团队规模从约50人到约80人。融资采用未来代币或SAFT协议进行，为公司发展提供良好的资金支持。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成了 2000 万美元战略融资，估值达到 10 亿美元。 Polychain Capital 领投，多家知名投资机构参与。融资将用于团队扩张和业务发展。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
