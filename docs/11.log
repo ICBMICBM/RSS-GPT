@@ -10089,3 +10089,12 @@ Existing_entries: 228
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-27 03:22:47.321501
+------------------------------------------------------
+Started: 2024-03-27 03:30:04.196028
+Existing_entries: 228
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 19
+Summarized using GPT-3.5-turbo-1106
+Append: [Munchables Exploited for $62M Ether, Linked to Rogue North Korean Team Member](https://www.coindesk.com/tech/2024/03/27/munchables-exploited-for-62m-ether-linked-to-rogue-north-korean-team-member/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-27 03:30:07.155777
