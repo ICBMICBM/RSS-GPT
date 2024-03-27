@@ -12997,3 +12997,15 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [60+项目、7大赛道，一文解构AI+Crypto全景图](https://www.panewslab.com/zh/articledetails/6ia8uziu.html)
 append_entries: 1
 Finish: 2024-03-27 23:52:04.137482
+------------------------------------------------------
+Started: 2024-03-27 23:59:24.905243
+Existing_entries: 608
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 164
+Summarized using GPT-3.5-turbo-1106
+Append: [数据：灰度GBTC昨日净流出近3亿美元，Ark 21Shares的ARKB净流入超2亿美元](https://www.panewslab.com/zh/sqarticledetails/jwsomue0.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [60+项目、7大赛道，一文解构AI+Crypto全景图](https://www.panewslab.com/zh/articledetails/6ia8uziu.html)
+append_entries: 2
+Finish: 2024-03-27 23:59:29.978857
