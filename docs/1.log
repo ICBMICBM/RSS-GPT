@@ -12958,3 +12958,15 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [60+项目、7大赛道，一文解构AI+Crypto全景图](https://www.panewslab.com/zh/articledetails/6ia8uziu.html)
 append_entries: 1
 Finish: 2024-03-27 23:22:38.083345
+------------------------------------------------------
+Started: 2024-03-27 23:29:46.677802
+Existing_entries: 607
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 142
+Summarized using GPT-3.5-turbo-1106
+Append: [贝莱德代币化投资基金BUIDL资金流入已增至2.45亿美元](https://www.panewslab.com/zh/sqarticledetails/79l40fs4.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [60+项目、7大赛道，一文解构AI+Crypto全景图](https://www.panewslab.com/zh/articledetails/6ia8uziu.html)
+append_entries: 2
+Finish: 2024-03-27 23:29:54.670232
