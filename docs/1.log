@@ -11977,3 +11977,15 @@ Existing_entries: 565
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-27 07:28:24.204604
+------------------------------------------------------
+Started: 2024-03-27 07:36:41.194701
+Existing_entries: 565
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 80
+Summarized using GPT-3.5-turbo-1106
+Append: [2个新钱包近3天提取约1.46亿枚GMT，占流通供应量的7.91%](https://www.panewslab.com/zh/sqarticledetails/292e507f.html)
+Token length: 2948
+Summarized using GPT-3.5-turbo-1106
+Append: [欧盟最新加密资产“开盒令”，区块链交易匿名性从此消失？](https://www.panewslab.com/zh/articledetails/thn37lr7.html)
+append_entries: 2
+Finish: 2024-03-27 07:36:48.710609

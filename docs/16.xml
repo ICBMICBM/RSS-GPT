@@ -4,6 +4,25 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>【英文】Whales Market： 积分场外交易市场</title>
+<link>https://www.shoal.gg/p/whales-market-points-otc-marketplace</link>
+<guid>https://www.shoal.gg/p/whales-market-points-otc-marketplace</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了 Whales Market 解决方案，一个无需信任的第三方 OTC 平台，旨在使非流动性资产交易更安全、可信。该平台通过智能合约提供双方同意的链上交易，并在交易成功后支付资金，减少欺诈风险。Whales Market支持预启动市场、场外市场和积分市场，通过代币清单和警告标志提高用户安全性。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>由于缺乏针对非流动性资产的流动性市场，加密积分、空投分配和白名单等项目的交易通常发生在场外交易市场（OTC）。在这种情况下，信任是一个重大挑战。Dewhales 研究员 Pavel Paramonov 介绍了 Whales Market 解决方案，一个无需信任的第三方 OTC 平台。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.shoal.gg/p/whales-market-points-otc-marketplace">https://www.shoal.gg/p/whales-market-points-otc-marketplace</a></p>
+<p><strong>文章作者：</strong></p><p>Pavel Paramonov </p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Pavel Paramonov ：</strong>Whales Market 是专为解决上一节所述问题而建立的，它使非流动性资产交易更加安全、可信，并且人人都能参与。Whales Market 通过在统一平台上整合场外交易来解决这一问题。在这里，买家和卖家都可以参与双方同意的链上交易。资金由智能合约担保，只有在交易成功后才会支付给相关方。这一功能不仅简化了交易流程，还显著降低了因欺诈活动造成经济损失的可能性。
+
+Whales Market 是由 LootBot 背后的同一个团队开发的。该协议创建于 2023 年夏天，当时正值 Telegram 机器人的流行时期。其概念简单而实用：Telegram 机器人旨在简化空投中的大部分繁重任务。借助团队在 LootBot 上取得的成功，他们决定打造一个更具雄心、更复杂的产品 --Whales Market。
+
+Whales Market 支持 3 种主要市场类型： 预启动市场、场外市场和积分市场。预启动市场允许购买 TGE 推出前的代币分配。正如你们大多数人所知，这是不同私人社区和一些中心化平台的共同之处。这些方法往往缺乏安全性，使交易者很容易上当受骗，承诺的代币也无法兑现。Whales Market 通过使用智能合约改变了这一过程，实现了由买卖双方商定的链上交易，从而防止了欺诈活动。
+
+场外市场与 Pre-Launch Market 类似，Whales Market 使用智能合约来解决漏洞问题，以降低潜在损失的风险。为了保证用户安全，Whales Market 拥有一份经批准可用于场外市场交易的代币清单。该列表由在其最大的代币池（DEX）中达到 30 万美元最低流动性的代币精心组合而成。用户也可以交易名单之外的代币，但平台会显示一个警告标志，提示用户在继续交易前验证自己的 mint 地址。【原文为英文】</p><a href="https://www.shoal.gg/p/whales-market-points-otc-marketplace">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-27T06:42:58+00:00</pubDate>
+</item>
 
 <item>
 <title>【英文】对话 Arweave 创始人和 EverVision 创始人：AO 的缘起、演进及未来愿景</title>
