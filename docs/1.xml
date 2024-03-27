@@ -4,12 +4,13 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+
 <item>
 <title>比特币上首个DA层，Nubit架构与亮点简析</title>
 <link>https://www.panewslab.com/zh/articledetails/ly9nlpdb.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/ly9nlpdb.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了Nubit作为一个可扩展的比特币原生DA层的特点和架构。Nubit通过NuBFT共识算法和KZG确保数据完整性，降低交易费用并提升数据吞吐量。其四个基本组件包括验证者、无需信任的桥、全存储节点和轻客户端。Nubit采用混合方法保证数据可用性，并使用闪电网络建立无需信任的跨链桥，使用户无需承担预存款的要求。Nubit将于今年晚些时候正式推出主网。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章介绍了Nubit作为一个可扩展的比特币原生DA层的特点和架构。Nubit通过NuBFT共识算法和KZG确保数据完整性，降低交易费用并提升数据吞吐量。其四个基本组件包括验证者、无需信任的桥、全存储节点和轻客户端。Nubit采用混合方法保证数据可用性，并使用闪电网络建立无需信任的跨链桥，使用户无需承担预存款的要求。Nubit将于今年晚些时候正式推出主网。 <div>
 <p>作者：1912212.eth，Foresight News</p>
 <p>DA（数据可用性）简单来说就是区块生产者将区块的所有交易数据都发布到网络中，以便使验证者可以进行下载。如果区块生产者发布了完整数据并使验证者可以下载，我们就说数据是可用的。DA 层是伴随着各区块链的扩容需求，以及对 DA 更高的要求而抽象出来的一层。我们已经看到市场涌现出一大批项目，如 Celestia、EigenLayer、NearDA、Avail 等等，这些项目往往自立门派，拉扯大旗，誓要打出自己的名声。</p>
 <p>在比特币生态逐渐被资金青睐后，有关比特币的各类技术路线也风起云涌，L2、质押、把 BTC 引入以太坊或 Solana 的 DeFi 项目都登上舞台，而 BTC 的原生 DA 项目也开始受到市场关注。</p>
@@ -35,9 +36,7 @@
 <p>以往的 BTC 技术实践中，某种程度而言，像 SegWit、Taproot 等都或多或少的增强比特币 DA，但 Nubit 的横空出世似乎恰是时候，因为彼时模块化和 L2 浪潮仍未兴起，而一种全新的解决方案现在已经出现在跟前。Nubit 在马不停蹄的与 Babylon、Merlin、BounceBit 等项目方合作后，其表示将于今年晚些时候正式推出主网。未来的发展，值得关注。</p>
 ]]></content:encoded>
 <pubDate>Wed, 27 Mar 2024 19:00:17 +0800</pubDate>
-<pubDate>Wed, 27 Mar 2024 19:00:17 +0800</pubDate>
 </item>
-
 <item>
 <title>KuCoin的以太坊和EVM链上的资金流出增至17.8亿美元</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/gh7jgjvr.html</link>
