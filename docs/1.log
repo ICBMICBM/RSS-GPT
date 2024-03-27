@@ -11953,3 +11953,12 @@ Existing_entries: 563
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-27 06:58:14.081044
+------------------------------------------------------
+Started: 2024-03-27 07:12:12.282584
+Existing_entries: 563
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 2159
+Summarized using GPT-3.5-turbo-1106
+Append: [Web3安全警示丨苹果芯片漏洞会窃取Crypto资产？你需要知道这些](https://www.panewslab.com/zh/articledetails/3r2x2hj9.html)
+append_entries: 1
+Finish: 2024-03-27 07:12:22.126737
