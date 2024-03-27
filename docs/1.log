@@ -11908,3 +11908,15 @@ Existing_entries: 560
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-27 05:57:29.358835
+------------------------------------------------------
+Started: 2024-03-27 06:15:30.299985
+Existing_entries: 560
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 1213
+Summarized using GPT-3.5-turbo-1106
+Append: [漫谈Meme Coin代币：价值如空气一般？](https://www.panewslab.com/zh/articledetails/d38pcztpxo9b.html)
+Token length: 5000
+Summarized using GPT-3.5-turbo-1106
+Append: [LD Capital解读CKB：UTXO同构的BTC L2](https://www.panewslab.com/zh/articledetails/6634194ousud.html)
+append_entries: 2
+Finish: 2024-03-27 06:15:42.812691
