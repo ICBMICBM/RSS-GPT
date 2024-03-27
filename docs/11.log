@@ -10704,3 +10704,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [The Munchables Hack Is Way Worse Than It Seems](https://www.coindesk.com/consensus-magazine/2024/03/27/the-munchables-hack-is-way-worse-than-it-seems/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 2
 Finish: 2024-03-27 17:58:40.283883
+------------------------------------------------------
+Started: 2024-03-27 18:17:49.031811
+Existing_entries: 257
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 81
+Summarized using GPT-3.5-turbo-1106
+Append: [Dutch Prosecutors Seek 64-Month Jail Sentence for Tornado Cash Dev Alexey Pertsev](https://www.coindesk.com/policy/2024/03/27/dutch-prosecutors-seek-64-month-jail-sentence-for-tornado-cash-dev-alexey-pertsev/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-27 18:17:51.507686
