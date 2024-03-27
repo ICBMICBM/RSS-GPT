@@ -9441,3 +9441,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bitcoin Coinbase Premium Returns To Neutral: Buying Push Already Over?](https://www.newsbtc.com/bitcoin-news/bitcoin-coinbase-premium-neutral-buying-push/)
 append_entries: 1
 Finish: 2024-03-27 00:37:05.436694
+------------------------------------------------------
+Started: 2024-03-27 01:35:09.227040
+Existing_entries: 150
+Fetching from https://www.newsbtc.com/feed
+Token length: 2601
+Summarized using GPT-3.5-turbo-1106
+Append: [Aptos (APT) Surges 94% And Approaches All-Time Highs: Will It Break The $20 Barrier?](https://www.newsbtc.com/aptos-apt/aptos-apt-surges-94-and-approaches-all-time-highs-will-it-break-the-20-barrier/)
+append_entries: 1
+Finish: 2024-03-27 01:35:13.819473
