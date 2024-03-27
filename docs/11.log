@@ -10839,3 +10839,15 @@ Existing_entries: 264
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-27 20:52:53.056872
+------------------------------------------------------
+Started: 2024-03-27 21:00:23.787314
+Existing_entries: 264
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 26
+Summarized using GPT-3.5-turbo-1106
+Append: [U.S., U.K. Issue Joint Sanctions of ‘Hamas-Aligned’ Gaza Now](https://www.coindesk.com/policy/2024/03/27/us-uk-issue-joint-sanctions-of-hamas-aligned-gaza-now/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 43
+Summarized using GPT-3.5-turbo-1106
+Append: [Ethena, a $1.3B Yield-Earning Protocol, to Debut Governance Token Next Week](https://www.coindesk.com/markets/2024/03/27/ethena-a-13b-yield-earning-protocol-to-debut-governance-token-next-week/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 2
+Finish: 2024-03-27 21:00:32.442368
