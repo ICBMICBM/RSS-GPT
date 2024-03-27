@@ -10812,3 +10812,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [BlackRock's Fink Says an Ether ETF Is Possible Even if ETH Is a Security](https://www.coindesk.com/business/2024/03/27/blackrocks-fink-not-concerned-about-possibility-of-sec-designating-eth-a-security/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-27 20:23:42.680376
+------------------------------------------------------
+Started: 2024-03-27 20:30:55.402658
+Existing_entries: 263
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 47
+Summarized using GPT-3.5-turbo-1106
+Append: [BlackRock's Tokenized Fund Quickly Rakes in $245M, Right Behind Franklin Templeton's Older Offering](https://www.coindesk.com/markets/2024/03/27/blackrocks-tokenized-fund-quickly-rakes-in-245m-right-behind-franklin-templetons-older-offering/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-27 20:31:00.594151
