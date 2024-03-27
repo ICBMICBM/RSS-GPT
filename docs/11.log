@@ -10440,3 +10440,21 @@ Existing_entries: 237
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-27 11:57:37.585137
+------------------------------------------------------
+Started: 2024-03-27 12:22:29.775878
+Existing_entries: 237
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 77
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin Mining Was More Profitable in February Than January: Jefferies](https://www.coindesk.com/business/2024/03/27/bitcoin-mining-was-more-profitable-in-february-than-january-jefferies/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 66
+Summarized using GPT-3.5-turbo-1106
+Append: [First Mover Americas: HSBC’s Gold Token Introduced in HK](https://www.coindesk.com/markets/2024/03/27/first-mover-americas-hsbcs-gold-token-introduced-in-hk/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 28
+Summarized using GPT-3.5-turbo-1106
+Append: [Illicit Funds in Crypto Ecosystem Shrank 9% Last Year, Yet Criminals Still Handled Nearly $35B: TRM Labs](https://www.coindesk.com/policy/2024/03/27/illicit-funds-in-crypto-ecosystem-shrank-9-last-year-yet-criminals-still-handled-nearly-35b-trm-labs/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 30
+Summarized using GPT-3.5-turbo-1106
+Append: [Diamonds Arrive on a Blockchain With New Tokenized Fund on Avalanche Network](https://www.coindesk.com/business/2024/03/27/diamonds-arrive-on-a-blockchain-with-new-tokenized-fund-on-avalanche-network/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 4
+Finish: 2024-03-27 12:22:46.455906
