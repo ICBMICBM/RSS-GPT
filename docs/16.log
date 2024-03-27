@@ -13288,3 +13288,24 @@ Summarized using GPT-3.5-turbo-1106
 Append: [ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round )
 append_entries: 1
 Finish: 2024-03-27 03:30:13.348707
+------------------------------------------------------
+Started: 2024-03-27 03:39:25.592780
+Existing_entries: 1001
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 567
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文】a16z Crypto：春季 CSX 活动 25 个入围项目](https://twitter.com/i/web/status/1772581772384948571)
+Token length: 632
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文】Pantera 合伙人：Omni Network 如何实现跨 Rollup 互操作性？](https://www.veradiverdict.com/p/omni)
+Token length: 248
+Summarized using GPT-3.5-turbo-1106
+Append: [Reya Network 开发商 Reya Labs 完成 1000 万美元融资，Coinbase Ventures 等参投](https://x.com/reya_xyz/status/1772578280836591736)
+Token length: 910
+Summarized using GPT-3.5-turbo-1106
+Append: [RWA 赛道持续火热，有哪些值得关注的协议？](https://www.theblockbeats.info/news/52356)
+Token length: 266
+Summarized using GPT-3.5-turbo-1106
+Append: [ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round )
+append_entries: 5
+Finish: 2024-03-27 03:39:39.971435

@@ -5,17 +5,92 @@
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
 <item>
+<title>【英文】a16z Crypto：春季 CSX 活动 25 个入围项目</title>
+<link>https://twitter.com/i/web/status/1772581772384948571</link>
+<guid>https://twitter.com/i/web/status/1772581772384948571</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>a16z Crypto宣布了其加密创业加速器（CSX）2024春季计划在伦敦启动，共有25个项目参与为期10周的课程。参与者涵盖了生物样本市场、免清算借贷、DeFi界面标准、密码学研究团队和链上游戏框架等不同领域。这些信息是积极的。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>a16z Crypto 宣布其加密创业加速器（CSX）2024 春季计划本周在伦敦启动，25 个项目将参与为期 10 周的课程。这 25 个项目覆盖基础设施、消费者应用程序、DeFi、支付、游戏、开发工具与 DePIN 不同赛道。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/i/web/status/1772581772384948571">https://twitter.com/i/web/status/1772581772384948571</a></p>
+<p><strong>文章作者：</strong></p><p>a16z</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>a16z：</strong>以下是 CSX 2024 年春季活动的参与者：
+1）AminoChain 是一个去中心化生物样本市场，可将生物库、临床基地与生物制药公司相连接。
+2）Collar Networks 是一个免清算的借贷解决方案，旨在解决清算问题、DeFi 借贷不可能三角问题（借入资产的稳定性、抵押品清算与高 LTV）。
+3）Compass Labs 是一个为 DeFi 构建新的标准界面，旨在提供一套工具，允许投资者、开发者能够安全访问 DeFi。
+4）Hungry Cats Studio 是一个专注于研究与实现的密码学团队，致力于多项式承诺方案、证明合成、ZKML、签名方案等，提供验证安全可靠的 AI 工作流程。
+5）Launcher 是一个用于构建智能合约迷你应用程序的加密产品搜索和平台。
+6）MagicBlock 是一个 Solana 和 SVM 上的链上游戏框架，专为在 Solana/SVM 上构建链上游戏而设计。【原文为英文】</p><a href="https://twitter.com/i/web/status/1772581772384948571">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-27T03:25:31+00:00</pubDate>
+</item>
+<item>
+<title>【英文】Pantera 合伙人：Omni Network 如何实现跨 Rollup 互操作性？</title>
+<link>https://www.veradiverdict.com/p/omni</link>
+<guid>https://www.veradiverdict.com/p/omni</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了基于以太坊的互操作性协议 Omni，旨在解决以太坊 rollup 生态系统的碎片化问题。Omni具有安全性、次秒级验证、原生全球应用和向后兼容性等关键特征，可提供低延迟通信，统一分散的rollup生态系统，使以太坊更有凝聚力，并为开发者提供方便的应用部署环境。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Pantera Capital 合伙人 Paul Veradittakit 介绍了一种名为 Omni 的基于以太坊的互操作性协议，以解决以太坊 rollup 生态系统的碎片化问题。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.veradiverdict.com/p/omni">https://www.veradiverdict.com/p/omni</a></p>
+<p><strong>文章作者：</strong></p><p>Paul Veradittakit（Pantera 合伙人）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Paul Veradittakit（Pantera 合伙人）：</strong>Omni 是一个以太坊本地互操作性协议，可在所有以太坊 rollup 之间建立低延迟通信，使以太坊在模块化时代作为一个有凝聚力的系统运行。Omni 由一支具有深厚行业经验的团队打造，其定位是统一以太坊分散的 rollup 生态系统，并具有以下决定性特征：
+
+安全性： Omni 采用了一种新的安全模型，使用重质押的以太币（restaked $ETH）来保护其验证节点集合，从而使得协议的安全性能够与以太坊 L1 的安全预算同步增长。
+次秒级验证： Omni 通过使用新的协议架构实现了次秒级的跨滚动升级消息验证，从而提供了与集成式区块链平台相媲美的低延迟交易体验。
+原生全球应用（NGA）： Omni 不仅提供了跨 rollup 消息验证，还提供了专用执行环境（Omni EVM），允许开发者从一个地方管理所有 rollup 应用部署，从而创造了一种新的全球应用范式。
+向后兼容性： Omni 设计了向后兼容性，使得现有的 rollup 应用可以无需修改合约就可以集成 Omni。【原文为英文】（已编辑）</p><a href="https://www.veradiverdict.com/p/omni">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-27T03:21:19+00:00</pubDate>
+</item>
+<item>
+<title>Reya Network 开发商 Reya Labs 完成 1000 万美元融资，Coinbase Ventures 等参投</title>
+<link>https://x.com/reya_xyz/status/1772578280836591736</link>
+<guid>https://x.com/reya_xyz/status/1772578280836591736</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Reya Labs宣布完成1000万美元融资，投资方包括多家知名机构，计划用这笔资金推动Reya Network的流动性生成活动。他们即将发布网络上的第一个DEX Reya Perps DEX。 <div>
+<p>模块化 L2 Reya Network 开发商 Reya Labs 宣布完成 1000 万美元融资，投资方包括 Coinbase Ventures、Wintermute、Fabric Ventures、Framework Ventures、Brevan Howard Digital、Amber Group 和 Robot Ventures 等。计划利用这笔新资金推动 Reya Network 四月份的流动性生成活动（LGE）。 即将推出该网络上的第一个 DEX Reya Perps DEX。</p><p><a href="https://x.com/reya_xyz/status/1772578280836591736">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-27T02:40:30+00:00</pubDate>
+</item>
+<item>
+<title>RWA 赛道持续火热，有哪些值得关注的协议？</title>
+<link>https://www.theblockbeats.info/news/52356</link>
+<guid>https://www.theblockbeats.info/news/52356</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>Realio Network是一家成立于2018年的数字资产发行和交易平台，提供代币化和数字化资产发行的服务。Propchain是一个基于区块链的房地产代币投资市场，解决了投资者在传统市场中遇到的问题。AllianceBlock是去中心化代币化市场的基础设施提供商，推出了NFT协议Nexera。RWA概念整体上涨，Ondo Finance的原生代币ONDO一周涨幅超过110%，领涨RWA赛道协议。	BlockBeats整理了值得关注的RWA协议。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>3 月 26 日，据 coingecko 数据，RWA 概念普涨。赛道龙头 Ondo Finance 原生代币 ONDO 一周涨幅超 110%，并领涨整个 RWA 赛道协议，多个项目代币不断续创历史新高。BlockBeats 作者 Luccy 整理了值得关注的 RWA 协议。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.theblockbeats.info/news/52356">https://www.theblockbeats.info/news/52356</a></p>
+<p><strong>文章作者：</strong></p><p>BlockBeats</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>BlockBeats：</strong>Realio Network 成立于 2018 年，前身是一家专注于房地产私募股权投资的端对端数字资产发行和 P2P 交易平台，总部位于纽约。目前，Realio 建立了自己的 L1 区块链网络，基于 Cosmos SDK 开发，主网于去年 4 月上线。Realio 平台利用区块链技术提供一系列服务，包括代币化、数字化资产发行和二级市场交易，提供应用程序包括 realioVerse 和即将推出的 Freehold 钱包，未来不仅仅是房地产领域，还会涉及证券。Realio 的独特功能之一是分布式密钥管理系统，帮助确保安全的质押验证者和委托人。
+
+Propchain 是一个基于区块链的房地产代币投资市场，为用户提供了投资全球房地产市场的渠道，以及各种性质、规模、估值的工具。Propchain 解决了房地产投资者在传统市场中遇到的许多问题，该平台不断采购新房产，在尽职调查后上市代币，以确保平台上永远不会缺少投资选择，也保证了房产的安全性和可持续性。
+
+AllianceBlock 是去中心化代币化市场的基础设施提供商。它为企业提供流动性，并允许他们合规地发行、管理和交易代币化数字资产，包括 RWA。AllianceBlock 的代币化技术使机构和企业能够开发合规且高效的解决方案。AllianceBlock 推出了 NFT 协议 Nexera，其采用当前的 NFT 标准构建，能够创建可变和可组合的 NFT，称为 MetaNFT。MetaNFT 是第三代 NFT，可以同时拥有可变数据和元数据以扩展它们的功能，并允许它们随着时间的推移使用新的属性和限制动态发展。这使得 MetaNFT 成为链上可变存储实体，可以与链上和链下数据进行交互。</p><a href="https://www.theblockbeats.info/news/52356">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-27T02:38:17+00:00</pubDate>
+</item>
+<item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，以 10 亿美元估值。 Polychain Capital 领投，多家投资方参与。融资将用于扩大团队规模、招聘人才和推进产品开发等方面。这些信息是积极的。 <div>
+<div> <br><br>摘要：<br>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成了 2000 万美元的战略融资，估值达到 10 亿美元。这笔融资由 Polychain Capital 领投，还有 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium 和 Mapleblock Capital 参投。资金将用于团队扩展和招聘跨职能部门人员。这些信息是积极的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
 
+<item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
+<content:encoded><![CDATA[
+<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，以 10 亿美元估值。 Polychain Capital 领投，多家投资方参与。融资将用于扩大团队规模、招聘人才和推进产品开发等方面。这些信息是积极的。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
@@ -10932,16 +11007,6 @@ Morph 是一种完全无需许可的 EVM L2，它结合了 optimistic 和 zk rol
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，由 Polychain Capital 领投，投资者还包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium 和 Mapleblock Capital。所筹资金将用于团队扩大、招聘、产品开发和营销等方面。<br />
 这些信息是积极的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。zkBridge开发商Polyhedra Network以10亿美元估值完成2000万美元的战略融资，由Polychain Capital领投，其他投资者包括Animoca Brands、Hashkey Capital、Longhash Ventures等。融资将用于招聘跨职能部门，扩大团队规模。全部融资都是通过未来代币或SAFT的简单协议进行的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
