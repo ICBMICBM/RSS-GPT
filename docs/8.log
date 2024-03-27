@@ -10200,3 +10200,12 @@ Existing_entries: 163
 Fetching from https://www.newsbtc.com/feed
 append_entries: 0
 Finish: 2024-03-27 21:29:04.157222
+------------------------------------------------------
+Started: 2024-03-27 21:36:36.435062
+Existing_entries: 163
+Fetching from https://www.newsbtc.com/feed
+Token length: 2719
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin Next Stop $80,000? Crypto Analyst Sees BTC Soaring Ahead Of 2024 Halving](https://www.newsbtc.com/bitcoin-news/bitcoin-next-stop-80000-crypto-analyst-sees-btc-soaring-ahead-of-2024-halving/)
+append_entries: 1
+Finish: 2024-03-27 21:36:40.355027
