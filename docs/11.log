@@ -10692,3 +10692,15 @@ Existing_entries: 255
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-27 17:51:20.733501
+------------------------------------------------------
+Started: 2024-03-27 17:58:30.556439
+Existing_entries: 255
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 37
+Summarized using GPT-3.5-turbo-1106
+Append: [Ondo Finance to Move $95M to BlackRock's Tokenized Fund for Instant Settlements for Its T-Bill Token](https://www.coindesk.com/markets/2024/03/27/ondo-finance-to-move-95m-to-blackrocks-tokenized-fund-for-instant-settlements-for-its-t-bill-token/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 54
+Summarized using GPT-3.5-turbo-1106
+Append: [The Munchables Hack Is Way Worse Than It Seems](https://www.coindesk.com/consensus-magazine/2024/03/27/the-munchables-hack-is-way-worse-than-it-seems/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 2
+Finish: 2024-03-27 17:58:40.283883
