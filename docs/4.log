@@ -9798,3 +9798,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [OFAC and OFSI Sanction Social Media News Outlet Gaza Now for Hamas Fundraising in Wake of October 7 Attacks](https://www.chainalysis.com/blog/ofac-ofsi-gaza-now-sanctions/)
 append_entries: 1
 Finish: 2024-03-27 22:43:22.507609
+------------------------------------------------------
+Started: 2024-03-27 22:50:58.037515
+Existing_entries: 16
+Fetching from https://blog.chainalysis.com/feed
+append_entries: 0
+Finish: 2024-03-27 22:50:58.911723
