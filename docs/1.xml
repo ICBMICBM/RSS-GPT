@@ -5,15 +5,137 @@
 <link>https://rss.panewslab.com/</link>
 
 <item>
+<title>Hyperlane研究报告：采用模块化设计，可轻松无缝地转移资产的跨链协议</title>
+<link>https://www.panewslab.com/zh/articledetails/5e05j88f.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/5e05j88f.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Hyperlane在区块链互操作性领域表现出色，提出无障碍和模块化的桥接技术，连接不同区块链并提升流动性。Hyperlane的设计和安全特性使其成为推动加密领域互操作性、可扩展性和流动性的重要因素。与此同时，Hyperlane在团队、基础支持与战略合作伙伴方面取得了显著进展，并具有独特的定位。尽管面临竞争对手，但Hyperlane的未来发展前景仍然值得关注。 <div>
+<h3><strong>Opening Remarks</strong></h3>
+<p>在Web3的世界中，安全且轻松地跨区块链共享数据是关键。为了克服加密空间中的互操作性挑战，桥接技术至关重要，它连接不同的区块链，以实现代币交换和流动性提升。</p>
+<p>上个月，所有桥接的组合交易量超过了110亿美元，凸显了它们在行业中的关键作用。</p>
+<p><img alt="Hyperlane研究报告：采用模块化设计，可轻松无缝地转移资产的跨链协议" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/2ed64f566a008b894b949c4d3d5372ec.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>来源: <a href="https://defillama.com/bridges" rel="nofollow">DeFiLlama</a></pre>
+<p>跨链桥不仅仅是转移代币；它们使得跨区块链的各种操作成为可能，从治理到启动新代币，再到增强游戏体验。</p>
+<p>特别是任意消息桥（AMBs）开启了传输各种数据的可能性，包括代币、合约执行和NFT，使得跨链间的多样化互动成为可能。</p>
+<p>我们将关注<a href="https://www.hyperlane.xyz/" rel="nofollow">Hyperlan</a>e，探讨其设计、安全性以及它在这个生态系统中建立的信任，并强调其在推进加密领域的互操作性、可扩展性和流动性方面的作用。</p>
+<h3><strong>市场机会</strong></h3>
+<p>让不同网络顺畅协同工作一直是一个巨大的挑战。通常，如果开发者希望他们的新区块链与其他区块链通信，他们必须经过一个漫长且常常充满不确定性的过程，获得管理这些连接的团队的许可。这种做事方式往往缓慢，并且可能阻碍增长，特别是对于那些没有太多影响力的较新或较小的项目。</p>
+<p>Hyperlane通过使任何人都能连接任何区块链网络而不必等待某些守门人的点头之礼，正在改变游戏规则。这种方法被称为无需许可的互操作性，它就像为创新大开方便之门。如今，开发者可以迅速将他们的区块链与其他区块链链接起来，加速整个过程，并让他们专注于创造酷炫的新东西，而不是排队等候。</p>
+<p><img alt="Hyperlane研究报告：采用模块化设计，可轻松无缝地转移资产的跨链协议" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/c7ae32f87f29796e4461e6960dbd0949.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre> 来源: <a href="https://medium.com/hyperlane/hyperlane-explained-in-memes-b0679f4102dd" rel="nofollow">Hyperlane</a></pre>
+<p>此外，Hyperlane允许开发者选择他们的安全级别。这被称为<strong>模块化安全（Modular Security）</strong>。开发者不再受限于一种适合所有情况的安全设置，而是可以调整它以完美适应他们的项目。</p>
+<p>通过使其如此开放和灵活，Hyperlane正在为一个未来铺路，在这个未来中，区块链可以轻松地相互通信、共享信息和协同工作。而这一切都以一种让构建这些项目的人们拥有创新自由并按照自己的条件确保工作安全的方式发生。</p>
+<h3><strong>Hyperlane 项目概览</strong></h3>
+<p>Hyperlane脱颖而出，成为第一个无障碍的层，用于轻松连接任何区块链。它允许开发者创建链与链间的应用，简化了用户在任何连接网络上的链与链之间交互的复杂性。此外，其灵活的安全选项让开发者能够根据自己的安全需求进行定制。</p>
+<p>此外，Hyperlane配备了即用型功能，如用于跨链轻松转移代币的Warp Routes，用于从一个链向另一个链发起合约调用的链间账户，以及用于访问跨链信息的链间查询。</p>
+<p>Hyperlane被设计为模块化，使开发者能够通过其链间安全模块管理自己的安全模型。</p>
+<p><img alt="Hyperlane研究报告：采用模块化设计，可轻松无缝地转移资产的跨链协议" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/b345086533862ec1a855cb114793f1c8.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>来源:<a href="https://docs.hyperlane.xyz/" rel="nofollow"> Hyperlane</a></pre>
+<h4><strong>Breaking the Cycle with Open Interoperability</strong></h4>
+<p>Hyperlane集成的运作方式如下:</p>
+<ol>
+<li>在任何支持的虚拟机上<a href="https://docs.hyperlane.xyz/docs/deploy-hyperlane" rel="nofollow">安装</a>Hyperlane系统（目前在EVM上可用，预计到今年第三季度Solana VM、Fuel VM、CosmWasm和Cosmos SDK模块也将加入），无需任何人的批准</li>
+<li>使用其模块化安全模块设置安全设置。
+<p>Hyperlane使用链间安全模块（<a href="https://docs.hyperlane.xyz/docs/protocol/ISM/modular-security" rel="nofollow">ISMs</a>）进行安全保护。这些智能合约验证传送到目的链的消息确实来源于源链。开发者可以选择用特定于应用的ISM来定制Mailbox的默认ISM，以满足他们应用的特定需求。</p>
+<p><img alt="Hyperlane研究报告：采用模块化设计，可轻松无缝地转移资产的跨链协议" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/9a6b8ea1755b22a7acd2e526bb9cb65a.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>来源 <a href="https://docs.hyperlane.xyz/docs/protocol/ISM/modular-security" rel="nofollow">Hyperlane</a></pre>
+</li>
+<li>通过使用Warp Routes，可以轻松地在任何链之间传输任何资产，绕过传统桥接技术所需的通常代币白名单审批。
+<p>Warp Routes是Hyperlane实现无需许可即可在使用Hyperlane的任何链之间轻松转移ERC20或ERC721资产的方式。它们允许您在任何链和那些已通过Hyperlane连接的链之间设置交易路线。</p>
+<p><em><img alt="Hyperlane研究报告：采用模块化设计，可轻松无缝地转移资产的跨链协议" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/cfcdcf9de255e53db2cbe1a4b11fbf7e.png" style="display: block; margin-left: auto; margin-right: auto;" /></em></p>
+<pre> 来源: <a href="https://docs.hyperlane.xyz/docs/protocol/warp-routes" rel="nofollow">Hyperlane</a></pre>
+</li>
+<li><a href="https://docs.hyperlane.xyz/docs/operate/relayer/run-relayer" rel="nofollow">设置</a>和管理您自己的Hyperlane验证者或中继者。</li>
+</ol>
+<p>Hyperlane验证者独立运作，不与其他验证者组成网络，并且不频繁提交交易。它们针对每个特定的源链进行设置，提供的指南适用于单链设置。</p>
+<h4><strong>工作原理</strong></h4>
+<p>Hyperlane的新V3版本引入了发送后钩子（post-dispatch hooks），并将跨链燃料费支付（IGP）作为必要的钩子之一。他们正在更新文档以反映这些变化。</p>
+<p><img alt="Hyperlane研究报告：采用模块化设计，可轻松无缝地转移资产的跨链协议" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/234c6b3ebcfc12441b3597cd6f44c633.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>来源: <a href="https://docs.hyperlane.xyz/docs/protocol/mailbox" rel="nofollow">Hyperlane</a></pre>
+<p>以下是Hyperlane的邮箱智能合约如何工作的具体内容，这些智能合约旨在促进安全高效的链间通信：</p>
+<p>关键特性：:</p>
+<ul>
+<li><strong>发送函数：</strong>启动消息发送，需要消息内容、目的链ID和收件人地址。消息存储在邮箱内的增量Merkle树中，以协助Hyperlane的权益证明协议验证欺诈证明。</li>
+<li><strong>处理函数：</strong>促进跨链消息传递，由中继者操作。它处理消息和任何由中继者定义的元数据，将这些信息转发到收件人的链间安全模块（ISM）进行验证。在ISM批准后，邮箱通过recipient.handle()函数将消息交付给预定的收件人。</li>
+</ul>
+<p>为了在链间成功发送一条消息，需要两笔交易：一笔是从起始链（origin chain）发送消息，另一笔是在目的地链（destination chain）上交付消息。Hyperlane通过在源链上提供一个链上接口，简化了这个过程。这允许发送者直接向负责在目的链上交付消息的中继者支付费用，这种费用被称为跨链燃料费支付。</p>
+<p><strong>Hyperlane V3</strong>中引入的发送后钩子和跨链燃料费支付旨在增强链间通信的功能和效率，确保为区块链互操作性和应用开发提供一个更加健壮的框架。</p>
+<h3>团队、基础支持与战略合作伙伴</h3>
+<p>Hyperlane由<a href="https://www.linkedin.com/in/asa-oines-863b433b/" rel="nofollow">Asa Oines</a>和<a href="https://www.linkedin.com/in/namchuhoai/?locale=en_US" rel="nofollow">Nam Chu Hoai</a>共同创立，他们曾是去中心化金融平台Celo的早期工程师，此外，曾在Galaxy领导风险投资业务的Kol也是创始团队成员。公司位于康涅狄格州的格林尼治。</p>
+<p>Hyperlane在Variant领投的<a href="https://www.coindesk.com/business/2022/09/22/blockchain-startup-hyperlane-raises-185m-from-crypto-investor-variant/#:~:text=Hyperlane%20was%20co%2Dfounded%20by,is%20headquartered%20in%20Greenwich%2C%20Connecticut." rel="nofollow">种子轮融资</a>中筹集了1850万美元，Galaxy Digital和CoinFund等知名公司也参与了投资。据共同创始人Jon Kol在接受CoinDesk采访时分享，这笔资金将用于招聘、产品开发和安全措施，包括漏洞赏金和进一步的审计。</p>
+<p>在合作伙伴关系方面，Hyperlane在2023年及2024年初已成功建立了一些值得注意的合作伙伴关系。其中一些合作包括：</p>
+<ul>
+<li><strong>Circle的CCTP与Hyperlane合作：</strong><a href="https://medium.com/hyperlane/circles-cross-chain-transfer-protocol-launches-on-mainnet-with-hyperlane-6b6637a2a1a7" rel="nofollow">Circle与Hyperlane的合作</a>使跨链转账协议（CCTP）得以实现，通过无需许可的互操作性和模块化安全等特性，增强了跨区块链的USDC交易。</li>
+<li><strong>Celestia + Hyperlane即时互操作性：</strong><a href="https://medium.com/hyperlane/hyperlane-brings-out-of-the-box-interoperability-to-the-celestia-ecosystem-ced8065bfa7c" rel="nofollow">Hyperlane与Celestia的合作</a>为Celestia rollups引入了即时的、无需许可的互操作性，为开发者提供了可定制的安全和资产支持，以便更容易地集成和更快地上线流动性。</li>
+<li><strong>Hyperlane扩展至Polygon zkEVM：</strong>通过无需许可的<a href="https://medium.com/hyperlane/hyperlane-expands-to-polygon-zkevm-with-permissionless-deployment-77b5ca5f9d4b" rel="nofollow">部署在Polygon zkEVM</a>上启动，Hyperlane为平台带来了先进的互操作性和资产桥接，展示了其对印度加密开发的承诺以及改善区块链生态系统连通性的决心。</li>
+<li><strong>引入Nexus：</strong>由Hyperlane和Cosmos IBC<a href="https://medium.com/hyperlane/introducing-nexus-the-interface-for-the-modular-ecosystem-powered-by-hyperlane-9e5de849cb53" rel="nofollow">提供支持</a>的Nexus为Celestia、Cosmos和EVM链之间的互操作性提供了统一的界面，便于简单地移动代币，并促进无缝的流动性接入和跨生态系统的开发。</li>
+<li><strong>Injective生态系统引入Hyperlane的inEVM桥：</strong>Hyperlane的inEVM桥为Injective生态系统<a href="https://medium.com/hyperlane/connecting-injective-hyperlane-opens-the-inevm-bridge-6f1d3edf0ff8" rel="nofollow">引入了</a>无需许可的互操作性，将其与以太坊连接起来，并为未来的扩展做好准备。此举简化了跨区块链的集成，并促进了去中心化应用的采用。</li>
+<li><strong>Hyperlane与Skip协议集成：</strong>Hyperlane和Skip协议<a href="https://medium.com/hyperlane/1-click-hyperlane-interoperability-with-skip-api-5ffd9bd0678c" rel="nofollow">联手简化跨链交易</a>，通过Skip API将Warp Routes集成到DeFi平台和钱包中。这样改善了用户体验，实现了一键交易，并拓宽了独特的链间路由的接入。</li>
+</ul>
+<h3><strong>竞品分析</strong></h3>
+<p>考虑到任意消息桥（AMBs）的基本功能，许多项目正在积极贡献于这一领域。其中一些显著的包括LayerZero、Wormhole和Axelar。</p>
+<p><strong>Axelar</strong></p>
+<p>Axelar网络提供一个安全的、去中心化的跨链消息传递平台，使得跨区块链的EVM合约集成变得顺畅。它以易用性、多链兼容性、成本效益以及由高效验证者支持的安全、可扩展架构脱颖而出。Axelar连接了EVM和Cosmos链，拥有强大的社区支持和可观的资金支持。</p>
+<p>该网络通过扎实的基础设施加强了跨链交易，既满足核心功能也支持应用开发，通过IBC协议和模块隔离确保了全面的功能性和强大的安全性。Axelar致力于通过外部验证者检查和平衡投票构建信任和安全，目标是去中心化治理。尽管增加新链存在挑战，但Axelar的方法，包括创新的投票和治理实践，旨在为跨链通信提供一个可扩展和可靠的服务。</p>
+<p><strong>LayerZero</strong></p>
+<p>LayerZero是一个为跨链通信设计的数据消息协议，能够在各种区块链之间传输轻量级消息，前提假设很少。其突出特点包括易于开发、通过链下Oracle和Relayer实现成本效益的运营，以及对dApps的广泛适用性。得到重大加密投资的支持，LayerZero吸引了主要的dApps，并支持11个链，提供了如LayerZero Scan这样的工具来跟踪交易。</p>
+<p>该协议的架构围绕用于链通信的Endpoints，利用Oracle和Relayer安全地传递消息，无需中介信任。交易效率高，只在源头需要气体，系统通过独立验证和高攻击门槛确保安全性。</p>
+<p>尽管LayerZero拥有强大的设计和安全机制，但其模型涉及到去中心化、依赖外部参与者运作以及所连接链条的固有安全性方面的挑战。</p>
+<p><strong>Wormhole</strong></p>
+<p>Wormhole充当连接至少十四个区块链（如以太坊、Solana）的桥梁，通过一个去中心化的“守护者”网络实现跨链数据和资产转移。其突出特点包括连接非EVM和EVM兼容链，由声誉良好的验证者保障，为用户提供低成本交易。</p>
+<p>该协议基于权威证明运作，验证者确保跨链消息的完整性。交易需要大多数守护者的批准才被视为有效，促进了安全且简单的跨链互动。</p>
+<p>Wormhole已经成为跨链领域中一个值得信赖的平台，得到了强大的机构合作伙伴的支持。</p>
+<p><strong>Hyperlane的独特定位</strong></p>
+<p>Hyperlane的独特定位在于它与加密生态系统的持续演变保持一致，特别是朝着模块化和无需许可的方向发展，以适应市场的动态需求。在此背景下，Hyperlane在其他消息协议难以平衡的领域取得了重大进展。</p>
+<p>然而，在这一领域内，一个协议的长久性也能极大地反映其可靠性和随时间积累的信任。在这方面，其他项目可能在某些方面超越Hyperlane。</p>
+<p>每个桥梁都有其独特的设计和验证跨链消息的方法，这意味着它们都有自己的权衡，有时可能会牺牲安全性。正如历史上过去的桥梁黑客攻击所显示的那样，即使是一个小漏洞也可能导致损失数百万美元。鉴于这些协议中的任何代码都可能包含漏洞，并且考虑到桥梁是黑客的主要目标，对开发者来说，优先进行持续审计并维持赏金计划至关重要。</p>
+<p>目前，跨链空间仍处于起步阶段，正在探索各种设计方法和共识机制，不同的协议和dApps正在实时进行试验。例如，Injective专注于Axelar，Portal Bridge正在利用Wormhole，而Stargate正在利用LayerZero。</p>
+<p>Hyperlane通过与加密生态系统的持续演变保持一致，尤其是向模块化和无需许可的方向发展，从而在适应市场动态需求方面脱颖而出。Hyperlane在其他消息协议难以平衡的领域取得了重大进展。</p>
+<p>然而，在这一领域中，一个协议的长久性也可以大量地反映其可靠性和随时间积累的信任。在这个方面，其他项目可能在某些方面超过Hyperlane。</p>
+<h3><strong>代币经济学</strong></h3>
+<p>截至目前，除了Hyperlane代币在协议的权益证明层中的作用外，没有关于Hyperlane代币的确切细节得到确认。用户可能能够质押该代币来验证链间消息，并通过为网络安全做出贡献来获得奖励。</p>
+<h3><strong>看涨基本因素</strong></h3>
+<ul>
+<li>Hyperlane的愿景是为安全开发链间应用提供安全的基础设施。这一举措得到了一个强大团队的支持，并享有强大的背书。</li>
+<li>随着加密市场最近的上涨，Injective已经成为一个领先的项目。Hyperlane实现了各种区块链平台之间的无缝互操作性，扩大了Injective的dApps和资产的影响力和效率。结合Hyperlane的众多合作伙伴以及围绕潜在空投的热议，可能会使该协议得到更广泛的采用。</li>
+<li>Hyperlane生态系统正在迅速扩张，从2024年第一季度开始，集成数量不断增加。</li>
+</ul>
+<p><strong><img alt="Hyperlane研究报告：采用模块化设计，可轻松无缝地转移资产的跨链协议" src="https://cdn-img.panewslab.com/yijian/2024/3/26/images/b1014c6ce5bc5d4b0f8ea865e9dcd22f.jpeg" style="display: block; margin-left: auto; margin-right: auto;" /></strong></p>
+<pre> 来源: HC Capital</pre>
+<h3><strong>看跌基本因素</strong></h3>
+<ul>
+<li>代币经济学细节的缺乏使得对该项目的投资分析变得复杂和困难。</li>
+<li>竞争对手的项目已经巩固了它们在市场上的存在，月交易量达到数十亿。虽然Hyperlane可能有一个强劲的开端，但它需要确立其独特的价值主张。</li>
+</ul>
+<h3><strong>结束语</strong></h3>
+<p>Hyperlane 在区块链互操作性领域中崭露头角，提出了一种既去中心化又可扩展的策略。它创新的模块化消息系统，结合无需许可的惩罚机制，为解决长期困扰其他消息协议的挑战树立了新的标准。</p>
+<p>见证Hyperlane的发展之旅以及它将启用的创新应用将是非常有趣的。</p>
+]]></content:encoded>
+<pubDate>Wed, 27 Mar 2024 10:00:42 +0800</pubDate>
+<pubDate>Wed, 27 Mar 2024 10:00:42 +0800</pubDate>
+</item>
+<item>
+<title>Base拟于明天起将目标吞吐量提高50%，下周的目标是达到至少当前目标的两倍</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/d39tb0rz.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/d39tb0rz.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Coinbase L2网络Base的开发人员计划通过提高Gas目标来增加执行吞吐量，经过基准测试后计划逐步增加目标吞吐量。同时，他们还在努力管理状态增长，提高以太坊L1数据可用性，并进一步扩展执行规模。此外，Base需求增加了5倍，为了降低费用和扩大规模，将把gas目标逐步提高至1 Ggas/s。他们的工作尚未完成，但目标是比现有的可扩展性提高400倍。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月27日消息，Coinbase L2网络Base的开发人员Roberto Bayardo在X平台发文称：“上周我写到我很有信心我们可以在没有任何问题的情况下将Base的执行吞吐量翻倍，但也指出在采取任何行动之前，我们希望获得比‘很有信心’更多的确定性，目前已有计划。我们在当前节点运营商使用的典型硬件上进行了区块链基准测试，模拟了将我们序列器的吞吐量提高到当前目标的三倍的效果。在本次基准测试中，我们从节点运营的角度评估了2倍和3倍的Gas目标增加情况，我们发现CPU使用率有所上升，但在舒适的阈值内。这些结果使我们对以下计划感到满意:从明天(当地时间3月27日)开始，我们将把目标吞吐量提高50%，并观察影响。如果一切顺利，我们下周的目标是吞吐量再增加一次，使我们至少达到今天目标的两倍。节点操作员请在此期间密切关注其节点，如果遇到任何问题请告诉我们。这只是一个积极扩展努力的开始。除了提高目标吞吐量，我们还在努力管理状态增长，提高以太坊L1数据可用性，并进一步扩展执行规模。”</p>
+<p>此外，<a href="https://twitter.com/base/status/1772767382362055097" rel="nofollow" target="_blank">Base官方</a>在X平台表示：“自从Base引入4844以来，我们看到Base需求增加了5倍，推动了费用的回升。为了降低费用和扩大规模，拟于明天把gas目标提高50%（至3.75 mgas/s），然后在观察期结束后将其提高到5 mgas/s，目标是在下周初实现。我们的目标是比现在的可扩展性提高400倍，目标是 1 Ggas/s，我们的工作尚未完成。”</p>
+]]></content:encoded>
+<pubDate>Wed, 27 Mar 2024 09:39:46 +0800</pubDate>
+<pubDate>Wed, 27 Mar 2024 09:39:46 +0800</pubDate>
+</item>
+
+<item>
 <title>慢雾：Munchables某开发者系朝鲜黑客，其在获得团队信任后发起攻击</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/iio4xa9v.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/iio4xa9v.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是消极的。慢雾创始人余弦表示，DeFi项目Munchables在Blast上被盗6250万美金，据调查是由朝鲜黑客开发者所为。这是至少第二起DeFi项目遭遇类似情况。核心开发者长期伪装潜伏，获得团队信任后突然下手，造成严重损失。余弦表示受害者可能不少，他们会密切关注此事。 <div>
+<div> <br /><br />摘要：<br />这些信息是消极的。慢雾创始人余弦表示，DeFi项目Munchables在Blast上被盗6250万美金，据调查是由朝鲜黑客开发者所为。这是至少第二起DeFi项目遭遇类似情况。核心开发者长期伪装潜伏，获得团队信任后突然下手，造成严重损失。余弦表示受害者可能不少，他们会密切关注此事。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月27日消息，慢雾创始人余弦就Munchables攻击事件在X平台表示：“Blast上的Munchables被盗6250万美金，损失真大了。按ZachXBT的调查是因为他们的一位开发者是朝鲜黑客…这是我们遇到的至少第二起DeFi类项目遭遇的这类情况了。核心开发者伪装潜伏很久，获得整个team的信任，时机一到就下手了…毫不留情。受害者恐怕不少，我们会紧密跟进。”</p>
 <p>今日早些时候消息，<a href="https://www.panewslab.com/zh/sqarticledetails/t9o35n2t.html" rel="noopener" target="_blank">ZachXBT：Web3游戏平台Munchables遭遇攻击，损失约6250万美元。</a></p>
 ]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 09:26:09 +0800</pubDate>
 <pubDate>Wed, 27 Mar 2024 09:26:09 +0800</pubDate>
 </item>
 <item>
@@ -21,11 +143,10 @@
 <link>https://www.panewslab.com/zh/sqarticledetails/6ikx37m6.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/6ikx37m6.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章提出了一种新的激励策略，即惩罚相关性，以支持更好的去中心化质押。该策略将随着验证者行为失误的数量增加而增加惩罚，以鼓励更去中心化的参与。这种技术已在以太坊惩罚机制中实施，但仍需扩展到更多平凡的失败情况，如错过证明。 Vitalik Buterin呼吁调整奖励以支持去中心化的质押。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章提出了一种新的激励策略，即惩罚相关性，以支持更好的去中心化质押。该策略将随着验证者行为失误的数量增加而增加惩罚，以鼓励更去中心化的参与。这种技术已在以太坊惩罚机制中实施，但仍需扩展到更多平凡的失败情况，如错过证明。 Vitalik Buterin呼吁调整奖励以支持去中心化的质押。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月27日消息，以太坊联合创始人Vitalik Buterin在Warpcast平台表示，“同一集群中的验证者（例如同一交易平台、同一用户）是否比无关的验证者更有可能同时错过证明？如果是这样，我们是否可以调整奖励以支持去中心化的质押？可能是的。”</p>
 <p>此外，Vitalik发布题为《通过更多的反相关激励措施来支持去中心化的质押》的文章，称在协议中激励更好的去中心化的一种策略是“惩罚相关性”。也就是说，如果一个参与者出现了行为失误（包括意外情况），他们所受到的惩罚将随着与他们同时出现行为失误的其他参与者数量（以总ETH为度量）的增加而增加。这种技术已经在以太坊的惩罚机制中得到了应用。然而，在实践中也许从未出现过的高度特殊的攻击情况中出现的边缘案例激励也许不足以激励去中心化。Vitalik提议将类似的反相关激励扩展到更多“平凡”的失败情况，例如错过一个证明，这是几乎所有验证者都至少偶尔都会犯的错误。</p>
 ]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 09:04:18 +0800</pubDate>
 <pubDate>Wed, 27 Mar 2024 09:04:18 +0800</pubDate>
 </item>
 <item>
@@ -33,7 +154,7 @@
 <link>https://www.panewslab.com/zh/articledetails/l3i73v39.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/l3i73v39.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。<br>币圈下一件大事可能会从流行的meme币开始。新兴的市场推广策略包括在流行的meme币周围建立一个社区，并在产品中整合该代币。一些项目如Telegram交易机器人、以太坊Layer 2 Shibarium和SmokeyBear使用了这种策略。这种市场推广策略对于促进用户参与和激活代币持有者社区非常有效，为项目带来更多关注，并增加代币的实用性。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。<br />币圈下一件大事可能会从流行的meme币开始。新兴的市场推广策略包括在流行的meme币周围建立一个社区，并在产品中整合该代币。一些项目如Telegram交易机器人、以太坊Layer 2 Shibarium和SmokeyBear使用了这种策略。这种市场推广策略对于促进用户参与和激活代币持有者社区非常有效，为项目带来更多关注，并增加代币的实用性。 <div>
 <p>币圈下一件大事可能会从流行的meme币开始。</p>
 <p>一种新兴的市场推广策略（GTM）是借助当下流行的meme币。虽然传统的市场推广策略包括首先建立一个产品，然后通过营销和meme来建立一个围绕它的社区，而目前这种新的玩法则是围绕一个meme确定一个充满活力的用户社区，然后构建一个包含该代币的产品。</p>
 <p>通过推出一个与流行meme币原生集成的项目，新的应用程序/基础设施可以调动meme 持有者的积极性，他们可以从他们的代币中获得更多的效用。</p>
@@ -57,18 +178,16 @@
 <p>虽然许多人认为 meme币交易是赌博或一种奇怪的金融娱乐形式，但它们日益受欢迎和激烈的社区可能意味着它们成为市场推广策略的可行组成部分。对于用户来说，新的发展是meme币作为资产，允许任何人投资并拥有市场推广策略、草根社区、互联网文化和社区货币的一部分。</p>
 ]]></content:encoded>
 <pubDate>Wed, 27 Mar 2024 09:00:30 +0800</pubDate>
-<pubDate>Wed, 27 Mar 2024 09:00:30 +0800</pubDate>
 </item>
 <item>
 <title>数据：富达FBTC昨日净流入约2.791亿美元，景顺的BTCO净流入约2670万美元</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/pd7uqfih.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/pd7uqfih.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。根据Farside Investors数据监测，3月26日富达比特币现货ETF FBTC资金流入约2.791亿美元，VanEck比特币现货ETF HODL资金流入约1580万美元，景顺的BTCO资金流入约2670万美元。另外，昨日灰度GBTC资金净流出约2.123亿美元，Bitwise的BITB资金流入约1670万美元，Ark 21Shares的ARKB资金流入约7360万美元，Franklin的EZBC资金流入约2630万美元，WisdomTree的BTCW资金流动数据计为0。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。根据Farside Investors数据监测，3月26日富达比特币现货ETF FBTC资金流入约2.791亿美元，VanEck比特币现货ETF HODL资金流入约1580万美元，景顺的BTCO资金流入约2670万美元。另外，昨日灰度GBTC资金净流出约2.123亿美元，Bitwise的BITB资金流入约1670万美元，Ark 21Shares的ARKB资金流入约7360万美元，Franklin的EZBC资金流入约2630万美元，WisdomTree的BTCW资金流动数据计为0。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月27日消息，据Farside Investors数据监测，3月26日富达比特币现货ETF FBTC资金流入约2.791亿美元，VanEck比特币现货ETF HODL资金流入约1580万美元，景顺的BTCO资金流入约2670万美元。</p>
 <p>今日早些时候消息，昨日灰度GBTC资金净流出约2.123亿美元，Bitwise的BITB资金流入约1670万美元，Ark 21Shares的ARKB资金流入约7360万美元， Franklin的EZBC资金流入约2630万美元，WisdomTree的BTCW资金流动数据计为0。暂时未有3月26日的其他ETF资金流量数据。</p>
 ]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 08:53:16 +0800</pubDate>
 <pubDate>Wed, 27 Mar 2024 08:53:16 +0800</pubDate>
 </item>
 <item>
@@ -76,10 +195,9 @@
 <link>https://www.panewslab.com/zh/sqarticledetails/19oxfcy2.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/19oxfcy2.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Coinbase副总裁Max Branzburg表示，未来计划将更多企业和客户的USDC余额存储在Base上，以降低费用和加快结算时间。这将有助于管理和保护客户资金，同时提升用户体验。Coinbase希望其他公司也能跟随他们的脚步，推动业务上链。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。Coinbase副总裁Max Branzburg表示，未来计划将更多企业和客户的USDC余额存储在Base上，以降低费用和加快结算时间。这将有助于管理和保护客户资金，同时提升用户体验。Coinbase希望其他公司也能跟随他们的脚步，推动业务上链。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月27日消息，Coinbase副总裁Max Branzburg在X平台表示：“展望未来，Coinbase将把更多的企业和客户USDC余额存储在Base上。这将使我们能够以更低的费用和更快的结算时间来管理和保障客户资金，同时不影响Coinbase的用户体验。我们很高兴继续推动我们的业务上链，并希望其他公司能够效仿我们的做法。”</p>
 ]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 08:44:20 +0800</pubDate>
 <pubDate>Wed, 27 Mar 2024 08:44:20 +0800</pubDate>
 </item>
 <item>
@@ -87,14 +205,12 @@
 <link>https://www.panewslab.com/zh/sqarticledetails/rahxju3y.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/rahxju3y.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的<br>1. Farcaster表面上推崇区块链技术，但真正将其用于用户名分配，并存储信息在CRDT中，通过以太坊实现去中心化。<br>2. Farcaster使用以太坊来存储注册信息，确保反垃圾邮件和抗女巫攻击的功能。<br>3. Farcaster旨在构建一个中立、稳健的工具，避免依赖单一实体和中心化。<br>4. 注册表在Farcaster的基础网络中扮演关键角色，确保系统的可靠性和中立性。<br>5. Farcaster的目标是实现最终一致性，并信任发送方提供的时间戳，以实现更好的扩展和效率。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的<br />1. Farcaster表面上推崇区块链技术，但真正将其用于用户名分配，并存储信息在CRDT中，通过以太坊实现去中心化。<br />2. Farcaster使用以太坊来存储注册信息，确保反垃圾邮件和抗女巫攻击的功能。<br />3. Farcaster旨在构建一个中立、稳健的工具，避免依赖单一实体和中心化。<br />4. 注册表在Farcaster的基础网络中扮演关键角色，确保系统的可靠性和中立性。<br />5. Farcaster的目标是实现最终一致性，并信任发送方提供的时间戳，以实现更好的扩展和效率。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月27日消息，Web3评论家Liron Shapira在X平台上发文称：“Farcaster（Web3社交媒体平台）表面上推崇区块链技术，但实际上只将其用于用户名分配这一环节——即无谓地重复DNS和电子邮件地址已经实现的功能，而且做得更差。除了这种不真诚的选择方式，让加密货币爱好者将其视为他们群体的一部分之外，他们正在构建的99%的技术都是非区块链的，是一个有趣的实验，旨在探究为RSS添加更多功能是否能够推动新产品的发展。”对此，以太坊联合创始人Vitalik Buterin回应称：“单独的消息（即‘广播（casts）’）被发布到Farcaster链上，这使得创建一个独立的客户端成为可能。因此，它实际上是从拥有一个不由单一组织控制的状态机中获益。”</p>
 <p>Shapira继续写道：“据我理解，Farcaster的信息存储在不使用区块链技术的中心节点中，这与许多RSS阅读器应用程序的后端功能作为‘RSS中心节点’”的方式类似。这就是为什么我认为将Farcaster吹捧为区块链的应用案例是不真诚的。”Vitalik评论称：“这值得回应；我已经让团队去确认一些信息。我之前误以为请求会存储在一个大的区块链中，就像是Filecoin的简单版本，但事实并非如此，请求是存储在CRDT中的；它们旨在在消息集上实现最终一致性，但信任发送方提供的时间戳，这样也能实现更好的扩展。farcaster使用的唯一“链”是以太坊（通过Optimism）。以太坊的用途‘不仅仅是用于用户名’，它还存储了哪些账户被允许发送由CRDT节点存储的消息的注册信息。这对于反垃圾邮件至关重要；否则，每个人都会用它来备份他们的加密硬盘、电影等。将注册表放在链上是唯一的方法，既能确保不被中央化实体控制，又能具有抗女巫攻击能力。因此，为了满足Farcaster基础网络作为一个稳健、中立的工具，且没有持续依赖单一实体的目标，注册表发挥着关键作用。（从技术上讲），你也可以用工作量证明证来做到这一点，但这会效率低下，而且在实践中，中央化实体在手机/笔记本电脑上的常规用户面前拥有太多效率优势。”</p>
 ]]></content:encoded>
 <pubDate>Wed, 27 Mar 2024 08:39:00 +0800</pubDate>
-<pubDate>Wed, 27 Mar 2024 08:39:00 +0800</pubDate>
 </item>
-
 <item>
 <title>美国CFTC在针对Kucoin的诉讼中重申以太坊为商品</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/4r372esc.html</link>
