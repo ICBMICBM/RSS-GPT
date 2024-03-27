@@ -10611,3 +10611,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [BOB, a 'Hybrid' Layer-2 Blockchain Mixing Bitcoin and Ethereum, Raises $10M](https://www.coindesk.com/business/2024/03/27/hybrid-layer-2-bob-raises-10m-to-support-evm-compatible-bitcoin-layer-2/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-27 16:09:06.010644
+------------------------------------------------------
+Started: 2024-03-27 16:29:24.011030
+Existing_entries: 248
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 96
+Summarized using GPT-3.5-turbo-1106
+Append: [U.S Has its Eleventh Spot Bitcoin ETF After Hashdex Fund Conversion](https://www.coindesk.com/business/2024/03/27/us-has-its-eleventh-spot-bitcoin-etf-after-hashdex-fund-conversion/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 25
+Summarized using GPT-3.5-turbo-1106
+Append: [The Benefits of Assets Tokenization](https://www.coindesk.com/markets/2024/03/27/the-benefits-of-assets-tokenization/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 18
+Summarized using GPT-3.5-turbo-1106
+Append: [UK Ad Rules Apply to Influencers, Crypto Memes, Regulator Confirms in New Guidance](https://www.coindesk.com/policy/2024/03/27/uk-ad-rules-apply-to-influencers-crypto-memes-regulator-confirms-in-new-guidance/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 3
+Finish: 2024-03-27 16:29:34.440525
