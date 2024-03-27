@@ -13426,3 +13426,15 @@ Existing_entries: 1000
 Fetching from https://www.chainfeeds.xyz/rss
 append_entries: 0
 Finish: 2024-03-27 06:28:48.714108
+------------------------------------------------------
+Started: 2024-03-27 06:36:19.053382
+Existing_entries: 1000
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 1056
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文】对话 Arweave 创始人和 EverVision 创始人：AO 的缘起、演进及未来愿景](https://medium.com/@permadao/ao-的未来-无限可扩展的应用共识交互系统-arweave-创始人-sam-evervision-创始人outprog-对谈实录-59f2edc35b13)
+Token length: 1018
+Summarized using GPT-3.5-turbo-1106
+Append: [链抽象：多链时代下的三棱镜](https://substack.chainfeeds.xyz/p/2d2)
+append_entries: 2
+Finish: 2024-03-27 06:36:29.158491
