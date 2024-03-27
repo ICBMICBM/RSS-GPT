@@ -10755,3 +10755,15 @@ Existing_entries: 258
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-27 19:20:17.325851
+------------------------------------------------------
+Started: 2024-03-27 19:27:44.878724
+Existing_entries: 258
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 23
+Summarized using GPT-3.5-turbo-1106
+Append: [The Protocol: Meme Coins (and Pepe's Best Friend) Swarm Coinbase Layer 2 Chain](https://www.coindesk.com/tech/2024/03/27/the-protocol-meme-coins-and-pepes-best-friend-swarm-coinbase-layer-2-chain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 101
+Summarized using GPT-3.5-turbo-1106
+Append: [Crypto Stocks Like MicroStrategy, Coinbase Could Shoot Up if Short Sellers Exit](https://www.coindesk.com/business/2024/03/27/crypto-stocks-like-microstrategy-coinbase-could-shoot-up-if-short-sellers-exit/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 2
+Finish: 2024-03-27 19:27:52.458637
