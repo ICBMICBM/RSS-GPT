@@ -10530,3 +10530,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [KuCoin Withdrawals Spike to $1B in Crypto Amid U.S. Regulatory Clampdown](https://www.coindesk.com/markets/2024/03/27/kucoin-withdrawals-spike-to-1b-in-crypto-amid-us-regulatory-clampdown/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-27 14:14:53.967009
+------------------------------------------------------
+Started: 2024-03-27 14:27:13.417640
+Existing_entries: 245
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 105
+Summarized using GPT-3.5-turbo-1106
+Append: [Coinbase Loses Most of Motion to Dismiss SEC Lawsuit](https://www.coindesk.com/policy/2024/03/27/coinbase-loses-most-of-motion-to-dismiss-sec-lawsuit/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-27 14:27:15.312930
