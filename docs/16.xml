@@ -5,17 +5,48 @@
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
 <item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round </guid>
+<title>【英文】为何选择将资产质押在 Eigenlayer 上？</title>
+<link>https://twitter.com/onures_/status/1772616340328620447?s=61&amp;t=PoViwotNKtjfvoI1qsQ20Q</link>
+<guid>https://twitter.com/onures_/status/1772616340328620447?s=61&amp;t=PoViwotNKtjfvoI1qsQ20Q</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Polyhedra Network以10亿美元估值完成了2000万美元的战略融资，由Polychain Capital领投，其他公司也参与了投资。他们将资金用于招聘新人扩大团队规模，以推动产品、工程、业务开发和营销等跨职能部门的发展。这表明市场对zkBridge互操作协议的潜力和未来发展持乐观态度。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+<div> <br><br>摘要：<br>这些信息是积极的。<br>1. Eigenlayer 提供了以太坊的去中心化信任，解决了基础设施项目的重大问题。<br>2. 以太坊验证者选择在Eigenlayer上质押资产，因为可以获得收益，并且质押资产必须是ETH。<br>3. 使用Eigenlayer能够带来创新和速度、成本效率以及可扩展性的优势。<br>4. 以太坊验证者能够验证其他基础设施协议，为协议提供经济安全性。<br>5. ETH质押者愿意将资本暴露给额外的罚没条件，是为了获得更多的收益。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Eigenlayer 为基础设施项目提供了以太坊的去中心化信任。Opensea 数据分析师 Onur Sucu 深入探讨了为何以太坊验证者会选择将资产质押在 Eigenlayer 上，以及为何质押的资产必须是 ETH。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/onures_/status/1772616340328620447?s=61&amp;t=PoViwotNKtjfvoI1qsQ20Q">https://twitter.com/onures_/status/1772616340328620447?s=61&amp;t=PoViwotNKtjfvoI1qsQ20Q</a></p>
+<p><strong>文章作者：</strong></p><p>Onur Sucu</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Onur Sucu：</strong>Eigenlayer 解决了去中心化基础设施的一个重大问题，就像以太坊解决了去中心化应用程序的一个重大问题一样。但是你可能会问：「为什么协议要借用以太坊的安全性并支付租金，而不是找到自己的质押者？」首先，让我们举一个来自 Web2 的例子。在 Web2 中，几乎所有的科技公司都选择 AWS 或其他云服务提供商，而不是建立自己的本地服务器。他们不断地向 AWS 支付租金。为什么呢？
+
+创新和速度：在云上部署速度更快，加速产品开发。成本效率：云将大量的前期成本转化为可预测的运营支出。可扩展性：云服务可以轻松地根据需求调整，避免资源浪费。这些也适用于 Web3 协议。
+
+创新和速度：协议可以专注于他们的核心产品，而不是花费大量时间试图吸引质押者作为他们协议的验证者。他们可以去 Eigenlayer 找到验证者。成本效率：ETH 质押的年收益率约为～3%，ETH 是一种相对稳定的资产，具有良好的价值储存属性。对于任何人来说，持有另一种加密资产并长期质押它，它的年收益率需要比 ETH 高得多。此外，人们不希望持有在熊市中可能损失 99% 价值的加密资产。可扩展性：随着协议的发展，它所需的经济安全性也会增长。协议可以轻松调整支付以吸引更多的经济安全性。因此，对于协议来说，Eigenlayer 是一种高效简便的方式来找到一个去中心化的验证者集。
+
+在当前状态下，在以太坊上构建的应用程序利用了以太坊的安全性。但是在以太坊之外运行的基础设施项目无法使用以太坊的安全性；他们需要创建自己的去中心化网络来启动他们的协议。以太坊拥有约 100 万个验证者，提供了超过 3100 万 ETH（价值 1000 亿美元）的经济安全性。Eigenlayer 使得以太坊验证者集能够验证其他基础设施协议。这对于协议很有帮助，因为在启动过程中，他们不再需要考虑如何 / 从哪里找到质押者。
+
+协议希望使用以太坊的加密经济安全性。但是为什么 ETH 质押者要承担额外风险，将他们的资本暴露给额外的罚没条件？答案是收益。通过保护其他协议（AVSs），验证者可以获得更多收益，除了本地 ETH 质押的收益。【原文为英文】</p><a href="https://twitter.com/onures_/status/1772616340328620447?s=61&amp;t=PoViwotNKtjfvoI1qsQ20Q">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+<pubDate>2024-03-27T04:03:43+00:00</pubDate>
+</item>
+<item>
+<title>慢雾创始人余弦：Blast 生态游戏项目 Munchables 被盗 6250 万美金</title>
+<link>https://twitter.com/evilcos/status/1772790252140470627</link>
+<guid>https://twitter.com/evilcos/status/1772790252140470627</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是消极的。<br>一家名为Blast的DeFi项目Munchables被盗6250万美元，调查显示是因为他们的一位开发者是朝鲜黑客。据ZachXBT调查，这是至少第二起DeFi项目遭遇的类似情况，核心开发者伪装潜伏获得团队信任后下手。受害者众多，需要密切跟进。 <div>
+<p>Blast 上的协议 Munchables 被盗 6250 万美金，ZachXBT 调查显示原因是他们的一位开发者是朝鲜黑客。「这是我们遇到的至少第二起 DeFi 类项目遭遇的这类情况了。核心开发者伪装潜伏很久，获得整个 team 的信任，时机一到就下手了… 毫不留情。受害者恐怕不少，我们会紧密跟进。」</p><p><a href="https://twitter.com/evilcos/status/1772790252140470627">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-27T03:37:15+00:00</pubDate>
 </item>
 
+<item>
+<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
+<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
+<content:encoded><![CDATA[
+<div> <br /><br />摘要：<br />这些信息是积极的。Polyhedra Network以10亿美元估值完成了2000万美元的战略融资，由Polychain Capital领投，其他公司也参与了投资。他们将资金用于招聘新人扩大团队规模，以推动产品、工程、业务开发和营销等跨职能部门的发展。这表明市场对zkBridge互操作协议的潜力和未来发展持乐观态度。 <div>
+<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+<pubDate>2024-03-14T12:50:10+00:00</pubDate>
+</item>
 <item>
 <title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
 <link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
@@ -10952,16 +10983,6 @@ Morph 是一种完全无需许可的 EVM L2，它结合了 optimistic 和 zk rol
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />这些信息是积极的。Polyhedra Network以10亿美元估值完成了2000万美元战略融资，由Polychain Capital领投，其他投资者包括Animoca Brands、Hashkey Capital等。他们将用这笔资金扩大团队规模，招募产品、工程、业务开发和营销人员，将团队从50人扩大到80人。该项目的融资采用未来代币或SAFT的简单协议进行。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。开发商Polyhedra Network以10亿美元估值完成2000万美元战略融资，由Polychain Capital领投，其他投资者包括Animoca Brands、Hashkey Capital等。资金将用于招聘跨职能部门，将团队规模扩大到约80人。这是通过未来代币或SAFT的简单协议进行的第五轮融资。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>

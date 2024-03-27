@@ -13345,3 +13345,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投](https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round )
 append_entries: 1
 Finish: 2024-03-27 04:28:15.224516
+------------------------------------------------------
+Started: 2024-03-27 04:37:33.879641
+Existing_entries: 1001
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 1056
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文】为何选择将资产质押在 Eigenlayer 上？](https://twitter.com/onures_/status/1772616340328620447?s=61&t=PoViwotNKtjfvoI1qsQ20Q)
+Token length: 152
+Summarized using GPT-3.5-turbo-1106
+Append: [慢雾创始人余弦：Blast 生态游戏项目 Munchables 被盗 6250 万美金](https://twitter.com/evilcos/status/1772790252140470627)
+append_entries: 2
+Finish: 2024-03-27 04:37:42.625400
