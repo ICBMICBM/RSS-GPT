@@ -10713,3 +10713,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Dutch Prosecutors Seek 64-Month Jail Sentence for Tornado Cash Dev Alexey Pertsev](https://www.coindesk.com/policy/2024/03/27/dutch-prosecutors-seek-64-month-jail-sentence-for-tornado-cash-dev-alexey-pertsev/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-27 18:17:51.507686
+------------------------------------------------------
+Started: 2024-03-27 18:29:46.517173
+Existing_entries: 258
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-03-27 18:29:47.277593
