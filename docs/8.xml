@@ -4,6 +4,40 @@
 <title>NewsBTC</title>
 <link>https://www.newsbtc.com/</link>
 
+<item>
+<title>Bitcoin “Liquid Inventory Ratio” Hits All-Time Low, What It Means</title>
+<link>https://www.newsbtc.com/bitcoin-news/bitcoin-liquid-inventory-ratio-all-time-low/</link>
+<guid>https://www.newsbtc.com/bitcoin-news/bitcoin-liquid-inventory-ratio-all-time-low/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：这些信息是积极的。文章指出比特币的“流动库存比率”已经降至历史新低。随着交易所储备的枯竭和新玩家如ETF进入市场，比特币需求激增，导致卖方流动性持续下降。这导致Liquid Inventory Ratio下降至历史新低，表明卖方流动性相对需求非常低。比特币价格已经超过70000美元，供应持续紧缩，未来的动向备受关注。 <div>
+<p>On-chain data shows the Bitcoin &#8220;Liquid Inventory Ratio&#8221; has dropped to an all-time low. Here&#8217;s what this could mean for the asset.</p>
+<h2>Bitcoin Sell Side Liquidity Is Low Relative To Demand Right Now</h2>
+<p>In a post on X, CryptoQuant founder and CEO Ki Young Ju discussed the recent trend in the Liquid Inventory Ratio for Bitcoin. The Liquid Inventory Ratio is an on-chain indicator that tells us about how the total sell-side liquidity inventory of the asset compares against its demand.</p>
+
+<p>The sell-side liquidity inventory of the asset is gauged using four factors: the total exchange reserve, miner holdings, OTC desk holdings, and US government-seized BTC.</p>
+<p>Out of these, the <a href="https://www.newsbtc.com/bitcoin-news/bitcoin-exchange-reserve-shoots-pain-not-over/" rel="noopener " target="_blank">exchange reserve</a> (that is, the total amount sitting in the wallets of centralized exchanges) is the largest potential source of sell-side liquidity.</p>
+<p>The chart on the right below shows how the sell-side liquidity inventory of the coin has changed over the last few years:</p>
+<p><img alt="Bitcoin Sell-Side Liquidity" class="alignnone aligncenter" height="924" src="https://pbs.twimg.com/media/GJp_qGdaIAAo130?format=jpg&amp;name=4096x4096" width="2064" /></p>
+
+<p>From the graph, it&#8217;s visible that the sell-side liquidity of the cryptocurrency has been heading down for a while now. This decline is mostly driven by the depletion of exchange reserves, as investors have been continuously pushing towards self-custody, possibly preferring to hold onto their Bitcoin for extended periods.</p>
+<p>The chart on the left displays the trend in the total demand for the asset. Here, the demand is measured using the 30-day balance changes of &#8220;<a href="https://bitcoinist.com/bitcoin-bullish-signal-inflows-hodler-wallets-ath/" rel="noopener nofollow" target="_blank">accumulation addresses</a>.&#8221;</p>
+<p>The accumulation addresses are those that have a history of only buying BTC and no history of selling. Exchanges and miner entities are excluded from this cohort, of course, as they count under the sell-side liquidity instead, regardless of whether they satisfy the condition for accumulation addresses or not.</p>
+<p>Clearly, the demand for Bitcoin has exploded recently as new players like <a href="https://www.newsbtc.com/news/litecoin/litecoin-etf-rumors-fuel-10-surge/" rel="noopener " target="_blank">exchange-traded funds</a> (ETFs) have entered into the arena. All this BTC is potentially going out of circulation and being locked into the wallets known for hosting a one-way traffic.</p>
+<p>Given these two developments in the sell-side liquidity inventory and demand, it&#8217;s not surprising to see that the Liquid Inventory Ratio, which measures the ratio between the two, has plunged recently.</p>
+<p><img alt="Bitcoin Liquid Inventory Ratio" class="alignnone aligncenter" height="1026" src="https://pbs.twimg.com/media/GJp9Lz-b0AAkRci?format=jpg&amp;name=large" width="1472" /></p>
+
+<p>Following the latest decline in the indicator, its value has, in fact, dropped to a new all-time low. This means that the sell-side liquidity has never been this low when compared to the demand for Bitcoin.</p>
+
+
+
+<p>Given this trend, it will be interesting to see how the BTC <a href="https://www.newsbtc.com/bitcoin-news/bitcoin-next-leg-higher-has-started-says-analyst/" rel="noopener " target="_blank">rally</a> plays out from here, as the supply available to buy is only continuing to tighten.</p>
+<h2>BTC Price</h2>
+<p>Bitcoin had seen some drawdown earlier, but bullish winds have seemingly returned for the coin as its price has now recovered back above $70,200.</p>
+<p><img alt="Bitcoin Price Chart" class="alignnone size-medium aligncenter" height="854" src="https://www.tradingview.com/x/p7z7EA8p/" width="1534" /></p>
+]]></content:encoded>
+<pubDate>Wed, 27 Mar 2024 18:30:26 +0000</pubDate>
+<pubDate>Wed, 27 Mar 2024 18:30:26 +0000</pubDate>
+</item>
 
 <item>
 <title>Here’s Why The Cardano Price Is Struggling Below $0.7</title>
