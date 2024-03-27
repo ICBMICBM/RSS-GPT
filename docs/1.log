@@ -11887,3 +11887,18 @@ Existing_entries: 557
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-27 05:42:32.788918
+------------------------------------------------------
+Started: 2024-03-27 05:50:10.182587
+Existing_entries: 557
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 152
+Summarized using GPT-3.5-turbo-1106
+Append: [Munchables：共享私钥是为了协助安全人员追回用户资金](https://www.panewslab.com/zh/sqarticledetails/x9i2qw4o.html)
+Token length: 669
+Summarized using GPT-3.5-turbo-1106
+Append: [FTX请求法院驳回投资者对“山姆币”的索赔，包括MAPS、OXY、SERUM和BOBA](https://www.panewslab.com/zh/sqarticledetails/3m60ng7w.html)
+Token length: 73
+Summarized using GPT-3.5-turbo-1106
+Append: [Munchables攻击者已转移所有被黑的ETH](https://www.panewslab.com/zh/sqarticledetails/jd26ms39.html)
+append_entries: 3
+Finish: 2024-03-27 05:50:24.143969
