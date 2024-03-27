@@ -11734,3 +11734,12 @@ Existing_entries: 540
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-27 02:47:48.643512
+------------------------------------------------------
+Started: 2024-03-27 02:55:10.624228
+Existing_entries: 540
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 112
+Summarized using GPT-3.5-turbo-1106
+Append: [消息人士：KuCoin曾于2023年考虑停止业务或出售该交易所](https://www.panewslab.com/zh/sqarticledetails/15j5z8gn.html)
+append_entries: 1
+Finish: 2024-03-27 02:55:17.094153
