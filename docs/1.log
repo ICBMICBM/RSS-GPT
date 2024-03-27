@@ -12058,3 +12058,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [a16z crypto披露参与其加密创业加速器2024年春季班的25个项目](https://www.panewslab.com/zh/sqarticledetails/e1he2f0z.html)
 append_entries: 1
 Finish: 2024-03-27 08:54:22.780976
+------------------------------------------------------
+Started: 2024-03-27 09:08:40.558485
+Existing_entries: 574
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [60+项目、7大赛道，一文解构AI+Crypto全景图](https://www.panewslab.com/zh/articledetails/6ia8uziu.html)
+append_entries: 1
+Finish: 2024-03-27 09:08:44.175776
