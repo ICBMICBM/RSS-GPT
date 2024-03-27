@@ -12193,3 +12193,15 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [60+项目、7大赛道，一文解构AI+Crypto全景图](https://www.panewslab.com/zh/articledetails/6ia8uziu.html)
 append_entries: 1
 Finish: 2024-03-27 10:44:08.764819
+------------------------------------------------------
+Started: 2024-03-27 10:51:37.196337
+Existing_entries: 586
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 93
+Summarized using GPT-3.5-turbo-1106
+Append: [KuCoin的以太坊和EVM链上的资金流出增至17.8亿美元](https://www.panewslab.com/zh/sqarticledetails/gh7jgjvr.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [60+项目、7大赛道，一文解构AI+Crypto全景图](https://www.panewslab.com/zh/articledetails/6ia8uziu.html)
+append_entries: 2
+Finish: 2024-03-27 10:51:41.369997
