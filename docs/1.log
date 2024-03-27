@@ -12154,3 +12154,18 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [60+项目、7大赛道，一文解构AI+Crypto全景图](https://www.panewslab.com/zh/articledetails/6ia8uziu.html)
 append_entries: 3
 Finish: 2024-03-27 10:16:21.091147
+------------------------------------------------------
+Started: 2024-03-27 10:29:29.297901
+Existing_entries: 582
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 125
+Summarized using GPT-3.5-turbo-1106
+Append: [知情人士：SingularityNET、Fetch.ai和Ocean Protocol正在讨论合并为一个名为ASI的代币](https://www.panewslab.com/zh/sqarticledetails/dj12nhk5.html)
+Token length: 332
+Summarized using GPT-3.5-turbo-1106
+Append: [Flare最新论文介绍基于区块链的AI解决方案“Consensus Learning”](https://www.panewslab.com/zh/articledetails/b1hwwl2b.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [60+项目、7大赛道，一文解构AI+Crypto全景图](https://www.panewslab.com/zh/articledetails/6ia8uziu.html)
+append_entries: 3
+Finish: 2024-03-27 10:29:41.695436
