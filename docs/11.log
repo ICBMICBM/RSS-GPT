@@ -10467,3 +10467,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Crypto Chip Company Katena Wins Lawsuit Filed by Bitcoin Miner Coinmint](https://www.coindesk.com/policy/2024/03/27/crypto-chip-company-katena-wins-lawsuit-filed-by-bitcoin-miner-coinmint/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-27 12:44:56.888934
+------------------------------------------------------
+Started: 2024-03-27 12:56:41.920554
+Existing_entries: 242
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-03-27 12:56:42.380206
