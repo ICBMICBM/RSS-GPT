@@ -10602,3 +10602,12 @@ Existing_entries: 247
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-27 15:53:54.231509
+------------------------------------------------------
+Started: 2024-03-27 16:08:59.327583
+Existing_entries: 247
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 14
+Summarized using GPT-3.5-turbo-1106
+Append: [BOB, a 'Hybrid' Layer-2 Blockchain Mixing Bitcoin and Ethereum, Raises $10M](https://www.coindesk.com/business/2024/03/27/hybrid-layer-2-bob-raises-10m-to-support-evm-compatible-bitcoin-layer-2/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-27 16:09:06.010644
