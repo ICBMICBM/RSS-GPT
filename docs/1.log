@@ -12418,3 +12418,15 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [60+项目、7大赛道，一文解构AI+Crypto全景图](https://www.panewslab.com/zh/articledetails/6ia8uziu.html)
 append_entries: 1
 Finish: 2024-03-27 14:27:08.260076
+------------------------------------------------------
+Started: 2024-03-27 14:34:46.365121
+Existing_entries: 598
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 206
+Summarized using GPT-3.5-turbo-1106
+Append: [去中心化云基础设施提供商Hive完成1300万美元A轮融资，SC Ventures领投](https://www.panewslab.com/zh/sqarticledetails/jupv4uyg.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [60+项目、7大赛道，一文解构AI+Crypto全景图](https://www.panewslab.com/zh/articledetails/6ia8uziu.html)
+append_entries: 2
+Finish: 2024-03-27 14:34:54.913265

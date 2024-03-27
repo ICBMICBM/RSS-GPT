@@ -10539,3 +10539,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Coinbase Loses Most of Motion to Dismiss SEC Lawsuit](https://www.coindesk.com/policy/2024/03/27/coinbase-loses-most-of-motion-to-dismiss-sec-lawsuit/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-27 14:27:15.312930
+------------------------------------------------------
+Started: 2024-03-27 14:35:00.041197
+Existing_entries: 246
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-03-27 14:35:00.628388
