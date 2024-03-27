@@ -10179,3 +10179,12 @@ Existing_entries: 148
 Fetching from https://bitcoinist.com/feed
 append_entries: 0
 Finish: 2024-03-27 12:22:46.866323
+------------------------------------------------------
+Started: 2024-03-27 12:44:57.213846
+Existing_entries: 148
+Fetching from https://bitcoinist.com/feed
+Token length: 3458
+Summarized using GPT-3.5-turbo-1106
+Append: [Will Hong Kong’s Bitcoin ETFs Outshine US Peers? Experts Weigh In](https://bitcoinist.com/will-hong-kongs-bitcoin-etfs-outshine-us-peers/)
+append_entries: 1
+Finish: 2024-03-27 12:45:02.505616
