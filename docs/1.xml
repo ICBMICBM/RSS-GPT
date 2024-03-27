@@ -5,11 +5,69 @@
 <link>https://rss.panewslab.com/</link>
 
 <item>
+<title>预计今晚美股开盘后ETF托管地址将净流入约6018枚比特币</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/rvnro4s7.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/rvnro4s7.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。根据链上分析师余烬的推文，十支比特币现货ETF在3月26日净流入资金达4.1798亿美元，预计在3月27日美股开盘后将净流入约6,018比特币。灰度（GBTC）出现净流出约3,058比特币，而其他九支ETF共净流入约9,076比特币，其中以富达（FBTC）和贝莱德（IBIT）为主，合计流入6,354比特币。目前，十支BTC现货ETF总持有约825,040比特币。贝莱德（IBIT）的比特币持仓量与灰度（GBTC）相差不到10万枚，预计贝莱德的持仓量可能在半个月后超过灰度。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月27日消息，链上分析师余烬发推文称，十支比特币现货ETF 3月26日净流入资金为4.1798亿美元，预计3月27日美股开盘后ETF托管地址将净流入约6,018比特币。其中，灰度（GBTC）出现约3,058比特币的净流出，而其余九支ETF共净流入约9,076比特币，以富达（FBTC）和贝莱德（IBIT）为主，这两家合计流入6,354比特币。目前，十支BTC现货ETF共持有约825,040比特币。贝莱德（IBIT）的比特币持仓量与灰度（GBTC）相差已不到10万枚，按照当前趋势，贝莱德的持仓量可能在半个月后超过灰度。</p>
+]]></content:encoded>
+<pubDate>Wed, 27 Mar 2024 17:51:39 +0800</pubDate>
+<pubDate>Wed, 27 Mar 2024 17:51:39 +0800</pubDate>
+</item>
+<item>
+<title>社区奖励和空投预期并行，基于Solana的Perp DEX Zeta Markets为何值得关注</title>
+<link>https://www.panewslab.com/zh/articledetails/r5vvdhle.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/r5vvdhle.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>随着加密牛市的回归，去中心化衍生品赛道迎来复苏，Zeta Markets在Solana生态上脱颖而出。采用完全链上中央限价订单簿技术，提升交易效率和安全性，将推出Zeta L2，实现DeFi 2层。交易量持续增长，推出奖励计划和$Z代币空投，未来计划引入借贷市场和多抵押品支持。随着衍生品DEX发展，Zeta在市场结构中占据一席之地，未来发展前景广阔。 <div>
+<p>作者：Weilin，PANews</p>
+<p>随着加密牛市的回归，被市场广泛看好的去中心化衍生品赛道也迎来了复苏。据DefiLlama数据，3月25日，链上衍生品TVL（总锁仓量）为32.8亿美元，超过2021年12月时30亿美元的高点，达到历史新高，相比于2月25日的23.24亿美元，月涨幅达41%。截至3月25日，衍生品TVL的24小时交易量为3731万美元。</p>
+<p>市场去中心化衍生品交易活动的火热背后，既有过去两年基础设施进步的功劳，也有DeFi 衍生品协议不断迭代推陈出新的成果。</p>
+<p><img alt="社区奖励和空投预期并行，基于Solana的Perp DEX Zeta Markets为何值得关注" height="448" src="https://cdn-img.panewslab.com/panews/2024/03/27/images/A80q2r0rye.png" width="800" /></p>
+<p>众多增长迅速的去中心化衍生品协议，Zeta Markets就是其中一员。近期这个Solana生态上采用了完全链上中央限价订单簿(Clob)技术的永续合约DEX ，吸引了不少用户的关注。Zeta Markets在上一轮牛市中就表现突出，在2021年获得Solana全球黑客松大奖，从13000支队伍中脱颖而出。同年，Zeta Markets宣布完成由Jump Crypto、Solana Ventures等知名机构参与的850万美元的战略轮融资。</p>
+<p>截至2024年3月，Zeta Markets 的交易量已超过34亿美元，为超过71,600链上月活跃用户提供服务，这些数字仍在持续增长。目前，Zeta Markets已推出多项奖励计划，包括Z-Score积分制和做市商奖励计划，$Z代币也即将发布和进行用户空投。</p>
+<p><img alt="社区奖励和空投预期并行，基于Solana的Perp DEX Zeta Markets为何值得关注" height="517" src="https://cdn-img.panewslab.com/panews/2024/03/27/images/NpW0u156du.png" width="800" /></p>
+<h3>解锁DEX潜力的完全链上Clob </h3>
+<div>DEX（去中心化交易所）的一大特点是大多数无需KYC、无需注册登录，即用即走提供交易兑换服务。Zeta作为一个非托管平台运营，确保用户在与平台交互时始终对其资产拥有完全控制权。其完全基于链上的订单簿提升了透明度，使每笔交易都可见，并永久记录在Solana上。Zeta Markets最初的重点是期权，这在传统金融圈中相对复杂且成熟的金融产品，但在加密市场尚未深入发展。一年多前，Zeta转变了方向，专注于像永续期货这样的产品。</div>
+<div> </div>
+<div>永续合约(Perp)是加密货币中市场契合度（PMF）最高的衍生产品，与其他链一样，Solana拥有众多的 Perp协议。其中，Jupiter采用点对池模式，资金利用率相对较低，可交易资产受到限制。Mango使用的是去中心化订单簿，但自从2022年的黑客攻击事件以来，受到一定程度的负面影响。Drift采用了vAMM和RFQ机制，其效率相对较低，流动性提供者(LP)在AMM中可能会面临亏损风险。同时，由于RFQ拍卖，交易的执行速度较慢，由于高AMM滑点，与订单簿相比，其¬定价也相对较差。Zeta Marekts则是采用了完全链上中央限价订单簿(Clob)。  </div>
+<div> </div>
+<div>完全链上Clob 是一个相对较新的概念。在完全链上Clob中，订单簿是去中心化的并在区块链上维护。没有中央方匹配订单或结算交易。相反，参与者直接与区块链交互并将他们的订单提交到分散的订单簿。交易是根据预定义的规则通过智能合约执行的。所有匹配引擎逻辑都在链上运行，并由验证节点网络执行。在这方面，目前在同类别产品中，只有dYdX V4也采用了类似的技术，市面上其他的永续合约DEX目前大都使用的是中心化订单簿。</div>
+<div> </div>
+<div>除了采用完全链上Clob技术，Zeta还具有快速、低延迟、事件驱动的架构。其后端会在订单簿价格到达网络后几毫秒内（区块内）将其传输到前端，使前端感觉像CEX一样快速。凭借保证金风险引擎，Zeta实现了优异的资本效率。使用户可以使用相同的共享抵押品在所有永续市场上进行最高20倍杠杆交易。</div>
+<div> </div>
+<div>在安全性上，Zeta也一直保持着不错的记录。Zeta具备高级的交易所安全机制，如保险基金、全球持仓量和提现速率限制，以防止恶意攻击。在运营的三年中，Zeta 没有发生过智能合约漏洞事件。</div>
+<div> </div>
+<div>
+<h3>争当Solana首个DeFi 2层</h3>
+<p>Zeta Markets由熟悉交易和软件开发领域的专业人士创立，Tristan Frizza担任CEO，他是前机器学习(ML)科学家和机电一体化工程师，拥有计算机科学背景。其他主要技术团队成员来自于传统金融高频交易对冲基金，在金融产品交易领域有着丰富的经验。</p>
+<p>在历史上，DeFi Summer中，以太坊上的DeFi 应用因往往存在使用缓慢、笨拙且昂贵的问题而受到发展限制。然而，基于Solana链，Zeta则不会让用户感到在享受 DeFi 的安全性和透明性时需要做出妥协。凭借Solana 的低Gas费用和动态Gas费用选择算法，Zeta确保用户的订单在极低费用的情况下得以执行。</p>
+<p>Zeta于近日发布项目路线图，透露将在今年三季度推出Zeta L2，即在Solana上 的首个DeFi二层，规避目前Solana部分区块空间的拥堵问题。Zeta L2将赋能去中心化交易所（DEXs），使其产品体验能直接与中心化交易所（CEXs）相竞争。基于Zeta L2上的DEX预计每秒可匹配10万个订单，下单延迟小于100毫秒，并且做市商可以以0 gas费的方式提供流动性。通过在Solana上构建以获得安全性和数据可用性（Data Availability），Zeta L2将能够实现比现有以太坊rollup更快的桥接时间和更低的数据可用性(DA)成本。”</p>
+<p><img alt="社区奖励和空投预期并行，基于Solana的Perp DEX Zeta Markets为何值得关注" height="520" src="https://cdn-img.panewslab.com/panews/2024/03/27/images/4r5nk044e0.png" width="800" /></p>
+<p>随着加密牛市的到来，Zeta的交易量实现显著增长。自Z-Score去年年末推出以来，月活跃用户增长了24倍，截至目前，Zeta链上月活跃用户为71,600。截至3月时，Zeta的总交易量达到了34亿美元，累计交易量为340万笔。日交易量历史最高值达到7200万美元以上，此外，持仓量(OI)达到2400万美元。</p>
+<h3>奖励计划进行中 $Z空投即将展开</h3>
+<p>目前，Zeta项目已经启动了多项社区关注的奖励计划，并准备进行$Z代币的空投。邀请系统也于近日上线。这些计划主要包含以下几个部分：</p>
+<h4>Z-Score（Zeta的积分系统）</h4>
+<p>Z-Score是Zeta的积分系统，旨在奖励 Zeta忠实用户，作为未来项目治理代币$Z空投的资格凭证。用户可以通过在 Zeta 上交易来赚取积分。此外，参加活动获取额外奖励，或者激活 Zeta NFT 卡片，都有助于提升积分。参与 Z-Score 第一季和第二季（目前正在进行中）的用户，将有资格获得 $Z 代币空投，以表彰他们对 Zeta协议的重要贡献。即使在 $Z 代币上线后，Z-Score 也将成为用户的永久功能，交易者可以在代币上线后，通过交易参与获得周期性的平台奖励。</p>
+<h4>$Z代币</h4>
+<p>$Z是 Zeta Markets的治理代币。即将进行的$Z代币的发布和空投，将标志着Zeta向以社区驱动的去中心化协议转变，直接与用户和 Zeta 生态系统中的所有活跃参与者共享价值。$Z的空投将分两个阶段进行。第一个阶段将奖励过去参与 Zeta 协议和更广泛的 Solana 生态系统的用户；第二个阶段专门针对 $Z 质押者。</p>
+<h4>做市商激励计划</h4>
+<p>Zeta 允许通过SDK/CPI程序将其智能合约与程序进行连接，适用于做市商和其他整合。“做市商激励计划”旨在奖励在 Zeta 上提供深度、紧密和可靠流动性的做市商。该计划于 2024年3月4日正式启动，将分配 2.7% 的即将发布的 $Z 代币用于激励获得白名单的做市商。战略性的分配将在活动内展开，考虑因素包括价差、深度、正常运行时间和每个市场的交易量。通过费用回扣的战略分配来分配收入份额，这种定制化的方法为流动性启动了强大的飞轮，促进了交易量的增长，并增强了做市商和吃单方的永续交易体验，也可以刺激良性竞争。</p>
+<p>除了以上激励机制之外，从3月20日开始，Zeta用户可以通过邀请朋友在平台上交易，获得推荐奖励，赚取受邀者所产生的交易费的10%，以及受邀者Z-Score的10%，同时受邀者也可获得永久的10% Z-Score提升。目前，Zeta Markets的V2已经上线。在未来，Zeta将推出V3，引入 Zeta-Lend、(借贷市场)和收益产品，以及多抵押品支持（即 SOL、xSOL 作为抵押品）。</p>
+<p>在DeFi Summer 和FTX暴雷之后，衍生品DEX得到了催化，高速发展。而从市场结构来看，由于中心化交易所(CEX)的便捷性和流动性，衍生品交易目前仍被CEX垄断。据The Block数据，2月，DEX期货交易量比CEX期货交易量的比率仅为0.92%。这意味着留给Zeta等去中心化衍生品平台的发展还有广泛的空间，Zeta的代币上线和未来的计划同样值得期待。</p>
+</div>
+]]></content:encoded>
+<pubDate>Wed, 27 Mar 2024 17:43:46 +0800</pubDate>
+<pubDate>Wed, 27 Mar 2024 17:43:46 +0800</pubDate>
+</item>
+
+<item>
 <title>B²牵手Babylon：BTC模块化DA与安全质押收益的新组合？</title>
 <link>https://www.panewslab.com/zh/articledetails/dqka8y2g.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/dqka8y2g.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。BSquaredNetwork和babylon_chain的合作将通过BTC质押增强B² Hub的安全性。这种合作类似于Celestia和Eigenlayer的组合，提供了一种模块化DA层和再质押服务的安全解决方案。通过Babylon的BTC质押系统，B² Hub的验证网络安全性得到提升，同时采用时间锁、一次性签名EOTS和最终轮次多签共识等机制保障外部POS系统的安全性。该合作不仅增强了安全性，还带来了生态互通和质押收益。Celestia和Eigenlayer的效用对比可更好理解该合作对BTC layer2生态的影响。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。BSquaredNetwork和babylon_chain的合作将通过BTC质押增强B² Hub的安全性。这种合作类似于Celestia和Eigenlayer的组合，提供了一种模块化DA层和再质押服务的安全解决方案。通过Babylon的BTC质押系统，B² Hub的验证网络安全性得到提升，同时采用时间锁、一次性签名EOTS和最终轮次多签共识等机制保障外部POS系统的安全性。该合作不仅增强了安全性，还带来了生态互通和质押收益。Celestia和Eigenlayer的效用对比可更好理解该合作对BTC layer2生态的影响。 <div>
 <p>如何看待 @BSquaredNetwork 和 @babylon_chain 的最新合作？一个是BTC模块化扩展方案供应商，推出了B² Hub模块化DA层，一个是BTC二层POS安全质押服务方，将原生资产质押生息带入了BTC网络。</p>
 <p dir="ltr">二者联合类似于，Celestia模块化DA层+Eigenlayer共享安全层的组合？接下来，我来解析下技术实现过程：</p>
 <p dir="ltr">根据公告内容，本次合作B² Hub和B² Rollup层都会采用Babylon的BTC质押来增强安全性，并支持BTC LSD和BTC Restaking功能。</p>
@@ -37,9 +95,7 @@
 <p dir="ltr">总而言之，若把此次B² Network和Babylon的合作对BTC layer2生态的影响，类比成Celestia DA 和Eigenlayer Restaking对以太坊 layer2的效用，是不是更容易理解了？</p>
 ]]></content:encoded>
 <pubDate>Wed, 27 Mar 2024 17:40:48 +0800</pubDate>
-<pubDate>Wed, 27 Mar 2024 17:40:48 +0800</pubDate>
 </item>
-
 <item>
 <title>内测活动在北美走红，早前融资5千万美元：Parallel能否火出圈？</title>
 <link>https://www.panewslab.com/zh/articledetails/dd748lknjpp4.html</link>
