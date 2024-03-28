@@ -4,6 +4,59 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>GSR将以太坊现货ETF于5月获批的几率下调至20%</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/cw741c3d.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/cw741c3d.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是消极的。<br>1. 分析师认为SEC批准现货以太坊ETF的可能性下调至20%。<br>2. 美国证券交易委员会受到政治压力，可能不批准更多数字资产ETF。<br>3. 美国证券交易委员会对以太坊是否属于证券的调查可能影响批准可能性。<br>4. 分析师预计以太坊ETF现货最有可能在2025年至2026年获准。<br>5. 任何批准过程可能会受到诉讼事件的影响，导致时间延长。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月28日消息，据The Block报道，做市商GSR分析师Brian Rudick在周三的一份报告中表示，其认为SEC于今年5月批准现货以太坊ETF的可能性为20%，相比GSR 1月份时预测75%可能性来说有较大幅度的下调。</p>
+<p>分析师表示，美国证券交易委员会受到了一些政治压力，要求不得批准更多数字资产 ETF。而美国证券交易委员会的对以太坊是否属于证券的调查可能会大大降低批准的可能性。监管机构可能会寻求避免将以太坊现货 ETF 的潜在批准变成“另一个大场面事件”。</p>
+<p>关于未来的预期，分析师认为现货以太坊ETF的任何批准过程可能需要更长的时间，可能会被一些诉讼事件影响，其现在认为以太坊ETF现货最有可能在2025年至2026年获得批准。</p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 12:03:00 +0800</pubDate>
+<pubDate>Thu, 28 Mar 2024 12:03:00 +0800</pubDate>
+</item>
+<item>
+<title>一文了解新一代通信协议Omni Network</title>
+<link>https://www.panewslab.com/zh/articledetails/yj2g2bpq.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/yj2g2bpq.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这篇文章介绍了Omni作为以太坊原生的互操作性协议，以解决Rollups所带来的负面外部性。主要要点包括Omni的安全性、亚秒级验证、原生全球应用、向后兼容性以及团队介绍。Omni通过EigenLayer引入新的安全模型，实现与以太坊L1安全预算一致的安全性，同时提供亚秒级的跨Rollups消息验证，支持原生全球应用，并具有向后兼容性。文章展望Omni将成为以太坊生态系统内互操作性的标准。 <div>
+<p>作者：PAUL VERADITTAKIT</p>
+<p>编译：LlamaC</p>
+<p><img alt="一文了解新一代通信协议Omni Network" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/4daa2d6a23c6dd89466ee84265da0de3.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>「推荐寄语：最近，使用 EigenLayer 构建基础设施项目在开发人员中变得很流行。这些项目称为主动验证服务（AVS），它指的是任何需要其自己的分布式验证语义进行验证的系统。这些系统可能包括 DA 层、新虚拟机、预言机、网桥等。本文旨在阐述第一个即将推出的 AVS 系统，其解析的内在机制成功上线后，若同 LayerZero 进行对比，可等同于安全与体验的双面升级。」</p>
+<h3>引言</h3>
+<p>Rollups 是以太坊当前和未来的扩容解决方案。从 2021 年到 2023 年，Rollups 的使用逐渐增加，通过图表可以看出，这为以太坊 L1 带来了近 10 倍的交易吞吐量提升。</p>
+<p><img alt="一文了解新一代通信协议Omni Network" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/e3efb3cbaf0c285043563acfdc3f2860.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>来源:https://l2beat.com/scaling/activity</pre>
+<p>Rollups 通过在链外处理交易，仅在以太坊 L1 上存储数据或证明，帮助以太坊更高效地处理更多交易。这种方法让 Rollups 继承了以太坊 L1 的安全性，同时保持与以太坊庞大的开发者工具和应用生态系统的兼容性。</p>
+<p>然而，由于 Rollups 通过孤立的链外环境来扩展以太坊，它们带来了负面的外部性，降低了以太坊的网络效应。具体来说，流动性、用户和开发者在不同的生态系统中被分割。Rollups 种类的不断增多及其日益广泛的采用只会加剧这些问题。因此，以太坊需要一个原生的互操作性协议，将其重新与作为去中心化应用统一的操作系统的最初愿景保持一致。</p>
+<h3>Omni 的关键创新</h3>
+<p>Omni 是一个以太坊原生的互操作性协议，它在所有以太坊 Rollups 之间建立了低延迟通信，使以太坊能够在模块化时代作为一个贯穿的系统运行。由一支拥有深厚行业经验的团队构建，Omni 旨在统一以太坊分散的 Rollups 生态系统，并具有以下定义特征：</p>
+<h4><strong>安全性</strong></h4>
+<p>互操作性协议在历史上一直在安全性上挣扎。第一代协议仅依赖于一组可信的参与者来验证和中继网络间的消息。多年来，这些协议一直是许多漏洞利用的对象，累计给行业造成了超过 10 亿美元的损失。</p>
+<p>第二代协议通过将加密经济安全应用于网络来改进这一设计。在这种方法下，参与者押注协议的本机资产以参与验证过程。这是一个正确的方向，但依赖于本机资产使得协议的安全保证不稳定。</p>
+<p>使用 EigenLayer，Omni 引入了一种根本上全新的互操作性协议安全模型。Omni 使用重新质押的ETH 来保护其验证器集，允许协议的安全性与以太坊 L1 的安全预算保持一致。以太坊当前的安全预算超过 1000 亿美元，比其他任何 PoS 网络都要大一个数量级。通过利用重新质押的 ETH（高流动性 / 低波动性资产）Omni 的安全性实现了比其前辈显著更高的稳定性。此外，通过从以太坊获取安全性，Omni 将其安全基础与其所连接的 Rollups 保持一致，促进了一个与以太坊模块化生态系统同步增长的安全模型。</p>
+<p>Omni 正在为 EigenLayer 的主动验证服务（AVS）设定标准。Omni 成为第一个与流动重新质押（LRT）提供商达成协议的协议，当时它同意从 EtherFi 租赁价值 6 亿美元的重新质押 $ETH。Omni 的团队与其他多个 LRT 提供商达成了协议，将其首日安全预算推高至超过 10 亿美元。这将使 Omni 在不要求协议承担过高成本启动网络的情况下，提供行业领先的安全性。作为唯一在测试网上运行的主动验证服务（AVS），除了 EigenDA 之外，Omni 定位为市场上最生产就绪的 AVS。</p>
+<h4><strong>亚秒级验证</strong></h4>
+<p>集成区块链（如 Solana）相比模块化系统的关键优势之一是低延迟交易。用户已经习惯了亚秒级的交易时间，这与现代基于云的 Web 应用程序的用户体验相一致。为了与这些替代平台竞争，跨 Rollups 消息的延迟必须与集成系统的交易速度相媲美。</p>
+<p>Omni 通过一种新颖的协议架构将这种体验带到了以太坊 Rollups ，实现了亚秒级的跨 Rollups 消息验证。在之前的测试网上处理了来自 550,000 个钱包的 750 万笔交易后，Omni Labs 彻底改革了网络的架构。这种设计的核心是 Octane，一个将 EVM 与 CometBFT 共识结合起来的新开源框架。Octane 使用以太坊引擎 API 和 ABCI++，在 Omni 节点的执行和共识环境之间创建了一个清晰的分离，从而隔离了现有 EVM &lt; CometBFT 框架中阻碍性能的组件。</p>
+<h4><strong>原生全球应用（NGAs）</strong></h4>
+<p>除了提供跨 Rollups 消息验证之外，Omni 还提供了一个专用的执行环境，Omni EVM，允许开发者从单一位置管理他们所有的 Rollups 应用部署。使用 Omni EVM 作为编排层，开发者可以部署原生全球应用（NGAs）。NGAs 是一种新的应用类别，它们动态地将合约和接口传播到任何 Rollups ，使它们默认就可以访问以太坊的所有流动性和用户。使用 NGAs，开发者可以利用以太坊 Rollups 的可扩展性，而无需承担管理多个 Rollups 环境之间分布式状态的负担。</p>
+<p><img alt="一文了解新一代通信协议Omni Network" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/af9c98343f1e142754894d9e82658ac8.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>随着 Rollups 生态系统的不断发展，项目将开发更加定制化的 Rollups 解决方案，每个解决方案都针对特定的功能和性能需求，整合独特的虚拟机、编程语言和数据可用性架构。Omni 有意设计为支持任何 Rollups 架构，通过 Omni EVM 实现无缝的应用管理。</p>
+<h4><strong>向后兼容性</strong></h4>
+<p>为了适应现有的 Rollups 应用，Omni 在设计时考虑了向后兼容性。应用可以集成 Omni 而无需修改其已部署的合约。相反，应用使用修改后的前端指令来组装跨 Rollups 消息，使 Omni 能够作为现有应用部署的包装器。Omni 还引入了一个通用的 GAS 市场，将 Rollups 层消息传递到目标网络，消除了用户维护不同 Gas 代币集合的需要。</p>
+<h3>团队</h3>
+<p>Omni Labs 由一支拥有丰富行业经验的团队组成。该团队由 CEO Austin King 领导，他是一位哈佛毕业生，以前构建了处理了 100 亿笔支付的 Interledger 网络，并最终将其卖给了 Ripple。CTO Tyler Tarsi 也是一位哈佛毕业生，他领导团队的开发工作，并带来了为量化交易系统构建机器学习基础设施的经验。在构建 Omni 之前，这两位合作者共同开发了 Rift Finance，这是一个 DeFi 协议，仅用两天时间就积累了 5000 万美元的 TVL。</p>
+<h3>展望未来</h3>
+<p>Omni 对以太坊 Rollups 互操作性的独特方法很快将对所有用户和开发者开放。Omni Labs 团队最近部署了其最终测试网 Omni Omega。在第二季度，Omni 将成为第一个在主网上推出的 AVS，为以太坊分散的 Rollups 景观带来一个安全且高性能的互操作性解决方案。正如 Rollups 已被确立为交易处理的核心基础设施一样，Omni 有望成为以太坊生态系统内互操作性的标准。</p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 12:00:57 +0800</pubDate>
+<pubDate>Thu, 28 Mar 2024 12:00:57 +0800</pubDate>
+</item>
 
 <item>
 <title>Base TVL突破30亿美元，创历史新高</title>
