@@ -11313,3 +11313,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Over $1B in U.S. Treasury Notes Has Been Tokenized on Public Blockchains](https://www.coindesk.com/markets/2024/03/28/over-1b-in-us-treasury-notes-has-been-tokenized-on-public-blockchains/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-28 10:49:59.150636
+------------------------------------------------------
+Started: 2024-03-28 11:11:56.048259
+Existing_entries: 274
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-03-28 11:11:56.741058

@@ -4,6 +4,220 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>未发币却用户量飙升，哪些人在涌入zkSync Era生态？</title>
+<link>https://www.panewslab.com/zh/articledetails/50gtynmo.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/50gtynmo.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。zkSync Era 在用户参与度和资产分布上呈指数级增长，拥有超过226万独立用户，主要由新用户推动。活动仍然活跃，老用户也持续参与，代币偏好增长，鲸鱼主要投资于主流代币和稳定货币。总体而言，zkSync Era生态系统经历了快速增长，特点是用户不断扩大、持续参与和代币偏好增长。 <div>
+<p>作者：Nansen</p>
+<p>编译：Luffy，Foresight News</p>
+<p>zkSync Era 是当前领先的 Rollup 之一，为用户和开发人员提供可扩展的通用智能合约平台。自 2023 年 3 月推出以来，它在用户指标、应用程序和第三方集成方面都呈指数级增长。如今，zkSync 从以太坊主网而来的净流入资金就超过 4.56 亿美元，跨链独立用户超过 226 万。</p>
+<p>zkSync 拥有大量用户和链上活动，但这些存款人到底是谁，以及他们的活动随着时间的推移如何发展？</p>
+<h3>zkSync 用户</h3>
+<p>通过查看地址在以太坊上首次活跃的时间，我们可以更好地了解 zkSync 上钱包的年龄。</p>
+<p><img alt="未发币却用户量飙升，哪些人在涌入zkSync Era生态？" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/f0a39f63bc8d4c28e77e33f2cbd5406d.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>来源： Nansen</pre>
+<p>超过 71% 的存款人钱包是在去年创建的，这意味着有很多新钱包与 zkSync 交互。除了钱包的使用年限之外，存入 zkSync 的价值在分布上有何特征呢？</p>
+<p><img alt="未发币却用户量飙升，哪些人在涌入zkSync Era生态？" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/408f4ee9b7f24ea9e3983e14c4878cd5.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>来源： Nansen</pre>
+<p>从以太坊主网存入 zkSync Era 的大部分存款来自累计存款额低于 1,000 美元的钱包。至于衡量一段时间内的活动，我们可以查看一段时间内的独立存款人。</p>
+<h3>每日独立存款人</h3>
+<p>下面，我们使用来自以太坊的原生跨链桥来观察 zkSync 的每日和累计的独立存款人。</p>
+<p><img alt="未发币却用户量飙升，哪些人在涌入zkSync Era生态？" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/6442c33fe3de351813d6b7208236b3b3.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>来源： Nansen</pre>
+<p>这表明，自 zkSync 推出以来，新地址一直不断增加。新存款人在 2023 年 5 月达到顶峰，此后呈下降趋势。然而，截至 2024 年 3 月 13 日，平均每日独立存款人仍超过 8,280 人，这意味着 2023 年和 2024 年新用户数量大幅增长。跨链是一个很好的指标，让我们看看 2024 年谁是 zkSync Era 上真正的活跃用户。</p>
+<h3>zkSync 活动</h3>
+<p>2024 年，我们对 zkSync Era 上的活跃地址进行了可视化，并按以下部分对其进行分组：</p>
+<ul>
+<li>EOA（外部拥有账户）：现存的、新地址</li>
+<li>智能合约账户：现存的、新智能合约</li>
+</ul>
+<p><img alt="未发币却用户量飙升，哪些人在涌入zkSync Era生态？" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/7d273452dd40aec23277cbc2d796c79d.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>来源： Nansen</pre>
+<p>大多数活动由现有的 EOA 或老用户主导，而非加入 zkSync 的众多新地址。此外，鲸鱼地址在 zkSync 上做什么？</p>
+<h3>zkSync 鲸鱼持仓及活动</h3>
+<p>我们根据截至 3 月 14 日的代币价值余额（美元）计算出排名前 30 的地址，并根据以下条件筛选地址：</p>
+<ul>
+<li>2024 年活跃</li>
+<li>平均每天交易 50 笔或更少（过滤掉嘈杂的地址）</li>
+<li>不属于 zkSync 或以太坊主网上的任何实体</li>
+</ul>
+<p>此外，我们还添加了以下条件：</p>
+<ul>
+<li>不是交易所</li>
+<li>不是合约地址</li>
+<li>不是 MEV 机器人</li>
+<li>不是 NFT 清洗交易者</li>
+</ul>
+<p>自 2024 年 1 月 1 日开始，这些钱包持有的前 10 种代币如下所示。</p>
+<p><img alt="未发币却用户量飙升，哪些人在涌入zkSync Era生态？" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/b5285ff2ab2cff81fd6d6806f11894bd.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>来源：Nansen</pre>
+<p>按美元价值计算，排名第一的代币是 ETH，其次是 ZKID、IDO 和 KOI。这是代币美元价值持有量，但这些钱包中持有量最高的代币是什么呢？</p>
+<p>下面我们可视化了拥有特定代币的地址数量。我们只查看 30 个鲸鱼钱包，因此如果地址数量为 10，则 33% 的鲸鱼拥有给定代币。并非所有地址在 2023 年都处于活跃状态，因此您会看到资产数量一直增加到今天。</p>
+<p><img alt="未发币却用户量飙升，哪些人在涌入zkSync Era生态？" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/e66fd3aafab9c88faff7e617bfc18a3b.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>来源：Nansen</pre>
+<p>毫无疑问，所有的鲸鱼地址都拥有 ETH，其次是 USDC、WETH、USDT 和 wBTC。这表明大多数鲸鱼主要投资于主流代币和稳定货币。然而，随着时间的推移，我们看到 zkSync 原生资产的投资呈现强劲增长趋势。最后，我们展示这些鲸鱼在 2024 年的活动。</p>
+<p><img alt="未发币却用户量飙升，哪些人在涌入zkSync Era生态？" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/5a81dced2fd481a42333af8ad0cca1a7.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>来源：Nansen</pre>
+<p>与普通账户活动类似，鲸鱼的活动在 2024 年 2 月底达到顶峰。他们的活动相当一致，2024 年 zkSync Era 上平均每天有超过 189 笔交易。</p>
+<h3>结论</h3>
+<p>从 2023 年到 2024 年，zkSync Era 在用户参与度和资产分布上发展迅猛。该平台拥有超过 226 万来自以太坊的独立用户，表现出强劲的增长势头，这主要由新进入者推动。zkSync 上的活动目前仍然很活跃，并得到了大量老用户的支持，尤其是外部拥有账户 (EOA)。</p>
+<p>总体而言，zkSync Era 作为一个生态系统经历了快速增长，其特点是用户群不断扩大、现有用户持续参与，以及代币偏好不断增长。</p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 19:00:13 +0800</pubDate>
+<pubDate>Thu, 28 Mar 2024 19:00:13 +0800</pubDate>
+</item>
+<item>
+<title>拉开BTC金融复兴帷幕，L2网络Mirror Staking Protocol欲解BTC Restaking赛道痛点</title>
+<link>https://www.panewslab.com/zh/articledetails/bs440tfk.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/bs440tfk.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章讨论了Mirror Staking Protocol在比特币L2生态中的角色和优势。它采用多签节点机制来提高比特币质押效率和安全性，同时保持去中心化。该协议已完成种子轮融资，并计划于今年5月上线主网。团队实力强大，代币经济学可持续，未来还将推出更多生态应用和活动。Mirror Staking Protocol以友好和安全的资产环境来支持比特币生态建设，引领L2赛道发展。 <div>
+<p>作者：Nancy，PANews</p>
+<p>长期以来，比特币都被作为创新支付方式和价值存储手段，其生态因不支持智能合约功能和手续费高昂等原因无法如以太坊那样复刻出多样化的应用和玩法。直到Ordinals等协议的大爆发以及比特币现货ETF打开主流资金闸门后，比特币生态的命运齿轮被转动，也成为如今加密市场的关键叙事。</p>
+<p>但随着网络大规模拥堵、交易速度低下以及应用拓展力不足等问题日益凸显，比特币L2扩容方案应运而生。在比特币L2的这场百团大战中，Mirror Staking Protocol另辟蹊径，将自身定位为比特币L2质押基础设施。本文PANews将解读Mirror Staking Protocol背后的运行机制和差异化优势。</p>
+<h3><strong>L2</strong><strong>复兴比特币经济，Mirror</strong><strong>利用多重签名分组算法破质押困境</strong></h3>
+<p>作为比特币生态的重要推动力量，比特币Layer2扩容方案已成为资金重点埋伏的赛道，并呈现出井喷式爆发态势。对于比特币而言，Layer2的引入不仅可提高可扩展性和效率，其智能合约的可编程性还为生态爆发提供更大可能性。</p>
+<p>然而，质押赛道面临的质押效率低下和资产安全风险问题正在制约比特币L2赛道的发展。针对这样的市场痛点，Mirror Staking Protocol可为比特币L2提供完全去中心化且无需信任的比特币质押解决方案，来确保比特币100%安全传递至L2并共享于比特币L2。</p>
+<p>实际上，由于各流派的比特币L2项目在资产质押实现路径各不相同，在质押效率和安全性上亦有不同差异。比如通过多重签名机制来桥接比特币L1到L2原生资产，存在着不可能三角问题。如果减少多重签名的节点数量来提升效率，那么将很难保证因中心化带来的作恶风险。比如Merlin Chain使用Cobo的MPC钱包解决方案来桥接比特币L1到L2的多种原生资产，虽然MPC钱包相比普通钱包更为安全，但签名者数量较少、缺乏惩罚机制等原因也使其在安全性上存在一定差距；若为最大化程度实现资产托管的去中心化，那么体量足够大的节点将会带来效率的低下，比如Stacks需要至少70%的节点签名权力才能获得有效的签名。</p>
+<p>再例如采用远程质押方法，Babylon的比特币质押协议允许比特币持有者无需将比特币桥接到PoS链即可进行质押，通过密码学、共识协议创新和优化使用比特币脚本语言的方式来创建远程质押环境，虽然相比较桥接更加安全和可靠，但存在着比特币资产销毁的风险，且无法直接访问EVM生态系统的DApp。另外，比如BounceBit这类项目直接将资产托管给Mainnet Digital、Ceffu等拥有合规资质的中心化托管服务平台，这使得用户信任建立在这些机构的资产透明度和财务审计等方面上。</p>
+<p>对此，Mirror Staking Protocol则从多签节点机制入手，通过打造多重签名组（MSG）算法来有效平衡比特币质押效率、安全性和去中心化问题。做一个形象的比喻，“如果将比特币L2项目比作电动汽车厂商，Mirror提供的是电池包；如果BTCL2 项目是大规模语言模型（LLMs），Mirror 协议就是 GPU 云算力中心”。</p>
+<p style="text-align: center;"><img alt="拉开BTC金融复兴帷幕，L2网络Mirror Staking Protocol欲解BTC Restaking赛道痛点" src="https://cdn-img.panewslab.com/panews/2024/03/28/images/ntkFMbE9D4.jpg" /></p>
+<p>具体来说，Mirror将数百到数千个节点划分为组，每个节点可以与任何其他4个节点分组，每个组由任意5个节点组成，小组内5个节点中的任意3个节点可以对组内的资产进行多重签名。当然，每个节点还被要求在指定的智能合约中押注1 mBTC，一旦节点作恶将会罚没保证金。举个例子，如果有1000个节点，那么可产生约3000个组。若节点达到1000枚比特币，那么每个组可托管1枚比特币，如果有节点想做恶，那么任何组中必须有3个节点集体恶意行动才能实现，且还需付出3个mBTC。</p>
+<p>目前节点选举已正式启动，任何为协议做出积极贡献的用户均可参与，节点将在社区的四轮投票中选出。为了确保安全，该协议要求节点必须将至少质押1枚BTC押注到Mirror合约中，并在12个月内充当去中心化的网络保管者。一旦成功选为阶段，用户将获得高达价值12万美元的MIRR代币认购权，且节点选举中的冠军还将特别获得100万枚$MIRR的看涨期权，执行价格为0.12美元。根据官方最新透露，自2024年3月5日启动节点选举以来，Mirror Staking Protocol在不到3周的时间内，吸引了200余名KOL和超过50家项目机构在X等社交媒体上参选。同时，该选举已获得超过5万名用户参与投票，累计总投票数超300万次。</p>
+<p>另外，Mirror Staking Protocol除了通过技术方案提高资产安全度，其还通过知名安全公司SlowMist的安全审计。</p>
+<p>值得一提的是，Mirror Staking Protocol生成与比特币1:1锚定的mBTC是与EVM兼容的，可通过ReStaking机制增加质押资产的收益潜力。</p>
+<h3><strong>已完成种子轮融资，计划今年5</strong><strong>月上线主网</strong></h3>
+<p>尽管L2群雄并起市场竞争进入白热阶段，但刚刚起势的比特币L2仍成为资金活跃度较高的热门板块。不少热门比特币L2不仅以高估值拿下高融资额，而动辄数亿数十亿的TVL更直接反映出市场的强烈需求。市场对比特币生态发展的预期拉满在于，其巨量沉淀资产亟待被挖掘，特别是现货ETF正带动比特币的强劲需求。而从以太坊的市场规模来看，比特币L2也具备着极大的发展潜力，无论是比特币市值是以太坊的3倍，还是前者2.96亿全球用户体量远超后者的1.24亿，都可窥探该赛道的增长空间。</p>
+<p>作为比特币生态的建设者，Mirror Staking Protocol也已得到资本认可。今年3月，Mirror Staking Protocol宣布完成UTXO（Bitcoin Magazine投资部门)、Conflux和IMO Ventures的首轮融资。其中，Bitcoin Magazine曾发文比特币L2标准须满足三项条件，包括使用比特币作为原生资产；使用比特币作为结算机制来强制执行交易；展示对比特币的功能依赖性。从这些标准来看，Mirror Staking Protocol完全符合。</p>
+<p>其创新的技术解决方案是团队实力的展现。Mirror Staking Protocol的团队成员除了来自Web3 Native项目外，还有着丰富的知名Web2企业从业经验，包括微软、谷歌、麻省理工学院、清华大学姚班、三星、现代、Conflux和Decus等。</p>
+<p>另外，可持续的代币经济学也是衡量项目的重要指标。MIRR是Mirror Staking Protocol的治理代币，总供应量为10亿，其中24%用于节点选举，代币将在12个月内发放；26%用于用户空投，可根据比特币质押量和邀请好友所获积分进行奖励，将分为10个季度进行；14%分配至投资者，种子轮投资者额度在12个月内解锁，机构轮投资者在24个月内解锁；18%分给项目团队和顾问，6%分给基金会，剩余12%用于L2生态发展。</p>
+<p style="text-align: center;"><img alt="拉开BTC金融复兴帷幕，L2网络Mirror Staking Protocol欲解BTC Restaking赛道痛点" src="https://cdn-img.panewslab.com/panews/2024/03/28/images/7mn8y17R31.jpg" /></p>
+<p>目前，Mirror Staking Protocol已完成测试网部署，即将向全网用户开放公测阶段。而根据路线图，Mirror Staking Protocol预计将在今年5月上线主网，将允许用户进行质押以及比特币L1资产到L2网络的桥接；同时该协议还计划与其他比特币L2展开合作、推出“一次质押双重代币收益”活动、拓展生态应用和启动生态系统基金来支持建设者和开发者等。</p>
+<p>比特币生态风起，随着技术迭代升级的L2们不断攻城略池，低效的运行效率和匮乏的应用场景将逐渐成为历史，且借助LSD/Restaking的杠杆效应激活资产的高流动性和可组合性后，将进一步释放比特币经济的更多潜力。从Mirror Staking Protocol等L2构建者来看，相比于“炫技”，提供更为友好且安全的资产环境以及扛起生态建设的重任正成为获得用户强共识和支持的关键。</p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 19:00:00 +0800</pubDate>
+<pubDate>Thu, 28 Mar 2024 19:00:00 +0800</pubDate>
+</item>
+<item>
+<title>PA日报｜Ethena将向用户空投7.5亿枚ENA代币；亚马逊将向AI公司Anthropic追加投资27.5亿美元</title>
+<link>https://www.panewslab.com/zh/articledetails/73bqx3tf.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/73bqx3tf.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。监管消息方面，美国法院裁定SEC可以继续对Coinbase提起诉讼，英国FCA加强金融推广监管，荷兰检察官要求对Tornado Cash开发者判刑。在AI&NFT领域，亚马逊向Anthropic追加投资，Arbitrum Foundation、Azuki和Weeb3 Foundation合作推出AnimeChain。项目动态方面，Illuvium发布路线图，ConsenSys旗下的Layer2网络Linea推出新活动。此外，贝莱德CEO表示对比特币ETF持乐观态度。链游Illuvium在X平台披露其路线图。AI平台MyShell获得新一轮融资，Cryptoship NFT协议希望开启发送NFT的功能。<br> <div>
+<p><strong>今日要闻提示：</strong></p>
+<p dir="ltr"><strong><a href="https://www.panewslab.com/zh/sqarticledetails/on20tsye.html">美国法官允许SEC指控Coinbase未能注册为证券业务</a></strong></p>
+<p dir="ltr"><strong><a href="https://www.panewslab.com/zh/sqarticledetails/w9n6bs8f.html">亚马逊将向人工智能公司Anthropic追加投资27.5亿美元</a></strong></p>
+<p dir="ltr"><strong><a href="https://www.panewslab.com/zh/sqarticledetails/tfo3iy71.html">Ethena将于4月2日向用户空投7.5亿枚ENA代币，占总供应量的5%</a></strong></p>
+<p dir="ltr"><strong><a href="https://www.panewslab.com/zh/sqarticledetails/tq1d3tqg.html">Fetch.ai：ASI代币总供应量将为26.3亿枚，合并提案投票预计于4月2日开始</a></strong></p>
+<p dir="ltr"><strong><a href="https://www.panewslab.com/zh/sqarticledetails/6exgbrqx.html">Fidelity已向美国SEC提交包含质押功能的以太坊现货ETF S-1表格</a></strong></p>
+<p dir="ltr"><strong><a href="https://www.panewslab.com/zh/sqarticledetails/en3jfrwl.html">MerlinSwap：MP代币ID0共筹集6599枚BTC，约合4.6亿美元</a></strong></p>
+<p dir="ltr"><strong><a href="https://www.panewslab.com/zh/sqarticledetails/t7inf12b.html">NFT卡牌游戏Parallel完成3500万美元融资，Amber Group等参投</a></strong></p>
+<p dir="ltr"><strong><a href="https://www.panewslab.com/zh/sqarticledetails/79l40fs4.html">贝莱德代币化投资基金BUIDL资金流入已增至2.45亿美元</a></strong></p>
+<p dir="ltr"><strong>监管消息</strong></p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/on20tsye.html">美国法官允许SEC指控Coinbase未能注册为证券业务</a></p>
+<p dir="ltr">法院在预期判决中对Coinbase作出裁决：美国法官允许 SEC 指控 Coinbase 未能注册为证券业务，美国SEC关于Coinbase钱包是未注册经纪商的指控被驳回。 Coinbase的质押计划被驳回。法院拒绝驳回美国证券交易委员会（SEC）对加密货币交易所Coinbase的部分指控。法院裁决美国SEC可以继续对Coinbase(COIN.O)提起诉讼。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/4wdgl943.html">英国FCA将加强对推广Meme币的金融影响者的监管</a></p>
+<p dir="ltr">据The Block报道，英国金融行为监管局（FCA）将加强对推广Meme币的金融影响者（"finfluencers"）的监管。FCA规定，这些影响者在广告或发布关于金融产品和服务的Meme之前，必须得到FCA指定代表的批准。这项措施旨在确保金融产品的营销活动透明且不会误导消费者。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/d6ro7pfo.html">荷兰检察官寻求法院对Tornado Cash开发者Alexey Pertsev判处64个月监禁</a></p>
+<p dir="ltr">据CoinDesk报道，荷兰检察官要求法官以洗钱罪对Tornado Cash开发者Alexey Pertsev判处64个月监禁。这场为期两天的审判于周二和周三在S-Hertogenbosch法院举行，可能会对其他地方法院如何对待开发者产生影响。法院称，法官将于5月14日作出判决。 荷兰检察官在审判前分享的一份起诉书中详细介绍了Pertsev被指控通过匿名工具Tornado Cash洗钱价值12 美元的加密货币。起诉书称，2019年7月9日至2022年8月10日期间，Pertsev“养成了洗钱的习惯”。</p>
+<p dir="ltr"><strong>AI&amp;NFT</strong></p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/w9n6bs8f.html">亚马逊将向人工智能公司Anthropic追加投资27.5亿美元</a></p>
+<p dir="ltr">据彭博社报道，亚马逊公司表示，将向Anthropic追加投资27.5亿美元。此次注资使亚马逊对Anthropic的总投资达到40亿美元。作为合作的一部分，Anthropic还同意使用亚马逊网络服务数据中心以及亚马逊定制的计算机芯片。去年5月，Anthropic完成4.5亿美元C轮融资，星火资本(Spark Capital)领投，谷歌参投。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/ur8ub7e1.html">Arbitrum和Azuki联手推出基于区块链的动漫网络AnimeChain</a></p>
+<p dir="ltr">Arbitrum Foundation、Azuki和Weeb3 Foundation宣布合作推出一个基于区块链的动漫网络，名为AnimeChain。此网络旨在通过混合内容、游戏、商品和NFT，吸引动漫粉丝进入Web3世界。</p>
+<p dir="ltr"><strong>项目动态</strong></p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/cdaea0cy.html">链游Illuvium在路线图中披露Beta 4细节以及空投预期</a></p>
+<p dir="ltr">链游Illuvium在X平台披露其路线图：1.Private Beta 4将于4月15日至4月30日开放预注册；2.Private Beta 4测试网将于4月30日启动，并将于5月28日结束，在此阶段精选玩家组（名额上限为1万名）将首次在测试网上体验整个游戏循环，这些玩家将来自现有最活跃玩家、社区成员以及从营销活动中选出的玩家，功能包括测试网上的护照集成、资产铸造、Illuvidex交易、Gas购买和旅行机制等，这些参与者将获得第一批空投积分。3.5月28日将开始进入Open Beta版测试网阶段，预计持续2-4周，将为该阶段分配Play-To-Airdro ILV pool的10%，并在该阶段结束后为第一批发放空投。4.主网Open Beta版本上线待定，将在上线后的5个月内分配Play-To-Airdrop ILV pool剩余的90%。</p>
+<p dir="ltr">此前昨日消息，<a href="https://www.panewslab.com/zh/sqarticledetails/vtaz0xs7.html">链游Illuvium完成1200万美元A轮融资</a>。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/l3r6wcno.html">Linea将于4月推出旨在推动网络流动性的Linea Surge活动，参与者可收集SBT LXP-L</a></p>
+<p dir="ltr">据官方消息，ConsenSys旗下Layer2网络Linea宣布将推出The Linea Voyage：Surge活动，本活动将于4月开始，持续6个月时间，或者直到该网络TVL达到30亿美元。 Linea Surge将通过为网络带来流动性 (TVL) 来增强其生态系统，并将其DeFi协议中的资产战略部署游戏化。流动性管理者将能够收集一种不可转让的灵魂绑定代币（SBT）LXP-L，同时参与他们最喜欢的DeFi协议。 LXP-L经过精心设计，用于跟踪Linea上的流动性。它将定期收集，并使用与垂直用例和资产类别相关的基于点的乘数，并随着时间的推移而变化，以确保Linea生态系统的健康发展。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/090zb3zu.html">KuCoin为应对近日提现延迟问题，向用户推出价值1000万美元的KCS和BTC空投活动</a></p>
+<p dir="ltr">据美通社报道，加密交易所KuCoin表示：“3月26日至27日，部分用户出现提现等待时间超预期的情况，对此造成的不便深感责任，并真诚地致歉。为感谢用户的支持和耐心，KuCoin将推出总额为1000万美元的KCS和BTC空投活动。规则将在3天内正式公布。” </p>
+<p dir="ltr">此前昨日消息，在美国政府对KuCoin提出刑事诉讼后，<a href="https://www.panewslab.com/zh/sqarticledetails/gh7jgjvr.html">KuCoin的以太坊和EVM链上的资金流出增至17.8亿美元</a>。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/ci2pjyof.html">贝莱德CEO对其比特币ETF表现感到“惊喜”，并称非常看好比特币长期生存能力</a></p>
+<p dir="ltr">据Cointelegraph报道，贝莱德首席执行官Larry Fink对比特币ETF的表现感到“惊喜”，并再次强调他对比特币长期可行性的“非常乐观”态度。 Fink在3月27日接受Fox Business采访时表示：“IBIT是ETF历史上增长最快的ETF。在ETF的发展史上，没有任何产品能够像IBIT这样迅速积累资产。我们现在正在创造一个更具流动性、更透明的市场，这让我感到非常惊喜。在我们提交申请之前，我从未预料到我们会看到这种零售需求。”Fink还表示：“我非常看好比特币的长期生存能力。” </p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/tfo3iy71.html">Ethena将于4月2日向用户空投7.5亿枚ENA代币，占总供应量的5%</a></p>
+<p dir="ltr">据CoinDesk报道，DeFi协议Ethena公布推出治理代币的计划，并将于4月2日向持有USDe的用户空投代币。该协议计划空投7.5亿枚ENA代币，占总供应量的5%。赚取“碎片”的活动将于4月1日结束，该活动使用户获得代币空投资格。在此日期之前取消质押、解锁或出售所有USDe的用户将没有资格获得空投。用户将能够从4月2日开始申领代币，届时ENA将在中心化交易所上市。空投结束后，Ethena将为下一阶段的空投启动新的奖励活动。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/v3649fwh.html">贝莱德CEO：即使以太坊被认定属于证券，推出以太坊ETF仍是可能的</a></p>
+<p dir="ltr">贝莱德首席执行官Larry Fink在接受福克斯商业频道(Fox Business)采访时表示，即使美国证券交易委员会（SEC）将以太坊指定为证券，推出以太坊ETF仍然是可能的。当被问及如果以太坊被认定为证券，贝莱德是否还会上市以太坊现货ETF时，Fink做出了肯定回答。目前包括贝莱德在内的八家潜在发行人已向SEC提交了以太坊现货ETF申请。SEC的最终决定将于5月做出。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/tq1d3tqg.html">Fetch.ai：ASI代币总供应量将为26.3亿枚，合并提案投票预计于4月2日开始</a></p>
+<p dir="ltr">Fetch.ai宣布与SingularityNET和Ocean Protocol合并细节，计划将各自代币更名为ASI。治理提案将提交给社区，投票分别预计于4月2日开始，Fetch.ai在4月7日完成，所有提案预计于4月16日完成。如果获批，ASI的总供应量将为26.3亿。FET兑换比例为1:1，OCEAN和AGIX将按固定比例兑换为ASI。代币互换合约已测试并审计，详情将与合作伙伴和交易所确认，并计划下周发布更多代币经济模型文档。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/6exgbrqx.html">Fidelity已向美国SEC提交包含质押功能的以太坊现货ETF S-1表格</a></p>
+<p dir="ltr">据The Block Pro报道，Fidelity已向美国证券交易委员会（SEC）提交了S-1表格，提议推出一个包含质押功能的以太坊现货ETF。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/r4xxxv7a.html">铭文推动blob达到以太坊上设定的使用容量限制</a></p>
+<p dir="ltr">以太坊上Blob交易的数量激增，超出了网络设定的容量。这种增长趋势源于Blob铭文的引入，这一功能增加了对Blob利用的需求。 </p>
+<p dir="ltr">以太坊核心开发者之前在主网上实施了Dencun升级，引入了“Blob”功能，以降低Layer 2交易的成本，成功地使Layer 2能够使用Blob来代替“calldata”方法发布交易，从而直接减少了费用，并将这些节省下来的费用传递给了最终用户。然而，最近Blob上铭文功能的引入开始对这一特性进行压力测试。 </p>
+<p dir="ltr">由Hildobby维护的Dune Analytics仪表板分析显示了一个显著的趋势：现在40%的Blob交易与铭文相关。这是 Arbitrum、Optimism、Base和Linea等其他以太坊Layer2中发布的blob的最高使用率。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/5eovacpg.html">币安在2022年至2023年期间已追回被错入存入价值43.5亿美元的用户资金</a></p>
+<p dir="ltr">据巴西媒体Valor报道，加密交易所币安透露其已从2022年至2023年间操作失误的用户追回了43.5亿美元。币安在一份声明中表示，它利用技术为一系列可能发生的事件提供了各种代币回收服务，这些事件包括由于网络问题、区块链更新导致没有记入客户账户的代币或钱包中存款不正确，以及代币存入至不受支持的网络等。 币安拉丁美洲区域副总裁Min Lin表示：“43.5亿美元代表交易所安全团队服务的总共381,616个资源，为了保护用户，恢复过程可能很耗时，需要大量的奉献、系统资源和时间，但我们致力于提供这种增值服务，而不需要额外的成本。”</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/bmpech79.html">Celestia宣布其数据证明桥Blobstream已上线Base主网</a></p>
+<p dir="ltr">模块化区块链网络Celestia在X平台宣布，Blobstream已上线Base主网，开发人员可以通过Blobstream在“相同的生态系统”中继续构建，创建可定制的高吞吐量区块空间。Blobstream由Succinct Labs开发，是一个单向数据证明桥，使以太坊L2和L3能够使用Celestia作为模块化数据验证。其使用DA证明和批量Celestia区块数据的Merkle根来证明Celestia上存在rollup数据。 开发人员现在可以开始将新的以太坊rollup框架与Blobstream集成，以扩展任何生态系统。需要注意的是，Blobstream仍处于早期阶段，是实验性软件，用户应自行承担使用Blobstream的风险。 据悉，Blobstrea此前被称为量子重力桥（QGB），它作为Celestia和Ethereum（或其 EVM L1链）之间的桥梁，实现两个网络间的数据和资产转移。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/k2ek6v9z.html">Big Pump：经投票通过后已完成28%的PUMP销毁</a></p>
+<p dir="ltr">Bakeryswap Meme项目Big Pump（PUMP）在X平台表示，关于“是否销毁空投结束后剩余28%的PUMP代币”的投票已结束，1900亿枚PUMP代币投了支持票，4.5亿枚PUMP代币投了反对票。现已经完成了28%的PUMP销毁，实现了100%的发行量，持有地址超过100万。已向参与投票者退还101%退款。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/en3jfrwl.html">MerlinSwap：MP代币ID0共筹集6599枚BTC，约合4.6亿美元</a></p>
+<p dir="ltr">Merlin Starter首期Launchpad项目、Merlin生态DEX MerlinSwap在X平台宣布，其MP代币ID0已结束，总参与地址数超5.2万个，共筹集6599枚BTC，按照目前比特币价格共计约4.5亿美元。其中BTC池超额认购512倍；M-BTC资金池超额认购498倍；VOYA池超额认购75倍；HUHU池超额认购56倍。此外，MP将于今日14:00在Merlinswap上开放交易。</p>
+<p dir="ltr">晚些时候消息，<a href="https://www.panewslab.com/zh/sqarticledetails/yjj6ptl3.html">MerlinSwap将在第二轮空投中分配供应量2%的MP代币，共计4.2亿枚</a>。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/cw741c3d.html">GSR将以太坊现货ETF于5月获批的几率下调至20%</a></p>
+<p dir="ltr">据The Block报道，做市商GSR分析师Brian Rudick在周三的一份报告中表示，其认为SEC于今年5月批准现货以太坊ETF的可能性为20%，相比GSR 1月份时预测75%可能性来说有较大幅度的下调。 分析师表示，美国证券交易委员会受到了一些政治压力，要求不得批准更多数字资产 ETF。而美国证券交易委员会的对以太坊是否属于证券的调查可能会大大降低批准的可能性。监管机构可能会寻求避免将以太坊现货 ETF 的潜在批准变成“另一个大场面事件”。 关于未来的预期，分析师认为现货以太坊ETF的任何批准过程可能需要更长的时间，可能会被一些诉讼事件影响，其现在认为以太坊ETF现货最有可能在2025年至2026年获得批准。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/jx79cuq0.html">比特币Layer2项目BEVM宣布推出其主网</a></p>
+<p dir="ltr">基于Taproot Consensus的BTC Layer2项目BEVM在X平台宣布推出其主网，该主网向所有人开放，基于Taproot共识，应用MAST实现自动签名。BEVM表示，Taproot共识的特点是去中心化。</p>
+<p dir="ltr"> 此前3月25日消息，BEVM完成种子轮及部分A轮千万美元融资，投后估值达2亿美元。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/xsgvd1ci.html">Ordinals创始人Casey公布Runes（符文）文档，引入“纪念碑”升级机制</a></p>
+<p dir="ltr">比特币NFT协议Ordinals创始人Casey Rodarmor在X平台公布Runes（符文）文档。根据该文档，符文允许比特币交易蚀刻、铸造和转移比特币原生数字商品。虽然每个铭文都是独一无二的，但符文的每个单位都是相同的；它们是可互换的代币，适合多种用途；符文允许比特币交易蚀刻、铸造和转移比特币原生数字商品。 </p>
+<p dir="ltr">符文协议消息，称为Runestones（符文石），存储在比特币交易输出中；一笔交易最多只能有一个Runestones，Runestones可以蚀刻一个新的符文，铸造一个现有的符文，并将符文从交易的输入转移到输出，交易输出可以带有任意数量的符文余额。符文是通过蚀刻而形成，蚀刻创建一个符文并设置其属性，一旦设置这些属性就不可变，拥有预挖等功能；符文的蚀刻者可以选择为自己分配被蚀刻的符文单位，这种分配称为预挖。 </p>
+<p dir="ltr">Runestones可能因多种原因而格式错误的，畸形的Runestones被称为纪念碑（cenotaphs），输入到纪念碑交易中的符文会被销毁。带有纪念碑的交易中的铸币计入铸造上限，但铸造的符文会被烧毁。纪念碑是一种升级机制，允许符文被赋予新的语义，从而改变符文的创建和传输方式，同时不会误导未升级的客户端这些符文的位置，因为未升级的客户端会看到这些符文已被销毁。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/b11y07us.html">NFPrompt因安全问题将进行代币置换以弃用旧NFP代币，快照将于今日18:00进行</a></p>
+<p dir="ltr">基于AI的Prompt-UGC平台NFPrompt在X平台宣布，鉴于最近的安全问题，正在进行代币置换以弃用旧的NFP代币，并将使用新的智能合约。空投的代币代码和项目名称均不变，合约迁移包括冗余和额外的安全层，以保持一切严密。所有与已知黑客地址相关的NFP代币都被有效冻结，并且不会收到新的代币。 </p>
+<p dir="ltr">其他关键信息包括：1.官方正将旧的NFP合约迁移到更安全的合约；2.快照将于北京时间3月28日18:00进行。3.NFPrompt将与CEX协调进行旧NFP到新NFP的转换，并将新的NFP代币偿还给持有旧NFP的用户；4.将根据快照时间点的当前用户余额持有情况，对受影响的用户进行退款。5.将按照快照时间点的1:1比例分配全额代币持有量。6.在协调的CEX持有旧NFP代币的用户无需采取任何行动。7.新代币将按照1:1的比例空投给在快照前的持有旧，与黑客交易的代币不包括在内，在事件发生后从DEX、聚合器、钱包和其他链上来源购买的NFP代币将被排除在外。 此前3月15日消息，NFPrompt遭受黑客攻击，官方已将所有智能合约所有权转移至新地址。</p>
+<p dir="ltr"><strong>投融资消息</strong></p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/jupv4uyg.html">去中心化云基础设施提供商Hive完成1300万美元A轮融资，SC Ventures领投</a></p>
+<p dir="ltr">据《财富》杂志报道，去中心化计算和存储云服务提供商Hive在SC Ventures的领投下完成了1300万美元的A轮融资，OneRagtime等也参与了此轮投资。Hive计划利用这笔新资金来构建其去中心化云服务。该公司的云计算模型旨在通过聚合个人设备中未使用的硬盘和计算能力，促使云计算资源的去中心化，以帮助企业更有效地管理云服务费用，减少对少数云服务提供商的依赖，并降低能源消耗。</p>
+<p dir="ltr"><strong>融资消息</strong></p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/g2pze6o2.html">Web3 AI平台MyShell完成1100万美元融资，Dragonfly领投</a></p>
+<p dir="ltr">据The Block报道，基于Web3的人工智能平台MyShell在Dragonfly领投的一轮融资中筹集了1100万美元。该轮融资还吸引了Delphi Ventures、Bankless Ventures、Maven11 Capital、Nascent、Nomad Capital和OKX Ventures等投资者参与。此外，包括前Coinbase CTO Balaji Srinivasan、NEAR Protocol联合创始人Illia Polosukhin、前Paradigm投资伙伴Casey Caruso和前Parafi合伙人Santiago Santos在内的天使投资者也参与了本轮融资。MyShell专注于创作者的Web3 AI平台，允许创作者生成AI代理或机器人，并计划推出其代币。据MyShell CEO Ethan Sun透露，该公司自去年11月开始筹资，于上个月完成融资。 去年十月报道，基于opBNB的AI平台MyShell完成560万美元种子轮融资，INCE Capital领投。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/5kwh6tub.html">“混合”L2网络BOB完成1000万美元融资，Castle Island Ventures领投</a></p>
+<p dir="ltr">据CoinDesk报道，名为BOB("Build on Bitcoin")的“混合”二层区块链项目，旨在融合比特币和以太坊的特性，已成功筹集1000万美元资金。这一资金由Castle Island Ventures领投，Web3.com Ventures、Mechanism Ventures、Bankless Ventures、CMS Ventures和UTXO Management等参与。BOB计划推出首个与以太坊虚拟机（EVM）兼容的比特币二层网络，使得在比特币网络上可以执行以太坊风格的智能合约​​。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/t67k43d3.html">Web3游戏公司Elixir Games完成1400万美元种子轮融资</a></p>
+<p dir="ltr">据The Block报道，Web3游戏公司Elixir Games在其种子轮融资中获得了1400万美元的投资，投资方包括游戏巨头Square Enix、Shima Capital及Solana Foundation。这轮融资将使Elixir Games的总融资额达到2000万美元。公司计划利用这笔资金发展其游戏生态系统，预计于2024年第二季度上线，并支持其游戏产品中$ELIX代币的推出等项目。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/t7inf12b.html">NFT卡牌游戏Parallel完成3500万美元融资，Amber Group等参投</a></p>
+<p dir="ltr">据官方消息，NFT卡牌游戏Parallel宣布完成3500万美元新一轮融资，Solana Ventures、Amber Group、Distributed Global、Big Brain Holdings、OSS Capital、VanEck、Focus Labs、Builder Capital、Collab+Currency、Synergis、Spartan Capital、GoldenChain等参投。</p>
+<p dir="ltr">据悉，Parallel是一款科幻纸牌游戏，该项目围绕一个幻想故事情节展开，讲述了人类在试图解决全球能源危机的世界末日之后逃离太空的故事。 此前2021年10月消息，Parallel以5亿美元的估值从Paradigm融资5000万美元。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/y5v8859q.html">1kx的新加密投资基金已筹集7500万美元，Accolade为主要投资者</a></p>
+<p dir="ltr">据彭博社报道，风险投资家Marc Andreessen、Accolade Partners和Galaxy Digital投资于加密VC公司1kx的最新基金，随着数字资产融资从两年的低迷中小心翼翼地回暖。1kx创始合伙人Lasse Clausen表示，该基金筹集了7500万美元，Accolade是该新基金的主要投资者。尽管比特币价格创下历史新高，但风险投资资金依然保持低迷。1kx自2018年以来专注于包括针对消费者的加密应用在内的领域，该新基金已进行约五项投资​​。</p>
+<p dir="ltr"><strong>重要数据</strong></p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/79l40fs4.html">贝莱德代币化投资基金BUIDL资金流入已增至2.45亿美元</a></p>
+<p dir="ltr">据The Block报道，贝莱德美元机构数字流动性基金（BUIDL）推出第一周内已流入1.6亿美元，目前资金总流入已增至2.45亿美元。BUIDL投资于现金、美国国库券和回购协议。该基金的持有者会收到一种名为BUIDL的加密货币，每个代币的价值为1美元。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/vea2071t.html">以太坊验证者数量突破100万，其中质押的3200万枚ETH占总供应量的26%</a></p>
+<p dir="ltr">据Cointelegraph报道，Hildobby创建的用于跟踪以太坊质押进度的Dune Analytics仪表板显示，该网络的验证者数量达到100万，其中质押的3200万枚ETH占总供应量的26%。此外，大约30%的ETH是通过以太坊质押池Lido进行质押的。 </p>
+<p dir="ltr">虽然验证者的数量可以转化为区块链更高的安全性，但一些社区成员认为验证者太多可能会带来问题。风险投资者和以太坊倡导者Evan Van Ness表示，可以说已经“太多”了。运营质押池的Gabriel Weide认为，太多的验证者最终会导致“交易失败”。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/y914l2f2.html">某巨鲸于2小时将其全部17768枚ETH卖出兑换为6224万枚DAI</a></p>
+<p dir="ltr">据Spot on Chain监测，0xf2b开头巨鲸地址在2小时前以约3,503美元均价售出其全部17,768枚 ETH，兑换为6224万枚DAI。 值得注意的是，在这些代币中包含2018年到2021年期间，该地址从Gemini和Bittrex提取的14,277枚ETH，均价仅约679 美元（预计成本：969万美元）。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/juct1jn9.html">Dragonfly在Upbit上币公告后已向Bybit存入2100万枚MNT，约合2520万美元</a></p>
+<p dir="ltr">据Lookonchain监测，Dragonfly再次向Bybit存入了1050万枚MNT (约合1260万美元) 。 在Upbit宣布上市后，他已向Bybit存入2100万枚MNT（约合2520万美元） 。 他还在3月14日至3月17日期间向Bybit存入了1340万枚MNT（约合1300万美元），导致MNT的价格下跌了约23%。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/b8hyaih1.html">数据：美国比特币现货ETF昨日净流入约2.54亿美元</a></p>
+<p dir="ltr">据HODL15Capital监测，3月27日美国比特币现货ETF昨日净流入约2.54亿美元。 其中，灰度GBTC昨日净流出近3亿美元，Ark 21Shares的ARKB净流入约2亿美元，贝莱德的IBIT的资金净流入约3.24亿美元。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/2ux0qsbr.html">Base TVL突破30亿美元，创历史新高</a></p>
+<p dir="ltr">L2BEAT数据显示，Coinbase孵化的以太坊Layer2网络Base的锁定总价值（TVL）突破30亿美元，创历史新高，7日增幅达72.29%。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/w6hjmj72.html">某巨鲸再次从币安转出4267万枚GMT，价值1595万美元</a></p>
+<p dir="ltr">据链上分析师@ai_9684xtpa监测，过去十几分钟，某巨鲸地址再次从币安转出4267万枚GMT，价值1595万美元。 3月25日至3月28日期间，该地址已积累共计1.75亿枚GMT（价值6001万美元），平均成本0.34美元。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/isyn0g0r.html">Wintermute近3小时向币安存入900万枚ARB，约合1490万美元</a></p>
+<p dir="ltr">据The Data Nerd监测，过去3个小时内，Wintermute向币安存入900万枚ARB（约1490万美元）。</p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/wlszod90.html">黄立成的Meme项目Bobaoppa预售地址已筹集超20万枚SOL，价值约3800万美元</a></p>
+<p dir="ltr">PANews 3月28日消息，链上信息显示，台湾歌手黄立成推出的Solana Meme项目Bobaoppa预售地址已筹集204,019.85枚SOL，价值约3800万美元。 </p>
+<p dir="ltr"><a href="https://www.panewslab.com/zh/sqarticledetails/7hbe1c7r.html">比特币挖矿难度下调0.98%至83.13 T</a></p>
+<p dir="ltr">Mempool数据显示，比特币挖矿难度于今日17:51（区块高度836640处）迎来了挖矿难度调整，挖矿难度下调0.98%至83.13 T。</p>
+<p dir="ltr"><strong>PANews新功能「龙」重登场，焕新出发！</strong></p>
+<p dir="ltr">PANews APP及网页端上线4大实用新功能，助力获取专属自己的Alpha资讯：</p>
+<p dir="ltr">【今日必读】每日热点，迅速掌握；</p>
+<p dir="ltr">【发现】热门活动、行业关键数据实时查看；</p>
+<p dir="ltr">【观点】大V观点，看看有无道理；</p>
+<p>【深度】原创文章、行业研报、事件解读，带来深度思考。<a href="https://www.panewslab.com/download.html">立即下载</a>！</p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 18:58:11 +0800</pubDate>
+<pubDate>Thu, 28 Mar 2024 18:58:11 +0800</pubDate>
+</item>
 
 <item>
 <title>1kx的新加密投资基金已筹集7500万美元，Accolade为主要投资者</title>
