@@ -4,13 +4,14 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+
 <item>
 <title>EVM并行化有何意义？或是EVM霸权下的终局？</title>
 <link>https://www.panewslab.com/zh/articledetails/1jm72zedv6x5.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/1jm72zedv6x5.html</guid>
 <content:encoded><![CDATA[
 <div> 
-摘要：<br>这些信息是积极的。<br>Parallel EVM 概念备受几家VC关注，代表项目有Monad、Sei、MegaETH等，分为L1和L2。Parallel EVM优化EVM性能，挑战在于重构技术栈和处理并行交易冲突。难点包括预测冲突和提高重新执行效率，挑战在于构建差异性和平衡去中心化和性能。<br>Parallel EVM是未来的技术焦点，得到大量资本支持并推动区块链性能提升。 <div>
+摘要：<br />这些信息是积极的。<br />Parallel EVM 概念备受几家VC关注，代表项目有Monad、Sei、MegaETH等，分为L1和L2。Parallel EVM优化EVM性能，挑战在于重构技术栈和处理并行交易冲突。难点包括预测冲突和提高重新执行效率，挑战在于构建差异性和平衡去中心化和性能。<br />Parallel EVM是未来的技术焦点，得到大量资本支持并推动区块链性能提升。 <div>
 <p>TL;DR</p>
 <blockquote>
 <ol>
@@ -99,9 +100,7 @@
 <p>接下来，我们还会持续跟踪 Parallel EVM 各个项目的进展，并详细深入讨论他们的技术和差异。</p>
 ]]></content:encoded>
 <pubDate>Thu, 28 Mar 2024 17:00:34 +0800</pubDate>
-<pubDate>Thu, 28 Mar 2024 17:00:34 +0800</pubDate>
 </item>
-
 <item>
 <title>解读IMO：AI模型资产化，代币发行新玩法</title>
 <link>https://www.panewslab.com/zh/articledetails/5h5nd8il.html</link>
