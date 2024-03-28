@@ -13684,3 +13684,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [FTX创始人SBF因数十亿美元欺诈在纽约被判20年监禁](https://www.panewslab.com/zh/sqarticledetails/mqxyrhl4.html)
 append_entries: 1
 Finish: 2024-03-28 15:47:46.796539
+------------------------------------------------------
+Started: 2024-03-28 15:54:54.297346
+Existing_entries: 673
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+append_entries: 0
+Finish: 2024-03-28 15:54:56.780147
