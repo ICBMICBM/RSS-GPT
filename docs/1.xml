@@ -5,19 +5,30 @@
 <link>https://rss.panewslab.com/</link>
 
 <item>
+<title>比特币Layer2项目BEVM宣布推出其主网</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/jx79cuq0.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/jx79cuq0.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。基于Taproot Consensus的BTC Layer2项目BEVM在X平台推出主网，采用了Taproot共识和MAST技术实现自动签名，实现去中心化特点。 BEVM主网向所有人开放。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月28日消息，基于Taproot Consensus的BTC Layer2项目BEVM在X平台宣布推出其主网，该主网向所有人开放，基于Taproot共识，应用MAST实现自动签名。BEVM表示，Taproot共识的特点是去中心化。</p>
+<p>此前3月25日消息，<a href="https://www.panewslab.com/zh/sqarticledetails/s2zv7671.html" rel="noopener" target="_blank">BEVM完成种子轮及部分A轮千万美元融资，投后估值达2亿美元。</a></p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 11:28:58 +0800</pubDate>
+<pubDate>Thu, 28 Mar 2024 11:28:58 +0800</pubDate>
+</item>
+
+<item>
 <title>Ordinals创始人Casey公布Runes（符文）文档，引入“纪念碑”升级机制</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/xsgvd1ci.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/xsgvd1ci.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。<br>比特币NFT协议Ordinals创始人Casey Rodarmor在X平台公布了符文（Runes）文档，允许比特币交易蚀刻、铸造和转移比特币原生数字商品。符文是可互换的代币，存储在比特币交易输出中，且通过蚀刻创建并设置属性。符文也可以被赋予新的语义，称为纪念碑（cenotaphs），以改变符文的传输方式。纪念碑的符文会被销毁，但未升级的客户端不会受到影响。这为比特币交易带来了新的可能性。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。<br />比特币NFT协议Ordinals创始人Casey Rodarmor在X平台公布了符文（Runes）文档，允许比特币交易蚀刻、铸造和转移比特币原生数字商品。符文是可互换的代币，存储在比特币交易输出中，且通过蚀刻创建并设置属性。符文也可以被赋予新的语义，称为纪念碑（cenotaphs），以改变符文的传输方式。纪念碑的符文会被销毁，但未升级的客户端不会受到影响。这为比特币交易带来了新的可能性。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月28日消息，比特币NFT协议Ordinals创始人Casey Rodarmor在X平台公布Runes（符文）文档。根据该文档，符文允许比特币交易蚀刻、铸造和转移比特币原生数字商品。虽然每个铭文都是独一无二的，但符文的每个单位都是相同的；它们是可互换的代币，适合多种用途；符文允许比特币交易蚀刻、铸造和转移比特币原生数字商品。</p>
 <p>符文协议消息，称为Runestones（符文石），存储在比特币交易输出中；一笔交易最多只能有一个Runestones，Runestones可以蚀刻一个新的符文，铸造一个现有的符文，并将符文从交易的输入转移到输出，交易输出可以带有任意数量的符文余额。符文是通过蚀刻而形成，蚀刻创建一个符文并设置其属性，一旦设置这些属性就不可变，拥有预挖等功能；符文的蚀刻者可以选择为自己分配被蚀刻的符文单位，这种分配称为预挖。</p>
 <p>Runestones可能因多种原因而格式错误的，畸形的Runestones被称为纪念碑（cenotaphs），输入到纪念碑交易中的符文会被销毁。带有纪念碑的交易中的铸币计入铸造上限，但铸造的符文会被烧毁。纪念碑是一种升级机制，允许符文被赋予新的语义，从而改变符文的创建和传输方式，同时不会误导未升级的客户端这些符文的位置，因为未升级的客户端会看到这些符文已被销毁。</p>
 ]]></content:encoded>
 <pubDate>Thu, 28 Mar 2024 11:15:20 +0800</pubDate>
-<pubDate>Thu, 28 Mar 2024 11:15:20 +0800</pubDate>
 </item>
-
 <item>
 <title>Dragonfly在Upbit上币公告后已向Bybit存入2100万枚MNT，约合2520万美元</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/juct1jn9.html</link>
