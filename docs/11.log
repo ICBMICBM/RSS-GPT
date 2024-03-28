@@ -11385,3 +11385,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [LIVE: Sam Bankman-Fried Returns to New York Courthouse for Sentencing in FTX Fraud Case](https://www.coindesk.com/policy/2024/03/28/sam-bankman-fried-ftx-sentencing/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-28 13:37:20.601329
+------------------------------------------------------
+Started: 2024-03-28 13:44:51.018517
+Existing_entries: 278
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-03-28 13:44:51.612325
