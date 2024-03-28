@@ -13036,3 +13036,24 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [60+项目、7大赛道，一文解构AI+Crypto全景图](https://www.panewslab.com/zh/articledetails/6ia8uziu.html)
 append_entries: 7
 Finish: 2024-03-28 01:06:37.241579
+------------------------------------------------------
+Started: 2024-03-28 01:55:28.767435
+Existing_entries: 615
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 311
+Summarized using GPT-3.5-turbo-1106
+Append: [Linea将于4月推出旨在推动网络流动性的Linea Surge活动，参与者可收集SBT LXP-L](https://www.panewslab.com/zh/sqarticledetails/l3r6wcno.html)
+Token length: 171
+Summarized using GPT-3.5-turbo-1106
+Append: [KuCoin为应对近日提现延迟问题，向用户推出价值1000万美元的KCS和BTC空投活动](https://www.panewslab.com/zh/sqarticledetails/090zb3zu.html)
+Token length: 366
+Summarized using GPT-3.5-turbo-1106
+Append: [贝莱德CEO对其比特币ETF表现感到“惊喜”，并称非常看好比特币长期生存能力](https://www.panewslab.com/zh/sqarticledetails/ci2pjyof.html)
+Token length: 450
+Summarized using GPT-3.5-turbo-1106
+Append: [以太坊blob正被用来创建铭文，3月27日共有2437个以太坊blob铭文被创建](https://www.panewslab.com/zh/sqarticledetails/4ezpqoaz.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [60+项目、7大赛道，一文解构AI+Crypto全景图](https://www.panewslab.com/zh/articledetails/6ia8uziu.html)
+append_entries: 5
+Finish: 2024-03-28 01:55:50.830314

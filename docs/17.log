@@ -11315,3 +11315,15 @@ Fetching from https://en.foresightnews.pro/feed
 Feed error: text/html;charset=UTF-8 is not an XML media type
 append_entries: 0
 error when rendering xml, skip docs/17
+------------------------------------------------------
+Started: 2024-03-28 01:56:06.051479
+Existing_entries: 36
+Fetching from https://en.foresightnews.pro/feed
+Token length: 407
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitget Wallet Adds Exclusive ‘Solana Applications’ Token List](https://en.foresightnews.pro/bitget-wallet-adds-exclusive-solana-applications-token-list/?utm_source=rss&utm_medium=rss&utm_campaign=bitget-wallet-adds-exclusive-solana-applications-token-list)
+Token length: 422
+Summarized using GPT-3.5-turbo-1106
+Append: [Zircuit Launches Build to Earn Program to Reward Ecosystem Contributors](https://en.foresightnews.pro/zircuit-launches-build-to-earn-program-to-reward-ecosystem-contributors/?utm_source=rss&utm_medium=rss&utm_campaign=zircuit-launches-build-to-earn-program-to-reward-ecosystem-contributors)
+append_entries: 2
+Finish: 2024-03-28 01:56:13.504436
