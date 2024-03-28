@@ -13312,3 +13312,15 @@ Existing_entries: 641
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-28 06:57:20.027134
+------------------------------------------------------
+Started: 2024-03-28 07:11:11.266899
+Existing_entries: 641
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 74
+Summarized using GPT-3.5-turbo-1106
+Append: [Wintermute近3小时向币安存入900万枚ARB，约1490万美元](https://www.panewslab.com/zh/sqarticledetails/isyn0g0r.html)
+Token length: 1158
+Summarized using GPT-3.5-turbo-1106
+Append: [香港BTC ETF即将推出，有机会超越美国吗？](https://www.panewslab.com/zh/articledetails/afjqd6hg.html)
+append_entries: 2
+Finish: 2024-03-28 07:11:17.659591
