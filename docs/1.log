@@ -13504,3 +13504,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [PA日报｜Ethena将向用户空投7.5亿枚ENA代币；亚马逊将向AI公司Anthropic追加投资27.5亿美元](https://www.panewslab.com/zh/articledetails/73bqx3tf.html)
 append_entries: 3
 Finish: 2024-03-28 11:11:50.390487
+------------------------------------------------------
+Started: 2024-03-28 11:20:07.684181
+Existing_entries: 659
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 121
+Summarized using GPT-3.5-turbo-1106
+Append: [针对SBF的量刑听证会定于21:30在曼哈顿联邦法院进行，预计可能的监禁判决为20至30年](https://www.panewslab.com/zh/sqarticledetails/w1ij59az.html)
+append_entries: 1
+Finish: 2024-03-28 11:21:08.202338
