@@ -14404,3 +14404,12 @@ Existing_entries: 1000
 Fetching from https://www.chainfeeds.xyz/rss
 append_entries: 0
 Finish: 2024-03-28 09:31:11.859664
+------------------------------------------------------
+Started: 2024-03-28 09:39:44.828521
+Existing_entries: 1000
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 1273
+Summarized using GPT-3.5-turbo-1106
+Append: [美法官 Coinbase 诉讼案中「选边」SEC，利好 Base 生态？](https://www.theblockbeats.info/news/52438)
+append_entries: 1
+Finish: 2024-03-28 09:39:50.270344

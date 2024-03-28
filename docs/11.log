@@ -11259,3 +11259,15 @@ Existing_entries: 270
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-28 09:31:09.491815
+------------------------------------------------------
+Started: 2024-03-28 09:39:37.700305
+Existing_entries: 270
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 26
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin Halving Could Bolster ETF Tailwinds for the Cryptocurrency: Canaccord](https://www.coindesk.com/markets/2024/03/28/bitcoin-halving-could-bolster-etf-tailwinds-for-the-cryptocurrency-canaccord/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 117
+Summarized using GPT-3.5-turbo-1106
+Append: [Fewer Than 30% of Jurisdictions Globally Have Started Regulating Crypto: FATF Chief](https://www.coindesk.com/policy/2024/03/28/fewer-than-30-of-jurisdictions-globally-have-started-regulating-crypto-fatf-chief/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 2
+Finish: 2024-03-28 09:39:42.966045

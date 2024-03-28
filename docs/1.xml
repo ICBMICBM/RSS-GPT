@@ -4,6 +4,56 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>公链的新叙事之Fantom：Sonic出场重启性能竞赛</title>
+<link>https://www.panewslab.com/zh/articledetails/9ioogrr7.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/9ioogrr7.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>文章介绍了Fantom公链的最新动态，包括治理代币FTM市场表现突出、推出新技术Sonic、构建Meme币生态、与Frax合作修复Defi生态以及面临的挑战。AC对Fantom表达信心，Sonic技术升级将提升性能，Meme币生态发展取得进展，与Frax合作带来新机会，但仍需面对Multichain事件造成的损失和强大对手的竞争。AC的回归可能带来推动力，但技术升级仍需验证。整体而言，Fantom面临卷土重来的挑战和机遇。 <div>
+<p dir="ltr"><strong>作者：Frank，PANews</strong></p>
+<p dir="ltr"><strong>编者按：</strong></p>
+<p dir="ltr"><em><strong>公链，是区块链技术生长的土壤。在区块链技术发展进步的过程中，公链技术的创新与演进起到了不可磨灭的作用。从比特币到以太坊，为加密世界带来了智能合约的新版图；从以太坊走向Solana等新公链，则打开了Web3走向大规模应用的可能性。而在每一轮牛市之中，都有新的公链佼佼者脱颖而出，成为一轮牛市的风向标和技术革新的新摇篮。为了对整个加密世界有更深刻的认识，PANews特此推出“公链新叙事”的系列文章，从各个公链的最新动态、技术变化、市场潜力等探讨其新叙事与潜力。</strong></em></p>
+<p dir="ltr"> </p>
+<p dir="ltr">最近一个月来，Fantom的治理代币FTM的市场表现在众多公链中显得格外突出。从2月24日的0.42美金到3月21日上涨最高至1.23美金，涨幅近3倍。在众多Meme的浪潮环绕之下，取得这样的市场表现可谓是亮眼。</p>
+<p dir="ltr">“今天我对 Fantom 的信心比 2019 年更加坚定。团队比以前强大 100 倍。财政状况比以前强大 250 倍。我们的技术堆栈速度提高了 160 倍，更加优化。如果你认为 Fantom 会归零或消失在无关紧要的区块链项目的海洋中，我很愿意接受这个反向赌注。”有着Defi教父之称的Andre Cronje（以下简称“AC”）在推特上再次表达了对Fantom的信心，虽然几度退圈，但是AC对于Fantom却是一如既往。AC信心或许来自于Fantom在3月25日刚刚发布的新技术Sonic。据Fantom官方介绍，“Fantom 团队在过去两年里一直在努力构建我们的新技术 Sonic，这是迄今为止最具可扩展性和安全性的区块链技术。与 Opera 的 200 TPS 相比，Sonic 能够以亚秒级的速度处理 2,000 TPS，这是一个巨大的进步。”Sonic技术也将可能成为Fantom在未来几年内的主要叙事之一。</p>
+<p dir="ltr">伴随着AC的造势，Fantom正从multichain事件的泥潭中走出。这一轮牛市，PANews通过对Fantom的近期动态分析，即将进行的 Sonic升级、构建Meme币生态以及AC的回归等可能将成为Fantom在本轮牛市卷土重来的主要元素。</p>
+<h3 dir="ltr">Sonic升级成为Fantom的重头戏</h3>
+<p dir="ltr">Sonic升级无疑是Fantom目前重点的叙事内容。3月25日，Fantom创始人Michael Kong在博客中发布了Sonic的第一部分。这条博文中介绍了Fantom Sonic相关的性能升级内容和一系列治理方案。在Fantom Sonic的介绍中显示，Fantom Sonic能够实现10倍以上的TPS提升。按照以往的惯例来看，公链崛起的原始故事都是和性能相关，这一点在Solana、 Avalanche等此前的明星公链上都得以体现。</p>
+<p dir="ltr">对于Fantom来说，技术部分显然是目前最重头的叙事内容。不论是Fantom基金会还是AC，近期都在极力宣传Sonic的性能优势。总结来看，Sonic的主要性能提升在于效率的提升，结合有向无环图（DAG）和拜占庭容错（BFT），Fantom 实现了无需中心化领导者的共识机制，与 Fantom 现有的 Opera 链相比，Sonic 的性能有了巨大的提升。</p>
+<p dir="ltr">Andre Cronje在推特上对EVM和FVM做了一个显著对比：</p>
+<p dir="ltr">基本的以太坊虚拟机（EVM）的上限约为 200 TPS，通过增加乐观并行性（具有预见性的最佳情况），最多可以提高 40 TPS，总计最大 240 TPS。</p>
+<p dir="ltr">基本的 Fantom 虚拟机（FVM）的上限约为 30,000 TPS，通过增加蛮力并行（坏），最多可以提高 4,500 TPS，总计最大 34,500 TPS。</p>
+<p dir="ltr">那如何理解这项技术所带来的变化？我们可以用一个简单的类比来解释：</p>
+<p dir="ltr">想象一下，你正在经营一家快餐店（以太坊主链），顾客（交易）排着长队等待点餐和取餐。为了提高服务效率，你想到了两种解决方案：</p>
+<p dir="ltr">并行 EVM：就像在快餐店内增加多个点餐窗口和厨房，让多个员工同时为顾客服务。每个点餐窗口和厨房都能独立工作，但它们仍然在同一个快餐店内，遵循相同的规则和流程。通过并行处理顾客的订单，快餐店的服务速度和顾客满意度得到了提高。</p>
+<p dir="ltr">Sonic：Sonic 的工作原理类似于引入了一个高度优化的中央厨房，它可以在短时间内制作大量的标准化食品，然后快速分发给各个分店（Layer 1 和 Layer 2）。这个中央厨房（Sonic）采用了先进的设备和流程，能够以极高的速度和效率生产食品，远远超过了单个快餐店或分店的制作能力。</p>
+<p dir="ltr">如果技术能够如期实现，将可能为Fantom生态带来更多的新项目和用户。为此，Fantom基金会也提出了关于扩大和加快Sonic Labs 资助计划（Sonic Labs是Fantom今年2月推出的创业加速器计划，旨在促进其新Sonic技术栈内的创新。该计划将选出最多五个项目，每个项目将获得100万FTM（约29.4万美元）资金、技术支持、共同营销和导师指导），同时还表示也将推出一系列针对用户的奖励活动，预计新链将在今年夏末秋初推出。</p>
+<h3 dir="ltr">官方主动带货Meme币能够复刻Solana式传奇？</h3>
+<p dir="ltr">Meme币生态已经成为本轮牛市中的公链必争之地了，甚至颇有得Meme者得天下的态势。近期，Fantom基金会转发了一条关于$sGOAT的Meme的介绍。使得$sGOAT上线仅一天就已经成为Fantom上持币人最多的MEME币（1000多持币者）。结合Fantom官方关于升级的一些内容，包括对性能的提升，Gas费的降低，使得Fantom构建了适合Meme生态成长的土壤。结合在介绍时拿Solana专门进行对比。再加上官方主动转发一些Meme信息，Fantom对Meme的兴趣要比之前大得多。</p>
+<p dir="ltr"><img alt="公链的新叙事之Fantom：Sonic出场重启性能竞赛" height="544" src="https://cdn-img.panewslab.com/panews/2024/03/28/images/KFc6nIlC3b.png" style="display: block; margin-left: auto; margin-right: auto;" width="600" /></p>
+<p dir="ltr" style="text-align: center;">Fantom基金会转发关于Meme币$sGOAT的推特</p>
+<p dir="ltr">不过，Meme币的爆发往往代表的是生态繁荣的结果。Fantom生态的项目目前为254个，2024年2月曾一度迎来新地址的突增，最高单日新增57万个。但在近期官方动作频频的情况下，每日新增地址仅为数千个。每日新发行Meme币数量也为100个左右，平均的持币人也仅为20~30人之间。据tokenterminal数据显示，Fantom近一个月的平均日活用户约在5万人左右。总体来看，生态的活跃度仍与以太坊、Solana等公链存在不小的差距。</p>
+<p dir="ltr"><img alt="公链的新叙事之Fantom：Sonic出场重启性能竞赛" src="https://cdn-img.panewslab.com/panews/2024/03/28/images/3lBf49g82b.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p dir="ltr">好在Fantom可能仍留有一张王牌可以拉动Meme币市场的活跃。那就是Andre Cronje的回归，AC过去是加密世界里一位风云话题人物，其影响力不可小觑。22年3月份，AC宣布离开Fantom，导致YFI下跌10%，FTM下跌20%。而在2022年11月AC宣布回归Fantom后又再次引发FTM上涨44%。如今，AC再次活跃在推特上开始为Fantom造势，类比此前Solana的创始人喊单Meme币的效果。有着Defi教父之称的AC一旦开始带货Meme，也许会有不一样的效果。</p>
+<h3 dir="ltr">或联手Frax修复Defi生态</h3>
+<p dir="ltr">对于想要重启的最大困难可能还是Multichain事件所带来的余患，在Multichain事件中，Fantom 的生态系统损失约占总损失的三分之一，约为6500万美元。最近，Fantom基金会向法院申请对Multichain 基金会进行清算，以帮助追回和分配丢失或冻结的资产。即便如此，仍可以看到在AC和Fantom基金会的推特评论区里充斥着大量关于Multichain事件导致损失用户的抱怨。自Multichain事件后，Fantom的链上TVL量迅速下跌，从平均2亿美金的规模降至7000万左右，到目前也仅恢复至最高1.5亿美元。</p>
+<p dir="ltr">在Fantom列出的254个生态项目中，Defi项目为118个，占比近一半。Defi生态的复苏或许是Fantom的当务之急。</p>
+<p dir="ltr"><img alt="公链的新叙事之Fantom：Sonic出场重启性能竞赛" src="https://cdn-img.panewslab.com/panews/2024/03/28/images/rVKu7WC8gQ.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p dir="ltr">3月28日，Fantom宣布新一轮针sonic的融资的进展情况，首位参与的天使投资人是FraxFinance 的创始人。与Frax的合作对Fantom的Defi复苏或能找到一些新的路径。不过这也仍需观察双方的合作程度。</p>
+<p dir="ltr"><img alt="公链的新叙事之Fantom：Sonic出场重启性能竞赛" src="https://cdn-img.panewslab.com/panews/2024/03/28/images/oPDeSJ52AC.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p dir="ltr">当前，对高性能、可扩展的区块链基础设施的需求日益增长。如果 Fantom Sonic 能够实现其高性能、可扩展的目标，并建立起一个活跃、多样化的生态系统,它有望成为区块链基础设施领域的重要参与者。</p>
+<p dir="ltr"><img alt="公链的新叙事之Fantom：Sonic出场重启性能竞赛" src="https://cdn-img.panewslab.com/panews/2024/03/28/images/Q8Fuc8Wa4L.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h3 dir="ltr">强敌环伺 卷土重来未可知</h3>
+<p dir="ltr">在Fantom所处的Layer1赛道，有着以太坊和Solana等强力对手。</p>
+<p dir="ltr">Fantom针对这两个生态竞争者在营销上做了极具针对性的策略。首先是利用性能优势针对在以太坊上进行的并行EVM，AC在推特上表示：“并行技术甚至都排不到 Fantom 技术改进的前三名”。</p>
+<p dir="ltr">而对于Solana这个性能更强的对手，Fantom则重点放在抨击Solana的性能稳定性。在Fantom基金会转发的Reflexivity Research一份关于Fantom2024年第一季度报告中，重点强调了Fantom自上线以来99.9%的时间处于正常运行时间，而作为对比，Solana的多次宕机事故则被作为重点的抨击对象。</p>
+<p dir="ltr">不过Fantom也存在着诸多不确定性因素。AC的复出虽然在一定程度上为Fantom带来活跃度。但从AC此前反复退圈又复出的个性来看，其个人的变化也可能成为Fantom的不确定因素。一旦成员出现重大变动,或者在关键决策上出现失误,可能会对项目的发展和社区信心产生负面影响。</p>
+<p dir="ltr">另外，Fantom Sonic未接受性能验证，目前的Fantom Sonic性能优势都是建立在测试环境下。鉴于该升级仍未完成，其技术实现仍需经受实际应用和大规模交易的考验。2023年4月，AC曾表示Fantom计划推出自己的加密银行，并计划在当年推出。时至今日，此事尚无下文。</p>
+<p dir="ltr">区块链基础设施领域竞争激烈及行业叙事结构的变化，Fantom 面临来自其他 Layer 1 和高性能区块链项目的竞争是本轮牛市最大的市场压力。而随着行业的演进，单纯靠性能指标作为主要叙事很难获得太多认可也已成为不争的事实。或许，Fantom从来就不缺叙事，实现叙事的愿景或许更为市场认可。</p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 17:35:59 +0800</pubDate>
+<pubDate>Thu, 28 Mar 2024 17:35:59 +0800</pubDate>
+</item>
 
 <item>
 <title>EVM并行化有何意义？或是EVM霸权下的终局？</title>

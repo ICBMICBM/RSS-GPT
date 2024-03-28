@@ -4,6 +4,23 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>美法官 Coinbase 诉讼案中「选边」SEC，利好 Base 生态？</title>
+<link>https://www.theblockbeats.info/news/52438</link>
+<guid>https://www.theblockbeats.info/news/52438</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>在一份裁决中，美国纽约南区地方法院否决了Coinbase的驳回动议，允许SEC继续指控Coinbase未注册证券交易平台，经纪人和清算机构运营，并参与未注册证券发行和销售。法官否认SEC关于Coinbase钱包充当未注册经纪人的说法。Coinbase推出智能钱包解决方案，并计划在Base上存储更多USDC余额，以降低费用和提高结算速度。这一裁决对Base和链上DeFi带来更多市场可能性。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>在一份长达 84 页的命令中，美国纽约南区地方法院否决了 Coinbase 的驳回动议，该动议是 SEC 针对 Coinbase 提出的未能注册为证券业务的案件。这一裁决认为 SEC 对 Coinbase 提出了「合理」的指控，允许 SEC 继续指控 Coinbase 作为未注册的交易平台、经纪人、清算机构运营，并通过其质押计划「参与未注册的证券发行和销售」。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.theblockbeats.info/news/52438">https://www.theblockbeats.info/news/52438</a></p>
+<p><strong>文章作者：</strong></p><p>BlockBeats</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>BlockBeats：</strong>去年 6 月，SEC 起诉了 Coinbase，指控其向公众提供交易和质押服务，违反了联邦证券法，还认为 Coinbase Wallet 充当了未注册的经纪公司。同一周，SEC 还起诉了 Binance，但这一诉讼已于去年年底尘埃落定。同年 7 月，Coinbase 在其对 SEC 提起的诉讼中提交了一份回应文件和一份寻求驳回立案的申请，回应了监管机构对其非法经营未注册证券交易所的指控。而 美国纽约南区地方法院否决了 Coinbase 的驳回动议是 Coinbase 与 SEC 交锋的又一关键动态。Paul Grewal 于昨日晚间发言称「今天，法院决定我们的 SEC 案件将继续推进大部分索赔，但驳回了针对 Coinbase Wallet 的索赔。我们已为此做好准备，并期待更多地了解 SEC 关于加密货币监管的内部观点和讨论。」
+
+昨日的法院裁决中还有值得关注的一点，市场也给出了良好的反应，那就是在裁决中 Failla 法官驳回了 SEC 关于 Coinbase 通过其钱包应用程序充当未注册经纪人的说法。Coinbase 认为 Wallet 不「进行路由活动」，「无法控制用户的加密资产或通过 Wallet 进行的交易」，并且用户「是交易的唯一决策者」，而 Wallet「只是提供用户在市场上其他 DEX 上安排交易的技术基础设施」。这一裁决是对这里所讨论的技术的真正认可，因此这也为 Base 以及链上 DeFi 迎来了更多市场可能性。
+
+Coinbase 于今年 2 月底宣布推出两种新钱包解决方案 —— 智能钱包和嵌入式钱包，旨在让新用户更容易进入链上并克服创建加密钱包的用户体验障碍。相关解决方案将被添加到 Coinbase Wallet SDK 中，允许用户在不需要长串种子短语的情况下创建和使用钱包。而 Base 在 2024 年路线图中设定的目标之一是让智能钱包成为默认选项。这项裁决出来后，加密 KOL 更是直言「Jesse（Base 协议负责人）正在 Base 上跳起快乐的舞蹈。」Coinbase 副总裁 Max Branzburg 在社交媒体发文表示，「未来，Coinbase 将在 Base 上存储更多的企业和客户 USDC 余额。这使 Coinbase 能够以更低的费用和更快的结算时间管理和保护客户资金，而不会影响 Coinbase 用户体验。Coinbase 很高兴继续将业务转移到链上，并希望其他公司能够效仿 Coinbase 的做法。」</p><a href="https://www.theblockbeats.info/news/52438">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-28T09:04:40+00:00</pubDate>
+</item>
 
 <item>
 <title>【英文】YGG 如何利用链上可组合声誉系统构建 Web3 游戏增长飞轮？</title>
