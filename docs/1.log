@@ -13087,3 +13087,15 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [60+项目、7大赛道，一文解构AI+Crypto全景图](https://www.panewslab.com/zh/articledetails/6ia8uziu.html)
 append_entries: 1
 Finish: 2024-03-28 02:33:49.436199
+------------------------------------------------------
+Started: 2024-03-28 02:41:04.276664
+Existing_entries: 623
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 452
+Summarized using GPT-3.5-turbo-1106
+Append: [NFPrompt因安全问题将进行代币置换以弃用旧NFP代币，快照将于今日18:00进行](https://www.panewslab.com/zh/sqarticledetails/b11y07us.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [60+项目、7大赛道，一文解构AI+Crypto全景图](https://www.panewslab.com/zh/articledetails/6ia8uziu.html)
+append_entries: 2
+Finish: 2024-03-28 02:41:09.612700
