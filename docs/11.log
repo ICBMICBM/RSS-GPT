@@ -11526,3 +11526,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Sam Bankman-Fried Deserves a Life After Prison](https://www.coindesk.com/consensus-magazine/2024/03/28/sam-bankman-fried-deserves-a-life-after-prison/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-28 16:57:17.873134
+------------------------------------------------------
+Started: 2024-03-28 17:11:58.612534
+Existing_entries: 283
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-03-28 17:11:59.234008
