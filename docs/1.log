@@ -13456,3 +13456,15 @@ Existing_entries: 653
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-28 09:54:28.172169
+------------------------------------------------------
+Started: 2024-03-28 10:07:31.869556
+Existing_entries: 653
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 85
+Summarized using GPT-3.5-turbo-1106
+Append: [比特币挖矿难度下调0.98%至83.13 T](https://www.panewslab.com/zh/sqarticledetails/7hbe1c7r.html)
+Token length: 1321
+Summarized using GPT-3.5-turbo-1106
+Append: [分析200个聪明钱地址后，他们正在Base上积累哪些低市值Meme？](https://www.panewslab.com/zh/articledetails/csx6vc2g.html)
+append_entries: 2
+Finish: 2024-03-28 10:07:42.927573
