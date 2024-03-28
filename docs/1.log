@@ -13546,3 +13546,15 @@ Existing_entries: 663
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-28 12:56:09.096686
+------------------------------------------------------
+Started: 2024-03-28 13:10:18.126112
+Existing_entries: 663
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 185
+Summarized using GPT-3.5-turbo-1106
+Append: [Web3 AI公司FLock完成600万美元种子轮融资，Lightspeed Faction和Tagus Capital领投](https://www.panewslab.com/zh/sqarticledetails/7sjguwwm.html)
+Token length: 3534
+Summarized using GPT-3.5-turbo-1106
+Append: [读懂Plume Network：专用于RWA的模块化L2（附交互教程）](https://www.panewslab.com/zh/articledetails/mtzx3w8e.html)
+append_entries: 2
+Finish: 2024-03-28 13:10:27.951371
