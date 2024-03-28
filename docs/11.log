@@ -11406,3 +11406,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Dogecoin Bets Jump to $2B as Price Reaches Highest Level Since 2021](https://www.coindesk.com/markets/2024/03/28/dogecoin-bets-jump-to-2b-as-price-reaches-highest-level-since-2021/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-28 13:59:32.398999
+------------------------------------------------------
+Started: 2024-03-28 14:16:07.263213
+Existing_entries: 279
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-03-28 14:16:07.696714

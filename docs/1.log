@@ -13600,3 +13600,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [法官驳回了SBF的辩护](https://www.panewslab.com/zh/sqarticledetails/jyp6fwlr.html)
 append_entries: 1
 Finish: 2024-03-28 13:59:20.295108
+------------------------------------------------------
+Started: 2024-03-28 14:15:49.738044
+Existing_entries: 667
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 60
+Summarized using GPT-3.5-turbo-1106
+Append: [法官发现SBF试图篡改证人并在审判中提供伪证](https://www.panewslab.com/zh/sqarticledetails/34t94iv5.html)
+Token length: 2062
+Summarized using GPT-3.5-turbo-1106
+Append: [LD Capital：病毒式传播的Notcoin，能否成为Ton生态破圈的meme币？](https://www.panewslab.com/zh/articledetails/58uv2587w6vs.html)
+append_entries: 2
+Finish: 2024-03-28 14:15:57.239764
