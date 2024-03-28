@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>比特币二层 CKB 解构：进展与前景如何？</title>
 <link>https://ld-capital.medium.com/ld-capital-nervos-network-ckb-utxo%E5%90%8C%E6%9E%84%E7%9A%84btc-l2-41aafd88f05d</link>
 <guid>https://ld-capital.medium.com/ld-capital-nervos-network-ckb-utxo%E5%90%8C%E6%9E%84%E7%9A%84btc-l2-41aafd88f05d</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。LD Capital对BTC L2 CKB的产品特点进行了介绍，包括采用的PoW机制、Cell模型、RGB++协议和Spore协议。CKB生态初具雏形，包括钱包、跨链桥、DID、DEFI等项目。链上数据显示交易次数增长且活跃度增加，但持仓分布较为集中。前十大持仓地址中有几个未参与质押。整体看来，CKB正处于起步阶段，但链上数据呈现明显增长趋势。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。LD Capital对BTC L2 CKB的产品特点进行了介绍，包括采用的PoW机制、Cell模型、RGB++协议和Spore协议。CKB生态初具雏形，包括钱包、跨链桥、DID、DEFI等项目。链上数据显示交易次数增长且活跃度增加，但持仓分布较为集中。前十大持仓地址中有几个未参与质押。整体看来，CKB正处于起步阶段，但链上数据呈现明显增长趋势。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>BTC L2 的兴起是这一轮行情不可忽视的叙事。LD Capital 撰文对 UTXO 同构的 BTC L2 CKB 的产品特点、生态发展和代币经济模型进行了介绍。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://ld-capital.medium.com/ld-capital-nervos-network-ckb-utxo%E5%90%8C%E6%9E%84%E7%9A%84btc-l2-41aafd88f05d">https://ld-capital.medium.com/ld-capital-nervos-network-ckb-utxo%E5%90%8C%E6%9E%84%E7%9A%84btc-l2-41aafd88f05d</a></p>
 <p><strong>文章作者：</strong></p><p>LD Capital</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>LD Capital：</strong>产品核心：1）PoW：底层采用 POW 机制，完全无需许可的，用户只需要购买矿机和电力就可以参与出块。挖矿算法为 Eaglesong，项目算力从 2022 年底至今处于增长状态，2023 年底至今涨幅翻倍；
@@ -21,10 +22,8 @@ CKB 生态初具雏形，包括钱包、跨链桥、DID、DEFI 等项目。不�
 
 CKB 代币持仓分布集中度较高，链上共有 27 万个地址持有 CKB，其中前 100 持仓地址持有 76.93% 的代币，前 10 地址持仓 54.28%，币安的地址中持有超过 32% 的代币。前 10 持仓地址中，扣除交易所地址，另有 4 个未标记地址。其中，第四大地址于 2023 年 5 月建仓，此后持续转入，最晚一笔转入为 2024 你那 3 月 25 日，未参与质押。第五大地址未 2023 年 5 月建仓，仅有一笔转入，未参与质押。第八大地址为 2021 年建仓，仅一笔转入，全部参与质押。第 9 大地址为 2024 年 3 月 22 日建仓，未参与质押。</p><a href="https://ld-capital.medium.com/ld-capital-nervos-network-ckb-utxo%E5%90%8C%E6%9E%84%E7%9A%84btc-l2-41aafd88f05d">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-28T04:37:41+00:00</pubDate>
 </item>
-
 <item>
 <title>【英文长推】新项目简介 | 去中心化算力网络 BasedAI：如何兼顾隐私和效率？</title>
 <link>https://twitter.com/0xSalazar/status/1772957903575761018</link>
@@ -11033,16 +11032,6 @@ Morph 是一种完全无需许可的 EVM L2，它结合了 optimistic 和 zk rol
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />这些信息是积极的。Polyhedra Network以10亿美元估值完成了2000万美元的战略融资，由Polychain Capital领投，其他投资者包括Animoca Brands、Hashkey Capital、Longhash Ventures等。他们计划将筹集的资金用于招聘跨职能部门的人员，将团队扩大到约80人。这表明zkBridge在互操作协议领域取得了成功，并受到投资者的认可。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK互操作协议zkBridge的开发商Polyhedra Network以10亿美元估值完成了2000万美元的战略融资，Polychain Capital领投。Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital等也参投。融资将用于招聘，将团队扩大到约80人。<br /><br />这些信息是积极的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
