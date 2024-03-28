@@ -10286,3 +10286,9 @@ Fetching from https://news.crunchbase.com/sections/crypto/feed
 Feed error: <unknown>:33:227: not well-formed (invalid token)
 append_entries: 0
 error when rendering xml, skip docs/9
+------------------------------------------------------
+Started: 2024-03-28 15:14:21.106194
+Existing_entries: 11
+Fetching from https://news.crunchbase.com/sections/crypto/feed
+append_entries: 0
+Finish: 2024-03-28 15:14:21.418511

@@ -13645,3 +13645,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [SBF承认自己的决策导致了FTX和Alameda Research的崩溃，对此表示抱歉](https://www.panewslab.com/zh/sqarticledetails/85q33oto.html)
 append_entries: 1
 Finish: 2024-03-28 14:58:35.551845
+------------------------------------------------------
+Started: 2024-03-28 15:14:06.261283
+Existing_entries: 670
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 285
+Summarized using GPT-3.5-turbo-1106
+Append: [FTX Estate出售价值75亿美元的锁定SOL引起了强烈的市场兴趣](https://www.panewslab.com/zh/sqarticledetails/hslotisq.html)
+append_entries: 1
+Finish: 2024-03-28 15:14:14.610691
