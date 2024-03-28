@@ -13978,3 +13978,12 @@ Existing_entries: 675
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-28 23:22:31.283211
+------------------------------------------------------
+Started: 2024-03-28 23:29:49.048932
+Existing_entries: 675
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 161
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitwise已向美国SEC提交以太坊现货ETF申请](https://www.panewslab.com/zh/sqarticledetails/upvkcwl7.html)
+append_entries: 1
+Finish: 2024-03-28 23:29:53.759715
