@@ -4,6 +4,19 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>铭文推动blob达到以太坊上设定的使用容量限制</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/r4xxxv7a.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/r4xxxv7a.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>最近以太坊上Blob交易数量激增，超出网络容量，40%的Blob交易与铭文相关。以太坊核心开发者引入了Blob功能，成功降低了Layer 2交易成本，将节省下来的费用传递给最终用户。Blob上的铭文功能开始受到压力测试，Arbitrum、Optimism等其他Layer2中发布的Blob使用率最高。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月28日消息，据The Block报道，以太坊上Blob交易的数量激增，超出了网络设定的容量。这种增长趋势源于Blob铭文的引入，这一功能增加了对Blob利用的需求。</p>
+<p>以太坊核心开发者之前在主网上实施了Dencun 升级，引入了“Blob”功能，以降低Layer 2交易的成本，成功地使Layer 2能够使用Blob来代替“calldata”方法发布交易，从而直接减少了费用，并将这些节省下来的费用传递给了最终用户。然而，最近Blob上铭文功能的引入开始对这一特性进行压力测试。</p>
+<p>由Hildobby维护的Dune Analytics仪表板分析显示了一个显著的趋势：现在40%的Blob交易与铭文相关。这是 Arbitrum、Optimism、Base和Linea等其他以太坊Layer2中发布的blob的最高使用率。</p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 14:43:18 +0800</pubDate>
+<pubDate>Thu, 28 Mar 2024 14:43:18 +0800</pubDate>
+</item>
 
 <item>
 <title>减半不足一个月，比特币生态5大热门项目扎堆“搞事”</title>
