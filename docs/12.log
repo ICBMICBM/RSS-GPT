@@ -11112,3 +11112,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Crypto Crackdown: US, UK Zero In On Hamas Funds In Gaza](https://bitcoinist.com/crypto-crackdown-us-uk-zero-in-on-hamas-funds/)
 append_entries: 1
 Finish: 2024-03-28 15:14:33.255781
+------------------------------------------------------
+Started: 2024-03-28 15:25:14.340253
+Existing_entries: 167
+Fetching from https://bitcoinist.com/feed
+append_entries: 0
+Finish: 2024-03-28 15:25:14.607580
