@@ -13057,3 +13057,24 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [60+项目、7大赛道，一文解构AI+Crypto全景图](https://www.panewslab.com/zh/articledetails/6ia8uziu.html)
 append_entries: 5
 Finish: 2024-03-28 01:55:50.830314
+------------------------------------------------------
+Started: 2024-03-28 02:19:21.053413
+Existing_entries: 619
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 175
+Summarized using GPT-3.5-turbo-1106
+Append: [某巨鲸于2小时将其全部17768枚ETH卖出兑换为6224万枚DAI](https://www.panewslab.com/zh/sqarticledetails/y914l2f2.html)
+Token length: 5208
+Summarized using GPT-3.5-turbo-1106
+Append: [昨夜今晨重要资讯（3月27日-3月28日）](https://www.panewslab.com/zh/sqarticledetails/mekdl1b9.html)
+Token length: 399
+Summarized using GPT-3.5-turbo-1106
+Append: [链游Illuvium在路线图中披露Beta 4细节以及空投预期](https://www.panewslab.com/zh/sqarticledetails/cdaea0cy.html)
+Token length: 2946
+Summarized using GPT-3.5-turbo-1106
+Append: [比特币与以太坊的桥梁：BadgerDAO的最新举措，市场创新还是过度炒作？](https://www.panewslab.com/zh/articledetails/4e5czvznbr3u.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [60+项目、7大赛道，一文解构AI+Crypto全景图](https://www.panewslab.com/zh/articledetails/6ia8uziu.html)
+append_entries: 5
+Finish: 2024-03-28 02:19:50.817622

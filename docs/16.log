@@ -14116,3 +14116,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [比特币二层网络 BOB 完成 1000 万美元种子轮融资，Castle Island Ventures 领投](https://www.coindesk.com/business/2024/03/27/hybrid-layer-2-bob-raises-10m-to-support-evm-compatible-bitcoin-layer-2/)
 append_entries: 1
 Finish: 2024-03-28 01:56:06.024802
+------------------------------------------------------
+Started: 2024-03-28 02:20:03.264527
+Existing_entries: 1001
+Fetching from https://www.chainfeeds.xyz/rss
+append_entries: 0
+Finish: 2024-03-28 02:20:03.971510
