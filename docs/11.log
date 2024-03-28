@@ -11430,3 +11430,12 @@ Existing_entries: 279
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-28 14:43:16.305612
+------------------------------------------------------
+Started: 2024-03-28 14:50:56.658376
+Existing_entries: 279
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 65
+Summarized using GPT-3.5-turbo-1106
+Append: [MicroStrategy Trades at an Unjustifiable Premium to Bitcoin: Kerrisdale Capital](https://www.coindesk.com/markets/2024/03/28/microstrategy-trades-at-an-unjustifiable-premium-to-bitcoin-kerrisdale-capital/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-28 14:50:59.407225
