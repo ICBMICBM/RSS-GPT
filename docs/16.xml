@@ -4,6 +4,23 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>【长推】如何看待 B² Network 牵手 Babylon？</title>
+<link>https://twitter.com/tmel0211/status/1772851898556821817</link>
+<guid>https://twitter.com/tmel0211/status/1772851898556821817</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的<br>1）B² Hub 是在B² Network的DA层中的关键组件，处理验证网络、存储、数据处理等。Babylon带来了BTC质押系统，保障外部POS系统安全。<br>2）Babylon采取时间锁、签名方案和EOTS签名机制来确保安全性。<br>3）Babylon为B² Hub提供安全支持，通过共识机制、共识和CheckPoint设置以及利用BTC时间戳防止攻击。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>B² Network 推出了 B² Hub 模块化 DA 层，而 Babylon 则将原生资产质押生息带入 BTC 网络。加密研究员将二者的合作类比成 Celestia 模块化 DA 和 Eigenlayer 共享安全层的组合，并对其技术实现进行了解读。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/tmel0211/status/1772851898556821817">https://twitter.com/tmel0211/status/1772851898556821817</a></p>
+<p><strong>文章作者：</strong></p><p>Haotian</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Haotian：</strong>1）B² Hub 是 B² Network 的 DA 层中的关键组件，相当于一个去中心化的验证网络，它会处理 Sequencer 筛选、分布式 Storage 存储、ZK-Rollup 层传来的数据和证明的 Prove 处 理、生成 Commitment 向 BTC 主网发送 inscription 后的 Indexer 维护、以及对挑战者进行 Commitment 挑战的结果验证等等。关于验证网络安全性的保障，B² Hub 和 Babylon 合作之后，可以让 Validators 直接参与到 BTC 主网的资产质押，随后可用其保障外部 POS 系统的安全；
+
+2）Babylon 引入的 BTC 质押系统是如何保障外部 POS 系统的安全性呢？首先是时间锁，Babylon 会对主网请求质押的资产进行一定时间的锁定，在锁定期间质押者无法使用被质押资产，这同时也会成为质押者在 POS 外部系统上的制约，使得质押者必须遵循外部 POS 系统的规则，一旦发生违规行为就可能导致已质押的资产无法赎回；其次是 Babylon 引入了一个签名方案，如果使用相同的私钥在同一块高度下签署两个不同的区块，则私钥就会暴露。最后，Babylon 规定了一个区块只有收到 2/3 以上 BTC 质押者的 EOTS 签名时才会被最终确定，这意味着作恶节点想在签名少于 1/3 时进行双重签名时，其私钥就会被暴露，质押资产会被 Slash，以此机制进一步保障了质押节点能够按照规范参与 POS 系统治理。
+
+3）Babylon 如何为 B² Hub 提供安全支撑呢？首先，B² Hub 的去中心化验证网络，需要达成一套共识机制，包括节点质押 BTC 和 B² 代币参与治理，采用双重资产质押机制可避免二层网络部分节点通过大量购买 B² 代币来试图控制网络，因为它必须同时在主网有大量的 BTC 资产在质押状态。其次，B² Hub 设置了 Epoch 共识和 CheckPoint，每个 Epoch 期间，验证节点需要对一切链上行为进行治理投票，且每个 POS 二层链区块的最终确定，要至少等待两个 BTC 主网出块时间戳。这会给足时间让二层自身的治理机制确定状态转移的确定性，以惩罚可能的作恶行为；最后，Babylon 巧妙地利用了 BTC 时间戳来防止「长程攻击」。</p><a href="https://twitter.com/tmel0211/status/1772851898556821817">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-28T06:33:18+00:00</pubDate>
+</item>
 
 <item>
 <title>【英文长推】 Telegram Bot 三月数据分析：未来之路何在？</title>
