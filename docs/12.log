@@ -11307,3 +11307,12 @@ Existing_entries: 172
 Fetching from https://bitcoinist.com/feed
 append_entries: 0
 Finish: 2024-03-28 19:55:07.033433
+------------------------------------------------------
+Started: 2024-03-28 20:09:54.157392
+Existing_entries: 172
+Fetching from https://bitcoinist.com/feed
+Token length: 3326
+Summarized using GPT-3.5-turbo-1106
+Append: [Canadian Authorities Probe $169M QuadrigaCX Crypto Scam In New Wealth Investigation](https://bitcoinist.com/canadian-authorities-probe-169m-quadrigacx-scam/)
+append_entries: 1
+Finish: 2024-03-28 20:09:58.594556
