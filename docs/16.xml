@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>EVM 的并行化有何意义？或是 EVM 霸权下的终局？</title>
 <link>https://substack.chainfeeds.xyz/p/evm-evm</link>
 <guid>https://substack.chainfeeds.xyz/p/evm-evm</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章讨论了区块链技术中的新兴硬核技术 Parallel EVM，指出其在提升交易处理能力和优化执行效率方面的潜力。同时介绍了目前在 Parallel EVM 赛道上活跃的项目和挑战，并对其可能面临的长期工程价值被其他公链捕获、节点中心化等问题提出了思考。最后指出了构建生态的重要性，以及如何量化节点中心化的指标来评估不同公链/客户端的性能。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章讨论了区块链技术中的新兴硬核技术 Parallel EVM，指出其在提升交易处理能力和优化执行效率方面的潜力。同时介绍了目前在 Parallel EVM 赛道上活跃的项目和挑战，并对其可能面临的长期工程价值被其他公链捕获、节点中心化等问题提出了思考。最后指出了构建生态的重要性，以及如何量化节点中心化的指标来评估不同公链/客户端的性能。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>既共识算法、DA（数据层）、零知识证明技术被广泛研究和迭代后，下一个被关注的硬核技术是 Parallel EVM，资本市场也已经为这个叙事投注上亿美元，并诞生多个独角兽级别的初创。ChainFeeds 创始人 ZHIXIONG PAN 撰文对 Parallel EVM 赛道的现状、意义、项目及挑战进行了探讨。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://substack.chainfeeds.xyz/p/evm-evm">https://substack.chainfeeds.xyz/p/evm-evm</a></p>
 <p><strong>文章作者：</strong></p><p>Zhixiong Pan</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Zhixiong Pan：</strong>在大多数的区块链系统中，交易是完全按照顺序执行的，你可以把它想象成一个单核 CPU，当前的计算完成后，才能进行下一次计算。这个方式虽然慢，但其优势是简洁且系统复杂度低。但如果未来区块链系统需要接入互联网级别的用户规模，单核 CPU 肯定不够用。所以升级为多核 CPU 的并行化虚拟机，就能同时处理多笔交易，增加吞吐量。不过，这在工程实现上有很多的挑战。而且，Parallel EVM 不仅提升并行能力，还会优化单线程时的执行效率。此外，如果 Parallel EVM 能最终实现，不仅能带来并行化的能力，还会优化整个 EVM 堆栈的性能。普通的应用开发者也就不需要为了节省一点 Gas 就耗费巨大的精力优化，因为底层的虚拟机已经足够强大了，能抹平这些差异。
@@ -20,7 +21,6 @@
 1）长期的工程价值是否会被以太坊捕获：由于各个团队在 Parallel EVM 技术上还处于开发和测试阶段，所以都还没选择开源所有工程细节，这是目前的护城河之一。但是但进入测试网和主网后，这些工程文件就会被公开，也可能会被以太坊或者其他公链吸收。所以在那个时间点，就需要更快推进生态建设，构建更多生态层面的护城河；
 2）节点的中心化：如何部署更多节点，以满足用户的无需许可（permissionless）、无需信任（trustless）的基本要求：去中心化。或许这其中还能量化一些指标，比如 「TPS 除以 节点的硬件需求」，这样就能实现控制变量，对比在特定硬件需求的标准下，哪个公链 / 客户端的 TPS 更高。毕竟节点的硬件需求越低，节点数量就可能越多。</p><a href="https://substack.chainfeeds.xyz/p/evm-evm">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-28T02:50:49+00:00</pubDate>
 </item>
 <item>
@@ -28,7 +28,7 @@
 <link>https://medium.com/dragonfly-research/dont-trust-verify-an-overview-of-decentralized-inference-c471a9f7a586</link>
 <guid>https://medium.com/dragonfly-research/dont-trust-verify-an-overview-of-decentralized-inference-c471a9f7a586</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。<br>Dragonfly合伙人Haseeb Qureshi分析了去中心化网络中的信任问题以及可验证推理的实现方式。他指出在去中心化世界中，诚实需要经过验证，可验证推论的出现填补了这一空白。他提出了三种方法解决可验证推论的问题：零知识证明、乐观欺诈证明和加密经济学。文章还探讨了实现可验证的机器学习的困难之处，包括ML计算的复杂性和非确定性。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。<br />Dragonfly合伙人Haseeb Qureshi分析了去中心化网络中的信任问题以及可验证推理的实现方式。他指出在去中心化世界中，诚实需要经过验证，可验证推论的出现填补了这一空白。他提出了三种方法解决可验证推论的问题：零知识证明、乐观欺诈证明和加密经济学。文章还探讨了实现可验证的机器学习的困难之处，包括ML计算的复杂性和非确定性。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>Dragonfly 合伙人 Haseeb Qureshi 撰文对去中心化网络的信任问题、可验证推理的实现方式及实现痛点进行了分析概述。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://medium.com/dragonfly-research/dont-trust-verify-an-overview-of-decentralized-inference-c471a9f7a586">https://medium.com/dragonfly-research/dont-trust-verify-an-overview-of-decentralized-inference-c471a9f7a586</a></p>
 <p><strong>文章作者：</strong></p><p>Haseeb Qureshi（Dragonfly 合伙人）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Haseeb Qureshi（Dragonfly 合伙人）：</strong>在去中心化网络中，仅运行模型和信任输出是不够的。因为在去中心化的世界里，诚实不是假定的，而是经过验证的。这就是可验证推论发挥作用的地方。经过观察，我发现解决可验证推论的方法主要有三种：
@@ -38,10 +38,8 @@
 
 为什么可验证的 ML 很难实现：ML 的独特之处在于，ML 计算通常表示为密集的计算图，旨在 GPU 上高效运行。它们并不是为证明而设计的。因此，如果你想在 ZK 或乐观环境中证明 ML 计算，就必须将它们重新编译成可以证明的格式，而这是非常复杂和昂贵的。ML 的第二个基本难题是非决定性。程序验证假定程序的输出是确定的。但如果在不同的 GPU 架构或 CUDA 版本上运行同一个模型，就会得到不同的输出结果。即使你必须强制每个节点使用相同的架构，你仍然会遇到算法中使用的随机性问题。你可以通过控制 RNG 种子来解决随机性问题。但即便如此，你仍然会遇到最后一个令人担忧的问题：浮点运算中固有的非确定性。【原文为英文】</p><a href="https://medium.com/dragonfly-research/dont-trust-verify-an-overview-of-decentralized-inference-c471a9f7a586">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-28T02:38:21+00:00</pubDate>
 </item>
-
 <item>
 <title>专注于创作者的 Web3 启用 AI 平台 MyShell 完成 1100 万美元 Pre-Series A 轮融资，Dragonfly 领投</title>
 <link>https://www.theblock.co/post/285072/web3-ai-platform-myshell-funding</link>
@@ -11019,26 +11017,6 @@ Morph 是一种完全无需许可的 EVM L2，它结合了 optimistic 和 zk rol
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />这些信息是积极的<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元融资，以 10 亿美元估值。此轮融资由 Polychain Capital 领投，多个机构参投。资金将用于团队扩大、产品开发和市场推广。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，以 10 亿美元估值，由 Polychain Capital 领投，多家投资公司参与。融资将用于团队扩大和跨职能部门招聘。这些信息是积极的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK互操作协议zkBridge的开发商Polyhedra Network以10亿美元估值完成了2000万美元的战略融资，由Polychain Capital领投，其他投资者包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital等。融资将用于招聘新员工，将团队规模扩大到约80人。这些信息是积极的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
