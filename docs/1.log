@@ -13117,3 +13117,18 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [60+项目、7大赛道，一文解构AI+Crypto全景图](https://www.panewslab.com/zh/articledetails/6ia8uziu.html)
 append_entries: 1
 Finish: 2024-03-28 02:56:02.374729
+------------------------------------------------------
+Started: 2024-03-28 03:10:34.880452
+Existing_entries: 624
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 181
+Summarized using GPT-3.5-turbo-1106
+Append: [Dragonfly在Upbit上币公告后已向Bybit存入2100万枚MNT，约合2520万美元](https://www.panewslab.com/zh/sqarticledetails/juct1jn9.html)
+Token length: 2211
+Summarized using GPT-3.5-turbo-1106
+Append: [Coinbase陷入诉讼旋涡：案件背景、判决详情及未来走向](https://www.panewslab.com/zh/articledetails/w3n1al87.html)
+Token length: 131
+Summarized using GPT-3.5-turbo-1106
+Append: [数据：美国比特币现货ETF昨日净流入约2.54亿美元](https://www.panewslab.com/zh/sqarticledetails/b8hyaih1.html)
+append_entries: 3
+Finish: 2024-03-28 03:10:46.804351
