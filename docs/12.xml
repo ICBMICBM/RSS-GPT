@@ -4,6 +4,44 @@
 <title>Bitcoinist.com</title>
 <link>https://bitcoinist.com</link>
 
+<item>
+<title>Bitcoin Difficulty Drops: Miners Hesitant To Expand Ahead Of Halving?</title>
+<link>https://bitcoinist.com/bitcoin-difficulty-drops-miners-expand-halving/</link>
+<guid>https://bitcoinist.com/bitcoin-difficulty-drops-miners-expand-halving/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：这些信息是积极的。根据文章提供的数据，比特币的难度已经下降，这意味着矿工们可能已经停止了扩张。比特币的难度调整约每14天一次，目的是保持区块生产速率在一个恒定水平。最新的难度调整显示了下降，而比特币价格则在约70080美元的水平交易。接下来的比特币减半事件可能会对挖矿经济产生重大影响。 <div>
+<p>On-chain data shows the Bitcoin difficulty has seen a drop in the latest network adjustment, suggesting the miners have stopped their expansion.</p>
+<h2>Bitcoin Difficulty Drops 1% As Hashrate Remains Flat</h2>
+<p>The &#8220;<a href="https://bitcoinist.com/bitcoin-mining-difficulty-soars-7-what-does-it-mean/" rel="noopener " target="_blank">difficulty</a>&#8221; is an in-built feature of the Bitcoin network that controls how hard the miners would find it to find blocks on the chain right now. This feature exists because the BTC blockchain intends to keep its &#8220;block production rate&#8221; at a constant rate.</p>
+<p>The block production rate refers to the rate at which miners find blocks on the network. As compensation for solving these blocks, the miners receive block rewards.</p>
+
+<p>These rewards serve as the only way to mint more of the cryptocurrency, so the rate at which they are given out equals the production rate of the cryptocurrency itself.</p>
+<p>By nature, their BTC value remains fixed (except for during halvings), so the production rate of the asset is directly dependent on the speed at which miners can go through blocks.</p>
+<p>When the miners increase their total computing power (known as the &#8220;<a href="https://bitcoinist.com/bitcoin-hashrate-plunges-from-all-time-high-but-why/" rel="noopener " target="_blank">hashrate</a>&#8220;), they become faster at their task and produce blocks faster, thus raising the production rate of the asset.</p>
+<p>This is problematic, however, as it means that these chain validators can go through the unmined supply faster and faster, and continuously flood the market with tokens.</p>
+<p>Demand-supply dynamics would suggest that such inflation can be disastrous for the value of the asset. And indeed, Satoshi, the creator of the digital asset, recognized this issue.</p>
+<p>As mentioned before, the difficulty exists to keep the block production rate constant. This is the solution Satoshi came up with: by controlling how hard miners would find it to mine blocks, the speed boost owing to greater computing power can be negated.</p>
+<p>Approximately every 14 days, the network adjusts its difficulty based on the average block time that the blockchain has observed since the previous adjustment. The Bitcoin network aims to keep this value at around a standard rate of 10 mins per block.</p>
+<p>The latest such adjustment has occurred during the past day and has resulted in a reduction of difficulty.</p>
+<p><img alt="Bitcoin Difficulty" class="alignnone wp-image-290289 size-large aligncenter" height="344" src="https://bitcoinist.com/wp-content/uploads/2024/03/chart_84a24d.png?resize=980%2C344" width="980" /></p>
+
+<p>From the chart, it&#8217;s visible that although the Bitcoin difficulty has gone down, the reduction has only been slight: under 1%. This means that the average block time has recently been just a bit less than the 10 minutes per block target.</p>
+<p>Earlier, the difficulty had been riding an uptrend and setting new all-time highs, as the miners had been constantly expanding their hashrate.</p>
+<p><img alt="Bitcoin Hashrate" class="alignnone wp-image-290290 size-large aligncenter" height="421" src="https://bitcoinist.com/wp-content/uploads/2024/03/chart_9739a0.png?resize=980%2C421" width="980" /></p>
+
+<p>The indicator has declined a bit recently, though, which is why the difficulty has gone down. It&#8217;s unclear right now whether this means that the miners are putting their expansion on hold for now or not.</p>
+<p>Next month, Bitcoin is set to see a big event that will drastically change the economics of mining: the <a href="https://bitcoinist.com/why-bitcoin-halving-could-bring-uncertainty-to-mining-industry/" rel="noopener " target="_blank">halving</a>. Halvings are periodic events coded into the BTC blockchain that permanently slash the block rewards in half.</p>
+<p>These events go off after every 210,000 blocks or approximately every four years. The block rewards make up for the majority of the miners&#8217; revenues, so these rewards being cut in half would naturally be quite significant for the miners&#8217; bottom line.</p>
+
+<p>It&#8217;s possible that some miners may not see it worth adding more hashrate now, as the halving may well make it unprofitable for them. Though, the bigger factor in the slowdown of the hashrate may be the fact that the BTC price has also slowed down since setting its new all-time high.</p>
+<p>The block rewards obviously go up in value along with the BTC price, so a fresh uptrend in the coming days could encourage some miners to bet more and get new hashrate online, as it has always happened in history.</p>
+<h2>BTC Price</h2>
+<p>At the time of writing, Bitcoin is trading around $70,800, up over 6% in the last seven days.</p>
+<p><img alt="Bitcoin Price Chart" class="alignnone size-medium aligncenter" height="854" src="https://www.tradingview.com/x/Za4wa1oP/" width="1534" /></p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 23:30:17 +0000</pubDate>
+<pubDate>Thu, 28 Mar 2024 23:30:17 +0000</pubDate>
+</item>
 
 <item>
 <title>Hedge Fund Goes Long Bitcoin, Short MicroStrategy: Details</title>
