@@ -10542,3 +10542,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Darknet market revenues rise in 2023 as markets develop role specialization](https://www.chainalysis.com/blog/darknet-revenue-2023/)
 append_entries: 1
 Finish: 2024-03-28 21:37:59.287441
+------------------------------------------------------
+Started: 2024-03-28 21:45:16.358749
+Existing_entries: 18
+Fetching from https://blog.chainalysis.com/feed
+append_entries: 0
+Finish: 2024-03-28 21:45:16.660006
