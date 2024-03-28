@@ -13414,3 +13414,12 @@ Existing_entries: 651
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-28 08:58:17.189498
+------------------------------------------------------
+Started: 2024-03-28 09:14:01.522700
+Existing_entries: 651
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 5513
+Summarized using GPT-3.5-turbo-1106
+Append: [EVM并行化有何意义？或是EVM霸权下的终局？](https://www.panewslab.com/zh/articledetails/1jm72zedv6x5.html)
+append_entries: 1
+Finish: 2024-03-28 09:14:09.289312

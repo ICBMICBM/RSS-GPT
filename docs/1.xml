@@ -4,6 +4,103 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>EVM并行化有何意义？或是EVM霸权下的终局？</title>
+<link>https://www.panewslab.com/zh/articledetails/1jm72zedv6x5.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/1jm72zedv6x5.html</guid>
+<content:encoded><![CDATA[
+<div> 
+摘要：<br>这些信息是积极的。<br>Parallel EVM 概念备受几家VC关注，代表项目有Monad、Sei、MegaETH等，分为L1和L2。Parallel EVM优化EVM性能，挑战在于重构技术栈和处理并行交易冲突。难点包括预测冲突和提高重新执行效率，挑战在于构建差异性和平衡去中心化和性能。<br>Parallel EVM是未来的技术焦点，得到大量资本支持并推动区块链性能提升。 <div>
+<p>TL;DR</p>
+<blockquote>
+<ol>
+<li>
+<p>Parallel EVM 概念正在被几家头部 VC 押注：Paradigm、Jump、Dragonfly 等。</p>
+</li>
+<li>
+<p>代表项目是 Monad，另外还有 Sei、MegaETH、Polygon、Neon EVM、BSC 等。有些是 L1，有些是 L2。各团队的具体差异暂无完整的公开信息。</p>
+</li>
+<li>
+<p>Parallel EVM 虽然字面意思仅代表了「并行化」，但其实也是对 EVM 各个组件性能的专项优化，所以它的努力很可能代表者着 EVM 标准下的性能极限。</p>
+</li>
+<li>
+<p>难点：除了要对整个技术栈重构之外，还有如何提前预判并行的交易是否会冲突，以及遇到冲突后的重新执行效率。</p>
+</li>
+<li>
+<p>挑战：如何在开源生态构建差异性、如何在去中心化和性能之间找到平衡。</p>
+</li>
+</ol>
+</blockquote>
+<p><strong>既共识算法、DA（数据层）、零知识证明技术被广泛研究和迭代后，下一个被关注的硬核技术是 Parallel EVM，资本市场也已经为这个叙事投注上亿美元，并诞生多个独角兽级别的初创。</strong></p>
+<p>社区开始关注 Parallel EVM（EVM 并行化）<a href="https://x.com/gakonst/status/1734253305847767385?s=20" rel="nofollow">起源</a>于 Georgios Konstantopoulos （Paradigm 的 CTO ）和 Dragonfly 的 Haseeb Qureshi 不约而同在 2023 年底展望 2024 年趋势时，提到的这同一个关键词。但讨论这个话题的细节并不多，而且也有很多人认为这并不是什么新概念，<strong>EVM 和并行化计算分别都是相对成熟的概念了</strong>，为什么把这两个词结合在一起就是个重要的趋势呢？</p>
+<figure><a href="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf09e012-c00f-4664-83b2-55be476a6aa6_1158x436.png" rel="nofollow" target="_blank">
+<p><img alt="EVM并行化有何意义？或是EVM霸权下的终局？" src="https://cdn-img.panewslab.com/panews/images/HOKOm7In6R.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</a></figure>
+<p>但这仍然是个非常小众的话题，以至于如果翻看很多研究机构的年度总结和趋势预测时，都没有提到 Parallel EVM。所以这仍然是个未形成大规模共识的新概念。而且这个概念和共识算法、DA 等话题类似，都是纯技术相关的，所以关注的人群就更少了。</p>
+<p>Paralle EVM 最直接的优势是<strong>让现有的去中心化应用，实现互联网级别的性能</strong>。甚至可以这么说，Parallel EVM 是唯一一个既能利用（大量成熟的）现有智能合约的同时，还能实现高性能、并行化公链吞吐量的新技术。</p>
+<h3>Paradigm 期待入局已久，Jump 系下重注</h3>
+<p id="§paradigm-期待入局已久jump-系下重注"></p>
+<p>据「财富」<a href="https://fortune.com/crypto/2024/03/11/monad-paradigm-venture-capital-crypto-jump-bitcoin/" rel="nofollow">报道</a>，Paradigm 正计划领投 Monad 的最新一轮，以 30 亿美元估值筹集 2 亿美元。虽然这是 Paradigm 计划投资的第一个 Parallel EVM 概念的团队，但其实他们关注这个技术已多年，Georgios Konstantopoulos （Paradigm 的 CTO ）曾在 2021 年就<a href="https://x.com/gakonst/status/1402281770087747586?s=20" rel="nofollow">提及</a>了这个词。</p>
+<blockquote>
+<p>Monad 这个词的来源也很有意思。在哲学家莱布尼茨的哲学体系中，Monad 是构成宇宙的基本元素，它们是不可分的、不受物理影响的实体，每个 Monad 都反映了整个宇宙，在中文曾被翻译为「单子」。</p>
+<p>而在计算机科学中，Monad 是函数式编程语言中的一种设计模式，它帮助程序员以近乎数学的纯净性来处理现实世界的复杂性，使得代码更加模块化、易于理解和维护。</p>
+<p>另一个有意思的是， Monad 和 Nomad 互为「变位词」（Anagram），nomad 是指游牧者，而 digital nomad 是指数字游民/数字牧民。</p>
+</blockquote>
+<p>除了 Monad，Georgios<a href="https://x.com/gakonst/status/1734253305847767385?s=20" rel="nofollow">讨论</a>这个话题时还提及过 Sei 和 Polygon。不过他这么看好 Parallel EVM 还有一个重要原因，就是他们开发了一个以太坊客户端 Reth。它的定位就是高性能的以太坊执行层客户端，用 Rust 语言实现。Reth 在以很快的速度开发，刚进入 Beta 阶段。或许他们会考虑直接在 Reth 上实现 Parallel EVM，但考虑到研发的工程量，通过投资其他团队推动 Parallel EVM 可能是个更好的选择。而据 Monad 的文档，他们在工程上主要采用的是 C++ 和 Rust。</p>
+<blockquote>
+<p>Reth 推出之初还被 Erigon 团队成员指责抄袭其 Akula 的开源代码，也导致了 Akula 项目缺少资金停止开发。Georgios 回应称 Reth 并不是任何其他客户端的分叉，代码也不来自于任何其他客户端，但的确是受到了Geth、Erigon 和 Akula 的影响和启发。(<a href="https://thedefiant.io/paradigm-accused-copying-code" rel="nofollow">https://thedefiant.io/paradigm-accused-copying-code</a>)</p>
+</blockquote>
+<p>另一个核心参与者就是 Jump Trading 和 Jump Capital，Monad 创始人来自 Jump Trading，有丰富的高频交易的经验；Sei 的投资人有 Jump Capital，而且 Jump 还一直深度参与 Solana 生态，包括基础建设和项目。</p>
+<p>而 Monad 的早期投资者 Dragonfly 也一直关注相关赛道，曾投资专注分片技术的 NEAR，以及 Aptos、Avalanche、Nervos 等公链。</p>
+<h3>升级共识算法还不够，终于轮到执行层</h3>
+<p id="§升级共识算法还不够终于轮到执行层"></p>
+<p>在过去的几次公链大战中，执行层一直是被忽视的地方，他们几乎只谈论共识算法的创新，无论是 Solana、Avalanche 还是 EOS 等。虽然他们在执行层有很多的创新，但社区更多还是记得他们使用的共识算法，而且整个社区也会以为这些高性能公链能获得这些性能就是来自于共识算法的创新。</p>
+<p>但其实不是，如果想要获得一个高性能的公链，共识算法和执行层是需要配套的，也符合木桶短板效应。而对于那些基于 EVM 并且只改进共识算法的公链，提升性能就需要更强的节点。比如参考 BSC 把区块可以处理的 Gas 限制在了 2000 TPS 的水平，需要的机器配置数倍于以太坊全节点的投入。Polygon<a href="https://polygon.technology/blog/what-do-you-prefer-maximum-security-or-cheaper-transactions" rel="nofollow">理论</a>可以达到 1000 TPS，平时也就几十到上百。</p>
+<blockquote>
+<p><a href="https://docs.bnbchain.org/docs/validator/best-practice/" rel="nofollow">BSC 存档节点</a>需要至少 16 核 CPU 和 128G 内存，<a href="https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node/" rel="nofollow">以太坊节点</a>只需至少 4 核 CPU 和 16G 内存。</p>
+</blockquote>
+<p>BSC 团队也早就意识到这些问题，所以也在和 NodeReal<a href="https://www.bnbchain.org/en/blog/road-to-high-performance-parallel-evm-for-bnb-chain" rel="nofollow">合作开发</a>Parallel EVM 技术。只有这样才能进一步提升每个区块可以处理交易的数量，让更多交易并行执行，提升 TPS 上限。</p>
+<h3>并行：不仅从单核升级为多核 CPU</h3>
+<p id="§并行不仅从单核升级为多核-cpu"></p>
+<p>在大多数的区块链系统中，交易是完全按照顺序执行的，你可以把它想象成一个单核 CPU，当前的计算完成后，才能进行下一次计算。这个方式虽然慢，但其优势是简洁且系统复杂度低。</p>
+<p>但如果未来区块链系统需要接入互联网级别的用户规模，单核 CPU 肯定不够用。所以升级为多核 CPU 的并行化虚拟机，就能同时处理多笔交易，增加吞吐量。不过，这在工程实现上有很多的挑战，比如同时处理的两笔交易在对同一个智能合约写入数据怎么办？就需要设计一套新的机制来解决这种矛盾。而对于其他完全不相关的智能合约的并行执行，就能按照并行处理的线程数，按规模提升吞吐量。</p>
+<p>另外，Parallel EVM 不仅提升并行能力，还会优化单线程时的执行效率。Monad CEO Keone Hon<a href="https://blockworks.co/news/parallelized-evms-gaining-popularity" rel="nofollow">表示</a>，「...（EVM 的）真正瓶颈在于处理事物时频繁读取写入状态…」。他还表示，并行执行只是路线图的一部份，Monad 更大的使命是围绕 EVM，使其尽可能高效。</p>
+<p><strong>所以，Parallel EVM 虽然字面意思仅代表了「并行化」，但其实也是对 EVM 各个组件性能的专项优化，所以它的努力很可能代表者着 EVM 标准下的性能极限。</strong></p>
+<h3>EVM 不等于 Solidity</h3>
+<p id="§evm-不等于-solidity"></p>
+<p>写智能合约是大多数区块链开发者的必备技能。工程师可以根据业务需求，用 Solidity 或其他智能合约的高级语言写出相应的逻辑实现。但 EVM 其实并不能直接读懂 Solidity 的逻辑，需要经过一些「翻译」，将它翻译（编译）为一种机器能理解的低级语言后（opcode 操作码 / bytecode 字节码），才能被虚拟机执行。而这个翻译的过程， Solidity 开发者也不需要理解，因为已经有成熟的工具实现了。</p>
+<p>毕竟是「翻译」，所以其中也会产生一些 overhead（额外开销）。而对于有底层代码经验的工程师，可以在 Solidity 中直接用操作码编写程序逻辑，这样能达到最高的效能，也就是用户交易时能节省 Gas。比如 Opensea 推出的 Seaport 协议就在智能合约中大量使用了内联汇编，尽可能为用户减少 Gas 支出。</p>
+<p>所以，如果 Parallel EVM 能最终实现，不仅能带来并行化的能力，还会优化整个 EVM 堆栈的性能。普通的应用开发者也就不需要为了节省一点 Gas 就耗费巨大的精力优化，因为底层的虚拟机已经足够强大了，能抹平这些差异。</p>
+<h3>EVM 性能各不相同，「标准」不等于「工程实践」</h3>
+<p id="§evm-性能各不相同标准不等于工程实践"></p>
+<p>「虚拟机」也可以被称为「执行层」，是智能合约被编译为操作码后，最终被计算和处理的引擎。以太坊虚拟机（EVM）定义的「字节码」目前成为了行业标准，无论是基于以太坊的二层网络，还是其他独立的公链，都更愿意先直接且完整兼容 EVM 的标准，开发者写一次智能合约就能部署到多个网络中，性价比极高。</p>
+<p>所以只要能完全兼容 EVM 的「字节码」标准，就可以称为 EVM，但是实现方式可以千差万别。比如以太坊客户端 Geth 中就用 Go 语言实现了 EVM 标准。但以太坊基金会的执行层研究团队 Ipsilon<a href="https://github.com/ethereum/evmone" rel="nofollow">维护</a>了一个用 C++ 开发的 EVM 独立实现，其他以太坊客户端可以直接调用这个库来作为 EVM 执行。</p>
+<blockquote>
+<p>举个例子，很多工业化生产的产品都有其对应的国际标准，比如某产品出厂时需要满足菌落数小于某个特定的值才能销售，这就是「标准」。但如何满足这个出厂的标准，每家工厂可以从用几十种不同的杀菌方式中选择，而有些工厂能找到性价比更高的方式满足这个要求，这就是「实践」。</p>
+</blockquote>
+<p>既然有<a href="https://github.com/ethereum/evmone" rel="nofollow">evmone</a>的实现，也可以做其他实现。所以在 EVM 的这个例子中，EVM 的标准就是定义了一些基础的操作方式「字节码」（比如支持加减乘等最基础的算术），每个字节码有确定的输入时，就有确定的输出。在满足这个标准时，实现（实践）方式天差地别，有大量的自定义空间和工程优化的可能性。</p>
+<h3>Parallel EVM 的异同</h3>
+<p id="§parallel-evm-的异同"></p>
+<p>在 Parallel EVM 赛道中，除了最炙手可热的 Monad 之外，还有<strong>Sei、MegaETH、Polygon、Neon EVM、BSC</strong>等，以及 Paradigm 的 Reth 客户端也想实现并行化的功能。</p>
+<p>从定位来看，Monad、Sei、Polygon、BSC 都是 Layer 1 区块链，而 MegaETH 可能是 Layer 2，Neon EVM 是基于 Solana 网络的。另外，Reth 是一个开源的客户端，MegaETH 也会部分基于 Reth 的工程继续开发。</p>
+<p>当然这几个团队之间还存在竞争关系，而且也没完全公开所有的技术细节和工程文件，更多的对比要等后续他们逐渐公开才能展开。或许这又像军备竞赛一样，像 BTC Layer 2、Restaking、以太坊 Layer 2 一样，尽管技术之间存在细微差异（且开源），但更重要的是如何构建生态的独特性。</p>
+<h3>Parallel EVM 的技术难点</h3>
+<p id="§parallel-evm-的技术难点"></p>
+<p>对于顺序执行的交易来说，瓶颈在于 CPU 和读取写入状态的过程。但好处是这种方式足够简单，不会出错，所有事务都能按部就班的执行完成。而对于并行执行的虚拟机而言，是可能存在状态冲突的，所以在执行前或执行后需要增加这部分的判断。</p>
+<p>一个简单的例子就是，如果虚拟机支持四个线程并行执行，且每个线程都能同时处理一笔交易，万一这四笔交易都是和 Uniswap 上的同一个交易池交易，那就不能并行计算，因为每次交易后都会影响这个交易池的交易价格。但是如果这四个线程同时处理四件完全不相关的事情，那就没有问题。</p>
+<p>这里面会涉及不同团队的设计和工程实现，但至少要确保的是在并行执行后，需要一个模块来检测冲突，如果遇到冲突就重新执行。当然，如果能提前预判并筛查可能存在冲突的交易，也可以增加整个虚拟机的并行效率。</p>
+<p>除了 Parallel EVM 这个虚拟机的工程实现差异，各个团队一般也会重新设计并增强状态数据库的读写性能，并配套设计一个共识算法，比如 Monad 设计的 MonadDb 和 MonadBFT。</p>
+<h3>挑战</h3>
+<p id="§挑战"></p>
+<p>对于 Parallel EVM 而言，有两个可能会存在的挑战：长期的工程价值是否会被以太坊捕获；节点的中心化。</p>
+<p>由于各个团队在 Parallel EVM 技术上还处于开发和测试阶段，所以都还没选择开源所有工程细节，这是目前的护城河之一。但是但进入测试网和主网后，这些工程文件就会被公开，也可能会被以太坊或者其他公链吸收。所以在那个时间点，就需要更快推进生态建设，构建更多生态层面的护城河。</p>
+<p>不过这个问题也没这么严重，一方面对于 Crypto 开发者而言，现在有更多的开源许可可供选择（比如 Uniswap 的那种可以将代码公开，但不允许分叉为商业项目的许可），另一方面是 Monad 的定位本就和以太坊有差异。就算以太坊在未来能实现单插槽终局性（SSF），交易的最终性还是至少 12 秒的，这对于更高频的应用场景是远远不够的。</p>
+<p>另一个挑战对于所有高性能公链都一样，就是如何部署更多节点，以满足用户的无需许可（permissionless）、无需信任（trustless）的基本要求：去中心化。或许这其中还能量化一些指标，比如 「TPS 除以 节点的硬件需求」，这样就能实现控制变量，对比在特定硬件需求的标准下，哪个公链/客户端的 TPS 更高。毕竟节点的硬件需求越低，节点数量就可能越多。</p>
+<p>接下来，我们还会持续跟踪 Parallel EVM 各个项目的进展，并详细深入讨论他们的技术和差异。</p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 17:00:34 +0800</pubDate>
+<pubDate>Thu, 28 Mar 2024 17:00:34 +0800</pubDate>
+</item>
 
 <item>
 <title>解读IMO：AI模型资产化，代币发行新玩法</title>
