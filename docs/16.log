@@ -14167,3 +14167,15 @@ Existing_entries: 1000
 Fetching from https://www.chainfeeds.xyz/rss
 append_entries: 0
 Finish: 2024-03-28 03:31:31.554615
+------------------------------------------------------
+Started: 2024-03-28 03:39:18.512177
+Existing_entries: 1000
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 1289
+Summarized using GPT-3.5-turbo-1106
+Append: [EVM 的并行化有何意义？或是 EVM 霸权下的终局？](https://substack.chainfeeds.xyz/p/evm-evm)
+Token length: 1000
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文】Dragonfly 合伙人：去中心化推理的信任问题与验证挑战](https://medium.com/dragonfly-research/dont-trust-verify-an-overview-of-decentralized-inference-c471a9f7a586)
+append_entries: 2
+Finish: 2024-03-28 03:39:25.566935
