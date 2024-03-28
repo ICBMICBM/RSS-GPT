@@ -13387,3 +13387,18 @@ Existing_entries: 648
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-28 08:28:37.370017
+------------------------------------------------------
+Started: 2024-03-28 08:35:58.020598
+Existing_entries: 648
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 3416
+Summarized using GPT-3.5-turbo-1106
+Append: [解读IMO：AI模型资产化，代币发行新玩法](https://www.panewslab.com/zh/articledetails/5h5nd8il.html)
+Token length: 3942
+Summarized using GPT-3.5-turbo-1106
+Append: [再质押存在哪些风险？该如何解决？](https://www.panewslab.com/zh/articledetails/qz9brr0332fr.html)
+Token length: 271
+Summarized using GPT-3.5-turbo-1106
+Append: [以太坊验证者数量突破100万，其中质押的3200万枚ETH占总供应量的26%](https://www.panewslab.com/zh/sqarticledetails/vea2071t.html)
+append_entries: 3
+Finish: 2024-03-28 08:36:11.533231
