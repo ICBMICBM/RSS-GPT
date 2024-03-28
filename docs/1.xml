@@ -5,16 +5,29 @@
 <link>https://rss.panewslab.com/</link>
 
 <item>
+<title>Ordinals创始人Casey公布Runes（符文）文档，引入“纪念碑”升级机制</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/xsgvd1ci.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/xsgvd1ci.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>比特币NFT协议Ordinals创始人Casey Rodarmor在X平台公布了符文（Runes）文档，允许比特币交易蚀刻、铸造和转移比特币原生数字商品。符文是可互换的代币，存储在比特币交易输出中，且通过蚀刻创建并设置属性。符文也可以被赋予新的语义，称为纪念碑（cenotaphs），以改变符文的传输方式。纪念碑的符文会被销毁，但未升级的客户端不会受到影响。这为比特币交易带来了新的可能性。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月28日消息，比特币NFT协议Ordinals创始人Casey Rodarmor在X平台公布Runes（符文）文档。根据该文档，符文允许比特币交易蚀刻、铸造和转移比特币原生数字商品。虽然每个铭文都是独一无二的，但符文的每个单位都是相同的；它们是可互换的代币，适合多种用途；符文允许比特币交易蚀刻、铸造和转移比特币原生数字商品。</p>
+<p>符文协议消息，称为Runestones（符文石），存储在比特币交易输出中；一笔交易最多只能有一个Runestones，Runestones可以蚀刻一个新的符文，铸造一个现有的符文，并将符文从交易的输入转移到输出，交易输出可以带有任意数量的符文余额。符文是通过蚀刻而形成，蚀刻创建一个符文并设置其属性，一旦设置这些属性就不可变，拥有预挖等功能；符文的蚀刻者可以选择为自己分配被蚀刻的符文单位，这种分配称为预挖。</p>
+<p>Runestones可能因多种原因而格式错误的，畸形的Runestones被称为纪念碑（cenotaphs），输入到纪念碑交易中的符文会被销毁。带有纪念碑的交易中的铸币计入铸造上限，但铸造的符文会被烧毁。纪念碑是一种升级机制，允许符文被赋予新的语义，从而改变符文的创建和传输方式，同时不会误导未升级的客户端这些符文的位置，因为未升级的客户端会看到这些符文已被销毁。</p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 11:15:20 +0800</pubDate>
+<pubDate>Thu, 28 Mar 2024 11:15:20 +0800</pubDate>
+</item>
+
+<item>
 <title>Dragonfly在Upbit上币公告后已向Bybit存入2100万枚MNT，约合2520万美元</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/juct1jn9.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/juct1jn9.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是消极的。Dragonfly再次向Bybit存入了1050万枚MNT，这导致MNT价格下跌了约23%。此前，Dragonfly也曾多次向Bybit存入大量MNT，总额达到近5000万枚MNT，约合约5780万美元。这种大额存入行为可能会对市场产生不利影响，引发投资者担忧。 <div>
+<div> <br /><br />摘要：<br />这些信息是消极的。Dragonfly再次向Bybit存入了1050万枚MNT，这导致MNT价格下跌了约23%。此前，Dragonfly也曾多次向Bybit存入大量MNT，总额达到近5000万枚MNT，约合约5780万美元。这种大额存入行为可能会对市场产生不利影响，引发投资者担忧。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月28日消息，据Lookonchain监测，Dragonfly再次向Bybit存入了1050万枚MNT (约合1260万美元) 。</p>
 <p>在Upbit宣布上市后，他已向Bybit存入2100万枚MNT（约合2520万美元） 。</p>
 <p>他还在3月14日至3月17日期间向Bybit存入了1340万枚MNT（约合1300万美元），导致MNT的价格下跌了约23%。</p>
 ]]></content:encoded>
-<pubDate>Thu, 28 Mar 2024 11:04:08 +0800</pubDate>
 <pubDate>Thu, 28 Mar 2024 11:04:08 +0800</pubDate>
 </item>
 <item>
@@ -22,7 +35,7 @@
 <link>https://www.panewslab.com/zh/articledetails/w3n1al87.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/w3n1al87.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是消极的<br>美国纽约南区地方法院法官驳回了大部分 Coinbase 的动议，认为其作为未注册的交易所、经纪人和清算机构并从事未经注册的证券发行和销售。不过法院驳回了SEC对 Coinbase 提供钱包应用程序而充当未注册经纪人的指控。案件进入审理阶段，未来走向不确定，各方意见不一，但法庭对数字资产和Web3的认知态度积极。 <div>
+<div> <br /><br />摘要：<br />这些信息是消极的<br />美国纽约南区地方法院法官驳回了大部分 Coinbase 的动议，认为其作为未注册的交易所、经纪人和清算机构并从事未经注册的证券发行和销售。不过法院驳回了SEC对 Coinbase 提供钱包应用程序而充当未注册经纪人的指控。案件进入审理阶段，未来走向不确定，各方意见不一，但法庭对数字资产和Web3的认知态度积极。 <div>
 <p>编辑：猫弟 吴说区块链</p>
 <p>3月27日，美国纽约南区地方法院法官Katherine Polk Failla驳回了大部分 Coinbase 的动议，认为 Coinbase 作为未注册的交易所、经纪人和清算机构与联邦证券法下的机构，并通过其质押计划从事未经注册的证券发行和销售。不过法院驳回了 SEC 对 Coinbase 通过向客户提供其钱包应用程序而充当未注册经纪人的指控。</p>
 <p>判决原文：</p>
@@ -43,21 +56,18 @@
 <p>福克斯记者 Eleanor Terrett 认为，直到案件得出结论之前，这里不会有一个明确的“胜利”。但就这次裁决而言，双方都有所胜利。SEC成功地让法官Failla相信，对于大部分指控，它对Coinbase 大部分主张有一个合理的理由。但同样，Coinbase在发现过程中也可能说服她。Failla还同意了Coinbase关于钱包的主张。对所有涉及方来说，好消息是法官Failla实际上对加密资产/Web3非常了解，并且意识到她的案件结果的重要性。</p>
 ]]></content:encoded>
 <pubDate>Thu, 28 Mar 2024 11:00:26 +0800</pubDate>
-<pubDate>Thu, 28 Mar 2024 11:00:26 +0800</pubDate>
 </item>
 <item>
 <title>数据：美国比特币现货ETF昨日净流入约2.54亿美元</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/b8hyaih1.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/b8hyaih1.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。根据HODL15Capital监测，3月27日美国比特币现货ETF昨日净流入约2.54亿美元。具体来看，灰度GBTC昨日净流出近3亿美元，Ark 21Shares的ARKB净流入约2亿美元，贝莱德的IBIT的资金净流入约3.24亿美元。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。根据HODL15Capital监测，3月27日美国比特币现货ETF昨日净流入约2.54亿美元。具体来看，灰度GBTC昨日净流出近3亿美元，Ark 21Shares的ARKB净流入约2亿美元，贝莱德的IBIT的资金净流入约3.24亿美元。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月28日消息，据HODL15Capital监测，3月27日美国比特币现货ETF昨日净流入约2.54亿美元。</p>
 <p>其中，灰度GBTC昨日净流出近3亿美元，Ark 21Shares的ARKB净流入约2亿美元，贝莱德的IBIT的资金净流入约3.24亿美元。</p>
 ]]></content:encoded>
 <pubDate>Thu, 28 Mar 2024 10:56:40 +0800</pubDate>
-<pubDate>Thu, 28 Mar 2024 10:56:40 +0800</pubDate>
 </item>
-
 <item>
 <title>NFPrompt因安全问题将进行代币置换以弃用旧NFP代币，快照将于今日18:00进行</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/b11y07us.html</link>
