@@ -5,17 +5,186 @@
 <link>https://rss.panewslab.com/</link>
 
 <item>
+<title>坎昆升级之后，Rollups的性能瓶颈是什么？</title>
+<link>https://www.panewslab.com/zh/articledetails/y20gc9wl.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/y20gc9wl.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是消极的。<br>文章讨论了Rollup在坎昆升级后遇到的性能瓶颈和Gas限制问题。其中包括数据可用性、Rollup的Gas限制、执行吞吐量的瓶颈、状态增长的隐患以及硬件优化的限制。对于Rollup的发展和性能改进提出了一些潜在的解决方向。文章中还包括了zkSync和Base项目负责人对文章内容的详细解释和互动。 <div>
+<p>作者：Keone Hon，Monad 联合创始人</p>
+<p>编译：Azuma，Odaily 星球日报</p>
+<p>编者按：北京时间 3 月 26 日上午，Monad 联合创始人Keone Hon 于个人 X 发布了一篇关于 Rollup 性能状况的深度长文。文中，Keone 详述了坎昆升级之后 Rollup 的理论 TPS 上限该如何计算，并解释了为何升级之后部分 Layer2（Base）的单笔交易费用仍高达数美元，此外 Keone 还概述了Rollup 所面临的一些瓶颈限制以及潜在的改进方向。</p>
+<p>以下为Keone 的原文内容，由 Odaily 星球日报编译，为了方便读者阅读，译者在原文基础上做了一定补充。</p>
+<p>最近市场上有一些关于 Rollup 执行瓶颈和 Gas 限制的讨论，这不仅涉及 Layer1，也包括了 Layer2。我将在下文中讨论这些瓶颈问题。</p>
+<h3>数据可用性（DA）</h3>
+<p>随着 Blob 数据结构（EIP-4844）在坎昆升级中被引入，以太坊的数据可用性（DA）已得到了大幅改进，Layer2 的数据同步交易已无需再与普通 Layer1 交易在同一个费用市场中竞价。</p>
+<p>当前，Blob 的容量状况大概是每个区块（12秒）产出 3 个 125kb的Blob，即每秒31.25kb，鉴于一笔交易的大小大概是100字节，这意味着所有 Rollup 的共享 TPS 大概是 300 左右。</p>
+<p>当然了，这里有一些信息需要特别备注。</p>
+<ul>
+<li>一是如果 Rollup 采用了更好的交易数据压缩技术，可缩减单笔交易大小的话，TPS 便可实现增长。</li>
+<li>二是理论上 Rollup 除了可以采用 Blob 同步数据之外，还可继续采用 calldata 同步数据（即坎昆升级之前的旧方案），尽管这样做会带来额外的复杂性。</li>
+<li>三是不同 ZK-rollup发布状态的方式存在差异（尤其是zkSync Era和Starknet），因此对于这些Rollup来说，计算方式及结果也会有所不同。</li>
+</ul>
+<h3>Rollup的 gas限制</h3>
+<p>最近，Base 由于其gas费用的激增而引发了较大关注，一笔普通的交易在该网络上的费用已上涨到了几美元。</p>
+<p>为什么坎昆升级之后，Base 网络只降低了一段时间，现在又回到甚至超过了升级之前的水准呢？这是因为Base上的区块存在一个 gas 总额限制，该限制系通过其代码中的一个参数来执行。</p>
+<p>Base目前所采用的 gas 参数与Optimism相同，即每个 Layer2 区块（2 秒）存在 500万 gas 的总额限制，当该网络之上的需求（交易总数）超过供应（区块空间）之时，价格结算便会采取按需执行的机制，从而导致该网络 gas 的飙升。</p>
+<p>为什么 Base 不去提高这一 gas 总额限制呢？或者换句话说，为什么 Rollup 需要设置一个 gas 总额限制呢？</p>
+<p>除了前文提到的数据可用性存在 TPS 上限之外，这里其实还有另外两大原因，分别是执行吞吐量的瓶颈以及状态增长的隐患。</p>
+<h3>问题一：执行吞吐量的瓶颈</h3>
+<p>一般而言，EVM Rollup 运行的都是一个 fork 自 Geth 的 EVM，这意味着它们与 Geth 客户端有着相似的性能特征。</p>
+<p>Geth 的客户端是单线程的（即一次只能处理一个任务），它使用了 LevelDB/PebbleDB 编码，在 merkle patricia trie（MPT）中存储其状态。这是一种通用数据库，使用着另一种树结构（LSM 树）作为底层在固态硬盘（SSD）上存储数据。</p>
+<p>对于 Rollup 而言，「状态访问」（从 merkle trie 读取数值）和「状态更新」（在每个区块结束时更新 merkle trie）是执行过程中成本最高的环节。之所以如此，是因为从固态硬盘上单次读取的成本是 40-100 微秒，且由于 merkle trie 数据结构被嵌入到另一个数据结构（LSM 树）中，导致需要进行许多非必要的额外查找。</p>
+<p>这个环节可以想象为在一个复杂的文件系统中查找特定文件的过程。你需要从根目录（trie 根节点）一直找到目标文件（叶节点）。在查找每个文件时，都需要查找数据库 LevelDB 中的特定键，而在 LevelDB 内部又必须通过另一个名为 LSM 树的数据结构来执行实际的数据存储操作，这样的过程造成了许多额外的查找步骤。这些额外的步骤让整个数据读取和更新变得相当慢且低效。</p>
+<p>在 Monad 的设计中，我们通过 MonadDb 解决了这一问题。MonadDb 是一个自定义数据库，支持直接在磁盘上存储 merkle trie，避免了 LevelDb 的开销；支持异步 IO，允许多个读取并行处理；绕过了文件系统。</p>
+<p>此外，Monad 采用的「乐观并行执行」（optimistic parallel execution）机制允许多笔交易并行进行，且能够从 MonadDb 中并行地提取其状态。</p>
+<p>然而，Rollup 没有这些优化，因此在执行吞吐量上存在瓶颈。</p>
+<p>需要注明的是，Erigon/Reth 客户端对于数据库的效率有过一定优化，且一些 Rollup 的客户端也是基于这些客户端构建的（比如 OP-Reth）。Erigon/Reth使用了一种扁平的数据结构，这在一定程度上减少了读取时的查询成本；然而，它们并不支持异步读取或多线程处理。此外，每个区块之后都需要重新计算 merkle root，这也是一个相当缓慢的过程。</p>
+<h3>问题二：状态增长的隐患</h3>
+<p>与其他区块链一样，Rollup 也会限制它们的吞吐量，以防止其活动状态增长过快。</p>
+<p>市场上存在的一个常见论点是，状态增长速度之所以令人担忧，是因为如果状态数据大幅增长，对固态硬盘（SSD）的设备需求也将不得不上调。然而，我认为这有点不准确，SSD 相对便宜（一个高质量的 2TB SSD 大约也就 200 美元），而在近 10 年的历史中，以太坊的全状态「仅」有大约 200 GB。单纯从储存角度来看，仍有很大的增长空间。</p>
+<p>更大的隐患其实在于，随着状态持续增长，查询指定状态片段的时间会变得更长。这是因为当前 merkle patricia trie 会在满足「节点只有一个子节点」的条件时使用「快捷方式」，这可减少 trie 的有效深度，从而加速查询过程，可如果 merkle trie 的状态越来越满，可用的「快捷方式」也就会越来越少。</p>
+<p>综合而言，状态增长的隐患归根结底其实就是状态访问效率的问题，因此加速状态访问是使状态增长更具可持续性的关键。</p>
+<h3>为什么仅仅优化硬件并没有用？</h3>
+<p>Layer2 目前仍处于相对中心化的状态，即网络仍依赖于单一的排序器来维护状态并产出区块。有人可能会问，那为什么不让排序器运行在具备极高 RAM（随机存取存储器）的硬件上，以便让所有状态都能存储于内存中呢？</p>
+<p>这也有两个原因。</p>
+<p>其一，这并不会解决以太坊主网所存在的数据可用性瓶颈问题，尽管就目前 Base 的情况来看，该网络 gas 的飙升并不是因为主网数据可用性能力不足而导致，但从长远来看这终将会成为限制 Rollup 的一大瓶颈。</p>
+<p>其二则是去中心化的问题，尽管排序器仍处于高度中心化状况，但参与网络运行的其他角色也很重要，他们也需要能独立运行节点，重放相同的交易历史并维护相同的状态。</p>
+<p>Layer1 之上的原始交易数据和状态提交并不足以解开完整的状态。任何对完整状态存在访问需求的角色（例如商家、交易所或自动交易者）都应该运行一个完整的 Layer2 节点来处理交易，并拥有一个最新的状态副本。</p>
+<p>Rollups 仍属于区块链，而区块链之所以有趣，是因为它们能够通过共享的全球状态实现全球协调。对所有区块链而言，性能强大的软件是必要的，仅仅优化硬件并不足以解决问题。</p>
+<h3>社区互动</h3>
+<p>在Keone 发完此文后，多个头部 Layer2 项目的关键人员均在该动态下方进行了互动。</p>
+<p><img alt="坎昆升级之后，Rollups的性能瓶颈是什么？" src="https://cdn-img.panewslab.com/yijian/2024/3/27/images/2d4e5648ca9705e3afd937e2493be319.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>zkSync 联合创始人 Alex Gluchowski 针对文中「每个区块之后都需要重新计算 merkle root」的内容询问 Monad 在这方面有何不同？</p>
+<p>Keone 的回复是会有一种用于在每个区块后计算merkle root 的优化算法。</p>
+<p><img alt="坎昆升级之后，Rollups的性能瓶颈是什么？" src="https://cdn-img.panewslab.com/yijian/2024/3/27/images/a31710c6f7f2ad02571556facabcc086.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Base 负责人Jesse Pollak 亦借此解释了为何 Base 在坎昆升级之后 gas 费用不降反增，其表示 EIP-4844 已大幅降低了 Layer1 层面的 DA 成本，gas 费用本该降低，但由于网络交易需求增长了 5 倍有余，且 Base 网络之上的区块存在 250 gas/s 的限制，需求大于供给使得 gas 费用出现了上涨。</p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 09:00:43 +0800</pubDate>
+<pubDate>Thu, 28 Mar 2024 09:00:43 +0800</pubDate>
+</item>
+<item>
+<title>数据：贝莱德IBIT昨日资金净流入约3.24亿美元</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/xx5m8fa1.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/xx5m8fa1.html</guid>
+<content:encoded><![CDATA[
+<div> 这些信息是积极的。<br><br>摘要：据HODL15Capital监测，3月27日贝莱德现货比特币ETF“IBIT”的资金净流入约3.24亿美元，显示投资者对比特币的兴趣持续增加。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月28日消息，据HODL15Capital监测，3月27日贝莱德现货比特币ETF“IBIT”"的资金净流入约3.24亿美元。</p>
+<p>今日早些时候消息，<a href="https://www.panewslab.com/zh/sqarticledetails/jwsomue0.html" rel="noopener" target="_blank">灰度GBTC昨日净流出近3亿美元，Ark 21Shares的ARKB净流入超2亿美元</a>。</p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 08:46:45 +0800</pubDate>
+<pubDate>Thu, 28 Mar 2024 08:46:45 +0800</pubDate>
+</item>
+<item>
+<title>NFT卡牌游戏Parallel完成3500万美元融资，Amber Group等参投</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/t7inf12b.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/t7inf12b.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。NFT卡牌游戏Parallel宣布完成3500万美元新一轮融资，吸引了多个投资方参与，包括Solana Ventures、Amber Group等。Parallel是一款围绕科幻故事情节展开的纸牌游戏，讲述了人类在世界末日后逃往太空的故事。这次融资将有助于推动Parallel的发展和壮大。<br><br> <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月28日消息，据官方消息，NFT卡牌游戏Parallel宣布完成3500万美元新一轮融资，Solana Ventures、Amber Group、Distributed Global、Big Brain Holdings、OSS Capital、VanEck、Focus Labs、Builder Capital、Collab+Currency、Synergis、Spartan Capital、GoldenChain等参投。</p>
+<p>据悉，Parallel是一款科幻纸牌游戏，该项目围绕一个幻想故事情节展开，讲述了人类在试图解决全球能源危机的世界末日之后逃离太空的故事。</p>
+<p>此前2021年10月消息，<a href="https://www.panewslab.com/zh/sqarticledetails/1634863092132730.html" rel="noopener" target="_blank">Parallel以5亿美元的估值从Paradigm融资5000万美元。</a></p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 08:40:17 +0800</pubDate>
+<pubDate>Thu, 28 Mar 2024 08:40:17 +0800</pubDate>
+</item>
+<item>
+<title>黄立成推出的Meme项目Bobaoppa预售地址已筹集超3372万美元</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/h51p551n.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/h51p551n.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。台湾歌手黄立成在X平台推出了Solana Meme项目Bobaoppa并启动了预售，最低参与金额为1 SOL。预售地址信息显示当前募款额已达到181,814.35枚SOL，价值约33,722,925.94美元。然而需要注意的是，Bobaoppa预售公告帖子下有虚假账号发布钓鱼链接，用户需谨慎辨别。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月28日消息，台湾歌手黄立成在X平台宣布推出Solana Meme项目Bobaoppa并启动预售，最低参与金额为1 SOL，据其披露的预售地址信息，当前募款额已达到181,814.35枚SOL，价值约33,722,925.94美元。</p>
+<p>需注意的是，Bobaoppa预售公告帖子下有虚假账号发布钓鱼链接，用户需谨慎辨别。此前消息，<a href="https://www.panewslab.com/zh/sqarticledetails/eg379u2s.html" rel="noopener" target="_blank">投资者需警惕Solana链上MEME币预售的高风险</a>。</p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 08:27:04 +0800</pubDate>
+<pubDate>Thu, 28 Mar 2024 08:27:04 +0800</pubDate>
+</item>
+<item>
+<title>荷兰检察官寻求法院对Tornado Cash开发者Alexey Pertsev判处64个月监禁</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/d6ro7pfo.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/d6ro7pfo.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是消极的。荷兰检察官要求法官对Tornado Cash开发者Alexey Pertsev以洗钱罪判处64个月监禁。审判期间指控Pertsev使用Tornado Cash洗钱12美元的加密货币，起诉书称他“养成洗钱的习惯”。审判于周二和周三在S-Hertogenbosch法院举行，法官将于5月14日作出判决。可能对其他地方法院对待开发者产生影响。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月28日消息，据CoinDesk报道，荷兰检察官要求法官以洗钱罪对Tornado Cash开发者Alexey Pertsev判处64个月监禁。这场为期两天的审判于周二和周三在S-Hertogenbosch法院举行，可能会对其他地方法院如何对待开发者产生影响。法院称，法官将于5月14日作出判决。</p>
+<p>荷兰检察官在审判前分享的一份起诉书中详细介绍了Pertsev被指控通过匿名工具Tornado Cash洗钱价值12 美元的加密货币。起诉书称，2019年7月9日至2022年8月10日期间，Pertsev“养成了洗钱的习惯”。</p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 08:08:00 +0800</pubDate>
+<pubDate>Thu, 28 Mar 2024 08:08:00 +0800</pubDate>
+</item>
+<item>
+<title>一文速览a16z Crypto春季创业加速器25个入围项目</title>
+<link>https://www.panewslab.com/zh/articledetails/qfnh9s0j.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/qfnh9s0j.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。a16z Crypto宣布了25个项目参与加密创业加速器的计划，涵盖了基础设施、消费者应用、DeFi、支付、游戏、开发工具等不同领域。这些项目包括生物样本市场、免清算的借贷解决方案、DeFi界面构建、链上游戏框架等。这些项目将推动加密技术在各个行业的发展，促进创新和合作。 <div>
+<p><strong>撰文：a16z Crypto</strong></p>
+<p><strong>编译：Peng SUN，Foresight News</strong></p>
+<p>3 月 26 日，a16z Crypto 宣布其加密创业加速器（CSX）2024 春季计划本周在伦敦启动，25 个项目将参与为期 10 周的课程。这 25 个项目覆盖基础设施、消费者应用程序、DeFi、支付、游戏、开发工具与 DePIN 不同赛道。</p>
+<h3>AminoChain</h3>
+<p><a href="https://aminochain.io/" rel="nofollow" target="_blank">AminoChain</a> 是一个去中心化生物样本市场，可将生物库、临床基地与生物制药公司相连接。</p>
+<h3>Collar Networks</h3>
+<p><a href="https://www.collarprotocol.xyz/" rel="nofollow" target="_blank">Collar Networks</a> 是一个免清算的借贷解决方案，旨在解决清算问题、DeFi 借贷不可能三角问题（借入资产的稳定性、抵押品清算与高 LTV）。Collar 通过链上询价流程帮助借款人与做市商建立联系，从而形成协作借贷安排（COLlaborative Lending ARrangement），允许借款人暂时放弃高于上限的上行风险，以保护其低于某个底价的下行风险，低于该底价，借款人可取走其稳定币贷款。</p>
+<h3>Compass Labs</h3>
+<p><a href="https://www.compasslabs.ai/" rel="nofollow" target="_blank">Compass Labs</a> 是一个为 DeFi 构建新的标准界面，旨在提供一套工具，允许投资者、开发者能够安全访问 DeFi。目前，Compass Labs 已推出 Simulation Platform、Blockchain Data 两个解决方案，并已支持 Uniswap、Aave。</p>
+<h3>Hungry Cats Studio</h3>
+<p><a href="https://www.hungrycats.studio/" rel="nofollow" target="_blank">Hungry Cats Studio</a> 是一个专注于研究与实现的密码学团队，致力于多项式承诺方案、证明合成、ZKML、签名方案等，提供验证安全可靠的 AI 工作流程。</p>
+<h3>Launcher</h3>
+<p><a href="https://www.launchcaster.xyz/" rel="nofollow" target="_blank">Launcher</a> 是一个用于构建智能合约迷你应用程序的加密产品搜索和平台。</p>
+<h3>MagicBlock</h3>
+<p><a href="https://www.magicblock.gg/" rel="nofollow" target="_blank">MagicBlock</a> 是一个 Solana 和 SVM 上的链上游戏框架，专为在 Solana/SVM 上构建链上游戏而设计。</p>
+<h3>NEBRA Labs</h3>
+<p><a href="https://www.nebra.one/" rel="nofollow" target="_blank">NEBRA Labs</a> 是一个在区块链上扩展和编写证明验证的研发组织。</p>
+<h3>Neynar</h3>
+<p><a href="https://neynar.com/" rel="nofollow" target="_blank">Neynar</a> 是一个 Farcaster 开发者基础设施，提供无代码、多步骤框架构建器。目前，Neynar v1 与 v2 API 均已上线。</p>
+<h3>NodeKit</h3>
+<p><a href="https://www.nodekit.xyz/" rel="nofollow" target="_blank">NodeKit</a> 可构建共享定序器，以帮助 Rollup 实现去中心化并提高互操作性。</p>
+<h3>Nosh</h3>
+<p><a href="https://www.noshdelivery.co/" rel="nofollow" target="_blank">Nosh</a> 是一个去中心化食品配送协议，目前 App 已上线 Google Play 与 App Store。</p>
+<h3>OpenLayer</h3>
+<p><a href="https://www.openlayer.tech/" rel="nofollow" target="_blank">OpenLayer</a> 可通过乐观可验证计算扩展 Web3</p>
+<h3>OpenTrade</h3>
+<p><a href="https://www.open-trade.io/" rel="nofollow" target="_blank">OpenTrade</a> 是一个为新的数字经济提供机构贷款和收益产品。</p>
+<h3>Playmint</h3>
+<p><a href="https://playmint.com/" rel="nofollow" target="_blank">Playmint</a> 致力于构建全链上游戏，目前正在开发全链上 MMO 游戏 Downstream。</p>
+<h3>Roux</h3>
+<p><a href="https://www.roux.app/" rel="nofollow" target="_blank">Roux</a> 是一个数字时代的烹饪平台。</p>
+<h3>Sablier</h3>
+<p><a href="https://sablier.com/" rel="nofollow" target="_blank">Sablier</a> 是以太坊上的代币分发协议，为 Web3 中的代币分发提供基础设施，旨在促进加密货币的按秒支付。该协议采用一组不可升级的智能合约，优先考虑安全性、审查阻力、自我托管和功能，而不需要可能有选择地限制访问的可信中介。Sablier 已推出 V1、V2 两个版本。</p>
+<h3>Scrypted</h3>
+<p><a href="https://www.scryptedinc.com/" rel="nofollow" target="_blank">Scrypted</a> 旨在构建去中心化、自治的代理与 AI 游戏，现已推出生成式 AI 游戏开发平台 ArtemisML 与 AI 协调层 Inori Network，以及 Picturdle、ChatGPT Games 等游戏。</p>
+<h3>Spire</h3>
+<p><a href="https://www.spire.dev/" rel="nofollow" target="_blank">Spire</a> 是一个以太坊上的具有原子可组合性的 zk Appchain 网络。</p>
+<h3>Strobe</h3>
+<p><a href="https://strobe.org/" rel="nofollow" target="_blank">Strobe</a> 是一个 DeFi 扩展网络，可以实现新的无需许可和透明的市场。</p>
+<h3>taralli labs</h3>
+<p><a href="https://tarallilabs.com/" rel="nofollow" target="_blank">taralli labs</a> 是一种实现高效和去中心化的 zk 供应链的协议。</p>
+<h3>Tata Bazaar</h3>
+<p><a href="https://tata-bazaar.com/" rel="nofollow" target="_blank">Tata Bazaar</a> 是一个连接时尚和美容的物理和数字世界的社交商业平台，尚未推出。</p>
+<h3>TITLES</h3>
+<p><a href="https://titles.xyz/" rel="nofollow" target="_blank">TITLES</a> 是一个构建由艺术家训练的 AI 模型驱动的创意工具。</p>
+<h3>Tranched</h3>
+<p><a href="https://tranched.fi/" rel="nofollow" target="_blank">Tranched</a> 是一个使用区块链技术自动进行私人证券化交易。</p>
+<h3>Tweed</h3>
+<p><a href="https://paytweed.com/" rel="nofollow" target="_blank">Tweed</a> 是一个在基于区块链的应用程序中为用户提供钱包和支付解决方案。</p>
+<h3>Valyu Network</h3>
+<p><a href="https://www.valyu.network/" rel="nofollow" target="_blank">Valyu Network</a> 可以为人工智能模型和应用程序提供可信数据。</p>
+<h3>zkPassport</h3>
+<p><a href="https://zkpassport.app/" rel="nofollow" target="_blank">zkPassport</a> 可以对政府签发的护照进行认证，有选择地披露信息。</p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 08:00:50 +0800</pubDate>
+<pubDate>Thu, 28 Mar 2024 08:00:50 +0800</pubDate>
+</item>
+
+<item>
 <title>数据：灰度GBTC昨日净流出近3亿美元，Ark 21Shares的ARKB净流入超2亿美元</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/jwsomue0.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/jwsomue0.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是消极的。根据Farside Investors数据监测，灰度GBTC资金净流出约2.998亿美元，ARKB资金流入约2.018亿美元，BITB资金流动数据为0，EZBC资金流入约400万美元。其他ETF资金流量数据暂时未知。 <div>
+<div> <br /><br />摘要：<br />这些信息是消极的。根据Farside Investors数据监测，灰度GBTC资金净流出约2.998亿美元，ARKB资金流入约2.018亿美元，BITB资金流动数据为0，EZBC资金流入约400万美元。其他ETF资金流量数据暂时未知。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月28日消息，据Farside Investors数据监测，3月27日灰度GBTC资金净流出约2.998亿美元，Ark 21Shares的ARKB资金流入约2.018亿美元，Bitwise的BITB资金流动数据计为0，Franklin的EZBC资金流入约400万美元。暂时未有3月27日的其他ETF资金流量数据。</p>
 ]]></content:encoded>
 <pubDate>Thu, 28 Mar 2024 07:53:02 +0800</pubDate>
-<pubDate>Thu, 28 Mar 2024 07:53:02 +0800</pubDate>
 </item>
-
 <item>
 <title>贝莱德代币化投资基金BUIDL资金流入已增至2.45亿美元</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/79l40fs4.html</link>

@@ -4,6 +4,83 @@
 <title>Bitcoinist.com</title>
 <link>https://bitcoinist.com</link>
 
+<item>
+<title>Change Of Heart? Gaming Platform Security Breach Ends With $62M In Crypto Returned</title>
+<link>https://bitcoinist.com/gaming-platform-security-62m-in-crypto-returned/</link>
+<guid>https://bitcoinist.com/gaming-platform-security-62m-in-crypto-returned/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是消极的。文章揭示了加密社区中另一起被盗事件，Munchables平台的开发者内部实施了一起窃取资金的计划。攻击者通过利用智能合约的易升级特性，私自获取大额以太币余额，导致总价值接近1亿美元的资金被盗。虽然攻击者原本似乎是朝鲜人，并被揭露出与Lazarus组织的关联，但最终归还了资金，可能是受到ZackXBT的调查和威胁的影响。整个事件构成了一场惊心动魄的加密世界惊悚片。 <div>
+<p style="font-weight: 400;">In the late hours of Tuesday, the crypto community saw another exploit. Munchables, the Ethereum Layer-2 NFT gaming platform, reported being compromised on an X post.</p>
+<p style="font-weight: 400;">The crypto heist, which momentarily stole over $62 million, took a shocking turn of events after the attacker’s identity opened a Pandora’s box.</p>
+
+<h2 style="font-weight: 400;">Crypto Developer Turns Hacker</h2>
+<p style="font-weight: 400;">Yesterday, Munchables, a gaming platform powered by Blast, suffered a <a href="https://bitcoinist.com/crypto-gaming-platform-playdapp-hit-double-exploit/" rel="noopener " target="_blank">security breach</a> that resulted in the theft of 17,400 ETH, worth around $62.5 million. Immediately after the X announcement, crypto detective ZachXBT revealed the sum stolen and the address where the funds had been sent.</p>
+<p style="font-weight: 400;">It was later informed that the crypto heist had been an inside job instead of an external one, as one of the project’s developers seemed to be responsible.</p>
+<p style="font-weight: 400;">Solidity developer 0xQuit shared on X concerning information about Munchable. The developer pointed out that the smart contract was a “dangerously upgradeable proxy with an unverified implementation contract.”</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">the Munchables exploit has been planned since deploy.</p>
+<p>Munchables is a dangerously upgradeable proxy, and it has been upgraded.</p>
+<p>Instead of upgrading from a benign implementation to a malicious one, they did the reverse here</p>
+<p>1/<img alt="🧵" class="wp-smiley" src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f9f5.png" style="height: 1em;" /></p>
+<p>&mdash; quit.q00t.eth (<img alt="👀" class="wp-smiley" src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f440.png" style="height: 1em;" />,<img alt="🦄" class="wp-smiley" src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f984.png" style="height: 1em;" />) (@0xQuit) <a href="https://twitter.com/0xQuit/status/1772764460647846273?ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">March 26, 2024</a></p></blockquote>
+<p></p>
+<p style="font-weight: 400;">The exploit seemingly wasn’t “nothing complex” as it consisted of asking the contract for the stolen funds. However, it required the attacker to be an authorized party, confirming that the heist was a scheme carried out inside the project.</p>
+<p style="font-weight: 400;">After a deep dive into the matter, 0xQuit concluded that the <a href="https://bitcoinist.com/is-your-crypto-safe-trezor-addresses-concerns-over-hack-claims-sophisticated-phishing-scam/" rel="noopener " target="_blank">attack</a> had been plotted since deployment. Munchable’s developer used the contract&#8217;s upgradable nature to “assign himself an enormous ether balance before changing the contract implementation to one that appeared legit.”</p>
+<p style="font-weight: 400;">The developer “simply withdrew the balance” when the total value locked (TVL) was high enough. DeFiLlama data shows that, before the exploit, Munchables had a TLV of $96.16 million. At writing time, the TVL has plummeted to $34.05 million.</p>
+<p style="font-weight: 400;">As reported by BlockSec, the funds were sent to a multi-sig wallet. The attacker eventually shared all private keys with the Munchables team. The keys gave access to $62.5 million in ETH, 73 WETH, and the owner key, which contained the rest of the project’s funds. According to Solidity developer’s calculations, the total amount neared $100 million.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">The fund is currently in a multisig wallet 0x4D2F75F1cF76C8689b4FDdCF4744A22943c6048C, with the threshold 2/3. Owners are 0xFfE8d74881C29A9942C9D7f7F55aa0d8049C304A, 0xe0C5B8341A0453177F5b0Ec2fcEDc57f6E2112Bc, 0x94103f5554D15F95d9c3A8Fa05A9c79c62eDBD6f <a href="https://t.co/K1YDZo5uvK" rel="nofollow" target="_blank">https://t.co/K1YDZo5uvK</a></p>
+<p>&mdash; BlockSec (@BlockSecTeam) <a href="https://twitter.com/BlockSecTeam/status/1772869982445051923?ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">March 27, 2024</a></p></blockquote>
+<p></p>
+<h2 style="font-weight: 400;">Change Of Heart Or Fear Of The Crypto Community?</h2>
+<p style="font-weight: 400;">Unfortunately, crypto exploits, hacks, and scams are common in the industry. Most play out similarly, with hackers taking massive sums and investors looking at their empty pockets.</p>
+<p style="font-weight: 400;">This time, the incident turned out more thrilling than usual, as the identity of the developer-turned-hacker untangled a web of lies and deception. As ZachXBT suggested, Munchable’s rogue developer was North Korean, seemingly tied to the Lazarus group.</p>
+<p style="font-weight: 400;">However, the movie doesn’t end there: the blockchain investigator <a href="https://twitter.com/zachxbt/status/1772845175875772552" rel="noopener nofollow" target="_blank">revealed</a> that four different developers hired by Munchables’ team were linked to the exploiter, and it seemed like they were all the same person.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">the developers <a href="https://t.co/AYMbwduiLS" rel="nofollow" target="_blank">pic.twitter.com/AYMbwduiLS</a></p>
+<p>&mdash; a1ex (@a1exxxxxxxxxxx) <a href="https://twitter.com/a1exxxxxxxxxxx/status/1772844437674066139?ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">March 27, 2024</a></p></blockquote>
+<p></p>
+<p style="font-weight: 400;">These developers recommended each other for the job and regularly transferred payments to the same two exchange deposit addresses, funding each other wallets. Journalist Laura Shin suggested the possibility of the developers not being the same person but different people working for the same entity, North Korea’s <a href="https://bitcoinist.com/surge-in-north-korean-crypto-attacks-hacks-2023/" rel="noopener " target="_blank">government</a>.</p>
+<p style="font-weight: 400;">Pixelcraft Studios CEO <a href="https://twitter.com/coderdannn/status/1772820871478223074" rel="noopener nofollow" target="_blank">added</a> that he had done a trial hire with this developer in 2022. During the month the ex-Munchables developer worked for them, he exhibited practices “sketchy af.”</p>
+<p style="font-weight: 400;">The CEO believes that the North Korean link is possible. Additionally, he revealed that the MO was similar back then, as the developer tried to get “his friend” hired.</p>
+<p style="font-weight: 400;">An X user highlighted that the developer’s GitHub name was “grudev325,” pointing out that “gru” could be related to Russia’s Federal Agency for Foreign Military Intelligence.</p>
+<p style="font-weight: 400;">Pixelcrafts’s CEO commented that, at the time, the developer explained that the nickname was born after his love for the character Gru from the Despicable Me movies. Ironically, the character in question is a supervillain who spends most of the movie trying to steal the moon.</p>
+
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">didn't even know that was a thing lmeow, this is how he explained it <a href="https://twitter.com/zachxbt?ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">@zachxbt</a> <a href="https://t.co/jTMj62GGb2" rel="nofollow" target="_blank">pic.twitter.com/jTMj62GGb2</a></p>
+<p>&mdash; coderdan.eth | aavegotchi <img alt="👻" class="wp-smiley" src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f47b.png" style="height: 1em;" /><img alt="💊" class="wp-smiley" src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f48a.png" style="height: 1em;" /> (@coderdannn) <a href="https://twitter.com/coderdannn/status/1772823949791068243?ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">March 27, 2024</a></p></blockquote>
+<p></p>
+<p style="font-weight: 400;">Whether he was trying to steal the moon and failed like Gru, the developer ultimately returned the funds without asking for “compensation.” Many users believe that the suspicious “change of heart” results from ZackXBT’s deep dive into the attacker’s web of lies and the threats made.</p>
+<p style="font-weight: 400;">This thriller ends with the crypto investigator’s reply to a now-deleted post. In his reply, the detective <a href="https://twitter.com/zachxbt/status/1772751157133287603" rel="noopener nofollow" target="_blank">threatened</a> to destroy the developer and all his “other North Korean devs hard on-chain your country has another blackout.”</p>
+<p><img alt="Ethereum, ETH, ETHUSDT, Crypto" class="size-large wp-image-290047 aligncenter" height="493" src="https://bitcoinist.com/wp-content/uploads/2024/03/ETHUSDT_2024-03-27_08-31-13.png?w=980&#038;resize=980%2C493" width="980" /></p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 01:00:58 +0000</pubDate>
+<pubDate>Thu, 28 Mar 2024 01:00:58 +0000</pubDate>
+</item>
+<item>
+<title>Shiba Inu Scores Another Major Exchange Listing Amid Recovering Prices</title>
+<link>https://bitcoinist.com/shiba-inu-exchange-listing/</link>
+<guid>https://bitcoinist.com/shiba-inu-exchange-listing/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了Shiba Inu加密货币在澳大利亚加密货币交易所Bit.com.au上获得重要上市的消息。此举提升了SHIB的知名度，并反映了该加密货币最近蓬勃发展的势头和出色表现。文章详细介绍了此次上市的背景、Bit.com.au的历史和SHIB的增长趋势。这次上市对于澳大利亚投资者来说是一次重要机会，也为SHIB在澳大利亚市场的推广提供了坚实基础。 <div>
+<p><a href="https://www.newsbtc.com/shiba-inu/shiba-inu-shibarium-public/" rel="nofollow noopener" target="_blank">Shiba Inu has gained another remarkable milestone</a> by scoring a major listing on Bit.com.au, an Australian cryptocurrency exchange. This achievement adds to SHIB’s <a href="https://bitcoinist.com/shiba-inu-burn-rate-shib-price/">growing list of accomplishments</a>, reflecting the cryptocurrency’s recent surge in momentum and impressive performances.</p>
+<h2>Australian Crypto Exchange Lists SHIB</h2>
+<p>On Monday, March 25, Bitcoin.com.au <a href="https://x.com/bitcoin_com_au/status/1772124596801556895?s=46" rel="nofollow" target="_blank">officially announced</a> the listing of Shiba Inu’s native token, SHIB on its platform. This move comes as part of the <a href="https://bitcoinist.com/crypto-regulation-in-australia-mandatory-licenses/">Australian exchange’</a>s efforts to expand its cryptocurrency offerings and cater to the growing demand for cryptocurrencies among Australian investors.</p>
+
+<p>Interestingly, Bitcoin.com.au is a cryptocurrency exchange that has been operating since 2015, providing crypto trading services to thousands of users in Australia. The exchange’s decision to <a href="https://www.newsbtc.com/shiba-inu/this-australian-crypto-exchange-lists-lunc-shib-and-ape-coin/" rel="nofollow noopener" target="_blank">list Shiba Inu</a> reflects its recognition of the cryptocurrency’s rising popularity and future potential. </p>
+<p>Recently, SHIB has been gaining traction, growing rapidly in popularity in different regions globally. The cryptocurrency has also <a href="https://x.com/shibtoken/status/1772327229600440715?s=46" rel="nofollow" target="_blank">recorded</a> a position as one of the<a href="https://bitcoinist.com/shiba-inu-surge-in-interest/"> top most searched digital currencies on Google</a>, second to Bitcoin in regions like Europe. </p>
+<p>Due to the meme coin’s increasing popularity, many exchanges including <a href="https://bitcoinist.com/bone-binance-shiba-inu-army-campaigns-for-listing/">Binance</a>, Coinbase, and Bybit have listed it on its platform. Additionally, its <a href="https://www.newsbtc.com/shiba-inu/shiba-inu-takes-over-the-internet-google-searches-climb-as-global-interest-surges/" rel="nofollow noopener" target="_blank">growing interest among traders and investors</a> effectively underscores the cryptocurrency’s burgeoning potential and appeal. </p>
+<p>In addition to Shiba Inu, Bitcoin.com.au offers a plethora of other cryptocurrency options, including leading digital assets like Bitcoin (BTC), Ethereum (ETH), XRP, and <a href="https://bitcoinist.com/shiba-inu-outperform-dogecoin/">Dogecoin (DOGE)</a>. </p>
+<h2>Shiba Inu Extends Its Reach Into Australian Markets</h2>
+<p>Shiba Inu’s official integration into Bitcoin.com.au’s crypto offerings marks a significant achievement, as it provides Australian investors access to the popular doggy-themed meme coin. This development effectively <a href="https://bitcoinist.com/shiba-inu-adoption-crypto-atm/">extends the reach of Shiba Inu into the Australian markets</a>, providing solid ground for more growth and development within the ecosystem. </p>
+<p>With Australia being home to a surging cryptocurrency community, SHIB is poised to potentially <a href="https://www.newsbtc.com/shiba-inu/shiba-inu-shib-0-0008-ath/" rel="nofollow noopener" target="_blank">gain widespread adoption</a> as investors delve into the opportunities available in the cryptocurrency. Additionally, Bitcoin.com.au may benefit from new users as well as Shiba Inu’s large community of investors and supporters. </p>
+<p>This listing also comes at a time when Shiba Inu has been experiencing a <a href="https://www.newsbtc.com/shiba-inu/shiba-inu-price-soars-10-in-reaction-to-explosive-2367-shib-burn-surge/" rel="nofollow noopener" target="_blank">resurgence in prices</a> and investor interest. In the past month, the cryptocurrency has surged by approximately 215.32%, pushing its price up to about $0.00003, at the time of writing. </p>
+<p>Despite previous market fluctuations, <a href="https://www.newsbtc.com/shiba-inu/shiba-inu-price-resilience-shibarium-reboot/" rel="nofollow noopener" target="_blank">SHIB has demonstrated resilience</a> and has continued to capture the attention of investors and traders globally. As the cryptocurrency continues to <a href="https://www.newsbtc.com/shiba-inu/shiba-inu-0-00002-shibarium/" rel="nofollow noopener" target="_blank">achieve new milestones</a> in expanding its presence, its listing on Bitcoin.com.au further solidifies its position as a prominent player in the digital asset landscape.</p>
+<p><img alt="Shiba Inu price chart from Tradingview.com" class="aligncenter size-medium" height="1530" src="https://www.tradingview.com/x/uqjq5xiQ/" width="3286" /></p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 00:00:39 +0000</pubDate>
+<pubDate>Thu, 28 Mar 2024 00:00:39 +0000</pubDate>
+</item>
 
 <item>
 <title>Ethereum Designated As Commodity By CFTC, Triggering Regulatory Conflict With SEC</title>

@@ -13009,3 +13009,30 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [60+项目、7大赛道，一文解构AI+Crypto全景图](https://www.panewslab.com/zh/articledetails/6ia8uziu.html)
 append_entries: 2
 Finish: 2024-03-27 23:59:29.978857
+------------------------------------------------------
+Started: 2024-03-28 01:06:17.480846
+Existing_entries: 609
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 3511
+Summarized using GPT-3.5-turbo-1106
+Append: [坎昆升级之后，Rollups的性能瓶颈是什么？](https://www.panewslab.com/zh/articledetails/y20gc9wl.html)
+Token length: 81
+Summarized using GPT-3.5-turbo-1106
+Append: [数据：贝莱德IBIT昨日资金净流入约3.24亿美元](https://www.panewslab.com/zh/sqarticledetails/xx5m8fa1.html)
+Token length: 304
+Summarized using GPT-3.5-turbo-1106
+Append: [NFT卡牌游戏Parallel完成3500万美元融资，Amber Group等参投](https://www.panewslab.com/zh/sqarticledetails/t7inf12b.html)
+Token length: 172
+Summarized using GPT-3.5-turbo-1106
+Append: [黄立成推出的Meme项目Bobaoppa预售地址已筹集超3372万美元](https://www.panewslab.com/zh/sqarticledetails/h51p551n.html)
+Token length: 268
+Summarized using GPT-3.5-turbo-1106
+Append: [荷兰检察官寻求法院对Tornado Cash开发者Alexey Pertsev判处64个月监禁](https://www.panewslab.com/zh/sqarticledetails/d6ro7pfo.html)
+Token length: 1694
+Summarized using GPT-3.5-turbo-1106
+Append: [一文速览a16z Crypto春季创业加速器25个入围项目](https://www.panewslab.com/zh/articledetails/qfnh9s0j.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [60+项目、7大赛道，一文解构AI+Crypto全景图](https://www.panewslab.com/zh/articledetails/6ia8uziu.html)
+append_entries: 7
+Finish: 2024-03-28 01:06:37.241579
