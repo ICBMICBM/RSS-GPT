@@ -10821,3 +10821,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Are Old Bitcoin Whales Selling Or Mitigating Risks Using Spot BTC ETFs?](https://www.newsbtc.com/bitcoin-news/old-bitcoin-whales-selling-or-mitigating-risks-spot-btc-etfs/)
 append_entries: 1
 Finish: 2024-03-28 16:08:44.235669
+------------------------------------------------------
+Started: 2024-03-28 16:25:42.241712
+Existing_entries: 178
+Fetching from https://www.newsbtc.com/feed
+Token length: 2122
+Summarized using GPT-3.5-turbo-1106
+Append: [BREAKING: Sam Bankman-Fried Sentenced To 25 Years In Prison](https://www.newsbtc.com/breaking-news-ticker/breaking-sam-bankman-fried-sentenced-to-25-years-in-prison/)
+append_entries: 1
+Finish: 2024-03-28 16:25:47.062066
