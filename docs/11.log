@@ -11292,3 +11292,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Recapping FTX Founder Sam Bankman-Fried's Trial](https://www.coindesk.com/policy/2024/03/28/recapping-ftx-founder-sam-bankman-frieds-trial/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-03-28 10:07:49.960069
+------------------------------------------------------
+Started: 2024-03-28 10:25:11.292687
+Existing_entries: 273
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-03-28 10:25:11.469889
