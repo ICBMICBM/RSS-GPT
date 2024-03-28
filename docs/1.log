@@ -13636,3 +13636,12 @@ Existing_entries: 669
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-28 14:50:50.993056
+------------------------------------------------------
+Started: 2024-03-28 14:58:30.464407
+Existing_entries: 669
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 303
+Summarized using GPT-3.5-turbo-1106
+Append: [SBF承认自己的决策导致了FTX和Alameda Research的崩溃，对此表示抱歉](https://www.panewslab.com/zh/sqarticledetails/85q33oto.html)
+append_entries: 1
+Finish: 2024-03-28 14:58:35.551845
