@@ -4,6 +4,26 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>比特币二层 CKB 解构：进展与前景如何？</title>
+<link>https://ld-capital.medium.com/ld-capital-nervos-network-ckb-utxo%E5%90%8C%E6%9E%84%E7%9A%84btc-l2-41aafd88f05d</link>
+<guid>https://ld-capital.medium.com/ld-capital-nervos-network-ckb-utxo%E5%90%8C%E6%9E%84%E7%9A%84btc-l2-41aafd88f05d</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。LD Capital对BTC L2 CKB的产品特点进行了介绍，包括采用的PoW机制、Cell模型、RGB++协议和Spore协议。CKB生态初具雏形，包括钱包、跨链桥、DID、DEFI等项目。链上数据显示交易次数增长且活跃度增加，但持仓分布较为集中。前十大持仓地址中有几个未参与质押。整体看来，CKB正处于起步阶段，但链上数据呈现明显增长趋势。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>BTC L2 的兴起是这一轮行情不可忽视的叙事。LD Capital 撰文对 UTXO 同构的 BTC L2 CKB 的产品特点、生态发展和代币经济模型进行了介绍。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://ld-capital.medium.com/ld-capital-nervos-network-ckb-utxo%E5%90%8C%E6%9E%84%E7%9A%84btc-l2-41aafd88f05d">https://ld-capital.medium.com/ld-capital-nervos-network-ckb-utxo%E5%90%8C%E6%9E%84%E7%9A%84btc-l2-41aafd88f05d</a></p>
+<p><strong>文章作者：</strong></p><p>LD Capital</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>LD Capital：</strong>产品核心：1）PoW：底层采用 POW 机制，完全无需许可的，用户只需要购买矿机和电力就可以参与出块。挖矿算法为 Eaglesong，项目算力从 2022 年底至今处于增长状态，2023 年底至今涨幅翻倍；
+2）Cell 模型：支持智能合约。具体而言，Cell 将 UTXO 中的代表代币价值的 nValue 字段进行了抽象处理，分为 capacity 和 data 两个字段，其中 data 保存状态，可以存放任意数据。同时，Cell 数据结构中还包含了两个字段 LockScript 和 TypeScript，前者主要体现所有权，而后者可以自定义很多丰富的功能。
+3）RGB++ 协议：基于 RGB 的扩展协议，采用不同的虚拟机和验证方案，用户不需要独立的 RGB++ 客户端，只需要接入比特币和 CKB 轻节点即可独立完成所有验证。RGB++ 为比特币带来了图灵完备的合约扩展和性能提升。它不使用任何跨链桥，而是使用本机客户端验证解决方案来确保安全性和抗审查性。
+4）Spore 协议：通过 CKB 区块链上的数码物创造协议 Spore 发行的加密资产。Spore 协议生成的 DOB 不可篡改，完全存储于链上，而且还在内容和价值之间建立了内在联系。如果把 CKB 看作是比特币的一个升级版，那 Spore 就是 Ordinals 的一个升级版。
+
+CKB 生态初具雏形，包括钱包、跨链桥、DID、DEFI 等项目。不过，知名的项目不多，尚未出现现象级的产品。作为 BTC L2，最主要的问题在于能够提升 BTC 这一沉淀资产的应用水平，激活其流动性。在这一点上，CKB 也处在起步阶段。从链上数据来看，协议的交易次数有所增长，2024 年初曾出现天量的交互。独立地址数、Cell 数量也在持续增长，链上的交易费收入在 2023 年底得到增长。总体看，链上数据有明显增长，活跃度增加。
+
+CKB 代币持仓分布集中度较高，链上共有 27 万个地址持有 CKB，其中前 100 持仓地址持有 76.93% 的代币，前 10 地址持仓 54.28%，币安的地址中持有超过 32% 的代币。前 10 持仓地址中，扣除交易所地址，另有 4 个未标记地址。其中，第四大地址于 2023 年 5 月建仓，此后持续转入，最晚一笔转入为 2024 你那 3 月 25 日，未参与质押。第五大地址未 2023 年 5 月建仓，仅有一笔转入，未参与质押。第八大地址为 2021 年建仓，仅一笔转入，全部参与质押。第 9 大地址为 2024 年 3 月 22 日建仓，未参与质押。</p><a href="https://ld-capital.medium.com/ld-capital-nervos-network-ckb-utxo%E5%90%8C%E6%9E%84%E7%9A%84btc-l2-41aafd88f05d">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-28T04:37:41+00:00</pubDate>
+</item>
 
 <item>
 <title>【英文长推】新项目简介 | 去中心化算力网络 BasedAI：如何兼顾隐私和效率？</title>

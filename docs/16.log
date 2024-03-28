@@ -14242,3 +14242,12 @@ Existing_entries: 1000
 Fetching from https://www.chainfeeds.xyz/rss
 append_entries: 0
 Finish: 2024-03-28 05:25:58.382884
+------------------------------------------------------
+Started: 2024-03-28 05:34:14.123591
+Existing_entries: 1000
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 1213
+Summarized using GPT-3.5-turbo-1106
+Append: [比特币二层 CKB 解构：进展与前景如何？](https://ld-capital.medium.com/ld-capital-nervos-network-ckb-utxo%E5%90%8C%E6%9E%84%E7%9A%84btc-l2-41aafd88f05d)
+append_entries: 1
+Finish: 2024-03-28 05:34:17.919553
