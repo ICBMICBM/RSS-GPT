@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>【长推】如何看待 B² Network 牵手 Babylon？</title>
 <link>https://twitter.com/tmel0211/status/1772851898556821817</link>
 <guid>https://twitter.com/tmel0211/status/1772851898556821817</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的<br>1）B² Hub 是在B² Network的DA层中的关键组件，处理验证网络、存储、数据处理等。Babylon带来了BTC质押系统，保障外部POS系统安全。<br>2）Babylon采取时间锁、签名方案和EOTS签名机制来确保安全性。<br>3）Babylon为B² Hub提供安全支持，通过共识机制、共识和CheckPoint设置以及利用BTC时间戳防止攻击。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的<br />1）B² Hub 是在B² Network的DA层中的关键组件，处理验证网络、存储、数据处理等。Babylon带来了BTC质押系统，保障外部POS系统安全。<br />2）Babylon采取时间锁、签名方案和EOTS签名机制来确保安全性。<br />3）Babylon为B² Hub提供安全支持，通过共识机制、共识和CheckPoint设置以及利用BTC时间戳防止攻击。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>B² Network 推出了 B² Hub 模块化 DA 层，而 Babylon 则将原生资产质押生息带入 BTC 网络。加密研究员将二者的合作类比成 Celestia 模块化 DA 和 Eigenlayer 共享安全层的组合，并对其技术实现进行了解读。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/tmel0211/status/1772851898556821817">https://twitter.com/tmel0211/status/1772851898556821817</a></p>
 <p><strong>文章作者：</strong></p><p>Haotian</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Haotian：</strong>1）B² Hub 是 B² Network 的 DA 层中的关键组件，相当于一个去中心化的验证网络，它会处理 Sequencer 筛选、分布式 Storage 存储、ZK-Rollup 层传来的数据和证明的 Prove 处 理、生成 Commitment 向 BTC 主网发送 inscription 后的 Indexer 维护、以及对挑战者进行 Commitment 挑战的结果验证等等。关于验证网络安全性的保障，B² Hub 和 Babylon 合作之后，可以让 Validators 直接参与到 BTC 主网的资产质押，随后可用其保障外部 POS 系统的安全；
@@ -18,10 +19,8 @@
 
 3）Babylon 如何为 B² Hub 提供安全支撑呢？首先，B² Hub 的去中心化验证网络，需要达成一套共识机制，包括节点质押 BTC 和 B² 代币参与治理，采用双重资产质押机制可避免二层网络部分节点通过大量购买 B² 代币来试图控制网络，因为它必须同时在主网有大量的 BTC 资产在质押状态。其次，B² Hub 设置了 Epoch 共识和 CheckPoint，每个 Epoch 期间，验证节点需要对一切链上行为进行治理投票，且每个 POS 二层链区块的最终确定，要至少等待两个 BTC 主网出块时间戳。这会给足时间让二层自身的治理机制确定状态转移的确定性，以惩罚可能的作恶行为；最后，Babylon 巧妙地利用了 BTC 时间戳来防止「长程攻击」。</p><a href="https://twitter.com/tmel0211/status/1772851898556821817">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-28T06:33:18+00:00</pubDate>
 </item>
-
 <item>
 <title>【英文长推】 Telegram Bot 三月数据分析：未来之路何在？</title>
 <link>https://twitter.com/masonnystrom/status/1772728587873128605</link>
@@ -11046,16 +11045,6 @@ Morph 是一种完全无需许可的 EVM L2，它结合了 optimistic 和 zk rol
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />这些信息是积极的。Polyhedra Network的zkBridge协议以10亿美元估值完成了2000万美元的战略融资，由Polychain Capital领投，其他投资者包括Animoca Brands、Hashkey Capital、Longhash Ventures等。融资资金将用于招聘跨职能部门的员工，将团队扩大到约80人，目前团队规模约为50人。所有五轮融资都是通过未来代币或SAFT简单协议进行的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 的开发商 Polyhedra Network 完成了 2000 万美元的战略融资，估值达 10 亿美元，由 Polychain Capital 领投，其他参投方包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium 和 Mapleblock Capital。本轮融资将用于团队扩大、招募人员以及产品、工程、业务开发和营销等跨职能部门的发展。这些信息是积极的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
