@@ -13519,3 +13519,15 @@ Existing_entries: 660
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-28 11:27:26.389245
+------------------------------------------------------
+Started: 2024-03-28 12:22:15.296973
+Existing_entries: 660
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 10099
+Summarized using GPT-3.5-turbo-1106
+Append: [Solana流动性质押赛道发展指南](https://www.panewslab.com/zh/articledetails/5aogweyr.html)
+Token length: 189
+Summarized using GPT-3.5-turbo-1106
+Append: [安全机构：Prisma Finance遭到攻击损失2275枚ETH，价值810万美元](https://www.panewslab.com/zh/sqarticledetails/73e24sbp.html)
+append_entries: 2
+Finish: 2024-03-28 12:22:26.215331

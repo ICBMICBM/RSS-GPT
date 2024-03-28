@@ -10668,3 +10668,12 @@ Existing_entries: 173
 Fetching from https://www.newsbtc.com/feed
 append_entries: 0
 Finish: 2024-03-28 11:27:29.502483
+------------------------------------------------------
+Started: 2024-03-28 12:22:29.052189
+Existing_entries: 173
+Fetching from https://www.newsbtc.com/feed
+Token length: 2263
+Summarized using GPT-3.5-turbo-1106
+Append: [Crypto Exec Reveals Why Meme Coins Are The Next ‘Trojan Horse’ For Crypto Adoption](https://www.newsbtc.com/meme-coins/meme-coins-next-trojan-horse/)
+append_entries: 1
+Finish: 2024-03-28 12:22:38.635429

@@ -4,6 +4,114 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>Solana流动性质押赛道发展指南</title>
+<link>https://www.panewslab.com/zh/articledetails/5aogweyr.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/5aogweyr.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了Solana流动权益挖矿的概念和操作方式，解释了常规Staking和Liquid Staking的区别。讨论了Solana上三种主要的流动权益挖矿协议Jito、Marinade和BlazeStake，以及未来的潜在发展。另外，介绍了Sanctum的流动性支持池，以及如何进行Liquid Staking。最后，探讨了LSTs与DeFi的结合，包括借贷、循环和提供流动性等操作方式。文章的信息对读者是有积极意义的。 <div>
+<p>作者：Algo Rhythmic</p>
+<p>翻译：白话区块链</p>
+<p>我的目标是提供一份全面介绍 Solana 流动权益挖矿的介绍。想让大家不仅了解什么是流动权益挖矿以及如何进行，还要了解为什么要这样做。是什么让一个人早上起床时会对自己说：「今天我要把我的 SOL 进行流动权益挖矿？来吧，加入我，我会带你进入一个全新的世界。」</p>
+<p>我也尽量将这篇相当长的文章结构化，这样你就可以跳过某些部分，如果你已经对这个主题很熟悉的话</p>
+<p>注意：本文重在科普，而非投资建议。</p>
+<h3>1、在 Solana 进行 Staking</h3>
+<p>在我们直接谈论 Liquid Staking 之前，让我们先了解一下常规的 Staking。在像 Solana 这样的委托权益证明 (POS）网络中，Staking 是将你的 Token 委托给一个验证者，该验证者必须承诺忠实地验证网络上的交易，否则将面临惩罚。这就是验证者与网络用户之间形成根本性一致的原因，没有这种一致性，双重支付、审查和其他各种滥用都有可能发生。当你进行「本地」Staking 时，你选择一个特定的验证者，并将你的 Token 委托给他们。你可以通过一系列钱包软件或使用 Solana 命令行界面执行此操作。</p>
+<p>自 2020 年 2 月 Solana 主网测试版推出以来，Solana 一直在遵循这个提议的通胀计划：</p>
+<p><img alt="Solana流动性质押赛道发展指南" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/ca8a3cdad4628297ec7f8938845702a1.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>当我写这篇文章时，已经是 2024 年 2 月了，距离那次推出已经四年了，所以很容易看出当前的通胀率约为 5%。精确的通胀量由三个参数控制：初始通胀率（8%）、通缩率（-15%）和长期通胀率（1.5%）。通胀率从 8% 开始，每个时代边界的年化基础上以 15% 的速度递减，直到最终稳定在 1.5%。这在未来可能会发生改变，但这是自推出以来观察到的计划。</p>
+<p>通过通胀产生的 SOL Token 归谁所有？很简单：权益挖矿者。这意味着每个时代，权益挖矿者都在以牺牲非权益挖矿者的方式增加他们对 SOL Token 总量的相对所有权。实际上没有发生更复杂的事情。如果所有的 SOL 都被权益挖矿了，没有人会增加他们的持有总价值。这导致 Solana 网络的权益率很高；在撰写本文时，大约有 2/3 的 SOL 被权益挖矿了。然而，流动权益挖矿的比例仍然较低。</p>
+<p>对于 POW 的区块链来说，验证者承担着高昂的设备和能源成本，这迫使他们仅仅为了达到成本平衡就不得不出售一些（或者可能全部）所获得的 Token。在像以太坊这样的权益证明网络中，这些成本非常低，所以几乎没有任何卖出压力。而在 Solana 上，验证者的运营费用略高于以太坊，因为验证者必须作为共识的一部分执行交易，这会带来成本，而验证者设备的成本略高于以太坊，因为它需要比以太坊更高的性能。因此，与比特币相比，验证者的卖出压力仍然非常低，但比以太坊稍高一些。</p>
+<p><img alt="Solana流动性质押赛道发展指南" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/81ffc14fa0054dd0e2363898e7a98b65.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>译文：我觉得「Solana 的廉价交易是通过 Token 通胀人为补贴的」已经成为 Solana 的血腥诽谤。CT 从比特币中学到了一些关于通货膨胀的知识，现在我们无法忘记它。没有任何强买强卖的压力</p>
+<p>接下来让我们谈谈 Liquid Staking 吧。</p>
+<h3>2、LSTs（Liquid Staked Tokens）和持续风险</h3>
+<p>在 Solana 上有高额的激励来进行 Staking，以免被其他的权益挖矿者所稀释，不去进行权益挖矿的少数原因之一是它会将你的资本锁定在每个时代。通过流动权益挖矿，您将您的 Token 贡献给一个管理验证者分配的权益的权益池，并将您已经将 Token 承诺给池子的事实进行 Token 化。这一举动会向权益挖矿者返回一个代表该事实的新资产，并允许用户以原始的权益挖矿 SOL 兑换它。因此，在许多情况下，它可以被用作 SOL 的功能等价物。</p>
+<p>Solana 上最流行的流动权益挖矿 Token（简称为 LST）几乎都是「带奖励」的 Token。池子中的几乎所有 SOL 都被委托给了由池子操作员选择的验证者（有时减去一个小的缓冲区，以便快速兑换），因此池子中的这些委托 SOL 会以更多 SOL 的形式积累奖励。因此，LST 的数量随着时间不断增加，但在每个时代它代表的 SOL 数量会增加，因此相对于 SOL 的价格会上涨。另一种方法是「重新定基」，即 LST 的持有者会获得更多的流动 Token，每个流动 Token 都可以 1:1（有延迟）兑换，但这在 Solana 上并不常用。</p>
+<p>在 Solana 上，每个时代大约需要 2.5 天。如果用户想要取回原始的权益挖矿 SOL，他们必须提交一个取回委托权益的请求，并等待时代结束，然后才能兑换。在传统金融市场中，这被称为承担持续风险。您在打赌，将资本锁定 2.5 天的奖励将超过您立即需要它的风险。从持续时间上来看，2.5 天的风险要小得多，比起 10 年期的美国国债。另一方面，总的来说，美国国债...比加密货币的波动性小一些。</p>
+<p>因此，当 LSTs 的持有者想要获取基础的 SOL Token 时，他们可以从 Liquid Staking 协议控制的权益挖矿池中赎回它，选择等待时代结束时它可以被底层池子解除委托，或者通过现有的流动性池在开放市场上将 mSOL 交易成 SOL。以下是 Marinade Finance 的一个示例：</p>
+<p><img alt="Solana流动性质押赛道发展指南" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/817e83af8a172ddadbbd58b63f163a26.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Marinade 使用 Jupiter 去中心化交易聚合器来交易 mSOL 以换取 SOL。我进行了一些检查，发现解除 1 万个 mSOL 的委托会对价格产生 0.01% 的影响，但当委托数量增至 10 万个 mSOL 时，显示的价格影响是 10 万（实际上我没有这么多 mSOL，但可以模拟），这是什么意思呢？</p>
+<p>这意味着如果你想解除委托并立即获得 SOL，你将获得比等待时代结束再解除委托少 8.162% 的 SOL。上述价格影响是根据当前市场条件确定的，即取决于流动性的情况。如果重新检查，这个数字可能会有所增减。这凸显了有关 LST 的一个重要事实。正如我之前提到的，它们可以在很多情境中充当 SOL 的功能等价物，但它们之间也有着重要的区别之一就是：你会承担一定程度的持续风险。如果你急需资金且需要大量，你将不得不接受较低的价格来获得所需的资金。</p>
+<p>一个简单的例子可以帮助理解这一点。我们来看一下发生在 2023 年 12 月 12 日的「mSOL 脱钩」事件。在短短 20 分钟内，一个钱包地址 85b5jKkgSuopF3MUA9s4zsBhRANrererBLRx689PqTPA 在开放市场上通过 9 笔交易将大约 68536 个 mSOL 兑换成 SOL。这导致 mSOL 的价格从约 78 美元下跌到 66 美元。下面是来自 birdeye.so 的分析：</p>
+<p><img alt="Solana流动性质押赛道发展指南" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/1deec5e6e55e3c670e86bcdfea03b094.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>你可以看到价格相对迅速地恢复到之前的水平。为什么会这样呢？因为套利机器人和其他投机者察觉到了这个机会，并开始购买 mSOL，因为他们并不需要在下一个时代使用这笔资金。基础 SOL 的价格实际上并没有真正变化，所以他们本质上是在购买打折的 SOL。</p>
+<p>这种情况不仅局限于 mSOL，对每个 LSTs 都适用（带有一些我们稍后会探讨的附加条件）。任何特定 LST 的流动性都不可避免地会比 SOL Token 的流动性低。然而，这主要是在你拥有大量流动权益挖矿的 SOL 时需要担心的问题。总的来说，拥有更多资金也意味着面临更多的挑战。</p>
+<p>因此，这里的教训是，虽然流动权益挖矿 Token 承担了一些与常规权益挖矿 SOL 相似的持续风险，但只有在市场上流动性不足时才会显现出来。LST 市场的流动性越强，持续风险的影响就越小。如果你的持仓相对较小，你可能根本感受不到这种持续风险。尽管如此，了解 Token 的流动性限制仍然是非常重要的。</p>
+<h3>3、LST 领导者及其激励结构</h3>
+<p>在 Solana 上有三种总锁定价值超过 1 亿美元的 LST，突显了不同的采用激励方法：Jito（jitoSOL）、Marinade（mSOL）和 BlazeStake（bSOL）。这显然也可能会发生变化，但你可以在这里看到大致的数字：</p>
+<p><img alt="Solana流动性质押赛道发展指南" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/85dfd59559914ba9009774753b0135ab.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>https://defillama.com/protocols/Liquid%20Staking/Solana</pre>
+<p>目前，Jito 处于第一位，因此我们将从它开始。</p>
+<h4><strong>1）Jito 的价值主张</strong></h4>
+<p>Jito 协议邀请质押者加入 Solana 上赚取 MEV 的行列，并提供铸造 JitoSOL 的奖励。JitoSOL 通过安全的 SPL Stake Pool 实现，其验证节点组和 MEV 分配优化。该协议通过 Jito-Solana 客户端支持高效的交易处理，并在 Solana DeFi 中占据重要地位。 JitoSOL 的使用可在不断增长的 Solana 生态系统中获取积分，并提供竞争性的收益和性能，为社区提供独特的质押体验。</p>
+<p>然而，一个真正的区别在于最大可提取价值（MEV）。简而言之，MEV 允许交易员从交易中获得价值，但 Solana 的设计使 MEV 更难提取。Jito 通过修改 Solana Labs 验证者软件，增加了验证者接受有序交易的能力，并从中收费，从而为 MEV 市场创造了更有秩序和更易访问的环境。委托 SOL 给 Jito 的流动权益挖矿池可获得这一部分利润。其他 LST 也可以委托给运行 Jito 修改验证者软件的验证者，从中受益。</p>
+<p><img alt="Solana流动性质押赛道发展指南" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/cd2008947580fb9cd31e8c8d0817ddc5.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h4><strong>2）Marinade 的价值主张</strong></h4>
+<p>Marinade 是 Solana 上的第一个流动权益挖矿协议，它引领了该领域的最佳实践。当你直接进行权益挖矿时，你需要选择一个验证者，但流动权益挖矿池会自动为你分配到多个验证者，降低了风险。上个月，Marinade 提出了一个倡议，要求验证者创建一个保险基金，以保障委托者的利益。此外，他们还推出了「定向权益」功能，让挖矿者支持特定验证者，并获取额外激励。Marinade 的治理由 MNDEToken 进行，持有者可以投票决定协议的运行方式，这 Token 独立于 mSOL。现在他们正在进行一项活动，参与者可获得额外 MNDEToken 作为奖励，以鼓励他们支持协议的发展。</p>
+<p><img alt="Solana流动性质押赛道发展指南" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/727076cf07de844014f6da5ebd8c2407.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h4><strong>3）BlazeStake 的价值主张</strong></h4>
+<p>BlazeStake 的主要差异点与 BLZE 治理 Token 相关联。与 MNDE 类似，BLZE 可用于投票决定激励分配，但也具有独立的价值。BlazeStake 是一个相对年轻的项目，因此他们只分发了总供应量的约 80% 的 Token，而 Marinade 则已完全分发了他们的 Token，并且必须重新购买它们以创建 MNDE Token 激励。这取决于您的观点和投资时间跨度，可能有好处也可能有坏处。Jito 也有一个治理 Token JTO，但目前尚未用于激励与 Jito 进行权益挖矿。让我们快速比较一下在协议的 TVL 中排名前三的治理 Token，包括市值、流通供应量和增长趋势：</p>
+<p><img alt="Solana流动性质押赛道发展指南" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/a5aaf7376d06c9800cb923b6496a346b.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>数据截取于 2024 年 2 月 16 日，来源于 Defillama、Coingecko 和 Birdeye</pre>
+<p>BLZE 在总锁定价值与治理 Token 的全 diluted 市值比率方面表现不错。然而，需要注意几个问题。首先，JTO 的 FMDC 高是因为流通供应量较低，这可能导致 FMDC 在短期内不太准确。其次，BLZE 只解锁了 2/3 的 Token 供应，因此还有新的 Token 将进入市场。要了解解锁的时间表，请参考此：https://twitter.com/solblaze_org/status/1688480225255161856。</p>
+<p>BLZE 有哪些用途让它有价值呢？类似于 MNDE，您可以通过投票支持特定的治理提案，以帮助 bSOL 达成目标。然而，BlazeStake 采用了一种称为权益量规的机制，让用户能够更持续、更精细地控制。您可以选择在 Realms.today 的去中心化自治组织（DAO）中投票，将额外的权益定向到特定的验证者，或将更多的 BLZE 奖励定向到 DeFi 中的特定流动性池。BLZE 持有者还可以将其 BLZE 锁定长达 5 年，以增加在 DAO 中的投票权。以下是权益量的截图，显示了存入 DAO 后可以将投票定向到的一些示例选项。在 LST 中，这些功能都是相当独特的。</p>
+<p><img alt="Solana流动性质押赛道发展指南" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/cbe3ea3c3b0f1f098ac6339ca02cec18.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>一些 DeFi 协议要求您在其用户界面内领取 BLZE 奖励，BLZE 奖励将每两周直接空投一次。您可以在 rewards.solblaze.org 上查看您钱包当前的 SolBlaze 得分。试图通过伪造多个钱包来提高得分并没有真正的优势。基本公式是：您钱包中的 1 个 bSOL=1 分，您在支持的借代协议中的 1 个 bSOL=1.5 分，以及您在支持的 bSOL 流动性提供仓位中的 1 个 bSOL=2 分。这大致与您使用资本承担的风险相一致，因此，风险越大，奖励越高是合理的。</p>
+<p>另外值得注意的是，BlazeStake 提供了一个选项，可以将您的 SOL 与他们称为「自定义流动权益挖矿」的单个验证者进行权益挖矿。与 Marinade 不同，100% 的权益将直接分配给该验证者。需要提醒的是，与 Marinade 不同，Marinade 只将 20% 的权益直接委托给您选择的验证者，剩余的 80% 则通过他们的委托策略算法进行分配。Marinade 在其文档中详细说明了这一点，但在其用户界面中并不立即显现，我认为这有点不太理想。</p>
+<p>BlazeStake 还有一些其他有趣的功能。他们提供了一个真实的 SOL 水龙头，意思是如果您错误地将所有 SOL 锁定在他们的平台上，并且没有足够的 SOL 来支付解锁交易费用，您可以使用该水龙头来获得一些 SOL 以支付费用。这非常方便，因为您无需通过中心化交易平台引入新资金。此外，他们还提供一个简单的 Token 铸造用户界面，可让您轻松创建一个 SPL Token，并提供了一个 RPC 状态页面和 SOL Pay SDK。所有这些都是有益的功能，有助于推广 SOL 和流动权益挖矿的理念。</p>
+<p>如果 BlazeStake 的主要价值来自于其治理 Token 的发行，那么 BLZE 的价格走势就是推动价值的因素。BLZE 的价格从 2023 年 11 月底开始上涨，并在 0.002 到 0.004 美元之间保持稳定，但根据上述数据，可能还有很大的上涨空间。如果它能够像 Marinade 那样保持稳定，那么还有 2.8 倍的增长空间。</p>
+<p>在我看来，BLZE 的估值应该与 MNDE 相当，甚至更高。我不确定如何将 JTO 的估值与其他两者相比较。我喜欢这个项目，他们在 Solana 上的 MEV 所做的事情在根本上是独特的，我期待未来的新创新，但几乎 90% 的 Token 供应仍然待发行，这似乎有些高。但完全稀释的市值并不重要... 直到重要了。不管怎样，我认为这三个项目相对于美元的升值机会都很好，因为这些流动权益挖矿协议正在创造价值。简单的论点：流动权益挖矿好。</p>
+<p>总结一下关于 Solana 上三个最重要的流动权益挖矿协议的部分，它们都强调了 Solana 分权化的好处。流动权益挖矿池会将权益分散到一个广泛的验证者集合中，而不是建立一个胜者通吃的情况。它们都公开宣传自己的安全性。每个 Liquid Staking 协议都存在智能合约风险，即智能合约在操作权益挖矿池时存在错误的风险，但它们都具有可信的安全意识。这些都是好事，但它们并没有真正区分这三种方法，这就是为什么我尝试以上文中突出其独特特点的原因。</p>
+<h3>4、Sanctum 与无限流动权益挖矿未来</h3>
+<p>Solana 上还有许多其他的 Liquid Staking 协议，而由于 sanctum.so 正在努力推进的流动性支持池，这些协议数量即将大幅增加。他们的目标是通过接受所有流动权益挖矿协议，并提供 SOL 交换服务，使任何一种流动权益挖矿协议尽可能具有流动性。他们收取的费用少于 0.03%，通常为 0.01%，基本上相当于为您承担了时期风险。您可以立即用您的流动权益挖矿 Token 换取 SOL，而该池为此提供了一个缓冲区，将时期风险分散到了更广泛的范围内。</p>
+<p>截至目前，圣所支持十二种不同的流动权益挖矿协议，但他们的目标是解决几乎所有 Liquid Staking 协议的流动性启动问题。 Liquid Staking 协议的流动性仅取决于在 Orca 和 Radium 等协议的流动性池中可用的流动性，因此新的 Liquid Staking 协议通常需要制定策略来提升流动性，以实现 Liquid Staking 协议的承诺部分。Sancrum 提供了一个巨大的额外缓冲区，使得新的和低市场份额的流动权益挖矿协议可以立即具有流动性。</p>
+<p>截至目前，您可以使用 Sanctum 立即兑换为 SOL 的流动权益挖矿 Token 包括：bSOL、cgntSOL、daoSOL、eSOL、jitoSOL、JSOL、laineSOL、LST（Marginfi 的流动权益挖矿 Token）、mSOL、riskSOL、scnSOL 和 stSOL。</p>
+<p>Sanctum 的通用 LSTs 流动性池使得在 Liquid Staking 领域进行更大规模的实验成为可能。</p>
+<h3>5、如何进行 Liquid Staking</h3>
+<p>现在您已经了解了一些选项，让我们简要地了解一下如何操作。以 bSOL 为例，只需转到 stake.solblaze.org，点击「Stake」选项卡，就会出现以下用户界面。</p>
+<p>请记住，与 Solana 上的大多数 LSTs 一样，bSOL 也会产生收益，因此您收回的 bSOL 少于您提交的 SOL。不要被这吓到。在图像中，您可以看到 0.8993 bSOL = 1 SOL。这是因为 0.8993 bSOL 表示对等于 1 SOL 的 BlazeStake 流动权益挖矿池的索赔，因此您不会损失任何价值。随着流动权益挖矿池的 SOL 持有量的增长，这个数字会继续下降，这意味着您每个 bSOL 所获得的 SOL 量将会继续增加。目前 1 bSOL = 1.11 SOL，而这个数字将随着时间的推移而继续上升。</p>
+<p><img alt="Solana流动性质押赛道发展指南" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/366be642d087c77237eebd5f78a3e389.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>选择金额，点击按钮，批准交易，然后完成。</p>
+<h3>6、LSTs 和 DeFi</h3>
+<p>现在我们已经对 LSTs 的工作原理有了相当好的理解，知道了 LSTs 的选择以及不同方法的好处，让我们来看看 DeFi 选项。这一切的目的在于将您的抵押 Token 变成流动性，以便您可以利用它做各种事情。</p>
+<p>让我们从一些相对简单的东西开始，比如借代。</p>
+<h4><strong>借贷</strong></h4>
+<p>对于 LST，您可以做的最简单、风险最低的事情之一就是将其借出。MarginFi、Solend 和 Kamino 等平台允许用户存入抵押品并借入他们选择的其他资产。加密货币通常非常波动性，所有这些平台只提供超额抵押的借代头寸。这意味着您的交易对手必须提供的抵押品价值比他们借入的资产更高。这通常是根据抵押品质量的评估而变化的。如果存入的抵押品价值跌破一定阈值，这些抵押品将被清算并用于偿还借款人。</p>
+<p>这种清算方式的规则有些复杂，不同的项目采取不同的方法。如果您将投入大量资金进行风险投资，那么一定要了解这些规则。</p>
+<p>通常，LST 的借代年化收益率相对较低，因为需求并不那么高。由于已经抵押，最大、风险最低的收益机会已经被利用。尽管如此，您仍然可以通过相对安全的方式借出它，获得一些额外的收益，或者可能通过借代获得一些协议奖励，因此这是一个值得考虑的选项。</p>
+<h4><strong>Looping（循环）</strong></h4>
+<p>现在我们已经谈论了借代，让我们谈谈借代能够实现的内容。假设您有 10 个 bSOL，目前宣传的年化收益率为 7.34%（请记住，这个数字会随着每个时期的变化略有不同），再加上以 BLZE 发行量的形式的 0.81% 年化收益率（这取决于 BLZE 的价格）。您如何可以获得更多收益呢？一种方法是将这些 bSOL 存入借代协议中，借出更多的 SOL，然后将该 SOL 与 BlazeStake 一起进行质押。Drift Protocol 和 Kamino Finance 提供了一个一键执行此操作的简单产品，以及您可以配置的可变杠杆。您还可以通过类似 Solend 的协议手动执行此操作。需要注意的重要变量是 SOL 借代利率。这个利率越高，您的整体年化收益率就越低。为什么呢？因为您必须将其作为成本进行扣除。以下是来自 Drift 的 SuperStakeSOL UI 的一个快速示例。</p>
+<p><img alt="Solana流动性质押赛道发展指南" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/d6cad3213e96decb48665e8325add5ce.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>在这个示例中，您使用 10 个 bSOL 作为抵押物借出 5 个 SOL。您必须支付 0.6% 的年化利率来借出 SOL，但您随后可以再次将该 SOL 与 bSOL 一起质押，并再次获得额外收益。只要借代利率低于奖励，这就是有意义的。请记住，您在这里承担了风险。主要风险是类似上文中提到的 mSOL 的「脱钩」事件。这在任何时候都可能发生，因为将其价值与 SOL 相关联的机制具有持续时间的成分。</p>
+<h4><strong>提供流动性</strong></h4>
+<p>通过提供流动性，另一种增加 LST 收益的方式。支撑去中心化交易的是流动性池，它们使您能够交换 Token 对。如果有足够多的这些池，您可以通过一个池列表通过跨池交换来交换任何资产。由于 USDC 和 SOL 通常具有最深的流动性，因此任何路线通常都会经过它们，例如，如果您想要将 WIF 交换成 WHALES，您可能会先将 WIF 兑换成 SOL，然后将 SOL 兑换成 WHALES。</p>
+<p>池会为交换收取费用，这些费用将返还给流动性提供者（LP）。当交易保持平衡，WIF 兑换的数量与 WHALES 兑换的数量相同时，价格保持稳定，而 LP 只是提取费用。然而，这种费用之所以合理，是因为存在不稳定损失的风险。如果需求开始明显向 WHALES 倾斜，池中的 WHALES 量将减少，而 WIF 的数量将不断增加，直到 LP 们只持有 WIF，而现在的 WIF 价值比以前低。这种趋势显然可能反转，这就是为什么称其为不稳定损失，但这是需要牢记的事情。</p>
+<p>那么，哪些流动性池对 LST 是有吸引力的呢？首先，SOL-LST 池很受欢迎，因为它支持即时质押和解质押操作。其次，LST1-LST2 类型的池也很不错，因为您持有两个 LST，它们都可以获得正常的质押收益，同时还可以获得一小部分交易费。您知道它们的价格应该高度相关，因为它们与 SOL 价格相关（尽管不是锚定）。不稳定损失的风险很低。第三，对于更高风险、更高回报的选择，您可能希望考虑允许您将 LST 交换为其协议治理 Token 的池，例如 jitoSOL-JTO 或 bSOL-BLZE。这些通常会通过额外的治理 Token 奖励来激励，以确保有合理的流动性。</p>
+<p>我无法强调了解流动性提供更多细微差别的重要性。不同的池在如何分配流动性以及 LP 对此的控制方面存在差异。根据 Token 相互交易的方式，不同的方法会更好或更差，因此您需要一个良好的心理模型，来了解价格行动将如何展开，因此，您希望将流动性放在池中以获得一直保持良好结果。前两个选项（SOL-LST、LST1-LST2），您的心理模型基本上是「它们将继续高度相关」，这使得这一切非常简单。如果您要比简单的选项更深入地研究，我建议从很小的金额开始，并观察价格行动如何展开。注意随着资产交易，池中的平衡如何变化，费用如何积累，并决定是否值得进行更大的投资。</p>
+<p>一些 DeFi 协议，如 Kamino，提供了自动管理 LP 策略的保险库，因此您无需做太多事情。它们配备了一个预先构建的策略，用于将资金投入到它们遵循的流动性池中。在进行此操作之前，您应该了解它是什么，但这意味着您不必手动进入池中并重新平衡您的范围。当然，它们会收取一小笔费用。</p>
+<p>贷款、循环和提供流动性的这三个组合并不会用完您在 LST 上的选项，但我不想把这变成一篇论文。如果您还没有尝试过这三个选项中的所有选项，您可能希望在深入了解之前先尝试一下。</p>
+<h3>7、结论</h3>
+<p>希望本文能让你对 Solana 上的 Liquid Staking 有一个坚实的了解。正目前 Solana 上的 LST 和 DeFi 的未来很有潜力，而这个领域的创新速度也很惊人。</p>
+<p>如果你在文章中发现了任何错误需要更正，或者你觉得我对某些事情的描述有误，我很乐意接受反馈并考虑做出改变。</p>
+<p>Solana 令人惊奇的地方在于，你几乎可以用 10 美元尝试所有这些。如果你担心涉及的风险以及是否足够理解它们来尝试这一切，你可以小心地开始，感受一下。唯一能评估你的风险偏好，以及是否值得尝试任何给定机会的人，就是你自己。</p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 20:00:13 +0800</pubDate>
+<pubDate>Thu, 28 Mar 2024 20:00:13 +0800</pubDate>
+</item>
+<item>
+<title>安全机构：Prisma Finance遭到攻击损失2275枚ETH，价值810万美元</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/73e24sbp.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/73e24sbp.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是消极的。MetaTrust Alert监测显示，LSD稳定币协议Prisma Finance遭到攻击损失了810万美元价值的2275枚ETH。攻击者身份为0x7e39e3b3ff7adef2613d5cc49558eab74b9a4202。Prisma Finance官方已意识到可能存在漏洞，核心工程贡献者将暂停协议并进行调查。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月28日消息，据MetaTrust Alert监测，LSD稳定币协议Prisma Finance遭到攻击损失2275枚ETH，价值810万美元。</p>
+<p>攻击者: 0x7e39e3b3ff7adef2613d5cc49558eab74b9a4202。</p>
+<p>随后Prisma Finance官方表示：已意识到 Prisma 上可能存在漏洞，核心工程贡献者将暂停协议并进行调查。</p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 19:52:29 +0800</pubDate>
+<pubDate>Thu, 28 Mar 2024 19:52:29 +0800</pubDate>
+</item>
 
 <item>
 <title>针对SBF的量刑听证会定于21:30在曼哈顿联邦法院进行，预计可能的监禁判决为20至30年</title>
