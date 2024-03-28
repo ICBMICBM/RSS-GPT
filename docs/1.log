@@ -13513,3 +13513,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [针对SBF的量刑听证会定于21:30在曼哈顿联邦法院进行，预计可能的监禁判决为20至30年](https://www.panewslab.com/zh/sqarticledetails/w1ij59az.html)
 append_entries: 1
 Finish: 2024-03-28 11:21:08.202338
+------------------------------------------------------
+Started: 2024-03-28 11:27:24.873134
+Existing_entries: 660
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+append_entries: 0
+Finish: 2024-03-28 11:27:26.389245
