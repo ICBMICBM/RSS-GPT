@@ -11376,3 +11376,12 @@ Existing_entries: 277
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-28 13:30:02.300336
+------------------------------------------------------
+Started: 2024-03-28 13:37:17.148246
+Existing_entries: 277
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 84
+Summarized using GPT-3.5-turbo-1106
+Append: [LIVE: Sam Bankman-Fried Returns to New York Courthouse for Sentencing in FTX Fraud Case](https://www.coindesk.com/policy/2024/03/28/sam-bankman-fried-ftx-sentencing/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-28 13:37:20.601329
