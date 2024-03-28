@@ -11532,3 +11532,15 @@ Existing_entries: 283
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-28 17:11:59.234008
+------------------------------------------------------
+Started: 2024-03-28 17:26:25.484235
+Existing_entries: 283
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 51
+Summarized using GPT-3.5-turbo-1106
+Append: [Statement of U.S. Attorney Damian Williams on the Sentencing of Sam Bankman-Fried](https://www.coindesk.com/policy/2024/03/28/statement-of-us-attorney-damian-williams-on-the-sentencing-of-sam-bankman-fried/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 82
+Summarized using GPT-3.5-turbo-1106
+Append: [Ethereum Hit by 'Blobscriptions' in First Stress Test of Blockchain's New Data System](https://www.coindesk.com/tech/2024/03/28/ethereum-hit-by-blobscriptions-in-first-stress-test-of-blockchains-new-data-system/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 2
+Finish: 2024-03-28 17:26:31.301075
