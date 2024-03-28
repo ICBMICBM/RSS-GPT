@@ -4,12 +4,13 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+
 <item>
 <title>解读IMO：AI模型资产化，代币发行新玩法</title>
 <link>https://www.panewslab.com/zh/articledetails/5h5nd8il.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/5h5nd8il.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了最新的加密市场资产发行方式：IMO（Initial Model Offering），针对AI模型代币化发行进行了详细解释。利用AI预言机和零知识证明确保AI模型的真实性，通过ERC-7641和ERC-7007代币标准实现AI模型的代币化和收益分享，解决了作品真实性和来源可追溯性问题。然而，IMO仍面临链下使用问题、市场需求不确定性和收益分享效果等挑战。总体来说，IMO为开源AI模型提供了新的资金支持和价值共享方式。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章介绍了最新的加密市场资产发行方式：IMO（Initial Model Offering），针对AI模型代币化发行进行了详细解释。利用AI预言机和零知识证明确保AI模型的真实性，通过ERC-7641和ERC-7007代币标准实现AI模型的代币化和收益分享，解决了作品真实性和来源可追溯性问题。然而，IMO仍面临链下使用问题、市场需求不确定性和收益分享效果等挑战。总体来说，IMO为开源AI模型提供了新的资金支持和价值共享方式。 <div>
 <p>作者：深潮 TechFlow</p>
 <p>加密市场从不缺乏新概念。</p>
 <p>但大部分新概念，都是老玩法的微创新；也正是这种微创新，更容易带来新的热潮与炒作。</p>
@@ -101,14 +102,13 @@
 <p>在一场没有十全十美的资产游戏中，抱住AI这个大腿的热度，往往更容易通向成功。</p>
 ]]></content:encoded>
 <pubDate>Thu, 28 Mar 2024 16:34:07 +0800</pubDate>
-<pubDate>Thu, 28 Mar 2024 16:34:07 +0800</pubDate>
 </item>
 <item>
 <title>再质押存在哪些风险？该如何解决？</title>
 <link>https://www.panewslab.com/zh/articledetails/qz9brr0332fr.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/qz9brr0332fr.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。<br>再质押（restaking）是在2023年Restaking Summit中讨论的重要话题。文章分析了再质押的定义、与传统金融的对比、风险和如何减轻这些风险。再质押是如何与传统金融和债券市场类比的，以及再质押可能带来的罚没、流动性和集中化风险。通过可视化工具展示了不同金融工具的违约情况，以及如何通过参数优化和再平衡来减轻这些风险。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。<br />再质押（restaking）是在2023年Restaking Summit中讨论的重要话题。文章分析了再质押的定义、与传统金融的对比、风险和如何减轻这些风险。再质押是如何与传统金融和债券市场类比的，以及再质押可能带来的罚没、流动性和集中化风险。通过可视化工具展示了不同金融工具的违约情况，以及如何通过参数优化和再平衡来减轻这些风险。 <div>
 <p>编译：loxia.eth</p>
 <p>校对：tiao</p>
 <h3><strong>前言</strong></h3>
@@ -172,21 +172,18 @@
 <p>就是这样，谢谢大家。</p>
 ]]></content:encoded>
 <pubDate>Thu, 28 Mar 2024 16:30:57 +0800</pubDate>
-<pubDate>Thu, 28 Mar 2024 16:30:57 +0800</pubDate>
 </item>
 <item>
 <title>以太坊验证者数量突破100万，其中质押的3200万枚ETH占总供应量的26%</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/vea2071t.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/vea2071t.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。根据Dune Analytics仪表板显示，以太坊网络的验证者数量达到100万，质押的3200万枚ETH占总供应量的26%。约30%的ETH通过Lido质押池进行质押。一些人担心验证者数量过多可能会带来问题，认为会增加交易失败的风险。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。根据Dune Analytics仪表板显示，以太坊网络的验证者数量达到100万，质押的3200万枚ETH占总供应量的26%。约30%的ETH通过Lido质押池进行质押。一些人担心验证者数量过多可能会带来问题，认为会增加交易失败的风险。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月28日消息，据Cointelegraph报道，Hildobby创建的用于跟踪以太坊质押进度的Dune Analytics仪表板显示，该网络的验证者数量达到100万，其中质押的3200万枚ETH占总供应量的26%。此外，大约30%的ETH是通过以太坊质押池Lido进行质押的。</p>
 <p>虽然验证者的数量可以转化为区块链更高的安全性，但一些社区成员认为验证者太多可能会带来问题。风险投资者和以太坊倡导者Evan Van Ness表示，可以说已经“太多”了。运营质押池的Gabriel Weide认为，太多的验证者最终会导致“交易失败”。</p>
 ]]></content:encoded>
 <pubDate>Thu, 28 Mar 2024 16:28:38 +0800</pubDate>
-<pubDate>Thu, 28 Mar 2024 16:28:38 +0800</pubDate>
 </item>
-
 <item>
 <title>Azuki联合推出Web3动漫网络AnimeChain，发币预期拉满之下NFT暂未回暖</title>
 <link>https://www.panewslab.com/zh/articledetails/krrk5cn9.html</link>
