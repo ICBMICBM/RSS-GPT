@@ -11544,3 +11544,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Ethereum Hit by 'Blobscriptions' in First Stress Test of Blockchain's New Data System](https://www.coindesk.com/tech/2024/03/28/ethereum-hit-by-blobscriptions-in-first-stress-test-of-blockchains-new-data-system/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 2
 Finish: 2024-03-28 17:26:31.301075
+------------------------------------------------------
+Started: 2024-03-28 17:33:44.161114
+Existing_entries: 285
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-03-28 17:33:44.611501
