@@ -4,6 +4,120 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>全面概述积分场外交易市场Whales Market</title>
+<link>https://www.panewslab.com/zh/articledetails/a66z1li5.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/a66z1li5.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了加密领域中Whales Market的功能和优势。主要要点包括Whales Market的产品概述，包括盘前交易、场外交易市场和积分市场的支持；代币经济学及质押机制；收入来源和估值比较。文章总结Whales Market为加密市场提供了全面解决方案，帮助解决P2P交易中的挑战。 <div>
+<p>作者：<a href="https://www.shoal.gg/p/whales-market-points-otc-marketplace?utm_source=profile&amp;utm_medium=reader2&amp;hide_intro_popup=true" rel="nofollow">Pavel Paramonov</a>, 区块链研究员</p>
+<p>编译：Felix, PANews（本文有所删减）</p>
+<p>在加密领域，用户可以从事许多活动，例如质押资产，购买代币和NFT，进行研究，开发去中心化的应用程序，以及参与空投挖矿等。然而，这些所有活动的共同点是交易。几乎每个用户都参与交易，无论是交易所的多头还是空头头寸，流动性池中的资产交易，还是NFT市场上的交易。有趣的是，即使是非流动性资产也主要通过点对点（P2P）进行交易。</p>
+<p>由于非流动性资产缺乏流动性市场，加密积分、空投分配和白名单等项目的交易通常发生在场外交易（OTC）市场。在这种情况下，个人在交易过程中需要进行对话和协商交易。然而，参与者彼此能否达成信任成为一个重要挑战。信任至关重要，因为特定用户必须拥有指定资产并在拟议交易后肯交付这些资产。这其中可能会出现恶意活动，并带来一定的风险。</p>
+<p>如果可以建立一个无需信任的第三方，为双方提供安全交易，提供安全性并防止欺诈活动，那会怎么样？这正是Whales Market旨在实现的目标。</p>
+<h3><strong>简介</strong></h3>
+<p>Whales Market旨在将OTC交易整合到统一平台上，买卖双方都可以进行链上交易。资金在智能合约中得到保障，只有在成功完成交易后才会支付给相关方。这一功能不仅简化了交易流程，而且显著减少了欺诈活动造成的潜在经济损失。</p>
+<p>Whales Marke由LootBot开发团队开发。LootBot是在2023年夏天创建的，当时Telegram Bots正在流行。LootBot开发团队基于以往的开发经验，决定创建一个更有宏大、更复杂的产品——Whales Market。</p>
+<h3><strong>产品概述</strong></h3>
+<p>Whales Market支持3种市场类型：盘前交易，场外交易市场，积分市场。</p>
+<h4><strong>盘前市场</strong></h4>
+<p>Whales Market的盘前市场允许购买TGE（代币生成事件）之前的代币分配。尽管此类交易在不同的私人社区和一些中心化的平台中比较常见，但安全性不足，交易者容易遇到欺诈和无法交付承诺的代币。Whales Market通过使用智能合约改变了这一过程，实现了买卖双方的链上交易，有效防止了欺诈活动。</p>
+<p><img alt="全面概述积分场外交易市场Whales Market" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/12729cec4d2c23921f6f308a4cd23c0e.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>有两种方式可以买卖代币：</p>
+<ul>
+<li>创建自己的买卖报价</li>
+<li>完成别人的买卖报价</li>
+</ul>
+<p>卖家和买家都需要等待TGE才能结算或取消订单。当TGE发生并由基金会释放代币时，买卖双方之间的结算将会倒计时24小时。如果卖家未能及时结算，将失去抵押资金。如果买家决定取消订单，这些资金将转移给买家。</p>
+<p><img alt="全面概述积分场外交易市场Whales Market" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/36fc1db23468272349a30cd19336d3f8.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h4><strong>OTC</strong><strong>市场</strong></h4>
+<p>传统上，OTC市场通过聊天室、社交媒体网站等各种非正式渠道促进代币和NFT的P2P交易。</p>
+<p>虽然这些方法很方便，但缺乏严格的安全措施，交易者容易受到欺诈和骗局。与盘前市场类似，Whales Market使用智能合约来解决漏洞，以降低潜在损失的风险。</p>
+<p>为了保证用户安全，Whales Market提供了一份代币清单。该清单上的各种代币均在DEX中达到30万美元的最低流动性。</p>
+<p>用户也可以交易清单之外的代币，但平台会显示警告标志，提示用户在继续交易之前验证其铸币地址。</p>
+<p>为保证隐私，Whales Market推出一项新功能，买卖双方共享报价访问链接有访问限制，因此私人报价在公共市场上是不可见的。</p>
+<p><img alt="全面概述积分场外交易市场Whales Market" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/cac08c4645b9ffc27dfc05da48c887f5.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h4><strong>积分市场</strong></h4>
+<p>与场外交易市场类似，积分市场允许安全的P2P积分交易。使用“积分系统”的项目数量逐渐增长。 Whales Market 利用智能合约来允许买家和卖家之间达成共同商定的链上交易。</p>
+<p><img alt="全面概述积分场外交易市场Whales Market" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/199f35a46664b203dacee9988932f976.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>在代币发布后，Whales Market将根据基金会的公告自动将积分转换为相应的代币。</p>
+<h4><strong>涉及的风险</strong></h4>
+<p>积分订单必须提前设定，但最终兑换成代币的比例要到TGE才会公布。这可能会导致卖方的积分最终大大超过他们收到的代币的价值，从而可能给卖方带来不利的结果。</p>
+<p>目前，Whales Market允许交易Friend.tech积分。未来计划为MarginFi、Kamino、EigenLayer和Rainbow等协议添加这些功能。</p>
+<h3><strong>代币经济学</strong></h3>
+<p>Whales Market的整个生态系统都围绕其原生代币WHALES。 WHALES代币的主要实用功能包括：</p>
+<ul>
+<li>收益分享：所收取费用的60%将重新分配给WHALES代币质押者</li>
+<li>开发费用：20%用于支付持续开发费用</li>
+<li>回购和销毁：10%用于回购和销毁代币，实现通缩机制</li>
+<li>LOOT收益分成：10%分给LOOT质押者和xLOOT持有者</li>
+</ul>
+<p>为了确保释放量有助于协议的增长，代币释放量与与交易量有关的特定关键指标（KPI）相关联。<img alt="全面概述积分场外交易市场Whales Market" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/40a62c14026e4b62560e99753d82c861.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Whales Market团队分配了总供应量的9.5%，并有9个月的悬崖期和36个月的归属期。</p>
+<h4><strong>质押</strong></h4>
+<p>Whales Market通过向OTC市场收取费用来获得收入，其中60%的费用分配给 WHALES 质押者。当用户质押 WHALES 时，他们会获得 xWHALES 奖励，这里有两个目的：获得收入份额并在所有 OTC 市场充当抵押品。</p>
+<p>质押机制的工作原理如下：</p>
+<ul>
+<li>质押合约包括一个由两种类型的代币组成的池：WHALES和xWHALES。</li>
+<li>参与者质押他们的WHALES代币，作为回报获得xWHALES代币。</li>
+<li>持有xWHALES代币使质押者有权获得越来越多的WHALES奖励。</li>
+<li>为了实现这一点，合约产生的收益不断购买WHALES代币，然后将其添加到质押池中。</li>
+<li>xWHALES到WHALES的兑换率增加，使质押者受益。</li>
+</ul>
+<p>这种机制还可以防止在获得奖励后立刻抛售WHALES代币，因为奖励是随着时间逐渐分配。</p>
+<h4><strong>奖励分配</strong></h4>
+<p>根据区块链（EVM、SOL等）和市场的不同，费用会在不同的资产中收取。为了简化领取奖励的过程，协议定期将这些收取到的代币转换为WHALES代币。</p>
+<p>这些交易可以在协议的仪表板上查到。然后，分配的WHALES代币将作为奖励在质押者之间平均分配。</p>
+<p>质押者可以随时提取xWHALES代币并将其转换回WHALES代币。</p>
+<h4><strong>收入</strong></h4>
+<p><img alt="全面概述积分场外交易市场Whales Market" src="https://cdn-img.panewslab.com/yijian/2024/3/28/images/64dd2c483ba93f67c1566b015294cd2d.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>正如在代币经济学部分所提到的，Whales Market通过盘前交易、场外市场和积分市场收取费用来赚取收入。下面介绍费用标准以及哪些操作需要付费。</p>
+<p>在盘前交易中，关闭报价、结算订单、购买代币和取消订单都需要收取费用。如果您选择关闭报价，则需要支付0.5%的平台费。对于结算订单（买入），收取2.5%的平台费。当您发出购买要约或履行另一个用户的出售要约时，还会对购买的总代币收取2.5%的平台费用。如果因卖家失联而取消购买代币订单，将产生 2.5% 的平台费用。</p>
+<p>在OTC市场中，Whales Market只收取挂牌和出售的费用。每当创建报价时，无论是买入还是卖出，都会收取0.1%的费用，并包含在总保证金中。当您通过出售代币来履行购买要约时，将收取 0.1% 的费用，并从收到的金额中扣除。</p>
+<p>在积分市场中，用户需要支付关闭报价（买入或卖出）、结算和取消订单以及购买积分的费用。如果您选择关闭报价，平台费用为 0.5%。对于所有其他情况，费用为 2.5%。</p>
+<h3><strong>估值</strong></h3>
+<p>为了确定Whales Market的估值，将使用三个关键指标进行比较分析：</p>
+<ul>
+<li>收益与 TVL 比率</li>
+<li>市值与 TVL 比率</li>
+<li>质押资产与市值比率</li>
+</ul>
+<p>这些指标将与两个主要竞争对手进行比较：Uniswap 和 Blur。通过比较这些指标，目标是深入了解Whales Market与区块链领域成熟参与者的相对估值。</p>
+<h4><strong>收益与</strong><strong> TVL </strong><strong>比率</strong></h4>
+<p>目前收益与 TVL 比率如下：</p>
+<ul>
+<li>Whales Market：0.02</li>
+<li>Blur：0.36</li>
+</ul>
+<p>这些费用是自协议启动以来产生的。虽然Blur的比率要高得多，但值得注意的是，Blur比Whales Market的出现要早得多，后者在2023年1月初才推出。</p>
+<p>然而，当检查过去两个月的统计数据并将其与TVL在此期间的收益进行比较时，得到了明显不同的结果：</p>
+<ul>
+<li>Whales Market：0.02</li>
+<li>Blur：0.02</li>
+</ul>
+<p>很明显二者目前的比率相等，这表明它们产生的费用百分比几乎相同。Blur目前的FDV为22.6亿美元，而whale Market目前的估值为2.6433亿美元，这意味着两者之间的差距几乎是10倍。</p>
+<h4><strong>市值与</strong><strong> TVL </strong><strong>比率</strong></h4>
+<ul>
+<li>Whales Market：1.35</li>
+<li>Uniswap：1.13</li>
+<li>Blur：5.94</li>
+</ul>
+<p>Blur的比率最高，表明与Uniswap和Whales Market相比，其估值可能被高估了。</p>
+<p>值得一提的是，市值下的TVL略有不同，在Whales Market中被称为总托管价值Total Value Escrowed (TVE)，充当两方之间的托管。Uniswap 和其他 DEX 的机制略有不同。</p>
+<h4><strong>质押资产与市值比率</strong></h4>
+<p>该指标仅适用于 Blur 和 Whales Market。</p>
+<ul>
+<li>Whales Market：35%</li>
+<li>Blur：30%</li>
+</ul>
+<p>就协议中的质押资产产而言，Whales Market仍有很大的增长空间，这些协议的比率非常接近，但也应该记住，Whales Market仅有3个月历史。</p>
+<h3><strong>结论</strong></h3>
+<p>总之，Whales Market为缺乏流动性和去中心化的加密市场提供了全面的解决方案，为包括 OTC、盘前交易和积分交易在内的各种市场提供支持。此外，代币经济学、质押选择和收益机制确保了可持续且有利可图的生态系统。总体而言，Whales Market提供了一个有前途的平台，解决了P2P交易者在加密市场面临的挑战。</p>
+<p>相关阅读：<a href="https://www.panewslab.com/zh/articledetails/3lpoyqm9.html">Wintermute OTC年度报告：下半年交易量增长4倍，TradFi重新兴起</a></p>
+]]></content:encoded>
+<pubDate>Thu, 28 Mar 2024 15:53:16 +0800</pubDate>
+<pubDate>Thu, 28 Mar 2024 15:53:16 +0800</pubDate>
+</item>
 
 <item>
 <title>黄立成的Meme项目Bobaoppa预售地址已筹集超20万枚SOL，价值约3800万美元</title>
