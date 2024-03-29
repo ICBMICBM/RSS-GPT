@@ -14011,3 +14011,24 @@ Existing_entries: 678
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-28 23:53:13.421822
+------------------------------------------------------
+Started: 2024-03-29 00:24:59.170348
+Existing_entries: 678
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 659
+Summarized using GPT-3.5-turbo-1106
+Append: [某恶意软件盗取多个知名游戏数百万玩家账户，已有受害者报告其加密货币被盗](https://www.panewslab.com/zh/sqarticledetails/u6r29m8l.html)
+Token length: 250
+Summarized using GPT-3.5-turbo-1106
+Append: [Filecoin生态流动性质押协议Glif已启动积分计划，积分可转换为原生代币](https://www.panewslab.com/zh/sqarticledetails/vwp31kux.html)
+Token length: 2383
+Summarized using GPT-3.5-turbo-1106
+Append: [BTC创历史新高后，矿工们的日子反而难了？](https://www.panewslab.com/zh/articledetails/zh3i8b2v.html)
+Token length: 288
+Summarized using GPT-3.5-turbo-1106
+Append: [彭博社：英美两国正调查200亿美元与俄罗斯交易所有关的Tether交易](https://www.panewslab.com/zh/sqarticledetails/50os69su.html)
+Token length: 173
+Summarized using GPT-3.5-turbo-1106
+Append: [数据：灰度GBTC昨日资金净流出约1.049亿美元](https://www.panewslab.com/zh/sqarticledetails/w4vswr29.html)
+append_entries: 5
+Finish: 2024-03-29 00:25:20.488630
