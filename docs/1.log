@@ -14494,3 +14494,15 @@ Existing_entries: 725
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-29 10:58:03.020470
+------------------------------------------------------
+Started: 2024-03-29 11:12:14.337881
+Existing_entries: 725
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 9259
+Summarized using GPT-3.5-turbo-1106
+Append: [PA日报｜SBF被判处累计25年监禁；币安上线第50期挖矿项目Ethena](https://www.panewslab.com/zh/articledetails/5gjg14bb.html)
+Token length: 3990
+Summarized using GPT-3.5-turbo-1106
+Append: [速览刚获1000万美元融资的BOB：结合比特币安全性与EVM流动性的混合L2](https://www.panewslab.com/zh/articledetails/9guk3hp6.html)
+append_entries: 2
+Finish: 2024-03-29 11:12:26.546269
