@@ -11748,3 +11748,12 @@ Existing_entries: 181
 Fetching from https://bitcoinist.com/feed
 append_entries: 0
 Finish: 2024-03-29 08:39:32.852818
+------------------------------------------------------
+Started: 2024-03-29 08:46:49.281663
+Existing_entries: 181
+Fetching from https://bitcoinist.com/feed
+Token length: 3098
+Summarized using GPT-3.5-turbo-1106
+Append: [FTX Founder Sam Bankman-Fried Gets 25 Years Prison Sentence – Details](https://bitcoinist.com/ftx-founder-sam-bankman-fried-gets-25-years-in-jail/)
+append_entries: 1
+Finish: 2024-03-29 08:46:55.210062
