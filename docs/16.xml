@@ -4,6 +4,23 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>Gauntlet 联创演讲精选：如何降低 Restaking 风险</title>
+<link>https://mp.weixin.qq.com/s/FirrWeOlb4tvI92WyEMu5g</link>
+<guid>https://mp.weixin.qq.com/s/FirrWeOlb4tvI92WyEMu5g</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。这篇文章解释了再质押应用和 AVS 在风险管理方面的相似性，并指出了再质押的三种金融风险：罚没风险、流动性风险和集中化风险。作者提出了如何通过参数优化和流动性再质押代币来减轻这些风险。最后，他强调了在 AVSs 之间重新分配资金的重要性。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>本文为 Gauntlet 联创 Tarun Chitra 于 2023 年 11 月 13 日伊斯坦布尔 Restaking Summit 中的演讲，深入浅出地讲解了再质押所承担的风险本质和其他质押模式所承担风险的具体区别。本文由 LXDAO 编译。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/FirrWeOlb4tvI92WyEMu5g">https://mp.weixin.qq.com/s/FirrWeOlb4tvI92WyEMu5g</a></p>
+<p><strong>文章作者：</strong></p><p>LXDAO</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>LXDAO：</strong>再质押应用和 AVS（Actively Validated Service，主动验证服务）在一定程度上类似于可验证的公司债券。新兴网络寻求 Layer1 的安全性，这有点像企业利用另一家公司的国家金融系统来发行债券以寻求资产庇护。企业和主权国家基于最高的安全性和流动性发行债券。如果我们把 ETH Layer1 看作是主权货币，那么再质押应用程序就是向这一主权借贷，然后偿还本金和利息。在 2023 年，以太坊是唯一一个能够支持这种回购市场的主权实体。但我会认为再质押与传统金融类型的区别之一是可验证性，即违约事件，即当有人不支付时，实际上这是你触发的违约罚没规则之一，由密码学激励并且可以通过 Layer1 独立验证。
+
+在再质押的三种金融风险中，最严重的是罚没风险，这是你直接失去本金的唯一方式。第二是流动性风险，很多再质押协议都有锁定的 LST（流动性再质押代币），现在如果 LST 的一大部分被锁定在再质押池中，流动性的丧失意味着 LST 的价格相对于 ETH 更加波动。最后是集中化风险，以 DAO 黑客攻击为例，假设三分之一的 ETH 在单个 AVS 中，超过了传统的 BFT 安全阈值。现在假设这个三分之一的 ETH 可以通过并不是 ETH 共识的规则来罚没，比如说，我没有提交欺诈证明，我被罚没，而不是因为双签之类的事情。所以，从某种意义上说，集中化也意味着这两个系统是耦合的。
+
+我们如何减轻这些风险？实际上，你有两个可以利用的工具。首先是参数优化，每个 AVS 都有一些参数，控制着 AVS 的安全性，无论是 TVL 上限，还是选择罚没规则。你可以构造一些罚没规则，这些规则在某些条件下可能会逐步增长或逐步减少，你在选择罚没的方式上有更多的自由，而在 L1 共识层方面你没有那么多（自由）。再者，如果你认同我提出的 AVS 实际上就是企业债券的类比，那么流动性再质押代币（LRT）就是一种债券基金，问题是如何对这种债券基金进行再平衡（rebalancing），如何决定在 AVSs 之间重新分配资金。</p><a href="https://mp.weixin.qq.com/s/FirrWeOlb4tvI92WyEMu5g">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-29T04:30:00+00:00</pubDate>
+</item>
 
 <item>
 <title>【英文】完全同态加密机器学习（FHEML）初探：有何进展与用例</title>
