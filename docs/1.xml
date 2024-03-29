@@ -4,6 +4,85 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>Runes协议会超越Erc20，成为加密市场主流发币协议吗？</title>
+<link>https://www.panewslab.com/zh/articledetails/l23b30ch.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/l23b30ch.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了以太坊ERC20协议的重要性和成功之处，以及新发币协议如何突破并取得成功。特别是针对Runes协议，详细比较了其与BRC20和ERC20的优劣之处，并介绍了Runes发币协议的一些细节和特征。文章强调了Runes的创新性和前景，并说明了其对加密货币市场的影响。<br> <div>
+<p><strong>众所周知，以太坊ERC20协议是加密圈第一大发币协议 ，它创造了如下功绩：</strong></p>
+<p>一是成就了以太坊公链，让以太坊的EVM智能合约平台成为整个加密圈最主流的开发协议。</p>
+<p>二是成就了DeFi，ERC20 toke的出现，让项目方可以使用去中心化的token去开展去中心化金融业务。</p>
+<p>三是成就了去中心化融资和创业，直白点来说就是成就了ICO，投资方和创业者可以更直接和高效的进行投资和融资。</p>
+<p><strong>而纵观当下所有新公链的叙事，基本都是在复制以太坊的成功之路，想扶持自己的ERC20。那怎样才能做出属于自己平台的ERC20 ？</strong>有两点：</p>
+<p>1、新公链的市值要足够大，所以Solana一直在狂拉，甚至一度超过了ETH市值的20%， 想要夯实自己的地基。</p>
+<p>2、发币协议要创新，不能单纯的复制erc20。要得到加密圈用户和社群的认可。</p>
+<p><strong>对比了上面的ERC20成就之路和新发币协议的突围之路。当下最有可能超越ERC20发币协议的只有Runes。</strong>理由如下：</p>
+<ul>
+<li>
+<p>BTC的市值占加密货币市值的50%，地基最牢固，地基甚至远超以太坊地基。</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>BRC20铭文出来，公平发射的逻辑足够创新，得到了社区用户的认可。</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Runes协议是在 BRC20 公平发射的基础上，衍生迭代的新发币协议，兼容了BRC20和ERC20的优势，同时又是BTC主网上的发资产协议。</p>
+</li>
+</ul>
+<h3><strong>Runes 的基本特征</strong></h3>
+<p>利用UTXO所携带的op_return 来描述代币的deploy，mint， transfer 等基本操作以及所携带的代币信息。</p>
+<p>代币发行者可以定制类似BRC20的完全公平发射，也可以定制ERC20的团队机构募资流程。同时也支持两者兼顾，一部分用于公平发射，另外一部分用于团队预留。</p>
+<h3><strong>Runes VS BRC20</strong></h3>
+<ul>
+<li>
+<p>更灵活：BRC20只能公平发射，不利于团队募资和融资。而Runes 可以。</p>
+</li>
+<li>
+<p>更方便：BRC20 transfer时，必须先铭刻，发一笔交易，然后再 transfer，需要很重的外部检索器来溯源历史。而基于UTXO op_return的Runes每个 UTXO 中带着操作码和信息，不需要额外铭刻交易，只需要轻量级的检索器，给BTC网络不会造成大规模的小额UTXO的粉尘攻击，也给用户节省了交易手续费成本。</p>
+</li>
+<li>
+<p>可以并发：比如一笔交易里带一个 op_return 加 M（M为整数，比如可以设置为1000）个地址，一笔交易就能平均发送给 M个用户。这有点类似于微信红包基础送红包功能。</p>
+</li>
+</ul>
+<h3><strong>Runes VS ERC20</strong></h3>
+<ul>
+<li>
+<p>erc20的地基是ETH， Runes的地基是BTC，Runes的地基更牢固。</p>
+</li>
+<li>
+<p>erc20从2016年以来，已经有很多闭环的商业和很大的生态，Runes还没正式开始，erc20有先发优势和规模效应。</p>
+</li>
+<li>
+<p>Runes更新，币圈有个说法叫做炒新不炒，Runes更有时髦性，有更大的成长空间。</p>
+</li>
+<li>
+<p>Runes兼容铭文brc20的公平发射，这是这一轮加密周期里最重要的资产叙事。</p>
+</li>
+<li>
+<p>erc20有图灵完备的EVM主网支撑其商业闭环，但Runes可以利用BTC Layer2来完成以太坊的图灵完备带来的商业逻辑。据了解，BTC L2龙头项目BEVM很早就宣布会第一时间接入Runes协议，允许用户将Runes协议资产跨到二层网络上来做商业应用。</p>
+</li>
+</ul>
+<h3><strong>Runes发币协议的一些细节</strong></h3>
+<p>deploy：通过构造op_return中带有如下信息的交易来实现符文的部署</p>
+<p><img alt="Runes协议会超越Erc20，成为加密市场主流发币协议吗？" src="https://cdn-img.panewslab.com/yijian/2024/3/29/images/34432e657bdf97f627a9de7b255e09cf.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>在Deploy交易中，可以在op_return中同时带有如下信息来实现部署的同时项目方预留代币</strong></p>
+<p><img alt="Runes协议会超越Erc20，成为加密市场主流发币协议吗？" src="https://cdn-img.panewslab.com/yijian/2024/3/29/images/c6ffb9043c323ea2ba30a91c989daf55.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>部署的符文有3种启动方式：</strong></p>
+<p>term设置为0，带有Edict，代表部署的符文全部在项目方手中</p>
+<p>term不为0，不带有Edict，代表项目方不预留符文，在满足deadline和term两个约束条件时可以fair mint</p>
+<p>term不为0，带有Edict，代表项目方预留符文，在满足deadline和term两个约束条件时可以fair mint</p>
+<p>Mint：满足约束条件下，只需要在op_return中带有如下信息，即可实现mint，mint的数量在部署的时候已经进行了限定</p>
+<p><img alt="Runes协议会超越Erc20，成为加密市场主流发币协议吗？" src="https://cdn-img.panewslab.com/yijian/2024/3/29/images/4ab9ad642827f92658fb6a1eda1d28a3.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Transfer：输入利用带有符文的utxo，然后利用op_return带有Edict信息，指定转账到哪一个utxo。</p>
+<p><img alt="Runes协议会超越Erc20，成为加密市场主流发币协议吗？" src="https://cdn-img.panewslab.com/yijian/2024/3/29/images/5710b76aeb57896b507eeadb3b4f17ec.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+]]></content:encoded>
+<pubDate>Fri, 29 Mar 2024 21:00:27 +0800</pubDate>
+<pubDate>Fri, 29 Mar 2024 21:00:27 +0800</pubDate>
+</item>
 
 <item>
 <title>Meme币简史：起源、价值及机遇</title>
