@@ -4,6 +4,51 @@
 <title>Bitcoinist.com</title>
 <link>https://bitcoinist.com</link>
 
+<item>
+<title>From Ordinals To Runes: Bitcoin’s Major Update Arrives With Halving</title>
+<link>https://bitcoinist.com/what-are-bitcoin-runes/</link>
+<guid>https://bitcoinist.com/what-are-bitcoin-runes/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了Bitcoin Ordinals创始人Casey Rodarmor发布的新的Bitcoin原生数字商品协议-Runes。这一更新标志着Bitcoin协议在处理数字资产方面的重大进化，与即将到来的减半时间相对应。Runes是一种新的可互换代币协议，建立在指数器模型上，可用于Bitcoin上的数字商品的刻录、铸造和转移。它采用UTXO系统，通过单一交易实现了代币的发行和转移，支持未来的扩展和编程能力，以及更多的安全增强措施。Runes协议的愿景是支持各种应用和交互，为Bitcoin网络的DeFi提供新的可能性。在激活时机上，Runes与比特币的减半时间相匹配，预期在840,000区块高度进行。BTC当前的交易价格为$70,366。 <div>
+<p>On Thursday, Bitcoin Ordinals founder Casey Rodarmor unveiled the documentation for a new Bitcoin-native digital commodities protocol known as Runes. This groundbreaking update is set to coincide with Bitcoin&#8217;s upcoming halving, marking a significant evolution in the Bitcoin protocol&#8217;s capabilities for handling digital assets directly on its blockchain.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">RUNES HAVE DOCS</p>
+<p>A plain-english description of the protocol is here:<a href="https://t.co/2d8eHGtLjJ" rel="nofollow" target="_blank">https://t.co/2d8eHGtLjJ</a></p>
+<p>And a lower level not-actually-a-specification is here:<a href="https://t.co/w87yWmTk0g" rel="nofollow" target="_blank">https://t.co/w87yWmTk0g</a></p>
+<p>Feedback and suggestions are welcome, here or on GitHub!</p>
+<p>&mdash; Casey (@rodarmor) <a href="https://twitter.com/rodarmor/status/1773152223406547415?ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">March 28, 2024</a></p></blockquote>
+<p></p>
+<h2>What Are Bitcoin Runes?</h2>
+<p>Runes introduce a novel fungible token protocol on Bitcoin, utilizing an indexer-based model that builds upon the social consensus mechanisms first popularized by the <a href="https://bitcoinist.com/bitcoin-ordinals-craze-throws-up-challenges-and-opportunities-for-the-network/" rel="noopener " target="_blank">Ordinals</a> initiative. This new protocol facilitates the etching, minting, and transferring of Bitcoin-native digital commodities, potentially altering the landscape of how digital assets are created and exchanged on the Bitcoin network.</p>
+
+<p>According to analysis by ren (wassie arc) (@0xren_cf) from Electric Capital, <a href="https://twitter.com/0xren_cf/status/1773397548222337468" rel="noopener nofollow" target="_blank">shared</a> via X (formerly Twitter), &#8220;The biggest update since Ordinals is coming to BTC at the halvening&#8230; RUNES.&#8221; Ren&#8217;s analysis highlights several key features and improvements that Runes brings to the table:</p>
+<ul>
+<li><strong>Simplified Transactions:</strong> Unlike the<a href="https://bitcoinist.com/bitcoin-ordinals-brc-20-tokens/" rel="noopener " target="_blank"> BRC-20 token standard</a>, which requires multiple transactions for deployment, minting, and claiming, Runes streamline these operations into a single transaction.</li>
+<li><strong>Extendability and Future Proofing:</strong> Runes feature an even-odd field tagging system within their protocol, allowing for future extensions and programmability through soft forks.</li>
+<li><strong>Larger Namespace for Tokens:</strong> Runes expand the available character space for token names up to 28 characters, compared to BRC-20&#8217;s four-character limit.</li>
+<li><strong>Security Enhancements:</strong> Runes addresses several security concerns, including the prevention of spoofing through the exclusion of Unicode symbols and mitigating the risk of token balance lockup by attackers.</li>
+<li><strong>Unique Token Naming:</strong> Runes enforces unique naming for tokens, preventing the creation of tokens with duplicate names. “Rune names shorter than 13 characters will be gradually released over a 4 year period after the runes launch to prevent immediate grabbing of the shortest names,” Ren remarked.</li>
+</ul>
+<p>One of the most innovative aspects of the Runes protocol is its approach to token issuance and transfer. Utilizing a UTXO-based system, Runes tokens are directly issued into a <a href="https://bitcoinist.com/wasabi-coinjoin-blacklisted-utxos-samourai/" rel="noopener " target="_blank">UTXO</a> during the transaction that sets their initial supply, ticker symbol, and decimal precision. This mechanism not only aligns closely with Bitcoin&#8217;s native design principles but also enables more efficient and flexible management of token balances and transfers.</p>
+
+<p>The introduction of Runestones, described as the &#8220;precompiles&#8221; for Runes, further enhances the protocol&#8217;s capabilities. These instructions, stored within the OP_RETURN of a transaction, facilitate the movement of Runes from inputs to outputs and ensure future compatibility through an even-odd tagging system.</p>
+<p>However, users are cautioned to be mindful of the specific tags used, as even-tagged Runestones can lead to the effective burning of the involved Runes, a process referred to as creating a &#8220;Cenotaph&#8221; by Rodarmor.</p>
+Vision For The Future
+<p>Looking forward, the Runes protocol aims to support a wide array of applications and interactions, from intricate inscriptions that could, for example, influence the abilities of digital collectibles based on the amount of a specific Rune held, to facilitating off-chain liquidity pools for Rune trading. This opens up new possibilities for decentralized finance (DeFi) on the Bitcoin network, a prospect that has garnered excitement within the community.</p>
+<p>Ordiswap Labs, through a statement on X, emphasized the potential of Runes to enhance the Bitcoin DeFi ecosystem, noting the protocol&#8217;s efficient on-chain footprint and compatibility with existing Bitcoin standards, including the Lightning Network. “Runes aims to provide a simple, Bitcoin-native token system with a unique issuance model and efficient on-chain footprint [&#8230;] Runes are one that we are now specifically looking into, and we cannot be more excited about the potential of the BTC DeFi ecosystem in the coming months!”</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en"><img alt="💡" class="wp-smiley" src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f4a1.png" style="height: 1em;" /> Runes Standard on Bitcoin, Explained</p>
+<p>TL;DR: Runes aims to provide a simple, Bitcoin-native token system with a unique issuance model and efficient on-chain footprint — its UTXO (unspent transaction output) approach differing from standards like BRC-20.</p>
+<p>While BRC-20 is the… <a href="https://t.co/MYKaLVjVhR" rel="nofollow" target="_blank">pic.twitter.com/MYKaLVjVhR</a></p>
+<p>&mdash; Ordiswap (@OrdiswapLabs) <a href="https://twitter.com/OrdiswapLabs/status/1773077211798503652?ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">March 27, 2024</a></p></blockquote>
+<p></p>
+<p>The activation of the Runes protocol is strategically timed to coincide with the <a href="https://bitcoinist.com/bitcoin-halving-supply-shock-significant-heres-why/" rel="noopener " target="_blank">Bitcoin halving</a>, with expectations set for a block height of 840,000, around April 20.</p>
+<p>At press time, BTC traded at $70,366.</p>
+<img alt="Bitcoin price" class="size-full wp-image-290380" height="472" src="https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSD_2024-03-29_08-22-13.png?resize=1024%2C472" width="1024" />
+]]></content:encoded>
+<pubDate>Fri, 29 Mar 2024 07:30:25 +0000</pubDate>
+<pubDate>Fri, 29 Mar 2024 07:30:25 +0000</pubDate>
+</item>
 
 <item>
 <title>Edward Snowden Warns: SEC To Suffer Major Defeat In Coinbase Lawsuit</title>
