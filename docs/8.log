@@ -11730,3 +11730,12 @@ Existing_entries: 197
 Fetching from https://www.newsbtc.com/feed
 append_entries: 0
 Finish: 2024-03-29 16:55:28.050319
+------------------------------------------------------
+Started: 2024-03-29 17:08:23.670944
+Existing_entries: 197
+Fetching from https://www.newsbtc.com/feed
+Token length: 2569
+Summarized using GPT-3.5-turbo-1106
+Append: [Grayscale Bitcoin ETF Sees Drastic 60% Drop In Outflows, Why This Is Important](https://www.newsbtc.com/news/bitcoin/bitcoin-etf-sees-60-drop-outflows/)
+append_entries: 1
+Finish: 2024-03-29 17:08:27.144599

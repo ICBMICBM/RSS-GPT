@@ -4,6 +4,41 @@
 <title>Bitcoinist.com</title>
 <link>https://bitcoinist.com</link>
 
+<item>
+<title>Ripple Shares 2 Major Technical Advances For The XRP Ledger</title>
+<link>https://bitcoinist.com/ripple-2-major-technical-advances-xrp-ledger/</link>
+<guid>https://bitcoinist.com/ripple-2-major-technical-advances-xrp-ledger/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Ripple通过其开发部门RippleX推出了两项重大的技术进步，包括在devnet中推出新版本的以太坊虚拟机（EVM）侧链和对XRPL自动化做市商（AMM）功能的更新。XRPL的EVM侧链为XRPL的互操作性能力带来了显著提升，而AMM功能的修复将于4月11日生效，这是Ripple对XRPL跨境支付和DeFi战略的关键一部分。 <div>
+<p>Ripple, through its development arm RippleX, unveiled two significant technological advancements for the XRP Ledger (XRPL). These developments involve the roll-out of a new version for the Ethereum Virtual Machine (EVM) sidechain in the devnet and updates to the XRPL&#8217;s Automated Market Maker (AMM) functionality. Both enhancements are pivotal in Ripple&#8217;s strategy to enhance the XRPL&#8217;s capabilities in cross-border payments and decentralized finance (DeFi).</p>
+<h2>Ripple And Peersyst Releases New EVM Bridge</h2>
+<p>The announcement of the<a href="https://bitcoinist.com/xrp-ledger-partnership-to-integrate-smart-contracts/" rel="noopener " target="_blank"> EVM sidechain,</a> a collaborative effort between Peersyst Technology and Ripple, marks a notable milestone in the XRPL&#8217;s evolution. Through a statement shared by Peersyst Technology via X (formerly Twitter), the companies highlighted the completion of a significant update for the EVM sidechain.</p>
+
+<p>&#8220;Exciting milestone reached on the EVM Sidechain! We are very excited to release the new version of the bridge with a new scalable interface for future #XRPLedger interoperability,&#8221; Peersyst Technology announced. This development introduces a scalable interface that promises to significantly enhance the XRPL&#8217;s interoperability capabilities.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en"><img alt="📢" class="wp-smiley" src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f4e2.png" style="height: 1em;" /> Exciting milestone reached on the <a href="https://twitter.com/hashtag/EVMSidechain?src=hash&amp;ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">#EVMSidechain</a>! </p>
+<p>We are very excited to release the new version of the bridge <img alt="↕" class="wp-smiley" src="https://s.w.org/images/core/emoji/14.0.0/72x72/2195.png" style="height: 1em;" /> with a new scalable interface for future <a href="https://twitter.com/hashtag/XRPLedger?src=hash&amp;ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">#XRPLedger</a> interoperability <img alt="🌐" class="wp-smiley" src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f310.png" style="height: 1em;" /></p>
+<p>🛜 Adapted for multiple networks<img alt="💳" class="wp-smiley" src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f4b3.png" style="height: 1em;" /> Adapted for multiple wallets (for each network)<img alt="🪙" class="wp-smiley" src="https://s.w.org/images/core/emoji/14.0.0/72x72/1fa99.png" style="height: 1em;" />… <a href="https://t.co/uUu5OPThyp" rel="nofollow" target="_blank">pic.twitter.com/uUu5OPThyp</a></p>
+<p>&mdash; Peersyst Technology (@Peersyst) <a href="https://twitter.com/Peersyst/status/1773377914903375958?ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">March 28, 2024</a></p></blockquote>
+<p></p>
+<p>It is designed to accommodate multiple networks, wallets for each network, and various tokens for each pair of networks. Moreover, it introduces the ability for dynamic bridge creation by users for any ERC20/IOU token, facilitating permissionless cross-chain applications with any asset. &#8220;This will allow us to add to the portal all the networks that have bridges with #XRPL and list multiple wallets for all these networks.</p>
+<p>The development of the XRPL EVM sidechain has been structured into three phases, starting with its launch on the XRPL devnet (in October 2022) and culminating in the introduction of a permissionless EVM sidechain connected to the XRPL mainnet (<a href="https://bitcoinist.com/ethereum-sidechain-xrp-ledger-close-to-launch/" rel="noopener " target="_blank">to be announced</a>). This phased approach ensures thorough testing and scalability assessments, paving the way for a robust framework that supports increased participation and interoperability with other blockchain networks.</p>
+XRP Ledger AMM Feature To Be Activated On April 11
+<p>On another front, RippleX communicated a vital update regarding the <a href="https://bitcoinist.com/ripple-cto-xrp-price-amm-feature/" rel="noopener " target="_blank">XRPL AMM feature</a>. An amendment to fix a <a href="https://bitcoinist.com/xrp-ledger-amm-problems/" rel="noopener " target="_blank">discovered bug</a> has achieved over 80% consensus for activation, a development expected to take effect on April 11. RippleX urged node and validator operators to update their infrastructure to rippled version 2.1.1, emphasizing the importance of this update for the continued smooth operation of the XRPL AMM feature.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">PSA: the AMM bug fix amendment has reached over 80% consensus for activation (expected on April 11). Node &amp; validator operators – please update your infra to rippled 2.1.1 as soon as possible to ensure you are not amendment blocked. <a href="https://t.co/6vDwiHaqCw" rel="nofollow" target="_blank">pic.twitter.com/6vDwiHaqCw</a></p>
+<p>&mdash; RippleX (@RippleXDev) <a href="https://twitter.com/RippleXDev/status/1773437741583192160?ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">March 28, 2024</a></p></blockquote>
+<p></p>
+<p>In a recent <a href="https://dev.to/ripplexdev/update-on-the-xrp-ledger-amm-bug-and-the-path-forward-hkb" rel="noopener nofollow" target="_blank">blog post</a>, Brad Chase, a developer at RippleX, detailed the events leading up to the discovery and resolution of the bug. &#8220;Last Friday, after over two years in the making, XLS-30, the Automated Market Maker (AMM) amendment, went live on XRP Ledger mainnet. However, a bug affecting the AMM functionality was discovered the following day,&#8221; he stated.</p>
+
+<p>The bug, identified with the assistance of community members Tequ and Orchestra Finance, involved an inconsistency in how the payment engine interacts with order books and AMM pools, leading to incorrect liquidity draw from an AMM pool in certain scenarios.</p>
+<p>The rectification process involved a comprehensive approach, encompassing the development of a fix, extensive testing, and the preparation of the network for the amendment&#8217;s activation. The commitment to transparency and collaboration in addressing the bug was evident in RippleX&#8217;s communication and the mobilization of the XRPL community to mitigate the bug&#8217;s impact and ensure a swift resolution.</p>
+<p>At press time, XRP traded at $0.62843.</p>
+<img alt="XRP price" class="size-full wp-image-290482" height="472" src="https://bitcoinist.com/wp-content/uploads/2024/03/XRPUSD_2024-03-29_14-52-06.png?resize=1024%2C472" width="1024" />
+]]></content:encoded>
+<pubDate>Fri, 29 Mar 2024 17:00:18 +0000</pubDate>
+<pubDate>Fri, 29 Mar 2024 17:00:18 +0000</pubDate>
+</item>
 
 <item>
 <title>Shiba Inu Burn Rate Sees Massive 17,000% Surge, How Much SHIB Was Burned?</title>
