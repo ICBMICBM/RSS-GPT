@@ -11913,3 +11913,12 @@ Existing_entries: 184
 Fetching from https://bitcoinist.com/feed
 append_entries: 0
 Finish: 2024-03-29 13:24:20.310043
+------------------------------------------------------
+Started: 2024-03-29 13:31:44.685683
+Existing_entries: 184
+Fetching from https://bitcoinist.com/feed
+Token length: 2825
+Summarized using GPT-3.5-turbo-1106
+Append: [Crypto Expert Publishes A Run-Down Of Sam Bankman-Fried’s Lesser Known Activities](https://bitcoinist.com/sam-bankman-fried-activities/)
+append_entries: 1
+Finish: 2024-03-29 13:31:48.111523
