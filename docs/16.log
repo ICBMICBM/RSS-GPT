@@ -14935,3 +14935,15 @@ Existing_entries: 1000
 Fetching from https://www.chainfeeds.xyz/rss
 append_entries: 0
 Finish: 2024-03-29 02:31:41.917290
+------------------------------------------------------
+Started: 2024-03-29 02:39:04.282327
+Existing_entries: 1000
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 257
+Summarized using GPT-3.5-turbo-1106
+Append: [RWA 项目 Midas 完成 875 万美元种子轮融资，Framework Ventures 等领投](https://twitter.com/MidasRWA/status/1773330604500623700)
+Token length: 69
+Summarized using GPT-3.5-turbo-1106
+Append: [SBF 被判 25 年监禁并被勒令没收超 110 亿美元资产](https://www.bloomberg.com/news/articles/2024-03-28/bankman-fried-is-sentenced-to-25-years-in-prison)
+append_entries: 2
+Finish: 2024-03-29 02:39:10.217287
