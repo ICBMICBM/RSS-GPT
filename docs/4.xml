@@ -4,12 +4,13 @@
 <title>Chainalysis</title>
 <link>https://www.chainalysis.com/</link>
 
+
 <item>
 <title>Intellectual Property Infringement: Crypto Used in Sales for Illicit Streaming Services and Counterfeit Pharmaceuticals</title>
 <link>https://www.chainalysis.com/blog/crypto-intellectual-property-infringement-streaming-pharmaceuticals/</link>
 <guid>https://www.chainalysis.com/blog/crypto-intellectual-property-infringement-streaming-pharmaceuticals/</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是消极的。文章讨论了加密货币如何被恶意行为利用，特别是在侵犯知识产权以及非法流媒体和制药业中的作用。恶意行为者通过加密货币在非法流媒体服务和在线制药商中进行交易，给正版公司和消费者造成了严重损害。文章还分享了一个实例研究，介绍了如何利用区块链分析监控这些不当活动。随着加密货币在世界经济中发展，法律执法机构需要对这些活动进行持续监测。 <div>
+<div> <br /><br />摘要：<br />这些信息是消极的。文章讨论了加密货币如何被恶意行为利用，特别是在侵犯知识产权以及非法流媒体和制药业中的作用。恶意行为者通过加密货币在非法流媒体服务和在线制药商中进行交易，给正版公司和消费者造成了严重损害。文章还分享了一个实例研究，介绍了如何利用区块链分析监控这些不当活动。随着加密货币在世界经济中发展，法律执法机构需要对这些活动进行持续监测。 <div>
 <p><span style="font-weight: 400;">As with all new technologies, malicious actors have found ways to exploit cryptocurrency, despite its transparency and traceability. These actors presumably believe that crypto’s benefits — namely, the ability to transact instantaneously and across borders — outweigh the heightened risks of law enforcement detection. The most obvious examples are </span><a href="https://www.chainalysis.com/blog/ransomware-2024/"><span style="font-weight: 400;">ransomware</span></a><span style="font-weight: 400;"> and </span><a href="https://www.chainalysis.com/blog/darknet-revenue-2023/"><span style="font-weight: 400;">darknet markets</span></a><span style="font-weight: 400;">, which are inherently and deeply tied to cryptocurrency in that they more or less require crypto payments’ unique lack of middlemen in order to exist. However, as cryptocurrency grows and becomes more entwined with the world economy, we’re seeing it crop up in all forms of crime — even those that aren’t “crypto native” or even, in some cases, thought of as related to cybercrime, such as with </span><a href="https://www.chainalysis.com/blog/cryptocurrency-fentanyl-analysis-2023/"><span style="font-weight: 400;">conventional drug trafficking</span></a><span style="font-weight: 400;">.</span></p>
 <p><span style="font-weight: 400;">One example of this is cryptocurrency’s role in improper intellectual property (IP) use. Many illicit actors now accept crypto in exchange for IP-infringing products and services, such as pirated movies and infringing prescription medications, causing significant harm to the brands of authentic companies and their consumers. </span></p>
 <p><span style="font-weight: 400;">Below, we’ll explore how crypto may be facilitating IP infringement in the entertainment industry and pharmaceutical industries, and how law enforcement can monitor on-chain transactions executed by the operators of these offending websites. </span></p>
@@ -44,9 +45,7 @@
 <p>The post <a href="https://www.chainalysis.com/blog/crypto-intellectual-property-infringement-streaming-pharmaceuticals/">Intellectual Property Infringement: Crypto Used in Sales for Illicit Streaming Services and Counterfeit Pharmaceuticals</a> appeared first on <a href="https://www.chainalysis.com">Chainalysis</a>.</p>
 ]]></content:encoded>
 <pubDate>Fri, 29 Mar 2024 15:15:33 +0000</pubDate>
-<pubDate>Fri, 29 Mar 2024 15:15:33 +0000</pubDate>
 </item>
-
 <item>
 <title>Darknet market revenues rise in 2023 as markets develop role specialization</title>
 <link>https://www.chainalysis.com/blog/darknet-revenue-2023/</link>
