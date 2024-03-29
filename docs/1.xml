@@ -4,6 +4,55 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>解读BounceBit：比特币再质押链，释放万亿资产流动性</title>
+<link>https://www.panewslab.com/zh/articledetails/2glrltxu.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/2glrltxu.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了BounceBit作为比特币生态系统的创新解决方案，通过中心化和去中心化的结合来解决比特币资产的利息产生、交易延迟、缺乏智能合约和高gas费等问题。通过BounceBit建立的PoS层一链，结合中心化托管和侧链技术，提供了多元化的收益渠道。HTX Ventures对BounceBit投资，认为其具有较好的发展潜力，有望实现对比特币生态资产的多元化收益探索。 <div>
+<p>作者：HTX Ventures</p>
+<p>随着 BTC 现货 ETF 的通过，全球各大机构和个人都在不断加码对 BTC 的持仓，BTC 价格也随之上升，目前已上升至全球市值排名前十的资产。在本轮市场周期中，BTC 铭文和 BTC 扩容是两个被市场高度关注的细分赛道。BTC 生态资产的多元化收益探索正在吸引加密市场的目光。</p>
+<p>那么，哪种方案将成为解决比特币资产生息、网络确认延迟、缺乏智能合约以及 gas 费过高等问题的最优解？</p>
+<p>目前在解决比特币的生态繁荣度方面，主要解决方案包括两种：Layer2 和侧链。</p>
+<p>作为 BounceBit 600 万美元融资的投资者之一，HTX Ventures 将 BounceBits 及其 CeFi+DeFi 产品模式视为一种潜在的创新解决方案，以打开比特币生态系统，获得更多应用。本研究报告深入研究了 BounceBit，概述了其产品设计理念和 HTX Ventures 的投资理念。</p>
+<h3>什么是 BounceBit？</h3>
+<p>BounceBit 是一个专为比特币设计的 BTC 再质押链，其构建的 BTC 再质押基础设施为不同的再质押产品提供了一个基础层，该基础层由 Mainnet Digital 和 Ceffu 的受监管托管保障。它采用 BTC+BounceBit 混合 PoS 机制进行验证。</p>
+<p>BounceBit 通过多方托管解决了底层 BTC 资产的信任问题，创建 BBTC 以便在 Bounce 主网上进行 DeFi 交互。原生 BTC 资产用于参与各种中心化交易所的低风险套利策略。此外，在混合代币质押机制下，使用 BBTC+BB（BounceBit 的原生代币）进行质押可以生成 LSD 代币，进一步获得节点质押奖励和再质押收益。</p>
+<p>通过结合中心化托管和侧链，BounceBit 旨在解决侧链长期存在的信任问题，同时盘活 BTC 生态，这将降低交易费用并释放 BTC 的金融潜力，使其能够在 DeFi、游戏、社交等更多场景中应用。</p>
+<h3>BounceBit 是如何工作的？</h3>
+<p>BounceBit 的产品设计非常巧妙，如下图所示：</p>
+<p><img alt="解读BounceBit：比特币再质押链，释放万亿资产流动性" src="https://cdn-img.panewslab.com/yijian/2024/3/29/images/072c655f0f3bd0642e1a61c1761ea524.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>BounceBit 运作机制与收益来源图</pre>
+<p>用户可将多种类型的链上比特币资产存入 BounceBit 协议，该协议实际由 BounceBit、CEFFU 和 Mainnet Digital 联合管理的 MPC 钱包所监管，以此来解决信任机制的问题，确保用户资产安全。</p>
+<ul>
+<li>通过 Ceffu 的 MirrorX 等场外交易结算（OES）解决方案，用户能够安全地访问交易所的深度流动性，并通过多样化的交易策略赚取收益，同时资金安全地保留在链上的 MPC 钱包中。这种钱包技术通过将私钥分割为多个部分，大幅降低了单点故障（SPOF）的风险。另外，因为用户资金实际上并未存储在任何中心化交易所，而是通过 Ceffu 进行镜像，从而减少了对手方风险。</li>
+<li>BounceBit 与一系列拥有长期正收益记录的资产管理人合作，通过 MirrorX 进行交易。所有这些资产管理人都采用资金利率套利作为其主要交易策略。资金利率套利是一种利用不同市场之间资金利率差异来获取收益的无风险策略。</li>
+<li>另一方面，用户将原生资产转移至 BounceBit 之后，会铸造出新的 B-Token 资产。以 BTC 为例，用户存入 BTC 后，将获得在 BounceBit 主网上运作的 BBTC 资产。目前，这种资产可以用于两种主要的链上活动：一是在 BounceBit 的混合质押模式下，使用 BBTC+BB 参与节点质押，同时产生的 LST 代币可以用于进一步的再质押活动，以放大质押回报；二是 BBTC 可用于链上的各种 DeFi 交互。BounceBit 还推出了 BounceClub，这是一个针对开发者和用户的平台，用户可以通过参与 BounceBit 主网上的多样化 DeFi 活动和收益生成活动，增加 BTC 资产的收益潜力。</li>
+</ul>
+<p><img alt="解读BounceBit：比特币再质押链，释放万亿资产流动性" src="https://cdn-img.panewslab.com/yijian/2024/3/29/images/cd49c2a3e1106c2f66126b77c74e79ac.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<pre>BounceBit 产品设计理念，来源：https://x.com/bounce_bit/status/1771481179683692656?s=46&amp;t=ODDW1eIwucwwKwUR-9MGBg</pre>
+<p>在收益来源方面，通过参与 BounceBit 的质押和链上金融互动，用户可以从多个渠道获得资产收益：</p>
+<ul>
+<li>通过中心化交易所子账户的原生资产获得的 CeFi 收益。</li>
+<li>通过 BounceBit 链上互动获得的 DeFi 收益。</li>
+<li>使用 BBTC+BB 进行质押以及质押后生成的 LST 的再质押收益。</li>
+</ul>
+<p>总之，BounceBit 在通过多方托管确保资产安全的同时，提供了多元化的收益生成方式。</p>
+<h3>HTX Ventures 为什么投资 BounceBit？</h3>
+<p>HTX Ventures 作为 BounceBit 的主要投资方之一，坚信 BounceBit 能通过其建立在标准侧链上的中心化托管模式，有效地满足市场的实际需求。</p>
+<p>BounceBit 的核心目标在于解决比特币资产产生利息、闲置 BTC 的低效利用、缺乏创新以及高 gas 费等问题。其根本目的在于提供多样化的收益渠道，从而缓解比特币缺乏智能合约功能的挑战。目前增强 BTC 生态系统的解决方案主要包括 Layer-2 和侧链技术。</p>
+<p>Layer2 主要解决方案是将比特币的交易放到链下执行，从而提升交易速度。目前的 layer2 主要分为两种解决方案：状态通道和 Rollups。状态通道典型的项目如闪电网络，但可拓展的功能非常有限，目前闪电网络主要是实现点对点的交易速度的提升，难以实现以太坊级别的智能合约的部署；Rollups 二层解决方案方面，由于底层代码和签名验证的问题，比特币二层方案在回传账本时无法得到主网验证，因此难以实现足够的信任保证，目前比较有希望可能实现的方法是：在基于新的 Taproot 的协议的基础上，比特币升级 BIP 层，矿工更新底层代码，支持 OP/ZKP 验证和比特币矿工的计算执行，但目前距离 rollup 的实现可能还有比较长的路径。</p>
+<p>侧链则相当于是一条完全独立的链，通常情况下，通过将主网的比特币映射到侧链，发行新的资产来实现对原生资产的映射和应用。通常情况下，侧链拥有更好地处理速度，但在信任验证角度上是完全独立于比特币主网的一条链，因此其存在信任问题和共识问题。同时比较容易发生项目方作恶，从而影响被映射资产的安全性。这也是目前侧链普遍面临的 TVL 困境。</p>
+<p>BounceBit 通过建立一个独立的 PoS 层一链，采用一种独特的方法来解决比特币生态中的一些挑战。在这个框架下，节点通过质押 BTC 和 BounceBit 代币来确保链的安全性，BounceBit 与 BTC 之间的联系是在资产层面上建立的，而不是协议层面。</p>
+<p>通过结合中心化托管和侧链技术，BounceBit 试图克服侧链的共识和信任问题。在当前的环境下，这种中心化与去中心化的混合模式可能提供了一个解决技术和信任问题的折中方案。BounceBit 的设计理念和开发团队的背景赋予了其在竞争中的优势，开辟了探索新机会的空间。</p>
+<h3>展望未来</h3>
+<p>随着 BTC 现货 ETF 的通过，全球各大机构和个人都在不断加码对 BTC 的持仓，BTC 价格也随之上升，目前已上升至全球市值排名前十的资产。同时，在本轮市场周期中，BTC 铭文和 BTC 扩容是两个被市场高度关注的细分赛道，BTC 的部分进展让市场感到兴奋，吸引了更多人对 BTC 生态的关注，围绕 BTC 实现更多的资产应用场景和收益可能性成为开发者和市场参与者共同探索的内容。</p>
+<p>BounceBit 作为一个 Cefi+Defi 的产品，在产品模式上具备一定的创新性，通过中心化和去中心化机制的结合，将三方托管机制引入信任解决方案，生成新的 EVM 链上资产来盘活原生资产的金融属性，或可能成为新的比特币生态的解决方案。</p>
+<p>HTX Ventures 认为未来会有越来越多 BTC 生态的技术性的发展和突破，同时也会有越来越多的生态项目的涌现，这是一件值得让整个加密市场兴奋和期待的事情。在现阶段下， BounceBit 的 Cefi+Defi 机制具备较好的 TVL 增长潜力，有望实现对 BTC 生态资产的多元化收益探索。</p>
+]]></content:encoded>
+<pubDate>Fri, 29 Mar 2024 22:00:29 +0800</pubDate>
+<pubDate>Fri, 29 Mar 2024 22:00:29 +0800</pubDate>
+</item>
 
 <item>
 <title>Animoca Brands旗下项目Mocaverse公布其MOCA代币社区销售细节</title>
