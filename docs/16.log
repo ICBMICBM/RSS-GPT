@@ -14947,3 +14947,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [SBF 被判 25 年监禁并被勒令没收超 110 亿美元资产](https://www.bloomberg.com/news/articles/2024-03-28/bankman-fried-is-sentenced-to-25-years-in-prison)
 append_entries: 2
 Finish: 2024-03-29 02:39:10.217287
+------------------------------------------------------
+Started: 2024-03-29 02:46:27.941779
+Existing_entries: 1002
+Fetching from https://www.chainfeeds.xyz/rss
+append_entries: 0
+Finish: 2024-03-29 02:46:28.697271
