@@ -11880,3 +11880,12 @@ Existing_entries: 183
 Fetching from https://bitcoinist.com/feed
 append_entries: 0
 Finish: 2024-03-29 11:58:49.590701
+------------------------------------------------------
+Started: 2024-03-29 12:27:09.943974
+Existing_entries: 183
+Fetching from https://bitcoinist.com/feed
+Token length: 2918
+Summarized using GPT-3.5-turbo-1106
+Append: [Ethereum Spot ETFs Odds At A Pessimistic 25%: Bloomberg Analyst](https://bitcoinist.com/ethereum-spot-etfs-odds-at-a-pessimistic-25/)
+append_entries: 1
+Finish: 2024-03-29 12:27:15.337733
