@@ -4,6 +4,154 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>深入解析坎昆升级后时代：数据与投资视角</title>
+<link>https://www.panewslab.com/zh/articledetails/q0ldv918413m.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/q0ldv918413m.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章首先介绍了以太坊的Dencun升级，重点在于提升可扩展性、降低交易费用、增加吞吐量。通过引入新数据存储结构Blob和优化操作码等EIP，实现了交易费用的显著降低和吞吐量的提升。升级后，L2网络的交易量和TPS都有所提升，尤其Base链表现突出。投资价值的影响将使以太坊更具长期投资价值，而L2领先者如Arbitrum和Optimism以及新兴的Base链都值得关注。Blob的引入对L2生态和用户体验有积极影响。 <div>
+<p><strong>作者：</strong><a href="https://twitter.com/0xJohnsons" rel="nofollow" target="_blank"><strong>@0xJohnsons</strong></a></p>
+<p><strong>导师：</strong><a href="https://twitter.com/CryptoScott_ETH" rel="nofollow" target="_blank"><strong>@CryptoScott_ETH</strong></a><strong>, </strong><a href="https://twitter.com/Zou_Block" rel="nofollow" target="_blank"><strong>@Zou_Block</strong></a></p>
+<h3><strong>TL;DR</strong></h3>
+<p>1.首先，Dencun 升级对应的是以太坊发展规划中 The surge 部分，目的是提升以太坊可扩展性和模块化，增强以太坊网络的安全功能，并改进整体可用性：</p>
+<ul>
+<li><strong>升级核心是引入 EIP-4844</strong>，显著降低以太坊 Layer2 的交易费用和提高交易吞吐量，同时为完全实现 Danksharding 做准备；</li>
+<li>引入了一种<strong>新数据存储结构— Blob</strong>，专门用于存储 L2 向 L1 提交的交易数据，这也是目前 L2 Gas 整体降低的核心原因；</li>
+<li>EIP-1153 瞬态存储操作码降低了存储成本和 Gas 消耗，EIP-4788 用最小信任方式实现 EVM 和信标链的互通，EIP-5656 的 MCOPY 指令填补了当前在 EVM 中复制内存的方法中缺失的空白，EIP-6780 限制了操作码 SELFDESTRUCT 功能，提升了以太坊的开发稳定性。</li>
+</ul>
+<p>2.其次，从数据层面对比升级前后的效果：</p>
+<ul>
+<li>Gas 费层面，<strong>L2 Gas 费下降效果显著</strong>，基本符合在升级前预计 Layer2 手续费降低 90% 的预期；而以太坊 Gas 费有所降低，但不显著，用户在实际使用中其实感受并无变化；</li>
+<li>交易量层面，各 L2 的交易量在升级后均有所提升，其中最明显的是 Base ，从之前的 50 万突增至 2 百万，升级受益最明显；</li>
+<li>TPS（吞吐量）层面，升级后各 L2 TPS 有所上升，只是不如交易量明显，但从行业发展角度来看，本次升级也是在为未来打下基础，同时也呼应了以太坊发展期望，达到 10 万 + 的 TPS；</li>
+<li>Blob 数量使用层面，升级后 Blob 使用率一般，未达到预想目标值 3 ，但可以直观看到 L2 平均交易费用中使用 L1 的数据费用明显降低。</li>
+</ul>
+<p>3.最后，探索了 Dencun 升级对以太坊和 L2 的投资影响：</p>
+<ul>
+<li>笔者认为，本次升级对于以太坊来说，主要是为未来发展奠定了基础，使其更接近<strong>成为一个完全可扩展、可访问的全球交易平台。</strong>而对于 ETH 来说，作为“平台”的原生代币，再结合 ETH-ETF 叙事来看，<strong>未来更多是作为一种全球资产配置的存在，</strong>就像 BTC 目前角色的转变一样，<strong>更偏向适合长线投资；</strong></li>
+<li>L2 龙头的 <strong>Arbitrum 和 Optimism</strong> 尤其值得关注，目前二者各自发展良好，均有属于自身的护城河，同时本次升级在未来，推测可能会提升二者利润空间，从而会惠及用户层面，对其生态建设形成正向循环；</li>
+<li>L2 中另一个更倾向的关注是 <strong>Base </strong>，背靠 Coinbase 天然拥有规模用户和资金体量，并且近期数据表现非常突出，市场热度也在，升级后或有不错的 Alpha 机会；</li>
+<li>对于<strong>尚未发币的 L2</strong> 应该保持持续关注，升级造成交互费用的大幅下降，会有更多用户愿意参与生态交互，像 ZKsync、Blast 等。</li>
+</ul>
+<h3><strong>前言</strong></h3>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="675" src="https://cdn-img.panewslab.com/panews/images/qyuKXK2mrU.png" style="display: block; margin-left: auto; margin-right: auto;" width="1200" /></p>
+<p>由于以太坊引进了智能合约理念，所以才造就了后续的区块链生态繁荣。以太坊自 2015 年 7 月 30 日正式上线以来，已经有过 12 次升级历史，每次升级都备受瞩目。</p>
+<p>本次以太坊坎昆 - 德内布升级 (Dencun 升级 ) 的主要目标是提升 Layer 2 网络的可扩展性和模块化，增强以太坊网络的安全功能，并改进整体可用性。</p>
+<h3><strong>1. Dencun 升级是什么</strong></h3>
+<h4><strong>1.1 升级介绍</strong></h4>
+<p><strong>1.1.1 名称由来</strong></p>
+<p>以太坊底层由两部分合并组成，分别是执行层和共识层，两部分分别有不同的命名规则。</p>
+<p>执行层升级命名规则自 2021 年起，由 Devcon（以太坊开发者大会）举办的城市来命名。例如柏林升级、伦敦升级、上海升级等。</p>
+<p>共识层升级命名规则是从信标链推出以来，以天体名称命名，按照字母表顺序进行。例如牵牛星（Altair）、参宿五（Bellatrix）、五车二（Capella）等。</p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="675" src="https://cdn-img.panewslab.com/panews/images/HnGZuINN5v.png" style="display: block; margin-left: auto; margin-right: auto;" width="1200" /></p>
+<p>以太坊的每次升级名称是使用二者不同的升级名称进行组合，形成整体升级命名。由于这次 Devcon 地点在墨西哥的坎昆，而共识层升级为 Deneb，所以本次以太坊升级简称为 Dencun 升级。</p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="481" src="https://cdn-img.panewslab.com/panews/images/dn2vRaZa55.png" style="display: block; margin-left: auto; margin-right: auto;" width="1128" /></p>
+<p><strong>1.1.2 升级背景</strong></p>
+<p>Dencun 升级背景一个是基于以太坊发展的长期规划，另一个核心就是提升以太坊体验感，最终实现一个<strong>无需许可、去中心化、抗审查、开源的生态系统。</strong></p>
+<p>一方面，通过以太坊创始人 Vitalik Buterin 在 2023 年 12 月 31 日公布的规划图可知，Dencun 升级对应的是 The surge 的部分，开始以用户体验为第一位（例如提高交易速度、降低 Gas fee），目的在于提高网络的效率、降低交易成本，并为未来的发展打下坚实基础。</p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="725" src="https://cdn-img.panewslab.com/panews/images/DXbjI80GPP.png" style="display: block; margin-left: auto; margin-right: auto;" width="998" /></p>
+<p>而另一方面，从 Vitalik Buterin 在 2023 年 12 月 28 日发布的文章《<strong>Make Ethereum Cypherpunk Again</strong>》中可知，Vitalik 认为目前导致区块链越来越局限于资产炒作的核心原因之一就是<strong>交易费用的上涨</strong>，这使得<strong> Degen Gamblers</strong> 成为主流群体，不利于实现区块链的应用价值落地，所以必须降低交易费用。</p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="612" src="https://cdn-img.panewslab.com/panews/images/z0vBs2XRAJ.png" style="display: block; margin-left: auto; margin-right: auto;" width="1017" /></p>
+<p><strong>1.1.3 升级时间</strong></p>
+<p>根据以太坊规划，升级时间及激活信息为：</p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="675" src="https://cdn-img.panewslab.com/panews/images/0d25i59y6q.png" style="display: block; margin-left: auto; margin-right: auto;" width="1200" /></p>
+<p><strong>1.1.4 涉及内容</strong></p>
+<p>以太坊 <strong>Cancun-Deneb </strong>升分别对执行层和共识层进行了一系列改进，坎昆（<strong>Cancun</strong>）完善了执行层（EL），德内布（<strong>Deneb</strong>）增强了共识层（CL），并纳入了一系列对以太坊网络发展至关重要的 EIP（以太坊改进提案）。共有 9 项 EIP，关键的 EIP 我们会在后续介绍。</p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="742" src="https://cdn-img.panewslab.com/panews/images/FDov03XVsF.png" style="display: block; margin-left: auto; margin-right: auto;" width="1089" /></p>
+<h4><strong>1.2 Dencun 升级的重点</strong></h4>
+<p>通过以上了解，我们知晓了 Dencun 升级主要是对以太坊进行改进，而具体的实施计划则是围绕着一系列的 EIP 进行，以下将会对涉及的核心 EIP 进行展开分析。</p>
+<p><strong>1.2.1 EIP-4844 分片 Blob 事务（Proto-Danksharding）</strong></p>
+<p>EIP-4844 是本次升级的最大亮点，旨在降低手续费，增加交易吞吐量（TPS）和扩展性。其本质是一次过渡性的升级为未来做准备，以实现完全的 Danksharding（以太坊“宁静”阶段升级的最后部分），Proto-Danksharding 是在为 Danksharding 打下基础。</p>
+<p>以太坊主链上提供数据可用性是 Calldata（可以理解为合约交易调用中产生的数据），而 Layer 2 回传到 Layer 1 的数据都存储在 Calldata 里，另外为了安全，Calldata 每一步执行都需要 Gas，这就造成了 Gas 花费较大的情况。 但 Calldata 中的交易数据验证完后其实是没有太多用途的，长时间的数据也可以下载验证，甚至不需要传到执行层，以 Layer2-OP 链的平均交易费用历史构成举例，可以看到<strong>接近 80% 的费用都来自 L1 的数据费用。</strong></p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="675" src="https://cdn-img.panewslab.com/panews/images/rbW7U26siP.png" style="display: block; margin-left: auto; margin-right: auto;" width="1200" /></p>
+<p>所以 EIP-4844 引入了一种新数据存储结构— Blob，专门用于存储 L2 向 L1 提交的交易数据。引入后，L2 的交易数据直接提交至 Blob 中进行存储，可供共识节点完全下载，仅在短暂延迟后即可删除，降低没必要的存储负担。这意味着 Blob 的引进将会极大的降低 L2 的交易费用。同时，Blob 还相当于为 L2 额外拓展了区块空间，同时 L2 交易吞吐量也将显著提高。</p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="710" src="https://cdn-img.panewslab.com/panews/images/O65f5b7Pmy.png" style="display: block; margin-left: auto; margin-right: auto;" width="973" /></p>
+<p><strong>1.2.2 EIP-1153 瞬态存储操作码</strong></p>
+<p>EIP-1153 主要目的是节约存储空间和存储成本。瞬态存储在每次交易后都会被丢弃，因此，临时存储更便宜，因为它不需要磁盘访问。</p>
+<p>EIP-1153 对 Dapp 开发人员比较友好，在 EVM 中引入了新的操作码 TSTORE 和 TLOAD，调用这些操作码的 Gas 成本约为每个 100 Gas，比传统存储调用（ SLOAD 和 SSTORE ）便宜了 95%。同时一旦完整事务执行结束，该部分存储就会清除，从而降低存储成本和 Gas 消耗，比如未来可能会让新的 DeFi 合约更节省 Gas。</p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="602" src="https://cdn-img.panewslab.com/panews/images/Ke0QjY68HE.png" style="display: block; margin-left: auto; margin-right: auto;" width="1089" /></p>
+<p><strong>1.2.3 EIP-4788 EVM 中的信标块根</strong></p>
+<p>EIP-4788 将实现 EVM（以太坊虚拟机）和信标链（Beacon）之间的通信。此功能支持各种用例，可改善质押池（staking pools）、再质押（restaking constructions）、跨链桥（smart contract bridges）、MEV 等。</p>
+<p>在之前，EVM 无法直接访问 Beacon 的数据与状态，只能通过外部可信的预言机捕获状态。因此提出在每个 EVM 区块中放置一个父信标区块根（parent_beacon_block_root），这样当 Beacon 有所更新时，EVM 上可以立即获得准确的信息。</p>
+<p>而父信标块根将被存储于环形缓冲区，仅保留 1 天左右，一旦新的父信标块根进入，同时缓冲区容量到达临界值时，最旧的父信标块根将会被覆盖，从而实现高效且有限的共识存储。这样一来，就以信任最小化的方式实现了通信，而且还消除了外部预言机故障和恶意风险，增加了安全性。</p>
+<p><strong>1.2.4 EIP-5656 MCOPY - 内存复制指令</strong></p>
+<p>EIP-5656 通过引入新的 EVM 指令 MCOPY 来优化复制内存区域过程的成本，从而提高数据在 EVM 中移动的效率。</p>
+<p>内存复制是一项基本操作，但在 EVM 上实现它会带来开销。以复制 256 字节内存数据为例，开发人员通过 MCOPY 操作码可以将成本从此前的 96 Gas（使用 MLOAD 和 MSTORE ）显著降低至 27 Gas。预计未来大多数开发人员将使用 MCOPY 代替 MSTORE/MLOAD ，更高效的 Gas 合约最终也会让终端用户受益。</p>
+<p>同时 MCOPY 填补了当前在 EVM 中复制内存的方法中缺失的空白。</p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="713" src="https://cdn-img.panewslab.com/panews/images/3mzPqDOk9l.png" style="display: block; margin-left: auto; margin-right: auto;" width="1022" /></p>
+<p><strong>1.2.5 EIP-6780 SELFDESTRUCT 仅在同一交易中</strong></p>
+<p>EIP-6780 限制了操作码 SELFDESTRUCT 功能，新功能只是将账户中的所有资金发送到目标，但不影响代码、存储和其他信息，同时也是为后续 Verkle 树升级做准备。</p>
+<p>在 EIP-6780 之前，如果合约创建中引用了 SELFDESTRUCT 操作码，那资金可以发送到目标，但代码、存储和其他信息将会被删除，然而，这一功能会产生一定危险和意想不到的后果。在 EIP-6780 之后，这一切将不会受到影响，开发人员可以更好地管理项目，从而实现更稳定和可预测的区块链。</p>
+<h3><strong>2. 升级后数据层面影响</strong></h3>
+<h4><strong>2.1 Gas 费影响</strong></h4>
+<p>本次升级最核心，也是大家最关心的莫过于 Gas 费的变化，由于 EIP-4844 的引入，受益最显著的就是 Layer2 层，Gas 费用下降效果非常明显，用户体验感得到提升。基本符合在升级前预计 Layer2 手续费降低 90% 的预期。</p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="714" src="https://cdn-img.panewslab.com/panews/images/57nbP81pCz.png" style="display: block; margin-left: auto; margin-right: auto;" width="897" /></p>
+<p>而对于 Layer1（以太坊自身）来说，升级后 Gas 费有所降低，但不显著，用户在实际使用中其实感受并无变化。</p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="559" src="https://cdn-img.panewslab.com/panews/images/p579mr0502.png" style="display: block; margin-left: auto; margin-right: auto;" width="1270" /></p>
+<h4><strong>2.2 交易量影响</strong></h4>
+<p>升级除了降低 Gas 外，还有就是想提高吞吐量，这也是以太坊扩容发展规划中的重点。</p>
+<p>在升级完成之后，Base 的交易量率先激增并突破原先的瓶颈，从之前的 50 万突增至 2 百万，意味着 EIP-4844 对其产生了直接影响，受益也最明显。</p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="675" src="https://cdn-img.panewslab.com/panews/images/G6Ier113Sx.png" style="display: block; margin-left: auto; margin-right: auto;" width="1200" /></p>
+<h4><strong>2.3 TPS 影响</strong></h4>
+<p>TPS （每秒交易数）的优化意味着开发人员在构建和部署 dApps 时拥有更大的灵活性，预计会催生更多复杂、数据密集型的应用程序，从而吸引更广泛的用户群体。</p>
+<p>在升级完成后，各 Layer2 的 TPS 基本有所增加，但最大也不超过 30 笔 / 秒。</p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="675" src="https://cdn-img.panewslab.com/panews/images/dkiq58lqVD.png" style="display: block; margin-left: auto; margin-right: auto;" width="1200" /></p>
+<p>TPS 较低是目前 Web3 行业普遍现象，区别于传统 Web2 行业的高 TPS 特性。Layer2 的 TPS 最高也未超过 500，但从行业发展角度来看，本次升级也是在为未来打下基础，同时也呼应了以太坊发展期望——达到 10 万 + 的 TPS。</p>
+<h4><strong>2.4 Blob 使用情况</strong></h4>
+<p>Layer2 交易费用的整体下降主要原因是 Blob 类型的引进，交易中挂的 Blob 数量越多，整体的吞吐量也会越大，这也是为后续以太坊升级打下基础。</p>
+<p>最初预计，如果实现一个区块 3 个 Blob 的平均目标，L2 的吞吐量将有接近 2 倍的提升。若最终实现了一个区块外挂 64 个 Blob 的目标，L2 的吞吐量将有接近 40 倍的提升。本次升级最大限制给到了 6 个 Blob。</p>
+<p>就目前情况来看，Blob 已开始在交易中使用，但整体使用率不算高，峰值也是出现在刚刚完成升级时，后续逐渐回落，暂未达到预估的 3 个 Blob 的平均目标。</p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="675" src="https://cdn-img.panewslab.com/panews/images/H7GGA62AM2.png" style="display: block; margin-left: auto; margin-right: auto;" width="1200" /></p>
+<p>但 Blob 类型的引进，实实在在的是对 Layer2 在 Layer1 上的数据费用有明显改善。从上文中提到的 OP 链例子，可以直观感受到 Layer2 平均交易费用中使用 L1 的数据费用明显降低，几乎消除，这也从另一个方面推测，<strong>Layer2 的利润空间可能会有所提升。</strong></p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="312" src="https://cdn-img.panewslab.com/panews/images/jgo354GA29.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="554" /></p>
+<p>L2 的盈利模式相对比较简单清晰，基本可以总结为：链上利润 = L2 的交易费用 - L1 的支付成本；以 OP 链为例，尽管升级同时降低了 L2 交易费用和 L1 支付成本，但由于交易量和用户基数增加，两者的降幅完全不在一个数量级。交易费用从几十万降低至几万，而支付成本则从几十万降低至不足 1k，链上利润从升级后也有所增加。</p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="739" src="https://cdn-img.panewslab.com/panews/images/m8MDhe97mt.png" style="display: block; margin-left: auto; margin-right: auto;" width="1162" /></p>
+<h4><strong>2.5 价格影响</strong></h4>
+<p>对于本次升级而言，用户除了最关心链上使用体验是否有所改善外，其次最关心的就是各 L2 的原生代币价格。可以看到已发币的 Layer2 在升级完成后，币价均开始回落，这也是跟行业特性有关，利好落地变利空。实际市场从 2023 年开始就炒作以太坊升级相关概念，通过这段时间币价的拉升来看，本次升级也算是利好兑现。</p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="702" src="https://cdn-img.panewslab.com/panews/images/C12PR2Clcd.png" style="display: block; margin-left: auto; margin-right: auto;" width="848" /></p>
+<h3><strong>3. 投资价值的影响</strong></h3>
+<p>Dencun 升级一直是近 23-24 年度所关注的焦点，大众也是围绕着 Dencun 升级的一系列概念进行投资判断，本次升级注定会对后续以太坊和 L2 的投资价值产生影响。</p>
+<h4><strong>3.1 以太坊接力棒交接 L2</strong></h4>
+<p>以太坊的愿景是在去中心化的前提下变得更加可扩展、更加安全。</p>
+<p>为了摆脱三难困境（由 Vitalik Buterin 提出的“不可能三角”），在之前的升级中，以太坊为了提升安全性由 POW 转为 POS。在可扩展性方面，也明确采用了 L2 的 Rollup 方案，目的是增加以太坊的吞吐量，同时大大降低用户的费用。</p>
+<p>尽管目前以太坊的 TVL 仍处于首位，但其他的 L1 公链对其的冲击也不小，例如 Solana 的交易量已经超过以太坊，按照活跃地址来看，以太坊只位于第 6 位。</p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="709" src="https://cdn-img.panewslab.com/panews/images/067x0HA1bV.png" style="display: block; margin-left: auto; margin-right: auto;" width="1092" /></p>
+<p>再比如 Sui 的爆发，以及近期火热的 BTC L2 概念，这些都会使得用户不断流出以太坊，当用户和开发者基数随之减少，通常会导致其价值有所下降。但并不是说以太坊会就此走下坡路，而是发展轨迹会出现变化。</p>
+<p>以太坊从 2015 年发布并开启了 Web3 时代，发展至今，造就了行业的繁荣，最典型的就是 L2 的出现，众多 L2 为以太坊的扩容提供解决方案，而 Dencun 升级的侧重点就是放在 L2 中，在未来的以太坊升级中也会涉及多项与 L2 相关，二者联系越来越紧密，并相辅相成。</p>
+<p>笔者认为，本次升级对于以太坊来说，主要是为未来发展奠定了基础，使其更接近<strong>成为一个完全可扩展、可访问的全球交易平台</strong>。而对于 ETH 来说，作为“平台”的原生代币，再结合 ETH-ETF 叙事来看，未来<strong>更多是作为一种全球资产配置的存在</strong>，就像 BTC 目前角色的转变一样，<strong>更偏向适合长线投资</strong>，Alpha 机会未来也一定是在 L2 出现，以太坊也会逐渐的将扩展版图的接力棒交到 L2 手中，完成角色转变，所以当下更多的投资重心应该放在 L2 及其他赛道上。</p>
+<h4><strong>3.2 L2 生态大爆发</strong></h4>
+<p>毫无疑问，Dencun 升级最大的也是最直接的影响就是 Layer2 ，通过上文数据了解到，L2 的交易费用普遍得到了大幅下降，吞吐量也得到了提升，这可以让 L2 通过更低廉的价格，更高的性能去吸引用户进入生态，对其他 L1 形成进一步的竞争。</p>
+<p>根据 DeFiLlama 统计，TVL 前 10 名中就有 4 名 L2 （Polygon 严格意义上算侧链，但也有相应的 ZK Layer2 解决方案，开始逐渐拥抱 ETH L2），其中 Arbitrum 更是仅次于 BSC 和 Solana 排在第 4 位，往后还有 L2 的新起之秀，像空投大热的 Blast ，背靠 Coinbase 雄厚资源的 Base， 这些有着巨大发展潜力的 L2 需要重点关注。</p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="726" src="https://cdn-img.panewslab.com/panews/images/0H56IIjuDM.png" style="display: block; margin-left: auto; margin-right: auto;" width="1149" /></p>
+<p>对于 Layer2 来说，Dencun 升级后其实降低了自身的成本，那么未来利润空间就有机会增大，作为目前的 L2 龙头 Arbitrum 和 Optimism ，极大可能会将这部分因升级影响而带来的利润进行自身生态建设以及提高活跃度，那么用户也会从中受益，换言之就是，L2 自身的盈利能力增强，其代币的价值也会随之走高，这是获得市场一致认可的。尽管目前升级的预期已经落地，$arb 和 $op 的价格有所回落，但从各自的交易量以及活跃用户看，市场依然是保持期待。</p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="675" src="https://cdn-img.panewslab.com/panews/images/3xp1y0lzGH.png" style="display: block; margin-left: auto; margin-right: auto;" width="1200" /></p>
+<p>关于 <strong>Arbitrum 和 Optimism </strong>的生态建设我们可以从各自的合约部署情况了解，Arbitrum 的合约部署增长情况是要低于 Optimism ，但 Arbitrum 目前依然是 L2 协议种类最丰富的，根据 DeFiLlama 统计，目前 Arbitrum 协议数量 575，远大于其他 L2 的协议数量，并且 TVL 也是处于众多 L2 首位，从 Arbitrunm 推出以来，各项数据一直较为优秀。</p>
+<p>而 Optimism 在 2023 年提出 Superchain 战略，并开始力推 OP stack（一种开源的 L2 技术栈），意味着其他想要运行自己的 L2 的项目可以免费使用，并且由于技术架构上的一致性，彼此之间可以实现安全、高效、原子层面的信息和资产的通信与交互，首先就获得了 Coinbase 的采用，推出了 Base 链。诸如此外的还有 Binance 的 opBNB、NFT 项目 ZORA、知名链上数据看板 Debank 等等。</p>
+<p>Arbitrum 和 Optimism 作为 TVL 和用户体量头部位置的 L2 ，再结合当下生态已经逐渐繁荣，形成自己的护城河，同样还是本次升级影响最直接的核心 L2，二者是具备天然的先发优势，其本身和生态内的头部协议都可以重点关注。</p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="617" src="https://cdn-img.panewslab.com/panews/images/37LAFAtTmu.png" style="display: block; margin-left: auto; margin-right: auto;" width="1321" /></p>
+<p>而另一个值得关注的 L2 是 <strong>Base</strong> ，近一月 TVL 增长超 80%，按照活跃地址看，Base 已超过所有 L2 ，仅次于以太坊。从生态协议数量看，已经超过 OP，跃居第 7 位。</p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="675" src="https://cdn-img.panewslab.com/panews/images/Gm847q7BgL.png" style="display: block; margin-left: auto; margin-right: auto;" width="1200" /></p>
+<p>同样的，Base 也是受升级影响最直接的 L2 之一，交易量和用户都在升级后有明显增长，并且市场讨论热度也有所增加，比如 Base 上的 SocialFi（friend.tech）、DeFi（Perennial）、memecoin 等市场讨论热度一直较高；</p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="675" src="https://cdn-img.panewslab.com/panews/images/7OVq322sVc.png" style="display: block; margin-left: auto; margin-right: auto;" width="1200" /></p>
+<p>Base 本身与 Coinbase 的强绑定关系，使得 Base 天然就会拥有一定规模的用户和资金体量，凭着 friend.tech 项目的出圈，将市场的关注力重新拉回 SocialFi 赛道，而 SocialFi 本身核心需求就是交互频率高、交互费用低且承接较大用户量，相关的应用就对性能的要求更高，这正好与 Dencun 升级带来的利好相吻合，或许未来 Base 上会出现现象级的相关项目。</p>
+<p>此外还有更多的像 Blast、Zksync 等尚未发币的 L2 仍在蓄力中。Dencun 升级能够极大地降低用户交互的成本，或许可以进一步促进此类 L2 链上活动的繁荣。</p>
+<p><strong>但从另一方面来说</strong>，虽然 EIP-4844 带来了 L2 交易费用的下降，但其并不能始终确保 L2 费用很低。以 Base 链举例，在升级完成这段时间内，随着 Base 上的 memecoin 热度升高，交易费用也出现暴增，依然维持在较高水平。</p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="675" src="https://cdn-img.panewslab.com/panews/images/xEGCc355iG.png" style="display: block; margin-left: auto; margin-right: auto;" width="1200" /></p>
+<p>这种现象的出现，Taproot Wizards 联合创始人 Eric Wall 在 Twitter 上有举例说明，详情可以通过链接去看原文。简单来说即是，EIP-4844 带来的 L2-DA 容量空间并不是无限的，当大量集中交易出现时（TPS 升高），为了实现优先交易，Blob Space 费用会出现竞争并升高，L2 的排序器费用也会随之升高，从而影响交易费用升高，排序器仍然是只能在有限的 TPS 中进行优先排序。<strong>换言之，大量并发交易发生在同一条链上时，交易费用也会变高。</strong></p>
+<p><img alt="深入解析坎昆升级后时代：数据与投资视角" height="715" src="https://cdn-img.panewslab.com/panews/images/NEvHBrRcHX.png" style="display: block; margin-left: auto; margin-right: auto;" width="890" /></p>
+<pre>Source：https://twitter.com/ercwl/status/1771156029121663082</pre>
+<h3><strong>4. 结论与展望</strong></h3>
+<ol>
+<li><strong>Dencun 升级效果显著，</strong>明显降低了 L2 的交易成本，基本实现预估降低 L2 90% 交易费用的期望，<strong>但以太坊本身的交易费用降低效果不如 L2</strong>，同时升级后 L2 的吞吐量有不同程度的提升，其中表现最亮眼的是 Base 链。而另一面，<strong>如果大量并发交易发生在同一条链上时，交易费用还是会变高。</strong></li>
+<li>本次升级在以太坊<strong>可扩展性维度</strong>上有了更进一步发展，并且引入的 Blob 新型数据结构对未来面对高并发情况打下基础；</li>
+<li>Dencun 升级将进一步<strong>带动 L2 生态的繁荣</strong>，作为目前 L2 龙头的<strong> Arbitrum 和 Optimism</strong> 尤其值得关注，<strong>Arbitrum </strong>协议种类最丰富，数据表现一直较好，<strong>Optimism</strong> 的 Superchain 战略将会组网成为“ OP 系”，同时本次升级未来可能会提升二者利润空间，后续极有可能会惠及用户层面，对其生态建设形成正向循环；</li>
+<li>L2 新起之秀<strong> Base </strong>同样需要关注，<strong>背靠 Coinbase 天然拥有规模用户和资金体量</strong>，同时数据表现突出，近一月 TVL 增长超 80% ，活跃地址数处于 L2 首位，协议数量超过 OP ，该链上的生态项目发展值得关注；</li>
+<li>升级后用户体验最明显的就是各 L2 的交互费用大幅降低，这让用户更愿意进行交互，随之带来生态的正向循环，并且对于一些尚未发行代币的 L2 项目可以持续关注，像 Blast、Zksync 等，交互成本的降低会让更多的用户参与其中。</li>
+</ol>
+]]></content:encoded>
+<pubDate>Fri, 29 Mar 2024 13:00:55 +0800</pubDate>
+<pubDate>Fri, 29 Mar 2024 13:00:55 +0800</pubDate>
+</item>
 
 <item>
 <title>币安新币挖矿上线第50期项目，使用BNB、FDUSD挖矿Ethena (ENA)</title>
