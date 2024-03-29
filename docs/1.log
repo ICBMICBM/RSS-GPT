@@ -14683,3 +14683,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [美联储主席鲍威尔：我们不需要急于削减利率](https://www.panewslab.com/zh/sqarticledetails/0s345k06.html)
 append_entries: 1
 Finish: 2024-03-29 15:37:33.452159
+------------------------------------------------------
+Started: 2024-03-29 15:44:46.073109
+Existing_entries: 734
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+append_entries: 0
+Finish: 2024-03-29 15:44:48.418732
