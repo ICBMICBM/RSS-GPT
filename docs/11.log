@@ -12183,3 +12183,12 @@ Existing_entries: 290
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-29 11:36:21.936834
+------------------------------------------------------
+Started: 2024-03-29 11:43:59.811698
+Existing_entries: 290
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 73
+Summarized using GPT-3.5-turbo-1106
+Append: [UK Judge Freezes Craig Wright Assets to Prevent Him Evading Court Costs](https://www.coindesk.com/policy/2024/03/29/uk-judge-freezes-craig-wright-assets-to-prevent-him-evading-court-costs/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-29 11:44:01.772742
