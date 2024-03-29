@@ -4,6 +4,31 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>WIF短时突破4美元创新高，24小时涨幅超29%</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/7nfj1alb.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/7nfj1alb.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Dogwifhat（WIF）价格短时突破4美元，最高涨至4.0403美元，创历史新高。现报3.9724美元，24小时涨幅达29.37%。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月29日消息，行情显示，Dogwifhat（WIF）价格短时突破4美元，最高涨至4.0403美元，创历史新高。现报3.9724美元，24小时涨幅达29.37%。</p>
+]]></content:encoded>
+<pubDate>Fri, 29 Mar 2024 10:51:06 +0800</pubDate>
+<pubDate>Fri, 29 Mar 2024 10:51:06 +0800</pubDate>
+</item>
+<item>
+<title>以太坊最新ACDE会议讨论网络缺失插槽问题、Pectra升级等内容</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/y9m3zs3n.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/y9m3zs3n.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章总结了本周以太坊执行层核心开发者会议的讨论。首先是关于缺失插槽增加的问题，以及对中继器的调查。其次是讨论以太坊状态历史增长和跨链桥的影响。接着介绍了两个追溯性EIP，EIP-7610和EIP-7523，以及Pectra升级和相关基准测试。最后，提到了EIP拥护者分享的几个提案更新。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月29日消息，以太坊核心开发人员Tim Beiko在X平台对本周以太坊执行层核心开发者会议 (ACDE) 进行了总结，本次会议首先讨论了近几天网络上缺失插槽（slot）的情况增加，带有缺失blob的区块被传播，在检查了所有客户端的漏洞后，99%存在此问题的区块是由中继器bloxroute发送的，该团队正在调查该问题。有一些关于mev-boost断路器的评论/问题，如果客户端连续看到超过5个缺失的slot，他们会返回到本地区块构建。由于错过的插槽不是连续发生的，所以它不是在这里触发的。经过一番讨论，开发者达成一致意见，不提高断路器的灵敏度（因为这可能会成为攻击载体），而是考虑更精细的、针对中继器的自动断开机制。</p>
+<p>此外，会议谈论了以太坊状态历史增长情况，称由于各种跨链桥的出现，历史数据的增长远超状态增长。Dencun在这方面已经提供了一些帮助（桥接历史数据增长减少了50%，整体减少了33%），但历史增长的整体速度仍然是状态增长速度的约10倍。虽然状态增长的问题不仅仅是状态本身的大小，而是访问状态的问题，但这些数字再次强调了关注历史数据的重要性。开发者一致认为应该继续研究EIP-4444，理想的目标是在明年左右停止在以太坊p2p层上提供合并前历史记录。</p>
+<p>会议接下来讨论了两个“追溯性EIP”，即EIP-7610和EIP-7523。其中，EIP-7610提议为合约创建明确一个隐含约束，能简化客户端部分代码库，并删除一些只存在于覆盖理论边缘情况的测试用例，EIP-7523提议禁止空账户，以潜在拒绝服务DOS攻击。</p>
+<p>会议还继续讨论了Pectra升级，开发者分享了其在EIP-2537上所做的一些基准测试，以确定正确的Gas成本。Reth团队表示他们也会运行基准测试来确定正确的Gas成本。开发者更新了帐户抽象背景下包含列表的一些潜在问题，暂待解决。此外，大约10位EIP拥护者排队分享他们提案的更新/理由，包括EIP-5920、EIP-7609、EIP-2935、EIP-7545、EIP-7212、EIP-7664、EIP-6493等。</p>
+]]></content:encoded>
+<pubDate>Fri, 29 Mar 2024 10:47:39 +0800</pubDate>
+<pubDate>Fri, 29 Mar 2024 10:47:39 +0800</pubDate>
+</item>
 
 <item>
 <title>谷歌已支持搜索比特币、Fantom、Arbitrum等链上钱包地址</title>
