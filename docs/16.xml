@@ -4,6 +4,58 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>速览混合 L2 BOB：合并挖矿，融合比特币安全性与 EVM 流动性</title>
+<link>https://foresightnews.pro/article/detail/56917</link>
+<guid>https://foresightnews.pro/article/detail/56917</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。BOB宣布完成1000万美元种子轮融资，通过合并挖矿协议OptiMine实现了比特币安全性与EVM流动性的融合。OptiMine采用混合共识模型，使连接到L1链的任何侧链或Rollup能够获取比特币矿工的PoW安全性。BOB还计划推出一款双向轻客户端BTC桥，路线图显示BOB L2将分多个阶段发布，最终连接ETH和BTC。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>昨日，BOB 宣布完成 1000 万美元种子轮融资，ForesightNews 作者 Karen 详解了 BOB 如何融合比特币安全性与 EVM 流动性并提供合并挖矿的混合 L2 解决方案。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://foresightnews.pro/article/detail/56917">https://foresightnews.pro/article/detail/56917</a></p>
+<p><strong>文章作者：</strong></p><p>Karen Zhang（Foresight News）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Karen Zhang（Foresight News）：</strong>在技术实现上，BOB 合并挖矿协议 OptiMine 遵循混合共识模型，使连接到 L1 链的任何侧链或 Rollup 都能从比特币矿工那里获得 PoW 安全性。OptiMine 将区块生产与工作量证明（PoW）分离开来，不仅能继承比特币矿工的安全性，还能消除对中心化排序器的依赖，并保留了快速的出块时间（保持 2 秒的出块时间）。
+
+具体来说，在 BOB 合并挖矿协议中，排序器负责创建和签署区块，参与合并挖矿 BOB L2 的比特币矿工仅进行验证。由于区块是由排序器生成的，而矿工只进行验证，因此排序器可以在最坏的情况下可以停止区块生产，但不会创建分叉或无效区块，也因此可以预防比特币矿工攻击。
+
+EVM 兼容方面，BOB 利用 EVM 来创建和执行智能合约，主要使用 Solidity 智能合约编程语言进行开发。BOB 表示，未来会将其视为直接在比特币上进行 ZK Rollups 的途径，其中 BOB 本身可以在 zkVM 中得到证明并通过比特币共识进行验证。此外，BOB 通过 BTC light client 提供对比特币区块和交易数据的无需信任的访问，允许 EVM 合约处理 BTC 交易（例如 P2P BTC 兑换、Ordinal 拍卖、算力代币化等），支持一系列比特币跨链桥。BOB 还计划推出一款由 BitVM 提供支持的双向轻客户端 BTC 桥。
+
+BOB 也公布了比较详细的路线图，展示了从公共测试网到 Multi-ZK-Rollup 的多个发布阶段。BOB L2 将分多个阶段发布，从第 0 阶段到第 5 阶段分别为公共测试网、Bootstrapping BOB：Optimistic ETH Rollup、通过新的合并挖矿协议（PoW 再抵押）继承比特币安全性、从 Optimistic Rollup 升级到 ZK 验证、通过 BitVM、一次性签名和 ZK 证明实现 BTC 质押排序器、Multi-ZK-Rollup（同时连接 ETH 和 BTC）。</p><a href="https://foresightnews.pro/article/detail/56917">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-29T09:24:04+00:00</pubDate>
+</item>
+<item>
+<title>【英文长推】Sonic 升级在即，Fantom 能否重获新生？</title>
+<link>https://twitter.com/jake_pahor/status/1773243658491609439</link>
+<guid>https://twitter.com/jake_pahor/status/1773243658491609439</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Fantom将在2024年第二季度推出Sonic版本升级，加密研究员Jake Pahor总结了Fantom的重要数据和信息。目前，Fantom的TVL为2亿美元，已经恢复增长。每笔交易Gas分配方式为70%给验证者、15%给GasM计划、10%给生态金库、5%永久销毁。截止目前已销毁1120万枚FTM。Jake对Fantom持乐观态度，认为其技术更胜一筹，预计未来催化剂包括Sonic升级、生态系统空投和Andre Cronje影响。整体加权分数为8.35。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Fantom 将于今年 2 季度推出 Sonic 版本升级，加密研究员 Jake Pahor 结合此次升级和 Fantom 的基本面，汇总了 Fantom 的重要数据和信息。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/jake_pahor/status/1773243658491609439">https://twitter.com/jake_pahor/status/1773243658491609439</a></p>
+<p><strong>文章作者：</strong></p><p>Jake Pahor</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Jake Pahor：</strong>最近，Fantom 团队宣布推出 Fantom 技术堆栈的下一代版本 Sonic。它预计于 2024 年第二季度推出，将由三个主要组件组成：1.）Fantom 虚拟机（FVM）；2.）Carmen 数据库存储；3）优化的 Lachesis 共识机制。
+
+Fantom TVL 目前为 2 亿美元，较 2022 年 87 亿美元的峰值骤降 98%。它是熊市期间遭受打击最严重的项目之一。目前，Fantom 正在逐渐复苏，上个月交易量和 TVL 均增长了 100% 以上。
+
+以下是 Fantom 每笔交易的 Gas 分配方式：70% → 验证者；15% → GasM 计划；10% → 生态金库；5% → 永久销毁。迄今为止，总共超过 1120 万枚 FTM 已被销毁。
+
+总而言之，我非常看好 Fantom。它是上一次牛市中我最喜欢的区块链之一，而现在它的技术更胜一筹。即将到来的催化剂：Sonic 升级；生态系统空投；Andre Cronje 影响。总体加权分数 = 8.35。【原文为英文】</p><a href="https://twitter.com/jake_pahor/status/1773243658491609439">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-29T09:21:38+00:00</pubDate>
+</item>
+<item>
+<title>以太铭文又整新活，Blobscriptions 是什么？</title>
+<link>https://www.theblockbeats.info/news/52452</link>
+<guid>https://www.theblockbeats.info/news/52452</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Ethscriptions联合创始人dumbnamenumbers宣布Blobscriptions正式上线，利用EIP-4844中引入的Blob降低以太坊上存储数据的成本。Blobscriptions版本的"Duck Rabbit"成本约为0.1 ETH，可以以不到5美元的成本刻录768 kb大小的以太铭文。Blob专注于存储Layer 2交易数据，以太铭文索引器会永久存储这些数据，确保可用性。以太铭文巧妙利用以太坊新特性为自己降低刻录成本。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Ethscriptions 联合创始人 @dumbnamenumbers 今日凌晨宣布 Blobscriptions 正式上线。NFT 研究员 c00k1e 解析了 Blobscriptions 的机制以及刻录方式。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.theblockbeats.info/news/52452">https://www.theblockbeats.info/news/52452</a></p>
+<p><strong>文章作者：</strong></p><p>c00k1e</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>c00k1e：</strong>Ethscriptions 联合创始人 @dumbnamenumbers 在北京时间今天凌晨发布推文宣布 Blobscriptions 正式上线。推文中提到的「Duck Rabbit」是 @dumbnamenumbers 所喜爱的 meme，他在去年 8 月份曾把这张图放到了 Base 网络上。他本人在发推宣布 Blobscriptions 上线前，自己打了一张 Blobscriptions 版本的「Duck Rabbit」。因此，大量玩家开始跟着打 Blobscriptions 版本的「Duck Rabbit」。撰写此文的时候，打一张 Blobscriptions 版本的「Duck Rabbit」成本大约需要 0.1 ETH。
+Blobscriptions 是什么？EIP-4844 中引入的「Blob」使任何人都能以比 calldata 便宜 10 到 100 倍的价格在以太坊上存储数据，这就能够让以太铭文进一步降低刻录成本。根据 @dumbnamenumbers 的说法，我们可以以不到 5 美元的成本来刻录 768 kb 大小的以太铭文。然而由于 Blob 是专注于存储 Layer 2 交易数据的数据类型，以太坊本身不保证 Blob 数据的可用性超过 18 天。对此，@dumbnamenumbers 表示，我们以太铭文的索引器会无限期存储这些数据。所以总结下来，以太铭文巧妙使用了以太坊新特性来为自己降低刻录成本。</p><a href="https://www.theblockbeats.info/news/52452">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-29T08:43:45+00:00</pubDate>
+</item>
 
 <item>
 <title>【长推】pSTAKE 业务模型解析：精耕 POS 公链流动性</title>
