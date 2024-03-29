@@ -14674,3 +14674,12 @@ Existing_entries: 733
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-29 15:29:41.925115
+------------------------------------------------------
+Started: 2024-03-29 15:37:27.097658
+Existing_entries: 733
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 251
+Summarized using GPT-3.5-turbo-1106
+Append: [美联储主席鲍威尔：我们不需要急于削减利率](https://www.panewslab.com/zh/sqarticledetails/0s345k06.html)
+append_entries: 1
+Finish: 2024-03-29 15:37:33.452159
