@@ -14977,3 +14977,15 @@ Existing_entries: 1000
 Fetching from https://www.chainfeeds.xyz/rss
 append_entries: 0
 Finish: 2024-03-29 03:27:16.685787
+------------------------------------------------------
+Started: 2024-03-29 03:35:42.965311
+Existing_entries: 1000
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 652
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文】完全同态加密机器学习（FHEML）初探：有何进展与用例](https://medium.com/@nlokhande5923/wtf-is-fheml-380990cd3f8a)
+Token length: 341
+Summarized using GPT-3.5-turbo-1106
+Append: [Vitalik 最新长文：以太坊进化论续篇，L2 的四个关键改进点](https://www.odaily.news/post/5194157)
+append_entries: 2
+Finish: 2024-03-29 03:35:52.787891
