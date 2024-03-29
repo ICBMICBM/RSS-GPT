@@ -14032,3 +14032,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [数据：灰度GBTC昨日资金净流出约1.049亿美元](https://www.panewslab.com/zh/sqarticledetails/w4vswr29.html)
 append_entries: 5
 Finish: 2024-03-29 00:25:20.488630
+------------------------------------------------------
+Started: 2024-03-29 01:29:45.842240
+Existing_entries: 683
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 2737
+Summarized using GPT-3.5-turbo-1106
+Append: [从Paradigm到"Puadigm"，曾经的顶级VC沦为人人回避的“盘子大师”](https://www.panewslab.com/zh/articledetails/4blgajrx.html)
+Token length: 670
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitwise CIO预计机构将通过ETF向比特币注入超1万亿美元](https://www.panewslab.com/zh/sqarticledetails/7i5ksb25.html)
+Token length: 421
+Summarized using GPT-3.5-turbo-1106
+Append: [尼日利亚政府针对币安逃税案将于4月4日开始审理，被捕高管起诉当局“侵犯人权”](https://www.panewslab.com/zh/sqarticledetails/tdnu1eys.html)
+append_entries: 3
+Finish: 2024-03-29 01:30:00.534731
