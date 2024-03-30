@@ -15610,3 +15610,18 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [头等仓：全面解析3A链游大作Illuvium](https://www.panewslab.com/zh/articledetails/4isg8xft.html)
 append_entries: 1
 Finish: 2024-03-30 12:57:15.310682
+------------------------------------------------------
+Started: 2024-03-30 13:13:23.989794
+Existing_entries: 760
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 1161
+Summarized using GPT-3.5-turbo-1106
+Append: [黄立成化身麻吉“大割”，卷走数十亿？](https://www.panewslab.com/zh/articledetails/3vv8e3i7.html)
+Token length: 3265
+Summarized using GPT-3.5-turbo-1106
+Append: [PA日报 | DEGEN第二季空投奖励于今日上线；黄立成将Meme项目Bobaoppa预售筹集的SOL质押](https://www.panewslab.com/zh/articledetails/5aes024z.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [头等仓：全面解析3A链游大作Illuvium](https://www.panewslab.com/zh/articledetails/4isg8xft.html)
+append_entries: 3
+Finish: 2024-03-30 13:13:34.799471
