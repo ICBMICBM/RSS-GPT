@@ -15421,3 +15421,12 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [头等仓：全面解析3A链游大作Illuvium](https://www.panewslab.com/zh/articledetails/4isg8xft.html)
 append_entries: 2
 Finish: 2024-03-30 09:36:40.187983
+------------------------------------------------------
+Started: 2024-03-30 09:44:04.138259
+Existing_entries: 757
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [头等仓：全面解析3A链游大作Illuvium](https://www.panewslab.com/zh/articledetails/4isg8xft.html)
+append_entries: 1
+Finish: 2024-03-30 09:44:07.631310
