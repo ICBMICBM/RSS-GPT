@@ -15091,3 +15091,12 @@ Existing_entries: 746
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-30 03:00:28.189299
+------------------------------------------------------
+Started: 2024-03-30 03:20:45.509651
+Existing_entries: 746
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 148
+Summarized using GPT-3.5-turbo-1106
+Append: [某交易者卖出1450万枚MFER，10小时内获利140万美元](https://www.panewslab.com/zh/sqarticledetails/l1mz1opm.html)
+append_entries: 1
+Finish: 2024-03-30 03:20:50.009165
