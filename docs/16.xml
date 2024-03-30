@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>如何理解 Vitalik 新文对以太坊的扩容思考？</title>
 <link>https://twitter.com/tmel0211/status/1773945614465994911?s=61&amp;t=zwD5HTryAMwbhQjp4ntOpA</link>
 <guid>https://twitter.com/tmel0211/status/1773945614465994911?s=61&amp;t=zwD5HTryAMwbhQjp4ntOpA</guid>
 <content:encoded><![CDATA[
-<div> 这些信息是积极的。<br><br>摘要：Haotian认为坎昆升级后性能足够好，Vitalik对Rollup发展感到忧心，但Rollup layer2方案仍有提升性能的空间。Blob是可被共识层调取的临时数据包，Optimism每2分钟使用1个Blob，主网区块承载数据量受Gas Limit和存储成本影响，未来可能采用数据可用性抽样技术扩大存储容量。 Vitalik警告layer2项目方不要过早抱怨以太坊数据可用性贵，应加大力度扩大生态规模。 <div>
+<div> 这些信息是积极的。<br /><br />摘要：Haotian认为坎昆升级后性能足够好，Vitalik对Rollup发展感到忧心，但Rollup layer2方案仍有提升性能的空间。Blob是可被共识层调取的临时数据包，Optimism每2分钟使用1个Blob，主网区块承载数据量受Gas Limit和存储成本影响，未来可能采用数据可用性抽样技术扩大存储容量。 Vitalik警告layer2项目方不要过早抱怨以太坊数据可用性贵，应加大力度扩大生态规模。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>加密货币 KOL Haotian 认为坎昆升级后性能够用了，Vitalik 是对 Rollup 发展忧心忡忡，单纯就扩容瓶颈问题而言，Rollup layer2 方案可提升性能的空间还很大。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/tmel0211/status/1773945614465994911?s=61&amp;t=zwD5HTryAMwbhQjp4ntOpA">https://twitter.com/tmel0211/status/1773945614465994911?s=61&amp;t=zwD5HTryAMwbhQjp4ntOpA</a></p>
 <p><strong>文章作者：</strong></p><p>Haotian</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Haotian：</strong>Blob 是和 EVM calldata 脱钩的一个直接可被共识层调取的临时数据包，直接好处是，EVM 在执行交易时可以不访问 Blob 数据，因此产生不了较高的执行层计算费用。目前平衡一系列因素，1 个 Blob 大小为 128 kb，一笔 Batch 给主网的交易最多携带两个 Blob，理想情况下，一个主网区块最终目标是承载 16 MB 大约 128 个 Blob 数据包。因此 Rollup 项目方要尽可能平衡 Blob 区块数量、TPS 交易容量、Blob 主网节点存储成本等因素，目标以最优性价比使用 Blob 空间。
@@ -20,10 +21,8 @@
 
 那么，假使有一天 layer2 市场繁荣到一定程度，每天 Batch 到主网的交易成巨量，目前 Blob 数据包不够用怎么办？以太坊早已给出了解决方案：采用数据可用性抽样技术（DAS）：简单理解，就是把原先需要一个节点存储的数据可以同时分布在多个节点内，比如，每个节点存储全部 Blob 数据的 1/8，8 个节点组成一个小组来满足 DA 能力，相当于把目前的 Blob 存储容量又扩大了 8 倍。这其实也是未来 Sharding 分片阶段要做的事情。但目前 Vitalik 多次来重申这个，饶有韵味，似乎在告诫广大 layer2 项目方：不要总抱怨以太坊 DA 能力贵，以你们现在 TPS 容量都没把 Blob 数据包的能力开发到极致，赶紧加大火力搞生态，扩大用户和交易量吧，别总想着 DA 出逃搞一键发链的花活。</p><a href="https://twitter.com/tmel0211/status/1773945614465994911?s=61&amp;t=zwD5HTryAMwbhQjp4ntOpA">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-30T05:50:45+00:00</pubDate>
 </item>
-
 <item>
 <title>【英文】Polygon Ventures：对本轮牛市 BTC 生态的研究分析</title>
 <link>https://twitter.com/polygonventures/status/1773356656891416983?s=61&amp;t=zwD5HTryAMwbhQjp4ntOpA</link>
@@ -11133,16 +11132,6 @@ Morph 是一种完全无需许可的 EVM L2，它结合了 optimistic 和 zk rol
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />这些信息是积极的。ZK互操作协议zkBridge的开发商Polyhedra Network以10亿美元估值完成了2000万美元战略融资，Polychain Capital领投，其他机构也参投。融资将用于招聘跨职能部门人员，将团队规模扩大到约80人。该公司通过未来代币或SAFT进行了之前四轮融资。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，由 Polychain Capital 领投。参投者包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。所筹资金将用于团队扩大、招聘等。这些信息是积极的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
