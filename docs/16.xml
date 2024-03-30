@@ -4,6 +4,25 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>如何理解 Vitalik 新文对以太坊的扩容思考？</title>
+<link>https://twitter.com/tmel0211/status/1773945614465994911?s=61&amp;t=zwD5HTryAMwbhQjp4ntOpA</link>
+<guid>https://twitter.com/tmel0211/status/1773945614465994911?s=61&amp;t=zwD5HTryAMwbhQjp4ntOpA</guid>
+<content:encoded><![CDATA[
+<div> 这些信息是积极的。<br><br>摘要：Haotian认为坎昆升级后性能足够好，Vitalik对Rollup发展感到忧心，但Rollup layer2方案仍有提升性能的空间。Blob是可被共识层调取的临时数据包，Optimism每2分钟使用1个Blob，主网区块承载数据量受Gas Limit和存储成本影响，未来可能采用数据可用性抽样技术扩大存储容量。 Vitalik警告layer2项目方不要过早抱怨以太坊数据可用性贵，应加大力度扩大生态规模。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>加密货币 KOL Haotian 认为坎昆升级后性能够用了，Vitalik 是对 Rollup 发展忧心忡忡，单纯就扩容瓶颈问题而言，Rollup layer2 方案可提升性能的空间还很大。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/tmel0211/status/1773945614465994911?s=61&amp;t=zwD5HTryAMwbhQjp4ntOpA">https://twitter.com/tmel0211/status/1773945614465994911?s=61&amp;t=zwD5HTryAMwbhQjp4ntOpA</a></p>
+<p><strong>文章作者：</strong></p><p>Haotian</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Haotian：</strong>Blob 是和 EVM calldata 脱钩的一个直接可被共识层调取的临时数据包，直接好处是，EVM 在执行交易时可以不访问 Blob 数据，因此产生不了较高的执行层计算费用。目前平衡一系列因素，1 个 Blob 大小为 128 kb，一笔 Batch 给主网的交易最多携带两个 Blob，理想情况下，一个主网区块最终目标是承载 16 MB 大约 128 个 Blob 数据包。因此 Rollup 项目方要尽可能平衡 Blob 区块数量、TPS 交易容量、Blob 主网节点存储成本等因素，目标以最优性价比使用 Blob 空间。
+
+由于主网区块承载数据量受 Gas Limit 以及存储成本的影响，1 个 Slot 区块 128 个 Blob 是理想状态，目前用不到那么多，Optimism 每 2 分钟才用 1 个，留给 layer2 项目方提升 TPS，扩大市场用户量和生态繁荣度的空间还有很大很大。因此，坎昆升级后一段时间内，Rollup 在使用 Blob 的数量、频次以及 Blob 空间竞价使用等方面并不卷。
+
+之所以 Vitalik 提 Blobscription 铭文是因为，这类打铭文能短暂增加交易量导致 Blob 使用需求增加，因此会扩大体积，用铭文做例子可以更深刻理解 Blob 的工作机制，Vitalik 真正想表达的内容和铭文并没有太大关系。因为理论情况下，若有 layer2 项目方高频次且高容量向主网 Batch 交易，且每次把 Blob 区块拉满，只要它愿意承担高额的伪造交易 Batch 成本就会影响其他 layer2 对 Blob 的正常使用，但目前情况下，就像有人买算力对 BTC 进行 51% 硬分叉攻击一样，理论上可行，但实际缺乏利益动机。
+
+那么，假使有一天 layer2 市场繁荣到一定程度，每天 Batch 到主网的交易成巨量，目前 Blob 数据包不够用怎么办？以太坊早已给出了解决方案：采用数据可用性抽样技术（DAS）：简单理解，就是把原先需要一个节点存储的数据可以同时分布在多个节点内，比如，每个节点存储全部 Blob 数据的 1/8，8 个节点组成一个小组来满足 DA 能力，相当于把目前的 Blob 存储容量又扩大了 8 倍。这其实也是未来 Sharding 分片阶段要做的事情。但目前 Vitalik 多次来重申这个，饶有韵味，似乎在告诫广大 layer2 项目方：不要总抱怨以太坊 DA 能力贵，以你们现在 TPS 容量都没把 Blob 数据包的能力开发到极致，赶紧加大火力搞生态，扩大用户和交易量吧，别总想着 DA 出逃搞一键发链的花活。</p><a href="https://twitter.com/tmel0211/status/1773945614465994911?s=61&amp;t=zwD5HTryAMwbhQjp4ntOpA">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-30T05:50:45+00:00</pubDate>
+</item>
 
 <item>
 <title>【英文】Polygon Ventures：对本轮牛市 BTC 生态的研究分析</title>
