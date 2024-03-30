@@ -13284,3 +13284,10 @@ Fetching from https://cointelegraph.com/rss
 Feed error: 403
 append_entries: 0
 error when rendering xml, skip docs/15
+------------------------------------------------------
+Started: 2024-03-30 09:58:55.615927
+Existing_entries: 0
+Fetching from https://cointelegraph.com/rss
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/15
