@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>【英文】Polygon Ventures：对本轮牛市 BTC 生态的研究分析</title>
 <link>https://twitter.com/polygonventures/status/1773356656891416983?s=61&amp;t=zwD5HTryAMwbhQjp4ntOpA</link>
 <guid>https://twitter.com/polygonventures/status/1773356656891416983?s=61&amp;t=zwD5HTryAMwbhQjp4ntOpA</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的<br>比特币正在进化，从数字黄金转变为具有智能合约功能的强大资产。新兴技术如BitVM正在推动比特币生态系统向更广泛的Web3生态系统扩展。Polygon Ventures提到了三个催化剂引起人们关注的因素：Ordinals、BitVM、Babylon。Ordinals已经将比特币NFT推至成交量亚军，创造了一个能够在比特币上创建无需信任的EVM范式的可能性。BitVM使用乐观的证明者-验证者模型，为比特币的横向扩展打下基础。BitVM还引入最小化信任的桥梁，将比特币转移到POS链上。最终目标可能包括将零知识验证器Opcode集成到比特币的脚本语言中。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的<br />比特币正在进化，从数字黄金转变为具有智能合约功能的强大资产。新兴技术如BitVM正在推动比特币生态系统向更广泛的Web3生态系统扩展。Polygon Ventures提到了三个催化剂引起人们关注的因素：Ordinals、BitVM、Babylon。Ordinals已经将比特币NFT推至成交量亚军，创造了一个能够在比特币上创建无需信任的EVM范式的可能性。BitVM使用乐观的证明者-验证者模型，为比特币的横向扩展打下基础。BitVM还引入最小化信任的桥梁，将比特币转移到POS链上。最终目标可能包括将零知识验证器Opcode集成到比特币的脚本语言中。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>比特币正在进化，从简单的数字黄金转变为具有智能合约能力的强大资产。新兴技术如 BitVM 正在推动比特币生态系统向更广泛的 Web3 生态系统扩展。Polygon Ventures 讲述比特币生态潜力。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/polygonventures/status/1773356656891416983?s=61&amp;t=zwD5HTryAMwbhQjp4ntOpA">https://twitter.com/polygonventures/status/1773356656891416983?s=61&amp;t=zwD5HTryAMwbhQjp4ntOpA</a></p>
 <p><strong>文章作者：</strong></p><p>Polygon Ventures</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Polygon Ventures：</strong>有三个催化剂引起了人们的关注：Ordinals、BitVM、Babylon。尽管 ETF 流入引起了金融界的关注，但 Ordinals 吸引了大量开发者关注比特币生态系统。Ordinals 和 BRC-20 代币在比特币账本上「刻写」数据，但需要一个社会共识层，将这些数据的特定编码转换出来。Ordinals 已经将比特币 NFT 推至成为交易量的亚军，仅次于以太坊。
@@ -20,7 +21,6 @@ BitVM 使用一种乐观的证明者 - 验证者模型来表达图灵完备的�
 
 总结一下，比特币在两个方面都迈出了重要的步伐：在纵向扩展方面，通过能够处理数百万笔交易的 L2 解决方案，解决了可编程性的问题。通过成为广泛应用中坚实的抵押品，提高资本效率。BitVM 目前还处于早期阶段，并在多方合约、高计算成本和需要定期服务器交互等方面遇到了一些问题。最终目标可能包括将零知识验证器 Opcode 集成到比特币的脚本语言中，以克服这些障碍。【原文为英文】</p><a href="https://twitter.com/polygonventures/status/1773356656891416983?s=61&amp;t=zwD5HTryAMwbhQjp4ntOpA">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-30T04:10:23+00:00</pubDate>
 </item>
 <item>
@@ -28,17 +28,15 @@ BitVM 使用一种乐观的证明者 - 验证者模型来表达图灵完备的�
 <link>https://twitter.com/christine_dkim/status/1773910463606075777</link>
 <guid>https://twitter.com/christine_dkim/status/1773910463606075777</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章指出封闭源的MEV软件对以太坊生态系统有重大影响，应减少对封闭源软件的依赖。作者强调构建者、中继器、开发人员和研究人员之间的合作至关重要，同时呼吁改变激励机制，创建竞争市场和寻找可持续资助开源中继器的方式。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章指出封闭源的MEV软件对以太坊生态系统有重大影响，应减少对封闭源软件的依赖。作者强调构建者、中继器、开发人员和研究人员之间的合作至关重要，同时呼吁改变激励机制，创建竞争市场和寻找可持续资助开源中继器的方式。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>Galaxy 研究员 Christine Kim 就开源的以太坊客户端软件 Lighthouse 和闭源的 MEV 软件 Bloxroute 之间的争议发表了自己的看法，封闭源的 MEV 软件对以太坊生态系统影响也很大，应该减少对封闭源软件的依赖，并创建更加竞争的去中心化市场。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/christine_dkim/status/1773910463606075777">https://twitter.com/christine_dkim/status/1773910463606075777</a></p>
 <p><strong>文章作者：</strong></p><p>Christine Kim（Galaxy Digital）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Christine Kim（Galaxy Digital）：</strong>中继器和构建者主要是封闭源的软件，对网络健康、去中心化和稳定性可能产生重大影响。中继器、构建者和 MEV Boost 软件虽然都属于「协议外」的技术，但这并不意味着它们对以太坊这个开源协议的重要性较低。（值得一提的是，MEV Boost 是开源的，虽然是协议外的，但与协议内的解决方案同样重要）。构建「协议外」MEV 解决方案的人的利益和构建「协议内」解决方案的人的利益同样重要，因为它们可以在很大程度上相互影响。
 
 这就是为什么构建者、中继器、开发人员和研究人员之间的合作至关重要。然而，光是合作还不够。这种合作应该引领创新，改变构建者和中继器市场的激励机制，使依赖封闭源软件不再是玩家取胜和保持竞争力的唯一途径。如果唯一取胜的方法是私有化和集中化，那么这对每个人都是一场输掉的游戏。我们需要为去中心化的构建者创建竞争市场，并找到可持续资助开源中继器的方式。激励机制必须改变。【原文为英文】</p><a href="https://twitter.com/christine_dkim/status/1773910463606075777">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-30T03:41:23+00:00</pubDate>
 </item>
-
 <item>
 <title>6 小时 100 倍，mfers 创始人在 Base 生态续演「BOME 神盘」</title>
 <link>https://www.theblockbeats.info/news/52551</link>
@@ -11126,26 +11124,6 @@ Morph 是一种完全无需许可的 EVM L2，它结合了 optimistic 和 zk rol
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，由 Polychain Capital 领投。参投者包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。所筹资金将用于团队扩大、招聘等。这些信息是积极的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。融资资金将用于团队扩大到约 80 人，招募产品、工程、业务开发和营销等跨职能部门。所有融资均通过未来代币或 SAFT 的简单协议进行。这些信息是积极的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成了 2000 万美元战略融资，总估值达到 10 亿美元。Polychain Capital 领投，其他参投方包括 Animoca Brands、Hashkey Capital 等。融资将用于团队扩大到约 80 人，招聘跨职能部门人员。<br /><br />这些信息是积极的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
