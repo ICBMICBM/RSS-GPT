@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>【英文长推】解读 Ondo Finance：传统金融与加密世界的桥梁</title>
 <link>https://twitter.com/solofunk30/status/1773373327534334155</link>
 <guid>https://twitter.com/solofunk30/status/1773373327534334155</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Ondo Finance是一个专注于RWA领域的资产管理协议，提供了三种由RWA抵押的代币：USDY、OUSG和OMMF。Ondo还拥有一套链上协议，包括Flux Finance、Ondo Bridge和Ondo Converter，为用户提供了借贷、桥接和代币交换等功能。文章作者Pat_Kras从产品、代币用途、未来规划等角度介绍了Ondo Finance。<br> <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。Ondo Finance是一个专注于RWA领域的资产管理协议，提供了三种由RWA抵押的代币：USDY、OUSG和OMMF。Ondo还拥有一套链上协议，包括Flux Finance、Ondo Bridge和Ondo Converter，为用户提供了借贷、桥接和代币交换等功能。文章作者Pat_Kras从产品、代币用途、未来规划等角度介绍了Ondo Finance。<br /> <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>Ondo Finance 是一个专注于 RWA 领域的资产管理协议。Messari 研究员 Pat_Kras 从产品、代币用途、未来规划等角度介绍了 Ondo Finance。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/solofunk30/status/1773373327534334155">https://twitter.com/solofunk30/status/1773373327534334155</a></p>
 <p><strong>文章作者：</strong></p><p>Pat_Kras</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Pat_Kras：</strong>提供了由 RWA 抵押的三种代币：1）USDY，主要由短期美国国债通过 Morgan Stanley 和 StoneX 抵押。 USDY 的价值随着其资产抵押产生的收益而增加。TVL  = 1.27 亿美元，收益率 = 5.10%，支持以太坊、Mantle、Solana、Sui，Aptos 即将推出。2）OUSG，主要由 BlackRock 在以太坊上的 ERC-20 BUIDL 代币抵押。 OUSG 的价值随着其资产抵押产生的收益而增加。TVL = 9500 万美元，收益率 = 4.96%，支持以太坊、Polygon 和 Solana。3）OMMF，Ondo 货币市场基金（OMMF）尚未启动。但是，OMMF 计划成为一个重新调整的代币，代币持有者通过 BlackRock ETF 提供的货币市场基金抵押赚取收益时，会积累额外的 OMMF 代币。
@@ -18,10 +19,8 @@ Ondo 还拥有一套链上协议。 其中包括 Flux Finance。Flux Finance 是
 
 第一个是 Ondo Bridge，允许用户通过类似 Circle 的 Cross-Chain Transfer Protocol（CCTP）的「烧毁和铸造」桥接方法转移支持的 Ondo 代币。另一个是 Ondo Converter，允许积累代币（代币价值增加）和分配代币（分配额外代币）之间进行交换。【原文为英文】</p><a href="https://twitter.com/solofunk30/status/1773373327534334155">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-03-30T08:01:30+00:00</pubDate>
 </item>
-
 <item>
 <title>病毒式传播的 Notcoin，能否成为 Ton 生态破圈的 meme 币？</title>
 <link>https://techflowpost.com/article/detail_17116.html</link>
@@ -11145,16 +11144,6 @@ Morph 是一种完全无需许可的 EVM L2，它结合了 optimistic 和 zk rol
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />ZK 互操作协议zkBridge开发商Polyhedra Network以10亿美元估值完成2000万美元战略融资，Polychain Capital领投，其他参投方包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。融资将用于团队扩大、招聘跨部门人员和业务发展等方面。本轮融资和之前四轮均通过未来代币或SAFT协议完成。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK互操作协议zkBridge的开发商Polyhedra Network以10亿美元估值完成2000万美元战略融资，由Polychain Capital领投，参投者包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。筹集的资金将用于扩大团队规模，招聘跨职能部门人员，包括产品、工程、业务开发和营销等，旨在将目前约50人的团队扩大到约80人。这些信息是积极的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
