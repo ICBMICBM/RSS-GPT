@@ -15220,3 +15220,12 @@ Existing_entries: 753
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-30 05:58:02.747582
+------------------------------------------------------
+Started: 2024-03-30 06:15:50.967374
+Existing_entries: 753
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [头等仓：全面解析3A链游大作Illuvium](https://www.panewslab.com/zh/articledetails/4isg8xft.html)
+append_entries: 1
+Finish: 2024-03-30 06:15:54.307072
