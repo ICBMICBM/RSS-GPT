@@ -13227,3 +13227,12 @@ Existing_entries: 294
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-03-30 17:46:12.705561
+------------------------------------------------------
+Started: 2024-03-30 17:53:43.625396
+Existing_entries: 294
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 73
+Summarized using GPT-3.5-turbo-1106
+Append: [Tornado Cash Dev Roman Storm Moves to Dismiss Indictment Over Crypto-Laundering Allegations](https://www.coindesk.com/policy/2024/03/30/tornado-cash-dev-roman-storm-moves-to-dismiss-indictment-over-crypto-laundering-allegations/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-03-30 17:53:45.538348
