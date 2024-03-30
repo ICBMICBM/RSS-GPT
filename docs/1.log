@@ -15028,3 +15028,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bitfinex：正在调查平台性能下降的问题，交易已暂停](https://www.panewslab.com/zh/sqarticledetails/q6cv1rhu.html)
 append_entries: 2
 Finish: 2024-03-30 01:34:59.615881
+------------------------------------------------------
+Started: 2024-03-30 02:02:49.109872
+Existing_entries: 739
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 155
+Summarized using GPT-3.5-turbo-1106
+Append: [DEGEN第二季空投奖励将于今日上线](https://www.panewslab.com/zh/sqarticledetails/pw0trham.html)
+Token length: 135
+Summarized using GPT-3.5-turbo-1106
+Append: [Coinbase Derivatives将DOGE期货合约推出时间推迟至4月29日](https://www.panewslab.com/zh/sqarticledetails/a1w5zpjb.html)
+append_entries: 2
+Finish: 2024-03-30 02:02:55.258272
