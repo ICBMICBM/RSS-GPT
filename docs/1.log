@@ -15478,3 +15478,15 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [头等仓：全面解析3A链游大作Illuvium](https://www.panewslab.com/zh/articledetails/4isg8xft.html)
 append_entries: 1
 Finish: 2024-03-30 10:35:06.977425
+------------------------------------------------------
+Started: 2024-03-30 10:42:20.979968
+Existing_entries: 758
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 593
+Summarized using GPT-3.5-turbo-1106
+Append: [Prisma被攻击事件的“白帽黑客”：团队毫无悔意，很难退还资金，应举行在线发布会致歉](https://www.panewslab.com/zh/sqarticledetails/evgz4ryc.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [头等仓：全面解析3A链游大作Illuvium](https://www.panewslab.com/zh/articledetails/4isg8xft.html)
+append_entries: 2
+Finish: 2024-03-30 10:42:26.320986
