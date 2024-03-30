@@ -4,6 +4,23 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>【英文长推】解读 Ondo Finance：传统金融与加密世界的桥梁</title>
+<link>https://twitter.com/solofunk30/status/1773373327534334155</link>
+<guid>https://twitter.com/solofunk30/status/1773373327534334155</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Ondo Finance是一个专注于RWA领域的资产管理协议，提供了三种由RWA抵押的代币：USDY、OUSG和OMMF。Ondo还拥有一套链上协议，包括Flux Finance、Ondo Bridge和Ondo Converter，为用户提供了借贷、桥接和代币交换等功能。文章作者Pat_Kras从产品、代币用途、未来规划等角度介绍了Ondo Finance。<br> <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Ondo Finance 是一个专注于 RWA 领域的资产管理协议。Messari 研究员 Pat_Kras 从产品、代币用途、未来规划等角度介绍了 Ondo Finance。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/solofunk30/status/1773373327534334155">https://twitter.com/solofunk30/status/1773373327534334155</a></p>
+<p><strong>文章作者：</strong></p><p>Pat_Kras</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Pat_Kras：</strong>提供了由 RWA 抵押的三种代币：1）USDY，主要由短期美国国债通过 Morgan Stanley 和 StoneX 抵押。 USDY 的价值随着其资产抵押产生的收益而增加。TVL  = 1.27 亿美元，收益率 = 5.10%，支持以太坊、Mantle、Solana、Sui，Aptos 即将推出。2）OUSG，主要由 BlackRock 在以太坊上的 ERC-20 BUIDL 代币抵押。 OUSG 的价值随着其资产抵押产生的收益而增加。TVL = 9500 万美元，收益率 = 4.96%，支持以太坊、Polygon 和 Solana。3）OMMF，Ondo 货币市场基金（OMMF）尚未启动。但是，OMMF 计划成为一个重新调整的代币，代币持有者通过 BlackRock ETF 提供的货币市场基金抵押赚取收益时，会积累额外的 OMMF 代币。
+
+Ondo 还拥有一套链上协议。 其中包括 Flux Finance。Flux Finance 是以太坊上的一个借贷协议，允许使用 OUSG 作为抵押品借出稳定币（USDC、USDT、DAI 和 FRAX）。用户可以出借稳定币，从借出 OUSG 的存款人那里获得收益。与 LP 代币类似，用户会收到代表存入或借出资产的 fTokens。 fTokens 可以在 Reserve Protocol 和 CoWSwap 等协议中使用，或者兑换成底层资产。Ondo 还建立了另外两个协议。
+
+第一个是 Ondo Bridge，允许用户通过类似 Circle 的 Cross-Chain Transfer Protocol（CCTP）的「烧毁和铸造」桥接方法转移支持的 Ondo 代币。另一个是 Ondo Converter，允许积累代币（代币价值增加）和分配代币（分配额外代币）之间进行交换。【原文为英文】</p><a href="https://twitter.com/solofunk30/status/1773373327534334155">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-03-30T08:01:30+00:00</pubDate>
+</item>
 
 <item>
 <title>病毒式传播的 Notcoin，能否成为 Ton 生态破圈的 meme 币？</title>
