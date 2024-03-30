@@ -15001,3 +15001,18 @@ Existing_entries: 734
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-03-29 23:57:18.714412
+------------------------------------------------------
+Started: 2024-03-30 00:50:50.242863
+Existing_entries: 734
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 6377
+Summarized using GPT-3.5-turbo-1106
+Append: [福布斯：探寻市值数十亿美元的“加密鬼城”](https://www.panewslab.com/zh/articledetails/im92l4uc.html)
+Token length: 97
+Summarized using GPT-3.5-turbo-1106
+Append: [过去24小时全网合约爆仓1.48亿美元，其中多单爆仓1.05亿美元](https://www.panewslab.com/zh/sqarticledetails/8qa3v5ka.html)
+Token length: 135
+Summarized using GPT-3.5-turbo-1106
+Append: [Magic Eden计划支持比特币Runes代币标准](https://www.panewslab.com/zh/sqarticledetails/uho09ezm.html)
+append_entries: 3
+Finish: 2024-03-30 00:51:00.183908
