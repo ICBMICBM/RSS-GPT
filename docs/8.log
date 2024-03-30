@@ -12303,3 +12303,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Dogecoin Price Breaks New 3-Year High – Here Are Factors That Could Drive The Price To $1](https://www.newsbtc.com/news/dogecoin/dogecoin-price-breaks-new-3-year-high-here-are-factors-that-could-drive-the-price-to-1/)
 append_entries: 1
 Finish: 2024-03-30 09:20:49.953440
+------------------------------------------------------
+Started: 2024-03-30 09:28:22.963852
+Existing_entries: 206
+Fetching from https://www.newsbtc.com/feed
+append_entries: 0
+Finish: 2024-03-30 09:28:23.118264
