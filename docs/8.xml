@@ -5,11 +5,46 @@
 <link>https://www.newsbtc.com/</link>
 
 <item>
+<title>What’s A Simple Strategy For Buying &amp; Selling Bitcoin? This Analyst Answers</title>
+<link>https://www.newsbtc.com/bitcoin-news/simple-strategy-buying-selling-bitcoin-analyst/</link>
+<guid>https://www.newsbtc.com/bitcoin-news/simple-strategy-buying-selling-bitcoin-analyst/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：这些信息是积极的<br>一名分析师揭示了一个简单的策略，利用两个比特币在链指标历史模式来买卖比特币。该策略基于两个BTC链指标在历史上遵循的趋势：净未实现损失（NUL）和净未实现利润（NUP）。NUL显示了在比特币历史中一个特定模式，并当资产价格处于低位时，该指标被认为是买入的时机。另一方面，NUP在过去的顶部时通常高于0.7水平，表明这可能是卖出的好时机。这些指标虽然不能精确预测资产的顶部或底部，但在历史上，遵循NUL和NUP指标的买卖点通常是盈利的。 <div>
+<p>An analyst has revealed a simple strategy for buying and selling Bitcoin using the historical pattern followed by two BTC on-chain indicators.</p>
+<h2>These Bitcoin On-Chain Indicators Have Followed A Specific Pattern Historically</h2>
+<p>In a <a href="https://twitter.com/AxelAdlerJr/status/1773606175394681280" rel="noopener nofollow" target="_blank">post</a> on X, CryptoQuant author Axel Adler Jr. discussed a simple strategy for timing buying and selling moves for Bitcoin. The strategy is based on the trend witnessed historically in two BTC on-chain metrics: the Net Unrealized Loss (NUL) and Net Unrealized Profit (NUP).</p>
+<p>As their names suggest, these indicators keep track of the total amount of unrealized loss and unrealized profit that the investors are currently carrying.</p>
+
+<p>These metrics work by going through the transaction history of each coin in circulation to see what price it was last transacted at. Assuming that the last transfer of each coin was the last time it changed hands, the price at its instant would act as its current <a href="https://www.newsbtc.com/news/bitcoin/bitcoin-investor-cohorts-close-cost-basis-market/" rel="noopener " target="_blank">cost basis</a>.</p>
+<p>If the previous price for any coin was less than the current spot price of the cryptocurrency, then that coin is currently carrying a profit. The NUP subtracts the two to calculate the exact unrealized gain for the coin.</p>
+<p>Similarly, the NUL does the same for coins that have their cost basis above the latest value of the asset. These indicators then sum up this value for the entire supply and divide the sum by the current market cap.</p>
+<p>Now, first, here is a chart shared by the analyst for the NUL that reveals a pattern that the metric has been following throughout the history of Bitcoin:</p>
+<p><img alt="Bitcoin NUL" class="alignnone aligncenter" height="1290" src="https://pbs.twimg.com/media/GJ0dahPWkAAzojj?format=jpg&amp;name=large" width="2048" /></p>
+
+<p>The Bitcoin NUL appears to have historically broken above the 0.5 level when the asset&#8217;s price has traded around <a href="https://www.newsbtc.com/bitcoin-news/bitcoin-rejection-historical-line-bear-market-on/" rel="noopener " target="_blank">bear market</a> lows. According to Axel, the indicator in this territory would be the moment to buy more.</p>
+<p>Recently, the metric has been floating around the zero mark, meaning that there has been any unrealized loss being held by the investors. This makes sense, as the cryptocurrency has set<a href="https://www.newsbtc.com/news/bitcoin-blasts-past-70000-in-wild-week-to-register-new-all-time-high/" rel="noopener " target="_blank"> new all-time highs (ATHs)</a>. Naturally, 100% of the supply goes into profit when an ATH is set.</p>
+<p>Similar to the pattern in the NUL, the NUP has been above the 0.7 level during major tops in the past, suggesting that it may be a good opportunity to sell when the indicator is in this zone.</p>
+<p><img alt="Bitcoin NUP" class="alignnone aligncenter" height="1290" src="https://pbs.twimg.com/media/GJ0dahQWQAAmQ0I?format=jpg&amp;name=large" width="2048" /></p>
+
+<p>As is visible in the chart, the NUP has been marching up with the recent rally in Bitcoin. Still, so far, the indicator hasn&#8217;t broken above the seemingly important 0.7 level, implying that the market may not yet be in an overheated place where selling would be ideal, at least according to this strategy.</p>
+<p>The graphs of the two indicators, though, show that neither of them flagged the exact tops or bottoms in the asset. It&#8217;s especially prominent in the data of the NUP, where the metric signaled &#8220;sell&#8221; during tops that were merely halfway through the bull run.</p>
+
+<p>That said, buying during the points flagged by the NUL and then selling at the overheated NUP values would have historically been profitable. In that sense, this would indeed be a &#8220;simple&#8221; strategy for the asset.</p>
+<p>It remains to be seen, though, whether these patterns will continue to hold in the current Bitcoin cycle as well.</p>
+<h2>BTC Price</h2>
+<p>At the time of writing, Bitcoin is trading at around $69,400, down 2% over the past 24 hours.</p>
+<p><img alt="Bitcoin Price Chart" class="alignnone size-medium aligncenter" height="854" src="https://www.tradingview.com/x/BwQbBOXI/" width="1534" /></p>
+]]></content:encoded>
+<pubDate>Sat, 30 Mar 2024 01:00:10 +0000</pubDate>
+<pubDate>Sat, 30 Mar 2024 01:00:10 +0000</pubDate>
+</item>
+
+<item>
 <title>Cardano Latest Technological Updates Unveiled, Analyst Maintains Bullish Outlook on ADA</title>
 <link>https://www.newsbtc.com/news/cardano/cardano-latest-technological-updates-unveiled-analyst-maintains-bullish-outlook-on-ada/</link>
 <guid>https://www.newsbtc.com/news/cardano/cardano-latest-technological-updates-unveiled-analyst-maintains-bullish-outlook-on-ada/</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：这些信息是积极的。<br>Cardano（ADA）作为一种权益证明区块链平台，经IOHK工程公司表示，在技术上取得了显著进展。Cardano的智能合同方面进行了优化，提升了数据质量。Mithril团队发布了重要更新，解决了可扩展性问题。ADA的交易量出现显著增长，长期前景保持看涨。ADA目前以0.652美元交易，过去七天实现5.4%的增长。 <div>
+<div> <br /><br />摘要：这些信息是积极的。<br />Cardano（ADA）作为一种权益证明区块链平台，经IOHK工程公司表示，在技术上取得了显著进展。Cardano的智能合同方面进行了优化，提升了数据质量。Mithril团队发布了重要更新，解决了可扩展性问题。ADA的交易量出现显著增长，长期前景保持看涨。ADA目前以0.652美元交易，过去七天实现5.4%的增长。 <div>
 <p>Cardano (ADA), the proof-of-stake blockchain platform, has made notable progress in technological advancements, according to Input Output Hong Kong (IOHK), the engineering firm behind the Cardano blockchain.</p>
 <p>IOHK&#8217;s recent <a href="https://www.essentialcardano.io/development-update/weekly-development-report-as-of-2024-03-29" rel="noopener nofollow" target="_blank">announcement </a>highlights crucial improvements across various aspects of the platform, signaling further growth and development for Cardano.</p>
 <h2>Cardano Smart Contract Optimization</h2>
@@ -38,9 +73,7 @@ Long-Term Outlook Remains Bullish For ADA
 <p>Featured image from Shutterstock, chart from TradingView.com</p>
 ]]></content:encoded>
 <pubDate>Sat, 30 Mar 2024 00:00:22 +0000</pubDate>
-<pubDate>Sat, 30 Mar 2024 00:00:22 +0000</pubDate>
 </item>
-
 <item>
 <title>Crypto Analyst Predicts 600%-1000% Return For XRP, Here’s The Target</title>
 <link>https://www.newsbtc.com/analysis/xrp/600-1000-return-for-xrp/</link>
