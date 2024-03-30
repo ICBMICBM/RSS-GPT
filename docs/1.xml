@@ -4,6 +4,33 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>深入探讨Coinbase投资的RWA项目Midas</title>
+<link>https://www.panewslab.com/zh/articledetails/c2djl1w3.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/c2djl1w3.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了RWA项目Midas，其推出的首个资产代币化产品mTBILL年化收益率为5.23%，底层资产为iShares $ Treasury Bond 0-1yr UCITS ETF。项目强调链上DeFi用途，让购入者可以参与相关DeFi项目，提供额外收益率和利用率。虽然还未看到相关借贷协议支持，但在机构的扶持下，DeFi用例或将持续扩展。值得关注的风险点是产品说明尚不完善。 <div>
+<p>原创 | Odaily星球日报</p>
+<p>作者 | 夫如何</p>
+<p>随着贝莱德推出代币化基金BUIDL在一周内吸引了1.6亿美元资金，并且Ondo作为RWA板块的龙头项目，将产品OUSG（美国短期国债ETF）的底层资产分配给BUIDL后，RWA再次成为社区讨论的热门板块。</p>
+<p>RWA 作为加密行业与现实资产连接的重要桥梁之一，从概念兴起之初，就备受大家期待，但真正为人熟知且采用的RWA项目仅有Ondo和MarkerDAO等少数知名项目。</p>
+<p>不过，近期RWA项目<a href="https://midas.app/" rel="nofollow" target="_blank">Midas</a>完成875万美元的种子轮融资，并获 Coinbase Venture和GSR等机构参投。在知名机构的加持下，Midas走入大众视野。</p>
+<p>下面，Odaily星球日报将从Midas项目概况及后续发展前景为大家阐述。</p>
+<h3>表面RWA，实际稳定币生息</h3>
+<p>Midas是资产代币化的协议，将代币化的现实资产转化为无需许可的ERC20代币，并允许代币在DeFi项目中流通。目前Midas推出的首个资产代币化产品是mTBILL，目前mTBILL年化收益率为5.23%，TVL为303万美元。</p>
+<p>mTBILL底层资产是iShares $ Treasury Bond 0-1yr UCITS ETF（IB01.L），该基金的资产管理规模为146亿美元，每日交易量总计2518万美元，<strong>年化回报率为5.26%</strong>，标普评级为AA级。每枚mTBILL代币与每股IB01.L以1：1比例挂钩。</p>
+<p>IB01.L在基础国库券到期，资产进行再投资，从而增加基金的资产净值（NAV）。随着整体基金资产净值的积累，对应的各个代币的价值依次增加。因此mTBILL产品赎回将采取当时净资产价值计算。</p>
+<p>与其他RWA项目一样，购入和赎回mTBILL产品<strong>需要KYC和AML的审核</strong>，美国个人及机构无法参与，其他国家并不受限。并且<strong>初</strong><strong>始购入门槛需要12000 USDC</strong>，不算低，但并未指出是何种投资者允许购买，资金符合要求即可。<strong>值得注意的是，项目方并未明确标注为赎回资产的门槛要求，仅说明购入门槛，如果二级市场购买mTBILL的部分份额，能否即时兑换仍需进一步确认，且虽然项目方阐述为即时相应，但购入和赎回的过程需要一定时间。</strong></p>
+<p><img alt="深入探讨Coinbase投资的RWA项目Midas" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/892bf86255811e67d7902091588ae67d.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>mTBILL产品的流程图如下，用户完成KYC和AML审核后，可以通过USDC的方式将代币打入合约，也可以通过银行电汇的方式存入资金，项目方将提供代币化票据mTBILL。<strong>但存疑的一点，mTBILL将以1：1比例追踪IB01.L，项目方并未阐述代币打入合约地址后代币的后续动向，比如将通过什么公司购入IB01.L，或者说默认为Midas项目方自行购买，但并无第三方进行监督，也没有像Ondo提供SPV作为风险隔离场所。</strong></p>
+<p><img alt="深入探讨Coinbase投资的RWA项目Midas" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/10f7283bc7cd1caa81f46bcaee12c873.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>除此之外，Midas在RWA板块主打的是无需可代币DeFi，在购入者买入mTBILL后，可在链上参与相关DeFi项目，主要是借贷，无需对方是否具备KYC资格，即可在市场上交易，但如果要进行资产赎回，赎回者必须满足KYC等相关审核。Midas此举是将mTBILL的出入口进行审查，过程中的行为并不受限。</p>
+<p>费率方面，Midas在项目启动初期不收取发行费用，仅收取ETF管理费0.07%，后续是否收费尚未可知。</p>
+<p>总的来看，在大多数以机构和高净值投资者为主的RWA项目中，<strong>Midas协议着重强调RWA产品的链上DeFi用途</strong>，将 RWA 产品融入现有 DeFi 生态，提供产品额外收益率和利用率。虽然现阶段还未看到相关借贷协议的支持，不过 Midas 尚处于早期阶段，在 Coinbase 和 GSR 等机构的扶持下，DeFi 用例或将持续扩展。感兴趣的投资者，也需留意前文中所述的风险点——产品相关说明尚不完善。</p>
+]]></content:encoded>
+<pubDate>Sat, 30 Mar 2024 15:36:08 +0800</pubDate>
+<pubDate>Sat, 30 Mar 2024 15:36:08 +0800</pubDate>
+</item>
 
 <item>
 <title>行情：MOB日内涨幅145.84%，WIF日内涨幅22.34%</title>
