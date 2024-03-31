@@ -16264,3 +16264,21 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [头等仓：全面解析3A链游大作Illuvium](https://www.panewslab.com/zh/articledetails/4isg8xft.html)
 append_entries: 2
 Finish: 2024-03-31 02:02:39.556284
+------------------------------------------------------
+Started: 2024-03-31 02:27:05.755844
+Existing_entries: 768
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 87
+Summarized using GPT-3.5-turbo-1106
+Append: [Synthetix通过在Arbitrum上部署Synthetix V3的提案](https://www.panewslab.com/zh/sqarticledetails/y7rydhu6.html)
+Token length: 88
+Summarized using GPT-3.5-turbo-1106
+Append: [Synthetix通过在Solana和Sui上推出Synthetix Perps的提案](https://www.panewslab.com/zh/sqarticledetails/2oy9tgng.html)
+Token length: 94
+Summarized using GPT-3.5-turbo-1106
+Append: [BNB Chain DappBay高风险警报列表新增Alaya AI、TIFI、VizslaSwap等](https://www.panewslab.com/zh/sqarticledetails/x1ult48w.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [头等仓：全面解析3A链游大作Illuvium](https://www.panewslab.com/zh/articledetails/4isg8xft.html)
+append_entries: 4
+Finish: 2024-03-31 02:27:14.805606
