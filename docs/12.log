@@ -13497,3 +13497,12 @@ Existing_entries: 206
 Fetching from https://bitcoinist.com/feed
 append_entries: 0
 Finish: 2024-03-31 09:52:11.808690
+------------------------------------------------------
+Started: 2024-03-31 10:15:14.924578
+Existing_entries: 206
+Fetching from https://bitcoinist.com/feed
+Token length: 3275
+Summarized using GPT-3.5-turbo-1106
+Append: [Tornado Cash Co-Founder Seeks To Dismiss Charges – Details](https://bitcoinist.com/tornado-cash-co-founder-seeks-to-dismiss-charges/)
+append_entries: 1
+Finish: 2024-03-31 10:15:16.884805
