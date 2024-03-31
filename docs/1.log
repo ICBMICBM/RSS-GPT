@@ -16333,3 +16333,15 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [头等仓：全面解析3A链游大作Illuvium](https://www.panewslab.com/zh/articledetails/4isg8xft.html)
 append_entries: 1
 Finish: 2024-03-31 03:17:10.907244
+------------------------------------------------------
+Started: 2024-03-31 03:26:19.721002
+Existing_entries: 773
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 209
+Summarized using GPT-3.5-turbo-1106
+Append: [赵长鹏：新项目Giggle Academy仍在招聘中，计划先推出安卓版本课程](https://www.panewslab.com/zh/sqarticledetails/imqjstgn.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [头等仓：全面解析3A链游大作Illuvium](https://www.panewslab.com/zh/articledetails/4isg8xft.html)
+append_entries: 2
+Finish: 2024-03-31 03:26:25.889167
