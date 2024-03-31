@@ -13677,3 +13677,12 @@ Existing_entries: 208
 Fetching from https://bitcoinist.com/feed
 append_entries: 0
 Finish: 2024-03-31 14:57:21.007061
+------------------------------------------------------
+Started: 2024-03-31 15:10:55.531956
+Existing_entries: 208
+Fetching from https://bitcoinist.com/feed
+Token length: 2985
+Summarized using GPT-3.5-turbo-1106
+Append: [DOGE Day Afternoon: Open Interest Breaks $2 Billion, Setting New Records](https://bitcoinist.com/doge-open-interest-breaks-2-billion/)
+append_entries: 1
+Finish: 2024-03-31 15:11:00.220372
