@@ -16516,3 +16516,15 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [头等仓：全面解析3A链游大作Illuvium](https://www.panewslab.com/zh/articledetails/4isg8xft.html)
 append_entries: 1
 Finish: 2024-03-31 05:55:55.402485
+------------------------------------------------------
+Started: 2024-03-31 06:11:19.702361
+Existing_entries: 783
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 60
+Summarized using GPT-3.5-turbo-1106
+Append: [行情：以太坊突破3600美元](https://www.panewslab.com/zh/sqarticledetails/p13ypxjh.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [头等仓：全面解析3A链游大作Illuvium](https://www.panewslab.com/zh/articledetails/4isg8xft.html)
+append_entries: 2
+Finish: 2024-03-31 06:11:23.205242
