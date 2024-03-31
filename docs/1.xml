@@ -4,12 +4,13 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+
 <item>
 <title>如何理解 Vitalik 新文对以太坊扩容的思考？</title>
 <link>https://www.panewslab.com/zh/articledetails/xhtjs0g7.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/xhtjs0g7.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Vitalik Buterin的文章对以太坊的扩容思考包括Blob数据包的工作原理和使用优化、坎昆升级后Blob空间利用问题、DAS数据可用性采样以及Rollup项目方的发展现状。他强调了Blob数据包对于降低EVM负担的重要性，指出Rollup方案还有提升性能空间，并对未来分片技术的应用提出展望。他对layer2项目方的发展不满以及改进方向进行了深入探讨，鼓励加速发展。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。Vitalik Buterin的文章对以太坊的扩容思考包括Blob数据包的工作原理和使用优化、坎昆升级后Blob空间利用问题、DAS数据可用性采样以及Rollup项目方的发展现状。他强调了Blob数据包对于降低EVM负担的重要性，指出Rollup方案还有提升性能空间，并对未来分片技术的应用提出展望。他对layer2项目方的发展不满以及改进方向进行了深入探讨，鼓励加速发展。 <div>
 <p>如何理解Vitalik Buterin新文对以太坊的扩容思考？有人说Vitalik给Blob铭文喊单，离大谱。那么Blob 数据包如何工作？坎昆升级后Blob空间为啥得不到高效利用？DAS数据可用性采样是为分片做准备？</p>
 <p>在我看来，坎昆升级后性能够用了，Vitalik是对Rollup发展忧心忡忡。Why？接下来，我来谈谈我的理解：</p>
 <p>1）之前多次解释过，Blob是和EVM calldata脱钩的一个直接可被共识层调取的临时数据包，直接好处是，EVM在执行交易时可以不访问Blob数据，因此产生不了较高的执行层计算费用。</p>
@@ -35,9 +36,7 @@
 <p>其实，现在唯一的不确定留给layer2自己了，该如何加速发展呢？</p>
 ]]></content:encoded>
 <pubDate>Sun, 31 Mar 2024 16:32:12 +0800</pubDate>
-<pubDate>Sun, 31 Mar 2024 16:32:12 +0800</pubDate>
 </item>
-
 <item>
 <title>行情：OAX日内涨幅超60%，FIRO日内涨幅30%</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/q6ynabk6.html</link>
