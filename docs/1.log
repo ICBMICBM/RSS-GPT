@@ -16372,3 +16372,18 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [头等仓：全面解析3A链游大作Illuvium](https://www.panewslab.com/zh/articledetails/4isg8xft.html)
 append_entries: 3
 Finish: 2024-03-31 03:42:54.819596
+------------------------------------------------------
+Started: 2024-03-31 03:49:53.139493
+Existing_entries: 777
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 121
+Summarized using GPT-3.5-turbo-1106
+Append: [CME美联储观察：美联储5月维持利率不变概率为95.8%](https://www.panewslab.com/zh/sqarticledetails/pgo61wnz.html)
+Token length: 237
+Summarized using GPT-3.5-turbo-1106
+Append: [HKVAEX发布分阶段暂停及关闭公告，网站拟于5月1日关闭](https://www.panewslab.com/zh/sqarticledetails/epeh23kq.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [头等仓：全面解析3A链游大作Illuvium](https://www.panewslab.com/zh/articledetails/4isg8xft.html)
+append_entries: 3
+Finish: 2024-03-31 03:50:00.743705
