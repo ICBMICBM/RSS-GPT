@@ -16228,3 +16228,27 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [头等仓：全面解析3A链游大作Illuvium](https://www.panewslab.com/zh/articledetails/4isg8xft.html)
 append_entries: 1
 Finish: 2024-03-31 00:00:16.406499
+------------------------------------------------------
+Started: 2024-03-31 01:17:09.317281
+Existing_entries: 762
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 450
+Summarized using GPT-3.5-turbo-1106
+Append: [Farcaster即将完成由Paradigm领投的融资，估值约10亿美元](https://www.panewslab.com/zh/sqarticledetails/9rxuyg80.html)
+Token length: 74
+Summarized using GPT-3.5-turbo-1106
+Append: [Pendle联创：已夺回官方推特控制权，Pendle协议安全](https://www.panewslab.com/zh/sqarticledetails/pxey7h3h.html)
+Token length: 126
+Summarized using GPT-3.5-turbo-1106
+Append: [某鲸鱼花费397.5枚ETH买入730万枚MFER，浮亏17.8万美元](https://www.panewslab.com/zh/sqarticledetails/a1zhy4e7.html)
+Token length: 3514
+Summarized using GPT-3.5-turbo-1106
+Append: [手把手教你如何使用RaaS创建Rollup？](https://www.panewslab.com/zh/articledetails/0kl406tq.html)
+Token length: 189
+Summarized using GPT-3.5-turbo-1106
+Append: [期权交易平台Arrow Markets完成400万美元A轮融资](https://www.panewslab.com/zh/sqarticledetails/z3jwthkj.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [头等仓：全面解析3A链游大作Illuvium](https://www.panewslab.com/zh/articledetails/4isg8xft.html)
+append_entries: 6
+Finish: 2024-03-31 01:17:22.354123

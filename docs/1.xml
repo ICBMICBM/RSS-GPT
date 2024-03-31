@@ -4,6 +4,152 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>Farcaster即将完成由Paradigm领投的融资，估值约10亿美元</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/9rxuyg80.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/9rxuyg80.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：这些信息是积极的。根据彭博社报道，Farcaster开发商Merkle Manufactory即将完成一轮由Paradigm领投的融资，估值约为10亿美元。Coinbase前副总裁、Merkle联合创始人Dan Romero证实了该初创公司正在筹集资金。Merkle Manufactory成立于2020年，其曾于2022年7月完成3000万美元融资，a16z领投。目前，初创公司已有多家知名投资机构参投，展现出良好的发展潜力。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月31日消息，据彭博社援引知情人士的话称，Farcaster开发商Merkle Manufactory即将完成一轮由Paradigm领投的融资，估值约为10亿美元。Coinbase前副总裁、Merkle联合创始人Dan Romero在3月29日证实，该初创公司正在筹集资金，但未具体说明融资金额。 Merkle Manufactory成立于2020年，其曾于2022年7月完成3000万美元融资，a16z领投，Standard Crypto、Elad Gil、1confirmation、Scalar Capital、First Round Capital、Volt Capital、Coinbase Ventures、Haystack、Multicoin Capital、Offline Ventures、Archetype、Canonical Crypto、Proof Group、Floodgate、Balaji Srinivsasan、6529、Ray Tonsing等参投。</p>
+]]></content:encoded>
+<pubDate>Sun, 31 Mar 2024 09:07:59 +0800</pubDate>
+<pubDate>Sun, 31 Mar 2024 09:07:59 +0800</pubDate>
+</item>
+<item>
+<title>Pendle联创：已夺回官方推特控制权，Pendle协议安全</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/pxey7h3h.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/pxey7h3h.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Pendle创始人在推特上宣布团队已夺回Pendle官方推特账户的控制权，没有资金处于风险之中，Pendle协议是安全的。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月31日消息，Pendle创始人在推特发文称，团队已夺回Pendle官方推特帐户控制权。没有资金处于风险之中，Pendle协议安全。</p>
+]]></content:encoded>
+<pubDate>Sun, 31 Mar 2024 08:54:01 +0800</pubDate>
+<pubDate>Sun, 31 Mar 2024 08:54:01 +0800</pubDate>
+</item>
+<item>
+<title>某鲸鱼花费397.5枚ETH买入730万枚MFER，浮亏17.8万美元</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/a1zhy4e7.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/a1zhy4e7.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是消极的。据Lookonchain监测，某鲸鱼将398枚ETH（140万美元）桥接到Base，并以0.1924美元价格购买了730万枚MFER，共花费397.5枚ETH（140万美元）。按当前价格计算，该鲸鱼已亏损17.8万美元。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月31日消息，据Lookonchain监测，某鲸鱼将398枚ETH（140万美元）桥接到Base，并以0.1924美元价格购买了 730万枚MFER，共花费397.5枚ETH（140万美元）。按当前价格计算，该鲸鱼已亏损17.8万美元。</p>
+]]></content:encoded>
+<pubDate>Sun, 31 Mar 2024 08:51:09 +0800</pubDate>
+<pubDate>Sun, 31 Mar 2024 08:51:09 +0800</pubDate>
+</item>
+<item>
+<title>手把手教你如何使用RaaS创建Rollup？</title>
+<link>https://www.panewslab.com/zh/articledetails/0kl406tq.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/0kl406tq.html</guid>
+<content:encoded><![CDATA[
+<div> 这些信息是积极的。<br><br>摘要：<br>Rollup as a Service (RaaS) 是一种新的商业模式，让用户无需编码即可创建和部署自己的L2 Rollup。Conduit 是一个易于使用的RaaS提供商，能够快速简单地运行以太坊虚拟机（EVM）L2 Rollup。用户可以将ETH桥接到Rollup上，并部署智能合约和dapp。Conduit提供区块浏览器，方便用户在链上可视化所有内容。创建Rollup只需几分钟，无需编写代码，提供了轻松实现L2扩展的可能性。 <div>
+<p>撰文：A Fox</p>
+<p>编译：深潮TechFlow</p>
+<p>本文摘要：</p>
+<ul>
+<li>Rollup as a Service (RaaS) 是一种新的商业模式，允许任何人在没有编码的情况下创建和部署自己的L2 Rollup。</li>
+<li>Conduit 是一个非常易于使用的RaaS提供商，下面您将看到使用几次点击有多么快速简单地运行以太坊虚拟机（EVM）L2 Rollup。</li>
+<li>当您的Rollup处于活动状态时，您可以将ETH桥接到其中并部署智能合约和dapp，例如，我创建了一个称为DOG的代币并将其转移。</li>
+<li>Conduit 还为您设置了一个区块浏览器，因此您可以轻松地在链上可视化所有内容。</li>
+</ul>
+<h3>正文</h3>
+<p>由于以太坊主网变得过于缓慢和昂贵，因此我们看到了以太坊L2的增长，其中大部分是我之前讨论过的 Rollup。</p>
+<p>要创建自己的Rollup，需要相对深入地理解区块链，但最近，"Rollup as a service"（RaaS）提供商的增长意味着您可以在几分钟内部署一个L2 Rollup，而无需编写一行代码！</p>
+<p>本文，我将通过观察Conduit，稍微探讨一下RaaS的工作原理。</p>
+<h3>Rollups 和 RaaS</h3>
+<p>随着以太坊寻求扩展以每秒处理更多交易，第 2 层 (L2) 解决方案不断增长，我们在过去的文章中研究了 EVM L2。</p>
+<p>Rollup 是今天以太坊上最受欢迎的L2类型。简要地提醒一下，Rollup 是一个单独的区块链，执行交易然后将Rollup 版本发布回主链。</p>
+<p>已经有成十上百的L2 Rollups的例子，如下图所示。</p>
+<p><img alt="手把手教你如何使用RaaS创建Rollup？" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/ea6a1c7a2d8449b2a36692cbd48c776f.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>然而，尽管出现了诸如 Optimism 和 Arbitrum 这样的链，它们创建了自己的工具包以更快地创建L2，但创建自己的L2仍然不是一件小事，并且需要一定的技术知识。此外，您需要运行节点来支持L2，这也可能变得复杂。</p>
+<p>这一挑战催生了一种新型的业务，即提供"Rollup as a Service"（RaaS）。通过RaaS，任何人都可以通过只需按几下按钮即可在几分钟内创建和部署自己的Rollup，然后开始将ETH桥接并在他们自己的L2上运行智能合约和dapp！</p>
+<p>下面我将向您展示使用RaaS创建Rollup有多简单。</p>
+<h3>Conduit</h3>
+<p>RaaS 领域已经有很多竞争对手，包括 Astria、Caldera、AltLayer、 Conduit 等。</p>
+<p>在本文中，我选择使用 Conduit，我发现它非常快速且易于入门。</p>
+<p>按照他们的说法，Conduit 允许您："在几分钟内部署一个Rollup，而不是几个月。" 提供 "完全托管、生产级、可定制的以太坊、Optimism、Arbitrum、Base、Mode 和 Zora 的 Rollup。"</p>
+<p><img alt="手把手教你如何使用RaaS创建Rollup？" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/a0cf4056b7dc29acc0317d93665dbec7.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>他们的登陆页面非常清楚地展示了使用Conduit创建Rollup有多么快速简单。</p>
+<p><img alt="手把手教你如何使用RaaS创建Rollup？" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/13f4c8268bb455d663f31d7a91a04396.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>让我们在下面的步骤中进行一下了解。</p>
+<p><strong>创建一个Rollup</strong></p>
+<p>首先，在登陆页面上选择部署按钮，您将被要求创建一个账户和组织，然后立即被带到设置页面来部署您的第一个Rollup。</p>
+<p><img alt="手把手教你如何使用RaaS创建Rollup？" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/cb0f28866f683dfa24d5ceca21044c8b.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>使用 Conduit 创建主网 Rollup 将每月费用为 $3,000，无论您是否需要主网 Rollup，您仍然可以使用测试网 Rollup 来开始，每月仅需 $50。</p>
+<p>Conduit 允许您使用 Optimism 的 OP 堆栈或 Arbitrum 的 Orbit 堆栈。如果选择 Orbit，您会发现后续的选项也会相应更改。</p>
+<p><img alt="手把手教你如何使用RaaS创建Rollup？" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/81aed5bf8aaf1f943d34be75d15e2a58.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>结算层是保证交易最终性和安全性的层，而数据可用性层是在任何给定时刻重建Rollup所需的信息的维护者。</p>
+<p>两者都很重要，但作为一种简化解决方案，结算应该真正在像以太坊这样的更去中心化的区块链上，具有最高的金融安全性，而数据可用性可以在像 Celestia 这样的更集中的区块链上，该区块链支持以更低成本存储更多数据。</p>
+<p>在我的测试网络示例中，我坚持使用了 OP 堆栈，使用以太坊作为结算层，Celestia 作为 DA。尽管如此，Conduit 允许您混合匹配这些，找到最适合您特定用例的方式。</p>
+<p>当您继续时，您将被要求支付每月 $50 的费用。</p>
+<p><img alt="手把手教你如何使用RaaS创建Rollup？" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/3d58c5ec258e60a355f406906989e425.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>支付完成后，您就完成了！在几分钟内，您就配置了自己的第一个L2 Rollup。</p>
+<p>您现在只需要等待 15-20 分钟，Conduit 就会设置好一切，一旦完成，部署将显示如下：</p>
+<p><img alt="手把手教你如何使用RaaS创建Rollup？" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/6c998d0f4720060dc489d1bb64c61f93.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>您的组织和 Rollup 的名称可以编辑。您现在可以开始使用您的新L2 Rollup了！</p>
+<p><strong>开始使用您的Rollup</strong></p>
+<p>在部署页面选择您的Rollup后，Rollup 信息将显示如下：</p>
+<p><img alt="手把手教你如何使用RaaS创建Rollup？" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/d7d1eb0e8510d731772be82f6f0789cc.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Rollup 配置设置显示在右侧，黑色终端框中的输出表示L2正在运行。目前您不需要真正理解输出的含义，您所需要看到的是它持续更新。</p>
+<p>您需要选择 "添加到钱包" 将网络添加到您的 Metamask 或等价钱包中。</p>
+<p><img alt="手把手教你如何使用RaaS创建Rollup？" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/ddae7a5b20be787452781e376e5b08ff.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>然后，您应该在桥接部分点击 Create Bridge"，这将打开一个名为 SuperBridge 的桥接软件。</p>
+<p><img alt="手把手教你如何使用RaaS创建Rollup？" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/3d9756b2ccdd5f6d4006506e5adfbb57.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>由于我们在测试网络上，您将能够将 Sepolia ETH 桥接到您的新 Rollup 上。如果您没有任何 Sepolia ETH，您可以从这个水龙头获取。</p>
+<p>我几次桥接了超过 1 ETH，最终在我的新L2 Rollup上得到了 2 个测试网络ETH，在我的Metamask钱包上可以看到！</p>
+<p><img alt="手把手教你如何使用RaaS创建Rollup？" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/da4523c6914b156a955449754ee7f459.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>现在，您已经将测试网络ETH桥接到了您的新Rollup上，您可以开始使用它了！</p>
+<p><strong>进一步使用您的Rollup</strong></p>
+<p>现在您拥有了自己的L2 Rollup，您可以直接部署代码到其中。</p>
+<p>首先打开 Remix IDE，我已经在我的名为“编写您的第一个智能合约”的教程中解释过如何使用它。</p>
+<p>然后将下面的代码复制到 Remix 中的一个新文件中。</p>
+<p><img alt="手把手教你如何使用RaaS创建Rollup？" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/8b65e41bf9b11ccfd4c3f52824742344.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>将环境更新为“Injected Provider”，并将您的 Metamask 设置为新的 Rollup。在橙色部署按钮旁边给您的代币命名和符号，在这种情况下，我写了“Dog, DOG”，然后点击部署。</p>
+<p><img alt="手把手教你如何使用RaaS创建Rollup？" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/077eb35e6309c84fc236a4a4d759a33a.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>您将需要在 Metamask 中签署此交易，当交易被处理时，您将刚刚在您的新L2 Rollup上创建了一个新代币，这酷了！</p>
+<p>如果我打开Metamask，我可以通过复制 Remix 中创建的合约地址将该代币添加到我的钱包中。</p>
+<p><img alt="手把手教你如何使用RaaS创建Rollup？" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/1fa60f3c477492b211c144a8b5b26933.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>这样做后，我可以看到我的新Dog代币的余额为100000 DOG。在Metamask中，我可以将100 DOG发送到网络上的另一个地址。</p>
+<p><img alt="手把手教你如何使用RaaS创建Rollup？" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/1440785851c007f796551ce97a5efecc.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>多么惊人，我们不仅刚刚创建了我们自己的Rollup，还在这个新区块链上创建了我们自己的Dog代币并将其发送到这个新链上的另一个账户。</p>
+<p><strong>集成</strong></p>
+<p>正如您所看到的，您可以在您的新L2区块链上做任何您想做的事情，比如创建自己的代币、智能合约和dapp。</p>
+<p>您可以拥有从简单代币到像Sushiswap这样的复杂AMM运行在您的Rollup上，正如我们看到它在几个链上运行的一样。</p>
+<p><img alt="手把手教你如何使用RaaS创建Rollup？" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/cf3f46f38db278f8bf737ed7a8035071.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>对于与不同项目的这种集成，Conduit 有一个集成页面，帮助您将这些应用程序部署到您的新Rollup上。</p>
+<p><img alt="手把手教你如何使用RaaS创建Rollup？" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/79dbeca3de5ce3be3c6ee5a14dc9058d.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>当您在此页面上选择任何dapp上的“Get”时，一个类型表单将弹出，您可以解释为什么要将此dapp与您的Rollup集成。</p>
+<p>拥有这样一个与数十个最受欢迎的dapp之一交流的简单界面，对于启动一个全新的Rollup来说是一件非常有帮助的事情。</p>
+<p>当您对您测试的所有内容满意时，您可以将Rollup 迁移到主网。但是，升级每月需要 3000 美元，并且您需要安排与 Conduit 的演示以使其生效。</p>
+<p><img alt="手把手教你如何使用RaaS创建Rollup？" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/07c6191b898cfe55cd27c55248ddf2ac.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>在 Explorer 上确认我们所做的事情</strong></p>
+<p>在尝试了我的新测试网Rollup后，我可以通过跳入 Conduit 也为您设置的区块浏览器来确认发生的一切。</p>
+<p>例如，我可以回到浏览器并查看我的地址，以查看已完成的交易和我拥有的代币。</p>
+<p><img alt="手把手教你如何使用RaaS创建Rollup？" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/9ad56d295c1058b877686fa8c05b3527.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>通过在左侧选择区块链选项卡，然后单击“Deposits (L1-&gt;L2)” 之类的选项，我可以获取更多特定于区块链的信息，在这种情况下，您可以看到我桥接的 Sepolia ETH。</p>
+<p><img alt="手把手教你如何使用RaaS创建Rollup？" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/c4f612e283e9ce2a7854fda666464a29.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>在选择代币后，我还可以看到我部署的新DOG代币。</p>
+<p><img alt="手把手教你如何使用RaaS创建Rollup？" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/8aa1f21c4e30a3c8acc8633f3d80c89f.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>我们可以更深入地研究此代币，并查看有两个持有者，因为我将100 DOG发送到网络上的另一个账户。</p>
+<p><img alt="手把手教你如何使用RaaS创建Rollup？" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/c0a3845bfd6842106299cfe33fd4da9b.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>我相信很明显，我只是初步探索了拥有自己的新Rollup所能实现的功能的表面。在未来的帖子中，我可能会深入探讨不同的用例。</p>
+<p>最令人着迷的是，由于使用RaaS已经变得轻而易举地创建Rollup，因此L2很可能会变得普遍化，将会有成百上千个存在。</p>
+<p>那么，真正的问题将是如何将您的L2 Rollup与其他的Rollup区分开来？</p>
+]]></content:encoded>
+<pubDate>Sun, 31 Mar 2024 08:45:40 +0800</pubDate>
+<pubDate>Sun, 31 Mar 2024 08:45:40 +0800</pubDate>
+</item>
+<item>
+<title>期权交易平台Arrow Markets完成400万美元A轮融资</title>
+<link>https://www.panewslab.com/zh/sqarticledetails/z3jwthkj.html</link>
+<guid>https://www.panewslab.com/zh/sqarticledetails/z3jwthkj.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Arrow Markets完成了400万美元的A轮融资，由Framework Ventures、Delphi Ventures和Avalanche Blizzard生态系统基金等机构参投。该期权交易平台旨在利用执行请求（RFE）机制为Avalanche链上的期权合约提供报价。 <div>
+<p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月31日消息，据Bitcoin.com报道，基于Avalanche的期权交易平台Arrow Markets完成400万美元A轮融资，Framework Ventures、Delphi Ventures和Avalanche Blizzard生态系统基金等机构参投。Arrow Markets旨在利用执行请求（RFE）机制为Avalanche链上的期权合约提供报价。</p>
+]]></content:encoded>
+<pubDate>Sun, 31 Mar 2024 08:41:20 +0800</pubDate>
+<pubDate>Sun, 31 Mar 2024 08:41:20 +0800</pubDate>
+</item>
 
 <item>
 <title>黄立成化身麻吉“大割”，卷走数十亿？</title>
