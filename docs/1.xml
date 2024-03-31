@@ -5,14 +5,55 @@
 <link>https://rss.panewslab.com/</link>
 
 <item>
+<title>AI 与“意图架构”相结合的Aperture Finance究竟是什么？</title>
+<link>https://www.panewslab.com/zh/articledetails/kn60crq4.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/kn60crq4.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了Aperture Finance项目及其意图平台的发展历程，以及其与人工智能和意图架构的结合。项目背景、意图赛道的概念和主要概念项目、求解器网络与子产品、代币模型等方面均有涉及。Aperture引入ChatGPT作为交互方式，AI叙事又增加新亮点，未来可能有进一步发币安排和针对Airdrop的宣发活动。 <div>
+<p>作者：Mia，ChainCatcher</p>
+<p>随着Aperture Finance意图平台的交易总量突破13亿美元，用户数量突破150k，以及近期频频被Aperture的消息刷屏，该项目上币的风声开始流出， 引起了加密社区的关注。</p>
+<h3>AI与“意图架构”</h3>
+<p>Aperture在推特上发布的愿景视频引发了大家对Aperture产品终极形态的畅想——用户只需要跟聊天机器人说，帮我尝试领取Airdrop空投代币，系统就能自动根据用户的钱包地址和授权，去各个链条上遍历有空投的项目，并自动完成领取。这种自动化可以为用户大大减少在推特上跟踪项目方更新的时间，免除了用户被钓鱼网站欺骗的风险，更直接减少了与每个项目申领网站直接交互的时间等等。依照这个发展方向，估计让机器人直接帮用户撸空投也指日可待了。</p>
+<p>这个场景就是典型的人工智能（AI）与意图架构（Intent-based Infra）相互赋能的直接例子。通过与ChatGPT直接文字互动，表达需求，系统自动提取识别并确认用户意图，提交给求解器网络，求解器网络寻求最优解法与路径，最后通过竞标模式交给最优的求解器去执行。</p>
+<p><img alt="AI 与“意图架构”相结合的Aperture Finance究竟是什么？" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/650ddf69771c09d0dc61bed61cc7f05b.webp" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>类似的场景很多，包括通过求解器自动完成交易策略，实现仓位优化，周期性地抓取数据做分析等等。AI与意图架构相结合，将会是对传统技术架构和用户体验的彻底颠覆。</p>
+<h3>回顾Aperture的背景</h3>
+<p>Aperture最早是在2022年出圈的，创始人均为硅谷科技公司背景，有来自Google、Netflix和AWS的资深程序员和产品经理，教育背景包括斯坦福大学、康奈尔大学和加州大学伯克利分校等。</p>
+<p>2022年主打DeFi 跨链投资生态系统，尤其是Terra上的波动性对冲策略。2022年2月完成 $5.3M 种子轮和战略轮融资，由 ParaFi Capital和 Arrington Capital领投，其他投资者还包括Costanoa Ventures、Divergence Ventures、Rarestone Capital和Krypital Group。</p>
+<p>平台在短短3周内获得了$120M的TVL。项目提供的是UST入金的合成股票代币策略，稳定的策略为用户赚取更多的UST，但是随着Terra算法稳定币的崩盘，UST巨幅贬值。同一时期还遭逢Mirror Protocol被黑客攻击等事件，不过Aperture因为妥善周到的善后，赢得了投资人和用户的一致口碑。Aperture也是少数在Terra结束后坚持同一个品牌的项目方。</p>
+<p>自从2022年下旬，随着FTX崩盘等诸多事件，行情急转直下，许多策略项目纷纷结束运营，知名项目包括Friction和RoboVault等。Aperture率先做了从策略到底层架构的转型，提出了“Composable Automation”，即可组合的自动化策略。从提供投资策略转为提供基础设施，让用户可以自行搭建策略。这种以用户需求为出发点，根据用户意图自动寻找最优解的架构，就是意图架构的前身。截止本文完稿，Aperture是意图赛道上唯一具有实际产品和大规模交易量的项目。</p>
+<h3>意图赛道的背景</h3>
+<p>2023年6月，投资机构Paradigm发文《意图结构及其风险》（Intent-Based Architectures and Their Risks），提出了一种定义结构而非过程的开发架构，为意图架构拉开序幕。随着意图概念在市场上的持续发酵，Binance研究院发文《解密意图中心叙事》（Demystifying the Intent-Centric Thesis），将Aperture作为意图生态的一员。</p>
+<p>意图赛道上，最近大家讨论较多的是“意图层”概念（Intent Layer），其核心理念是通过引入用户友好的界面，如移动钱包，作为与 DeFi 互动的中介，降低了 DeFi 操作的门槛。在这一层面上，“意图”不再仅限于用户与 DeFi 平台的直接互动，而是一种链外签署的信息，代表了用户希望实现的状态转换和具体编码的结果。这种设计模式改善了用户体验和执行质量，用户只需批准他们希望的结果，复杂的操作由解析者处理。同时，它提高了效率，多个意图可以相互抵消或产生经济收益，提高了整体效率。此外，链下计算的灵活性有助于提高效率，因为它不受链上计算限制的影响。这种基于意图的设计模式为 DeFi 带来了多重优势，极大地改善了用户体验和执行质量，提高了整体效率。</p>
+<p>意图赛道的主要概念项目包括Anoma Network、Particle Network、CowSwap和Essential。Aperture在“意图层”方面的创新是提出了以ChatGPT渠道的人类自然语言交互方式。</p>
+<h3>求解器网络与子产品</h3>
+<p>据悉，目前Aperture Fiance的自建意图架构已经初具雏形，开发者可以通过API与平台直接交互。我们还在等待ChatGPT交互体验的具体上线时间。</p>
+<p>Aperture Finance的求解器品类包括：</p>
+<p>流动性管理意图，目前在9条EVM兼容链上部署，包括Ethereum主网、Arbitrum、Optimism、Polygon、Base、BNB、Avalance、Scroll和Manta。提供基于未来行情的条件触发式仓位管理，包括基于币价、LP成分比例和时间的自动管理。例如，如果ETH价格上涨至$4,500并且在该价位保持48小时，则对ETH/USDC的LP仓位做出调整。累计策略交易量达到10亿美金。</p>
+<p>ApertureSwap，这是Aperture基于UniSwap V3在Manta Pacific链条上部署的去中心化交易所（DEX），为流动性提供方提供自定义意图调仓。在Manta生态的DEX品类中，目前TVL仅次于QuickSwap，但交易量为全链最高。</p>
+<p>时序性意图（Temporal Intents），包括附带收益的限价单和大型交易订单细分优化等。</p>
+<p>订阅式意图（Subscription Intents），包括周期性交易和调仓等。</p>
+<p>从Aperture分享的资料看来，项目方会根据安全性、求解效率和资费，将网络内求解器分成几个层级，在不同层级内用不同的逻辑实现竞争和结果选优。Aperture在继续扩容求解器网络之外，也看到他们和其他大型求解器开发团队达成合作，例如Propeller Heads和Enso Finance，从而实现加速扩张。</p>
+<p><img alt="AI 与“意图架构”相结合的Aperture Finance究竟是什么？" src="https://cdn-img.panewslab.com/yijian/2024/3/30/images/706d3913a81d67b7902227947c6e5634.webp" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<h3>代币模型</h3>
+<p>根据Aperture的代币经济学，Aperture的代币会有三大功能：</p>
+<p>代币在求解器网络中扮演一个核心角色。随着求解器网络的放开，会有更多第三方的求解器加入，这时候，Aperture会要求第三方开发者质押Aperture项目代币，从而实现问责机制，即针对无法完成求解或者有恶性行为的求解器，做削减质押代币的惩罚。对于一直业绩优秀的求解器，会有代币激励。</p>
+<p>代币用来抵扣平台手续费。Aperture作为一个意图平台，目前交易总量已经超过$1.5B，根据官方消息，未来有收费计划，所以代币作为费用抵扣会是一个另一个核心用途。</p>
+<p>用于治理（Governance）。用户通过质押可以提交提案，对平台的各种费率、合作伙伴经费、DAO资金的使用等方面做决定。</p>
+<p>此外，Aperture在近期发布了Airdrop活动细则，我们期待未来会有更详细的信息。意图赛道目前仍在持续升温，Aperture引入ChatGPT作为交互方式，AI叙事又增加了新亮点。项目方近期可能有进一步发币安排，以及针对Airdrop的宣发活动，我们拭目以待！</p>
+]]></content:encoded>
+<pubDate>Sun, 31 Mar 2024 10:29:00 +0800</pubDate>
+<pubDate>Sun, 31 Mar 2024 10:29:00 +0800</pubDate>
+</item>
+
+<item>
 <title>Synthetix通过在Arbitrum上部署Synthetix V3的提案</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/y7rydhu6.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/y7rydhu6.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Synthetix在推特上宣布社区已投票通过SIP-367提案，支持率达100%。该提案提议在Arbitrum上部署Synthetix V3。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。Synthetix在推特上宣布社区已投票通过SIP-367提案，支持率达100%。该提案提议在Arbitrum上部署Synthetix V3。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月31日消息，Synthetix在推特发文称，社区已投票通过SIP-367提案，支持率达100%。该提案提议在Arbitrum上部署Synthetix V3。</p>
 ]]></content:encoded>
-<pubDate>Sun, 31 Mar 2024 10:21:51 +0800</pubDate>
 <pubDate>Sun, 31 Mar 2024 10:21:51 +0800</pubDate>
 </item>
 <item>
@@ -20,10 +61,9 @@
 <link>https://www.panewslab.com/zh/sqarticledetails/2oy9tgng.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/2oy9tgng.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Synthetix社区已通过提案STP-17和STP-18，计划在Solana和Sui上推出Synthetix Perps。这将为用户提供更多选择，并有望增加平台的用户基础和生态发展。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。Synthetix社区已通过提案STP-17和STP-18，计划在Solana和Sui上推出Synthetix Perps。这将为用户提供更多选择，并有望增加平台的用户基础和生态发展。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月31日消息，Synthetix推特发文称，社区已投票通过提案STP-17和STP-18，分别提议在Solana和Sui上推出 Synthetix Perps。</p>
 ]]></content:encoded>
-<pubDate>Sun, 31 Mar 2024 10:18:17 +0800</pubDate>
 <pubDate>Sun, 31 Mar 2024 10:18:17 +0800</pubDate>
 </item>
 <item>
@@ -31,13 +71,11 @@
 <link>https://www.panewslab.com/zh/sqarticledetails/x1ult48w.html</link>
 <guid>https://www.panewslab.com/zh/sqarticledetails/x1ult48w.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：这些信息是消极的。BNB Chain更新了DappBay高风险DApp红色警报项目列表，本周涉及项目包括Alaya AI、TIFI、VizslaSwap。 <div>
+<div> <br /><br />摘要：这些信息是消极的。BNB Chain更新了DappBay高风险DApp红色警报项目列表，本周涉及项目包括Alaya AI、TIFI、VizslaSwap。 <div>
 <p><img src="https://image.panewslab.com/upload/img/bot111.jpg" /></p><p>PANews 3月31日消息，BNB Chain更新其DappBay高风险DApp红色警报（Red Alarm）项目列表，本周涉及项目包括Alaya AI、TIFI、VizslaSwap。</p>
 ]]></content:encoded>
 <pubDate>Sun, 31 Mar 2024 10:14:15 +0800</pubDate>
-<pubDate>Sun, 31 Mar 2024 10:14:15 +0800</pubDate>
 </item>
-
 <item>
 <title>ORDI突破74美元，日内涨幅15.2%</title>
 <link>https://www.panewslab.com/zh/sqarticledetails/owq0rkee.html</link>
