@@ -4,6 +4,39 @@
 <title>PANews News</title>
 <link>https://rss.panewslab.com/</link>
 
+<item>
+<title>如何理解 Vitalik 新文对以太坊扩容的思考？</title>
+<link>https://www.panewslab.com/zh/articledetails/xhtjs0g7.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/xhtjs0g7.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Vitalik Buterin的文章对以太坊的扩容思考包括Blob数据包的工作原理和使用优化、坎昆升级后Blob空间利用问题、DAS数据可用性采样以及Rollup项目方的发展现状。他强调了Blob数据包对于降低EVM负担的重要性，指出Rollup方案还有提升性能空间，并对未来分片技术的应用提出展望。他对layer2项目方的发展不满以及改进方向进行了深入探讨，鼓励加速发展。 <div>
+<p>如何理解Vitalik Buterin新文对以太坊的扩容思考？有人说Vitalik给Blob铭文喊单，离大谱。那么Blob 数据包如何工作？坎昆升级后Blob空间为啥得不到高效利用？DAS数据可用性采样是为分片做准备？</p>
+<p>在我看来，坎昆升级后性能够用了，Vitalik是对Rollup发展忧心忡忡。Why？接下来，我来谈谈我的理解：</p>
+<p>1）之前多次解释过，Blob是和EVM calldata脱钩的一个直接可被共识层调取的临时数据包，直接好处是，EVM在执行交易时可以不访问Blob数据，因此产生不了较高的执行层计算费用。</p>
+<p>目前平衡一系列因素，1个Blob大小为128kb，一笔Batch给主网的交易最多携带两个Blob，理想情况下，一个主网区块最终目标是承载16MB大约128个Blob数据包。</p>
+<p>因此Rollup项目方要尽可能平衡Blob区块数量、TPS交易容量、Blob主网节点存储成本等因素，目标以最优性价比使用Blob空间。</p>
+<p>以Optimism为例，目前一天大约50万笔交易，平均每2分钟Batch一次交易到主网，一次携带1个Blob数据包。为啥带1个，因为TPS就这么多用不到，当然也可以携带两个，那每个Blob的容量都不会满，却额外增加了存储费用，没必要。</p>
+<p>当随着Rollup链下交易量的提升，比如每天要处理5,000万笔交易怎么办呢？1、Compress压缩每笔Batch的交易量，尽可能让Blob空间内容量大量的交易；2、增加Blob数量；3、缩短Batch交易的频次；</p>
+<p>2）由于主网区块承载数据量受Gas Limit以及存储成本的影响，1个Slot区块128个Blob是理想状态，目前用不到那么多，Optimism 每2分钟才用1个，留给layer2项目方提升TPS，扩大市场用户量和生态繁荣度的空间还有很大很大。</p>
+<p>因此，坎昆升级后一段时间内，Rollup在使用Blob的数量、频次以及Blob空间竞价使用等方面并不“卷”。</p>
+<p>之所以Vitalik提Blobscription铭文是因为，这类打铭文能短暂增加交易量导致Blob使用需求增加，因此会扩大体积，用铭文做例子可以更深刻理解Blob的工作机制，Vitalik真正想表达的内容和铭文并没有太大关系。</p>
+<p>因为理论情况下，若有layer2项目方高频次且高容量向主网Batch交易，且每次把Blob区块拉满，只要它愿意承担高额的伪造交易Batch成本就会影响其他layer2对Blob的正常使用，但目前情况下，就像有人买算力对BTC进行51%硬分叉攻击一样，理论上可行，但实际缺乏利益动机。</p>
+<p>Blob的引入目标是为了减负EVM，而提升节点的运维能力，无疑为Rollup量身订做的方案。显然，当下并没有被高效使用，二层使用Gas费用会在“较低”区间稳定很长一段时间。这会给layer2市场长时间的“增兵屯粮”黄金发展窗口。</p>
+<p>3）那么，假使有一天layer2市场繁荣到一定程度，每天Batch到主网的交易成巨量，目前Blob数据包不够用怎么办？以太坊早已给出了解决方案：采用数据可用性抽样技术（DAS）：</p>
+<p>简单理解，就是把原先需要一个节点存储的数据可以同时分布在多个节点内，比如，每个节点存储全部Blob数据的1/8，8个节点组成一个小组来满足DA能力，相当于把目前的Blob存储容量又扩大了8倍。这其实也是未来Sharding分片阶段要做的事情。</p>
+<p>但目前Vitalik多次来重申这个，饶有韵味，似乎在告诫广大layer2项目方：不要总抱怨以太坊DA能力贵，以你们现在TPS容量都没把Blob数据包的能力开发到极致，赶紧加大火力搞生态，扩大用户和交易量吧，别总想着DA出逃搞一键发链的花活。</p>
+<p>后边，Vitalik又补充了一句，认为目前核心rollup中，只有Arbitrum 达到了Stage 1，虽然DeGate、Fuel等达到了Stage2，但他们还没有被更广泛群体熟悉。Stage2是Rollup安全性的最终目标，极少数Rollup达到了Stage 1 ，而大部分Rollup都在Stage 0阶段，可见Rollup行业的发展着实让Vitalik忧心忡忡啊。</p>
+<p>4）其实，单纯就扩容瓶颈问题而言，Rollup layer2方案可提升性能的空间还很大。</p>
+<p>1、通过数据压缩更高效地使用Blob空间，OP-Rollup目前有专门的Compressor组件来进行此工作，ZK-Rollup本身链下压缩SNARK/STARK证明向主网submit就是在“压缩”；</p>
+<p>2、尽可能降低layer2对主网的依赖，在特殊情况下才使用乐观证明技术来保障L2安全，比如，Plasma大部分数据都在链上，但是在存提款场景都是主网发生，因此主网可以承诺其安全性。</p>
+<p>这意味着，layer2应该只考虑把存提款这类重要操作才和主网强关联，这样即减轻了主网负担，又增强了L2自身性能。之前谈并行EVM时提到的Sequencer“并行处理”能力，在链下筛选、分类预处理大量的交易，以及Metis推行的混合Rollup，正常交易走OP-Rollup，特殊提款请求走ZK Route等等都有类似的考虑。</p>
+<p>以上。</p>
+<p>总之，Vitalik这篇思考以太坊未来扩容方案文章，非常有启发意义。尤其是对layer2发展现状的不满，对Blob性能空间的乐观肯定，以及对未来分片技术的展望，甚至还苦口婆心指出了一些layer2值得优化的方向等等。</p>
+<p>其实，现在唯一的不确定留给layer2自己了，该如何加速发展呢？</p>
+]]></content:encoded>
+<pubDate>Sun, 31 Mar 2024 16:32:12 +0800</pubDate>
+<pubDate>Sun, 31 Mar 2024 16:32:12 +0800</pubDate>
+</item>
 
 <item>
 <title>行情：OAX日内涨幅超60%，FIRO日内涨幅30%</title>
