@@ -4,6 +4,35 @@
 <title>Bitcoinist.com</title>
 <link>https://bitcoinist.com</link>
 
+<item>
+<title>Prisma Finance Hacker Continues On-Chain Tirade Following $11 Million Heist</title>
+<link>https://bitcoinist.com/prisma-finance-hacker-on-chain-11-million-heist/</link>
+<guid>https://bitcoinist.com/prisma-finance-hacker-on-chain-11-million-heist/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是消极的。文章讨论了以太坊网络上去中心化借贷协议Prisma Finance遭受一起价值1160万美元的闪电贷攻击。攻击者通过转移一部分盗窃所得到加密混合器Tornado Cash。攻击者声称自己是“白帽黑客”，并要求协议团队举行在线新闻发布会。文章还指出Prisma Finance可能在防范漏洞方面存在不足，并对DeFi行业的安全问题提出了关注。报告显示，2024年第一季度加密货币行业的损失由于黑客攻击和欺诈活动减少了23%，DeFi协议仍然是黑客的主要目标。 <div>
+<p>On Thursday, March 28, a <a href="https://bitcoinist.com/crypto-hacks-value-saw-97-in-february-investigator/" rel="noopener " target="_blank">hack occurred on Prisma Finance</a>, a decentralized lending protocol on the Ethereum network. The exploiter carted away about 3,257.7 ETH (equivalent to $11.6 million) via a flash loan attack on the protocol.</p>
+<p>On Friday, March 29, the Prisma Finance hacker transferred some of the proceeds from the theft to crypto mixer Tornado Cash in multiple transactions. According to <a href="https://x.com/PeckShieldAlert/status/1773620491212743051?s=20" rel="noopener nofollow" target="_blank">PeckShield</a>, $2.7 million in ETH was moved in one transaction and $3.8 million in another.</p>
+<p>What’s most interesting is the hacker sent an on-chain message barely six hours after the attack through one of the addresses linked to the heist, claiming they are a “white hat hacker.” And the exploiter has continued to send on-chain messages to Prisma Finance&#8217;s team since the theft occurred.</p>
+<h2>Was Prisma Finance &#8216;Sloppy&#8217; In The $11.6 Million Loss?</h2>
+<p>In a <a href="https://etherscan.io/idm?addresses=0x2d413803a6ec3cb1ed1a93bf90608f63b157507a,0xd8531a94100f15af7521a7b6e724ac4959e0a025&amp;type=1" rel="noopener nofollow" target="_blank">series of on-chain messages,</a> the exploiter criticized the team behind Prisma Finance for not catching the loophole in the protocol, which allowed the exploit to take place in the first place. The hacker also requested an online press conference in which the protocol’s team would reveal their identity while apologizing and appreciating their users and investors.</p>
+
+<p>The attacker said in the message:</p>
+<blockquote><p>During that session, you must specifically present the mistake you made, which party audited the smart contract, and your plan to improve security in the future (what you would do before deploying a new contract, how you react when something you don&#8217;t expect comes, etc.).</p></blockquote>
+<p>The hacker also emphasized <a href="https://bitcoinist.com/surge-in-north-korean-crypto-attacks-hacks-2023/" rel="noopener " target="_blank">the need for users to be more careful in the decentralized finance</a> (DeFi) industry and when interacting with various smart contracts. “I look forward to your online conference. After it happens, the amount I would keep and the amount that I can send to you would be discussed (stay assured, most of it would be returned), and the notes would be sent to your email,” the hacker added.</p>
+<p>A particular accusation that caught the eye in the hacker’s latest message is that “no professional developers can easily make that mistake.” The attacker said that if they had not exploited the loophole in the smart contract, it could have been the “perfect backdoor” for the protocol’s team.</p>
+<p>As of this writing, Prisma Finance has paused all operations on its protocol. Meanwhile, the total value locked (TVL) on the platform stands at about $85.65 million, down by 61% since the hack.</p>
+<h2>Crypto Hack Losses Witness Decline In 2024 Q1: Report</h2>
+<p>In a new <a href="https://downloads.ctfassets.net/t3wqy70tc3bv/34mVQUo6KAMcKF7rHyRdNM/d6c8710283abad55ec786c56f94eb3d1/Immunefi__Crypto_Losses_in_Q1_2024.pdf" rel="noopener nofollow" target="_blank">report by Immunefi</a>, the cryptocurrency industry suffered relatively fewer losses due to hacks and scams in the first quarter of 2024. Compared to 2023’s first quarter, the value lost to exploits and cyber attacks is down by 23%.</p>
+<p><img alt="Prisma Finance" class="aligncenter wp-image-290815 size-large" height="578" src="https://bitcoinist.com/wp-content/uploads/2024/03/Screen-Shot-2024-03-31-at-06.50.43.png?resize=980%2C578" width="980" /></p>
+
+
+<p>According to the blockchain security firm, approximately $336.3 million was lost to <a href="https://bitcoinist.com/crypto-scams-persist-exit-scams-hacks-cost-crypto-sector-160-million-in-february/" rel="noopener " target="_blank">hacks and scams in the first quarter of 2024</a>. Specifically, Immunefi identified 46 hacking incidents and 15 cases of fraudulent activities.</p>
+<p>Furthermore, the report revealed that DeFi protocols are still the primary targets for cyber attackers, accounting for all the reported hack incidents in Q1. Notably, the cross-chain protocol Orbit Bridge suffered the largest exploit in the past three months, losing about $82 million on January 1.</p>
+<p><img alt="Prisma Finance" class="aligncenter size-medium" height="1434" src="https://www.tradingview.com/x/IdJdUHiE/" width="2174" /></p>
+]]></content:encoded>
+<pubDate>Sun, 31 Mar 2024 07:43:47 +0000</pubDate>
+<pubDate>Sun, 31 Mar 2024 07:43:47 +0000</pubDate>
+</item>
 
 <item>
 <title>Worldcoin Earns Approval From Ethereum Founder For Privacy Initiatives</title>
