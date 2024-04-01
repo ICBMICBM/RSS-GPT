@@ -17797,3 +17797,12 @@ Existing_entries: 819
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-01 06:54:04.469184
+------------------------------------------------------
+Started: 2024-04-01 07:06:49.773143
+Existing_entries: 819
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 1862
+Summarized using GPT-3.5-turbo-1106
+Append: [加密市场一周综述（3.25-3.31）：Base和Solana金狗爆发，L3概念火热](https://www.panewslab.com/zh/articledetails/si40ub54.html)
+append_entries: 1
+Finish: 2024-04-01 07:06:54.137744
