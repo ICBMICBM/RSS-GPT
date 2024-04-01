@@ -4,6 +4,25 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>【长推】如何理解 SHA-256 碰撞攻击取得突破，会对加密货币产生影响吗？</title>
+<link>https://twitter.com/OneKeyCN/status/1774127399598473695</link>
+<guid>https://twitter.com/OneKeyCN/status/1774127399598473695</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。最新的突破显示了对SHA-256碰撞攻击的新纪录，这将影响到密码学、数字签名等领域。尽管可能引发全球数字安全信任危机，但加密货币的分叉升级和硬分叉升级算法已经在社区内讨论，提供了一些备选方案。尽管这次突破在学术上值得关注，但破坏性的破解仍有一定差距，短期内对加密货币的影响可能有限。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>最近，恰逢加密货币总市值才要回到前高 3 万亿美元的时间点，一条「First practical SHA-256 collision for 31 steps.（首个 SHA-256 的 31 步可行碰撞攻击）」的推特上了海外加密圈的热搜。这个突破是真的吗？如何理解这一次的突破？OneKey 中文撰文进行解读。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/OneKeyCN/status/1774127399598473695">https://twitter.com/OneKeyCN/status/1774127399598473695</a></p>
+<p><strong>文章作者：</strong></p><p>OneKey 中文</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>OneKey 中文：</strong>这个突破是真的吗？是真的，确实突破了 SHA-256 碰撞攻击的新纪录。这篇论文已经被密码学三大旗舰会议之一的 EUROCRYPT 2024 接收，可以在 EUROCRYPT 官网查到，论文原文标题为「New Records in Collision Attacks on SHA-2（SHA-2 碰撞攻击新记录）」。
+
+如何理解这一次的突破？SHA-256 被广泛地用在密码学、数字签名、数据完整性校验等领域，在区块链行业可以说是「顶梁柱」的存在，挖矿、私钥安全、L2 数据发布（DA）等等，几乎处处都有它的身影。这个算法简单来说，就是将任意长度的输入转换为固定长度（32 个字节）的输出（256 位哈希值）。将 SHA-256 的哈希值比作数据的「指纹」。碰撞攻击 SHA-256 的意义在于对于某个数据的「指纹」去寻找另外一个攻击数据，使其能生成一样的「指纹」，从而实现数据伪造。SHA-256 碰撞攻击成功并不意味着能直接影响挖矿难度，除非碰撞攻击能以某种方式加速寻找这样特定散列值的过程，否则对挖矿的直接影响有限。
+
+假如真的被破解了怎么办？这势必将会引发全球数字安全的信任危机。整个 Web2 安全就先崩了，各种银行系统和政府机构可能都会紧急停止。当然，好在加密货币是分叉升级的。对于比特币来讲，这种可怕的情况，肯定需要通过比特币改进提案（BIP）和硬分叉升级算法核心加密算法。这些问题早就已经在社区内经过广泛讨论，也有很多备选方案。哪怕是量子计算突破了，届时也有会有相应的抗量子算法去升级。
+
+总而言之，突破了，但是不多。我们只是在之前的研究上往前走了一点，这从学术上来讲当然是突破，非常值得关注。但距离破坏性的破解仍有不小差距，短期内对加密货币的影响可能也是有限的。</p><a href="https://twitter.com/OneKeyCN/status/1774127399598473695">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-01T04:04:23+00:00</pubDate>
+</item>
 
 <item>
 <title>【长推】盘点近期值得关注的 18 个 NFT 新项目</title>
