@@ -4,6 +4,31 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>【英文长推】观点：L3 几乎具有与 L2 相同的所有问题</title>
+<link>https://twitter.com/jarrodWattsDev/status/1774616808668238006</link>
+<guid>https://twitter.com/jarrodWattsDev/status/1774616808668238006</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章中提到了支持 L3 的理由，如用户费用更便宜、入门更便宜等。然而，也反对了 L3，认为当前的 L2 去中心化还不够成熟，L2 已经足够好，并且指出 L3 几乎具有与 L2 相同的所有问题。文章认为应优先解决 L2 之间的互操作性问题，而不是增加更多层级。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Polygon 开发者关系工程师 Jarrod Watts 撰文分享其支持和反对 L3 的论点，认为 L3 虽然便宜，但去中心化程度不如 L2，且目前 L2 在去中心化方面仍有待改进。另外，在缺乏互操作性的情况下，L3 面临着与 L2 几乎相同的问题。要实现可扩展性，甚至都不需要 L3。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/jarrodWattsDev/status/1774616808668238006">https://twitter.com/jarrodWattsDev/status/1774616808668238006</a></p>
+<p><strong>文章作者：</strong></p><p>Jarrod Watts</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Jarrod Watts：</strong>支持 L3 的理由：
+
+1）用户费用更便宜：L2 大部分成本仍然是将数据发送回以太坊。相比之下，L3 将数据发布到 L2，只需支付少量 L2 费用，用户的交易费用与 L2 相比可能会降低几个数量级。
+
+2）入门更便宜：这里的论点是，CEX 还不能直接支持某些 L2。要使用这些 L2，流程是 CEX -> L1 -> L2，其中转入 L1 地址和桥接到 L2 需要支付两次 L1 费用。基于 CEX 支持的 L2 构建的 L3 链可以避免这种情况，因为流程是 CEX -> L2 -> L3，只需要支付转移至 L2 地址和桥接到 L3 的两次 L2 费用。不过也可以通过其他方式解决，例如通过 Agg Layer 等构建跨 L2 互操作性。
+
+反对 L3 的理由：
+
+1）当前的 L2 去中心化：我认为 L2 还没有准备好像以太坊那样成为其他链的结算层，在去中心化方面还有许多改进之处。每增加一层都会在提高可扩展性的同时增加出错的可能性。对于大多数区块链来说，L2 去中心化仍处于早期阶段。我认为应该等它们发展到后期阶段再在上面构建链。
+
+2）L2 已经足够好了：L2、应用链以及它们之间的互操作性已经很好，且正在迅速改善。如今，可以通过 Polygon CDK、OP Stack 等多种方式构建非常便宜的 L2。通过以 Validium 形式构建或使用替代 DA 解决方案，它们也可以变得非常便宜。
+
+3）L3 几乎具有与 L2 相同的所有问题：应用程序开发者只能通过在单个隔离链上构建来获得一小部分潜在受众。流动性有限，用户也有限。L2 之间的互操作性解决方案比增加一个层更能解决我们当前的问题。【原文为英文】</p><a href="https://twitter.com/jarrodWattsDev/status/1774616808668238006">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-01T04:59:47+00:00</pubDate>
+</item>
 
 <item>
 <title>【长推】如何理解 SHA-256 碰撞攻击取得突破，会对加密货币产生影响吗？</title>
