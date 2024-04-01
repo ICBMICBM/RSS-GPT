@@ -13509,3 +13509,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Aevo, The New Deribit on the Ethereum Blockchain](https://www.trustnodes.com/2024/04/01/aevo-the-new-deribit-on-the-ethereum-blockchain)
 append_entries: 1
 Finish: 2024-04-01 14:35:18.453928
+------------------------------------------------------
+Started: 2024-04-01 14:42:55.297296
+Existing_entries: 20
+Fetching from https://www.trustnodes.com/feed
+append_entries: 0
+Finish: 2024-04-01 14:42:55.915835
