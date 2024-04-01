@@ -17770,3 +17770,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [BTC跌破69000美元/枚](https://www.panewslab.com/zh/sqarticledetails/bse4x02e.html)
 append_entries: 3
 Finish: 2024-04-01 06:17:04.396835
+------------------------------------------------------
+Started: 2024-04-01 06:30:10.488522
+Existing_entries: 818
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 111
+Summarized using GPT-3.5-turbo-1106
+Append: [OpenLeverage协议目前已暂停，正在进行调查](https://www.panewslab.com/zh/sqarticledetails/d17kv0vx.html)
+append_entries: 1
+Finish: 2024-04-01 06:30:15.127408
