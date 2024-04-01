@@ -17677,3 +17677,15 @@ Existing_entries: 811
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-01 03:54:38.655054
+------------------------------------------------------
+Started: 2024-04-01 04:09:42.715712
+Existing_entries: 811
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 7300
+Summarized using GPT-3.5-turbo-1106
+Append: [简析Atomicals协议：公平与去中心化，BTC资产协议的革命进行时](https://www.panewslab.com/zh/articledetails/md3bc2cd.html)
+Token length: 44
+Summarized using GPT-3.5-turbo-1106
+Append: [OpenAI本月将在东京开设首个亚洲办事处](https://www.panewslab.com/zh/sqarticledetails/l1v0vx69.html)
+append_entries: 2
+Finish: 2024-04-01 04:09:50.990279
