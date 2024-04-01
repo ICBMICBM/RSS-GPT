@@ -14754,3 +14754,12 @@ Existing_entries: 301
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-01 14:57:52.813845
+------------------------------------------------------
+Started: 2024-04-01 15:13:00.744833
+Existing_entries: 301
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 14
+Summarized using GPT-3.5-turbo-1106
+Append: [12 Future Bitcoin Scenarios: From Bullish to Bearish](https://www.coindesk.com/consensus-magazine/2024/04/01/12-future-bitcoin-scenarios-from-bullish-to-bearish/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-01 15:13:04.326445
