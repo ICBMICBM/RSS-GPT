@@ -18166,3 +18166,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [行情：比特币跌破69000美元，以太坊短时跌破3500美元](https://www.panewslab.com/zh/sqarticledetails/4i8u3mfa.html)
 append_entries: 1
 Finish: 2024-04-01 15:12:50.562944
+------------------------------------------------------
+Started: 2024-04-01 15:24:11.162250
+Existing_entries: 846
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 178
+Summarized using GPT-3.5-turbo-1106
+Append: [Metaplex：Solana上NFT标准Core已在主网上线](https://www.panewslab.com/zh/sqarticledetails/j1yix95e.html)
+append_entries: 1
+Finish: 2024-04-01 15:24:15.874145
