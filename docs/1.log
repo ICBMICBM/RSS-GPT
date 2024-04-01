@@ -17755,3 +17755,18 @@ Existing_entries: 815
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-01 05:57:42.188998
+------------------------------------------------------
+Started: 2024-04-01 06:16:55.515138
+Existing_entries: 815
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 57
+Summarized using GPT-3.5-turbo-1106
+Append: [ETH跌至3500美元附近，日内跌幅近3%](https://www.panewslab.com/zh/sqarticledetails/iuaw6jau.html)
+Token length: 3792
+Summarized using GPT-3.5-turbo-1106
+Append: [TVL遥遥领先，解析再质押龙头ether.fi的炼成之路](https://www.panewslab.com/zh/articledetails/loacr794.html)
+Token length: 64
+Summarized using GPT-3.5-turbo-1106
+Append: [BTC跌破69000美元/枚](https://www.panewslab.com/zh/sqarticledetails/bse4x02e.html)
+append_entries: 3
+Finish: 2024-04-01 06:17:04.396835
