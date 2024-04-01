@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>简析 Atomicals 协议：BTC 资产协议的革命进行时</title>
 <link>https://mp.weixin.qq.com/s/WCQmyvXT-0m5u-D3Nt5cLA</link>
 <guid>https://mp.weixin.qq.com/s/WCQmyvXT-0m5u-D3Nt5cLA</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了Atomicals协议及其衍生项目的技术创新，包括Bitwork挖矿机制、ARC-20代币、Dmint协议、Realm域名系统和AVM。Bitwork挖矿机制降低了参与门槛，提高了公平性；ARC-20代币转账更节省成本；Dmint协议改进NFT发行方式；Realm域名系统提供了扩展性；AVM为BTC生态带来更多活力。整体上，这些新技术和协议为BTC生态的发展和创新做出了贡献。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章介绍了Atomicals协议及其衍生项目的技术创新，包括Bitwork挖矿机制、ARC-20代币、Dmint协议、Realm域名系统和AVM。Bitwork挖矿机制降低了参与门槛，提高了公平性；ARC-20代币转账更节省成本；Dmint协议改进NFT发行方式；Realm域名系统提供了扩展性；AVM为BTC生态带来更多活力。整体上，这些新技术和协议为BTC生态的发展和创新做出了贡献。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>从技术角度看，目前 BTC 生态资产发行方案可分为 UTXO 绑定型和非 UTXO 绑定型两大派系。Atomicals 协议下辖的 ARC-20 开创了 UTXO 绑定型资产的先河。LXDAO 成员 Howe 从 Atomicals 协议带来的新兴理念和技术，及整个 Atomicals 生态的发展方向两大层面，客观剖析 Atomicals 协议的历史、现状与未来发展。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/WCQmyvXT-0m5u-D3Nt5cLA">https://mp.weixin.qq.com/s/WCQmyvXT-0m5u-D3Nt5cLA</a></p>
 <p><strong>文章作者：</strong></p><p>Howe</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Howe：</strong>Bitwork：非排他的 PoW。Bitwork 挖矿是非排他的。只要当前 Atomicals 资产铸造量没有超过规定总量，矿工通过 Bitwork 机制给出的挖矿结果（代币铸造声明），最终都会被纳入协议的历史记录中。Atomicals 降低了矿工 / 资产铸造者的参与门槛，Bitwork 的改进措施极大程度削弱了中心化矿池的地位，更利于个体矿工参与，资产分发更具公平性，更进一步地助推了「Fair Launch」概念的发展。
@@ -22,10 +23,8 @@ RNS：Realm 域名协议允许任何用户在任何 Realm 域名下发行子域�
 
 AVM：潜在的一匹黑马。AVM 主要是为了支持 Bitcoin 网络中复杂逻辑的实现，比如解决 ARC-20「一币一聪」无法拆分等问题。此外，目前市面上的比特币扩容方案基本都存在各种问题，期待 AVM 的发布能为 BTC 生态带来更多活力。</p><a href="https://mp.weixin.qq.com/s/WCQmyvXT-0m5u-D3Nt5cLA">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-01T06:07:19+00:00</pubDate>
 </item>
-
 <item>
 <title>【英文长推】观点：L3 几乎具有与 L2 相同的所有问题</title>
 <link>https://twitter.com/jarrodWattsDev/status/1774616808668238006</link>
@@ -11187,16 +11186,6 @@ Morph 是一种完全无需许可的 EVM L2，它结合了 optimistic 和 zk rol
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />这些信息是积极的。Polyhedra Network以10亿美元估值完成2000万美元战略融资，由Polychain Capital领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital等参投。融资资金将用于招聘跨职能部门人员，并将团队规模从50人扩大到80人。该公司将用于发展zkBridge互操作协议的产品、工程、业务开发和营销。本轮融资是通过未来代币或SAFT简单协议进行的，之前也是如此。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成了 2000 万美元战略融资，以 10 亿美元估值。融资由 Polychain Capital 领投，其他投资者包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。资金将用于团队扩大到约 80 人，并招募跨职能部门的员工。该公司的融资模式是通过未来代币或 SAFT 进行的。<br /><br />这些信息是积极的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
