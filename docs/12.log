@@ -14550,3 +14550,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Binance Ties Allegations Swirl As Hong Kong Crypto Exchange Shuts Down Unexpectedly](https://bitcoinist.com/hong-kong-crypto-exchange-shuts-down-unexpectedly/)
 append_entries: 1
 Finish: 2024-04-01 16:08:53.355748
+------------------------------------------------------
+Started: 2024-04-01 16:28:33.966391
+Existing_entries: 219
+Fetching from https://bitcoinist.com/feed
+append_entries: 0
+Finish: 2024-04-01 16:28:34.073525
