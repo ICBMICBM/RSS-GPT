@@ -14850,3 +14850,12 @@ Existing_entries: 303
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-01 17:41:44.688326
+------------------------------------------------------
+Started: 2024-04-01 17:49:20.724232
+Existing_entries: 303
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 162
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin’s Future as Currency](https://www.coindesk.com/consensus-magazine/2024/04/01/bitcoins-future-as-currency/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-01 17:49:22.779793
