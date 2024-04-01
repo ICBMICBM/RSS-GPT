@@ -17431,3 +17431,12 @@ Existing_entries: 1000
 Fetching from https://www.chainfeeds.xyz/rss
 append_entries: 0
 Finish: 2024-04-01 02:30:59.418218
+------------------------------------------------------
+Started: 2024-04-01 02:43:07.379533
+Existing_entries: 1000
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 326
+Summarized using GPT-3.5-turbo-1106
+Append: [FTX Digital 破产清算方计划于 2024 年底前开始偿还债权人](https://www.theblock.co/post/285800/ftx-bankruptcy-estate-aiming-to-begin-repaying-creditors-by-the-end-of-2024)
+append_entries: 1
+Finish: 2024-04-01 02:43:11.911403
