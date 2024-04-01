@@ -14337,3 +14337,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Start Selling Bitcoin When This Happens, This Quant Says](https://www.newsbtc.com/bitcoin-news/start-selling-bitcoin-when-quant-says/)
 append_entries: 1
 Finish: 2024-04-01 19:32:54.515921
+------------------------------------------------------
+Started: 2024-04-01 19:42:20.367110
+Existing_entries: 230
+Fetching from https://www.newsbtc.com/feed
+append_entries: 0
+Finish: 2024-04-01 19:42:20.477139
