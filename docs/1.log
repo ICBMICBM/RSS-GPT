@@ -17569,3 +17569,24 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [头等仓：全面解析3A链游大作Illuvium](https://www.panewslab.com/zh/articledetails/4isg8xft.html)
 append_entries: 2
 Finish: 2024-03-31 23:57:53.348704
+------------------------------------------------------
+Started: 2024-04-01 01:00:53.765255
+Existing_entries: 798
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 4284
+Summarized using GPT-3.5-turbo-1106
+Append: [盘点5个近期应该关注的DePIN项目](https://www.panewslab.com/zh/articledetails/wnysbh52.html)
+Token length: 193
+Summarized using GPT-3.5-turbo-1106
+Append: [Arbitrum将于4月12日进行安全理事会成员选举，22名提名人晋级](https://www.panewslab.com/zh/sqarticledetails/l59mke1e.html)
+Token length: 204
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitwise：美国SEC最好在12月批准以太坊现货ETF](https://www.panewslab.com/zh/sqarticledetails/4m66us97.html)
+Token length: 6161
+Summarized using GPT-3.5-turbo-1106
+Append: [灰度老板官司缠身，要步SBF后尘？](https://www.panewslab.com/zh/articledetails/gn3e4bi1.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [头等仓：全面解析3A链游大作Illuvium](https://www.panewslab.com/zh/articledetails/4isg8xft.html)
+append_entries: 5
+Finish: 2024-04-01 01:01:15.119677
