@@ -14649,3 +14649,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Trading Volume on South Korean Crypto Exchange Upbit Crashes 75%](https://www.coindesk.com/markets/2024/04/01/trading-volume-on-south-korean-crypto-exchange-upbit-crashes-75/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-04-01 11:45:50.523705
+------------------------------------------------------
+Started: 2024-04-01 11:53:34.690778
+Existing_entries: 300
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-04-01 11:53:35.165074

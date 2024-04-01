@@ -18028,3 +18028,15 @@ Existing_entries: 836
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-01 11:45:42.205681
+------------------------------------------------------
+Started: 2024-04-01 11:53:20.413311
+Existing_entries: 836
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 466
+Summarized using GPT-3.5-turbo-1106
+Append: [Chainge DAO发起“接受某投资机构的1300万美元投资”提案](https://www.panewslab.com/zh/sqarticledetails/18h0f4vo.html)
+Token length: 121
+Summarized using GPT-3.5-turbo-1106
+Append: [韩国加密交易所Upbit日交易量较3月份高点暴跌75%](https://www.panewslab.com/zh/sqarticledetails/m9fz5hk3.html)
+append_entries: 2
+Finish: 2024-04-01 11:53:29.032604
