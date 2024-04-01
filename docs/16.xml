@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>GMX v2 及其竞争对手：颠覆去中心化衍生品市场的新浪潮</title>
 <link>https://mirror.xyz/0x867A3f354c0eCB6622aEf1bF14C3BE79338AD889/RlGMhPv53-SSpA5QJwo8eoHPMLYWNefAbG4q06TMh6g</link>
 <guid>https://mirror.xyz/0x867A3f354c0eCB6622aEf1bF14C3BE79338AD889/RlGMhPv53-SSpA5QJwo8eoHPMLYWNefAbG4q06TMh6g</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章对GMX v2、Vertex Protocol、Hyperliquid 和 ApeX Protocol四个协议进行了评分比较，讨论了它们在总锁仓量（TVL）、交易量、用户增长趋势、费用结构以及市场分布方面的表现。GMX v2被认为在市场领导地位上表现较好，但需加强监管合规性；Vertex Protocol在费用结构上具有竞争优势；Hyperliquid作为新兴平台面临挑战，有潜力在安全性和用户体验方面超越；ApeX Protocol与Vertex Protocol相似，但在社区参与和用户体验方面略胜一筹。文章还探讨了未来的市场趋势和十个塑造去中心化衍生品市场未来的因素。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章对GMX v2、Vertex Protocol、Hyperliquid 和 ApeX Protocol四个协议进行了评分比较，讨论了它们在总锁仓量（TVL）、交易量、用户增长趋势、费用结构以及市场分布方面的表现。GMX v2被认为在市场领导地位上表现较好，但需加强监管合规性；Vertex Protocol在费用结构上具有竞争优势；Hyperliquid作为新兴平台面临挑战，有潜力在安全性和用户体验方面超越；ApeX Protocol与Vertex Protocol相似，但在社区参与和用户体验方面略胜一筹。文章还探讨了未来的市场趋势和十个塑造去中心化衍生品市场未来的因素。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>Bing Ventures 发布研究文章，对 GMX v2、Vertex Protocol、Hyperliquid 和 ApeX Protocol 四个协议从总锁仓量（TVL）、交易量、用户增长趋势、费用结构以及市场分布五个方面进行评分，讨论去中心化衍生品市场的竞争格局演变和未来趋势。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://mirror.xyz/0x867A3f354c0eCB6622aEf1bF14C3BE79338AD889/RlGMhPv53-SSpA5QJwo8eoHPMLYWNefAbG4q06TMh6g">https://mirror.xyz/0x867A3f354c0eCB6622aEf1bF14C3BE79338AD889/RlGMhPv53-SSpA5QJwo8eoHPMLYWNefAbG4q06TMh6g</a></p>
 <p><strong>文章作者：</strong></p><p>Bing Ventures</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Bing Ventures：</strong>作为当前的市场领导者，GMX v2 在大多数指标上表现较好，特别是在 TVL 和交易量方面。其在创新、用户体验和社区参与方面也表现良好，但监管合规性方面可能是未来可以加强的地方。
@@ -23,10 +24,8 @@ Apex Protocol 在大多数指标上与 Vertex Protocol 相似，但在社区参�
 
 除了市场竞争外，这些协议的未来发展还将受到市场需求、技术进步和监管环境等多种因素的影响。我们认为以下十个趋势将塑造去中心化衍生品市场的未来：市场经历重构、技术创新加速、跨链操作兴起、监管适应性要求提高、用户体验全面革新、智能合约安全仍然重要、金融工具创新带来资本效率提高、去中心化治理深化、合成资产和衍生品更加多样、流动性挖矿和激励机制。</p><a href="https://mirror.xyz/0x867A3f354c0eCB6622aEf1bF14C3BE79338AD889/RlGMhPv53-SSpA5QJwo8eoHPMLYWNefAbG4q06TMh6g">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-01T09:30:20+00:00</pubDate>
 </item>
-
 <item>
 <title>TVL 突破 30 亿美元、DEGEN 涨幅超 20 倍，Base 链还可以玩什么？</title>
 <link>https://www.chaincatcher.com/article/2119098</link>
@@ -11216,24 +11215,6 @@ Dencun 升级还引入了新的技术变化，这些变化影响了以太坊上�
 还增加了对新验证者的固定限制，以减缓验证者集的增长。 目前，流失限制规定了每天可以有多少新验证者进入或退出质押池。 此限制随着活跃验证器总数的定义增量而增加一步。上海升级后，活跃验证人数量大幅增加，平均每天新增验证人 + 1347 人。 然而，随着验证者数量的增加，人们注意到副作用是节点通信速度减慢。</p><a href="https://www.jinse.cn/blockchain/3678630.html">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-21T03:01:30+00:00</pubDate>
-</item>
-<item>
-<title>Base 成 Meme 爱好者新宠？从数据看 Base 网络趋势</title>
-<link>https://foresightnews.pro/article/detail/56088</link>
-<guid>https://foresightnews.pro/article/detail/56088</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。Coinbase 的 Layer2 网络 Base 在集成 EIP-4884 后降低交易费用，吸引了广泛关注。Base 网络的用户量在本月中旬激增，3月16日单日新用户数量达到63万以上，交易笔数创下历史新高。总 TVL增加50%，排名第五。交易热度高，成交额集中在Meme代币和DEGEN上。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>Coinbase 的 Layer2 网络 Base，凭借 Coinbase 这一行业巨擘上亿用户的强大支撑以及加密 OG 的支持，在集成 EIP-4884 后大幅降低交易费用后，吸引了市场的广泛关注。与此同时，随着 Solana Meme 情绪的日益高涨，Base 在近几日也备受瞩目。Foresight News 作者 Karen 从用户量、TVL、交易笔数等数据分析 Base 网络趋势。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://foresightnews.pro/article/detail/56088">https://foresightnews.pro/article/detail/56088</a></p>
-<p><strong>文章作者：</strong></p><p>Foresight News</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Foresight News：</strong>用户量：本月中旬激增，3 月 16 日单日新用户数量达到 63 万以上。当日 Base 交易笔数更是创下了历史新高，达到 211 万笔。可能的原因是 Solana 生态 Meme 热度外溢，Base 生态多个 Meme 代币大涨，Uniswap NFT 产品负责人 Scott 在当日喊单 Meme 代币 Over，加之 Base 集成 EIP-4844（3 月 14 日）后手续费大幅下降以及 Base 上短视频社交应用 Drakula 的启动（3 月 14 日上线）等。
-
-总 TVL：若按 ETH 本位计算，过去 10 天 Base 生态总 TVL 增加 50%。在总锁仓量方面，根据 L2BEAT 数据显示，当前，Base 生态总 TVL（包括所有跨链代币、原生代币的价值）目前为 14 亿美元，在所有 L2 中排名第五，排名前四的 L2 是 Arbitrum（156.9 亿美元）、OP Mainnet（73.4 亿美元）、Blast（22.7 亿美元）、Manta Pacific（18.2 亿美元）。
-
-交易笔数：最近一周单日超过 110 万笔。从交易笔数来看，Base 网络的表现同样亮眼，交易热度已基本升至去年 9 月份时的巅峰状态。3 月 16 日，Base 上日交易笔数更是创下了历史新高，达到 211 万笔，最近一周的单日交易笔数也均超过 110 万笔。
-
-成交热度：24 小时成交 4.43 亿美元，热度集中在 Meme 代币和 DEGEN 上。随着资金流入到 Base 生态，Base 上的成交额也在不断急剧增加。根据 DEX Screener 数据，过去 24 小时的交易量达到 4.43 亿美元，热度集中在 Meme 代币以及 Farcaster 生态代币 DEGEN 上。</p><a href="https://foresightnews.pro/article/detail/56088">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-21T02:56:19+00:00</pubDate>
 </item>
 </channel>
 </rss>
