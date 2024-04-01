@@ -17740,3 +17740,12 @@ Existing_entries: 814
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-01 05:42:43.227333
+------------------------------------------------------
+Started: 2024-04-01 05:50:13.709793
+Existing_entries: 814
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 57
+Summarized using GPT-3.5-turbo-1106
+Append: [BTC跌破70000美元，日内跌幅约1%](https://www.panewslab.com/zh/sqarticledetails/arfp3s6n.html)
+append_entries: 1
+Finish: 2024-04-01 05:50:16.608754
