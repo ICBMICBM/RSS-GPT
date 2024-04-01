@@ -4,6 +4,27 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>简析 Atomicals 协议：BTC 资产协议的革命进行时</title>
+<link>https://mp.weixin.qq.com/s/WCQmyvXT-0m5u-D3Nt5cLA</link>
+<guid>https://mp.weixin.qq.com/s/WCQmyvXT-0m5u-D3Nt5cLA</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了Atomicals协议及其衍生项目的技术创新，包括Bitwork挖矿机制、ARC-20代币、Dmint协议、Realm域名系统和AVM。Bitwork挖矿机制降低了参与门槛，提高了公平性；ARC-20代币转账更节省成本；Dmint协议改进NFT发行方式；Realm域名系统提供了扩展性；AVM为BTC生态带来更多活力。整体上，这些新技术和协议为BTC生态的发展和创新做出了贡献。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>从技术角度看，目前 BTC 生态资产发行方案可分为 UTXO 绑定型和非 UTXO 绑定型两大派系。Atomicals 协议下辖的 ARC-20 开创了 UTXO 绑定型资产的先河。LXDAO 成员 Howe 从 Atomicals 协议带来的新兴理念和技术，及整个 Atomicals 生态的发展方向两大层面，客观剖析 Atomicals 协议的历史、现状与未来发展。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/WCQmyvXT-0m5u-D3Nt5cLA">https://mp.weixin.qq.com/s/WCQmyvXT-0m5u-D3Nt5cLA</a></p>
+<p><strong>文章作者：</strong></p><p>Howe</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Howe：</strong>Bitwork：非排他的 PoW。Bitwork 挖矿是非排他的。只要当前 Atomicals 资产铸造量没有超过规定总量，矿工通过 Bitwork 机制给出的挖矿结果（代币铸造声明），最终都会被纳入协议的历史记录中。Atomicals 降低了矿工 / 资产铸造者的参与门槛，Bitwork 的改进措施极大程度削弱了中心化矿池的地位，更利于个体矿工参与，资产分发更具公平性，更进一步地助推了「Fair Launch」概念的发展。
+
+ARC-20：更像染色币而非铭文。ARC-20 代币的转账，不需要像 BRC-20 那样先铭刻 Transfer 指令相关的铭文信息，节省了转账成本，也减小了在 BTC 网络上产生的额外数据尺寸。ARC-20 交易的安全性完全由 BTC 主网保证，任何人在追踪历史交易记录、计算当前 ARC-20 资产余额时，不需要额外从链下存储模块中读取数据，只需要查验那些和 ARC-20 染色相关的比特币 UTXO 即可。
+
+Dmint：NFT 发行的新方式。遵循 Dmint 协议的 NFT 发行，具体流程分为四个步骤：NFT 数据准备、配置容器、验证 NFT 项目、铸造 NFT。遵循 Dmint 协议的 NFT 发行方，会把全部 NFT 数据汇总构建成一棵 Merkle Tree，Merkle root 会发布在链上，完整的 NFT 元数据则保存在链下。Dmint 引入的 Bitwork 挖矿机制，为所有人提供了平等的一次性铸造机会，从根本上消除了脚本自动化铸造的可能性，及与 gas 费相关的市场竞争。
+
+RNS：Realm 域名协议允许任何用户在任何 Realm 域名下发行子域名（SubRealm），通过分层 / 分级的方式来管理域名生态，并将其代币化。理论上，SubRealm 的扩展次数是没有限制的，这使得 Realm 域名系统的想象空间及其巨大。
+
+AVM：潜在的一匹黑马。AVM 主要是为了支持 Bitcoin 网络中复杂逻辑的实现，比如解决 ARC-20「一币一聪」无法拆分等问题。此外，目前市面上的比特币扩容方案基本都存在各种问题，期待 AVM 的发布能为 BTC 生态带来更多活力。</p><a href="https://mp.weixin.qq.com/s/WCQmyvXT-0m5u-D3Nt5cLA">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-01T06:07:19+00:00</pubDate>
+</item>
 
 <item>
 <title>【英文长推】观点：L3 几乎具有与 L2 相同的所有问题</title>
