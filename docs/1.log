@@ -18478,3 +18478,12 @@ Existing_entries: 852
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-01 23:24:35.126284
+------------------------------------------------------
+Started: 2024-04-01 23:31:56.003292
+Existing_entries: 852
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 72
+Summarized using GPT-3.5-turbo-1106
+Append: [Circle今日凌晨在以太坊网络上增发1.34亿枚USDC](https://www.panewslab.com/zh/sqarticledetails/su8jqgkz.html)
+append_entries: 1
+Finish: 2024-04-01 23:31:59.139799
