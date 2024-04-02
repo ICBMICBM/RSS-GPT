@@ -4,6 +4,32 @@
 <title>Bitcoinist.com</title>
 <link>https://bitcoinist.com</link>
 
+<item>
+<title>Ethereum Co-Founder Enters The Fray, Delivers Key Remarks On Layer 3</title>
+<link>https://bitcoinist.com/ethereum-co-founder-delivers-key-remarks-on-layer-3/</link>
+<guid>https://bitcoinist.com/ethereum-co-founder-delivers-key-remarks-on-layer-3/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章讨论了以太坊联合创始人关于Layer 3网络的见解。他指出Layer 3解决方案虽然不能神奇地提高吞吐量，但可以降低一些与存取款和批量发布相关的固定费用。他还提到了他近两年前发布的博文中关于Layer 3的重要观点，强调L3用于专业功能，L2用于扩展。此外，文章还介绍了对Layer 3辩论增长的压力，包括Polygon Labs CEO的看法和Degen生态系统推出的低成本Layer 3区块链Degen Chain。 <div>
+<p>Conversations about the Layer 3 networks are currently in the limelight as the well-known Ethereum co-founder <a href="https://bitcoinist.com/vitalik-buterin-celebrates-birthday-childhood-over/" rel="noopener " target="_blank">Vitalik Buterin</a> joins the escalating debate in the community, offering key perspectives on the solutions.</p>
+<h2>Ethereum Co-Founder On The Layer 3 Solutions</h2>
+<p>The Ethereum co-founder offered his key insights on the L3 networks in a recent X <a href="https://x.com/VitalikButerin/status/1775015326419439768?s=20" rel="noopener nofollow" target="_blank">post</a>, noting that the solutions do not miraculously enhance throughput any further, even though they can lower a few fixed expenses related to deposits and withdrawals and batch publishing.</p>
+
+<p>However, he claims there are alternative, possibly lighter techniques to achieve the same cost savings one gets from layer 3s while citing pieces of his previous blog post from nearly two years ago. </p>
+<p>The blog post which was dubbed &#8220;What kind of layer 3s make sense?&#8221; outlines the significance of the three distinct layer 3 iterations inside the <a href="https://bitcoinist.com/bitcoin-and-ethereum-see-gains-nftfn-predicts-unprecedented-50x-profit/" rel="noopener " target="_blank">Ethereum</a> ecosystem. The first iteration states that L3s are for specialized functionality, whereas L2s are for scaling.</p>
+<p>Instead of aiming for &#8220;scalability squared,&#8221; this strategy consists of a single application-scaling layer in the stack, with additional layers serving the customized functional requirements of various use cases.</p>
+<p>For the second version, it states L3 is for customized scaling, while L2 is for general-purpose scaling. Specialized applications that perform their computation via a method other than the EVM or rollups whose data compression is tailored to particular data formats for particular applications are a few examples of how customized scaling might manifest itself.</p>
+<p>Lastly, L2 is for no-trust scaling (rollups), whereas L3 is for scaling with a low level of trust (Validiums). These Validiums are systems that depend on a committee or trusted third party to provide the data but utilize SNARKs to validate computation and are highly underrated. This is because a centralized server running a validium prover and constantly committing hashes to the chain might really be the most suitable solution for several enterprise blockchain applications.</p>
+<h2>Layer 3 Debate Garnering Pressure</h2>
+<p>The Ethereum co-founder&#8217;s overview comes after Polygon Labs Chief Executive Officer (CEO) Marc Boiron offered <a href="https://bitcoinist.com/polygon-ceo-debunks-layer-3-networks/" rel="noopener " target="_blank">a pessimistic perspective on layer 3 solutions</a>. Boiron highlighted that they could jeopardize ETH&#8217;s value and the L2s that form the basis of L3s.</p>
+
+<p>He believes that the Ethereum ecosystem and the crypto space do not significantly benefit from these networks. &#8220;If all L3s settled to one L2, then Ethereum would capture basically no value and, thus, Ethereum security would be at risk,&#8221; he stated.</p>
+<p>This heated debate coincides with the introduction of the low-cost Layer 3 blockchain, Degen Chain, by the Degen ecosystem. Created with AnyTrust DA and Arbirtrum Orbit, Degen Chain is a memecoin project on the <a href="https://bitcoinist.com/how-will-coinbases-base-network-accommodate-the-web3-gaming-space/" rel="noopener " target="_blank">Base network.</a></p>
+<p>So far, the project has gained widespread adoption from the community, recording nearly 100,000 active accounts in less than a week. Its transaction volume also witnessed a significant uptick, reaching almost $100 million in 24 hours after its debut.</p>
+<img alt="Ethereum" class="size-medium" height="1265" src="https://www.tradingview.com/x/thg1EvzY/" width="2273" />
+]]></content:encoded>
+<pubDate>Tue, 02 Apr 2024 10:00:48 +0000</pubDate>
+<pubDate>Tue, 02 Apr 2024 10:00:48 +0000</pubDate>
+</item>
 
 <item>
 <title>Argentina’s President Milei Makes His ‘First Mistake’ On Bitcoin</title>

@@ -18919,3 +18919,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [FTX和Alameda钱包约14小时前转移价值超1亿美元的19种山寨币](https://www.panewslab.com/zh/sqarticledetails/4lk2a342.html)
 append_entries: 1
 Finish: 2024-04-02 10:00:00.960661
+------------------------------------------------------
+Started: 2024-04-02 10:18:00.426224
+Existing_entries: 891
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 122
+Summarized using GPT-3.5-turbo-1106
+Append: [Ethena：正调查用户Liquifi上ENA空投显示数量与领取页面存在差异的问题](https://www.panewslab.com/zh/sqarticledetails/n415rltm.html)
+Token length: 7621
+Summarized using GPT-3.5-turbo-1106
+Append: [NEOPIN估值展望：韩国游戏巨头的加密之作，探寻DeFi + CeFi的最优解](https://www.panewslab.com/zh/articledetails/ohowrd23.html)
+append_entries: 2
+Finish: 2024-04-02 10:18:07.814710
