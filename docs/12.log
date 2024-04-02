@@ -14856,3 +14856,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Inside Ethereum’s Roadmap: Buterin Reveals Plans For The Purge](https://bitcoinist.com/ethereum-roadmap-buterin-reveals-plans-the-purge/)
 append_entries: 1
 Finish: 2024-04-02 00:31:58.403649
+------------------------------------------------------
+Started: 2024-04-02 01:38:06.756236
+Existing_entries: 225
+Fetching from https://bitcoinist.com/feed
+Token length: 2471
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin Sees Another Major Coinbase Outflow: $1.2 Billion This Time](https://bitcoinist.com/bitcoin-major-coinbase-outflow-1-2-billion-time/)
+append_entries: 1
+Finish: 2024-04-02 01:38:08.912232
