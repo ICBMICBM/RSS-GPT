@@ -14532,3 +14532,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Litecoin Soars Above $110 As LTC Breaks Out Of Macro Downtrend: Analysts](https://www.newsbtc.com/news/litecoin-soars-above-110-as-ltc-breaks-out-of-macro-downtrend-analysts/)
 append_entries: 1
 Finish: 2024-04-02 01:38:02.730666
+------------------------------------------------------
+Started: 2024-04-02 02:10:26.911481
+Existing_entries: 235
+Fetching from https://www.newsbtc.com/feed
+Token length: 2546
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin Teeters On The Edge Of Glory: Will It Smash The $70,000 Resistance?](https://www.newsbtc.com/bitcoin-news/bitcoin-teeters-on-the-edge-of-glory-will-it-smash-the-70000-resistance/)
+append_entries: 1
+Finish: 2024-04-02 02:10:30.171248
