@@ -18403,3 +18403,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [IOSG 周报：从 AI x Web3 技术堆栈展开 infra 新叙事](https://mp.weixin.qq.com/s/-QZG5-KOrwIFhf1YBZm8KQ)
 append_entries: 1
 Finish: 2024-04-02 06:43:41.652356
+------------------------------------------------------
+Started: 2024-04-02 06:51:02.032564
+Existing_entries: 1001
+Fetching from https://www.chainfeeds.xyz/rss
+append_entries: 0
+Finish: 2024-04-02 06:51:02.895199
