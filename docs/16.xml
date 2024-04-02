@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>什么是 RWA 的直接代币化？</title>
 <link>https://medium.com/alphawallet/什么是rwa的直接代币化-e0065f405f90</link>
 <guid>https://medium.com/alphawallet/什么是rwa的直接代币化-e0065f405f90</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章讨论了RWA代币化的另一种路径，即直接将实体经济中的基础元素代币化。通过直接代币化实体经济元素，可以提高交易和使用效率，促进新商业模式和服务的创造，降低监管。然而，这种模式也面临着挑战，如确保代币与实体资产的一致性和处理法律监管问题。SmartLayer技术被认为是实现这一路径的关键，通过连接代币与实体经济中的基础元素，增强了代币的实用性和互动性。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章讨论了RWA代币化的另一种路径，即直接将实体经济中的基础元素代币化。通过直接代币化实体经济元素，可以提高交易和使用效率，促进新商业模式和服务的创造，降低监管。然而，这种模式也面临着挑战，如确保代币与实体资产的一致性和处理法律监管问题。SmartLayer技术被认为是实现这一路径的关键，通过连接代币与实体经济中的基础元素，增强了代币的实用性和互动性。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>大多数人在提及 RWA 代币化时，往往指向将已存在的金融资产转换为区块链上的数字代币。Smart Layer 创始人兼 CEO Victor Zhang 撰文探讨 RWA 代币化的另一条路径 —— 直接将实体经济中的基础元素代币化，进而重新定义什么是真正的 RWA 代币化。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://medium.com/alphawallet/什么是rwa的直接代币化-e0065f405f90">https://medium.com/alphawallet/什么是rwa的直接代币化-e0065f405f90</a></p>
 <p><strong>文章作者：</strong></p><p>Victor Zhang（Smart Token Labs 联创兼首席执行官）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Victor Zhang（Smart Token Labs 联创兼首席执行官）：</strong>现行 RWA 代币化模式过于依赖现有的金融资产框架，缺乏对实体经济直接价值的捕捉和表达，同时要接受现有金融框架的严格监管。想象一种不同的 RWA 代币化路径：直接将实体经济中的基础元素，如商品、服务、或任何有形与无形的资产转化为数字代币。这些代币不仅能代表资产所有权，可以交易，还能直接用于使用、获取服务或实现具体功能。这种路径具有以下特点：
@@ -23,10 +24,8 @@
 
 在这个未来的构想中，SmartLayer 技术是实现的关键。通过可编程的 token 前端（ERC-5169 和 TokenScript）与服务端运行环境，SmartLayer 可以创建一种机制来连接代币与实体经济中的基础元素。这种绑定不仅保证了代币与其代表的产品或服务之间的一一对应关系，还使得代币能直接用于操作或访问相应实体资产，极大地增强了代币的实用性和互动性，使数字资产和实体世界之间的界限变得模糊。</p><a href="https://medium.com/alphawallet/什么是rwa的直接代币化-e0065f405f90">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-02T04:14:01+00:00</pubDate>
 </item>
-
 <item>
 <title>【英文】对最近 Bittensor 批评的回应，无用项目还是 AI Launchpad？</title>
 <link>https://www.ar.ca/blog/a-response-to-recent-bittensor-criticism</link>
@@ -11226,16 +11225,6 @@ zkLightClient 是 Polyhedra Network 团队开发的用于 LayerZero 跨链协议
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，以 10 亿美元估值。Polychain Capital 领投，多家投资方参与。融资将用于团队扩大和业务发展。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。ZK 互操作协议 zkBridge 的开发商 Polyhedra Network 完成了 2000 万美元的战略融资，估值达到 10 亿美元。主要投资者包括 Polychain Capital、Animoca Brands、Hashkey Capital 等。这轮融资将用于招聘，并计划将团队规模扩大至80人。此前的四轮融资也是通过未来代币或 SAFT 进行的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
