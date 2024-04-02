@@ -18511,3 +18511,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [数据：4月1日灰度GBTC资金净流出3.03亿美元](https://www.panewslab.com/zh/sqarticledetails/xy0owau6.html)
 append_entries: 1
 Finish: 2024-04-01 23:54:25.690641
+------------------------------------------------------
+Started: 2024-04-02 00:31:37.345815
+Existing_entries: 855
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 217
+Summarized using GPT-3.5-turbo-1106
+Append: [Coinbase和Circle反对巴塞尔委员会提出的稳定币要求](https://www.panewslab.com/zh/sqarticledetails/9xfr3vaa.html)
+Token length: 216
+Summarized using GPT-3.5-turbo-1106
+Append: [MakerDAO正考虑将价值6亿美元的DAI分配至USDe和sUSDe](https://www.panewslab.com/zh/sqarticledetails/9woft4ns.html)
+Token length: 3967
+Summarized using GPT-3.5-turbo-1106
+Append: [站在百万人“尸体上”掘金：他在FTX 破产债权上，赚了2500万美元](https://www.panewslab.com/zh/articledetails/oluvjcnl.html)
+append_entries: 3
+Finish: 2024-04-02 00:31:46.856363

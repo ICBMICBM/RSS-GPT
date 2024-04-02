@@ -4,6 +4,37 @@
 <title>Bitcoinist.com</title>
 <link>https://bitcoinist.com</link>
 
+<item>
+<title>Inside Ethereum’s Roadmap: Buterin Reveals Plans For The Purge</title>
+<link>https://bitcoinist.com/ethereum-roadmap-buterin-reveals-plans-the-purge/</link>
+<guid>https://bitcoinist.com/ethereum-roadmap-buterin-reveals-plans-the-purge/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。 Vitalik Buterin提出了名为“The Purge”的计划，旨在通过简化协议和引入一些EIP来改善以太坊网络的操作和安全性。核心改进包括删除废弃功能，优化EVM、历史数据管理和LOG操作，以及过渡到SimpleSerialize（SSZ）。这些措施有助于提高以太坊的可扩展性、安全性和可持续性，并为未来的挑战做好准备。目前，ETH的交易价格为3524美元。 <div>
+<p>In an in-depth exploration of Ethereum&#8217;s future, co-founder Vitalik Buterin has <a href="https://twitter.com/VitalikButerin/status/1774729072561811583" rel="noopener nofollow" target="_blank">detailed</a> an ambitious set of initiatives aimed at refining the protocol and easing the burden on node operators. Dubbed &#8220;The Purge,&#8221; this multifaceted plan targets the removal of obsolete functionalities and the introduction of several Ethereum Improvement Proposals (EIPs) to streamline the network&#8217;s operations and security.</p>
+<p>Through a series of technical enhancements and optimizations, Buterin seeks not just simplification but a profound <a href="https://bitcoinist.com/vitalik-buterin-reveals-ethereums-roadmap-for-2024/" rel="noopener " target="_blank">evolution of ETH</a> in its operational dynamics.</p>
+<h2>The Broader Purge: A Sweeping Clean-Up</h2>
+<p>At the core of The Purge is EIP-6780, which emerged from the <a href="https://bitcoinist.com/ethereum-fees-spike-but-relief-on-the-horizon/" rel="noopener " target="_blank">Dencun hard fork</a>, dramatically diminishing the SELFDESTRUCT opcode&#8217;s capabilities. This opcode, which enables contracts to eliminate themselves from the blockchain, has been restricted to only operate if the contract was created in the same transaction.</p>
+<p>&#8220;EIP-6780 is a pivotal example of our commitment to protocol simplification by stripping away complexity while enhancing security,&#8221; Buterin articulated in his blog post. The adjustments introduced by EIP-6780, while seemingly incremental, lay down essential invariants that simplify the construction and maintenance of ETH clients and infrastructure.</p>
+
+<p>Buterin elaborates on these changes: &#8220;Post EIP-6780, a new invariant caps the number of storage slots editable in a single block, directly facilitating the eventual implementation of Verkle trees. Moreover, a contract will maintain its code throughout a transaction or block, bolstering security and efficiency across the board.&#8221;</p>
+<p>Beyond the confines of EIP-6780, The Purge encompasses a broad spectrum of enhancements. Geth&#8217;s recent purge of thousands of lines of legacy code, the dismissal of &#8220;empty accounts,&#8221; and the establishment of an 18-day blob storage window post-Dencun represent pivotal strides towards a leaner, more agile Ethereum.</p>
+<p>&#8220;These measures are not merely about reducing storage and computational overheads; they&#8217;re about ensuring Ethereum remains scalable, secure, and sustainable,&#8221; Buterin notes, highlighting the importance of these seemingly backend optimizations for the broader ecosystem.</p>
+<p>Buterin points to the diminishing relevance and inherent complexities of precompiles within the Ethereum framework. &#8220;The utility of certain precompiles has not met our initial expectations, complicating new EVM implementations and presenting consensus challenges,&#8221; Buterin observes, suggesting a phased removal or replacement with EVM-compatible code to mitigate these issues without adversely impacting existing applications.</p>
+EIP-4444, LOG Reform And Transition To SSZ
+<p>One of the most transformative proposals within The Purge is EIP-4444, which aims to redefine how Ethereum nodes manage historical data. By limiting the storage obligation to a manageable duration, Buterin proposes a paradigm shift in node operation, potentially democratizing node maintenance and fostering greater decentralization.</p>
+<p>&#8220;Imagine a future where nodes, by not being burdened with the entirety of history, can operate more efficiently, contributing to a more decentralized network,&#8221; Buterin muses, emphasizing the strategic importance of EIP-4444 in Ethereum&#8217;s long-term vision.</p>
+
+<p>Buterin also proposes a LOG reform to address the inefficiencies in how decentralized applications query historical event data. &#8220;Our current mechanism is too slow, pushing dApps towards centralized solutions. By simplifying the LOG opcode and leveraging ZK-SNARKs, we can create a more efficient and decentralized framework for accessing logs,&#8221; Buterin argues, showcasing a commitment to maintaining Ethereum&#8217;s decentralized ethos while improving its technical infrastructure.</p>
+<p>The transition to SimpleSerialize (SSZ) represents another cornerstone of The Purge, promising a more streamlined and efficient serialization method. &#8220;SSZ not only simplifies the specification but also significantly reduces Merkle proof sizes, enhancing both efficiency and security,&#8221; Buterin explains, underscoring the critical nature of this transition for Ethereum&#8217;s future.</p>
+A Leaner, More Efficient Ethereum
+<p>Through The Purge, Ethereum is not merely shedding excess weight but is undergoing a profound transformation. By addressing legacy issues, optimizing operational efficiencies, and laying down a roadmap for future enhancements, Ethereum is poised to enhance its scalability, security, and sustainability.</p>
+<p>&#8220;These efforts are about more than simplification; they&#8217;re about ensuring Ethereum&#8217;s resilience and adaptability in the face of future challenges,&#8221; Buterin concludes, casting a vision of an <a href="https://bitcoinist.com/vitalik-buterin-ethereum-network/" rel="noopener " target="_blank">Ethereum network</a> that is leaner, more efficient, and ready for the demands of tomorrow.</p>
+<p>At press time, ETH traded at $3,524.</p>
+<img alt="Ethereum price" class="size-full wp-image-291171" height="472" src="https://bitcoinist.com/wp-content/uploads/2024/04/ETHUSD_2024-04-01_16-38-08.png?resize=1024%2C472" width="1024" />
+]]></content:encoded>
+<pubDate>Tue, 02 Apr 2024 00:00:52 +0000</pubDate>
+<pubDate>Tue, 02 Apr 2024 00:00:52 +0000</pubDate>
+</item>
 
 <item>
 <title>Shiba Inu Turns Bullish: Crypto Analyst Predicts Massive Price Surge</title>
