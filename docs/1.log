@@ -18766,3 +18766,12 @@ Existing_entries: 878
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-02 06:58:11.504654
+------------------------------------------------------
+Started: 2024-04-02 07:14:29.337680
+Existing_entries: 878
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 6296
+Summarized using GPT-3.5-turbo-1106
+Append: [Fantom即将上线亚秒级交易网络Sonic，将如何影响当今Layer2格局？](https://www.panewslab.com/zh/articledetails/6kckr5mc.html)
+append_entries: 1
+Finish: 2024-04-02 07:14:34.262466
