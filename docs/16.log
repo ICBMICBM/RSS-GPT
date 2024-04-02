@@ -18394,3 +18394,12 @@ Existing_entries: 1000
 Fetching from https://www.chainfeeds.xyz/rss
 append_entries: 0
 Finish: 2024-04-02 06:36:13.044739
+------------------------------------------------------
+Started: 2024-04-02 06:43:37.916363
+Existing_entries: 1000
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 821
+Summarized using GPT-3.5-turbo-1106
+Append: [IOSG 周报：从 AI x Web3 技术堆栈展开 infra 新叙事](https://mp.weixin.qq.com/s/-QZG5-KOrwIFhf1YBZm8KQ)
+append_entries: 1
+Finish: 2024-04-02 06:43:41.652356

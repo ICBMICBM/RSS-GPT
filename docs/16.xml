@@ -4,6 +4,27 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>IOSG 周报：从 AI x Web3 技术堆栈展开 infra 新叙事</title>
+<link>https://mp.weixin.qq.com/s/-QZG5-KOrwIFhf1YBZm8KQ</link>
+<guid>https://mp.weixin.qq.com/s/-QZG5-KOrwIFhf1YBZm8KQ</guid>
+<content:encoded><![CDATA[
+<div> <b>摘要：</b><br>这些信息是积极的。<br>大型语言模型（LLMs）的发展引发了AI x Crypto的兴趣。IOSG Ventures讨论了三种融合AI和加密的主要方式：将AI融入现有产品、构建AI基础设施、利用区块链解决AI问题。开发者正在构建基础设施，以在链上进行安全且无需信任的AI推理。区块链技术有望解决AI行业中的挑战，并使AI模型更加负担得起和易于访问。加密领域可能跟随AI行业的发展并受益于多模态模型等创新。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>最近，大型语言模型（LLMs）的迅猛发展引发了人们对利用人工智能（AI）改造各行业的兴趣。区块链行业也未能幸免，AI x Crypto 叙事的出现使其备受瞩目。IOSG Ventures 撰文探讨了融合 AI 和加密的三种主要方式，以及区块链技术在解决 AI 行业问题上的独特机遇。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/-QZG5-KOrwIFhf1YBZm8KQ">https://mp.weixin.qq.com/s/-QZG5-KOrwIFhf1YBZm8KQ</a></p>
+<p><strong>文章作者：</strong></p><p>IOSG Ventures</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>IOSG Ventures：</strong>AI x Crypto 的三种途径包括：
+
+- 将 AI 融入现有产品中：像 Dune 这样的公司正在利用 AI 增强其产品，比如引入 SQL copilot 来帮助用户编写复杂查询。
+- 为加密生态系统构建 AI 基础设施：Ritual 和 Autonolas 等新创公司专注于开发 AI 驱动的基础设施，专为加密生态系统需求量身定制。
+- 利用区块链解决 AI 行业问题：Gensyn、EZKL 和 [io.net](http://io.net) 等项目正在探讨区块链技术如何解决 AI 行业面临的挑战，如数据隐私、安全性和透明度。
+
+当前，开发者正专注于构建基础设施，将先进的 AI 模型引入链上，虽然我们尚未达到目标。随着我们继续发展这一基础设施，我们也在探索最佳用户场景，以安全和无需信任的方式在链上进行 AI 推理，这为区块链领域提供了独特机遇。其他行业可以直接使用现有的 LLM 基础设施进行推理和微调。只有区块链行业需要自己的原生 AI 基础设施。
+
+在不久的将来，我们预计区块链技术将利用其点对点的优势来解决人工智能行业中最具挑战性的问题，使 AI 模型对每个人都更加负担得起、易于访问和盈利。我们也期待加密领域将跟随 AI 行业的叙事，尽管略有延迟。在过去一年中，我们见证了开发者将 Crypto，代理和 LLM 模型相结合。在接下来的几个月内，我们可能会看到更多多模态模型、文字视频生成和 3D 生成影响 Crypto 领域。</p><a href="https://mp.weixin.qq.com/s/-QZG5-KOrwIFhf1YBZm8KQ">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-02T06:38:09+00:00</pubDate>
+</item>
 
 <item>
 <title>【英文】Variant：Farcaster 生态系统初创公司应该构建何种应用？</title>
