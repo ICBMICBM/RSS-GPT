@@ -14577,3 +14577,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [FTX Founder Sam Bankman-Fried Breaks Silence, Announces Appeal For 25-Year Conviction](https://www.newsbtc.com/ftx/ftx-founder-sam-bankman-fried-breaks-silence-announces-appeal-for-25-year-conviction/)
 append_entries: 2
 Finish: 2024-04-02 03:10:23.700814
+------------------------------------------------------
+Started: 2024-04-02 03:24:05.538669
+Existing_entries: 238
+Fetching from https://www.newsbtc.com/feed
+append_entries: 0
+Finish: 2024-04-02 03:24:05.676350
