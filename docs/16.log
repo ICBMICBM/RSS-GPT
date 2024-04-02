@@ -18481,3 +18481,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [【英文】Paradigm：加密货币最大的怀疑论者是 EVM](https://policy.paradigm.xyz/writing/Cryptos-Biggest-Skeptics-are-EVM-pilled)
 append_entries: 2
 Finish: 2024-04-02 08:41:56.788883
+------------------------------------------------------
+Started: 2024-04-02 08:49:28.309897
+Existing_entries: 1002
+Fetching from https://www.chainfeeds.xyz/rss
+append_entries: 0
+Finish: 2024-04-02 08:49:28.823454
