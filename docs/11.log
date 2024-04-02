@@ -15504,3 +15504,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [First Mover Americas: Bitcoin Drops to $65K to Start the Month](https://www.coindesk.com/markets/2024/04/02/first-mover-americas-bitcoin-drops-to-65k-to-start-the-month/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 3
 Finish: 2024-04-02 12:28:03.480180
+------------------------------------------------------
+Started: 2024-04-02 12:47:59.273412
+Existing_entries: 317
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-04-02 12:47:59.731929
