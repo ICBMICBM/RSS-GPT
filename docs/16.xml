@@ -4,6 +4,28 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>什么是 RWA 的直接代币化？</title>
+<link>https://medium.com/alphawallet/什么是rwa的直接代币化-e0065f405f90</link>
+<guid>https://medium.com/alphawallet/什么是rwa的直接代币化-e0065f405f90</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章讨论了RWA代币化的另一种路径，即直接将实体经济中的基础元素代币化。通过直接代币化实体经济元素，可以提高交易和使用效率，促进新商业模式和服务的创造，降低监管。然而，这种模式也面临着挑战，如确保代币与实体资产的一致性和处理法律监管问题。SmartLayer技术被认为是实现这一路径的关键，通过连接代币与实体经济中的基础元素，增强了代币的实用性和互动性。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>大多数人在提及 RWA 代币化时，往往指向将已存在的金融资产转换为区块链上的数字代币。Smart Layer 创始人兼 CEO Victor Zhang 撰文探讨 RWA 代币化的另一条路径 —— 直接将实体经济中的基础元素代币化，进而重新定义什么是真正的 RWA 代币化。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://medium.com/alphawallet/什么是rwa的直接代币化-e0065f405f90">https://medium.com/alphawallet/什么是rwa的直接代币化-e0065f405f90</a></p>
+<p><strong>文章作者：</strong></p><p>Victor Zhang（Smart Token Labs 联创兼首席执行官）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Victor Zhang（Smart Token Labs 联创兼首席执行官）：</strong>现行 RWA 代币化模式过于依赖现有的金融资产框架，缺乏对实体经济直接价值的捕捉和表达，同时要接受现有金融框架的严格监管。想象一种不同的 RWA 代币化路径：直接将实体经济中的基础元素，如商品、服务、或任何有形与无形的资产转化为数字代币。这些代币不仅能代表资产所有权，可以交易，还能直接用于使用、获取服务或实现具体功能。这种路径具有以下特点：
+
+- 直接性：代币直接对应实体经济中的具体资产或服务，减少了转换链条，提高了交易和使用的效率。
+- 灵活性：除了在传统金融市场流通，还可以直接应用于实体经济领域，如通过代币交换商品或服务。
+- 创新性：促进了新的商业模式和服务的创造，为实体经济注入新的活力。
+- 低监管：因为代币化的是实体经济中的基础元素，如商品、服务，而不是金融资产，对应的监管会宽松很多。
+
+这种直接代币化实体经济元素的模式虽然充满吸引力，但也面临着挑战，包括确保代币与实体资产之间的一致性、处理法律和监管问题、以及建立消费者和市场的信任等。尽管如此，这条路径为实体经济与数字经济的融合提供了新的视角和可能性。它不仅有望提高资产流动性，还将促进新商业模式的产生，增加消费者参与度，最终推动经济的增长和创新。
+
+在这个未来的构想中，SmartLayer 技术是实现的关键。通过可编程的 token 前端（ERC-5169 和 TokenScript）与服务端运行环境，SmartLayer 可以创建一种机制来连接代币与实体经济中的基础元素。这种绑定不仅保证了代币与其代表的产品或服务之间的一一对应关系，还使得代币能直接用于操作或访问相应实体资产，极大地增强了代币的实用性和互动性，使数字资产和实体世界之间的界限变得模糊。</p><a href="https://medium.com/alphawallet/什么是rwa的直接代币化-e0065f405f90">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-02T04:14:01+00:00</pubDate>
+</item>
 
 <item>
 <title>【英文】对最近 Bittensor 批评的回应，无用项目还是 AI Launchpad？</title>

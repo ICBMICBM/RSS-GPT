@@ -18658,3 +18658,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [比特币现货ETF昨日总净流出8584万美元，其中灰度GBTC单日净流出3.02亿美元](https://www.panewslab.com/zh/sqarticledetails/hro45l67.html)
 append_entries: 1
 Finish: 2024-04-02 04:35:35.165455
+------------------------------------------------------
+Started: 2024-04-02 04:42:30.148797
+Existing_entries: 872
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+append_entries: 0
+Finish: 2024-04-02 04:43:24.716121
