@@ -14565,3 +14565,15 @@ Existing_entries: 236
 Fetching from https://www.newsbtc.com/feed
 append_entries: 0
 Finish: 2024-04-02 02:55:05.413227
+------------------------------------------------------
+Started: 2024-04-02 03:10:18.208034
+Existing_entries: 236
+Fetching from https://www.newsbtc.com/feed
+Token length: 2399
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin Price Dumped To $66K As Bears Gain Strength, $64K Next?](https://www.newsbtc.com/analysis/btc/bitcoin-price-dumped-to-66k/)
+Token length: 3643
+Summarized using GPT-3.5-turbo-1106
+Append: [FTX Founder Sam Bankman-Fried Breaks Silence, Announces Appeal For 25-Year Conviction](https://www.newsbtc.com/ftx/ftx-founder-sam-bankman-fried-breaks-silence-announces-appeal-for-25-year-conviction/)
+append_entries: 2
+Finish: 2024-04-02 03:10:23.700814
