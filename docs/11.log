@@ -15231,3 +15231,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bitcoin Drops Over 5% as Upbeat U.S. Factory Data Powers Dollar Index to Nearly 5-Month High](https://www.coindesk.com/markets/2024/04/02/bitcoin-drops-over-5-as-upbeat-us-factory-data-powers-dollar-index-to-nearly-5-month-high/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-04-02 05:39:31.174321
+------------------------------------------------------
+Started: 2024-04-02 05:46:46.470501
+Existing_entries: 306
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-04-02 05:46:46.929651
