@@ -18856,3 +18856,24 @@ Existing_entries: 884
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-02 08:56:43.407783
+------------------------------------------------------
+Started: 2024-04-02 09:11:43.806155
+Existing_entries: 884
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 89
+Summarized using GPT-3.5-turbo-1106
+Append: [行情：比特币跌破66000美元，日内跌幅3.30%](https://www.panewslab.com/zh/sqarticledetails/vpt204xb.html)
+Token length: 121
+Summarized using GPT-3.5-turbo-1106
+Append: [ENA空投TOP10地址共申领1808万枚ENA，目前仅有1个地址尚未卖出](https://www.panewslab.com/zh/sqarticledetails/oyvz3hr0.html)
+Token length: 2153
+Summarized using GPT-3.5-turbo-1106
+Append: [半个月最高涨近7倍，Core突然崛起背后得益BTCFi新叙事](https://www.panewslab.com/zh/articledetails/oye94h6v.html)
+Token length: 4934
+Summarized using GPT-3.5-turbo-1106
+Append: [EIP-4844经济学：深入探索Rollup的数据可用策略](https://www.panewslab.com/zh/articledetails/d4ebxizp.html)
+Token length: 143
+Summarized using GPT-3.5-turbo-1106
+Append: [币安理财、闪兑、杠杆、合约上线Ethena(ENA)](https://www.panewslab.com/zh/sqarticledetails/tb8f5i0u.html)
+append_entries: 5
+Finish: 2024-04-02 09:11:57.980015
