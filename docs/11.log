@@ -15300,3 +15300,12 @@ Existing_entries: 307
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-02 07:31:47.676207
+------------------------------------------------------
+Started: 2024-04-02 07:39:01.146384
+Existing_entries: 307
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 40
+Summarized using GPT-3.5-turbo-1106
+Append: [Crypto Bulls See $400M Liquidations as Solana, Dogecoin Lead Slide in Majors](https://www.coindesk.com/markets/2024/04/02/crypto-bulls-see-400m-liquidations-as-solana-dogecoin-lead-slide-in-majors/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-02 07:39:04.385705
