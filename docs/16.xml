@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>【英文】对最近 Bittensor 批评的回应，无用项目还是 AI Launchpad？</title>
 <link>https://www.ar.ca/blog/a-response-to-recent-bittensor-criticism</link>
 <guid>https://www.ar.ca/blog/a-response-to-recent-bittensor-criticism</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。<br>文章介绍了Bittensor因其运营效率和激励机制受到批评的情况。针对效率问题，需要打破所有查询都发送给每个矿工的神话。激励机制的批评认为子网所有者制定的激励机制限制了子网的集体智慧，但竞争元素可以促进更完善的激励和验证框架。同时，对RAO基金创建的用于文本提示的子网1和当前系统依赖验证者的利他主义也进行了讨论。Opentensor基金会提出了一个解决方案，建议增加一种基于市场的机制来确定所有TAO质押者参与的子网排放量。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。<br />文章介绍了Bittensor因其运营效率和激励机制受到批评的情况。针对效率问题，需要打破所有查询都发送给每个矿工的神话。激励机制的批评认为子网所有者制定的激励机制限制了子网的集体智慧，但竞争元素可以促进更完善的激励和验证框架。同时，对RAO基金创建的用于文本提示的子网1和当前系统依赖验证者的利他主义也进行了讨论。Opentensor基金会提出了一个解决方案，建议增加一种基于市场的机制来确定所有TAO质押者参与的子网排放量。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>上周末，Bittensor 成为被批评的主要目标，一些知名投资者将其斥之为无用项目，或将其代币 TAO 称为仅仅是一种 memecoin。Arca 分析师 Nick Hotz 和 OSS Capital 合伙人 Sami Kassab 共同撰文，旨在消除一些不正确的信息，同时提出对该协议未来的乐观看法。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://www.ar.ca/blog/a-response-to-recent-bittensor-criticism">https://www.ar.ca/blog/a-response-to-recent-bittensor-criticism</a></p>
 <p><strong>文章作者：</strong></p><p>Sami Kassab（Messari 分析师）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Sami Kassab（Messari 分析师）：</strong>最近，Bittensor 因其运营效率和激励机制受到批评，有人认为这阻碍了矿工的创新，激励矿工做出类似回应。要解决效率问题，就必须打破子网上所有查询都发送给每个矿工的神话。事实上，只有以矿工评估为目的的查询才会分发到整个子网，用户发起的查询会根据验证者路由策略有选择地路由到单个或一组矿工。此外，查询不在区块链上进行，而是在完全独立于区块链堆栈的 API 层进行。
@@ -20,10 +21,8 @@
 
 另一个担忧是，当前系统的正常运行很大程度上依赖验证者的利他主义。验证者可以决定每个子网接收的排放量，但没有明确的激励机制来选择有利于 Bittensor 长期生产力的子网。在当前设计中，验证者很容易采用付费机制或任人唯亲。为解决这一问题，Opentensor 基金会贡献者最近提出了 BIT001：动态 TAO，建议增加一种基于市场的机制，用于确定所有 TAO 质押者都将参与竞争的子网的排放量。【原文为英文】</p><a href="https://www.ar.ca/blog/a-response-to-recent-bittensor-criticism">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-02T03:29:35+00:00</pubDate>
 </item>
-
 <item>
 <title>Ethena 将于 4 月 2 日开启第 2 季「Sats」活动</title>
 <link>https://mirror.xyz/0xF99d0E4E3435cc9C9868D1C6274DfaB3e2721341/GTbzFynrve4gzSjIEKL0vz7Kq0UHkIiekHkup0EXgjU</link>
@@ -11215,16 +11214,6 @@ zkLightClient 是 Polyhedra Network 团队开发的用于 LayerZero 跨链协议
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />这些信息是积极的。ZK 互操作协议 zkBridge 的开发商 Polyhedra Network 完成了 2000 万美元的战略融资，估值达到 10 亿美元。主要投资者包括 Polychain Capital、Animoca Brands、Hashkey Capital 等。这轮融资将用于招聘，并计划将团队规模扩大至80人。此前的四轮融资也是通过未来代币或 SAFT 进行的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。zkBridge开发商Polyhedra Network以10亿美元估值完成了2000万美元战略融资，由Polychain Capital领投，其他投资方包括Animoca Brands、Hashkey Capital等。融资将用于招聘员工，将团队规模从50人扩大到80人，以支持产品、工程、业务开发和营销等跨职能部门的发展。融资通过未来代币或SAFT简单协议完成。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
