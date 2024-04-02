@@ -18991,3 +18991,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [资产管理公司GoldenTree将其加密子公司GoldenChain出售给Republic](https://www.panewslab.com/zh/sqarticledetails/4vz030da.html)
 append_entries: 2
 Finish: 2024-04-02 11:29:04.701582
+------------------------------------------------------
+Started: 2024-04-02 11:36:21.502173
+Existing_entries: 899
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 331
+Summarized using GPT-3.5-turbo-1106
+Append: [Aave社区新提案拟通过调整DAI风险参数以减轻MakerDAO“激进行动”的潜在风险](https://www.panewslab.com/zh/sqarticledetails/80ij46af.html)
+append_entries: 1
+Finish: 2024-04-02 11:36:27.289308
