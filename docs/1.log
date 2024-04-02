@@ -18961,3 +18961,12 @@ Existing_entries: 895
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-02 10:52:53.965488
+------------------------------------------------------
+Started: 2024-04-02 11:00:19.606720
+Existing_entries: 895
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 13112
+Summarized using GPT-3.5-turbo-1106
+Append: [Web3安全警示丨LST大热背后的风险：Prisma Finance攻击事件分析](https://www.panewslab.com/zh/articledetails/ht2ef8jx.html)
+append_entries: 1
+Finish: 2024-04-02 11:00:25.592310
