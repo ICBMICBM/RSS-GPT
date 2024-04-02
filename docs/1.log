@@ -18889,3 +18889,12 @@ Existing_entries: 889
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-02 09:30:24.124564
+------------------------------------------------------
+Started: 2024-04-02 09:37:46.937116
+Existing_entries: 889
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 5371
+Summarized using GPT-3.5-turbo-1106
+Append: [Web3寡头正在剥削用户: 从Tokenomics到Pointomics](https://www.panewslab.com/zh/articledetails/73qj8b486no3.html)
+append_entries: 1
+Finish: 2024-04-02 09:37:53.604685

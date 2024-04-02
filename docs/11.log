@@ -15384,3 +15384,12 @@ Existing_entries: 311
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-02 09:30:29.800250
+------------------------------------------------------
+Started: 2024-04-02 09:37:59.407074
+Existing_entries: 311
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 43
+Summarized using GPT-3.5-turbo-1106
+Append: [Ethena Labs' ENA Token Goes Live, Starts Trading at 64 Cents](https://www.coindesk.com/markets/2024/04/02/ethena-labs-ena-token-goes-live-start-trading-at-64-cents/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-02 09:38:03.089601
