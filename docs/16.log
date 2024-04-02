@@ -18526,3 +18526,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [【英文长推】深入探讨 zkSync 如何在协议中实现帐户抽象](https://twitter.com/threesigmaxyz/status/1774798724763685331)
 append_entries: 1
 Finish: 2024-04-02 09:45:12.887698
+------------------------------------------------------
+Started: 2024-04-02 09:52:35.035846
+Existing_entries: 1001
+Fetching from https://www.chainfeeds.xyz/rss
+append_entries: 0
+Finish: 2024-04-02 09:52:36.039385

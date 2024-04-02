@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>【英文长推】深入探讨 zkSync 如何在协议中实现帐户抽象</title>
 <link>https://twitter.com/threesigmaxyz/status/1774798724763685331</link>
 <guid>https://twitter.com/threesigmaxyz/status/1774798724763685331</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：这些信息是积极的。文章介绍了zkSync协议的架构，重点探讨了zk-rollups和validium的集成以及帐户抽象的实现。智能账户和paymasters是zkSync中的两个关键组件，通过IAccount接口和IPaymaster接口定义了账户的操作和交易支付。zkSync的账户抽象与以太坊EIP4337的区别在于集成程度、账户类型处理、交易处理方式和对paymaster的支持范围。 <div>
+<div> <br /><br />摘要：这些信息是积极的。文章介绍了zkSync协议的架构，重点探讨了zk-rollups和validium的集成以及帐户抽象的实现。智能账户和paymasters是zkSync中的两个关键组件，通过IAccount接口和IPaymaster接口定义了账户的操作和交易支付。zkSync的账户抽象与以太坊EIP4337的区别在于集成程度、账户类型处理、交易处理方式和对paymaster的支持范围。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>ZK Rollups 和 Account Abstraction 的集成为 Layer2 解决方案带来了全新的可扩展性和灵活性。Three Sigma 撰文深入探讨了 zkSync 协议，以及它们如何在协议中实现帐户抽象。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/threesigmaxyz/status/1774798724763685331">https://twitter.com/threesigmaxyz/status/1774798724763685331</a></p>
 <p><strong>文章作者：</strong></p><p>Three Sigma</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Three Sigma：</strong>zkSync 的架构集成了 zk-rollups 和 validium，分别定义为用于智能合约的 zkEVM 和用于链下数据可用性的 zkPorter。zkSync Era 是第一个原生实现了账户抽象的 EVM 兼容链，通过引入智能账户和 paymasters 两个主要组件，彻底改变了账户操作。
@@ -31,10 +32,8 @@ zkSync 的原生账户抽象和以太坊 EIP 4337 之间的主要区别：
 - 交易处理：zkSync 对所有账户使用统一的 mempool，EIP4337 有单独流程。
 - paymaster：zkSync 支持所有账户的 paymaster，EIP4337 将其限制在智能合约中。【原文为英文】</p><a href="https://twitter.com/threesigmaxyz/status/1774798724763685331">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-02T09:05:01+00:00</pubDate>
 </item>
-
 <item>
 <title>Fantom 即将上线亚秒级交易网络 Sonic，Layer2 能否稳坐宝座？</title>
 <link>https://mp.weixin.qq.com/s/Kn-Jq0Amxcd6Ffcu6G59IA</link>
@@ -11282,22 +11281,6 @@ Tendermint 是一种拜占庭容错的共识算法，采用权益证明（PoS）
 比特币生态系统中有各种各样的 DeFi 项目，从从其他链迁移而来的项目，到在当前发展热潮中在原生比特币网络上构建的项目，以及在上一次牛市期间构建并部署为侧链的项目。总体而言，Alex 提供了最丰富的交易产品和最顺畅的交易体验，但 Orders Exchange 的增长潜力更大。【原文为英文】</p><a href="https://medium.com/@KernelVentures/kernel-ventures-the-upsurge-of-bitcoin-ecosystem-a-panoramic-view-of-its-application-layer-fedeebe50518">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-21T03:44:02+00:00</pubDate>
-</item>
-<item>
-<title>了解 Polyhedra，基于 ZK 技术的跨链巨头</title>
-<link>https://mirror.xyz/0xcBc2B7797B5302Ad2dd2Ef55C8ceFAC769AcA06d/5J2q7T0Edfg9OW5MoQgxxVsn8_XvfW6L_PHVfw71HvI</link>
-<guid>https://mirror.xyz/0xcBc2B7797B5302Ad2dd2Ef55C8ceFAC769AcA06d/5J2q7T0Edfg9OW5MoQgxxVsn8_XvfW6L_PHVfw71HvI</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />Polyhedra Network 的工程团队通过基础算法和零知识协议提升了区块链系统的可扩展性、安全性和互操作性。他们的核心产品 zkBridge 是一个无需信任的跨链桥，能够有效地实现消息传递、代币转移和不同链上状态变化的计算逻辑。zkBridge保证了强大的安全性，并显著降低了链上验证成本。此外，zkLightClient是一种安全高效的跨链基础设施，已安全传输了超过450万条信息，使得 LayerZero 可以将 zkBridge 作为默认的去中心化验证网络。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>在跨链的需求呈现指数型的增加的牛市中，Polyhedra Network 能够实现资产转移、消息传递和数据共享，跨越多种 Web2 和 Web3 系统。到目前为止，Polyhedra 已涵盖了超过 25 个区块链网络。加密货币 KOL 日月小楚从技术特色、产品与服务、融资情况等方面介绍了 Polyhedra。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://mirror.xyz/0xcBc2B7797B5302Ad2dd2Ef55C8ceFAC769AcA06d/5J2q7T0Edfg9OW5MoQgxxVsn8_XvfW6L_PHVfw71HvI">https://mirror.xyz/0xcBc2B7797B5302Ad2dd2Ef55C8ceFAC769AcA06d/5J2q7T0Edfg9OW5MoQgxxVsn8_XvfW6L_PHVfw71HvI</a></p>
-<p><strong>文章作者：</strong></p><p>日月小楚 ｜HZGB</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>日月小楚 ｜HZGB：</strong>Polyhedra Network 的工程团队凭借在密码学方面的专长，开创了一系列基础算法和零知识协议，如 Libra、Virgo、deVirgo、Pianist、Marlin、Gemini 和 Orion，这些协议在行业中树立了新标准，提供了最快的证明者时间、显著减小的证明大小和最小化的链上验证成本。这些基础技术是 Polyhedra 提升区块链系统可扩展性、安全性和互操作性的核心，为解决数字基础设施领域的一些最紧迫挑战提供支持。
-
-zkBridge 作为 Polyhedra Networ k 的核心产品，它被设计为一个无需信任的跨链桥。zkBridge 使用 zkSNARK 使证明者能够有效地让接收的链确认发送者链上发生了某种状态转换。它由区块头中继网络和更新合约组成。通过模块化设计，zkBridge 实现了几项有用的功能，包括消息传递、代币转移以及在不同链上的状态变化上运行的其他计算逻辑。zkBridge 它在不增加额外信任假设的情况下保证了强大的安全性。通过简洁的证明，它不仅保证了正确性，还显著降低了链上验证成本。它的工作负载的速度比现有解决方案快数个数量级。为 layer1 和 layer2 的互操作性提供了可信最小化和高效的跨链基础设施，解决了连接不同区块链网络的实际挑战。
-
-zkLightClient 是 Polyhedra Network 团队开发的用于 LayerZero 跨链协议，它为 layer1 和 layer2 的互操作性提供安全高效的跨链基础设施。该技术完全集成了 LayerZero 的消息协议，使应用开发者可以通过简单的集成配置来使用零知识证明技术进行开发跨链协议。zkLightClient 已经安全传输了超过 450 万条信息。LayerZero 现在将 zkBridge 作为许多路径的默认去中心化验证网络（DVN）。</p><a href="https://mirror.xyz/0xcBc2B7797B5302Ad2dd2Ef55C8ceFAC769AcA06d/5J2q7T0Edfg9OW5MoQgxxVsn8_XvfW6L_PHVfw71HvI">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-21T03:26:12+00:00</pubDate>
 </item>
 </channel>
 </rss>
