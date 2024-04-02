@@ -4,6 +4,42 @@
 <title>NewsBTC</title>
 <link>https://www.newsbtc.com/</link>
 
+<item>
+<title>Bitcoin Price Tumbles Below $66,000: 4 Major Reasons</title>
+<link>https://www.newsbtc.com/news/bitcoin/bitcoin-price-tumbles-below-66000-4-major-reasons/</link>
+<guid>https://www.newsbtc.com/news/bitcoin/bitcoin-price-tumbles-below-66000-4-major-reasons/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：这些信息是消极的。比特币市场经历了重大下跌，价格跌破66000美元的关口。导致这种突然下跌的四个主要因素是：长期清算事件、美元指数上涨、投资者获利了结和现货比特币ETF资金流出。文章详细介绍了长期清算情况、美元指数对比特币的影响、投资者获利了结行为以及比特币ETF的资金流动情况。btc当前交易价为66747美元。 <div>
+<p>The Bitcoin market has witnessed a significant downturn, with prices plummeting below the $66,000 mark. This abrupt -5.6% price movement can be attributed to four major factors: a long liquidation event, a rising US Dollar Index (DXY), profit-taking by investors, and spot Bitcoin ETF outflows.</p>
+#1 Long Liquidations
+<p>The main force leading to today’s downturn in Bitcoin&#8217;s price was a significant <a href="https://www.newsbtc.com/bitcoin-news/bitcoin-rockets-past-69000-over-60k-traders-caught/" rel="noopener " target="_blank">deleveraging event</a> characterized by an unusually high level of long liquidations. Before the downturn, Bitcoin&#8217;s Open Interest (OI) Weighted Funding Rate was unusually high, indicating that leveraged traders were paying premiums to maintain long positions in anticipation of future price increases. This optimism, however, made the market vulnerable to sudden corrections.</p>
+
+<p>Crypto analyst Ted, known as @tedtalksmacro on X (formerly Twitter), <a href="https://twitter.com/tedtalksmacro/status/1774938063611060689" rel="noopener nofollow" target="_blank">remarked</a>, &#8220;Today was the largest long liquidation event since the 19th March.” He further elaborated on the effects of this correction by noting, &#8220;Nice reset in overall positioning today, even on just a 5% drop lower for Bitcoin&#8230; Next leg higher is loading I think.&#8221; This comment highlights the severity of the liquidations and suggests a potential rebound or restructuring within the market as it stabilizes.</p>
+<img alt="Bitcoin Open Interest (OI) Weighted Funding Rate" class="wp-image-600921 size-full" height="998" src="https://www.newsbtc.com/wp-content/uploads/2024/04/GKHYU8RaQAAC5ZB.jpg?resize=1917%2C998" width="1917" />
+<p>Coinglass data reveals that over the last 24 hours, 120,569 traders were liquidated, amounting to $395.53 million in total liquidations, with $311.97 million being long positions. Bitcoin-specific long liquidations were at $87.42 million.</p>
+#2 DXY Puts Pressure On Bitcoin
+<p>With 105.037, the DXY closed at its highest level since November yesterday, evidencing a strengthening US dollar. Given Bitcoin&#8217;s<a href="https://www.newsbtc.com/news/bitcoin/bitcoin-price-targets-46000-dxy-kiss-of-death/" rel="noopener " target="_blank"> inverse correlation</a> with the DXY, the stronger dollar might have shifted investor preference towards safer assets, moving away from riskier investments like Bitcoin.</p>
+<p>This correlation stems from the global market&#8217;s risk sentiment, where a rising DXY often signals a shift towards safer investments, detracting from riskier assets like Bitcoin. However, analyst Coosh Alemzadeh provided a counter perspective, suggesting through a Wyckoff redistribution schema that despite the DXY&#8217;s recent uptick, the next move could favor risk assets, potentially including Bitcoin.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en"><a href="https://twitter.com/hashtag/DXY?src=hash&amp;ref_src=twsrc%5Etfw" rel="nofollow">#DXY</a> <img alt="⬆" class="wp-smiley" src="https://s.w.org/images/core/emoji/14.0.0/72x72/2b06.png" style="height: 1em;" />4 weeks in a row/broke out of its downtrend so consensus is that a new uptrend is starting yet risk assets are consolidating at ATH </p>
+<p>Next move <img alt="⬆" class="wp-smiley" src="https://s.w.org/images/core/emoji/14.0.0/72x72/2b06.png" style="height: 1em;" />in risk assets on deck IMO <a href="https://t.co/u6ORa76vkj" rel="nofollow">pic.twitter.com/u6ORa76vkj</a></p>
+<p>&mdash; “Coosh” Alemzadeh (@AlemzadehC) <a href="https://twitter.com/AlemzadehC/status/1774962160914887002?ref_src=twsrc%5Etfw" rel="nofollow">April 2, 2024</a></p></blockquote>
+<p></p>
+#3 Profit Taking By Investors
+<p>Profit-taking by investors has also played a significant role in the recent price adjustments. The Bitcoin on-chain analysis platform Checkonchain <a href="https://twitter.com/_checkonchain/status/1775044074397130991" rel="noopener nofollow" target="_blank">reported</a> a spike in profit-taking activities.</p>
+
+<p>Glassnode&#8217;s lead on-chain analyst, Checkmatey, shared insights via X, stating, &#8220;The classic Bitcoin MVRV Ratio hits conditions we characterize as &#8216;heated, but not yet overcooked&#8217;. MVRV = above +0.5sd but below +1sd. This indicates that the average BTC holder is sitting on a significant unrealized profit, prompting an uptick in spending.&#8221;</p>
+<img alt="Bitcoin MVRV Ratio " class="wp-image-600919 size-full" height="851" src="https://www.newsbtc.com/wp-content/uploads/2024/04/GKI4FUDakAA2DyG.jpg?resize=1920%2C851" width="1920" />
+<p>The profit-taking coincided with Bitcoin reaching a peak of $73,000, marking a cycle high in profit realization with over 352,000 BTC sold for profit. This selling behavior is typical in bull markets but plays a crucial role in creating resistance levels at local price tops.</p>
+#4 Bitcoin ETF Outflows
+<p>Lastly, the market witnessed notable outflows from Bitcoin ETFs, marking a reversal from <a href="https://www.newsbtc.com/news/bitcoin/bitcoin-etf-sees-60-drop-outflows/" rel="noopener " target="_blank">last week&#8217;s substantial inflows</a>. The total outflows amounted to $85.7 million in a single day, with Grayscale’s GBTC experiencing the most significant withdrawal of $302 million.</p>
+<p>Meanwhile, Blackrock’s IBIT and Fidelity’s FBTC reported positive inflows, totaling $165.9 million and $44 million, respectively. Commenting on this, WhalePanda <a href="https://twitter.com/WhalePanda/status/1775007572828787129" rel="noopener nofollow" target="_blank">remarked</a>, &#8220;Overall negative day but not as negative as the price implied. Closing of Q1 so taking profit here makes sense. Some fuckery around [the] new quarter and halving is to be expected.”</p>
+<p>At press time, BTC traded at $66,647.</p>
+<img alt="Bitcoin price" class="wp-image-600925 size-full" height="1673" src="https://www.newsbtc.com/wp-content/uploads/2024/04/BTCUSD_2024-04-02_09-51-10.png?resize=3628%2C1673" width="3628" />
+]]></content:encoded>
+<pubDate>Tue, 02 Apr 2024 08:50:03 +0000</pubDate>
+<pubDate>Tue, 02 Apr 2024 08:50:03 +0000</pubDate>
+</item>
 
 <item>
 <title>Investor Alert: Ethereum Q2 Potential Promises Double-Digit Gains – Analyst</title>
