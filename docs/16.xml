@@ -4,6 +4,25 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>【英文】对最近 Bittensor 批评的回应，无用项目还是 AI Launchpad？</title>
+<link>https://www.ar.ca/blog/a-response-to-recent-bittensor-criticism</link>
+<guid>https://www.ar.ca/blog/a-response-to-recent-bittensor-criticism</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>文章介绍了Bittensor因其运营效率和激励机制受到批评的情况。针对效率问题，需要打破所有查询都发送给每个矿工的神话。激励机制的批评认为子网所有者制定的激励机制限制了子网的集体智慧，但竞争元素可以促进更完善的激励和验证框架。同时，对RAO基金创建的用于文本提示的子网1和当前系统依赖验证者的利他主义也进行了讨论。Opentensor基金会提出了一个解决方案，建议增加一种基于市场的机制来确定所有TAO质押者参与的子网排放量。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>上周末，Bittensor 成为被批评的主要目标，一些知名投资者将其斥之为无用项目，或将其代币 TAO 称为仅仅是一种 memecoin。Arca 分析师 Nick Hotz 和 OSS Capital 合伙人 Sami Kassab 共同撰文，旨在消除一些不正确的信息，同时提出对该协议未来的乐观看法。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.ar.ca/blog/a-response-to-recent-bittensor-criticism">https://www.ar.ca/blog/a-response-to-recent-bittensor-criticism</a></p>
+<p><strong>文章作者：</strong></p><p>Sami Kassab（Messari 分析师）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Sami Kassab（Messari 分析师）：</strong>最近，Bittensor 因其运营效率和激励机制受到批评，有人认为这阻碍了矿工的创新，激励矿工做出类似回应。要解决效率问题，就必须打破子网上所有查询都发送给每个矿工的神话。事实上，只有以矿工评估为目的的查询才会分发到整个子网，用户发起的查询会根据验证者路由策略有选择地路由到单个或一组矿工。此外，查询不在区块链上进行，而是在完全独立于区块链堆栈的 API 层进行。
+
+关于激励机制的批评认为，由子网所有者制定的激励机制指导矿工的优化工作，限制了子网的集体智慧。目前，大多数子网采用中心化模型判断矿工输出，可能会限制在质量或性能上超越这些模型。这一挑战为 Bittensor 生态系统注入了竞争元素。基于其验证机制的有效性，子网被激励着相互超越，促进了更完善的激励和验证框架。对激励制度的批评认为，该制度鼓励矿工做出类似反应。而实际上，矿工们通过优化子网的特定目标来超越彼此，不仅促进了输出多样性，还推动了创新。
+
+在这些批评声中，RAO 基金会创建的用于文本提示的子网 1 因其激励设计而备受关注。然而，批评源于对子网目标缺乏了解。子网 1 不仅是一个聊天机器人，其目标是激励矿工在其模型中进行有效的信息检索。验证者使用检索到的文件构建参考答案，从而衡量哪个矿工能最快检索到正确信息。需要注意的是，子网 1 仅代表一个团队解决特定问题的方法。根据子网 1 的缺陷来批评整个网络，好比根据单个应用评估以太坊。
+
+另一个担忧是，当前系统的正常运行很大程度上依赖验证者的利他主义。验证者可以决定每个子网接收的排放量，但没有明确的激励机制来选择有利于 Bittensor 长期生产力的子网。在当前设计中，验证者很容易采用付费机制或任人唯亲。为解决这一问题，Opentensor 基金会贡献者最近提出了 BIT001：动态 TAO，建议增加一种基于市场的机制，用于确定所有 TAO 质押者都将参与竞争的子网的排放量。【原文为英文】</p><a href="https://www.ar.ca/blog/a-response-to-recent-bittensor-criticism">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-02T03:29:35+00:00</pubDate>
+</item>
 
 <item>
 <title>Ethena 将于 4 月 2 日开启第 2 季「Sats」活动</title>
