@@ -18670,3 +18670,12 @@ Existing_entries: 872
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-02 04:49:42.869177
+------------------------------------------------------
+Started: 2024-04-02 04:56:55.484238
+Existing_entries: 872
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 254
+Summarized using GPT-3.5-turbo-1106
+Append: [新加坡金管局发布针对数字支付代币公司的新用户保护规定](https://www.panewslab.com/zh/sqarticledetails/kwf69rbl.html)
+append_entries: 1
+Finish: 2024-04-02 04:57:00.092575
