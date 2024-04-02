@@ -15255,3 +15255,12 @@ Existing_entries: 306
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-02 06:26:44.345335
+------------------------------------------------------
+Started: 2024-04-02 06:36:07.509459
+Existing_entries: 306
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 35
+Summarized using GPT-3.5-turbo-1106
+Append: [Singapore Enacts Licencing Requirements for Crypto Custody Services and Others](https://www.coindesk.com/policy/2024/04/02/singapore-enacts-licencing-requirements-for-crypto-custody-services-and-others/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-02 06:36:10.452265
