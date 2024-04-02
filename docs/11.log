@@ -15759,3 +15759,12 @@ Existing_entries: 326
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-02 18:52:12.501858
+------------------------------------------------------
+Started: 2024-04-02 18:59:35.745450
+Existing_entries: 326
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 31
+Summarized using GPT-3.5-turbo-1106
+Append: [Crypto Venture Capital Fundraising Jumped Over 50% in March Amid Rally](https://www.coindesk.com/business/2024/04/02/crypto-venture-capital-fundraising-jumped-over-50-in-march-amid-rally/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-02 18:59:39.272046
