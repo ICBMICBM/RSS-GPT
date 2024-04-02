@@ -4,6 +4,25 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>【英文长推】Ethena 不会像 UST 一样失败，反而会为牛市添柴加薪</title>
+<link>https://twitter.com/degentradingLSD/status/1774723707791196615</link>
+<guid>https://twitter.com/degentradingLSD/status/1774723707791196615</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章指出Ethena是合成美元，与UST不同之处在于其由一篮子资产支持，保值性更高。文章提到Ethena有吸引人之处且可能为牛市添柴，但也存在风险，如交易所风险和操作风险。文章认为Ethena的概念可行，但存在执行和风险缓和的挑战。 Ethena可能改变市场机制，带来新的价格关系，但这仍需未来验证。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>很多人担忧 Ethena 会像 UST 一样失败，加密研究员 degentrading 撰文澄清相关误解，剖析 Ethena 和 UST 的不同之处以及 Ethena 可能存在的风险。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/degentradingLSD/status/1774723707791196615">https://twitter.com/degentradingLSD/status/1774723707791196615</a></p>
+<p><strong>文章作者：</strong></p><p>degentrading</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>degentrading：</strong>Ethena 是一种合成美元。以 ETH 合成美元为例，就是指同时购买现货 ETH（或 stETH）和相应的 ETH 空头。为什么是美元？因为它在任何正常情况下收益都是固定的。只要相对于现货的远期 / 期货 / 永续基差不变，一篮子现货及其相应的空头头寸就会保持相同的价值，不会产生利差和资金费用。为什么有这么大吸引力？简而言之，因为资金面一直非常乐观 —— 牛市中，每个人都在寻找杠杆和廉价美元来借贷。如果市场每天上涨 10%，每 8 小时 5 个基点不是问题。Ethena 最近收益率约 35%。只要该领域存在杠杆需求，这种情况就会持续下去。
+
+UST 失败是因为它由 Luna 支持，随着 Luna 价格暴跌，以美元计价的可用抵押品经历了死亡螺旋。然而，对于 Ethena 来说，支持 USDE 的抵押品是一篮子资产，通常在整个价格范围内都能保值，只要现货 / 永续或现货 / 期货的基差没有崩盘。另外，加密货币总体呈现出下行凸性，价格下跌速度比上涨速度快，这实际上对 Ethena 非常有利。随着价格下跌，在未平仓情况下，Ethena 持有的美元现金比例实际上会增加。这其中的脆弱性，如果说有什么不同，那就是利用 stETH 作为抵押品。stETH 的现货流动性远低于 ETH。然而，Shapella 之后，stETH/ETH 折扣 IMO 存在下限。
+
+房间里的另一头大象是交易对手 / 交易所风险。如果一家交易所在危机中破产，Ethena 可能会因为被拖欠盈利空头头寸的资金而遭受重大损失。不过，他们的交易所列表看起来还不错。最后的风险是操作风险。Ethena 的概念应该可行，但也一定程度上依赖不确定性下的交易、执行和风险管理。危机通常会导致交易者出现失误或被迫退出基差交易，从而产生 Delta 风险。
+
+Ethena 的引入还可能改变市场机制，并带来新的价格关系。不过，这只能在未来验证。我认为 Ethena 实际上会为牛市添柴。目前的做市商往往不会用现货多头对冲永续空头，除非他们正在榨取基差。相反，他们希望 Delta 被清洗。尽管 Ethena 是 Delta 中性的，但它无意中产生的现货需求将导致价格上行，同时对基差施压。总之，Ethena 是一个好概念，如果失败，将是因为极端案例的执行和风险缓和。【原文为英文】</p><a href="https://twitter.com/degentradingLSD/status/1774723707791196615">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-02T10:02:18+00:00</pubDate>
+</item>
 
 <item>
 <title>【英文长推】深入探讨 zkSync 如何在协议中实现帐户抽象</title>

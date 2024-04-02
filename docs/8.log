@@ -14865,3 +14865,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Cardano Rides The ETF Wave: Inflows Surge To $1.1 Million – Details](https://www.newsbtc.com/news/cardano-rides-the-etf-wave-inflows-surge-to-1-1-million-details/)
 append_entries: 1
 Finish: 2024-04-02 10:38:12.527145
+------------------------------------------------------
+Started: 2024-04-02 10:45:46.391188
+Existing_entries: 244
+Fetching from https://www.newsbtc.com/feed
+append_entries: 0
+Finish: 2024-04-02 10:45:46.532968
