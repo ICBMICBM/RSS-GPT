@@ -15783,3 +15783,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bitcoin Cash's 29% Advance Led CoinDesk 20 Gainers Last Week: CoinDesk Indices Market Update](https://www.coindesk.com/markets/2024/04/02/bitcoin-cashs-29-advance-led-coindesk-20-gainers-last-week-coindesk-indices-market-update/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-04-02 19:19:25.416125
+------------------------------------------------------
+Started: 2024-04-02 19:26:43.905733
+Existing_entries: 328
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-04-02 19:26:44.477586
