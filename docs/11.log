@@ -15657,3 +15657,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Silk Road Bitcoin Worth $2B Moved by U.S. Government: On-Chain Data](https://www.coindesk.com/markets/2024/04/02/silk-road-bitcoin-worth-2b-moved-by-us-government-on-chain-data/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-04-02 16:29:38.259820
+------------------------------------------------------
+Started: 2024-04-02 16:39:15.746787
+Existing_entries: 322
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-04-02 16:39:16.152497
