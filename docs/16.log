@@ -18565,3 +18565,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [【英文长推】Ethena 不会像 UST 一样失败，反而会为牛市添柴加薪](https://twitter.com/degentradingLSD/status/1774723707791196615)
 append_entries: 1
 Finish: 2024-04-02 10:45:55.436364
+------------------------------------------------------
+Started: 2024-04-02 10:53:02.660248
+Existing_entries: 1001
+Fetching from https://www.chainfeeds.xyz/rss
+append_entries: 0
+Finish: 2024-04-02 10:53:03.150672

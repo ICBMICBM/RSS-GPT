@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>【英文长推】Ethena 不会像 UST 一样失败，反而会为牛市添柴加薪</title>
 <link>https://twitter.com/degentradingLSD/status/1774723707791196615</link>
 <guid>https://twitter.com/degentradingLSD/status/1774723707791196615</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章指出Ethena是合成美元，与UST不同之处在于其由一篮子资产支持，保值性更高。文章提到Ethena有吸引人之处且可能为牛市添柴，但也存在风险，如交易所风险和操作风险。文章认为Ethena的概念可行，但存在执行和风险缓和的挑战。 Ethena可能改变市场机制，带来新的价格关系，但这仍需未来验证。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章指出Ethena是合成美元，与UST不同之处在于其由一篮子资产支持，保值性更高。文章提到Ethena有吸引人之处且可能为牛市添柴，但也存在风险，如交易所风险和操作风险。文章认为Ethena的概念可行，但存在执行和风险缓和的挑战。 Ethena可能改变市场机制，带来新的价格关系，但这仍需未来验证。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>很多人担忧 Ethena 会像 UST 一样失败，加密研究员 degentrading 撰文澄清相关误解，剖析 Ethena 和 UST 的不同之处以及 Ethena 可能存在的风险。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/degentradingLSD/status/1774723707791196615">https://twitter.com/degentradingLSD/status/1774723707791196615</a></p>
 <p><strong>文章作者：</strong></p><p>degentrading</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>degentrading：</strong>Ethena 是一种合成美元。以 ETH 合成美元为例，就是指同时购买现货 ETH（或 stETH）和相应的 ETH 空头。为什么是美元？因为它在任何正常情况下收益都是固定的。只要相对于现货的远期 / 期货 / 永续基差不变，一篮子现货及其相应的空头头寸就会保持相同的价值，不会产生利差和资金费用。为什么有这么大吸引力？简而言之，因为资金面一直非常乐观 —— 牛市中，每个人都在寻找杠杆和廉价美元来借贷。如果市场每天上涨 10%，每 8 小时 5 个基点不是问题。Ethena 最近收益率约 35%。只要该领域存在杠杆需求，这种情况就会持续下去。
@@ -20,10 +21,8 @@ UST 失败是因为它由 Luna 支持，随着 Luna 价格暴跌，以美元计�
 
 Ethena 的引入还可能改变市场机制，并带来新的价格关系。不过，这只能在未来验证。我认为 Ethena 实际上会为牛市添柴。目前的做市商往往不会用现货多头对冲永续空头，除非他们正在榨取基差。相反，他们希望 Delta 被清洗。尽管 Ethena 是 Delta 中性的，但它无意中产生的现货需求将导致价格上行，同时对基差施压。总之，Ethena 是一个好概念，如果失败，将是因为极端案例的执行和风险缓和。【原文为英文】</p><a href="https://twitter.com/degentradingLSD/status/1774723707791196615">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-02T10:02:18+00:00</pubDate>
 </item>
-
 <item>
 <title>【英文长推】深入探讨 zkSync 如何在协议中实现帐户抽象</title>
 <link>https://twitter.com/threesigmaxyz/status/1774798724763685331</link>
@@ -11284,22 +11283,6 @@ Tendermint 是一种拜占庭容错的共识算法，采用权益证明（PoS）
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>Kernel Ventures： 比特币生态系统的崛起 -- 应用层全景图</title>
-<link>https://medium.com/@KernelVentures/kernel-ventures-the-upsurge-of-bitcoin-ecosystem-a-panoramic-view-of-its-application-layer-fedeebe50518</link>
-<guid>https://medium.com/@KernelVentures/kernel-ventures-the-upsurge-of-bitcoin-ecosystem-a-panoramic-view-of-its-application-layer-fedeebe50518</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。文章介绍了比特币生态系统中的三种主流Layer2解决方案，包括闪电网络、侧链和Rollup。同时还提到了跨链桥项目Meson.Fi和稳定币协议的超额抵押形式。比特币生态系统中的DeFi项目种类繁多，其中像Alex和Orders Exchange等项目为用户提供丰富的交易产品和顺畅的交易体验。整体而言，比特币生态系统在不断发展中，为用户带来了更多选择和机会。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>随着铭文协议的出现，比特币网络正在经历链上数据的激增。链上活动的增加推动了比特币生态系统和基础设施的发展，但也带来了交易量的急剧增加和网络存储负担的上升。简单的转账已无法满足用户的需求，因此，比特币应用层的发展变得十分迫切。Kernel Ventures 成员 Jerry Luo 盘点了比特币生态中的 Layer2、跨链桥、DeFi 等项目。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://medium.com/@KernelVentures/kernel-ventures-the-upsurge-of-bitcoin-ecosystem-a-panoramic-view-of-its-application-layer-fedeebe50518">https://medium.com/@KernelVentures/kernel-ventures-the-upsurge-of-bitcoin-ecosystem-a-panoramic-view-of-its-application-layer-fedeebe50518</a></p>
-<p><strong>文章作者：</strong></p><p>Jerry Luo</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Jerry Luo：</strong>比特币的三种主流 Layer2 解决方案包括闪电网络、侧链和 Rollup。1）闪电网络通过建立离线支付通道实现点对点支付，通道关闭后在主网络上结算。2）侧链通过在主网上锁定 BTC 资产，同时在侧链上铸造等值的 BTC 资产。Merlin Chain 能够支持跨链的多种铭文资产，由 Bitmap 生态系统支持，并且其总锁定价值（TVL）已达近 40 亿美元。3）BTC Rollup 基于 Taproot 电路，可以在链上模拟智能合约，并在主比特币网络外执行打包和计算操作。B2 Network 是该实现的前沿，其链上 TVL 超过 2 亿美元。
-
-针对比特币构建的跨链桥并不常见。更多的是与主流区块链集成的多链和全链桥，其中之一是 Meson.Fi，该项目已与多个比特币 Layer2 建立了关系。比特币网络上的稳定币协议大多采用超额抵押的形式，并支持其他 DeFi 协议，为用户带来更多收益。
-
-比特币生态系统中有各种各样的 DeFi 项目，从从其他链迁移而来的项目，到在当前发展热潮中在原生比特币网络上构建的项目，以及在上一次牛市期间构建并部署为侧链的项目。总体而言，Alex 提供了最丰富的交易产品和最顺畅的交易体验，但 Orders Exchange 的增长潜力更大。【原文为英文】</p><a href="https://medium.com/@KernelVentures/kernel-ventures-the-upsurge-of-bitcoin-ecosystem-a-panoramic-view-of-its-application-layer-fedeebe50518">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-21T03:44:02+00:00</pubDate>
 </item>
 </channel>
 </rss>
