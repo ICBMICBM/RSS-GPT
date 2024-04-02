@@ -19489,3 +19489,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [彭博社：Paradigm正寻求为新基金募资7.5亿至8.5亿美元](https://www.panewslab.com/zh/sqarticledetails/kd34xfpl.html)
 append_entries: 1
 Finish: 2024-04-02 23:33:00.835601
+------------------------------------------------------
+Started: 2024-04-02 23:40:08.009762
+Existing_entries: 921
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 131
+Summarized using GPT-3.5-turbo-1106
+Append: [美国司法部控制的“丝绸之路”钱包地址向Coinbase Prime转入2000枚BTC](https://www.panewslab.com/zh/sqarticledetails/09c9oldt.html)
+append_entries: 1
+Finish: 2024-04-02 23:40:12.861078
