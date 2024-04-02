@@ -19198,3 +19198,12 @@ Existing_entries: 916
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-02 15:55:30.081575
+------------------------------------------------------
+Started: 2024-04-02 16:10:29.713933
+Existing_entries: 916
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 114
+Summarized using GPT-3.5-turbo-1106
+Append: [美国司法部控制的“丝绸之路”钱包地址向Coinbase Prime转入0.001 BTC，或为测试交易](https://www.panewslab.com/zh/sqarticledetails/kxcm996y.html)
+append_entries: 1
+Finish: 2024-04-02 16:10:33.467244
