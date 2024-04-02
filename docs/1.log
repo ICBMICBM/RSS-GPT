@@ -19498,3 +19498,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [美国司法部控制的“丝绸之路”钱包地址向Coinbase Prime转入2000枚BTC](https://www.panewslab.com/zh/sqarticledetails/09c9oldt.html)
 append_entries: 1
 Finish: 2024-04-02 23:40:12.861078
+------------------------------------------------------
+Started: 2024-04-02 23:47:42.657669
+Existing_entries: 922
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 127
+Summarized using GPT-3.5-turbo-1106
+Append: [OpenSea：已支持创作者使用ERC721-C设定并执行创作者收入](https://www.panewslab.com/zh/sqarticledetails/g19voucy.html)
+append_entries: 1
+Finish: 2024-04-02 23:47:47.228112
