@@ -4,6 +4,36 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>【英文长推】深入探讨 zkSync 如何在协议中实现帐户抽象</title>
+<link>https://twitter.com/threesigmaxyz/status/1774798724763685331</link>
+<guid>https://twitter.com/threesigmaxyz/status/1774798724763685331</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：这些信息是积极的。文章介绍了zkSync协议的架构，重点探讨了zk-rollups和validium的集成以及帐户抽象的实现。智能账户和paymasters是zkSync中的两个关键组件，通过IAccount接口和IPaymaster接口定义了账户的操作和交易支付。zkSync的账户抽象与以太坊EIP4337的区别在于集成程度、账户类型处理、交易处理方式和对paymaster的支持范围。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>ZK Rollups 和 Account Abstraction 的集成为 Layer2 解决方案带来了全新的可扩展性和灵活性。Three Sigma 撰文深入探讨了 zkSync 协议，以及它们如何在协议中实现帐户抽象。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/threesigmaxyz/status/1774798724763685331">https://twitter.com/threesigmaxyz/status/1774798724763685331</a></p>
+<p><strong>文章作者：</strong></p><p>Three Sigma</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Three Sigma：</strong>zkSync 的架构集成了 zk-rollups 和 validium，分别定义为用于智能合约的 zkEVM 和用于链下数据可用性的 zkPorter。zkSync Era 是第一个原生实现了账户抽象的 EVM 兼容链，通过引入智能账户和 paymasters 两个主要组件，彻底改变了账户操作。
+
+智能账户由 IAccount 接口表示，该接口有 5 个方法：
+- validateTransaction ()：检查交易是否符合账户规则。如果不符合，则退回。
+- executeTransaction ()：扣除费用后执行交易。
+- payForTransaction ()：如果未使用 paymaster，则直接支付费用。
+- prepareForPaymaster ()：设置由付款人支付费用。
+- executeTransactionFromOutside ()：允许从外部发起交易。
+
+与 EIP4337 一样，zkSync 的 AA 支持 paymasters，可以补偿其他账户的交易执行。每个 paymaster 都实现了 IPaymaster 接口，该接口包含以下 2 个方法：
+- validateAndPayForPaymasterTransaction ()： 确认付款人是否同意支付交易费用，并向操作者发送资金。
+- postTransaction ()： 根据交易结果和费用退款情况处理交易后操作。
+
+zkSync 的原生账户抽象和以太坊 EIP 4337 之间的主要区别：
+- 实现：zkSync 将 AA 集成到协议中，而 EIP4337 避免了协议级别的更改。
+- 账户类型：zkSync 对智能合约和 paymasters 一视同仁，EIP4337 则保持区别对待。
+- 交易处理：zkSync 对所有账户使用统一的 mempool，EIP4337 有单独流程。
+- paymaster：zkSync 支持所有账户的 paymaster，EIP4337 将其限制在智能合约中。【原文为英文】</p><a href="https://twitter.com/threesigmaxyz/status/1774798724763685331">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-02T09:05:01+00:00</pubDate>
+</item>
 
 <item>
 <title>Fantom 即将上线亚秒级交易网络 Sonic，Layer2 能否稳坐宝座？</title>
