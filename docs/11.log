@@ -16515,3 +16515,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Cathie Wood Attributes Bitcoin's Rise to National Currency Devaluations](https://www.coindesk.com/business/2024/04/03/cathie-wood-attributes-bitcoins-rise-to-national-currency-devaluations/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-04-03 15:46:50.354656
+------------------------------------------------------
+Started: 2024-04-03 15:54:06.274392
+Existing_entries: 350
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 140
+Summarized using GPT-3.5-turbo-1106
+Append: [U.S. SEC Calls for Comments on Spot ETH ETFs](https://www.coindesk.com/policy/2024/04/03/us-sec-calls-for-comments-on-spot-eth-etfs/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-03 15:54:08.147339
