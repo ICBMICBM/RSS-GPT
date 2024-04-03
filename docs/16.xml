@@ -4,6 +4,49 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>Web3 寡头正在剥削用户：从 Tokenomics 到 Pointomics</title>
+<link>https://www.panewslab.com/zh/articledetails/73qj8b486no3.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/73qj8b486no3.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：这些信息是积极的。<br>文章讨论了加密货币KOL对于项目采用积分制度的看法。KOL马里奥认为，Web3世界的核心价值观是去中心化、共治和公开的，选择中心化的Loyalty Point会使整个激励系统封闭起来。他呼吁Web3 Degens关注这种剥削，不要丢掉Web3引以为傲的根本。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>针对越来越多的项目采用积分制度，加密货币 KOL 马里奥看 Web3 认为 Web3 世界的核心价值观是去中心化的、共治的、公开的，选择中心化的 Loyalty Point 将会使整个激励系统封闭起来，Web3 Degens 们是时候对这种剥削引起重视了，切莫丢掉 Web3 引以为傲的根本。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.panewslab.com/zh/articledetails/73qj8b486no3.html">https://www.panewslab.com/zh/articledetails/73qj8b486no3.html</a></p>
+<p><strong>文章作者：</strong></p><p>PANews</p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-03T03:38:38+00:00</pubDate>
+</item>
+<item>
+<title>【英文】重质押生态：利用 EigenLayer 改变加密货币收益生成方式</title>
+<link>https://mirror.xyz/0xsuperscrypt.eth/FVryajewi1mCyFynDec9MRPCPsrfLYMzbgLbyu1tLlM</link>
+<guid>https://mirror.xyz/0xsuperscrypt.eth/FVryajewi1mCyFynDec9MRPCPsrfLYMzbgLbyu1tLlM</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章详细解释了重质押的概念和基础设施协议EigenLayer的作用。Superscrypt讨论了Restaking的概念，允许用户将质押的ETH或LST重质押在提供额外收益的新池中。文章还提到了重质押生态系统中的参与者和面临的挑战和风险，例如大量杠杆效应和使用原生ETH与LSTs进行重质押的风险。文章强调了需要警惕的问题，并努力找到解决方案。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Superscrypt 详细解释了重质押的概念和基础设施协议 EigenLayer 的作用，讨论了重质押生态系统的各种参与者和目前面临的一些挑战和风险。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://mirror.xyz/0xsuperscrypt.eth/FVryajewi1mCyFynDec9MRPCPsrfLYMzbgLbyu1tLlM">https://mirror.xyz/0xsuperscrypt.eth/FVryajewi1mCyFynDec9MRPCPsrfLYMzbgLbyu1tLlM</a></p>
+<p><strong>文章作者：</strong></p><p>Superscrypt</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Superscrypt：</strong>Restaking 允许用户将他们质押的 ETH 或 LST 重质押在提供额外收益的新池中。这些池子保障其他协议、项目和网络（如 Rollups、数据可用性层和预言机），并通过它们提供额外收益。这是当前抵押机制的进化。通过 Restaking，ETH 持有者现在可以通过支持各种新兴项目、产品和协议来获得更多收益。Restaking 的核心是 EigenLayer—— 这个基础设施协议推动了这一新颖创新，使以太坊的权益证明网络可以被其他寻求快速安全启动的项目和协议灵活使用。
+
+需要警惕的问题：大量杠杆效应 - 运营商 / 重质押者将在多个 AVS 上进行抵押，没有任何阻止他们这样做的措施。事实上，这也符合他们的经济利益。我们必须了解这可能造成的连锁反应。简而言之，如果他们在一个地方被削减，ETH 丢失，其他地方的安全性也会降低，这可能会引发连锁反应。一个解决办法是可归因的安全性，但这意味着每一元都要质押，并只能保护一个 AVS，安全性更高，但收益率更低。
+
+假设子集与大多数一样诚实 - 以太坊作为一个整体是去中心化和安全的，但是保护 AVS 的这个非常小的子集是否具有相同的特征呢？这一点很难保证，最终要由 AVS 来确保。虽然 EigenLayer 表达了在每个 AVS 中去中心化的重要性，但任何利用一小部分验证者的项目的安全性都可能出现问题。
+
+使用原生 ETH 与使用 LSTs 来通过 LRT 进行重质押的风险 - 如果使用 LRT 来质押 LST，然后再将其与 AVS 进行重质押，那么每个 AVS 都会面对三层智能合约风险。而且，EigenLayer 本身也只是以太坊上的一系列智能合约。【原文为英文】</p><a href="https://mirror.xyz/0xsuperscrypt.eth/FVryajewi1mCyFynDec9MRPCPsrfLYMzbgLbyu1tLlM">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-03T03:28:46+00:00</pubDate>
+</item>
+<item>
+<title>Wormhole 发布路线图：将建立多链治理系统、使用 NTT 进行 EVM 扩展等</title>
+<link>https://wormhole.com/w-launch-roadmap/</link>
+<guid>https://wormhole.com/w-launch-roadmap/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Wormhole正在发布跨链基础设施路线图，W将作为Solana上的原生SPL代币启动，并扩展到所有Wormhole连接EVM链。同时，引入多链治理系统，旨在为代币持有者提供无缝的用户体验，最大限度地参与DAO。 <div>
+<p>跨链基础设施 Wormhole 发布路线图，称 W 最初将作为 Solana 上的原生 SPL 代币启动。在 Solana 首次亮相后，W 将使用 Wormhole 原生代币传输 (NTT) 扩展到所有 Wormhole 连接 EVM 链。同时引入多链治理系统，目标是通过为分布在多个不同链上的代币持有者提供无缝的用户体验来最大限度地参与 DAO。</p><p><a href="https://wormhole.com/w-launch-roadmap/">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-03T03:28:00+00:00</pubDate>
+</item>
 
 <item>
 <title>【英文长推】Ethena 不会像 UST 一样失败，反而会为牛市添柴加薪</title>

@@ -19099,3 +19099,18 @@ Existing_entries: 1000
 Fetching from https://www.chainfeeds.xyz/rss
 append_entries: 0
 Finish: 2024-04-03 03:39:55.665906
+------------------------------------------------------
+Started: 2024-04-03 03:47:39.161987
+Existing_entries: 1000
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 178
+Summarized using GPT-3.5-turbo-1106
+Append: [Web3 寡头正在剥削用户：从 Tokenomics 到 Pointomics](https://www.panewslab.com/zh/articledetails/73qj8b486no3.html)
+Token length: 842
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文】重质押生态：利用 EigenLayer 改变加密货币收益生成方式](https://mirror.xyz/0xsuperscrypt.eth/FVryajewi1mCyFynDec9MRPCPsrfLYMzbgLbyu1tLlM)
+Token length: 174
+Summarized using GPT-3.5-turbo-1106
+Append: [Wormhole 发布路线图：将建立多链治理系统、使用 NTT 进行 EVM 扩展等](https://wormhole.com/w-launch-roadmap/)
+append_entries: 3
+Finish: 2024-04-03 03:47:46.304319
