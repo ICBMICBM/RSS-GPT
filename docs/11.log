@@ -15990,3 +15990,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [What a Judge Said About the SEC's Suit Against Coinbase](https://www.coindesk.com/policy/2024/04/03/what-a-judge-said-about-the-secs-suit-against-coinbase/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-04-03 02:43:10.796202
+------------------------------------------------------
+Started: 2024-04-03 02:50:37.709465
+Existing_entries: 331
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-04-03 02:50:38.283082
