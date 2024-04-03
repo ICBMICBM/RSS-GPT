@@ -16194,3 +16194,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Coinbase Offers Unique Exposure to the Long-Term Growth of Crypto: KBW](https://www.coindesk.com/markets/2024/04/03/coinbase-offers-unique-exposure-to-the-long-term-growth-of-crypto-kbw/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-04-03 08:18:58.215868
+------------------------------------------------------
+Started: 2024-04-03 08:29:26.460292
+Existing_entries: 333
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 10
+Summarized using GPT-3.5-turbo-1106
+Append: [ARK 21Shares Bitcoin ETF Logs $88M of Outflows, Overtaking Grayscale for First Time](https://www.coindesk.com/business/2024/04/03/ark-21shares-bitcoin-etf-logs-88m-of-outflows-overtaking-grayscale-for-first-time/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-03 08:29:30.948410
