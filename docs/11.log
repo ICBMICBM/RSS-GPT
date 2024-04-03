@@ -16524,3 +16524,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [U.S. SEC Calls for Comments on Spot ETH ETFs](https://www.coindesk.com/policy/2024/04/03/us-sec-calls-for-comments-on-spot-eth-etfs/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-04-03 15:54:08.147339
+------------------------------------------------------
+Started: 2024-04-03 16:08:04.821445
+Existing_entries: 351
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-04-03 16:08:05.407467

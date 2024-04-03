@@ -20179,3 +20179,12 @@ Existing_entries: 979
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-03 15:54:00.639738
+------------------------------------------------------
+Started: 2024-04-03 16:07:48.722848
+Existing_entries: 979
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 682
+Summarized using GPT-3.5-turbo-1106
+Append: [Solana互操作层Zeus Network完成800万美元融资，Animoca Ventures等参投](https://www.panewslab.com/zh/sqarticledetails/4y69jk5x.html)
+append_entries: 1
+Finish: 2024-04-03 16:07:54.041163
