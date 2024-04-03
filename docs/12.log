@@ -16311,3 +16311,12 @@ Existing_entries: 256
 Fetching from https://bitcoinist.com/feed
 append_entries: 0
 Finish: 2024-04-03 17:58:24.079771
+------------------------------------------------------
+Started: 2024-04-03 18:16:41.444411
+Existing_entries: 256
+Fetching from https://bitcoinist.com/feed
+Token length: 3455
+Summarized using GPT-3.5-turbo-1106
+Append: [Pro-XRP Lawyer Deaton Accuses Sen. Warren Of Covering Up SBF Fraud](https://bitcoinist.com/xrp-deaton-sen-warren-cover-up-sbf/)
+append_entries: 1
+Finish: 2024-04-03 18:16:45.893664
