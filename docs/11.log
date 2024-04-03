@@ -16080,3 +16080,12 @@ Existing_entries: 331
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-03 05:12:16.153940
+------------------------------------------------------
+Started: 2024-04-03 05:26:47.888369
+Existing_entries: 331
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 19
+Summarized using GPT-3.5-turbo-1106
+Append: [BTC Back Down to $66K as Rising Treasury Yields Catch Investor Interest](https://www.coindesk.com/markets/2024/04/03/btc-back-down-to-66k-as-rising-treasury-yields-catch-investor-interest/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-03 05:26:51.055837
