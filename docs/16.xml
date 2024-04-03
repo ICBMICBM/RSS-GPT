@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>比特币生态的游戏和元宇宙</title>
 <link>https://twitter.com/i/web/status/1775076543423029376</link>
 <guid>https://twitter.com/i/web/status/1775076543423029376</guid>
 <content:encoded><![CDATA[
-<div> 这些信息是积极的。<br><br>摘要：<br>文章介绍了铭文在 BTC 生态中的运用，包括将游戏代码上传到链上实现全链上游戏，以及 Bitmap、Rootverse 和 BRC1024 等项目在元宇宙领域的探索。通过铭文可组合性体现了不同游戏组件的发行和元宇宙的构建。 <div>
+<div> 这些信息是积极的。<br /><br />摘要：<br />文章介绍了铭文在 BTC 生态中的运用，包括将游戏代码上传到链上实现全链上游戏，以及 Bitmap、Rootverse 和 BRC1024 等项目在元宇宙领域的探索。通过铭文可组合性体现了不同游戏组件的发行和元宇宙的构建。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>链游要么走资产上链的 GameFi 路线，要么走状态上链的链上游戏路线，所以使用智能合约都是最简单的实现方式。然而铭文的出现，让非智能合约平台 BTC 生态结合索引器产生了另外一种不同的技术实现方式。Gametaverse 研究员 CaptainZ 对 BTC 生态的游戏，元宇宙和自主世界方面的探索做一个技术总结，讲解铭文和链游是如何做结合的。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/i/web/status/1775076543423029376">https://twitter.com/i/web/status/1775076543423029376</a></p>
 <p><strong>文章作者：</strong></p><p>CaptainZ</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>CaptainZ：</strong>刚开始看到 Ordz Game 说自己是基于 BTC 的 fully on-chain game 的时候，我也是感觉好奇的。之前的文章我们提到过，铭文是可以把任何文件都上传到 BTC 的隔离见证空间，大小上限是 4 M。结果 domo 把「一段发币的 JSON 格式代码」上传上去，早就了 BRC20 几十亿美金的市场。那如果把一段游戏代码上传到链上呢？Ordz 正是这么做的。对于网页版小游戏来说，玩家访问游戏网页的时候会把代码下载到浏览器本地文件，然后在浏览器直接运行整个游戏，因此「铭文版全链上游戏」只需要提供一个能下载游戏代码的网上存储空间即可，BTC 的隔离见证空间正是提供了这样一个 DA 层。
@@ -18,7 +19,6 @@ Bitmap 号称比特币生态第一个元宇宙项目，由推特用户 @blockamo
 
 如果说 bitmap 是从地块方面切入元宇宙，那 rootverse 和 BRC1024 (brc1024_pro) 就是试着从人物和装备方面切入元宇宙，玩法类似于 LOOT。BRC20 是把「发行 FT 代币的代码」铭刻到隔离见证空间实现 FT 代码发行的话，那 BRC1024 就是把「发行元宇宙组件的代码」铭刻到隔离见证空间实现元宇宙组件的发行，而 ROOT 就是把「人物种族」这个组件进行了铭刻。这就是铭文可组合性的体现。</p><a href="https://twitter.com/i/web/status/1775076543423029376">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-03T07:28:58+00:00</pubDate>
 </item>
 <item>
@@ -26,7 +26,7 @@ Bitmap 号称比特币生态第一个元宇宙项目，由推特用户 @blockamo
 <link>https://outlierventures.io/article/account-abstraction-from-chaos-to-clarity/</link>
 <guid>https://outlierventures.io/article/account-abstraction-from-chaos-to-clarity/</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。<br>Outlier Ventures深入探讨了账户抽象对区块链用户体验的重大影响，通过ERC-4337简化了入账户管理和交易流程。UserOperations代表用户对智能合约账户的交易意图，引入了额外字段，并被发送到内存池。Bundler是专门的以太坊节点，监视备用内存池并将多个UserOperations合并为单个交易。EntryPoint合约负责验证和执行UserOperations，确保足够资金支付Gas费用。这些组件为去中心化技术的主流应用铺平了道路。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。<br />Outlier Ventures深入探讨了账户抽象对区块链用户体验的重大影响，通过ERC-4337简化了入账户管理和交易流程。UserOperations代表用户对智能合约账户的交易意图，引入了额外字段，并被发送到内存池。Bundler是专门的以太坊节点，监视备用内存池并将多个UserOperations合并为单个交易。EntryPoint合约负责验证和执行UserOperations，确保足够资金支付Gas费用。这些组件为去中心化技术的主流应用铺平了道路。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>Outlier Ventures 深入探讨了账户抽象对区块链用户体验的重大影响。通过 ERC-4337 和各种实现方式，它简化了入账户管理和交易流程，为去中心化技术的主流应用铺平了道路。并介绍了账户抽象技术组成和实现方法，并提供了各种使用案例和工具的说明，旨在帮助开发人员更好地理解和应用这一技术。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://outlierventures.io/article/account-abstraction-from-chaos-to-clarity/">https://outlierventures.io/article/account-abstraction-from-chaos-to-clarity/</a></p>
 <p><strong>文章作者：</strong></p><p>Outlier Ventures</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Outlier Ventures：</strong>无论选择何种实现方法来利用账户抽象化，了解其关键元素都很重要。UserOperations 是类似于交易的对象，代表用户对智能合约账户的交易意图。与传统交易不同，UserOperations 引入了额外的字段，如 EntryPoint、Bundler、Paymaster 和 Aggregator，并且被发送到单独的内存池。值得注意的是，UserOperations 是基于意图的，允许用户包含用于结果导向交易的元数据，偏离了传统输入的具体性。
@@ -35,10 +35,8 @@ Bitmap 号称比特币生态第一个元宇宙项目，由推特用户 @blockamo
 
 然后，UserOperations 被发送到一个 EntryPoint 合约，一个单例智能合约，负责对 UserOperations 进行验证和执行。验证过程包括评估钱包是否具有足够的资金来覆盖潜在的最大 Gas 使用量，由 UserOp 中的 Gas 字段确定。缺乏足够资金的交易将被拒绝。对于执行，智能合约执行交易，从智能合约账户（SCA）中扣除资金，以偿还 Bundler 所需的适当的本地代币金额以支付 Gas 费用。【原文为英文】</p><a href="https://outlierventures.io/article/account-abstraction-from-chaos-to-clarity/">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-03T06:45:44+00:00</pubDate>
 </item>
-
 <item>
 <title>Vitalik：Degen 共产主义 —— 唯一正确的政治意识形态</title>
 <link>https://news.marsbit.co/20240402064259707671.html</link>
@@ -11324,26 +11322,6 @@ Tendermint 是一种拜占庭容错的共识算法，采用权益证明（PoS）
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，融资估值达到10亿美元。Polychain Capital 领投，多个机构参投。资金将用于团队扩大和跨职能部门招聘。包括未来代币或 SAFT 的简易协议。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，估值达 10 亿美元。融资由 Polychain Capital 领投，其他投资方包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。筹集的资金将用于扩大团队规模，招募跨职能部门人员，包括产品、工程、业务开发和营销等，从目前的50人扩大到约80人。之前四轮融资也都通过未来代币或SAFT协议进行。这些信息是积极的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的：zkBridge开发商Polyhedra Network以10亿美元估值完成2000万美元战略融资，由Polychain Capital领投，其他投资方还包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium和Mapleblock Capital。融资资金将用于招聘跨职能部门，将团队规模扩大到约80人。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
