@@ -16320,3 +16320,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Pro-XRP Lawyer Deaton Accuses Sen. Warren Of Covering Up SBF Fraud](https://bitcoinist.com/xrp-deaton-sen-warren-cover-up-sbf/)
 append_entries: 1
 Finish: 2024-04-03 18:16:45.893664
+------------------------------------------------------
+Started: 2024-04-03 18:30:05.241312
+Existing_entries: 257
+Fetching from https://bitcoinist.com/feed
+append_entries: 0
+Finish: 2024-04-03 18:30:05.348293
