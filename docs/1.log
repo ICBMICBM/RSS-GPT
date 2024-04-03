@@ -19516,3 +19516,24 @@ Summarized using GPT-3.5-turbo-1106
 Append: [数据：4月2日ARKB净流出8750万美元，GBTC净流出8200万美元](https://www.panewslab.com/zh/sqarticledetails/jxydn44n.html)
 append_entries: 1
 Finish: 2024-04-02 23:55:27.152088
+------------------------------------------------------
+Started: 2024-04-03 01:35:47.784689
+Existing_entries: 924
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 1039
+Summarized using GPT-3.5-turbo-1106
+Append: [11张图解读三月加密市场：比特币矿工收入等多项链上指标创下历史新高](https://www.panewslab.com/zh/articledetails/n17bak6j.html)
+Token length: 3491
+Summarized using GPT-3.5-turbo-1106
+Append: [昨夜今晨重要资讯（4月2日-4月3日）](https://www.panewslab.com/zh/sqarticledetails/nggc7bip.html)
+Token length: 238
+Summarized using GPT-3.5-turbo-1106
+Append: [Lido的Solana协议因代码错误导致用户无法提取2400万美元的SOL代币](https://www.panewslab.com/zh/sqarticledetails/og9w0vp6.html)
+Token length: 3982
+Summarized using GPT-3.5-turbo-1106
+Append: [解码加密货币周期：机构资金引领牛市，警惕市场过热引发崩盘](https://www.panewslab.com/zh/articledetails/fw5pdx4n.html)
+Token length: 8609
+Summarized using GPT-3.5-turbo-1106
+Append: [GMX v2及其竞争对手：颠覆去中心化衍生品市场的新浪潮](https://www.panewslab.com/zh/articledetails/i8556s2r83cq.html)
+append_entries: 5
+Finish: 2024-04-03 01:36:05.591084

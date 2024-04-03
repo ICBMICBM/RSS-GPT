@@ -15384,3 +15384,15 @@ Existing_entries: 257
 Fetching from https://www.newsbtc.com/feed
 append_entries: 0
 Finish: 2024-04-02 23:55:30.024224
+------------------------------------------------------
+Started: 2024-04-03 01:36:08.554091
+Existing_entries: 257
+Fetching from https://www.newsbtc.com/feed
+Token length: 3709
+Summarized using GPT-3.5-turbo-1106
+Append: [Grayscale Drops Bombshell Report: Crypto Bull Run Progresses To ‘Middle’ Phase, Future Outlook Detailed](https://www.newsbtc.com/news/grayscale-drops-bombshell-report-crypto-bull-run-progresses-to-middle-phase-future-outlook-detailed/)
+Token length: 2799
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin Supply In Loss Hits 10% After Crash: What Happened Last Time](https://www.newsbtc.com/bitcoin-news/bitcoin-supply-loss-hits-10-crash-happened-time/)
+append_entries: 2
+Finish: 2024-04-03 01:36:15.676679
