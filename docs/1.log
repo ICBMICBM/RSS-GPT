@@ -19537,3 +19537,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [GMX v2及其竞争对手：颠覆去中心化衍生品市场的新浪潮](https://www.panewslab.com/zh/articledetails/i8556s2r83cq.html)
 append_entries: 5
 Finish: 2024-04-03 01:36:05.591084
+------------------------------------------------------
+Started: 2024-04-03 02:06:47.033958
+Existing_entries: 929
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 4821
+Summarized using GPT-3.5-turbo-1106
+Append: [比特币生态的游戏和元宇宙](https://www.panewslab.com/zh/articledetails/y14ce2zbd78w.html)
+Token length: 1568
+Summarized using GPT-3.5-turbo-1106
+Append: [Origin Protocol公布重大更新：OGN与OGV代币合并、回购和销毁机制及适用于EVM链的通用LST](https://www.panewslab.com/zh/articledetails/9utztiqd.html)
+Token length: 330
+Summarized using GPT-3.5-turbo-1106
+Append: [Wormhole发布路线图：将建立多链治理系统、使用NTT进行EVM扩展等](https://www.panewslab.com/zh/sqarticledetails/mgvtu46z.html)
+append_entries: 3
+Finish: 2024-04-03 02:06:56.593040
