@@ -19837,3 +19837,12 @@ Existing_entries: 951
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-03 08:44:16.758458
+------------------------------------------------------
+Started: 2024-04-03 08:51:50.240396
+Existing_entries: 951
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 6519
+Summarized using GPT-3.5-turbo-1106
+Append: [从存储过去到计算未来：AO超并行计算机](https://www.panewslab.com/zh/articledetails/nj8xs87na0p4.html)
+append_entries: 1
+Finish: 2024-04-03 08:51:56.591413
