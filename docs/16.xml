@@ -4,6 +4,25 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>【长推】 Leverage Points 赛道：Pendle、Gearbox、Airpuff</title>
+<link>https://twitter.com/cmdefi/status/1774995762159747072</link>
+<guid>https://twitter.com/cmdefi/status/1774995762159747072</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章讨论了在 Leverage Points 赛道中的三种实现方案：Pendle、Gearbox和Airpuff。Pendle将资产拆分成PT和YT，满足不同用户的风险偏好。Gearbox和Airpuff通过借贷市场实现杠杆，其中Airpuff结合了AI提供更优策略。Airpuff在经济模型设计上使质押者能获得一部分杠杆收益。Gearbox在TVL上吸收了2亿美元，但Lenders可能未真正获得杠杆。因此，Airpuff的设计更有利于资源平衡和分配。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>加密货币 KOL CM 探讨了在 Leverage Points 赛道中出现的几种实现方案，重点比较了 Pendle、Gearbox 和 Airpuff 这三个项目。详细介绍了这些项目的工作原理、优缺点以及经济模型的设计差异，以及它们在市场上的定位和影响。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/cmdefi/status/1774995762159747072">https://twitter.com/cmdefi/status/1774995762159747072</a></p>
+<p><strong>文章作者：</strong></p><p>CM</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>CM：</strong>首先，Pendle 是目前最流行的 Leverage LRT 方案，它的实现原理并不是通过从市场上借出资金来实现杠杆，而是将资产拆分成了：PT（本金单位）、YT（收益单位）。所以你可以直接单独将 ETH 兑换成 YT，这可能意味着你的 1 ETH 实现了数倍的杠杆效果，此时你需要关注的是隐含收益率，因为本质上你获得的杠杆效果是来自 PT 购买者 “放弃” 的那部分，而当人们购买更多 PT，隐含收益率就会下降，并可能影响你的 YT 头寸的价值。Pendle 的优点在于，这种实现方式同时满足了各种风险偏好的用户，当你不执着于 Points 时，你可以通过 PT 获得稳定的固定的 ETH 本位的收益。另外通过 YT 实现杠杆化的用户也不会面临爆仓风险。
+
+另外的一个 Leverage LRT 方案则是通过借贷市场完成，使用这种方案的目前是 Gearbox 和 Airpuff，在这个方案中存在两个用户角色：- 贷款人 Lenders - 杠杆使用者 Leveragoors (Borrowers)。贷款人将资金借给杠杆使用者供他们使用，协议根据借入的资金量和利用率计算利息。这里贷款人扮演更重要的角色，他们为协议提供资金，如果市场上资金不足，杠杆无法发挥很好的作用。
+
+Gearbox 和 Airpuff 的区别：1. Gearbox 目前部署在以太坊主网，Airpuff 部署在 Arbitrum。2. Airpuff 紧跟潮流地提出了 AI 方向的结合，简单说就是提供更优的策略 (从大环境来说意义大于实际效果）3. Airpuff 在经济模型上采用 vetoken，将从杠杆使用者上分取一部分积分收益。 $APUFF 质押者获得 Leveragoors 共享积分的 5%。
+
+Gearbox 可以说率先将传统的杠杆借贷业务带入到 Leverage LRT，并在 TVL 上吸收了 2 亿美金，但在这种模式下，由于杠杆资源的稀缺性，Leveragoors 处于天生的优势位，而提供资金的 Lenders 获得的利息可能随利用率拉高而提升，但本质上并没有获得杠杆化。所以 Airpuff 在经济模型的设计上使 $APUFF 质押者能够捕捉到一部分杠杆收益，这更有利于协议内资源的平衡和分配。</p><a href="https://twitter.com/cmdefi/status/1774995762159747072">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-03T09:55:52+00:00</pubDate>
+</item>
 
 <item>
 <title>比特币生态的游戏和元宇宙</title>
