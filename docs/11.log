@@ -16614,3 +16614,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Are You Too Late to Crypto?](https://www.coindesk.com/markets/2024/04/03/are-you-too-late-to-crypto/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-04-03 18:30:04.678259
+------------------------------------------------------
+Started: 2024-04-03 18:37:42.145586
+Existing_entries: 353
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-04-03 18:37:42.668952
