@@ -4,6 +4,25 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>「符文」就要来了，一场 Ordinals 的战争就要打响？</title>
+<link>https://www.theblockbeats.info/news/52633</link>
+<guid>https://www.theblockbeats.info/news/52633</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>现在还不能打"符文"，将在比特币区块高度840,000正式激活，约19天后。<br>第一个"符文"是"UNCOMMON・GOODS"，限时不限量，每笔交易打1个，可从区块高度840,000开始打。<br>"符文"部署后可以公平打，支持一次性打完或公平铸造，也支持项目方预留和标记。<br>第一个被正式解锁的"符文"ticker为"ZZZZZZZZZZZZ"，由长逐渐解锁到短，4字符ticker如$PEPE需等待约3年。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>昨天，Ordinals 协议 v.017.0 版本正式发布，包含了大家期待已久的「符文」协议的最终实现方案。加密货币 KOL Cookie 整理了几个关于「符文」的问题以及解答。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.theblockbeats.info/news/52633">https://www.theblockbeats.info/news/52633</a></p>
+<p><strong>文章作者：</strong></p><p>cookies</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>cookies：</strong>现在可以打「符文」了吗？还不可以，「符文」将在比特币区块高度 840,000 正式激活，预计还有 19 天左右的时间。
+
+第一个「符文」会是什么？第一个「符文」是 Ordinals 协议创始人 Casey Rodarmor「硬编码」（也就是直接写在代码里）的「UNCOMMON・GOODS」，我们可以从比特币区块高度 840,000 开始打这个「创世符文」。但是必须要注意，「创世符文」是限时不限量的，将从 2024 年的即将到来的这个减半区块打到下一个减半区块，每笔交易打 1 个。Casey 仍在考虑是否实行先前的规划，对 0-9 号也就是全部前 10 个「符文」进行「硬编码」的计划。
+
+「符文」是和 BRC-20 一样被部署以后大家都公平打吗？取决于部署者的设置。既支持部署的时候同时一次性打完，方便项目方做中心化的分发，也支持像 BRC-20 那样部署了以后大家公平铸造。在这一点上，「符文」比 BRC-20 要灵活许多，还支持公开铸造但项目方预留（这样的「符文」Token 会被标记），以及前面提到的「限时不限量」。
+
+第一个被正式解锁的「符文」ticker 为什么会是「ZZZZZZZZZZZZ」？「符文」ticker 的最大长度是 26 字符（Casey 硬编码的「UNCOMMON・GOODS」和此规则无关，另外值得注意的是「・」作为分隔符不算在 12 字符内，这是为了让 ticker 更有辨识度，比如「WO・YAO・DISS・YOU」)，但是它是一个随时间（区块）反向解锁的过程，从长 ticker 逐渐解锁到短 ticker。简单来说，在区块高度 840,000「符文」正式激活后，所有 13 - 26 字符的 ticker 都可以立即被部署，但「ZZZZZZZZZZZZ」是第一个可以被部署的 12 字符 ticker。12 字符的 ticker 将在区块 840,000 - 857,500 被全部解锁，也就是每 17,500 个区块后，更短 1 个字符的 ticker 将开始逐渐被解锁。所以对于熟悉的 4 字符 ticker，比如 $PEPE，我们需要等待大约 3 年的时间。</p><a href="https://www.theblockbeats.info/news/52633">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-03T04:53:47+00:00</pubDate>
+</item>
 
 <item>
 <title>数据解读 Farcaster：活跃用户人均横跨 8 个频道发帖，非加密主题频道日益活跃</title>
