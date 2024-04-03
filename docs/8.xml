@@ -4,6 +4,41 @@
 <title>NewsBTC</title>
 <link>https://www.newsbtc.com/</link>
 
+<item>
+<title>Ethena (ENA) Surges 60%, But Fantom Co-Founder Warns Of Luna-Like Demise</title>
+<link>https://www.newsbtc.com/news/ethena-ena-60-luna-like-demise-fantom/</link>
+<guid>https://www.newsbtc.com/news/ethena-ena-60-luna-like-demise-fantom/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了Ethena Labs的新治理代币ENA，在市场推出后价格激增60%，市值达13.4亿美元，排名第80位。该项目的ENAtoken是为在以太坊区块链上实现数字美元平台而设计的，并推出了750万ENA代币的空投。ENAtoken的总供应量为150亿枚，分配计划重点是生态系统发展、核心贡献者奖励、投资者参与和基金会支持。同时，Fantom的联合创始人Andre Cronje警告了类似Luna的崩溃，并对Ethena的结构提出了警告，强调了他所认为的结构性弱点。 <div>
+<p>Ethena Labs&#8217; new governance token, ENA, is witnessing a staggering 60% increase in its value, shortly after its introduction to the market. The spike in ENA&#8217;s price to approximately $0.96 has catapulted its market capitalization to nearly $1.34 billion, ranking ENA as the 80th largest cryptocurrency by market cap.</p>
+<p>This ascent followed Ethena&#8217;s strategic distribution of 750 million ENA tokens, representing 5% of its total supply, through an airdrop to holders of its <a href="https://www.newsbtc.com/maker-mkr/makerdao-initiates-massive-600-million-dai-investment-in-usde-and-susde/" rel="noopener " target="_blank">USDe token</a>. The USDe, a synthetic dollar, is central to Ethena&#8217;s offering, leveraging a blend of ether liquid staking tokens and short Ether (ETH) perpetual futures positions to maintain a target value near $1.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">The Ethena Labs airdrop went live 2 hours ago, with $450M of ENA to distribute.</p>
+<p>The largest <a href="https://twitter.com/search?q=%24ENA&amp;src=ctag&amp;ref_src=twsrc%5Etfw" rel="nofollow">$ENA</a> recipient so far has been 0xb56, who received 3.30M ENA worth $1.96M.</p>
+<p>Track ENA on Arkham:<a href="https://t.co/coFsTcBUCa" rel="nofollow">https://t.co/coFsTcBUCa</a> <a href="https://t.co/RSZwXLhCB6" rel="nofollow">https://t.co/RSZwXLhCB6</a> <a href="https://t.co/l6c7bqKghG" rel="nofollow">pic.twitter.com/l6c7bqKghG</a></p>
+<p>&mdash; Arkham (@ArkhamIntel) <a href="https://twitter.com/ArkhamIntel/status/1775116380926554458?ref_src=twsrc%5Etfw" rel="nofollow">April 2, 2024</a></p></blockquote>
+<p></p>
+<p>At the heart of Ethena&#8217;s value proposition is the ENA token, engineered to facilitate a digital dollar platform on the Ethereum blockchain. This platform seeks to provide a viable alternative to conventional banking mechanisms through its innovative &#8216;Internet Bond&#8217;. By harnessing the potential of derivative markets and staked Ethereum, the Internet Bond offers a dollar-denominated savings instrument accessible globally, independent of traditional banking infrastructure.</p>
+
+<p>The total supply of ENA tokens is capped at 15 billion, with an initial issuance of 1.425 billion tokens. The distribution plan prioritizes ecosystem development (30%), core contributor rewards (30%), investor engagement (25%), and foundation support (15%), embodying a holistic approach to tokenomics. Notably, Binance&#8217;s endorsement of ENA as the 50th project on its Binance Launchpool, enabling users to farm ENA tokens by staking BNB and FDUSD, underscores the token&#8217;s appeal.</p>
+<p>At press time, ENA traded at $0.93, up 60% in the past 24 hours.</p>
+<img alt="Ethena ENA price" class="wp-image-601188 size-full" height="1673" src="https://www.newsbtc.com/wp-content/uploads/2024/04/ENAUSD_2024-04-03_13-02-50.png?resize=3628%2C1673" width="3628" />
+<h2>Fantom Co-Founder Warns Of Luna-Like Collapse</h2>
+<p>Andre Cronje, co-founder of the<a href="https://www.newsbtc.com/news/fantom-foundation-wallets-drained-pain-ftm-prices-tank/" rel="noopener " target="_blank"> Fantom Foundation</a>, issued a warning on X, recalling the concerns that preceded the collapse of Terra Luna. Cronje dissected the structure of perpetual contracts (perps), a derivative product that enables traders to speculate on the price movement of an asset without holding the actual asset.</p>
+<p>This mechanism operates on a system of funding rates meant to tether the perpetual price closely to the underlying asset&#8217;s spot price. However, Cronje highlighted a critical vulnerability in this system: the reliance on yield-generating assets, such as staked Ethereum (stETH), as collateral.</p>
+
+<p>This approach theoretically allows for a &#8220;neutral&#8221; position, where the gains from yield should offset losses from the short position if the asset’s price drops. Yet, this equilibrium is precarious, as negative shifts in funding rates can erode the collateral, leading to liquidation.</p>
+<p>“The mechanism &#8211; the theory here is that you can generate a &#8216;stable&#8217; $1000, by buying $1000 of <a href="https://www.newsbtc.com/altcoin/whale-purchases-steth-in-the-past-day-reasons-why/" rel="noopener " target="_blank">stETH</a>, using this as collateral to open a $1000 stETH short, thereby achieving being &#8216;neutral&#8217;, while getting the benefit of the stETH yield (~3%) + whatever is paid in funding rates,” Cronje explained.</p>
+<p>Cronje&#8217;s concerns are not unfounded. The crypto industry witnessed the dramatic implosion of Terra&#8217;s algorithmic stablecoin UST in 2021, a debacle that resulted in significant financial losses across the board. By drawing a parallel between the structural weaknesses he perceives in Ethena&#8217;s framework and the mechanisms that led to Terra&#8217;s downfall, Cronje raises a red flag about the sustainability of complex financial products that lack transparent risk mitigation strategies.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">Every so often we see something new in this space. I often find myself on the mid curve for an extensive amount of time. I am comfortable here. That being said, there have been events in this industry I wish I was more curious about, there have also been events I definitely did…</p>
+<p>&mdash; Andre Cronje (@AndreCronjeTech) <a href="https://twitter.com/AndreCronjeTech/status/1775398490404724914?ref_src=twsrc%5Etfw" rel="nofollow">April 3, 2024</a></p></blockquote>
+<p></p>
+<p>Responding to Cronje&#8217;s critique, the founder of Ethena Labs Guy Young aka Leptokurtic, acknowledged the validity of the concerns raised. &#8220;These aren’t mid curve concerns at all Andre Cronje, you rightly point out risks that absolutely do exist here. Will work on a longer form response for you by end of this week with some thoughts,&#8221; Young stated on X.</p>
+]]></content:encoded>
+<pubDate>Wed, 03 Apr 2024 13:00:06 +0000</pubDate>
+<pubDate>Wed, 03 Apr 2024 13:00:06 +0000</pubDate>
+</item>
 
 <item>
 <title>Bitcoin ETF Outflows Are Ramping Up Again, What Does This Mean For BTC Price?</title>
