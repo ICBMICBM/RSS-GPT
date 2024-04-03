@@ -19801,3 +19801,15 @@ Existing_entries: 947
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-03 07:59:09.448544
+------------------------------------------------------
+Started: 2024-04-03 08:18:40.861064
+Existing_entries: 947
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 210
+Summarized using GPT-3.5-turbo-1106
+Append: [矿企Bitfarms宣布将投资近2.4亿美元升级其比特币挖矿设备](https://www.panewslab.com/zh/sqarticledetails/va8j8310.html)
+Token length: 18841
+Summarized using GPT-3.5-turbo-1106
+Append: [打破公链流动性困境，Berachain将成为新一代杀手级L1？](https://www.panewslab.com/zh/articledetails/4j7klh6euyuz.html)
+append_entries: 2
+Finish: 2024-04-03 08:18:49.760005
