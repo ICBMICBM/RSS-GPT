@@ -16425,3 +16425,18 @@ Existing_entries: 344
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-03 13:54:41.910259
+------------------------------------------------------
+Started: 2024-04-03 14:07:20.723975
+Existing_entries: 344
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 24
+Summarized using GPT-3.5-turbo-1106
+Append: [Central Bank Group Starts Tokenization Project to Enhance Monetary System](https://www.coindesk.com/policy/2024/04/03/central-bank-group-starts-tokenization-project-to-enhance-monetary-system/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 56
+Summarized using GPT-3.5-turbo-1106
+Append: [Far Out Sci-Fi Ideas Inspired by New Ethereum Token Designs](https://www.coindesk.com/consensus-magazine/2024/04/03/far-out-sci-fi-ideas-inspired-by-new-ethereum-token-designs/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 92
+Summarized using GPT-3.5-turbo-1106
+Append: [Texas Takedown: Nic Carter and David Hoffman Square Off for Karate Combat at Consensus](https://www.coindesk.com/consensus-magazine/2024/04/03/texas-takedown-nic-carter-and-david-hoffman-square-off-for-karate-combat-at-consensus/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 3
+Finish: 2024-04-03 14:07:30.229710
