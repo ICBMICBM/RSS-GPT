@@ -19885,3 +19885,12 @@ Existing_entries: 953
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-03 09:50:08.574071
+------------------------------------------------------
+Started: 2024-04-03 09:57:31.028719
+Existing_entries: 953
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 387
+Summarized using GPT-3.5-turbo-1106
+Append: [Alchemix联创评论MakerDAO新提案：若USDe脱锚或会对所有依赖DAI的项目造成损害](https://www.panewslab.com/zh/sqarticledetails/8cwmau3v.html)
+append_entries: 1
+Finish: 2024-04-03 09:57:36.213227
