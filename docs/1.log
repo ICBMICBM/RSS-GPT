@@ -20077,3 +20077,12 @@ Existing_entries: 973
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-03 13:47:15.435619
+------------------------------------------------------
+Started: 2024-04-03 13:54:23.549648
+Existing_entries: 973
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 126
+Summarized using GPT-3.5-turbo-1106
+Append: [Coinbase将于4月4日上线Wormhole（W）永续期货合约交易](https://www.panewslab.com/zh/sqarticledetails/ukf9xx74.html)
+append_entries: 1
+Finish: 2024-04-03 13:54:27.841614
