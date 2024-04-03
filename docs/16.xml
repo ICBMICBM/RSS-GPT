@@ -4,6 +4,40 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>比特币生态的游戏和元宇宙</title>
+<link>https://twitter.com/i/web/status/1775076543423029376</link>
+<guid>https://twitter.com/i/web/status/1775076543423029376</guid>
+<content:encoded><![CDATA[
+<div> 这些信息是积极的。<br><br>摘要：<br>文章介绍了铭文在 BTC 生态中的运用，包括将游戏代码上传到链上实现全链上游戏，以及 Bitmap、Rootverse 和 BRC1024 等项目在元宇宙领域的探索。通过铭文可组合性体现了不同游戏组件的发行和元宇宙的构建。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>链游要么走资产上链的 GameFi 路线，要么走状态上链的链上游戏路线，所以使用智能合约都是最简单的实现方式。然而铭文的出现，让非智能合约平台 BTC 生态结合索引器产生了另外一种不同的技术实现方式。Gametaverse 研究员 CaptainZ 对 BTC 生态的游戏，元宇宙和自主世界方面的探索做一个技术总结，讲解铭文和链游是如何做结合的。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/i/web/status/1775076543423029376">https://twitter.com/i/web/status/1775076543423029376</a></p>
+<p><strong>文章作者：</strong></p><p>CaptainZ</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>CaptainZ：</strong>刚开始看到 Ordz Game 说自己是基于 BTC 的 fully on-chain game 的时候，我也是感觉好奇的。之前的文章我们提到过，铭文是可以把任何文件都上传到 BTC 的隔离见证空间，大小上限是 4 M。结果 domo 把「一段发币的 JSON 格式代码」上传上去，早就了 BRC20 几十亿美金的市场。那如果把一段游戏代码上传到链上呢？Ordz 正是这么做的。对于网页版小游戏来说，玩家访问游戏网页的时候会把代码下载到浏览器本地文件，然后在浏览器直接运行整个游戏，因此「铭文版全链上游戏」只需要提供一个能下载游戏代码的网上存储空间即可，BTC 的隔离见证空间正是提供了这样一个 DA 层。
+
+Bitmap 号称比特币生态第一个元宇宙项目，由推特用户 @blockamoto 于 2023 年 6 月 13 日在推特提出，并在随后被部分媒体关注和宣传。Bitmap 建立在序数理论（Ordinals theory）和位图理论（Bitmap theory）基础之上。序数理论就是把每一个 sat 分配一个序号，而位图理论也很简单，把比特币每十分钟生成的一个区块根据数据结构这些参数看成一副地图数据定义了一些数据格式。两者结合的意思是，每一个区块当成一个地图 NFT，然后把这个 NFT 利用 ordinal 绑定到某一个 sat 上面。总结来说，bitmap 其实是一个资产标记协议，通过 Ordinal 协议和 bitmap 协议把无主资产「比特币区块」映射成 NFT，以此激活区块的资产属性并产生流通和收藏价值。
+
+如果说 bitmap 是从地块方面切入元宇宙，那 rootverse 和 BRC1024 (brc1024_pro) 就是试着从人物和装备方面切入元宇宙，玩法类似于 LOOT。BRC20 是把「发行 FT 代币的代码」铭刻到隔离见证空间实现 FT 代码发行的话，那 BRC1024 就是把「发行元宇宙组件的代码」铭刻到隔离见证空间实现元宇宙组件的发行，而 ROOT 就是把「人物种族」这个组件进行了铭刻。这就是铭文可组合性的体现。</p><a href="https://twitter.com/i/web/status/1775076543423029376">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-03T07:28:58+00:00</pubDate>
+</item>
+<item>
+<title>【英文】账户抽象： 面向开发者的实用指南</title>
+<link>https://outlierventures.io/article/account-abstraction-from-chaos-to-clarity/</link>
+<guid>https://outlierventures.io/article/account-abstraction-from-chaos-to-clarity/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>Outlier Ventures深入探讨了账户抽象对区块链用户体验的重大影响，通过ERC-4337简化了入账户管理和交易流程。UserOperations代表用户对智能合约账户的交易意图，引入了额外字段，并被发送到内存池。Bundler是专门的以太坊节点，监视备用内存池并将多个UserOperations合并为单个交易。EntryPoint合约负责验证和执行UserOperations，确保足够资金支付Gas费用。这些组件为去中心化技术的主流应用铺平了道路。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Outlier Ventures 深入探讨了账户抽象对区块链用户体验的重大影响。通过 ERC-4337 和各种实现方式，它简化了入账户管理和交易流程，为去中心化技术的主流应用铺平了道路。并介绍了账户抽象技术组成和实现方法，并提供了各种使用案例和工具的说明，旨在帮助开发人员更好地理解和应用这一技术。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://outlierventures.io/article/account-abstraction-from-chaos-to-clarity/">https://outlierventures.io/article/account-abstraction-from-chaos-to-clarity/</a></p>
+<p><strong>文章作者：</strong></p><p>Outlier Ventures</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Outlier Ventures：</strong>无论选择何种实现方法来利用账户抽象化，了解其关键元素都很重要。UserOperations 是类似于交易的对象，代表用户对智能合约账户的交易意图。与传统交易不同，UserOperations 引入了额外的字段，如 EntryPoint、Bundler、Paymaster 和 Aggregator，并且被发送到单独的内存池。值得注意的是，UserOperations 是基于意图的，允许用户包含用于结果导向交易的元数据，偏离了传统输入的具体性。
+
+接下来的关键组件称为 Bundler，它是一种专门的以太坊节点，在支持 UserOperations 方面起着关键作用。 UserOperations 被发送到一组 Bundler 的网络中，这些 Bundler 主动监视备用内存池。这些 Bundler 将多个 UserOperations 合并成单个交易，随后代表用户将它们打包并提交到区块链上。作为对此服务的回报，它们获得补偿。它们的重要性在于抽象出每个 Web3 参与者必须拥有自己的 Externally Owned Account（EOA）的必要性，这是实现 ERC- 4337 功能的关键组件。
+
+然后，UserOperations 被发送到一个 EntryPoint 合约，一个单例智能合约，负责对 UserOperations 进行验证和执行。验证过程包括评估钱包是否具有足够的资金来覆盖潜在的最大 Gas 使用量，由 UserOp 中的 Gas 字段确定。缺乏足够资金的交易将被拒绝。对于执行，智能合约执行交易，从智能合约账户（SCA）中扣除资金，以偿还 Bundler 所需的适当的本地代币金额以支付 Gas 费用。【原文为英文】</p><a href="https://outlierventures.io/article/account-abstraction-from-chaos-to-clarity/">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-03T06:45:44+00:00</pubDate>
+</item>
 
 <item>
 <title>Vitalik：Degen 共产主义 —— 唯一正确的政治意识形态</title>

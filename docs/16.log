@@ -19255,3 +19255,15 @@ Existing_entries: 1000
 Fetching from https://www.chainfeeds.xyz/rss
 append_entries: 0
 Finish: 2024-04-03 07:37:27.840463
+------------------------------------------------------
+Started: 2024-04-03 07:44:22.763108
+Existing_entries: 1000
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 1101
+Summarized using GPT-3.5-turbo-1106
+Append: [比特币生态的游戏和元宇宙](https://twitter.com/i/web/status/1775076543423029376)
+Token length: 936
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文】账户抽象： 面向开发者的实用指南](https://outlierventures.io/article/account-abstraction-from-chaos-to-clarity/)
+append_entries: 2
+Finish: 2024-04-03 07:44:29.735039
