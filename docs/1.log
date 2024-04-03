@@ -19933,3 +19933,12 @@ Existing_entries: 957
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-03 10:51:24.238301
+------------------------------------------------------
+Started: 2024-04-03 10:58:35.542567
+Existing_entries: 957
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 6254
+Summarized using GPT-3.5-turbo-1106
+Append: [PA日报 | 美司法部控制的“丝绸之路”钱包向Coinbase Prime转入2000枚BTC；Wormhole将于今晚19:30开启W空投领取](https://www.panewslab.com/zh/articledetails/bwmwtnx0.html)
+append_entries: 1
+Finish: 2024-04-03 10:58:40.962143
