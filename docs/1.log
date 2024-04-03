@@ -19942,3 +19942,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [PA日报 | 美司法部控制的“丝绸之路”钱包向Coinbase Prime转入2000枚BTC；Wormhole将于今晚19:30开启W空投领取](https://www.panewslab.com/zh/articledetails/bwmwtnx0.html)
 append_entries: 1
 Finish: 2024-04-03 10:58:40.962143
+------------------------------------------------------
+Started: 2024-04-03 11:11:47.561606
+Existing_entries: 958
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 1248
+Summarized using GPT-3.5-turbo-1106
+Append: [美国作为加密货币最大怀疑论者，却在采用EVM？](https://www.panewslab.com/zh/articledetails/gh8dwt45.html)
+append_entries: 1
+Finish: 2024-04-03 11:11:52.811660
