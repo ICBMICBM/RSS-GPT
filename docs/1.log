@@ -19624,3 +19624,18 @@ Existing_entries: 936
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-03 03:54:57.779994
+------------------------------------------------------
+Started: 2024-04-03 04:10:51.973236
+Existing_entries: 936
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 2098
+Summarized using GPT-3.5-turbo-1106
+Append: [美国政府又卖币？价值 20 亿美元的比特币被转移，6.5 万支撑“压力山大”](https://www.panewslab.com/zh/articledetails/ymnpfin3.html)
+Token length: 431
+Summarized using GPT-3.5-turbo-1106
+Append: [比特币现货ETF昨日总净流入3947万美元，ARKB ETF连续两日呈现净流出](https://www.panewslab.com/zh/sqarticledetails/19d2fni3.html)
+Token length: 1037
+Summarized using GPT-3.5-turbo-1106
+Append: [一览新公链Berachain交互指南：或将于Q2上线主网和空投](https://www.panewslab.com/zh/articledetails/z8gyhiv3.html)
+append_entries: 3
+Finish: 2024-04-03 04:11:01.940427
