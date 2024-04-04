@@ -17085,3 +17085,12 @@ Existing_entries: 364
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-04 07:45:47.045411
+------------------------------------------------------
+Started: 2024-04-04 07:53:14.630414
+Existing_entries: 364
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 72
+Summarized using GPT-3.5-turbo-1106
+Append: [Wormhole’s W Token Is Paying Out 999% a Week on Solana Protocol Kamino](https://www.coindesk.com/markets/2024/04/04/wormholes-w-token-is-paying-out-999-a-week-on-solana-protocol-kamino/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-04 07:53:16.390186

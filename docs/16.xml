@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>【英文】从存储过去到计算未来： AO 超并行计算机</title>
 <link>https://medium.com/ybbcapital/from-storing-the-past-to-computing-the-future-the-hyper-parallel-computer-of-ao-3335a3f60ab3</link>
 <guid>https://medium.com/ybbcapital/from-storing-the-past-to-computing-the-future-the-hyper-parallel-computer-of-ao-3335a3f60ab3</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章指出AO与常见网络的不同之处，AO支持并行运行，可验证性保持完整，并适用于高性能和可靠性需求的应用程序。AO还支持各种形式的线程，可以发布atomic NFT，并与ARweave上的数据结合。AO是链下实现，借助Arweave提供存储与验证功能，确保交互日志存储在Arweave上并创建全息图，保证计算状态输出的一致性、可靠性和确定性。AO开发者可通过AO实现超级计算层，使用Arweave的存储能力进行高效计算。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章指出AO与常见网络的不同之处，AO支持并行运行，可验证性保持完整，并适用于高性能和可靠性需求的应用程序。AO还支持各种形式的线程，可以发布atomic NFT，并与ARweave上的数据结合。AO是链下实现，借助Arweave提供存储与验证功能，确保交互日志存储在Arweave上并创建全息图，保证计算状态输出的一致性、可靠性和确定性。AO开发者可通过AO实现超级计算层，使用Arweave的存储能力进行高效计算。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>AO 究竟是什么？支持其性能的逻辑又从何而来？YBB Capital 研究员 Zeke 撰文进行了分析解读。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://medium.com/ybbcapital/from-storing-the-past-to-computing-the-future-the-hyper-parallel-computer-of-ao-3335a3f60ab3">https://medium.com/ybbcapital/from-storing-the-past-to-computing-the-future-the-hyper-parallel-computer-of-ao-3335a3f60ab3</a></p>
 <p><strong>文章作者：</strong></p><p>YBB Capital</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>YBB Capital：</strong>AO 与常见网络的区别：与以太坊等网络不同，AO 的基础层和每个 Rollup 实际上都作为单一进程运行，AO 支持任意数量的进程并行运行，同时确保计算的可验证性保持完整。此外，这些网络在全球同步状态下运行，而 AO 进程保持自己的独立状态。这种独立性使得 AO 进程能够处理更高数量的交互和计算的可扩展性，使其特别适合对高性能和可靠性有需求的应用程序、此外， AO 可以提供交互的可验证复现性，或者依赖于非永久性存储解决方案来保存它们的交互日志。
@@ -18,10 +19,8 @@ AO 的节点网络与传统计算环境的不同之处：AO 支持各种形式�
 
 AO 是链下实现，也不解决可验证性问题，也不更改共识。AR 团队的思路是将 AO 与 Arweave 的职能剥离，再模块化衔接，AO 只进行通信与计算，Arweave 只提供存储与验证。两者的关系更像是映射，AO 只需确保交互日志存储在 Arweave 上，其状态就可以投影到 Arweave，从而创建全息图，这种全息状态投影保证了在计算状态时输出的一致性、可靠性、确定性。此外通过 Arweave 上的消息日志也可反向触发 AO 进程执行特定的操作。如果把验证逻辑说的再简单一点，那么可以将 AO 想象为一个基于超并行索引器的铭文计算框架，任何人都可以通过 Arweave 上的全息数据恢复 AO 或者 AO 上的任何一个线程。用户也不需要跑全节点去验证可信状态，同更换索引一样，用户只需通过 SU 向单个或多个 CU 节点提出查询请求即可。而 Arweave 的存储能力高且费用低廉，所以在这套逻辑下，AO 开发者可以实现远超比特币铭文功能的超级计算层。</p><a href="https://medium.com/ybbcapital/from-storing-the-past-to-computing-the-future-the-hyper-parallel-computer-of-ao-3335a3f60ab3">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-04T07:10:26+00:00</pubDate>
 </item>
-
 <item>
 <title>以太坊验证者数量超 100 万，「彩虹质押」如何缓解质押中心化问题？</title>
 <link>https://medium.com/@EbunkerChinese/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E9%AA%8C%E8%AF%81%E8%80%85%E6%95%B0%E9%87%8F%E8%B6%85100%E4%B8%87-%E5%BD%A9%E8%99%B9%E8%B4%A8%E6%8A%BC-%E5%A6%82%E4%BD%95%E7%BC%93%E8%A7%A3%E8%B4%A8%E6%8A%BC%E4%B8%AD%E5%BF%83%E5%8C%96%E9%97%AE%E9%A2%98-6aab1d24c23c</link>
@@ -11369,16 +11368,6 @@ Tendermint 是一种拜占庭容错的共识算法，采用权益证明（PoS）
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />这些信息是积极的。zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，由 Polychain Capital 领投，其他投资者包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等。资金将用于团队扩大、产品开发和营销。<br /> <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。这些信息是积极的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
