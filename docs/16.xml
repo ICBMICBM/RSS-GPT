@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>灰度 3 月市场报告：比特币减半前创新高，以太坊表现稍逊</title>
 <link>https://www.panewslab.com/zh/articledetails/0rpnupf5.html</link>
 <guid>https://www.panewslab.com/zh/articledetails/0rpnupf5.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。比特币在2021-2022年的下跌后迅速恢复，Grayscale Research认为正处于比特币牛市的「中期」，价格可能继续上涨。以太坊实施网络升级，但以太币表现不佳，市场认为美国批准现货ETF几率低。比特币即将减半，发行量将减少一半，形成与法定货币不确定前景的对比。加密市场中细分市场消费者和文化表现良好，金融领域代币也稳定回报。现货比特币ETF的净流入/流出可能仍是比特币价格的重要影响因素。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。比特币在2021-2022年的下跌后迅速恢复，Grayscale Research认为正处于比特币牛市的「中期」，价格可能继续上涨。以太坊实施网络升级，但以太币表现不佳，市场认为美国批准现货ETF几率低。比特币即将减半，发行量将减少一半，形成与法定货币不确定前景的对比。加密市场中细分市场消费者和文化表现良好，金融领域代币也稳定回报。现货比特币ETF的净流入/流出可能仍是比特币价格的重要影响因素。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>与前两个周期相比，比特币恢复速度更快。Grayscale Research 认为，现在正处于另一轮比特币牛市的「中期」，价格可能会继续攀升。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://www.panewslab.com/zh/articledetails/0rpnupf5.html">https://www.panewslab.com/zh/articledetails/0rpnupf5.html</a></p>
 <p><strong>文章作者：</strong></p><p>灰度</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>灰度：</strong>TL,DR:
@@ -19,7 +20,6 @@
 
 根据 Grayscale 对加密市场的细分，3 月份表现最好的细分市场是消费者和文化，归因于「Memecoins」的高回报。金融领域的各种代币在本月也产生了稳定的回报，其中表现最好的是 Binance Coin、 MakerDao 治理代币、THORchain 、0x 和 Ribbon Finance。最近几个月，币安在现货市场交易量中的份额开始恢复（目前为 4 6%），但仍低于 2023 年 2 月达到的峰值。与所有其他资产市场一样，加密货币的估值受基本面和技术因素的影响。从技术角度来看，在美国上市的现货比特币 ETF 的净流入 / 流出可能仍是短期内比特币价格的重要影响因素。这些产品目前约占比特币流通量的 4%，因此其需求的任何变化都可以对比特币产生一定的影响。</p><a href="https://www.panewslab.com/zh/articledetails/0rpnupf5.html">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-04T09:10:04+00:00</pubDate>
 </item>
 <item>
@@ -27,7 +27,7 @@
 <link>https://paragraph.xyz/@reforge/evm-parallelization</link>
 <guid>https://paragraph.xyz/@reforge/evm-parallelization</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章探讨了并行EVM项目面临的挑战，其中包括解决以太坊客户端和以太坊本身使用不同的数据结构的问题以及处理并行执行中的异步输入/输出能力。此外，文章还讨论了通过pCLOBs引领的DeFi活动的增加以及并行EVM对撮合引擎的改进。最终，文章预计通过RISC0等通用ZK框架实现从OP-based Rollups到ZK Rollups的过渡，强调对Rust等编程语言的偏好。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章探讨了并行EVM项目面临的挑战，其中包括解决以太坊客户端和以太坊本身使用不同的数据结构的问题以及处理并行执行中的异步输入/输出能力。此外，文章还讨论了通过pCLOBs引领的DeFi活动的增加以及并行EVM对撮合引擎的改进。最终，文章预计通过RISC0等通用ZK框架实现从OP-based Rollups到ZK Rollups的过渡，强调对Rust等编程语言的偏好。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>鉴于软件系统工程的演进和其他网络可扩展性的成功，EVM 的并行执行是不可避免的。Reforge Research 撰文深入探讨了 EVM 并行执行不可避免的未来及其对行业的深远影响，并表示并行 EVM 将为去中心化应用开启了一个全新的可能性时代。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://paragraph.xyz/@reforge/evm-parallelization">https://paragraph.xyz/@reforge/evm-parallelization</a></p>
 <p><strong>文章作者：</strong></p><p>Reforge</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Reforge：</strong>并行 EVM 项目面临的主要挑战不仅仅是让计算同时运行，而更在于确保在并行化环境中对状态访问和修改的优化。问题的核心集中在两个主要方面：
@@ -44,10 +44,8 @@
 
 技术角度来看，创建高性能的并行 EVM L2 解决方案比开发 L1 更容易。更具体地说，我们预计，在短期内，基于乐观的并行 EVM L2 将占据主导地位。最终，我们预计将通过像 RISC0 这样的通用 ZK 框架实现从 OP-based Rollups 到 ZK Rollups 的过渡。编程语言选择将在这些系统的演变中起到重要作用。我们更倾向于 Reth，即以太坊的 Rust 实现，而不是其他任何替代品。这种偏好并非随意，因为 Rust 相对于其他语言具有许多优势，包括内存安全而无需垃圾回收、零成本抽象和丰富的类型系统等。【原文为英文】</p><a href="https://paragraph.xyz/@reforge/evm-parallelization">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-04T08:46:17+00:00</pubDate>
 </item>
-
 <item>
 <title>【英文长推】一文解读为何 MakerDAO 愿意铸造 10 亿美元 DAI 以获取  Ethena 收益？</title>
 <link>https://twitter.com/DU09BTC/status/1775121821639254385</link>
@@ -11395,26 +11393,6 @@ Tendermint 是一种拜占庭容错的共识算法，采用权益证明（PoS）
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投。参投方包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。筹资将用于团队扩大到约 80 人，招聘产品、工程、业务开发和营销跨职能部门。<br /><br />这些信息是积极的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。ZK 互操作协议 zkBridge 开发商Polyhedra Network 完成了 2000 万美元战略融资，融资由Polychain Capital 领投，其他投资者包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium 和 Mapleblock Capital。融资将用于招聘跨职能部门人员，将团队规模从约50人扩大到约80人。这样的发展有助于推动公司的发展和增长。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，由 Polychain Capital 领投，其它投资方包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。所筹资金将用于团队扩大，招聘跨职能部门人员。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
