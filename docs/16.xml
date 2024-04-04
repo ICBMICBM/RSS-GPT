@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>以太坊验证者数量超 100 万，「彩虹质押」如何缓解质押中心化问题？</title>
 <link>https://medium.com/@EbunkerChinese/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E9%AA%8C%E8%AF%81%E8%80%85%E6%95%B0%E9%87%8F%E8%B6%85100%E4%B8%87-%E5%BD%A9%E8%99%B9%E8%B4%A8%E6%8A%BC-%E5%A6%82%E4%BD%95%E7%BC%93%E8%A7%A3%E8%B4%A8%E6%8A%BC%E4%B8%AD%E5%BF%83%E5%8C%96%E9%97%AE%E9%A2%98-6aab1d24c23c</link>
 <guid>https://medium.com/@EbunkerChinese/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E9%AA%8C%E8%AF%81%E8%80%85%E6%95%B0%E9%87%8F%E8%B6%85100%E4%B8%87-%E5%BD%A9%E8%99%B9%E8%B4%A8%E6%8A%BC-%E5%A6%82%E4%BD%95%E7%BC%93%E8%A7%A3%E8%B4%A8%E6%8A%BC%E4%B8%AD%E5%BF%83%E5%8C%96%E9%97%AE%E9%A2%98-6aab1d24c23c</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。主要要点包括：1. 以太坊验证者数量达到100万重要里程碑；2. 验证者数量增加带来的中心化风险；3. Vitalik Buterin提出反相关激励计划以应对验证者中心化问题；4. Rainbow staking提供多样性的质押方法，分为重型质押和轻型质押；5. 小额质押者可以通过轻量级方式参与网络验证，部分抵消大机构的中心化影响。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。主要要点包括：1. 以太坊验证者数量达到100万重要里程碑；2. 验证者数量增加带来的中心化风险；3. Vitalik Buterin提出反相关激励计划以应对验证者中心化问题；4. Rainbow staking提供多样性的质押方法，分为重型质押和轻型质押；5. 小额质押者可以通过轻量级方式参与网络验证，部分抵消大机构的中心化影响。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>2024 年的 Eth 台北会议上，Vitalik Buterin 还对「Rainbow staking」的想法进行了分析，这种方法鼓励服务提供商多样性，可以作为解决以太坊所面临的中心化问题的手段。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://medium.com/@EbunkerChinese/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E9%AA%8C%E8%AF%81%E8%80%85%E6%95%B0%E9%87%8F%E8%B6%85100%E4%B8%87-%E5%BD%A9%E8%99%B9%E8%B4%A8%E6%8A%BC-%E5%A6%82%E4%BD%95%E7%BC%93%E8%A7%A3%E8%B4%A8%E6%8A%BC%E4%B8%AD%E5%BF%83%E5%8C%96%E9%97%AE%E9%A2%98-6aab1d24c23c">https://medium.com/@EbunkerChinese/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E9%AA%8C%E8%AF%81%E8%80%85%E6%95%B0%E9%87%8F%E8%B6%85100%E4%B8%87-%E5%BD%A9%E8%99%B9%E8%B4%A8%E6%8A%BC-%E5%A6%82%E4%BD%95%E7%BC%93%E8%A7%A3%E8%B4%A8%E6%8A%BC%E4%B8%AD%E5%BF%83%E5%8C%96%E9%97%AE%E9%A2%98-6aab1d24c23c</a></p>
 <p><strong>文章作者：</strong></p><p>Ebunker</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Ebunker：</strong>根据 Dune 数据，3 月 28 日，以太坊的验证者数量中达到 100 万 的重要里程碑。社区的讨论点围绕着验证者集的增长，尤其在 Shapella 升级使以太坊质押可以灵活撤出之后，这是以太坊向更可扩展和节能网络发展的关键。但是，随着验证者数量的增加，每个验证者都必须独立下载最新数据并在受约束的时间范围内验证状态变化。这意味着它们需要更多的计算能力，以实现较大的数据区块。据统计，目前至少有 85 万个验证者属于用户将 ETH 托管给中心化平台进行质押的情况，因为大部分 ETH 持有者不具备 32 枚以上的 ETH，或者无法自行应付复杂的质押操作。这就引发了另一个关注点 — — 加剧中心化的潜在风险。
@@ -18,10 +19,8 @@
 
 Rainbow staking 可以分为重型质押和轻型质押，在这种特殊情况下，重型质押是可罚没的，并且在每个插槽中都有签名。 相反，轻型质押不可罚没，它通过彩票系统签名。现在试图明确地将这二者分开，并有可能要求二者在一个区块上签名，以使区块最终确定，即尝试将这两种方法的安全性添加在一起。以太坊非托管质押服务商 Ebunker 合伙人 Todd 表示，过去，小额质押者在 ETH 网络的验证工作中，基本属于角色缺失。彩虹质押的核心目的，是让小额的 ETH 质押者，通过很轻量级的方式参与到网络验证。然后，凭借参与人数的增加，来部分抵消掉头部机构和协议持有大量 Staking ETH 的中心化影响。</p><a href="https://medium.com/@EbunkerChinese/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E9%AA%8C%E8%AF%81%E8%80%85%E6%95%B0%E9%87%8F%E8%B6%85100%E4%B8%87-%E5%BD%A9%E8%99%B9%E8%B4%A8%E6%8A%BC-%E5%A6%82%E4%BD%95%E7%BC%93%E8%A7%A3%E8%B4%A8%E6%8A%BC%E4%B8%AD%E5%BF%83%E5%8C%96%E9%97%A">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-04T06:15:42+00:00</pubDate>
 </item>
-
 <item>
 <title>对话 Wormhole 联创：被盗事故练就「韧性」，联手 AMD 部署 ZK 升级安全</title>
 <link>https://foresightnews.pro/article/detail/57352</link>
@@ -11363,16 +11362,6 @@ Tendermint 是一种拜占庭容错的共识算法，采用权益证明（PoS）
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。这些信息是积极的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。开发商Polyhedra Network以10亿美元估值完成2000万美元战略融资，由Polychain Capital领投并有其他参投方。融资将用于团队扩大和业务拓展。融资过程中采用未来代币或SAFT的简单协议。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
