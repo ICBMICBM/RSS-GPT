@@ -20632,3 +20632,15 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-04 04:08:01.779880
+------------------------------------------------------
+Started: 2024-04-04 04:26:06.902191
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 283
+Summarized using GPT-3.5-turbo-1106
+Append: [被标记为Multicoin Capital的地址于9小时前从Aave借出6200枚ETH并转入Coinbase](https://www.panewslab.com/zh/sqarticledetails/v71cjnoh.html)
+Token length: 120
+Summarized using GPT-3.5-turbo-1106
+Append: [加密做市商GSR获得新加坡支付机构牌照](https://www.panewslab.com/zh/sqarticledetails/vwhw5kjk.html)
+append_entries: 2
+Finish: 2024-04-04 04:26:13.292747
