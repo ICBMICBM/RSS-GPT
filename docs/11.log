@@ -17283,3 +17283,15 @@ Existing_entries: 370
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-04 12:55:44.103661
+------------------------------------------------------
+Started: 2024-04-04 13:09:19.554679
+Existing_entries: 370
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 61
+Summarized using GPT-3.5-turbo-1106
+Append: [Ripple, Developer Behind XRP Ledger, Enters Stablecoin Fray vs. Tether, USDC](https://www.coindesk.com/tech/2024/04/04/ripple-developer-behind-xrp-ledger-enters-stablecoin-fray-vs-tether-usdc/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 48
+Summarized using GPT-3.5-turbo-1106
+Append: [Credbull's First Crypto Fund Chases High Fixed Yields](https://www.coindesk.com/business/2024/04/04/credbulls-first-crypto-fund-chases-high-fixed-yields/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 2
+Finish: 2024-04-04 13:09:25.678133
