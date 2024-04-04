@@ -19900,3 +19900,15 @@ Existing_entries: 1000
 Fetching from https://www.chainfeeds.xyz/rss
 append_entries: 0
 Finish: 2024-04-04 02:39:26.901214
+------------------------------------------------------
+Started: 2024-04-04 02:47:10.639883
+Existing_entries: 1000
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 1373
+Summarized using GPT-3.5-turbo-1106
+Append: [对话 FLock.io CEO：为什么谷歌不能做真正的联邦学习，而区块链可以？](https://www.techflowpost.com/article/detail_17200.html)
+Token length: 420
+Summarized using GPT-3.5-turbo-1106
+Append: [Solana 互操作层 Zeus Network 以 1 亿美元估值完成 800 万美元融资，Mechanism Capital 领投](https://www.theblock.co/post/286291/solana-zeus-network-funding-token-valuation)
+append_entries: 2
+Finish: 2024-04-04 02:47:16.654684
