@@ -17490,3 +17490,12 @@ Existing_entries: 379
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-04 17:53:12.732761
+------------------------------------------------------
+Started: 2024-04-04 18:00:25.430228
+Existing_entries: 379
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 89
+Summarized using GPT-3.5-turbo-1106
+Append: [Coinbase Says Canadian License Makes It Country's Biggest Registered Crypto Exchange](https://www.coindesk.com/policy/2024/04/04/coinbase-says-canadian-license-makes-it-countrys-biggest-registered-crypto-exchange/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-04 18:00:27.431792
