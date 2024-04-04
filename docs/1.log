@@ -20725,3 +20725,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-04 06:28:18.240662
+------------------------------------------------------
+Started: 2024-04-04 06:35:44.702352
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 373
+Summarized using GPT-3.5-turbo-1106
+Append: [比特币现货ETF昨日总净流入1.13亿美元，富达ETF单日净流入1.16亿美元](https://www.panewslab.com/zh/sqarticledetails/55hyh0aq.html)
+append_entries: 1
+Finish: 2024-04-04 06:35:49.112971
