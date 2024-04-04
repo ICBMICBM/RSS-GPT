@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>对话 Wormhole 联创：被盗事故练就「韧性」，联手 AMD 部署 ZK 升级安全</title>
 <link>https://foresightnews.pro/article/detail/57352</link>
 <guid>https://foresightnews.pro/article/detail/57352</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。<br>Wormhole的联合创始人Robinson Burkey谈到了跨链桥层的模块化重要性，团队与团队安全审计的重要性以及投资于ZK技术的意义。他强调了Wormhole在互操作性、安全性和性能方面与竞争对手的优势，并表示对多链生态和跨链DeFi应用的未来发展充满信心。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。<br />Wormhole的联合创始人Robinson Burkey谈到了跨链桥层的模块化重要性，团队与团队安全审计的重要性以及投资于ZK技术的意义。他强调了Wormhole在互操作性、安全性和性能方面与竞争对手的优势，并表示对多链生态和跨链DeFi应用的未来发展充满信心。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>在 W 空投发放之际，Foresight News 与 Wormhole 项目联合创始人及首席商务官 Robinson Burkey 聊了聊如何从被盗事件走出、如何熬过加密寒冬以及 Wormhole 希望如何翻开跨链赛道下一篇章的故事。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://foresightnews.pro/article/detail/57352">https://foresightnews.pro/article/detail/57352</a></p>
 <p><strong>文章作者：</strong></p><p>Wendy 及 Kean</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Robinson Burkey：</strong>跨连桥层的模块化是非常重要的。首先，我们有通信层，就是在两个链之间共享数据，这是 Wormhole 协议的核心部分，是一种消息传输协议。在此之上，可以构建不同的使用场景和应用。其中，最常见、也是大多数人比较熟悉的就是将资产从 A 链转移到 B 链。因此，Wormhole 正在做两件重要的事情，以确保我们的安全性。首先，我们组建了被公认为这个领域最好的安全团队之一，并且我们进行了 15 次以上的公开审计。另一方面，我们正在大力投资于 ZK（零知识证明）。很多人通过隐私的视角来看待 ZK，解决隐私问题确实是 ZK 技术很好的应用场景。而我们则 ZK 视作是一种可以使桥接更无需信任的方式。谈及「无信任」（trustless），首先我们要知道，现在任何一种交易通常都需要信任一些实体或机构，你需要确保他们说的是真的，就比如说任何通过桥接的信息都需要有人为其背书，以 Wormhole 为例，需要 19 个（验证者）当中有 13 个背书其真实性。目前看来这是一个非常可靠的模型。
@@ -18,10 +19,8 @@
 
 Wormhole 迄今已经连接了大约五种不同的 VM， 可以支持多种运行环境和编程语言。而目前与我们最接近的竞争对手只能连接两种，这对我们来说是一个很大的竞争优势。我们的重点之一就是将继续投资于像 Solana、Sui 这样的链，Sui 就运行在 Move VM 上。我们对这种高吞吐量的生态很有信心，同时我们也关注 L2 以及如何解决流动性碎片化问题。最后一点，我想说的是，我们正在投资于下一代多链应用，如 Pyth 预言机。它已在 50 多个链上被使用，可以比 Chainlink 更快地实现跨链，我们也已经看到了原生跨链借贷 DeFi 的应用的出现。无需赘述，随着 DeFi 应用变得足够简单、足够安全，我们将会看到越来越多的散户开始使用。</p><a href="https://foresightnews.pro/article/detail/57352">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-04T05:13:01+00:00</pubDate>
 </item>
-
 <item>
 <title>【长推】Layer3 概念引激烈讨论，究竟该如何理解其扩展意义？</title>
 <link>https://twitter.com/tmel0211/status/1775700082639417696</link>
@@ -11357,16 +11356,6 @@ Tendermint 是一种拜占庭容错的共识算法，采用权益证明（PoS）
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />这些信息是积极的。开发商Polyhedra Network以10亿美元估值完成2000万美元战略融资，由Polychain Capital领投并有其他参投方。融资将用于团队扩大和业务拓展。融资过程中采用未来代币或SAFT的简单协议。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK互操作协议zkBridge的开发商Polyhedra Network以10亿美元估值完成2000万美元战略融资，由Polychain Capital领投，另有多家投资机构参与。融资将用于团队扩大、产品开发和市场推广等方面。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
