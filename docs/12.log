@@ -16617,3 +16617,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Almost 10% Of Bitcoin Supply Bought Above $60,000: Glassnode](https://bitcoinist.com/10-bitcoin-supply-bought-above-60000-glassnode/)
 append_entries: 1
 Finish: 2024-04-04 03:09:28.470851
+------------------------------------------------------
+Started: 2024-04-04 03:24:27.095662
+Existing_entries: 264
+Fetching from https://bitcoinist.com/feed
+append_entries: 0
+Finish: 2024-04-04 03:24:27.327236
