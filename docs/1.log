@@ -20995,3 +20995,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [外媒：Coinbase在加拿大获得受限交易商牌照](https://www.panewslab.com/zh/sqarticledetails/qu8uo0x5.html)
 append_entries: 1
 Finish: 2024-04-04 12:43:14.926764
+------------------------------------------------------
+Started: 2024-04-04 12:55:34.066300
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 138
+Summarized using GPT-3.5-turbo-1106
+Append: [关于SingularityNET、Fetch.ai和Ocean Protocol代币合并的提案投票现已开放](https://www.panewslab.com/zh/sqarticledetails/wd0gt3s3.html)
+append_entries: 1
+Finish: 2024-04-04 12:55:37.386761
