@@ -18058,3 +18058,10 @@ Fetching from https://www.blocktempo.com/feed
 Feed error: no Content-type specified
 append_entries: 0
 Finish: 2024-04-04 12:21:02.274105
+------------------------------------------------------
+Started: 2024-04-04 12:43:18.667131
+Existing_entries: 0
+Fetching from https://www.blocktempo.com/feed
+Feed error: no Content-type specified
+append_entries: 0
+Finish: 2024-04-04 12:43:20.716561
