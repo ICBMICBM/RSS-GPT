@@ -20668,3 +20668,15 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-04 04:57:00.362935
+------------------------------------------------------
+Started: 2024-04-04 05:13:31.744696
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 5946
+Summarized using GPT-3.5-turbo-1106
+Append: [分布式AI应用的未来：Privasea引领DePIN AI算力众筹革命](https://www.panewslab.com/zh/articledetails/ayqubnp7.html)
+Token length: 67
+Summarized using GPT-3.5-turbo-1106
+Append: [Circle在以太坊网络上增发5500万枚USDC](https://www.panewslab.com/zh/sqarticledetails/mws8w2kq.html)
+append_entries: 2
+Finish: 2024-04-04 05:13:38.924060
