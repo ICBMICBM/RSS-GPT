@@ -4,6 +4,49 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>灰度 3 月市场报告：比特币减半前创新高，以太坊表现稍逊</title>
+<link>https://www.panewslab.com/zh/articledetails/0rpnupf5.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/0rpnupf5.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。比特币在2021-2022年的下跌后迅速恢复，Grayscale Research认为正处于比特币牛市的「中期」，价格可能继续上涨。以太坊实施网络升级，但以太币表现不佳，市场认为美国批准现货ETF几率低。比特币即将减半，发行量将减少一半，形成与法定货币不确定前景的对比。加密市场中细分市场消费者和文化表现良好，金融领域代币也稳定回报。现货比特币ETF的净流入/流出可能仍是比特币价格的重要影响因素。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>与前两个周期相比，比特币恢复速度更快。Grayscale Research 认为，现在正处于另一轮比特币牛市的「中期」，价格可能会继续攀升。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.panewslab.com/zh/articledetails/0rpnupf5.html">https://www.panewslab.com/zh/articledetails/0rpnupf5.html</a></p>
+<p><strong>文章作者：</strong></p><p>灰度</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>灰度：</strong>TL,DR:
+1）比特币从 2021-2022 年的下跌中完全恢复，在 2024 年 3 月达到了历史新高。Grayscale Research 认为，各国央行的急于降息，可能是推动实物黄金和比特币等价值存储资产需求增加的一个因素；
+2）以太坊成功实施了一次重大的网络升级，但以太币在本月的表现逊于比特币，可能是由于市场认为美国批准现货 ETF 的几率较低；
+3）比特币即将减半（定于 4 月 19 日），届时发行量将减少一半。比特币网络可预测的货币政策与法定货币的不确定前景形成对比。
+
+根据 Grayscale 对加密市场的细分，3 月份表现最好的细分市场是消费者和文化，归因于「Memecoins」的高回报。金融领域的各种代币在本月也产生了稳定的回报，其中表现最好的是 Binance Coin、 MakerDao 治理代币、THORchain 、0x 和 Ribbon Finance。最近几个月，币安在现货市场交易量中的份额开始恢复（目前为 4 6%），但仍低于 2023 年 2 月达到的峰值。与所有其他资产市场一样，加密货币的估值受基本面和技术因素的影响。从技术角度来看，在美国上市的现货比特币 ETF 的净流入 / 流出可能仍是短期内比特币价格的重要影响因素。这些产品目前约占比特币流通量的 4%，因此其需求的任何变化都可以对比特币产生一定的影响。</p><a href="https://www.panewslab.com/zh/articledetails/0rpnupf5.html">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-04T09:10:04+00:00</pubDate>
+</item>
+<item>
+<title>【英文】EVM 并行化探索：Post-Parallel EVM 时代会如何发展？</title>
+<link>https://paragraph.xyz/@reforge/evm-parallelization</link>
+<guid>https://paragraph.xyz/@reforge/evm-parallelization</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章探讨了并行EVM项目面临的挑战，其中包括解决以太坊客户端和以太坊本身使用不同的数据结构的问题以及处理并行执行中的异步输入/输出能力。此外，文章还讨论了通过pCLOBs引领的DeFi活动的增加以及并行EVM对撮合引擎的改进。最终，文章预计通过RISC0等通用ZK框架实现从OP-based Rollups到ZK Rollups的过渡，强调对Rust等编程语言的偏好。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>鉴于软件系统工程的演进和其他网络可扩展性的成功，EVM 的并行执行是不可避免的。Reforge Research 撰文深入探讨了 EVM 并行执行不可避免的未来及其对行业的深远影响，并表示并行 EVM 将为去中心化应用开启了一个全新的可能性时代。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://paragraph.xyz/@reforge/evm-parallelization">https://paragraph.xyz/@reforge/evm-parallelization</a></p>
+<p><strong>文章作者：</strong></p><p>Reforge</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Reforge：</strong>并行 EVM 项目面临的主要挑战不仅仅是让计算同时运行，而更在于确保在并行化环境中对状态访问和修改的优化。问题的核心集中在两个主要方面：
+1）以太坊客户端和以太坊本身使用不同的数据结构进行存储（B-tree/LSM-tree 与 Merkle Patricia Trie），导致在将一个数据结构嵌入到另一个数据结构时性能不佳。
+2）在并行执行中，执行异步输入 / 输出（async I/O）以进行交易读取和更新的能力至关重要；进程可能会因等待彼此而陷入停滞，从而浪费任何速度增益。
+使用关系模型实现 EVM 状态会增加不必要的复杂性和开销，导致与使用基本键值存储相比， 'sload' 和'sstore' 操作的成本更高。EVM 状态不需要像排序、范围扫描或事务语义这样的特性，因为它只执行点读取和写入操作，而写入操作会在每个区块结束时分开进行。因此，这些改进的需求应集中在解决诸如可扩展性、低延迟读写、高效的并发控制、状态修剪和存档以及与 EVM 的无缝集成等主要考虑因素上。例如，Monad 正在从头开始构建一个定制的状态数据库，名为 MonadDB。它将利用最新的内核支持进行异步操作，同时在磁盘和内存中本地实现 patricia trie 数据结构。
+
+随着并行 EVM 的出现，我们预计 DeFi 活动将大幅增加，主要由可行的链上中心限价订单簿（CLOBs）引领。鉴于 DeFi 天生可组合，可以与无限数量的协议进行交互，以创建大量的交易排列组合。利用这一现象，pCLOB 可以在订单提交过程中嵌入自定义逻辑。此逻辑可以在订单提交之前或之后调用。例如，pCLOB 智能合约可以整合自定义逻辑来：
+1）根据预定义规则或市场条件验证订单参数（例如价格和数量）
+2）进行实时风险检查（例如，确保杠杆交易的足够保证金或抵押品）
+3）根据任何参数（例如，订单类型、交易量、市场波动率等）应用动态费用计算
+4）根据指定的触发条件执行条件订单
+并行 EVM 还改善了 pCLOBs 的撮合引擎。现在，pCLOB 可以实现并行撮合引擎，利用多个 lanes 同时处理订单并执行匹配计算。在与 Monad 联创始 Keone 的一次讨论中，他认为我们可以预期多个 pCLOBs 在不同的高吞吐量生态系统中获得关注。Keone 强调，由于费用更低，这些 pCLOB 将对更广泛的 DeFi 生态系统产生重大影响。
+
+技术角度来看，创建高性能的并行 EVM L2 解决方案比开发 L1 更容易。更具体地说，我们预计，在短期内，基于乐观的并行 EVM L2 将占据主导地位。最终，我们预计将通过像 RISC0 这样的通用 ZK 框架实现从 OP-based Rollups 到 ZK Rollups 的过渡。编程语言选择将在这些系统的演变中起到重要作用。我们更倾向于 Reth，即以太坊的 Rust 实现，而不是其他任何替代品。这种偏好并非随意，因为 Rust 相对于其他语言具有许多优势，包括内存安全而无需垃圾回收、零成本抽象和丰富的类型系统等。【原文为英文】</p><a href="https://paragraph.xyz/@reforge/evm-parallelization">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-04T08:46:17+00:00</pubDate>
+</item>
 
 <item>
 <title>【英文长推】一文解读为何 MakerDAO 愿意铸造 10 亿美元 DAI 以获取  Ethena 收益？</title>
