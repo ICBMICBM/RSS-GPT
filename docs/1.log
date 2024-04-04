@@ -20734,3 +20734,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [比特币现货ETF昨日总净流入1.13亿美元，富达ETF单日净流入1.16亿美元](https://www.panewslab.com/zh/sqarticledetails/55hyh0aq.html)
 append_entries: 1
 Finish: 2024-04-04 06:35:49.112971
+------------------------------------------------------
+Started: 2024-04-04 06:42:58.108579
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 245
+Summarized using GPT-3.5-turbo-1106
+Append: [BNB Chain一季度报告：日活地址超130万个，TVL环比增长65.6%](https://www.panewslab.com/zh/sqarticledetails/ezcpq6t3.html)
+append_entries: 1
+Finish: 2024-04-04 06:43:03.462663
