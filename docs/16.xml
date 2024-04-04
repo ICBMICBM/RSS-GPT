@@ -4,22 +4,21 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>【英文长推】一文解读为何 MakerDAO 愿意铸造 10 亿美元 DAI 以获取  Ethena 收益？</title>
 <link>https://twitter.com/DU09BTC/status/1775121821639254385</link>
 <guid>https://twitter.com/DU09BTC/status/1775121821639254385</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是消极的。<br>MakerDAO计划将6亿枚DAI分配到USDe，并通过DeFi借贷协议Morpho Labs质押USDe获得sUSDe。文章指出MakerDAO可能利用用户贪婪心理，赚取巨额利润，USDe市值飙升。然而，当市场转为熊市时，USDe可能面临风险，无法维持锚定导致清算。在此情况下，使用USDe和sUSDe在Morpho上借贷DAI的用户可能受到影响。 <div>
+<div> <br /><br />摘要：<br />这些信息是消极的。<br />MakerDAO计划将6亿枚DAI分配到USDe，并通过DeFi借贷协议Morpho Labs质押USDe获得sUSDe。文章指出MakerDAO可能利用用户贪婪心理，赚取巨额利润，USDe市值飙升。然而，当市场转为熊市时，USDe可能面临风险，无法维持锚定导致清算。在此情况下，使用USDe和sUSDe在Morpho上借贷DAI的用户可能受到影响。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>MakerDAO 发起社区提案，拟将 6 亿枚 DAI 分配到 USDe 并通过 DeFi 借贷协议 Morpho Labs 质押 USDe 获得 sUSDe。激进的资产配置举动还是别有隐情？加密研究员 Duo Nine 撰文对此次提案进行了分析解读。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/DU09BTC/status/1775121821639254385">https://twitter.com/DU09BTC/status/1775121821639254385</a></p>
 <p><strong>文章作者：</strong></p><p>Duo Nine</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Duo Nine：</strong>MakerDAO 正在利用用户在 USDe 上追逐更高收益率的贪婪心理，并计划用数十亿美元继续刺激和满足这种贪婪，这样 MakerDAO 赚取巨额利润，USDe 市值飙升，双赢。但存在一个问，一旦出现风险，优先清算用户资金。从某种程度上讲，USDe 脱钩只是时间问题。市场转为熊市，资金费率变为负值，而 USDe 锚定需要资金费率为正才能维持高收益回报，所以 Ethena 需要数十亿美元的空头头寸来维持 USDe 的锚定并维持其 100 亿美元的市值。
 
 如果市场转为熊市，一旦 MakerDAO 决定取消其 20 亿美元敞口，USDe 面临抛售压力，市值会开始缩水，在资金费率为负值的背景下，USDe 将难以维持锚定，然后跌破 1 美元，进而开始发生恐慌和清算。那些在 Morpho 上用 USDe 和 sUSDe 借贷 DAI 的用户将很快被清算。同时，随着 USDe 脱锚，MakerDAO 会优先提取发行的全部 20 亿枚 DAI 的资金，DAI 还能维持锚定，MakerDAO 也获得了丰厚的借贷利润。为何 Ethena 会支持这样做呢？因为在牛市里，这就是 USDe 的市值增长方式。100 亿美元的资金能获得 20%、40% 或 60% 的年化收益率，即使只能维持一个月，也能带来数亿美元纯利润。【原文为英文】</p><a href="https://twitter.com/DU09BTC/status/1775121821639254385">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-04T08:19:12+00:00</pubDate>
 </item>
-
 <item>
 <title>【英文】从存储过去到计算未来： AO 超并行计算机</title>
 <link>https://medium.com/ybbcapital/from-storing-the-past-to-computing-the-future-the-hyper-parallel-computer-of-ao-3335a3f60ab3</link>
@@ -11373,16 +11372,6 @@ Tendermint 是一种拜占庭容错的共识算法，采用权益证明（PoS）
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，由 Polychain Capital 领投，其它投资方包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。所筹资金将用于团队扩大，招聘跨职能部门人员。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，由 Polychain Capital 领投，其他投资者包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等。资金将用于团队扩大、产品开发和营销。<br /> <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
