@@ -20965,3 +20965,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-04 11:42:09.270908
+------------------------------------------------------
+Started: 2024-04-04 11:49:34.496524
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 98
+Summarized using GPT-3.5-turbo-1106
+Append: [Pendle TVL突破40亿美元，交易量突破100亿美元](https://www.panewslab.com/zh/sqarticledetails/csp89x1f.html)
+append_entries: 1
+Finish: 2024-04-04 11:49:37.742901
