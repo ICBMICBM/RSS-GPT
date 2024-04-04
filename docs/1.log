@@ -20692,3 +20692,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-04 05:35:08.613972
+------------------------------------------------------
+Started: 2024-04-04 05:42:22.947108
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 1957
+Summarized using GPT-3.5-turbo-1106
+Append: [比特币减半你需要知道的6个Big Ideas](https://www.panewslab.com/zh/articledetails/d2azuppx.html)
+append_entries: 1
+Finish: 2024-04-04 05:42:27.065534
