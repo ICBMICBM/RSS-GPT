@@ -4,6 +4,25 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>【长推】Layer3 概念引激烈讨论，究竟该如何理解其扩展意义？</title>
+<link>https://twitter.com/tmel0211/status/1775700082639417696</link>
+<guid>https://twitter.com/tmel0211/status/1775700082639417696</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。加密研究员Haotian整理了关于市场上关于Layer3的争论，指出Layer3的扩展应该根据应用场景需求进行定制开发。他认为Layer3不必一定要通过压缩再提交到Layer2，而是可以定义为特定应用链，在共识机制、Gas Fee选择等方面高度自治。此外，他强调了Layer3的交易会通过Layer2的Sequencer提交给主网最后确认的重要性，同时提到Vitalik Buterin的观点认为Layer3不能简单地被看作是Layer2的堆叠和延展，因为Layer3的可扩展性要依赖于与Layer2共享关键组件。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>加密研究员 Haotian 撰文对市场上关于 Layer3 的争论进行了整理，并表示 Layer3 的扩展应该给予应用场景需求做定制开发扩展，类似一键发链的开发范式在 Layer3 应用多链方向走不通。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/tmel0211/status/1775700082639417696">https://twitter.com/tmel0211/status/1775700082639417696</a></p>
+<p><strong>文章作者：</strong></p><p>Haotian</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Haotian：</strong>1）由于 Layer2 和 Layer3 理论上都要依赖主网结算，因此一个常见的假设是，Layer3 先把数据进行压缩，再提交到 Layer2 架构去畅想 Layer4、Layer5，这种方式就会被挤进死胡同，毕竟数据不可能一直被压缩。
+
+2）实际上，Layer3 和 Layer2 的交互方式可能并不一定非要压缩再压缩。在 Arbitrum、zkSync 等多家 layer2 Stack 堆栈规划的 Layer3 战略中，Layer3 都被定义为 specific 应用链，会在共识机制、Gas Fee 选择、经济模型等方面高度自治，问题就在这，自治不代表完全独立，其底层架构大概率会被约束应用 Layer2 搭建的基础 infra，比如，和 Layer2 链共享 Sequencer、Prover 等关键组件。这就意味着，Layer3 的交易会被直接经由 Layer2 的 Sequencer 打包提交给主网做最后状态确认。Layer2 更多承接的是 Layer3 多链间的可交互操作性 Function，所谓结算层也只是数据打包的结算，而并非真正意义上的最终确定性结算。Layer3 的交易也需要排队在 Layer2 上进行打包，把 layer3 应用链当成一个特殊的 Sequencer 管道就 Make Sense 了。
+
+3）如果假定 Layer3 都是链间套娃的形式那可扩展性自然有限，但这样的实践方式只是理论假设，若按照 layer2 和 layer3 共享 Sequencer 和 Prover 等关键组件，有很多方法可以让 Layer3 的多链横向扩容，尤其是链间可交互操作性被提升后。
+
+4） Vitalik Buterin 也重申了自己的观点，Layer3 不能被简单是为 Layer2 的堆叠和延伸，这样并不能带来有效扩展性。因为，Layer3 要依赖 Layer2 做基础设施，layer2 都无法做到无止境扩展何况 Layer3。但在一些特定场景下，比如，隐私，Layer3 特定隐私应用链可以解决一部分交易对隐私的偏好。</p><a href="https://twitter.com/tmel0211/status/1775700082639417696">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-04T04:03:33+00:00</pubDate>
+</item>
 
 <item>
 <title>【英文长推】 AC：Ethena 或是下一个 UST？</title>
