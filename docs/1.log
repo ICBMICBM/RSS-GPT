@@ -20929,3 +20929,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-04 10:58:36.649349
+------------------------------------------------------
+Started: 2024-04-04 11:11:42.186799
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 113
+Summarized using GPT-3.5-turbo-1106
+Append: [DeFi开发商Ellipsis Labs完成2000万美元的A轮融资，Paradigm领投](https://www.panewslab.com/zh/sqarticledetails/vwip21to.html)
+append_entries: 1
+Finish: 2024-04-04 11:11:44.880465
