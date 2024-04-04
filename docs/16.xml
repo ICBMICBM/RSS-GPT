@@ -4,6 +4,23 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>【英文长推】 AC：Ethena 或是下一个 UST？</title>
+<link>https://twitter.com/AndreCronjeTech/status/1775398490404724914</link>
+<guid>https://twitter.com/AndreCronjeTech/status/1775398490404724914</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是消极的<br>Andre Cronje对Ethena Labs机制设计提出了质疑，将其比作可能成为下一个UST。对于永续合约，他认为其类似赌博，不是真正交易。他指出Ethena的机制存在风险，包括资金费率问题和可能被清算的风险。他认为市场转向时会出现问题，对协议的运作机制持怀疑态度。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Andre Cronje 撰文从概述了自己对 Ethena Labs 机制设计的质疑，并称其或是下一个 UST。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/AndreCronjeTech/status/1775398490404724914">https://twitter.com/AndreCronjeTech/status/1775398490404724914</a></p>
+<p><strong>文章作者：</strong></p><p>Andre Cronje</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Andre Cronje：</strong>永续合约则是一种交易工具，它允许交易者执行类似的操作，但却不用涉及任何现货资产，因此这其实有点像赌博，而不是交易。永续合约的特殊之处在于，做多者和做空者都需要支付「资金费率」。对于交易者而言，要维持自己的交易头寸，你需要做的是提供保证金，保证金本质上是为了「资助」资金费率「债务」的抵押物，如果资金费率转为负数，它将会开始逐步吞噬你的抵押物，直到你的头寸被平仓。
+
+Ethena 的另一项机制在于抵押物的自动生息功能，即只要持有该抵押物，资产便就会持续增值。其实就是 stETH，如果我持有 1 个 stETH，也就是说我正在做多 stETH，那么这时如果我再通过永续合约去开启 1 个 stETH 的做空头寸，理论上我就可以实现「Delta 中性」，因为即使我在 stETH 做空上损失了 100 美元，我也可以 stETH 做多上获得 100 美元。补充两点，一是现在我能找到的可接受 stETH 作为保证金的交易所只有 ByBit，二是此处的「Delta 中性」讨论忽略了资金费率问题。
+
+根据我的经验，任何一笔合约头寸最终都只会迎来两个结局，要么被平仓，要么就得被清算。因此，我目前对于该协议运作机制的理想推断是，当市场转向时，头寸将会被平仓，听起来很明显，实际执行起来却几乎不可能。所以尽管现在看起来一切都很顺利，但这只是因为市场处于看涨情绪下，大家乐意持有多单，做空的资金费率为正，可情况最终一定会发生变化，当做空的资金利率转为负值，抵押物将开始被蚕食甚至被清算，到时候就只会剩下一个没有任何支撑的资产。有些人可能会用「大数定律」来进行反驳，这很像是 UST 当年号称拥有 10 亿美元 BTC 的保障基金 ——「直到它没用的那一天为止，它都挺有用的」。【原文为英文】</p><a href="https://twitter.com/AndreCronjeTech/status/1775398490404724914">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-04T03:16:38+00:00</pubDate>
+</item>
 
 <item>
 <title>对话 FLock.io CEO：为什么谷歌不能做真正的联邦学习，而区块链可以？</title>

@@ -20614,3 +20614,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [香港Web3嘉年华开幕式将于4月6日举行，木头姐将对话HashKey Capital CEO](https://www.panewslab.com/zh/sqarticledetails/yhatbd1b.html)
 append_entries: 1
 Finish: 2024-04-04 03:39:17.569950
+------------------------------------------------------
+Started: 2024-04-04 03:46:46.000644
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+append_entries: 0
+Finish: 2024-04-04 03:46:48.345420
