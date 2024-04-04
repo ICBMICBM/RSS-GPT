@@ -17364,3 +17364,15 @@ Existing_entries: 373
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-04 14:50:18.885487
+------------------------------------------------------
+Started: 2024-04-04 14:57:43.205503
+Existing_entries: 373
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 105
+Summarized using GPT-3.5-turbo-1106
+Append: [Coinbase to Benefit From Long-Term Adoption of Blockchain Technology: Oppenheimer](https://www.coindesk.com/business/2024/04/04/coinbase-to-benefit-from-long-term-adoption-of-blockchain-technology-oppenheimer/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 45
+Summarized using GPT-3.5-turbo-1106
+Append: [DAOs Beware: Neo-Imperialism Is on the Rise in Crypto-Land](https://www.coindesk.com/consensus-magazine/2024/04/04/daos-beware-neo-imperialism-is-on-the-rise-in-crypto-land/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 2
+Finish: 2024-04-04 14:57:47.499886
