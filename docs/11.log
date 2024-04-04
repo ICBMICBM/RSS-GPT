@@ -17256,3 +17256,18 @@ Existing_entries: 367
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-04 11:57:14.643776
+------------------------------------------------------
+Started: 2024-04-04 12:21:02.453305
+Existing_entries: 367
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 27
+Summarized using GPT-3.5-turbo-1106
+Append: [Google Takes Legal Action Against Alleged Crypto Scammers for Uploading Fraudulent Apps](https://www.coindesk.com/policy/2024/04/04/google-takes-legal-action-against-alleged-crypto-scammers-for-uploading-fraudulent-apps/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 88
+Summarized using GPT-3.5-turbo-1106
+Append: [First Mover Americas: Galaxy Digital to Raise $100M for New Fund](https://www.coindesk.com/markets/2024/04/04/first-mover-americas-galaxy-digital-to-raise-100m-for-new-fund/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 17
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin Cash Spikes 10% After Halving, Bitcoin Hovers Above $66K](https://www.coindesk.com/markets/2024/04/04/bitcoin-cash-spikes-10-after-halving-bitcoin-hovers-above-66k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 3
+Finish: 2024-04-04 12:21:08.835327
