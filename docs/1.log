@@ -20527,3 +20527,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [复盘主流币减半行情：刻舟求剑可行吗？](https://www.panewslab.com/zh/articledetails/utcnvq3e.html)
 append_entries: 4
 Finish: 2024-04-04 01:39:41.554220
+------------------------------------------------------
+Started: 2024-04-04 02:09:32.592530
+Existing_entries: 989
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 267
+Summarized using GPT-3.5-turbo-1106
+Append: [以太坊研究员发布EIP-7623研究报告，拟提高以DA为目的交易的calldata成本](https://www.panewslab.com/zh/sqarticledetails/mlgt4q0r.html)
+Token length: 692
+Summarized using GPT-3.5-turbo-1106
+Append: [模块化 BTC Layer2 一键发链平台 UTXO Stack 完成种子轮融资，ABCDE 和 SNZ Capital 联合领投](https://www.panewslab.com/zh/sqarticledetails/t6zcqng7.html)
+Token length: 350
+Summarized using GPT-3.5-turbo-1106
+Append: [美国法院判处OneCoin法务及合规负责人4年监禁](https://www.panewslab.com/zh/sqarticledetails/zz7jau68.html)
+append_entries: 3
+Finish: 2024-04-04 02:09:43.057521
