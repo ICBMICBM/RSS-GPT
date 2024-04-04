@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>对话 FLock.io CEO：为什么谷歌不能做真正的联邦学习，而区块链可以？</title>
 <link>https://www.techflowpost.com/article/detail_17200.html</link>
 <guid>https://www.techflowpost.com/article/detail_17200.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的<br>1. 联邦学习通过将计算分散到每个节点，不需要将数据集中存储，从而确保数据隐私。<br>2. FLock在传统联邦学习框架中引入智能合约和代币经济学，促进更广泛的参与。<br>3. FLock的目标是建立一个民主人工智能体系，使个人数据保密并确保所有参与者的公平性。<br>4. 数据在节点之间传输时，仅传递模型训练后的梯度变化值，而不涉及个人数据。<br>5. FLock与其他加密技术兼容，如zkFL，以确保数据传输的安全性。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的<br />1. 联邦学习通过将计算分散到每个节点，不需要将数据集中存储，从而确保数据隐私。<br />2. FLock在传统联邦学习框架中引入智能合约和代币经济学，促进更广泛的参与。<br />3. FLock的目标是建立一个民主人工智能体系，使个人数据保密并确保所有参与者的公平性。<br />4. 数据在节点之间传输时，仅传递模型训练后的梯度变化值，而不涉及个人数据。<br />5. FLock与其他加密技术兼容，如zkFL，以确保数据传输的安全性。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>FLock（基于区块链的联邦学习）通过智能合约和代币经济学引入了真正的联邦学习，确保了更广泛的参与。深潮对话 FLock 首席执行官，讨论民主人工智能的概念，以及其在全球卫生等领域的相关性。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://www.techflowpost.com/article/detail_17200.html">https://www.techflowpost.com/article/detail_17200.html</a></p>
 <p><strong>文章作者：</strong></p><p>Sunny</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Jiahao Sun：</strong>所谓联邦学习还是一个 Machine Learning 那个框架，只不过把所有的计算分散到每个节点里面去，这样就可以不把数据拿出来，每个人都在每个节点里面做一个 Local Compute，简单来讲就是把结果综合起来，得到一个最后的综合大模型，这个大模型可以体现出所有数据被训练之后的结果，又能够防止我需要把数据放到任何第三方的服务器上这件事。所以整个这样一套逻辑就称为联邦学习，最早谷歌他们提出来之后，他们就把这套逻辑用在了输入法预测上。所以当时很多 Pixel Phone 的用户很早就已经体会到什么是联邦学习了，你用谷歌的手机打字的时候，他会给你预判下一个字。其实这就是联邦学习最早在现实中的应用。但就像我刚刚举的例子一样，同样的，谷歌控制了所有这个 Training 过程，它是可以作恶的，它可以看到所有的源代码，可以看到所有的原数据，没法证伪自己没看到。所以这是为什么我们把区块链智能合约的机制加入到整个传统的联邦学习框架里面，这样就不需要谷歌了，不需要中间有一个人做资源分配，我们每个人都是个独立的个体，我们自己有自己的节点，我只算我的那部分，然后通过智能合约来决定谁上传的 Gradient 是有用的，哪个需要综合起来，全部靠就这一套链上的 Consensus 去解决。这是 FLock 最早作为一个 Research Idea 的一个点。
@@ -18,7 +19,6 @@
 
 上下游之间就是互相合作挺好的。因为我们是 Training Layer，只是一层 Layer，在整个构建中的话，我们相当于像 TensorFlow、pyTorch 这样的一个地位，在传统行业里面对标的是训练中层，还是需要 AWS 去放你的模型，你还是需要用 AWS 的 s3 去存你的数据，我们只做串联工作的，算力从哪来？ 以及存储方案的解决商也有很多。我觉得数据去中化技术存储可能创新的机会没有那么大，大家都已经很大了。我们第一版的 Test Net 就是在 IPFS 上上下层合作蛮好的，用 Decentralized Compute 能够让普通用户可以无缝的、无难度的体验 FLock 的机制。对我们而言，上下游的合作就是为了让用户体验更好。</p><a href="https://www.techflowpost.com/article/detail_17200.html">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-04T02:36:12+00:00</pubDate>
 </item>
 <item>
@@ -26,13 +26,11 @@
 <link>https://www.theblock.co/post/286291/solana-zeus-network-funding-token-valuation</link>
 <guid>https://www.theblock.co/post/286291/solana-zeus-network-funding-token-valuation</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Solana 互操作层 Zeus Network 完成了 800 万美元融资，估值达到 1 亿美元。Mechanism Capital 领投，其他投资者包括 OKX Ventures、Animoca Ventures、Big Brain Holdings 等。Zeus 目前处于测试网阶段，计划在 6 月或 7 月推出主网。此外，Zeus 将通过 Jupiter 的 LFG Launchpad 推出，并空投了 3% 的 ZEUS 代币给投票参与者和持有者。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。Solana 互操作层 Zeus Network 完成了 800 万美元融资，估值达到 1 亿美元。Mechanism Capital 领投，其他投资者包括 OKX Ventures、Animoca Ventures、Big Brain Holdings 等。Zeus 目前处于测试网阶段，计划在 6 月或 7 月推出主网。此外，Zeus 将通过 Jupiter 的 LFG Launchpad 推出，并空投了 3% 的 ZEUS 代币给投票参与者和持有者。 <div>
 <p>Solana 互操作层 Zeus Network 以 1 亿美元估值完成 800 万美元融资，Mechanism Capital 领投，OKX Ventures、Animoca Ventures、Big Brain Holdings、Lemniscap 和 The Spartan Group 以及天使投资人 Solana 联合创始人 Anatoly Yakovenko、Stacks 联合创始人 Muneeb Ali 和 Mechanism Capital 创始人 Andrew Kang 参投。Zeus 目前处于测试网阶段，预计将在 6 月或 7 月推出主网。Zeus 还将于 4 月 4 日通过 Jupiter 的 LFG Launchpad 推出并空投其代币，Zeus 将空投 3% 的 ZEUS 代币，包括参与 Jupiter LFG Launchpad 投票、zuPoint 持有者、Dappie Gang NFT 持有者地址。</p><p><a href="https://www.theblock.co/post/286291/solana-zeus-network-funding-token-valuation">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-04T02:07:07+00:00</pubDate>
 </item>
-
 <item>
 <title>【长推】 Leverage Points 赛道：Pendle、Gearbox、Airpuff</title>
 <link>https://twitter.com/cmdefi/status/1774995762159747072</link>
@@ -11338,26 +11336,6 @@ Tendermint 是一种拜占庭容错的共识算法，采用权益证明（PoS）
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />ZK互操作协议zkBridge开发商Polyhedra Network以10亿美元估值完成了2000万美元的战略融资，由Polychain Capital领投。Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital等也参投。融资将用于扩大团队规模，招聘产品、工程、业务开发和营销人员。所有融资都通过未来代币或SAFT的简单协议完成。这些信息是积极的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK 互操作协议zkBridge的开发商Polyhedra Network以10亿美元估值完成了2000万美元的战略融资，由Polychain Capital领投，其他参投方包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium和Mapleblock Capital。融资将用于招聘跨职能部门，将团队扩大到约80人。融资通过未来代币或SAFT的简单协议进行。<br /><br />这些信息是积极的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。<br />zkBridge开发商Polyhedra Network以10亿美元估值完成了2000万美元的战略融资，包括Polychain Capital在内的多家投资机构参与。他们计划用筹集的资金扩大团队规模，加强招聘和业务开发，并继续推进产品营销。这将有助于推动项目的进一步发展和增长。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
