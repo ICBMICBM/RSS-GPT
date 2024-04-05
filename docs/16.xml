@@ -4,6 +4,28 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>【长推】我们为什么要投资 UTXO Stack</title>
+<link>https://twitter.com/Wuhuoqiu/status/1776107644421656784</link>
+<guid>https://twitter.com/Wuhuoqiu/status/1776107644421656784</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了UTXO Stack作为比特币生态的新技术，能够帮助项目开发者一键发行基于UTXO架构的BTC Layer2，原生集成RGB++协议能力。通过质押BTC、CKB以及BTC L1资产来保障Layer2安全。UTXO Stack具有高TPS、低Gas费用、POS机制以及资产协议采用RGB++等特点，为BTC生态资产发行和玩法带来多样性和Bitcoin Native的可能性。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>UTXO Stack 作为比特币生态的「OP Stack + EigenLayer」，可以帮助项目开发者一键发行基于 UTXO 架构的 BTC Layer2，并原生集成 RGB++ 协议能力。在安全性上，通过质押 BTC、CKB 以及 BTC L1 资产以保障 Layer2 安全。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/Wuhuoqiu/status/1776107644421656784">https://twitter.com/Wuhuoqiu/status/1776107644421656784</a></p>
+<p><strong>文章作者：</strong></p><p>Lao Bai（ABCDE 投研合伙人）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Lao Bai（ABCDE 投研合伙人）：</strong>Nervos 利用与 BTC 同是 POW+UTXO 的天然结构性优势 + 创新型的「同构映射」技术把 RGB 的客户端验证范式「无缝搬迁」到 CKB 上，命名为 RGB++。牺牲少许隐私的前提下换来了极大的功能与灵活性拓展，且安全性与 BTC L1 形成了强绑定。更重要的是，RGB++ 在几天前真正落地了，意味着这不再是一个停留在概念或开发层面的扩容叙事，而是实实在在可以开始构建生态和解决方案的产品。
+
+有了 UTXO Stack，你可以一键发行 BTC 的同构 UTXO Appchain，这些 Appchain 有如下特性：
+1. UTXO 模型，超高 TPS （UTXO 天生自带并行处理），超低 Gas 费用；
+2. POS 机制，安全性由 BTC 上质押的 BTC/CKB 来提供（类似 EigenLayer）；
+3. 资产协议采用 RGB++，因为同构映射技术的存在，资产可以在 Appchain/CKB/BTC 之间任意跳转，无需跨链桥；
+4. 可以复用 CKB 智能合约栈；
+5. 可以复用 BTC 钱包（用户对于 CKB 链无感知）。
+
+可以预见的是，在不久的未来，BTC EVM layer2 与 BTC UTXO layer2 会在技术，生态，乃至意识形态多个层面展开一轮正面对抗。RGB++ 从 2 月正式提出到 4 月落地，只用了不到两个月时间，展现出团队极其强大的工程能力。UTXO Stack 在 RGB++ 落地的同时推出，更给予了 BTC 生态资产发行与玩法上更加多样 + Bitcoin Native 的可能性。</p><a href="https://twitter.com/Wuhuoqiu/status/1776107644421656784">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-05T09:03:08+00:00</pubDate>
+</item>
 
 <item>
 <title>MT Capital：打破公链流动性困境，Berachain 或将成为新一代超级 L1</title>

@@ -21796,3 +21796,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-05 09:43:05.600828
+------------------------------------------------------
+Started: 2024-04-05 09:50:24.731351
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 10625
+Summarized using GPT-3.5-turbo-1106
+Append: [Reforge Research：唯有并行EVM拯救以太坊，前方一片光明](https://www.panewslab.com/zh/articledetails/9m0fbxto.html)
+append_entries: 1
+Finish: 2024-04-05 09:50:30.579802
