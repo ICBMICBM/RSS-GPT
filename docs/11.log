@@ -17928,3 +17928,12 @@ Existing_entries: 385
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-05 06:47:09.206544
+------------------------------------------------------
+Started: 2024-04-05 06:54:25.067361
+Existing_entries: 385
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 104
+Summarized using GPT-3.5-turbo-1106
+Append: [Crypto Derivatives Lost Overall Market Share in March Despite Hitting Record High Trading Volume of $6.18T](https://www.coindesk.com/markets/2024/04/05/crypto-derivatives-lost-overall-market-share-in-march-despite-hitting-record-high-trading-volume-of-618t/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-05 06:54:27.318570
