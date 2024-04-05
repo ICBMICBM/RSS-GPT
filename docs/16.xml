@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>【长推】解析 Polyhedra：为什么说 ZK 技术价值只被发掘了冰山一角？</title>
 <link>https://twitter.com/tmel0211/status/1776122474746536324</link>
 <guid>https://twitter.com/tmel0211/status/1776122474746536324</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。<br>加密研究员Haotian指出，ZK技术在全链可交互操作性方面有巨大潜力，以zkBridge为例进行解析。Polyhedra通过分布式ZK证明系统deVirgo和zk-SNARK协议zkBridge实现了跨链通信服务。zkBridge利用轻客户端解决资源需求问题，推出Single Slot Finality提高区块最终确定性，同时借用Eigenlayer和Maker的协作锁定资产方式实现ZK全链互通。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。<br />加密研究员Haotian指出，ZK技术在全链可交互操作性方面有巨大潜力，以zkBridge为例进行解析。Polyhedra通过分布式ZK证明系统deVirgo和zk-SNARK协议zkBridge实现了跨链通信服务。zkBridge利用轻客户端解决资源需求问题，推出Single Slot Finality提高区块最终确定性，同时借用Eigenlayer和Maker的协作锁定资产方式实现ZK全链互通。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>最近，ZKP 赛道频频出现大额投融资，可见承载着资本市场的厚望。加密研究员 Haotian 认为，ZK 做 layer2 扩容只被挖掘了有限潜力，在全链可交互操作性方面的想象空间还很大。并以 zkBridge 为例对 ZKP 技术进行解析。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/tmel0211/status/1776122474746536324">https://twitter.com/tmel0211/status/1776122474746536324</a></p>
 <p><strong>文章作者：</strong></p><p>Haotian</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Haotian：</strong>Polyhedra 构建了分布式 ZK 证明系统 deVirgo，一种基于 Virgo 协议的高效率分布式 ZKP 协议，可支持多台分布式计算网络，同时缩短证明生成时间。基于 deVirgo 实现的第一个 zk-SNARK 协议为 zkBridge，目标是实现跨链环境下的信息通信，资产跨链以及数据共享等，目前已实现超 25 条链的跨链通信服务。
@@ -23,10 +24,8 @@ zkBridge 可以直接让 Pos 链的全节点参与到整个证明生成和校验
 
 Polyhedra 利用 deVirgo 和改进的签名方案提出了 Single Slot Finality 单插槽最终确定性，每个 Slot 区块产生后即可为最终确定态，降低了延迟。此外，随着 BTC layer2 把 BTC 作为主链资产结算层的需求增大，Polyhedra 通过借用 Eigenlayer 的双质押经济系统设置了比特币 AVS 节点系统，让比特币具备了信任最小化的互操作性。同时用 BTC 和 ETH 上双映射 liquidity pool 以及 Maker 的角色协作锁定资产的形式，应用 FRI 特殊编码方式，实现在比特币上直接验证 ZK 证明，完成了 ZK 全链互通最难的一环。</p><a href="https://twitter.com/tmel0211/status/1776122474746536324">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-05T07:01:39+00:00</pubDate>
 </item>
-
 <item>
 <title>【长推】解读币安 LaunchPool 项目 Saga：面向游戏领域的模块化一键发链平台</title>
 <link>https://twitter.com/jason_chen998/status/1775829621692576027</link>
@@ -11438,16 +11437,6 @@ Tendermint 是一种拜占庭容错的共识算法，采用权益证明（PoS）
 根据您的观察和分析，过去一年来，Depin 是如何赢得区块链行业的重大兴趣的呢？Illia：对这些平台的迷恋源于一些深度使用案例获得了相当大的关注。例如，我们观察到大众对 Akash 的重大兴趣。特别是，Akash 的吸引力在于其在市场上的潜力，对于寻求获取 GPU 但无法获得的常规 AI 公司而言。Akash 提供了一个去中心化市场，个人可以出租他们的 GPU 资源。这种模式示范了区块链的市场力量 (crowdsourcing)，使得超出传统应用的迷人用例成为可能。这样的框架产生了相当大的兴趣，展示了区块链如何促进各种方法并创造像 Akash 这样的市场。</p><a href="https://www.techflowpost.com/article/detail_16926.html">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-21T07:33:54+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。Polyhedra Network以10亿美元估值完成2000万美元战略融资，由Polychain Capital领投，其他投资者包括Animoca Brands、Hashkey Capital等。融资资金将用于招聘扩大团队规模，提升产品、工程、业务开发和营销等部门。此前的融资均通过未来代币或SAFT进行。Polyhedra Network的发展前景看好，目前约50人团队将扩大到约80人。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
 </item>
 </channel>
 </rss>
