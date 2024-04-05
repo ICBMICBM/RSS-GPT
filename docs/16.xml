@@ -4,6 +4,25 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>【长推】解读币安 LaunchPool 项目 Saga：面向游戏领域的模块化一键发链平台</title>
+<link>https://twitter.com/jason_chen998/status/1775829621692576027</link>
+<guid>https://twitter.com/jason_chen998/status/1775829621692576027</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了币安新币挖矿上线的项目Saga，该项目是一个Layer1，允许开发者开发可并行、可互操作的专用链。Saga的架构主要分为三层：Security Chain、Platform chain、Chainlet，全部使用Cosmos-SDK开发。Security Chain负责主网运行，Platform chain是开发者开发专有链的地方，Chainlet是由Saga开发的专有主权链，具有高度的自由度和扩展性。Chainlets可以选择不同虚拟机类型，如EVM、Cosmwasm等。Saga还开发了节点编排工具来管理节点任务分配，以支持多条专有链的并行运行。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>币安新币挖矿上线第 51 期项目 Saga，Saga 是一个 Layer1，允许开发者开发适用不同虚拟机的、可并行的、可互操作的专用链「Chainlets」，为应用程序提供无限的可扩展性。加密研究员陈剑 Jason 撰文对 Saga 的项目架构及创新进行介绍。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/jason_chen998/status/1775829621692576027">https://twitter.com/jason_chen998/status/1775829621692576027</a></p>
+<p><strong>文章作者：</strong></p><p>陈剑</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>陈剑：</strong>Saga 的创新主要在于将模块化架构进一步重组，带给基于其发行的专有链（Chainlet）更高的性能和自由度，以及不少有趣的能力。Saga 的架构主要分为三层：Security Chain、Platform chain、Chainlet，全部使用 Cosmos-SDK 开发。
+
+Security Chain 负责 Saga 自身主网运行，Saga 节点也跑在这一层，包括 Saga Token 的铸造、质押和销毁，向上提供基于 Saga 发行专有链的安全性底层能力。值得注意的是，根据文档描述，Saga 的安全性不只来自于 Security Chain，还可以来自于以太坊、Polygon、Avalanche 等第三方链。这部分我没有理解清楚如何实现，因为官方号称其可以并行运行超过 1 千条专有链，意味着 Saga 节点要同时承载大量进程工作，所以 Saga 专门开发了节点编排工具，相当于一个调度中心，用于管理节点的任务分配、升级维护等工作。那如果 Saga 要将安全性扩展至第三方区块链，自然也不受 Saga 对自己节点编排能力的管控，又如何有效支撑上千条链的并行呢？
+
+Platform chain 是给 Saga 开发者开发和维护专有链 Chainlet 的地方，Saga 在这一层中通过 Cosmos 独创的跨链验证 CCV 实现了安全性的聚合，最终实现可以弹性扩容的共享安全性。Chainlet 中如果产生作恶行为，会通过 Platform chain 转发回 Security Chain 并产生罚没。
+
+Chainlet 是最终由 Saga 开发的专有主权链。Chainlet 的自由度非常高，可以选择任意 Token 作为 Gas 费，也可以直接免 Gas，不需要用户支付 Gas（意味着自己要承担 Security Chain 的节点成本），且 Chainlet 的安全性全部来自于 Security Chain，不需要单独考虑质押节点，所以可以实现开箱即用的效果。其次，Chainlet 是单租户的独立虚拟机，可选择 EVM、Cosmwasm、SolanaVM、MoveVM 等类型，可扩展性的自由度非常高。根据文档，后续也会把 Chainlet 扩展至 Avalanche 子网和 Polygon CDK。</p><a href="https://twitter.com/jason_chen998/status/1775829621692576027">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-05T05:51:05+00:00</pubDate>
+</item>
 
 <item>
 <title>Arthur Hayes 播客：加密货币是一艘救生船，带我们逃离动荡周期</title>
