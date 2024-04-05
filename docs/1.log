@@ -21904,3 +21904,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-05 11:57:30.460822
+------------------------------------------------------
+Started: 2024-04-05 12:20:59.424520
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 186
+Summarized using GPT-3.5-turbo-1106
+Append: [Uniswap的历史交易量突破2万亿美元，超过澳大利亚GDP](https://www.panewslab.com/zh/sqarticledetails/24igsm66.html)
+append_entries: 1
+Finish: 2024-04-05 12:21:03.888147
