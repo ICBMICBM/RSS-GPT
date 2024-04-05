@@ -21433,3 +21433,18 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-04 23:53:48.722294
+------------------------------------------------------
+Started: 2024-04-05 00:29:20.976447
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 135
+Summarized using GPT-3.5-turbo-1106
+Append: [过去24小时全网合约爆仓1.96亿美元，多空双爆](https://www.panewslab.com/zh/sqarticledetails/jez44u9p.html)
+Token length: 64
+Summarized using GPT-3.5-turbo-1106
+Append: [行情：比特币短线突破69000美元，24小时涨幅3.5%](https://www.panewslab.com/zh/sqarticledetails/t2gc1ag3.html)
+Token length: 160
+Summarized using GPT-3.5-turbo-1106
+Append: [Coinbase将于4月11日上线Ordinals和Worldcoin永续期货合约](https://www.panewslab.com/zh/sqarticledetails/qqzqf2lu.html)
+append_entries: 3
+Finish: 2024-04-05 00:29:27.728619
