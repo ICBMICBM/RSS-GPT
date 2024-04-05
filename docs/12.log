@@ -17565,3 +17565,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Community Outcry: SushiSwap Team Accused Of Plotting To Kill DAO And Seize Treasury](https://bitcoinist.com/sushiswap-team-accused-of-plotting-to-kill-dao/)
 append_entries: 1
 Finish: 2024-04-05 05:06:41.905569
+------------------------------------------------------
+Started: 2024-04-05 05:22:45.993875
+Existing_entries: 284
+Fetching from https://bitcoinist.com/feed
+append_entries: 0
+Finish: 2024-04-05 05:22:46.260977
