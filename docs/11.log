@@ -18261,3 +18261,12 @@ Existing_entries: 394
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-05 15:39:56.745271
+------------------------------------------------------
+Started: 2024-04-05 15:47:30.794196
+Existing_entries: 394
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 111
+Summarized using GPT-3.5-turbo-1106
+Append: [BlackRock Adds Goldman Sachs, Citigroup, Citadel as APs for Bitcoin ETF](https://www.coindesk.com/business/2024/04/05/blackrock-adds-goldman-sachs-citigroup-citadel-as-aps-for-bitcoin-etf/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-05 15:47:34.101222
