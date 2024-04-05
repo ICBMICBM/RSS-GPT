@@ -22339,3 +22339,15 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-05 23:06:51.337875
+------------------------------------------------------
+Started: 2024-04-05 23:20:59.148159
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 137
+Summarized using GPT-3.5-turbo-1106
+Append: [OpenSea：已上线L2网络Blast NFT](https://www.panewslab.com/zh/sqarticledetails/6fz8tale.html)
+Token length: 59
+Summarized using GPT-3.5-turbo-1106
+Append: [Coinbase将Tensor（TNSR）列入上币路线图](https://www.panewslab.com/zh/sqarticledetails/0mkalbw4.html)
+append_entries: 2
+Finish: 2024-04-05 23:21:03.398247
