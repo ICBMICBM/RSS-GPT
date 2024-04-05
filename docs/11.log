@@ -18207,3 +18207,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Shinobi: How Covenants Help Scale Bitcoin](https://www.coindesk.com/consensus-magazine/2024/04/05/shinobi-how-covenants-help-scale-bitcoin/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-04-05 14:29:55.060753
+------------------------------------------------------
+Started: 2024-04-05 14:37:14.040879
+Existing_entries: 392
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-04-05 14:37:14.927290
