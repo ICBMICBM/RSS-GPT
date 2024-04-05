@@ -16537,3 +16537,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Understanding Chromia: A Comprehensive Overview](https://messari.io/article/understanding-chromia)
 append_entries: 1
 Finish: 2024-04-05 13:59:38.922335
+------------------------------------------------------
+Started: 2024-04-05 14:16:55.491990
+Existing_entries: 28
+Fetching from https://messari.io/rss
+Token length: 573
+Summarized using GPT-3.5-turbo-1106
+Append: [Fundraising: Q1 2024](https://messari.io/article/fundraising-q1-2024)
+append_entries: 1
+Finish: 2024-04-05 14:16:59.911007
