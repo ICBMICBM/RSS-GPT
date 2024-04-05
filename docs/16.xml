@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>【长推】我们为什么要投资 UTXO Stack</title>
 <link>https://twitter.com/Wuhuoqiu/status/1776107644421656784</link>
 <guid>https://twitter.com/Wuhuoqiu/status/1776107644421656784</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了UTXO Stack作为比特币生态的新技术，能够帮助项目开发者一键发行基于UTXO架构的BTC Layer2，原生集成RGB++协议能力。通过质押BTC、CKB以及BTC L1资产来保障Layer2安全。UTXO Stack具有高TPS、低Gas费用、POS机制以及资产协议采用RGB++等特点，为BTC生态资产发行和玩法带来多样性和Bitcoin Native的可能性。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章介绍了UTXO Stack作为比特币生态的新技术，能够帮助项目开发者一键发行基于UTXO架构的BTC Layer2，原生集成RGB++协议能力。通过质押BTC、CKB以及BTC L1资产来保障Layer2安全。UTXO Stack具有高TPS、低Gas费用、POS机制以及资产协议采用RGB++等特点，为BTC生态资产发行和玩法带来多样性和Bitcoin Native的可能性。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>UTXO Stack 作为比特币生态的「OP Stack + EigenLayer」，可以帮助项目开发者一键发行基于 UTXO 架构的 BTC Layer2，并原生集成 RGB++ 协议能力。在安全性上，通过质押 BTC、CKB 以及 BTC L1 资产以保障 Layer2 安全。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/Wuhuoqiu/status/1776107644421656784">https://twitter.com/Wuhuoqiu/status/1776107644421656784</a></p>
 <p><strong>文章作者：</strong></p><p>Lao Bai（ABCDE 投研合伙人）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Lao Bai（ABCDE 投研合伙人）：</strong>Nervos 利用与 BTC 同是 POW+UTXO 的天然结构性优势 + 创新型的「同构映射」技术把 RGB 的客户端验证范式「无缝搬迁」到 CKB 上，命名为 RGB++。牺牲少许隐私的前提下换来了极大的功能与灵活性拓展，且安全性与 BTC L1 形成了强绑定。更重要的是，RGB++ 在几天前真正落地了，意味着这不再是一个停留在概念或开发层面的扩容叙事，而是实实在在可以开始构建生态和解决方案的产品。
@@ -23,10 +24,8 @@
 
 可以预见的是，在不久的未来，BTC EVM layer2 与 BTC UTXO layer2 会在技术，生态，乃至意识形态多个层面展开一轮正面对抗。RGB++ 从 2 月正式提出到 4 月落地，只用了不到两个月时间，展现出团队极其强大的工程能力。UTXO Stack 在 RGB++ 落地的同时推出，更给予了 BTC 生态资产发行与玩法上更加多样 + Bitcoin Native 的可能性。</p><a href="https://twitter.com/Wuhuoqiu/status/1776107644421656784">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-05T09:03:08+00:00</pubDate>
 </item>
-
 <item>
 <title>MT Capital：打破公链流动性困境，Berachain 或将成为新一代超级 L1</title>
 <link>https://productive-apple-b65.notion.site/MT-Capital-Berachain-L1-7e903da93c144e4297bb226e0290ece3</link>
@@ -11443,24 +11442,6 @@ Telegram 是一个基于云的免费即时通讯软件，2013 年由 VK（俄罗
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>【英文】Binance Research： 详解 Cosmos 生态系统</title>
-<link>https://public.bnbstatic.com/static/files/research/orbiting-the-cosmos-ecosystem.pdf</link>
-<guid>https://public.bnbstatic.com/static/files/research/orbiting-the-cosmos-ecosystem.pdf</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。Binance Research分析了Cosmos生态系统，涵盖了几个关键项目：Cosmos Hub、Osmosis、Injective、Sei Network、Stride、Axelar、Celestia和Dymension。Interchain Stack由CometBFT、Cosmos SDK和IBC协议组成，每个组件解决了区块链的不同层面。CometBFT是基于Tendermint的共识引擎，负责节点间通信和区块验证。Tendermint采用权益证明系统，提供高性能、容错的机制。CometBFT通过ABCI提供了灵活性，支持开发者进行应用程序开发。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>Binance Research 分析了 Cosmos 生态系统，涵盖了生态系统中的几个关键项目：Cosmos Hub、Osmosis、Injective、Sei Network、Stride、Axelar、Celestia 和 Dymension。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://public.bnbstatic.com/static/files/research/orbiting-the-cosmos-ecosystem.pdf">https://public.bnbstatic.com/static/files/research/orbiting-the-cosmos-ecosystem.pdf</a></p>
-<p><strong>文章作者：</strong></p><p>Binance Research</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Binance Research：</strong>Cosmos 是一个由主权区块链组成的网络，每个区块链都由 Cosmos 的技术堆栈驱动，该堆栈被称为 Interchain Stack。该框架为需要高度定制的项目提供了并行扩展解决方案，同时旨在成为可互操作的生态系统的一部分。
-
-Interchain Stack 由 CometBFT、Cosmos SDK 和 Inter-Blockchain Communication（IBC）协议组成，每个组件都解决了区块链的不同层面，包括共识、网络和应用。在 Cosmos 生态系统中，启用 Inter-Blockchain Communication 协议的区块链，即用于区块链交互的消息传递协议，被标识为 Zone。拥有许多 IBC 连接的知名 Zone 被称为 Hubs，例如 Cosmos Hub 和 Osmosis。
-
-CometBFT 是基于 Tendermint 的共识引擎，用于驱动 Cosmos 链，主要负责在链的节点之间安全且一致地复制状态机。它涵盖了区块链的共识和网络层，负责节点间通信和区块验证。CometBFT 通过两个核心组件实现功能：基于 Tendermint 的共识算法和应用区块链接口。
-
-Tendermint 是一种拜占庭容错的共识算法，采用权益证明（PoS）系统，其中验证者的投票权与其抵押的代币成比例。这种设置为网络共识提供了高性能、容错的机制，支持每秒数千次交易（TPS），并确保即时最终性。CometBFT 是对标准 Tendermint 的改进版本，设计有诸如减少共识消息数量、增强区块验证效率和降低节点运行内存占用等优化。ABCI 是 CometBFT 的套接字协议，作为共识引擎和应用层之间的接口。应用程序需要实现 ABCI 才能与 CometBFT 通信。ABCI 不强制要求使用任何特定语言进行应用程序开发，因此提供了开发者的灵活性。【原文为英文】</p><a href="https://public.bnbstatic.com/static/files/research/orbiting-the-cosmos-ecosystem.pdf">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-21T07:55:15+00:00</pubDate>
 </item>
 </channel>
 </rss>
