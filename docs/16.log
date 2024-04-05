@@ -20833,3 +20833,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [【英文】复盘 Maker 和 Aave 因 Ethena 引发的争论](https://www.bankless.com/maker-and-aaves-ethena-feud)
 append_entries: 1
 Finish: 2024-04-05 04:46:44.952745
+------------------------------------------------------
+Started: 2024-04-05 04:54:16.234666
+Existing_entries: 1001
+Fetching from https://www.chainfeeds.xyz/rss
+append_entries: 0
+Finish: 2024-04-05 04:54:16.869490
