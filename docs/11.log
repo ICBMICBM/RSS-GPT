@@ -18447,3 +18447,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [New York Jury Finds Do Kwon, Terraform Labs Liable for Fraud in SEC Case](https://www.coindesk.com/policy/2024/04/05/new-york-jury-finds-do-kwon-terraform-labs-liable-for-fraud-in-sec-case/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-04-05 19:50:28.615132
+------------------------------------------------------
+Started: 2024-04-05 19:57:38.140664
+Existing_entries: 404
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-04-05 19:57:38.552828
