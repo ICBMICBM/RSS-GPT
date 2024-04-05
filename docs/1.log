@@ -21874,3 +21874,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-05 11:27:38.128040
+------------------------------------------------------
+Started: 2024-04-05 11:35:26.344136
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 408
+Summarized using GPT-3.5-turbo-1106
+Append: [香港证监会将Sure X及其网站列入可疑虚拟资产交易平台警示名单](https://www.panewslab.com/zh/sqarticledetails/t9d64zew.html)
+append_entries: 1
+Finish: 2024-04-05 11:35:30.895732
