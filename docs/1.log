@@ -21850,3 +21850,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [SushiSwap新提案提议将资产从由DAO控制的金库转移到新的Sushi Labs](https://www.panewslab.com/zh/sqarticledetails/pd7wn88n.html)
 append_entries: 1
 Finish: 2024-04-05 10:52:05.134859
+------------------------------------------------------
+Started: 2024-04-05 10:59:09.989330
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+append_entries: 0
+Finish: 2024-04-05 10:59:12.490122
