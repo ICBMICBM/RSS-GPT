@@ -21595,3 +21595,18 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-05 04:53:52.794302
+------------------------------------------------------
+Started: 2024-04-05 05:06:23.159471
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 409
+Summarized using GPT-3.5-turbo-1106
+Append: [菲律宾SEC指控eToro在该国提供未注册证券](https://www.panewslab.com/zh/sqarticledetails/7pkmugz5.html)
+Token length: 360
+Summarized using GPT-3.5-turbo-1106
+Append: [NFPrompt将开启置换代币空投](https://www.panewslab.com/zh/sqarticledetails/k37t81dw.html)
+Token length: 162
+Summarized using GPT-3.5-turbo-1106
+Append: [Mocaverse将与CoinList合作推出代币发布平台MocaList](https://www.panewslab.com/zh/sqarticledetails/wjnwf0wk.html)
+append_entries: 3
+Finish: 2024-04-05 05:06:31.873869
