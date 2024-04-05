@@ -21691,3 +21691,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [摩根大通：随着中心化风险的缓解，以太坊可能会避免被指定为证券](https://www.panewslab.com/zh/sqarticledetails/0aubvoew.html)
 append_entries: 1
 Finish: 2024-04-05 06:54:18.804908
+------------------------------------------------------
+Started: 2024-04-05 07:07:00.107771
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 128
+Summarized using GPT-3.5-turbo-1106
+Append: [某休眠8个月的巨鲸昨日将2000枚BTC转入新地址，其中1100枚已被存入币安](https://www.panewslab.com/zh/sqarticledetails/8psdbnox.html)
+Token length: 315
+Summarized using GPT-3.5-turbo-1106
+Append: [韩国将通过即将发布的指导方针收紧对加密交易所上币的监管](https://www.panewslab.com/zh/sqarticledetails/013oi2en.html)
+append_entries: 2
+Finish: 2024-04-05 07:07:07.133740

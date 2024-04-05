@@ -4,6 +4,38 @@
 <title>Bitcoinist.com</title>
 <link>https://bitcoinist.com</link>
 
+<item>
+<title>Solana Faces ‘Existential Moment’: Co-Founder Speaks Out</title>
+<link>https://bitcoinist.com/solana-existential-moment-co-founder-speaks-out/</link>
+<guid>https://bitcoinist.com/solana-existential-moment-co-founder-speaks-out/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Solana网络遭遇前所未有的拥堵，导致交易失败率创纪录。75%的非投票交易失败是由“bot spam”引起的，而不是真实用户交易。该问题被认为是Solana的“存在时刻”，需要解决拥堵问题和抑制垃圾信息。Solana社区和开发者展现出积极的态度，努力改善网络基础设施，确保网络在面对前所未有的挑战时的成功。 <div>
+<p>The Solana network has been experiencing unprecedented levels of congestion, leading to a record failure rate of transactions. According to data from Dune Analytics, on April 4, more than three-quarters of all &#8220;non-vote&#8221; transactions on Solana failed.</p>
+<p>This surge in failed transactions coincides with a significant increase in network activity, driven largely by the recent craze over memecoins on the platform, which saw Solana&#8217;s transaction volume and unique user count skyrocket.</p>
+<p>The issue has sparked considerable debate within the Solana community, with users voicing their frustrations over failed transactions and a deteriorating user experience on social media platforms.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">The Solana network currently has a non-vote transaction failure rate of 76.8%, according to <a href="https://twitter.com/scarn_eth?ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">@scarn_eth</a> Dune data. Because many bots engaging in arbitrage generates spam transactions. Solana foundation said a patch will be released soon. <a href="https://t.co/UtfGHsgPHO" rel="nofollow" target="_blank">https://t.co/UtfGHsgPHO</a> <a href="https://t.co/Bx4VKZJTBb" rel="nofollow" target="_blank">pic.twitter.com/Bx4VKZJTBb</a></p>
+<p>&mdash; Wu Blockchain (@WuBlockchain) <a href="https://twitter.com/WuBlockchain/status/1776084640354443514?ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">April 5, 2024</a></p></blockquote>
+<p></p>
+<p>In the midst of this crisis, Mert Mumtaz, CEO of Helius and a vocal supporter of Solana, took to X to <a href="https://twitter.com/0xMert_/status/1771700602629730795" rel="noopener nofollow" target="_blank">address</a> the growing concerns. Mumtaz argued that the reported 75% transaction failure rate is a misrepresentation of the network&#8217;s health, stating that the vast majority of these failures are attributable to &#8220;bot spam&#8221; rather than genuine user transactions being thwarted.</p>
+
+<p>He provided a detailed explanation, drawing parallels to web2 operations to elucidate the nature of these &#8220;failed&#8221; transactions. According to Mumtaz, many of the failed transactions are instances where the smart contract on the blockchain deems a request invalid due to various reasons, such as lack of permissions or changes in market conditions, rather than issues with the blockchain itself.</p>
+<p>Mumtaz&#8217;s explanation aimed to clarify the distinction between different types of transaction failures, emphasizing that the primary concern is with transactions that do not reach the blockchain due to capacity constraints on block leaders. He contended that the real issue is not with Solana&#8217;s throughput but with the excessive volume of spam transactions.</p>
+<p>&#8220;The chart [referring to failed transactions] importantly doesn&#8217;t accurately capture the user experience since the overwhelming number of issues are before the txns even make it to the block,&#8221; Mumtaz explained. He reassured the community that measures are being taken to address these challenges, including improvements in transaction handling and introducing better incentives to deter spam activities.</p>
+<h2>An &#8220;Existential Moment&#8221; For Solana</h2>
+<p>Echoing the sentiment of urgency and concern, Ryan Rzepecki, founder of Spectra Cities, remarked on the situation as being an &#8220;existential moment&#8221; for Solana, likening its severity to the repercussions of the <a href="https://bitcoinist.com/ftx-collapse-alameda-usdt/" rel="noopener " target="_blank">FTX collapse</a>. Rzepecki <a href="https://twitter.com/ryrzny/status/1775937228885139700" rel="noopener nofollow" target="_blank">remarked</a>:</p>
+<blockquote><p><strong>The entire Solana thesis comes down to whether different applications can share the same chain and if composability is more important than sovereignty. For this to work, <a href="https://bitcoinist.com/memecoin-mania-data-massive-influx-traders-dogecoin/" rel="noopener " target="_blank">memecoin trading</a> can’t disrupt payments, governance, depin, and all the other activities. This is an existential moment as big as the FTX collapse.</strong></p></blockquote>
+
+<p>Rzepecki concluded with a note of optimism, expressing confidence in the Solana community&#8217;s ability to resolve these issues, despite acknowledging the growing discontent among users and ecosystem partners. “To be clear, I am very confident these are solvable problems. But Solana is losing the confidence of users and major ecosystem partners every day things operate like this.”</p>
+<p>Solana&#8217;s co-founder, Anatoly Yakovenko responded to this, providing a nuanced perspective on the challenges at hand. &#8220;The fun part is that every <a href="https://bitcoinist.com/can-solana-exist-without-layer-2s/" rel="noopener " target="_blank">scaling challenge</a> is an existential one,&#8221; Yakovenko remarked, acknowledging the gravity of the situation.</p>
+<p>He further <a href="https://twitter.com/aeyakovenko/status/1776068458742223143" rel="noopener nofollow" target="_blank">elaborated</a> on the complexities of addressing congestion issues, contrasting them with total system failures. &#8220;Dealing with congestion bugs sucks so much more than total liveness failure. The latter is one and done, bug is identified and patched and chain continues. The former has to go through the full release and test pipeline. Shipping fast is impossible.”</p>
+<p>The response by Yakovenko and the Solana developer community reflects a blend of realism and optimism. The community&#8217;s resolve to address the underlying issues and improve the network&#8217;s infrastructure is palpable, underscoring a collective effort to ensure Solana&#8217;s longevity and success in the face of unprecedented challenges.</p>
+<p>At press time, SOL traded at $175.86.</p>
+<img alt="Solana price" class="size-full wp-image-292095" height="472" src="https://bitcoinist.com/wp-content/uploads/2024/04/SOLUSD_2024-04-05_08-08-55.png?resize=1024%2C472" width="1024" />
+]]></content:encoded>
+<pubDate>Fri, 05 Apr 2024 07:00:33 +0000</pubDate>
+<pubDate>Fri, 05 Apr 2024 07:00:33 +0000</pubDate>
+</item>
 
 <item>
 <title>2024 Crypto Boom: CoinLedger Study Unveils Over $2,000 Surge In Average Portfolio Value</title>
