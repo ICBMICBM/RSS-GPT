@@ -4,6 +4,23 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>【英文】复盘 Maker 和 Aave 因 Ethena 引发的争论</title>
+<link>https://www.bankless.com/maker-and-aaves-ethena-feud</link>
+<guid>https://www.bankless.com/maker-and-aaves-ethena-feud</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是消极的。文章讨论了 Maker 和 Aave 在 Ethena 项目上的冲突。Maker 提议增加使用 Morpho 上的资产作为抵押，而Aave则提出将DAI的贷款价值比设置为0%，使用户无法以DAI作为抵押品。Aave创始人认为Maker的风险方向对Aave DAO没有价值。虽然Ethena资产的增加可能增加DAI的风险，但Aave的反应被认为是为了支持GHO。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>超过 5 亿美元的 ENA 刚刚通过 Ethena 第一轮空投分发给符合资格的用户，但有关该协议的争论达到了白热化程度。Maker 和 Aave 为何因 Athena 卷入冲突？Bankless 分析师 Jack Inabinet 进行分析梳理。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.bankless.com/maker-and-aaves-ethena-feud">https://www.bankless.com/maker-and-aaves-ethena-feud</a></p>
+<p><strong>文章作者：</strong></p><p>Jack Inabinet</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Jack Inabinet：</strong>Maker 论坛上发布了一项治理提案，为提高 DAI 采用率，要求代表们考虑将 Morpho 上的 USDe 和 sUSDe 借贷规模从 1 亿 DAI 增加到 6 亿 DAI，并能够扩展到最多 10 亿 DAI，大部分资金将以 86% 或更高的 LTV（贷款价值比）贷出。作为回应，Aave 贡献者发起提案，寻求在所有 Aave 部署中将 DAI 的 LTV 设置为 0%，从而消除用户以 DAI 作为抵押资产进行借贷的能力。
+
+令许多人感到困惑的是，在 Aave 此前的温度检查中，将 Ethena 的 sUSDe 纳入其 V3 以太坊部署几乎在一致支持下通过，这与协议对 Maker 的态度形成鲜明对比。虽然通过 Aave 进行 DAI 贷款有可能以风险隔离的方式进行，但 Aave 不再愿意承担日益增加的风险。Aave 创始人 Stani Kulechov 重申了这一观点，提议将 DAI 完全从所有市场中剔除，并表示他认为「随着 MakerDAO 正在采用新风险方向，对 Aave DAO 没什么价值」。
+
+虽然 Maker 越来越多地采用 Ethena 资产作为抵押品，无疑在一定程度上增加了 DAI 的风险状况，但 Aave 的反应稍显激烈，可以被视为是为了进一步支持 GHO。因为 Ethena 与 Aave 的整合可能为 GHO 带来的潜在好处在启用 sUSDe 市场的治理提案中已经有所考虑。【原文为英文】</p><a href="https://www.bankless.com/maker-and-aaves-ethena-feud">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-05T04:09:19+00:00</pubDate>
+</item>
 
 <item>
 <title>详解 Zeus Network：打造 Solana 和比特币的原生通信层</title>
