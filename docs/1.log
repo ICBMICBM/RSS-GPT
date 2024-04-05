@@ -21835,3 +21835,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Arthur Hayes播客：加密货币是一艘救生筏，带我们逃离货币贬值的动荡水域](https://www.panewslab.com/zh/articledetails/kyd5gwfg.html)
 append_entries: 1
 Finish: 2024-04-05 10:36:49.381928
+------------------------------------------------------
+Started: 2024-04-05 10:44:18.461173
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+append_entries: 0
+Finish: 2024-04-05 10:44:20.624496
