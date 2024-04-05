@@ -18198,3 +18198,12 @@ Existing_entries: 391
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-05 14:17:07.157864
+------------------------------------------------------
+Started: 2024-04-05 14:29:51.905760
+Existing_entries: 391
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 94
+Summarized using GPT-3.5-turbo-1106
+Append: [Shinobi: How Covenants Help Scale Bitcoin](https://www.coindesk.com/consensus-magazine/2024/04/05/shinobi-how-covenants-help-scale-bitcoin/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-05 14:29:55.060753
