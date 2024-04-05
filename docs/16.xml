@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>详解 Zeus Network：打造 Solana 和比特币的原生通信层</title>
 <link>https://www.techflowpost.com/article/detail_17199.html</link>
 <guid>https://www.techflowpost.com/article/detail_17199.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了Zeus Network在Jupiter LFG Launchpad上线Solana与比特币链接的重要性。Zeus Network是无准入的通信层，可以实现资产无需转移的安全交互，可发行自己的资产并链接比特币和Solana生态。Solana的强大性能和Zeus的协作运营将推动跨链产品的发展。Zeus的总供应量为10亿枚，注重生态发展和社区增长，具有强大的储备弹药。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章介绍了Zeus Network在Jupiter LFG Launchpad上线Solana与比特币链接的重要性。Zeus Network是无准入的通信层，可以实现资产无需转移的安全交互，可发行自己的资产并链接比特币和Solana生态。Solana的强大性能和Zeus的协作运营将推动跨链产品的发展。Zeus的总供应量为10亿枚，注重生态发展和社区增长，具有强大的储备弹药。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>4 月 4 日晚，Jupiter LFG Launchpad 上线 Zeus Network，作为 Solana 体系链接比特币的重要一步。此前，Zeus Network 曾获得 Solana 联创 Anatoly 和 Stacks 创始人参与的天使轮融资。深潮 TechFlow 撰文对 Zeus Network 进行介绍。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://www.techflowpost.com/article/detail_17199.html">https://www.techflowpost.com/article/detail_17199.html</a></p>
 <p><strong>文章作者：</strong></p><p>深潮 TechFlow</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>深潮 TechFlow：</strong>Zeus Network 是无准入的通信层，而非常见的资产跨链桥，其运行中不需要资产转移，具备极高的安全性。未来，任何人都可以基于 Zeus Network 发行自己的资产，并且可以无缝链接比特币和 Solana 生态，面向 Zeus Network 开发就等同于面向二者开发。利用 SVM，Zeus Network 可以实现一次开发 + 多链流通，并且解锁比特币的万亿级流动性，以及利用 Solana 的超强链上处理能力，构建起链上到链上的抗审查 DeFi 体系。
@@ -20,10 +21,8 @@ Zeus 认为整体协作和精细化运营是不可或缺的双重奏。Zeus Netw
 
 ZEUS 总供应量 10 亿枚，其中 40% 将投入生态系统和社区增长，团队占比仅为 15%，远少于基金会储备的 20%，可以说，Zeus Network 为未来的生态竞争留足了储备弹药。具体使用上，除了 zuPoint 积分，获得代币空投的可能方式是参与众多 Zeus 生态项目。</p><a href="https://www.techflowpost.com/article/detail_17199.html">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-05T03:14:41+00:00</pubDate>
 </item>
-
 <item>
 <title>Ellipsis Labs 完成 2000 万美元 A 轮融资，Paradigm 领投</title>
 <link>https://ellipsislabs.medium.com/ellipsis-labs-raises-20m-series-a-from-paradigm-22bb8295a494</link>
@@ -11404,16 +11403,6 @@ Tendermint 是一种拜占庭容错的共识算法，采用权益证明（PoS）
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />这些信息是积极的。ZK 互操作协议zkBridge开发商Polyhedra Network以10亿美元估值完成了2000万美元战略融资，由Polychain Capital领投，其他投资者包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。所筹资金将用于扩大团队规模，招聘产品、工程、业务开发和营销等跨职能部门，将目前50人的团队扩大到约80人。所有融资都是通过未来代币或SAFT的简单协议进行的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，估值达10亿美元。Polychain Capital 领投，多家投资机构参与。融资资金将用于团队扩大到约80人，招聘跨职能部门人员，并推动产品、工程和业务开发。此轮融资和之前四轮均透过未来代币或SAFT进行。<br /><br />这些信息是积极的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
