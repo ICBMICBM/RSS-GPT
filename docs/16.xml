@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>MT Capital：打破公链流动性困境，Berachain 或将成为新一代超级 L1</title>
 <link>https://productive-apple-b65.notion.site/MT-Capital-Berachain-L1-7e903da93c144e4297bb226e0290ece3</link>
 <guid>https://productive-apple-b65.notion.site/MT-Capital-Berachain-L1-7e903da93c144e4297bb226e0290ece3</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：这些信息是积极的<br>1. Berachain 是一条基于流动性证明共识构建的高性能 EVM 兼容公链，旨在解决流动性割裂和公链鬼城效应问题。<br>2. Berachain 社区具有强烈的 Ponzi、Meme 和 NFT 文化特征。<br>3. Berachain 生态项目处于早期发展阶段，包括围绕官方组件的长尾市场补充和创新项目的出现。<br>4. 投资机会重点关注Berachain上的优质DeFi项目和围绕PoL、BGT以及贿选机制创新的基础设施，以及结合NFT与DeFi的NFTFi协议。 <div>
+<div> <br /><br />摘要：这些信息是积极的<br />1. Berachain 是一条基于流动性证明共识构建的高性能 EVM 兼容公链，旨在解决流动性割裂和公链鬼城效应问题。<br />2. Berachain 社区具有强烈的 Ponzi、Meme 和 NFT 文化特征。<br />3. Berachain 生态项目处于早期发展阶段，包括围绕官方组件的长尾市场补充和创新项目的出现。<br />4. 投资机会重点关注Berachain上的优质DeFi项目和围绕PoL、BGT以及贿选机制创新的基础设施，以及结合NFT与DeFi的NFTFi协议。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>最近一个很有趣的现象是，曾经以技术引以为傲的 Alt-L1 公链们纷纷都开始以 Meme 抢夺 Crypto 市场的注意力。由此可见，技术虽然是区块链迭代浪潮的历史底蕴，但绝非衡量公链未来发展的唯一命门。作为自带技术、社区、Meme 文化与流动性的公链，Berachain 有望重塑现有公链的竞争格局，打破公链流动性荒芜的鬼城困境，成为本轮牛市周期的超级明星公链。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://productive-apple-b65.notion.site/MT-Capital-Berachain-L1-7e903da93c144e4297bb226e0290ece3">https://productive-apple-b65.notion.site/MT-Capital-Berachain-L1-7e903da93c144e4297bb226e0290ece3</a></p>
 <p><strong>文章作者：</strong></p><p>Severin、Ian</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>MT Capital：</strong>1. Berachain 起源于 2021 年，创始人有感于多链间的流动性割裂与公链的鬼城效应，从而衍生出了缔造一条流动性公链的想法。Berachain 社区拥有非常鲜明的 Ponzi 文化、Meme 文化以及 NFT 文化特征。
@@ -20,10 +21,8 @@
 
 4. 从投资机会上看，我们会重点关注 Berachain 上的优质 DeFi 项目以及能够围绕 Berachain 的 PoL 机制、BGT 机制以及贿选机制作出创新的基础设施，持续关注能够结合 NFT 与 DeFi 的 NFTFi 协议以及基于 Berachain 的 L2 及其相关基础设施。</p><a href="https://productive-apple-b65.notion.site/MT-Capital-Berachain-L1-7e903da93c144e4297bb226e0290ece3">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-05T08:02:41+00:00</pubDate>
 </item>
-
 <item>
 <title>【长推】解析 Polyhedra：为什么说 ZK 技术价值只被发掘了冰山一角？</title>
 <link>https://twitter.com/tmel0211/status/1776122474746536324</link>
@@ -11440,22 +11439,6 @@ CometBFT 是基于 Tendermint 的共识引擎，用于驱动 Cosmos 链，主要
 Tendermint 是一种拜占庭容错的共识算法，采用权益证明（PoS）系统，其中验证者的投票权与其抵押的代币成比例。这种设置为网络共识提供了高性能、容错的机制，支持每秒数千次交易（TPS），并确保即时最终性。CometBFT 是对标准 Tendermint 的改进版本，设计有诸如减少共识消息数量、增强区块验证效率和降低节点运行内存占用等优化。ABCI 是 CometBFT 的套接字协议，作为共识引擎和应用层之间的接口。应用程序需要实现 ABCI 才能与 CometBFT 通信。ABCI 不强制要求使用任何特定语言进行应用程序开发，因此提供了开发者的灵活性。【原文为英文】</p><a href="https://public.bnbstatic.com/static/files/research/orbiting-the-cosmos-ecosystem.pdf">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-21T07:55:15+00:00</pubDate>
-</item>
-<item>
-<title>对话 Near 联合创始人 Illia ：从 AI 大神到公链创始人，一龙的 AI 与加密世界观</title>
-<link>https://www.techflowpost.com/article/detail_16926.html</link>
-<guid>https://www.techflowpost.com/article/detail_16926.html</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的<br />NEAR Protocol 的创始人 Illia Polosukhin结合了 AI 和区块链领域的丰富经验，在NEAR项目中致力于简化用户体验。他介绍了链抽象的概念，旨在消除用户对区块链不同实体的认知需求。他还讨论了将AI和区块链结合的第一原则思考，以及过去一年来Depin如何赢得区块链行业兴趣。对于Akash的例子示范了区块链如何促进市场力量，并创造新的市场机会。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>NEAR 联合创始人 Illia Polosukhin 在 AI 和区块链领域都有丰富经验，将这两者融合在 NEAR 项目中。通过链抽象，NEAR 致力于简化用户体验。深潮 TechFlow 专访了 NEAR Protocol 创始人 Illia Polosukhi 详细讲解了 NEAR 以及区块链的发展。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://www.techflowpost.com/article/detail_16926.html">https://www.techflowpost.com/article/detail_16926.html</a></p>
-<p><strong>文章作者：</strong></p><p>深潮 TechFlow</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>深潮 TechFlow：</strong>鉴于你在 AI 领域的经验以及构建 AI 产品的经历，这似乎影响了你对链抽象的方法论。你能解释一下链抽象包含什么吗？Illia： 当然，链抽象的概念相对直接。它围绕着允许用户与应用互动或进行支付，而不必考虑他们正在使用哪个区块链。本质上，它是关于消除用户在他们的 web3 互动中需要把区块链视为不同实体的需求。采用这种方法的主要原因之一是，大多数 web3 用户目前在中心化交易所上操作，缺乏自主权。这是因为目前直接使用区块链非常复杂。用户必须设置一切，从法币到 Gas 代币、交易费用、设置钱包账户等等。相反，理想的情况是允许用户通过他们的电子邮件或面部识别登录并开始交易，而无需关心具体的区块链、应用程序或智能合约。
-
-您在 AI 领域已经有 10 年了。您对此进行了大量研究。您能分享一些您将 AI 和区块链结合的一些第一原则型思考吗？Illia：想象一下这样一种体验，在你的移动设备或任何其他你使用的设备上，你看到和互动的一切都完全由你拥有。你在与一个本地语言模型或 AI 引擎互动，它可以生成应用程序，生产内容，并代表你与其他人、代理、社区和品牌互动。所有这些都以密码学和区块链为基础，确保比如当你早上醒来想读一些新闻时，有一种方法可以密码学地验证你收到的内容是准确的，并由可信来源发布，而不是被生成和操纵的。你的本地模型从各种来源总结新闻，并基于你的兴趣向你展示，提供来自记者和供应商的特定且多样的观点 —— 所有这些都由你的设备上的本地模型处理。
-
-根据您的观察和分析，过去一年来，Depin 是如何赢得区块链行业的重大兴趣的呢？Illia：对这些平台的迷恋源于一些深度使用案例获得了相当大的关注。例如，我们观察到大众对 Akash 的重大兴趣。特别是，Akash 的吸引力在于其在市场上的潜力，对于寻求获取 GPU 但无法获得的常规 AI 公司而言。Akash 提供了一个去中心化市场，个人可以出租他们的 GPU 资源。这种模式示范了区块链的市场力量 (crowdsourcing)，使得超出传统应用的迷人用例成为可能。这样的框架产生了相当大的兴趣，展示了区块链如何促进各种方法并创造像 Akash 这样的市场。</p><a href="https://www.techflowpost.com/article/detail_16926.html">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-21T07:33:54+00:00</pubDate>
 </item>
 </channel>
 </rss>
