@@ -17838,3 +17838,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [EU Watchdog Says Reordering Blockchain Transactions Might Be Market Abuse. Industry Says It's Not](https://www.coindesk.com/policy/2024/04/05/eu-watchdog-says-reordering-blockchain-transactions-might-be-market-abuse-industry-says-its-not/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-04-05 04:14:10.441437
+------------------------------------------------------
+Started: 2024-04-05 04:30:28.013757
+Existing_entries: 385
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-04-05 04:30:28.443350
