@@ -21748,3 +21748,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-05 08:12:18.700806
+------------------------------------------------------
+Started: 2024-04-05 08:33:25.686469
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 326
+Summarized using GPT-3.5-turbo-1106
+Append: [高盛与BlockTower Capital的两位高管成立新加密投资公司Neoclassic Capital](https://www.panewslab.com/zh/sqarticledetails/144t33o1.html)
+append_entries: 1
+Finish: 2024-04-05 08:33:30.571264
