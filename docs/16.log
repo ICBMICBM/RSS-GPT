@@ -20752,3 +20752,12 @@ Existing_entries: 1000
 Fetching from https://www.chainfeeds.xyz/rss
 append_entries: 0
 Finish: 2024-04-05 02:42:49.896503
+------------------------------------------------------
+Started: 2024-04-05 02:50:16.441383
+Existing_entries: 1000
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 245
+Summarized using GPT-3.5-turbo-1106
+Append: [Ellipsis Labs 完成 2000 万美元 A 轮融资，Paradigm 领投](https://ellipsislabs.medium.com/ellipsis-labs-raises-20m-series-a-from-paradigm-22bb8295a494)
+append_entries: 1
+Finish: 2024-04-05 02:50:20.378636
