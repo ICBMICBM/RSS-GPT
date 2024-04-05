@@ -18303,3 +18303,12 @@ Existing_entries: 396
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-05 16:45:53.600772
+------------------------------------------------------
+Started: 2024-04-05 16:53:14.103207
+Existing_entries: 396
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 86
+Summarized using GPT-3.5-turbo-1106
+Append: [The EasyA Consensus Hackathon: Web3 Unicorn Breeding Ground](https://www.coindesk.com/consensus-magazine/2024/04/05/the-easya-consensus-hackathon-web3-unicorn-breeding-ground/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-05 16:53:17.478785
