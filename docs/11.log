@@ -18471,3 +18471,12 @@ Existing_entries: 404
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-05 20:31:03.857226
+------------------------------------------------------
+Started: 2024-04-05 20:39:13.736912
+Existing_entries: 404
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 116
+Summarized using GPT-3.5-turbo-1106
+Append: [What the Ethereum Community's Staking Argument Is Really About](https://www.coindesk.com/consensus-magazine/2024/04/05/what-the-ethereum-communitys-staking-argument-is-really-about/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-05 20:39:16.391923
