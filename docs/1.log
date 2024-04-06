@@ -22864,3 +22864,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Google指控两名中国软件开发者利用加密App进行诈骗，下载用户超10万人](https://www.panewslab.com/zh/sqarticledetails/wdvdf263.html)
 append_entries: 1
 Finish: 2024-04-06 12:44:33.916506
+------------------------------------------------------
+Started: 2024-04-06 12:53:57.918353
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+append_entries: 0
+Finish: 2024-04-06 12:53:59.728320
