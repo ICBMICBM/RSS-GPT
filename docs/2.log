@@ -17560,3 +17560,21 @@ Existing_entries: 82
 Fetching from https://rss.app/feeds/wUQN1BEONEifvDV7.xml
 append_entries: 0
 Finish: 2024-04-06 16:07:43.053893
+------------------------------------------------------
+Started: 2024-04-06 16:26:19.668073
+Existing_entries: 82
+Fetching from https://rss.app/feeds/wUQN1BEONEifvDV7.xml
+Token length: 139
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin’s next halving now just two weeks away](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f91b446f0133b819a3bacfb343ec24a5adb24c830b09e54224adc269b3cc6df1079d0f278a6e2ec6df5ed8b26b661e83d0e9b)
+Token length: 122
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin as 'digital gold' could enable continued demand as ETFs mitigate volatility: Coinbase](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f91ba4df4133b819a3bacfb34608b4d58ca248434fc954d2740966e81359c841560c2f23cbefcf739afeb8124ab2ee8390a)
+Token length: 129
+Summarized using GPT-3.5-turbo-1106
+Append: [Genesis purchased 32,041 bitcoins to repay customers after selling GBTC](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f91ba4ef3133e8d803db0fb2960dc160f9761c83ab88641244dd578d834d3861921d0e739b7)
+Token length: 109
+Summarized using GPT-3.5-turbo-1106
+Append: [SEC to eventually approve spot Ethereum ETFs, says JPMorgan](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f91b54efd132a8d8d75b0e23539c2414bcb35973da49f0f2e50dd269f23dc9d086bc2e8)
+append_entries: 4
+Finish: 2024-04-06 16:26:26.004086
