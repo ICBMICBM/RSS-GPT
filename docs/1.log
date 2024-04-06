@@ -22501,3 +22501,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-06 03:54:26.598981
+------------------------------------------------------
+Started: 2024-04-06 04:10:18.313178
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 3733
+Summarized using GPT-3.5-turbo-1106
+Append: [Cathie Wood炉边对话实录：比特币2030年会涨至150万美元，游戏将整合AI与区块链技术](https://www.panewslab.com/zh/articledetails/wmcpd0m8.html)
+append_entries: 1
+Finish: 2024-04-06 04:10:22.733163
