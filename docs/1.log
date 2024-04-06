@@ -22744,3 +22744,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-06 09:50:07.498879
+------------------------------------------------------
+Started: 2024-04-06 09:58:57.043276
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 287
+Summarized using GPT-3.5-turbo-1106
+Append: [QCP Capital：过去一周价格波动较小，但 BTC 看涨情绪增加](https://www.panewslab.com/zh/sqarticledetails/nrrbsg6f.html)
+append_entries: 1
+Finish: 2024-04-06 09:59:01.884085
