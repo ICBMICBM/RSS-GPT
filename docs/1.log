@@ -22447,3 +22447,15 @@ Existing_entries: 1001
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-06 02:51:04.800527
+------------------------------------------------------
+Started: 2024-04-06 02:58:19.239383
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 115
+Summarized using GPT-3.5-turbo-1106
+Append: [GSR在4小时内向Bybit存入520万枚ENA，目前仍持有1463万枚ENA](https://www.panewslab.com/zh/sqarticledetails/8s5e8zwd.html)
+Token length: 165
+Summarized using GPT-3.5-turbo-1106
+Append: [华尔街日报：马斯克旗下AI公司xAI寻求融资30亿美元，投后估值或将达180亿美元](https://www.panewslab.com/zh/sqarticledetails/6two9d6d.html)
+append_entries: 2
+Finish: 2024-04-06 02:58:24.556605
