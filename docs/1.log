@@ -22423,3 +22423,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-06 02:28:37.395619
+------------------------------------------------------
+Started: 2024-04-06 02:36:00.789039
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 310
+Summarized using GPT-3.5-turbo-1106
+Append: [Cathie Wood：比特币在2030年将涨至150万美元](https://www.panewslab.com/zh/sqarticledetails/x8xo8pt0.html)
+append_entries: 1
+Finish: 2024-04-06 02:36:05.512318
