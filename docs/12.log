@@ -18453,3 +18453,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [US Jury Finds Do Kwon, Terraform Labs Liable For Fraud In SEC Trial](https://bitcoinist.com/us-jury-deems-do-kwon-terraform-liable-for-fraud/)
 append_entries: 1
 Finish: 2024-04-06 05:47:15.540057
+------------------------------------------------------
+Started: 2024-04-06 05:54:28.986616
+Existing_entries: 302
+Fetching from https://bitcoinist.com/feed
+append_entries: 0
+Finish: 2024-04-06 05:54:29.129471
