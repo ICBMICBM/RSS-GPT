@@ -22411,3 +22411,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [数据：4月5日贝莱德IBIT净流入3.07亿美元，灰度GBTC净流出1.99亿美元](https://www.panewslab.com/zh/sqarticledetails/i7mmn86m.html)
 append_entries: 2
 Finish: 2024-04-06 01:55:57.224145
+------------------------------------------------------
+Started: 2024-04-06 02:15:33.419706
+Existing_entries: 1002
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+append_entries: 0
+Finish: 2024-04-06 02:15:34.849077
