@@ -4,6 +4,42 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>【英文长推】加密 VC 一季度数据分析：哪些叙事被看好？</title>
+<link>https://twitter.com/CryptoKoryo/status/1775827024516665526</link>
+<guid>https://twitter.com/CryptoKoryo/status/1775827024516665526</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。加密融资数据在第一季度回暖，加密 VC 投资金额增加38%，投资项目数量增加49%。A 轮投资首次超过Pre-Seed，且与上一季度相比数量翻番。a16z crypto、OKX、Multicoin Capital等是主导的投资者，融资金额最高的项目有EigenLayer、Berachain等。VC关注的叙事包括比特币L2、BRC-20、抽象、FHE。Solana生态获得融资量增加，但主要与memecoin ICO有关，Polygon失去市场份额。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>加密融资数据回暖，一改连续两年的下降趋势。加密 KOL Crypto Koryo 通过分析一季度加密融资数据，总结了 4 个 VC 们关注的叙事。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/CryptoKoryo/status/1775827024516665526">https://twitter.com/CryptoKoryo/status/1775827024516665526</a></p>
+<p><strong>文章作者：</strong></p><p>Crypto Koryo</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Crypto Koryo：</strong>趋势：与上一季度相比，加密 VC 投资金额增加了 38%，投资项目数量增加了 49%。距离 2021 年第四季度的投资金额 ATH 还有 7 倍的距离。但这可能是新一轮浪潮的开始。轮次：与上一季度相比，A 轮投资首次超过了 Pre-Seed。事实上，与上季度相比，A 轮投资的数量几乎翻了一番！通过 memecoin，ICO 又回来了！
+
+与上一季度银行和非加密风险投资占主导地位相比，本季度加密风险投资占主导地位。a16z crypto 处于领先地位，其后是：OKX、Multicoin Capital、Paradigm 和 Polychain。第一季度融资金额最高的项目分别是：EigenLayer、Berachain、Eclipse、0G Labs 和 Espresso Systems。Solana 生态获得融资的数量有所增加，但似乎主要与 memecoin ICO 有关。Polygon 正在失去市场份额。
+
+第一季度 VC 关注的叙事：比特币 L2、BRC-20、抽象（链 / 账户）、FHE。【原文为英文】</p><a href="https://twitter.com/CryptoKoryo/status/1775827024516665526">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-06T09:09:18+00:00</pubDate>
+</item>
+<item>
+<title>【英文长推】以 Monad、MegaETH、Sei 和 Canto 为例，探索 EVM 的性能优化设计</title>
+<link>https://twitter.com/yuxiao_deng/status/1776233384068686279</link>
+<guid>https://twitter.com/yuxiao_deng/status/1776233384068686279</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章总结了四个项目在EVM优化、性能和去中心化方面的权衡与进展。MegaETH采用异构扩展方法实现100-200k TPS，Sei V2使用OCC方法进行并行化和采用新的状态trie，而Canto升级到Cosmos SDK v50和ABCI 2.0实现亚秒级区块时间。同时，Monad推动了去中心化和高性能的界限，采用并行化的OCC和MonadBFT以及新的并行访问DB解决状态访问问题。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>SevenX Ventures 研究员 Grace Deng 以 Monad、MegaETH、Sei 和 Canto 为例，综合比较了四个项目在 EVM 优化、性能和去中心化方面的权衡与进展。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/yuxiao_deng/status/1776233384068686279">https://twitter.com/yuxiao_deng/status/1776233384068686279</a></p>
+<p><strong>文章作者：</strong></p><p>Grace Deng</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Grace Deng：</strong>MegaETH 选择了一种异构扩展方法来实现 100-200k TPS：1) 采用 OCC 的强大、优化和中心化排序器（排序和执行）；2) 廉价、去中心化的全节点（仅应用压缩状态差异，无需重新执行）。更具体地说，为了解决状态访问问题（减少磁盘 I/O），配备高内存的 MegaETH 排序器将把执行状态保存在内存中。MegaETH 专注于突破 Rollup 的边界，从理论上讲，Rollup 利用了底层的安全性。Rollup 大小将从根本上受到内存大小的限制。硬最终性将受限于证明生成时间（欺诈证明或 zk 证明）。
+
+Sei V2 也采用 OCC 方法进行并行化。为了处理与状态相关的问题，它们采用了名为 IAVL trie 的新状态 trie，以提高读写效率。此外，它们还将活动状态数据存储在 RAM 中，但由于采用了新的 trie，元数据存储量有所减少。
+
+Canto 最近宣布了 Cyclone 升级，其特点是：1）升级到 Cosmos SDK v50 和 ABCI 2.0，实现亚秒级区块时间；2）实现并行执行的 OCC；3）集成内存 IVAL，减少存储访问瓶颈。
+
+Monad 的设计同时推动了去中心化和高性能的界限。在性能方面，Monad 采用了并行化的 OCC、用于快速最终性的 MonadBFT 和新的并行访问 DB。MonadBFT 源自 Hotstuff，它并行化了排序过程和执行过程。Monad 利用新的 DB 解决了状态访问问题，该 DB 利用内核对异步 I/O 的支持，绕过文件系统以避免昂贵的开销，而不是增加内存。Monad 通过一个新的 DB 解决了状态访问问题，该 DB 利用 Kernel 对异步 I/O 的支持并绕过文件系统以避免昂贵的开销，而不是增加 RAM。【原文为英文】</p><a href="https://twitter.com/yuxiao_deng/status/1776233384068686279">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-06T09:07:30+00:00</pubDate>
+</item>
 
 <item>
 <title>【长推】SocialFi 叙事启动，盘点 9 个小众社交媒体项目</title>
