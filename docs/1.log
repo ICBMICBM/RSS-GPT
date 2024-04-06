@@ -22819,3 +22819,9 @@ Existing_entries: 1001
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-06 11:31:17.393122
+------------------------------------------------------
+Started: 2024-04-06 11:38:28.042882
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+append_entries: 0
+Finish: 2024-04-06 11:38:30.516731
