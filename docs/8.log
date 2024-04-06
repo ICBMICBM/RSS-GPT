@@ -17982,3 +17982,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [FOMO Gives Way To Fear: Bitcoin-Ethereum Ratio Signals Shift In Crypto Sentiment](https://www.newsbtc.com/bitcoin-news/fomo-gives-way-to-fear-bitcoin-ethereum-ratio-signals-shift-in-crypto-sentiment/)
 append_entries: 1
 Finish: 2024-04-06 00:00:44.661187
+------------------------------------------------------
+Started: 2024-04-06 01:13:00.870417
+Existing_entries: 315
+Fetching from https://www.newsbtc.com/feed
+Token length: 2621
+Summarized using GPT-3.5-turbo-1106
+Append: [Dogecoin Whale Takes $52.3 Million In DOGE Off Binance, Sign Of Buying?](https://www.newsbtc.com/dogecoin-2/dogecoin-whale-35-2-doge-binance-buying/)
+append_entries: 1
+Finish: 2024-04-06 01:13:03.482626
