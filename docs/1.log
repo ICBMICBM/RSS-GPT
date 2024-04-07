@@ -23392,3 +23392,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Ethena协议近7日累计收入达830万美元，位居稳定币协议收入榜首位](https://www.panewslab.com/zh/sqarticledetails/2ml5wa3x.html)
 append_entries: 1
 Finish: 2024-04-07 03:34:32.805842
+------------------------------------------------------
+Started: 2024-04-07 03:41:31.783441
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 239
+Summarized using GPT-3.5-turbo-1106
+Append: [行情：CKB 24小时涨幅超37%，BEL 24小时涨幅超27%](https://www.panewslab.com/zh/sqarticledetails/f4vo8x00.html)
+append_entries: 1
+Finish: 2024-04-07 03:41:35.919259
