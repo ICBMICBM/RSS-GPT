@@ -24229,3 +24229,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-07 23:35:51.438658
+------------------------------------------------------
+Started: 2024-04-07 23:43:08.962433
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 316
+Summarized using GPT-3.5-turbo-1106
+Append: [数据：价值3.50亿美元的代币将在本周解锁](https://www.panewslab.com/zh/sqarticledetails/m5k1fu31.html)
+append_entries: 1
+Finish: 2024-04-07 23:43:13.626396
