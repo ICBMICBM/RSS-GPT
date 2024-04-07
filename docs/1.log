@@ -23305,3 +23305,18 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-06 23:58:54.801983
+------------------------------------------------------
+Started: 2024-04-07 01:08:51.475317
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 327
+Summarized using GPT-3.5-turbo-1106
+Append: [Genesis在出售GBTC股份后买入32041枚比特币用以偿还客户](https://www.panewslab.com/zh/sqarticledetails/hlyk29gp.html)
+Token length: 178
+Summarized using GPT-3.5-turbo-1106
+Append: [财新：蓝天格锐非法集资案预计国内退款不到5%，6.1万枚比特币已被英国警方查封](https://www.panewslab.com/zh/sqarticledetails/th0wd5fq.html)
+Token length: 2149
+Summarized using GPT-3.5-turbo-1106
+Append: [一文读懂模块化 BTC Layer2 一键发链平台 UTXO Stack](https://www.panewslab.com/zh/articledetails/zqm4dyeb.html)
+append_entries: 3
+Finish: 2024-04-07 01:09:00.199359
