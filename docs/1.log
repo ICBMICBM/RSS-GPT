@@ -23599,3 +23599,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-07 08:14:37.056151
+------------------------------------------------------
+Started: 2024-04-07 08:27:57.943635
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 148
+Summarized using GPT-3.5-turbo-1106
+Append: [美国政府近3天已转移与丝绸之路相关的超600枚比特币](https://www.panewslab.com/zh/sqarticledetails/ck8hgbmx.html)
+append_entries: 1
+Finish: 2024-04-07 08:28:02.865822
