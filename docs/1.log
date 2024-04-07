@@ -23797,3 +23797,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [NFT销售额周环比下降近14%，为连续第四周下跌](https://www.panewslab.com/zh/sqarticledetails/25sw4p51.html)
 append_entries: 1
 Finish: 2024-04-07 12:41:30.706092
+------------------------------------------------------
+Started: 2024-04-07 12:53:06.255466
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+append_entries: 0
+Finish: 2024-04-07 12:53:09.074357
