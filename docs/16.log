@@ -22519,3 +22519,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Arthur Hayes 播客：加密货币是一艘救生船 带我们逃离动荡周期](https://www.wublock123.com/index.php?m=content&c=index&a=show&catid=47&id=25629)
 append_entries: 1
 Finish: 2024-04-07 04:50:39.758846
+------------------------------------------------------
+Started: 2024-04-07 04:58:15.481752
+Existing_entries: 1001
+Fetching from https://www.chainfeeds.xyz/rss
+append_entries: 0
+Finish: 2024-04-07 04:58:16.062504
