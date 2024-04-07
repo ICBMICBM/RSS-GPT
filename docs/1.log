@@ -23863,3 +23863,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [一周预告 | Masa Network将于4月11日上线主网并推出MASA代币；Aptos（APT）解锁价值超3亿美元的代币](https://www.panewslab.com/zh/articledetails/1m9kgg87.html)
 append_entries: 1
 Finish: 2024-04-07 14:14:06.782430
+------------------------------------------------------
+Started: 2024-04-07 14:26:32.512313
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+append_entries: 0
+Finish: 2024-04-07 14:26:34.548995
