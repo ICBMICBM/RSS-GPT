@@ -4,22 +4,21 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>以太坊核心开发者最新会议摘要：考虑将 EIP 7547 纳入 Electra、peerDAS 开发…</title>
 <link>https://www.galaxy.com/insights/research/ethereum-all-core-developers-consensus-call-131/</link>
 <guid>https://www.galaxy.com/insights/research/ethereum-all-core-developers-consensus-call-131/</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。ACDC第131次电话会议上，开发人员讨论和协调了以太坊共识层（CL）的变化，包括与Deneb升级相关的主题和已被批准纳入Electra升级的EIP实施情况。4个已批准的EIP包括：将验证者的存款信息添加到执行层的区块结构中，执行层可触发退出，将committee index移出attestation，提高最高有效余额。开发人员还在考虑纳入EIP7547。同时，他们继续开发peerDAS来优化验证器验证blob数据的流程。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。ACDC第131次电话会议上，开发人员讨论和协调了以太坊共识层（CL）的变化，包括与Deneb升级相关的主题和已被批准纳入Electra升级的EIP实施情况。4个已批准的EIP包括：将验证者的存款信息添加到执行层的区块结构中，执行层可触发退出，将committee index移出attestation，提高最高有效余额。开发人员还在考虑纳入EIP7547。同时，他们继续开发peerDAS来优化验证器验证blob数据的流程。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>ACDC 第 131 次电话会议上，开发人员讨论和协调了以太坊共识层（CL）的变化。开发人员简要讨论了与 Deneb 升级相关的 2 个主题，并享了 4 个已被批准纳入 Electra 升级的 EIP 的实施情况。Galaxy Digital 研究副总裁 Christine Kim 对本次会议要点做了详细记录。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://www.galaxy.com/insights/research/ethereum-all-core-developers-consensus-call-131/">https://www.galaxy.com/insights/research/ethereum-all-core-developers-consensus-call-131/</a></p>
 <p><strong>文章作者：</strong></p><p>Christine Kim（Galaxy Digital）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Christopher Rhine（Galaxy Digital 总经理）：</strong>4 个已被批准纳入 Electra 升级的 EIP 的实施情况，包括：1）EIP-6110：将验证者的存款信息添加到执行层的区块结构中以简化共识层的工作； 2）EIP-7002：执行层可触发退出； 3）EIP-7549：将 committee index 移出 attestation； 4）EIP-7251：提高最高有效余额。与此同时，开发人员仍在考虑将 EIP 7547 纳入 Electra 中。
 
 此外，开发人员正在继续开发 peerDAS。peerDas 代表了验证器验证 blob 数据的新设计，从而使验证器可以在每个区块上处理更多的 blob。开发人员建议客户团队将大约 80% 的资源和时间用于实施 Electra EIP，20% 用于 peerDAS 开发。【原文为英文】</p><a href="https://www.galaxy.com/insights/research/ethereum-all-core-developers-consensus-call-131/">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-07T06:00:00+00:00</pubDate>
 </item>
-
 <item>
 <title>Arthur Hayes 播客：加密货币是一艘救生船 带我们逃离动荡周期</title>
 <link>https://www.wublock123.com/index.php?m=content&amp;c=index&amp;a=show&amp;catid=47&amp;id=25629</link>
@@ -11489,24 +11488,6 @@ RPGF 用于资助项目建成后的公共产品。
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>TON ：Telegram 成为 Web3 领域里的微信的必由之链</title>
-<link>https://www.techflowpost.com/article/detail_16927.html</link>
-<guid>https://www.techflowpost.com/article/detail_16927.html</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。文章介绍了公链TON与Telegram紧密联系，提供高性能的解决方案，吸引有真实需求的用户。TON发展迅速，在广告、合作项目和即时通讯等领域取得成功。Telegram拥有庞大用户基础，为TON的发展提供了有利条件。Telegram的合作和推广使TON受到广泛关注，并在加密社区取得成功。 <div>
-<p><strong>Chainfeeds 导读：</strong></p><p>公链的红海里，不缺少高性能，不缺少叙事，但是缺少有真实需求使用公链的用户。背靠 Telegram 接近 9 亿月活用户的公链 TON，因为其与 Telegram 千丝万缕的联系而从百链大战中脱颖而出。Momentum Capital 从近期热点、代币经济、Telegram Web3 宏图中的重要地位等方面介绍了公链 TON。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://www.techflowpost.com/article/detail_16927.html">https://www.techflowpost.com/article/detail_16927.html</a></p>
-<p><strong>文章作者：</strong></p><p>Momentum Capital</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Momentum Capital：</strong>Telegram 广告平台将正式向近百个新国家的所有广告主开放，这些国家的频道所有者将从 Telegram 在其频道中展示广告的收入中获得 50% 的提成。官方表示，为了确保广告支付和提款的快速和安全，将专门使用 TON 区块链，官方将与频道所有者分享收入，这将创造一个良性循环，内容创作者将能够兑现他们的 Toncoin，或者将其重新投资以推广和升级他们的频道。
-
-Fish：Ton 上的第一个 meme 币，公平发射，持有地址超过 22000 个，目前市值 47M，3 月涨幅高达 14 倍，和很多项目官宣了合作关系：TonRaffles, Tonano, Tap Fantasy, RoOLZ, Catizen。
-
-TON 的目标是提供易于使用的工具和可靠稳定的基础设施，以使 massive adoption 变得更加容易。尽管 TON 在 2021 年就已上线交易所，并随后推出了 TON 支付、存储、DNS、跨链桥（官方桥支持 TON/ETH 和 BSC）等基础设施与功能，但 TON 真正引起广泛关注却是去年 7 月 Unibot 和 Bananagun 等 Telegram Bot 的热潮，而在 9 月的 Token 2049 活动中 Telegram 更是官宣与 TON 的正式合作并推出了自托管加密钱包 TON Space，更是将 TON 推向了高潮。
-
-Telegram 是一个基于云的免费即时通讯软件，2013 年由 VK（俄罗斯主流社交媒体之一）创始人 Nikolai 和 Pavel Durov 创立。Telegram 坚持言论自由和保护隐私的主张吸引了全球众多用户， 其注册用户超过 13 亿，月活用户（MAU）近 8 亿。Telegram 宽松的言论氛围和监管环境使得 Telegram 成为了 Crypto 的 “重要阵地”—— 几乎所有 Web 3.0/Crypto 项目都拥有 Telegram 社群，用于项目宣发、消息公布以及与社区互动。并且 Telegram 上订阅数 / 会员数最多的 Channel 以及 Group，超过一半是与 Crypto 内容相关的。更重要的是，据 TON 中文频道统计 Telegram 拥有超过 37,000 个活跃的加密社区。</p><a href="https://www.techflowpost.com/article/detail_16927.html">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-21T08:40:36+00:00</pubDate>
 </item>
 </channel>
 </rss>
