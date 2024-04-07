@@ -23689,3 +23689,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [CoinW宣布将以冠名赞助商身份出席TOKEN2049迪拜](https://www.panewslab.com/zh/articledetails/hsdw3tut.html)
 append_entries: 1
 Finish: 2024-04-07 09:59:52.870942
+------------------------------------------------------
+Started: 2024-04-07 10:15:15.336324
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 322
+Summarized using GPT-3.5-turbo-1106
+Append: [美参议员致信FTX破产案法官，要求指派独立审查员调查FTX破产律所低价出售SOL行为](https://www.panewslab.com/zh/sqarticledetails/w77unme2.html)
+Token length: 4158
+Summarized using GPT-3.5-turbo-1106
+Append: [Coinbase周报：BTC 减半前市场还会有哪些表现？](https://www.panewslab.com/zh/articledetails/j6mg5yku.html)
+append_entries: 2
+Finish: 2024-04-07 10:15:23.956432
