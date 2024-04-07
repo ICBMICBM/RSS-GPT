@@ -23803,3 +23803,12 @@ Existing_entries: 1001
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-07 12:53:09.074357
+------------------------------------------------------
+Started: 2024-04-07 13:00:31.500018
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 4349
+Summarized using GPT-3.5-turbo-1106
+Append: [3000字大白话讲清RGB与RGB++协议设计](https://www.panewslab.com/zh/articledetails/1ryju8na.html)
+append_entries: 1
+Finish: 2024-04-07 13:00:37.204428
