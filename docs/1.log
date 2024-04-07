@@ -23503,3 +23503,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-07 05:56:49.367131
+------------------------------------------------------
+Started: 2024-04-07 06:13:20.617855
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 8145
+Summarized using GPT-3.5-turbo-1106
+Append: [从定义到发展简史，矿机市场调研分析及预测](https://www.panewslab.com/zh/articledetails/x453ye3239x4.html)
+append_entries: 1
+Finish: 2024-04-07 06:13:26.960106
