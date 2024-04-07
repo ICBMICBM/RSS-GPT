@@ -24238,3 +24238,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [数据：价值3.50亿美元的代币将在本周解锁](https://www.panewslab.com/zh/sqarticledetails/m5k1fu31.html)
 append_entries: 1
 Finish: 2024-04-07 23:43:13.626396
+------------------------------------------------------
+Started: 2024-04-07 23:57:55.693476
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 210
+Summarized using GPT-3.5-turbo-1106
+Append: [Aave社区关于“在Aave V3以太坊上支持ezETH借贷”提案已通过温度检查投票](https://www.panewslab.com/zh/sqarticledetails/dbvbui6c.html)
+append_entries: 1
+Finish: 2024-04-07 23:57:59.909723
