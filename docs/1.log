@@ -23383,3 +23383,12 @@ Existing_entries: 1001
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-07 03:25:10.137578
+------------------------------------------------------
+Started: 2024-04-07 03:34:29.849681
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 105
+Summarized using GPT-3.5-turbo-1106
+Append: [Ethena协议近7日累计收入达830万美元，位居稳定币协议收入榜首位](https://www.panewslab.com/zh/sqarticledetails/2ml5wa3x.html)
+append_entries: 1
+Finish: 2024-04-07 03:34:32.805842
