@@ -19245,3 +19245,12 @@ Existing_entries: 326
 Fetching from https://www.newsbtc.com/feed
 append_entries: 0
 Finish: 2024-04-07 11:58:22.225266
+------------------------------------------------------
+Started: 2024-04-07 12:22:36.438624
+Existing_entries: 326
+Fetching from https://www.newsbtc.com/feed
+Token length: 2178
+Summarized using GPT-3.5-turbo-1106
+Append: [Dogecoin Rally Intensifies: Eyes Set On Historic New Highs](https://www.newsbtc.com/dogecoin-2/dogecoin-rally-intensifies-eyes-set-on-historic-new-highs/)
+append_entries: 1
+Finish: 2024-04-07 12:22:38.909496
