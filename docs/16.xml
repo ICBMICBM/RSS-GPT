@@ -4,6 +4,21 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>以太坊核心开发者最新会议摘要：考虑将 EIP 7547 纳入 Electra、peerDAS 开发…</title>
+<link>https://www.galaxy.com/insights/research/ethereum-all-core-developers-consensus-call-131/</link>
+<guid>https://www.galaxy.com/insights/research/ethereum-all-core-developers-consensus-call-131/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。ACDC第131次电话会议上，开发人员讨论和协调了以太坊共识层（CL）的变化，包括与Deneb升级相关的主题和已被批准纳入Electra升级的EIP实施情况。4个已批准的EIP包括：将验证者的存款信息添加到执行层的区块结构中，执行层可触发退出，将committee index移出attestation，提高最高有效余额。开发人员还在考虑纳入EIP7547。同时，他们继续开发peerDAS来优化验证器验证blob数据的流程。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>ACDC 第 131 次电话会议上，开发人员讨论和协调了以太坊共识层（CL）的变化。开发人员简要讨论了与 Deneb 升级相关的 2 个主题，并享了 4 个已被批准纳入 Electra 升级的 EIP 的实施情况。Galaxy Digital 研究副总裁 Christine Kim 对本次会议要点做了详细记录。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.galaxy.com/insights/research/ethereum-all-core-developers-consensus-call-131/">https://www.galaxy.com/insights/research/ethereum-all-core-developers-consensus-call-131/</a></p>
+<p><strong>文章作者：</strong></p><p>Christine Kim（Galaxy Digital）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Christopher Rhine（Galaxy Digital 总经理）：</strong>4 个已被批准纳入 Electra 升级的 EIP 的实施情况，包括：1）EIP-6110：将验证者的存款信息添加到执行层的区块结构中以简化共识层的工作； 2）EIP-7002：执行层可触发退出； 3）EIP-7549：将 committee index 移出 attestation； 4）EIP-7251：提高最高有效余额。与此同时，开发人员仍在考虑将 EIP 7547 纳入 Electra 中。
+
+此外，开发人员正在继续开发 peerDAS。peerDas 代表了验证器验证 blob 数据的新设计，从而使验证器可以在每个区块上处理更多的 blob。开发人员建议客户团队将大约 80% 的资源和时间用于实施 Electra EIP，20% 用于 peerDAS 开发。【原文为英文】</p><a href="https://www.galaxy.com/insights/research/ethereum-all-core-developers-consensus-call-131/">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-07T06:00:00+00:00</pubDate>
+</item>
 
 <item>
 <title>Arthur Hayes 播客：加密货币是一艘救生船 带我们逃离动荡周期</title>
