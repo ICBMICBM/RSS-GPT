@@ -22435,3 +22435,12 @@ Existing_entries: 1000
 Fetching from https://www.chainfeeds.xyz/rss
 append_entries: 0
 Finish: 2024-04-07 02:45:20.143671
+------------------------------------------------------
+Started: 2024-04-07 02:52:39.310321
+Existing_entries: 1000
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 971
+Summarized using GPT-3.5-turbo-1106
+Append: [一文读懂爆火 Runestone 及背后的 Runes 协议](https://medium.com/@bitcoinsquare7/%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E7%88%86%E7%81%ABrunestone%E5%8F%8A%E8%83%8C%E5%90%8E%E7%9A%84runes%E5%8D%8F%E8%AE%AE-51859b98f47b)
+append_entries: 1
+Finish: 2024-04-07 02:52:42.984079

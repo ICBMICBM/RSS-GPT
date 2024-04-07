@@ -4,6 +4,23 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>一文读懂爆火 Runestone 及背后的 Runes 协议</title>
+<link>https://medium.com/@bitcoinsquare7/%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E7%88%86%E7%81%ABrunestone%E5%8F%8A%E8%83%8C%E5%90%8E%E7%9A%84runes%E5%8D%8F%E8%AE%AE-51859b98f47b</link>
+<guid>https://medium.com/@bitcoinsquare7/%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E7%88%86%E7%81%ABrunestone%E5%8F%8A%E8%83%8C%E5%90%8E%E7%9A%84runes%E5%8D%8F%E8%AE%AE-51859b98f47b</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>1. Runes 协议作为 BRC-20 的替代品，是一个基于 UTXO 的可替代代币协议。<br>2. 许多项目开始预热，虽然现在还没有正式的 Runes 符文。<br>3. Runestone 项目发起了史上最大规模的 Ordinals 空投计划，拍卖收益将用于支付矿工费。<br>4. Runestone 挖掘了比特币区块链上的最大区块，吸引了其它项目对其持有者进行空投。<br>5. Runestone 有望成为新一轮符文生态的金铲子。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>近日总量为 112383 个的 Runestone 自发行以来引起了市场的广泛关注，平均价格也是水涨船高。Runestone 究竟是怎样的项目？它与 Runes 协议有什么关系？Bitcoin Square 研究员 Ash Li 撰文深入探讨了 Runes 协议及生态，并对未来生态进行展望。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://medium.com/@bitcoinsquare7/%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E7%88%86%E7%81%ABrunestone%E5%8F%8A%E8%83%8C%E5%90%8E%E7%9A%84runes%E5%8D%8F%E8%AE%AE-51859b98f47b">https://medium.com/@bitcoinsquare7/%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E7%88%86%E7%81%ABrunestone%E5%8F%8A%E8%83%8C%E5%90%8E%E7%9A%84runes%E5%8D%8F%E8%AE%AE-51859b98f47b</a></p>
+<p><strong>文章作者：</strong></p><p>BitcoinSquare</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>BitcoinSquare：</strong>2023 年 9 月 26 日，Casey Rodarmor 重新开发了一个名为 Runes 的协议作为 BRC-20 的替代品。该协议是一个基于 UTXO 的、能使比特币使用者具有使用良好体验的可替代代币协议。Runes 代币的余额直接包含在 UTXO 内， 如果一笔交易包含一个输出，而该输出的脚本 pubkey 包含一个 OP_RETURN，后跟一个表示 ASCII 大写字母 R 的数据输出，则该交易包含一个协议消息。输入到无效协议消息的交易的符文将被烧毁，这允许未来存在的升级可以改变符文的分配或创建方式，避免之前旧的客户端错误分配符文的余额。
+
+目前市场上已经有许多 Runes 协议的项目开始预热了，因为正式的 Runes 协议还没有发布，严格意义上来说现在没有 Runes 的任何符文，很多都还是利用比特币 NFT 的形式进行发布，等正式版协议上线之后会通过空投或者 1:1 兑换成为符文的形式进行发放。一部分利用 Runes 协议预期的早期项目包括：RSIC、Runestone、The Rune Guardians、Rune Alpha、Unicross 等。
+
+Runestone 创建者 @LeonidasNFT 表示，拍卖所有收益和之前通过推特募捐的 2.25 个比特币一起，将用于支付 Runestone 空投计划的矿工费，对超过 112383 个比特币地址进行空投，可以称为史上最大规模的 Ordinals 空投项目之一。Runestone 项目可以火出圈的另一个重要因素就是其挖掘出了比特币区块链上的最大区块，得益于与 @ordinalsbot 和 @MarathonDH 的合作。目前已经有超过十几个项目对 Runestone 的持有者进行空投，Runestone 大有称为新一轮符文生态金铲子的特性了。</p><a href="https://medium.com/@bitcoinsquare7/%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E7%88%86%E7%81%ABrunestone%E5%8F%8A%E8%83%8C%E5%90%8E%E7%9A%84runes%E5%8D%8F%E8%AE%AE-51859b98f47b">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-07T02:00:00+00:00</pubDate>
+</item>
 
 <item>
 <title>【英文长推】加密 VC 一季度数据分析：哪些叙事被看好？</title>
