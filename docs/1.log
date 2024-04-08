@@ -24427,3 +24427,21 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-08 04:57:57.170564
+------------------------------------------------------
+Started: 2024-04-08 05:13:30.825065
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 91
+Summarized using GPT-3.5-turbo-1106
+Append: [某巨鲸半小时前将3001枚MKR转入币安，约合1066万美元](https://www.panewslab.com/zh/sqarticledetails/9tdmc8a6.html)
+Token length: 484
+Summarized using GPT-3.5-turbo-1106
+Append: [OpenAI CEO与前苹果设计总监已正式联手开发AI硬件，并正寻求10亿美元融资](https://www.panewslab.com/zh/sqarticledetails/5mjgtlaq.html)
+Token length: 2088
+Summarized using GPT-3.5-turbo-1106
+Append: [对话HashKey交易所CEO：在全球复制香港合规模式，推出全球站HashKey Global](https://www.panewslab.com/zh/articledetails/q9mqan2i.html)
+Token length: 5780
+Summarized using GPT-3.5-turbo-1106
+Append: [以Rollup技术为核心，开启BTC Layer 2发展新篇章](https://www.panewslab.com/zh/articledetails/wkxqikd4.html)
+append_entries: 4
+Finish: 2024-04-08 05:13:43.746100
