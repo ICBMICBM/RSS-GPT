@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>【英文长推】为什么 Solana 交易会失败？如何改善用户体验？</title>
 <link>https://twitter.com/_nishil_/status/1777048334664081548</link>
 <guid>https://twitter.com/_nishil_/status/1777048334664081548</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。加密研究员 Nishil 指出，Solana 上的交易失败中只有约8%来自真实用户，其余为机器人套利交易。最近 Solana 遇到拥塞问题是由于未送达的交易，即交易未能到达区块领导者并被丢弃。虽然 Solana 已升级网络层为使用QUIC，但存在着限制连接的逻辑漏洞，导致随机丢弃连接。团队正在修复网络层问题，但仍需时间。解决问题仍有挑战，包括当前修复措施的效率、未来发布的解决方案是否有效以及网络垃圾交易问题。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。加密研究员 Nishil 指出，Solana 上的交易失败中只有约8%来自真实用户，其余为机器人套利交易。最近 Solana 遇到拥塞问题是由于未送达的交易，即交易未能到达区块领导者并被丢弃。虽然 Solana 已升级网络层为使用QUIC，但存在着限制连接的逻辑漏洞，导致随机丢弃连接。团队正在修复网络层问题，但仍需时间。解决问题仍有挑战，包括当前修复措施的效率、未来发布的解决方案是否有效以及网络垃圾交易问题。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>加密研究员 nishil 撰文分析 Solana 上的交易失败的主要原因，以及 Solana 网络未来仍待解决的问题，并指出丢弃的交易才是造成 Solana 网络拥塞的主要原因。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/_nishil_/status/1777048334664081548">https://twitter.com/_nishil_/status/1777048334664081548</a></p>
 <p><strong>文章作者：</strong></p><p>Nishil</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Nishil：</strong>失败交易中只有约 8% 是由真实用户进行的，其余都是链上机器人的套利交易。套利者在链上发送垃圾交易，因为与成功套利的最终回报相比，垃圾交易的成本微乎其微。因此，这些失败交易并不意味着有效性问题，区块链正在按预期运行，这些只是由于交易条件不符合而失败的少数机器人交易，并不是 Solana 目前用户体验不佳的原因。事实上，自去年 11 月以来，Solana 的交易失败率一直在 50% 左右，之前也差不多。
@@ -23,10 +24,8 @@
 2）Jump Crypto 的 Firedancer 可能确实可以解决这些问题，但它要到今年年底才会发布；
 3）网络垃圾交易问题：Solana 的交易经济学存在许多问题，并且无法阻止恶意用户发送垃圾交易。【原文为英文】</p><a href="https://twitter.com/_nishil_/status/1777048334664081548">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-08T04:20:56+00:00</pubDate>
 </item>
-
 <item>
 <title>几分钟速通 RGB 与 RGB++ 协议设计：白话说明书</title>
 <link>https://mp.weixin.qq.com/s/PD0_cz8b-Sv00CMS2qww-w</link>
@@ -11513,16 +11512,6 @@ RPGF 用于资助项目建成后的公共产品。
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，以 10 亿美元估值。Polychain Capital 领投，其他参投方包括 Animoca Brands、Hashkey Capital 等。融资通过未来代币或 SAFT 协议进行。筹资将用于扩大团队、招募人才及业务发展。<br /><br />这些信息是积极的 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。ZK互操作协议zkBridge的开发商Polyhedra Network以10亿美元估值完成了2000万美元的战略融资，由Polychain Capital领投，其他投资者包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium和Mapleblock Capital。融资将用于招聘跨职能部门人员，将团队规模从50人扩大到80人，并进一步推进产品、工程、业务开发和营销。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
