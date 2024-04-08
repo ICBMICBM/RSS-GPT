@@ -20940,3 +20940,12 @@ Existing_entries: 423
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-08 19:01:16.453511
+------------------------------------------------------
+Started: 2024-04-08 19:14:54.610806
+Existing_entries: 423
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 117
+Summarized using GPT-3.5-turbo-1106
+Append: [Stablecoin Growth Is More Important Cue for Crypto Bull Market Than Bitcoin ETF Inflows: Analyst](https://www.coindesk.com/markets/2024/04/08/stablecoin-growth-is-more-important-cue-for-crypto-bull-market-than-bitcoin-etf-inflows-analyst/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-08 19:14:56.359332
