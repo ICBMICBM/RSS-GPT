@@ -24844,3 +24844,15 @@ Existing_entries: 1002
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-08 13:56:00.426080
+------------------------------------------------------
+Started: 2024-04-08 14:09:17.031983
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 241
+Summarized using GPT-3.5-turbo-1106
+Append: [Lumoz以1.2亿美元估值完成600万美元融资](https://www.panewslab.com/zh/sqarticledetails/c14v92ht.html)
+Token length: 3593
+Summarized using GPT-3.5-turbo-1106
+Append: [2024年3月Web3游戏报告：市场趋势与投资动态](https://www.panewslab.com/zh/articledetails/410hm6ew20l2.html)
+append_entries: 2
+Finish: 2024-04-08 14:09:26.251363
