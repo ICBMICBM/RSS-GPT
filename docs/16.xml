@@ -4,6 +4,39 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>Delphi：为什么 Ethena 是我们本轮牛市的投资重点</title>
+<link>https://www.theblockbeats.info/news/52817</link>
+<guid>https://www.theblockbeats.info/news/52817</guid>
+<content:encoded><![CDATA[
+<div> 这些信息是积极的。<br><br>摘要：Delphi解释了为什么Ethena的设计很巧妙，USDe与以往算法稳定币不同，其改进之处，以及USDe可能面临的风险。文章指出，USDe是最具扩展性的完全抵押稳定币，具有高利润潜力，同时存在资金费率、抵押品流动性、信用风险等风险。建议关注USDe的长期资金费率、抵押品流动性以及可能的监管风险。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>在本文中，Delphi 解释了为什么 Ethena 的设计很巧妙，为什么 USDe 不同于早前的算法稳定币，相较于之前类似的协议有何改进，以及最重要的 ——Ethena 的风险，USDe 究竟会不会遇到 UST（Terra 的稳定币）时刻？中文版由律动 BlockBeats 编译发布。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.theblockbeats.info/news/52817">https://www.theblockbeats.info/news/52817</a></p>
+<p><strong>文章作者：</strong></p><p>José Maria Macedo（Delphi Labs 创始人）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>José Maria Macedo（Delphi Labs 创始人）：</strong>无论是对于 Delphi Ventures 还是我个人，Ethena 都是我们本周期最坚信的投资之一。我相信：
+- sUSDe 将大规模提供加密货币中最高的美元收益率；
+- USDe 将在 2024 年成为 USDC/USDT 之外最大的稳定币；
+- Ethena 将成为所有加密货币中收入最高的项目。
+
+Ethena 中用于支撑稳定币的资金被用来质押 ETH，并在永续合约中做空，在此过程中保持 Delta 中性敞口，而该头寸的两条边通常会提供收益，sUSDE 收益率 = stETH 收益率 + 资金费率（目前为 35.4%）。通过这种方式，Ethena 有效地结合了加密货币中「实际收益」的两个最大来源：ETH 质押（约 35 亿美元 / 年）和永续合约资金费率（ETH/SOL/BTC 之间的 OI 每年约 370 亿美元，平均收益约 12%）。
+
+在我看来，USDe 是有史以来最具扩展性的完全抵押稳定币。它还没有完全去中心化，也不可能完全去中心化，但处于平衡中一个非常有趣的点。Ethena 的利润也非常高，已成为加密货币领域最赚钱的 dApp，超越了所有 DeFi，30 天收入仅次于以太坊和 Tron。Ethena 的盈利能力来自于其产生的所有收益。目前，这笔资金将存入保险基金，但最终人们预计这笔资金将按一定比例分配给质押用户。
+
+人们关注的最常见的 FUD 是资金费率风险，即如果资金长期处于负值，我们会看到类似 UST 的脱锚吗？对此，值得指出：
+- 从历史上看，资金费率通常都是正的
+- 有一个保险基金（IF）来弥补负资金时期
+- 即使在最坏情况下，即资金在前所未有的一段时间内为负且 IF 完全耗尽，USDe 也完全由外部资产抵押，且内置了一定程度的「反 - 反身性」，使其于 UST 非常不同。
+
+还有其他风险需要考虑：
+- 历史资金费率数据不包括 Ethena 本身。如果 USDe 相对于整体持仓量变得足够大，它可能：a) 显着降低平均资金费率 b) 加剧资金费率波动，这可能导致暴力平仓、糟糕的执行和潜在的 USDe 脱锚。
+- LST 抵押品流动性相对较差，可能会被大幅罚没和 / 或脱锚。足够暴力的脱锚可能会导致 Ethena 被清算并遭受损失。
+- Ethena 对 CEX 的空头交易对手方存在信用风险。交易对手暴雷可能意味着：a) Ethena 最终成为净多头 b) USDe 根据其对特定交易对手的损益敞口进行脱锚。
+- 一旦开始添加 USDe 循环杠杆，所有上述风险都可能会被放大并具有系统性。
+- Ethena Labs 和相关多签拥有资产控制权
+- Ethena 可能受到监管机构禁令并要求冻结资产，从而间接控制一堆 ETH/stETH</p><a href="https://www.theblockbeats.info/news/52817">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-08T06:14:20+00:00</pubDate>
+</item>
 
 <item>
 <title>【长推】全网最深入的比特币生态防钓鱼指南</title>
