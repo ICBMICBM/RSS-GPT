@@ -20697,3 +20697,18 @@ Existing_entries: 414
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-08 12:52:54.306904
+------------------------------------------------------
+Started: 2024-04-08 13:19:32.653562
+Existing_entries: 414
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 35
+Summarized using GPT-3.5-turbo-1106
+Append: [DeFi Firm 1inch Introduces Web3 Debit Card in Partnership with Mastercard and Baanx](https://www.coindesk.com/business/2024/04/08/defi-firm-1inch-introduces-web3-debit-card-in-partnership-with-mastercard-and-baanx/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 58
+Summarized using GPT-3.5-turbo-1106
+Append: [Chainalysis Hires Former IRS Criminal Investigations Chief Jim Lee](https://www.coindesk.com/business/2024/04/08/chainalysis-hires-former-irs-criminal-investigations-chief-jim-lee/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 35
+Summarized using GPT-3.5-turbo-1106
+Append: [JPMorgan CEO Jamie Dimon's Annual Letter: Interest Rates Could Go Far Higher Than Many Expect](https://www.coindesk.com/markets/2024/04/08/jpmorgan-ceo-jamie-dimons-annual-letter-interest-rates-could-go-far-higher-than-many-expect/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 3
+Finish: 2024-04-08 13:19:40.382582

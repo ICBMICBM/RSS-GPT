@@ -24796,3 +24796,15 @@ Existing_entries: 1001
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-08 12:52:47.526551
+------------------------------------------------------
+Started: 2024-04-08 13:19:04.008374
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 295
+Summarized using GPT-3.5-turbo-1106
+Append: [TON Society和HumanCode合作推出500万美元的“手掌扫描身份认证”激励计划](https://www.panewslab.com/zh/sqarticledetails/38ar45wf.html)
+Token length: 11505
+Summarized using GPT-3.5-turbo-1106
+Append: [AI、DePIN、Sol生态三重光环加身，深入了解发币在即的io.net](https://www.panewslab.com/zh/articledetails/xaj34k28.html)
+append_entries: 2
+Finish: 2024-04-08 13:19:14.342321
