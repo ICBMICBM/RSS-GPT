@@ -23398,3 +23398,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [【长推】全网最深入的比特币生态防钓鱼指南](https://twitter.com/OneKeyCN/status/1776964460487540953)
 append_entries: 1
 Finish: 2024-04-08 05:49:39.291177
+------------------------------------------------------
+Started: 2024-04-08 05:56:56.776553
+Existing_entries: 1001
+Fetching from https://www.chainfeeds.xyz/rss
+append_entries: 0
+Finish: 2024-04-08 05:56:57.246712

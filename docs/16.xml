@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>【长推】全网最深入的比特币生态防钓鱼指南</title>
 <link>https://twitter.com/OneKeyCN/status/1776964460487540953</link>
 <guid>https://twitter.com/OneKeyCN/status/1776964460487540953</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：这些信息是积极的<br>OneKey中文提供了保护比特币资产安全的关键要点。首先，要注意私钥的离线储存安全，网址的可信性以及电脑的防护。其次，要明确交易的输入和输出，并核对是否符合预期。此外，要小心签名类型和脚本的使用，尤其是在Taproot升级后。最后，关注安全动态，注意最新的钓鱼手法并采取防范措施。 <div>
+<div> <br /><br />摘要：这些信息是积极的<br />OneKey中文提供了保护比特币资产安全的关键要点。首先，要注意私钥的离线储存安全，网址的可信性以及电脑的防护。其次，要明确交易的输入和输出，并核对是否符合预期。此外，要小心签名类型和脚本的使用，尤其是在Taproot升级后。最后，关注安全动态，注意最新的钓鱼手法并采取防范措施。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>Taproot 与 Segwit 升级一起为 BTC 网络引入了新特性，也让区块数据间接扩容，成为 2023 年至今 BTC 生态爆发的导火索。然而，新资产与新特性的引入也伴随着新的安全挑战。OneKey 中文深入浅出告诉大家如何在安全基础设施有限的 BTC 生态最大程度保护资产安全，预防钓鱼。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/OneKeyCN/status/1776964460487540953">https://twitter.com/OneKeyCN/status/1776964460487540953</a></p>
 <p><strong>文章作者：</strong></p><p>OneKey 中文</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>OneKey 中文：</strong>1. 加密安全基本功：注意私钥离线储存安全，注意是否为信任的网址，注意保护电脑不要中招木马病毒等等。
@@ -18,10 +19,8 @@
 4. 使用脚本要小心：Taproot 升级后，脚本地址和用户私钥地址是一样的。假如盗窃者试图用私钥地址欺骗，收到的资产可以直接转走；假如是真的脚本地址，那要看他们是否公开了脚本地址的全部内容。假如公布不完整的内容，尽管使用时用户可以正常地签名操作转移资产，也可能隐藏了一个或多个恶意 UTXO 解锁条件；即使开源了整个脚本内容，目前市面上的钱包也并没有验证脚本 MAST 完整性和输出地址的对应性功能，需要懂技术的用户自行使用 Taproot 算法确认，或者十分信任这个项目和团队。
 5. 关注安全动态，注意防患于未然：关注安全领域的头部账号，保证自己能跟上最新钓鱼手法，第一时间获得警告。关于防患于未然，可以迁移其他地方的安全经验。例如，应要核对尽可能完整的地址。</p><a href="https://twitter.com/OneKeyCN/status/1776964460487540953">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-08T05:33:21+00:00</pubDate>
 </item>
-
 <item>
 <title>【英文长推】为什么 Solana 交易会失败？如何改善用户体验？</title>
 <link>https://twitter.com/_nishil_/status/1777048334664081548</link>
@@ -11519,16 +11518,6 @@ RPGF 用于资助项目建成后的公共产品。
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，融资使用于招聘扩大团队、产品、工程、业务开发和营销等跨职能部门，目标团队增至约 80 人。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，以 10 亿美元估值。Polychain Capital 领投，其他参投方包括 Animoca Brands、Hashkey Capital 等。融资通过未来代币或 SAFT 协议进行。筹资将用于扩大团队、招募人才及业务发展。<br /><br />这些信息是积极的 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
