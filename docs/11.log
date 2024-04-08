@@ -20670,3 +20670,15 @@ Existing_entries: 411
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-08 11:54:00.217870
+------------------------------------------------------
+Started: 2024-04-08 12:11:09.253034
+Existing_entries: 411
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 193
+Summarized using GPT-3.5-turbo-1106
+Append: [First Mover Americas: BTC Reclaims $72K; Meme Coins Rally](https://www.coindesk.com/markets/2024/04/08/first-mover-americas-btc-reclaims-72k-meme-coins-rally/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 54
+Summarized using GPT-3.5-turbo-1106
+Append: [Crypto VC Firm Polychain Tops Up AI Platform Ritual's $25M Funding Round With 'Multimillion Dollar' Investment](https://www.coindesk.com/business/2024/04/04/crypto-vc-firm-polychain-tops-up-ai-platform-rituals-25m-funding-round-with-multimillion-dollar-investment/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 2
+Finish: 2024-04-08 12:11:13.868722
