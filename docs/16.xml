@@ -4,6 +4,33 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>【长推】SAGA 经济模型解析：通往可负担区块之路</title>
+<link>https://twitter.com/Loki_Zeng/status/1776632458639020343</link>
+<guid>https://twitter.com/Loki_Zeng/status/1776632458639020343</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的<br>加密研究员0xLoki分析了SAGA的商业模式，包括"音乐椅定价"机制和收费模式。SAGA的定价机制通过内卷提供便宜的区块空间，而用户不需要直接支付网络费用，应用可以自行决定收费方式。Saga Pegasus测试网已有数百个协议，主要涉及游戏、NFT、娱乐和DeFi。代币分配中有75%在Binance Launchpool，1.5%空投，激励测试网上还有更多项目。生态系统和基金会份额可以忽略。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>加密研究员 0xLoki 撰文剖析 SAGA 的商业模式，包括「音乐椅定价」机制和自定义的收费模式，并简要介绍 SAGA 的代币分配和后续机会。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/Loki_Zeng/status/1776632458639020343">https://twitter.com/Loki_Zeng/status/1776632458639020343</a></p>
+<p><strong>文章作者：</strong></p><p>0xLoki</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>0xLoki：</strong>SAGA 商业模式的本质是向下游需求方分发区块空间，涉及到的关键问题是如何定价，SAGA 采用了独有的「音乐椅定价」：
+1）假设初始状态下有 12 个验证者，SAGA 希望从中选择 8 个进行委托验证
+2）首先，SAGA 按照质押率排名从中选取一定数量的验证者进入出价环节，假设为 10，那么排名第 11、12 的验证者将被淘汰
+3）接下来 10 个验证者进行报价，按照报价从低到高选择其中 8 个作为委托验证人，价格按其中最高者确定。
+这个机制可以实现一个目标：通过内卷提供尽可能便宜的区块空间（或有效定价）。
+
+以上述案例为例，如果验证者想获取奖励，必须确保自己进入前 8。第一步需要确保质押量足够，第二步通过尽可能报低价入围。逐渐地，大部分验证者会发现这是无止境的内卷，价格逐步向 0。考虑到验证者成本（包括代币的机会成本），更稳妥的方式是报一个略高于成本的价格。所以实际过程中定价会接近「成本 + 少量利润」，长期看会处于一个非常低的区间，并不断淘汰高成本的验证者。
+
+SAGA 的收费模式也和其他公链有区别，用户不需要直接支付网络费用，应用可以自行决定收费方式（如订阅制、买断制、广告收费甚至完全免费），提供了更多灵活性。
+
+SAGA 的激励测试网 Saga Pegasus 目前已经有几百个协议。截至 2024 年 4 月 1 日，该计划包括 350 个项目，其中 80% 是游戏，10% 是 NFT 和娱乐，10% 是 DeFi。这个数据和经济模型体现了一致性 ——SAGA 更适合轻资产、高用户数量、高用户频次的场景。
+
+最后需要关注的是代币分配，按照 Binance 公布的信息，初始流通量只有 4.5% 的 Launchpool 和 1.5% 的空投，生态系统和基金会份额基本可以忽略：
+1）75% 的筹码在 Binance Launchpool，抛压非常有限
+2）总量 15.5% 的空投只发放了 1.5%，很可能后面还有很多轮，再考虑到激励测试网上还有几百个项目（可能发币），发币后 SAGA 仍值得继续参与（尤其是质押）。</p><a href="https://twitter.com/Loki_Zeng/status/1776632458639020343">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-08T07:18:00+00:00</pubDate>
+</item>
 
 <item>
 <title>Delphi：为什么 Ethena 是我们本轮牛市的投资重点</title>
