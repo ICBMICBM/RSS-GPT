@@ -24262,3 +24262,21 @@ Summarized using GPT-3.5-turbo-1106
 Append: [一季度钓鱼攻击造成全网损失1.73亿美元，新型欺诈让人防不胜防、束手无策？](https://www.panewslab.com/zh/articledetails/95s19g30xnl4.html)
 append_entries: 3
 Finish: 2024-04-08 00:58:23.333872
+------------------------------------------------------
+Started: 2024-04-08 01:51:08.661453
+Existing_entries: 1003
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 1670
+Summarized using GPT-3.5-turbo-1106
+Append: [昨夜今晨重要资讯（4月7日-4月8日）](https://www.panewslab.com/zh/sqarticledetails/zxzq8lf1.html)
+Token length: 86
+Summarized using GPT-3.5-turbo-1106
+Append: [Base TVL突破40亿美元，续创历史新高](https://www.panewslab.com/zh/sqarticledetails/uc8050ji.html)
+Token length: 135
+Summarized using GPT-3.5-turbo-1106
+Append: [Atomicals Protocol：ARC20代币拆分解决方案Beta版本进入测试阶段](https://www.panewslab.com/zh/sqarticledetails/euey5a3r.html)
+Token length: 1049
+Summarized using GPT-3.5-turbo-1106
+Append: [下一个NFT牛市，由Base引领？](https://www.panewslab.com/zh/articledetails/dz9q9uso.html)
+append_entries: 4
+Finish: 2024-04-08 01:51:19.362513
