@@ -24718,3 +24718,15 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-08 10:53:54.644042
+------------------------------------------------------
+Started: 2024-04-08 11:04:30.488808
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 1344
+Summarized using GPT-3.5-turbo-1106
+Append: [SAGA经济模型解析：采用“音乐椅定价”，通往可负担区块之路](https://www.panewslab.com/zh/articledetails/cyctd5za.html)
+Token length: 4129
+Summarized using GPT-3.5-turbo-1106
+Append: [PA日报｜比特币突破72000美元；HashKey Group已获得百慕大牌照](https://www.panewslab.com/zh/articledetails/u054zu3t.html)
+append_entries: 2
+Finish: 2024-04-08 11:04:38.803993
