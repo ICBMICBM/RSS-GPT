@@ -20523,3 +20523,12 @@ Existing_entries: 406
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-08 08:26:27.669030
+------------------------------------------------------
+Started: 2024-04-08 08:34:14.709323
+Existing_entries: 406
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 21
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin Tops $71K, Ordinals Bets Rise Ahead of Halving](https://www.coindesk.com/markets/2024/04/08/bitcoin-tops-71k-ordinals-bets-rise-ahead-of-halving/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-08 08:34:18.315513
