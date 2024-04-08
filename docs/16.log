@@ -23581,3 +23581,15 @@ Existing_entries: 1000
 Fetching from https://www.chainfeeds.xyz/rss
 append_entries: 0
 Finish: 2024-04-08 10:46:44.529324
+------------------------------------------------------
+Started: 2024-04-08 10:54:05.373531
+Existing_entries: 1000
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 1023
+Summarized using GPT-3.5-turbo-1106
+Append: [Pantera 合伙人：Web3 项目创始人该如何优化代币分配？](https://foresightnews.pro/article/detail/57495)
+Token length: 1083
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文】比特币上的创新和减半会给费用结构带来哪些变化？](https://blog.bitfinex.com/education/part-5-innovation-on-bitcoin-and-structure-of-fees/)
+append_entries: 2
+Finish: 2024-04-08 10:54:12.117185
