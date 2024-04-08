@@ -24328,3 +24328,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Arthur Hayes将持有的GMX全部转至新建地址，其中部分已被转至CEX](https://www.panewslab.com/zh/sqarticledetails/8698nqj7.html)
 append_entries: 1
 Finish: 2024-04-08 02:55:56.887456
+------------------------------------------------------
+Started: 2024-04-08 03:11:17.671170
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 8060
+Summarized using GPT-3.5-turbo-1106
+Append: [对话io.net：闲置GPU再利用，去中心化AI算力平台如何实现？](https://www.panewslab.com/zh/articledetails/44jzpxc7.html)
+append_entries: 1
+Finish: 2024-04-08 03:11:23.694660
