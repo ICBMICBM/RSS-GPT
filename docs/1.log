@@ -24541,3 +24541,15 @@ Existing_entries: 1001
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-08 07:24:53.069288
+------------------------------------------------------
+Started: 2024-04-08 07:32:14.621575
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 348
+Summarized using GPT-3.5-turbo-1106
+Append: [研究：去年11月至今年2月期间推出的Solana预售代币中有一半是恶意的](https://www.panewslab.com/zh/sqarticledetails/6qua92k5.html)
+Token length: 3542
+Summarized using GPT-3.5-turbo-1106
+Append: [全同态加密叙事已到来？三大FHE热门项目创始人观点一览](https://www.panewslab.com/zh/articledetails/unsa38t0.html)
+append_entries: 2
+Finish: 2024-04-08 07:32:23.192093
