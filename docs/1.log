@@ -24295,3 +24295,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [预警：有钓鱼广告上Etherscan投放广告，请勿点击](https://www.panewslab.com/zh/sqarticledetails/702lnrh6.html)
 append_entries: 3
 Finish: 2024-04-08 02:16:06.987149
+------------------------------------------------------
+Started: 2024-04-08 02:33:00.062615
+Existing_entries: 1003
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 536
+Summarized using GPT-3.5-turbo-1106
+Append: [Hashkey Group CEO：计划今年进行A+或B轮融资，金额有机会高于上一轮](https://www.panewslab.com/zh/sqarticledetails/teyvc5z4.html)
+append_entries: 1
+Finish: 2024-04-08 02:33:05.715284
