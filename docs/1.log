@@ -24685,3 +24685,12 @@ Existing_entries: 1001
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-08 09:54:32.128918
+------------------------------------------------------
+Started: 2024-04-08 10:09:49.197547
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 1047
+Summarized using GPT-3.5-turbo-1106
+Append: [加密 VC 2024 Q1 数据分析：资金正在涌入哪些赛道？](https://www.panewslab.com/zh/articledetails/3edcngyd.html)
+append_entries: 1
+Finish: 2024-04-08 10:10:58.186056
