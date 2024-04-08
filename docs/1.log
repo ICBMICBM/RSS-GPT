@@ -24763,3 +24763,12 @@ Existing_entries: 1001
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-08 11:46:26.425042
+------------------------------------------------------
+Started: 2024-04-08 11:53:48.931653
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 157
+Summarized using GPT-3.5-turbo-1106
+Append: [币安将于今晚23:30上线Tensor(TNSR)](https://www.panewslab.com/zh/sqarticledetails/601iybp1.html)
+append_entries: 1
+Finish: 2024-04-08 11:53:53.694173
