@@ -20601,3 +20601,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bitcoin Halving Is Not a Volatility Event, Analyst Says as Implied Volatility Rises](https://www.coindesk.com/markets/2024/04/08/bitcoin-halving-is-not-a-volatility-event-analyst-says-as-implied-volatility-rises/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-04-08 10:11:06.600145
+------------------------------------------------------
+Started: 2024-04-08 10:29:55.900294
+Existing_entries: 410
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-04-08 10:29:56.490376
