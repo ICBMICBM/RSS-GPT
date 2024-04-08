@@ -25237,3 +25237,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [数据：4月8日灰度GBTC净流出3.03亿美元](https://www.panewslab.com/zh/sqarticledetails/o40o8ty4.html)
 append_entries: 1
 Finish: 2024-04-08 23:48:31.397688
+------------------------------------------------------
+Started: 2024-04-08 23:56:08.152033
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+append_entries: 0
+Finish: 2024-04-08 23:56:10.008336
