@@ -4,6 +4,28 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>【英文长推】为什么 Solana 交易会失败？如何改善用户体验？</title>
+<link>https://twitter.com/_nishil_/status/1777048334664081548</link>
+<guid>https://twitter.com/_nishil_/status/1777048334664081548</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。加密研究员 Nishil 指出，Solana 上的交易失败中只有约8%来自真实用户，其余为机器人套利交易。最近 Solana 遇到拥塞问题是由于未送达的交易，即交易未能到达区块领导者并被丢弃。虽然 Solana 已升级网络层为使用QUIC，但存在着限制连接的逻辑漏洞，导致随机丢弃连接。团队正在修复网络层问题，但仍需时间。解决问题仍有挑战，包括当前修复措施的效率、未来发布的解决方案是否有效以及网络垃圾交易问题。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>加密研究员 nishil 撰文分析 Solana 上的交易失败的主要原因，以及 Solana 网络未来仍待解决的问题，并指出丢弃的交易才是造成 Solana 网络拥塞的主要原因。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/_nishil_/status/1777048334664081548">https://twitter.com/_nishil_/status/1777048334664081548</a></p>
+<p><strong>文章作者：</strong></p><p>Nishil</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Nishil：</strong>失败交易中只有约 8% 是由真实用户进行的，其余都是链上机器人的套利交易。套利者在链上发送垃圾交易，因为与成功套利的最终回报相比，垃圾交易的成本微乎其微。因此，这些失败交易并不意味着有效性问题，区块链正在按预期运行，这些只是由于交易条件不符合而失败的少数机器人交易，并不是 Solana 目前用户体验不佳的原因。事实上，自去年 11 月以来，Solana 的交易失败率一直在 50% 左右，之前也差不多。
+
+过去几天 Solana 拥塞的主要原因是「未送达的交易」。这些交易未能到达区块领导者（block leader），且由于网络层问题被丢弃。网络层是互联网的通信层，用于将数据包从一个连接发送到另一个连接。Solana 最近升级为使用 QUIC 作为其网络层。由于 Solana 具有连续的区块生产且没有内存池，失去连接将意味着交易不会写入区块。QUIC 使区块领导者能根据特定标准切断某些用户连接或限制其速率。因此，区块领导者现在可以在高需求期间断开某些连接。这种新架构可以防止 Solana 在网络活动增加时停止运行。它可能会异常拥堵，但至少不会停止。
+
+那么，既然 QUIC 设计得这么好，为什么 Solana 这么糟糕？问题在于，尽管区块领导者可以限制某些连接，但限制哪些连接的逻辑实现得很差，而且存在很多漏洞。目前，这些连接不会按照设定标准被丢弃（如丢弃所有费用低于 x 的连接），而是随机丢弃。从本质上讲，要获胜，必须比其他人发送更多垃圾交易，而且由于有多个机器人会向网络发送连接请求，普通用户建立连接并完成交易变得越来越困难。这就是主要问题的要点，Firedancer、Anza、Solana 等团队正在努力修复网络层，据说一些主要补丁将在未来几周内发布。
+
+那么，这就能解决问题了吗？不完全是，前方的路还很长，因为：
+1）无法保证当前的修复措施在防止 Solana 出现下一次拥塞问题方面的效率，只有看到实际效果时才能知道；
+2）Jump Crypto 的 Firedancer 可能确实可以解决这些问题，但它要到今年年底才会发布；
+3）网络垃圾交易问题：Solana 的交易经济学存在许多问题，并且无法阻止恶意用户发送垃圾交易。【原文为英文】</p><a href="https://twitter.com/_nishil_/status/1777048334664081548">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-08T04:20:56+00:00</pubDate>
+</item>
 
 <item>
 <title>几分钟速通 RGB 与 RGB++ 协议设计：白话说明书</title>
