@@ -25228,3 +25228,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [数据：4月8日贝莱德IBIT交易量16.3亿美元，灰度GBTC 6.95亿美元](https://www.panewslab.com/zh/sqarticledetails/4jvf3615.html)
 append_entries: 1
 Finish: 2024-04-08 23:40:57.011743
+------------------------------------------------------
+Started: 2024-04-08 23:48:27.342606
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 89
+Summarized using GPT-3.5-turbo-1106
+Append: [数据：4月8日灰度GBTC净流出3.03亿美元](https://www.panewslab.com/zh/sqarticledetails/o40o8ty4.html)
+append_entries: 1
+Finish: 2024-04-08 23:48:31.397688
