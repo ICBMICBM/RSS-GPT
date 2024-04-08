@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>万字解读并行 EVM ：如何突破区块链性能瓶颈？</title>
 <link>https://mp.weixin.qq.com/s/DfABge5nww7snxSbV85l-A</link>
 <guid>https://mp.weixin.qq.com/s/DfABge5nww7snxSbV85l-A</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Gryphsis Academy发布了关于并行EVM赛道的研究报告，涵盖了行业综述、技术实现路径、行业增长驱动力、存在的问题以及标的梳理。并行EVM的技术原理包括虚拟机和并行执行机制，共性包括乐观并行化模型和链下扩容机制。未来有更多项目将加入竞争，L1和L2赛道会有不同的发展方向。现阶段，Neon、Monad、Canto、Eclipse、Fuel和Lumio值得关注，可能会诞生投资机会。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。Gryphsis Academy发布了关于并行EVM赛道的研究报告，涵盖了行业综述、技术实现路径、行业增长驱动力、存在的问题以及标的梳理。并行EVM的技术原理包括虚拟机和并行执行机制，共性包括乐观并行化模型和链下扩容机制。未来有更多项目将加入竞争，L1和L2赛道会有不同的发展方向。现阶段，Neon、Monad、Canto、Eclipse、Fuel和Lumio值得关注，可能会诞生投资机会。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>Gryphsis Academy 发布研究报告，从行业综述、技术实现路径、行业增长驱动力、存在的问题以及标的梳理几方面对并行 EVM 赛道进行全面解读。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/DfABge5nww7snxSbV85l-A">https://mp.weixin.qq.com/s/DfABge5nww7snxSbV85l-A</a></p>
 <p><strong>文章作者：</strong></p><p>@leesper6</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Gryphsis Academy：</strong>并行 EVM 的技术原理可以拆解为虚拟机和并行执行机制两个组成部分。在区块链语境下，虚拟机集成了一套指令集，用于分布式地执行合约，运行 dApp；并行执行机制则主要研究如何最大限度的提高交易执行速度，同时保证交易结果正确。并行执行机制分为消息传递、共享内存、和严格状态访问列表三大类。共享内存又分为内存锁模型和乐观并行化。无论哪种机制均提高了技术的复杂性。
@@ -20,10 +21,8 @@
 
 并行 EVM 处在发展早期阶段， Neon、Monad、Canto、Eclipse、Fuel 和 Lumio 还处于价值未被充分发现的阶段。从 Monad 的营销风格来看，不但其本身值得关注，未来其生态 meme 项目也值得留意，可能会有因炒作热度产生的暴富神话；Canto 已满足「好叙事」和「低市值」的条件，是否是一个好的投资标的还需对其各项指标进行深入研究；Fuel 代表着模块化区块链的热门发展方向，可能会诞生新的投资机会。</p><a href="https://mp.weixin.qq.com/s/DfABge5nww7snxSbV85l-A">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-08T08:04:04+00:00</pubDate>
 </item>
-
 <item>
 <title>【长推】SAGA 经济模型解析：通往可负担区块之路</title>
 <link>https://twitter.com/Loki_Zeng/status/1776632458639020343</link>
@@ -11565,16 +11564,6 @@ RPGF 用于资助项目建成后的公共产品。
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 的开发商 Polyhedra Network 完成了 2000 万美元的战略融资，被评估为 10 亿美元，Polychain Capital 领投，同时有其他投资者参与。融资将用于团队扩大和招聘人员。<br /><br />这些信息是积极的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。zkBridge开发商Polyhedra Network以10亿美元估值完成2000万美元战略融资，由Polychain Capital领投，其他投资者包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium和Mapleblock Capital。融资将用于招聘跨职能部门人员，扩大团队规模从约50人到约80人。所有融资都是通过未来代币或SAFT的简单协议进行的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
