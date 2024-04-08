@@ -19380,3 +19380,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bitcoin Fog Case Confirms Chainalysis Analytics is Reliable and Admissible in Court](https://www.chainalysis.com/blog/bitcoin-fog-daubert-hearing-chainalysis/)
 append_entries: 1
 Finish: 2024-04-08 19:14:49.961709
+------------------------------------------------------
+Started: 2024-04-08 19:22:01.114678
+Existing_entries: 24
+Fetching from https://blog.chainalysis.com/feed
+append_entries: 0
+Finish: 2024-04-08 19:22:01.509552
