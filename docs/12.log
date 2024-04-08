@@ -20697,3 +20697,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Coinbase Scores Knockout! Court Says Crypto Sales Aren’t Securities](https://bitcoinist.com/coinbase-court-says-crypto-sales-arent-securities/)
 append_entries: 1
 Finish: 2024-04-08 20:17:07.334588
+------------------------------------------------------
+Started: 2024-04-08 20:27:48.348529
+Existing_entries: 326
+Fetching from https://bitcoinist.com/feed
+append_entries: 0
+Finish: 2024-04-08 20:27:48.498435
