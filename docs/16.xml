@@ -4,6 +4,25 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>万字解读并行 EVM ：如何突破区块链性能瓶颈？</title>
+<link>https://mp.weixin.qq.com/s/DfABge5nww7snxSbV85l-A</link>
+<guid>https://mp.weixin.qq.com/s/DfABge5nww7snxSbV85l-A</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Gryphsis Academy发布了关于并行EVM赛道的研究报告，涵盖了行业综述、技术实现路径、行业增长驱动力、存在的问题以及标的梳理。并行EVM的技术原理包括虚拟机和并行执行机制，共性包括乐观并行化模型和链下扩容机制。未来有更多项目将加入竞争，L1和L2赛道会有不同的发展方向。现阶段，Neon、Monad、Canto、Eclipse、Fuel和Lumio值得关注，可能会诞生投资机会。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Gryphsis Academy 发布研究报告，从行业综述、技术实现路径、行业增长驱动力、存在的问题以及标的梳理几方面对并行 EVM 赛道进行全面解读。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/DfABge5nww7snxSbV85l-A">https://mp.weixin.qq.com/s/DfABge5nww7snxSbV85l-A</a></p>
+<p><strong>文章作者：</strong></p><p>@leesper6</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Gryphsis Academy：</strong>并行 EVM 的技术原理可以拆解为虚拟机和并行执行机制两个组成部分。在区块链语境下，虚拟机集成了一套指令集，用于分布式地执行合约，运行 dApp；并行执行机制则主要研究如何最大限度的提高交易执行速度，同时保证交易结果正确。并行执行机制分为消息传递、共享内存、和严格状态访问列表三大类。共享内存又分为内存锁模型和乐观并行化。无论哪种机制均提高了技术的复杂性。
+
+一方面，并行 EVM 有技术原理上的共性。首先，乐观并行化模型是 L1 公链的共识；其次，以 Fuel 为代表的项目坚信链下扩容机制只有模块化后才能发挥最大性能；最后，一众 L2 项目则通过整合并行 L1 公链来提高交易吞吐量，实现跨生态扩容能力。另一方面，并行区块链又有自己独特的技术建树。哪怕采用的是同一种并行执行模型，不同的团队也采用了不同的架构设计模式、数据模型或预处理机制。
+
+展望未来，还会有更多项目加入并行 EVM 的竞争。L1 赛道会形成并行 EVM 和并行非 EVM 两大阵营在处理器资源、存储资源、网络资源、文件系统资源和设备资源全面竞争的格局，还会诞生更多与性能提升有关的新叙事。而 L2 赛道会朝着区块链虚拟机模拟器或模块化区块链的方向发展。
+
+并行 EVM 处在发展早期阶段， Neon、Monad、Canto、Eclipse、Fuel 和 Lumio 还处于价值未被充分发现的阶段。从 Monad 的营销风格来看，不但其本身值得关注，未来其生态 meme 项目也值得留意，可能会有因炒作热度产生的暴富神话；Canto 已满足「好叙事」和「低市值」的条件，是否是一个好的投资标的还需对其各项指标进行深入研究；Fuel 代表着模块化区块链的热门发展方向，可能会诞生新的投资机会。</p><a href="https://mp.weixin.qq.com/s/DfABge5nww7snxSbV85l-A">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-08T08:04:04+00:00</pubDate>
+</item>
 
 <item>
 <title>【长推】SAGA 经济模型解析：通往可负担区块之路</title>

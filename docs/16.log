@@ -23512,3 +23512,12 @@ Existing_entries: 1000
 Fetching from https://www.chainfeeds.xyz/rss
 append_entries: 0
 Finish: 2024-04-08 08:49:07.527488
+------------------------------------------------------
+Started: 2024-04-08 08:56:24.631867
+Existing_entries: 1000
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 862
+Summarized using GPT-3.5-turbo-1106
+Append: [万字解读并行 EVM ：如何突破区块链性能瓶颈？](https://mp.weixin.qq.com/s/DfABge5nww7snxSbV85l-A)
+append_entries: 1
+Finish: 2024-04-08 08:56:28.703922
