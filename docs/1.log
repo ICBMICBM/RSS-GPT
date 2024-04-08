@@ -25195,3 +25195,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-08 22:58:48.180064
+------------------------------------------------------
+Started: 2024-04-08 23:14:53.185366
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 59
+Summarized using GPT-3.5-turbo-1106
+Append: [币安理财、闪兑、杠杆、合约上线Tensor（TNSR）](https://www.panewslab.com/zh/sqarticledetails/sen5999t.html)
+append_entries: 1
+Finish: 2024-04-08 23:14:56.691358
