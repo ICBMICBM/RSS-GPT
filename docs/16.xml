@@ -4,6 +4,27 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>几分钟速通 RGB 与 RGB++ 协议设计：白话说明书</title>
+<link>https://mp.weixin.qq.com/s/PD0_cz8b-Sv00CMS2qww-w</link>
+<guid>https://mp.weixin.qq.com/s/PD0_cz8b-Sv00CMS2qww-w</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。RGB 协议是一种特殊的 P2P 资产协议，与支付通道类似，用户需自行验证转账。RGB++ 则与支持 UTXO 的公链结合，提供更多兼容性选择。单用密封和比特币提供高安全性和抗审查性。RGB++ 引入信任假设，简化跨链操作并降低成本。同构绑定容器模型需要支持 UTXO 模型的公链。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>随着 RGB++ 及相关资产发行的火热，关于 RGB 与 RGB++ 协议原理的讨论逐渐成为更多人关注的话题。极客 web3 联创 Faust 发表关于 RGB 与 RGB++ 的简短白话解读，帮助读者更好、更直观的理解二者。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/PD0_cz8b-Sv00CMS2qww-w">https://mp.weixin.qq.com/s/PD0_cz8b-Sv00CMS2qww-w</a></p>
+<p><strong>文章作者：</strong></p><p>Faust</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Faust：</strong>RGB 协议是一种特殊的 P2P 资产协议，是比特币链下的计算系统，某些方面与支付通道类似：用户要亲自运行客户端，自行验证与自己有关的转账行为。这是因为 RGB 协议为了保障隐私，没有采用比特币和以太坊等传统区块链中的「共识协议」。然而，大家只在本地存储与自己有关的资产数据，不知道别人的资产状况，这在保护隐私的同时构成了「数据孤岛」。如果有人要给你转账，必须让他先出示资产证明，回溯资产从初始发行到多次转手的历史来源，确定要转给你的 Token 没问题。
+
+RGB 协议采用名为「single use seal」的思想，把 RGB 资产与比特币链上 UTXO 绑定起来。这需要在比特币链上发布 Commitment，并用到 OP_Return 操作码。在 RGB 协议的 workflow 中，比特币充当了 RGB 网络的历史日志，但只记录 hash/Merkle root，而非交易数据本身。由于采用了客户端验证和一次性密封，RGB 协议具有极高的安全性；RGB 网络由动态的用户客户端以 P2P、无共识的形态组成，具有极强的抗审查性。当然，这带来了用户的验证压力。
+
+RGB++ 协议提出了新思路，它把 RGB 协议与 CKB、Cardano、Fuel 等支持 UTXO 的公链结合起来，由后者作为资产验证层与数据存储层，相当于把客户端验证替换为「第三方去中心化平台验证」。RGB++ 和原始的 RGB 协议理论上可以彼此兼容。
+
+CKB 和 Cardano 等公链有自己的拓展型 UTXO，比 BTC 链上的 UTXO 多了可编程性。「同构绑定」就是将拓展型 UTXO 作为 RGB 资产数据的「容器」，把 RGB 资产参数写入这些容器。当 RGB 资产交易发生时，对应资产容器也可以呈现出相似特征，就像实体和影子的关系一样。这种做法本质是在隐私和产品易用性之间做取舍，如果你追求极致的安全与隐私，可以切换回传统 RGB 模式；如果你不在意这些，就可以放心采用 RGB++ 模式。
+
+RGB++ 还引入了一个重要的信任假设：用户要乐观的认为，CKB/Cardano 链，或由大量节点靠共识协议组成的网络平台，是可靠无误的。此外，在 RGB++ 协议下，用户无需跨链即可直接用比特币账户操作自己在 CKB 等链上的 RGB 资产容器。可在多笔 RGB 转账进行后，再汇总发送一个 Commitment 到比特币链上，降低使用成本，即「交易折叠」。但要注意，同构绑定采用的「容器」需要支持 UTXO 模型的公链，或在状态存储上有类似特征的基础设施。</p><a href="https://mp.weixin.qq.com/s/PD0_cz8b-Sv00CMS2qww-w">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-08T03:04:04+00:00</pubDate>
+</item>
 
 <item>
 <title>本周代币解锁数据：APT、GLMR 和 EUL 等将迎来一次性大额解锁</title>
