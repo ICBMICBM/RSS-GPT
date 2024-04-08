@@ -24748,3 +24748,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-08 11:31:39.841304
+------------------------------------------------------
+Started: 2024-04-08 11:39:04.090624
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 224
+Summarized using GPT-3.5-turbo-1106
+Append: [Vitalik将于明日现身“2024香港Web3嘉年华”并发表主旨演讲](https://www.panewslab.com/zh/sqarticledetails/66t458m5.html)
+append_entries: 1
+Finish: 2024-04-08 11:39:08.796851
