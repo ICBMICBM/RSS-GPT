@@ -20952,3 +20952,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bitcoin Open Interest Sets All-Time High As BTC Crosses $72,000](https://bitcoinist.com/bitcoin-open-interest-all-time-high-btc-72000/)
 append_entries: 1
 Finish: 2024-04-09 04:14:58.066140
+------------------------------------------------------
+Started: 2024-04-09 04:28:24.032397
+Existing_entries: 333
+Fetching from https://bitcoinist.com/feed
+append_entries: 0
+Finish: 2024-04-09 04:28:24.239292
