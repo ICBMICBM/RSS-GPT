@@ -21435,3 +21435,12 @@ Existing_entries: 430
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-09 09:26:12.953530
+------------------------------------------------------
+Started: 2024-04-09 09:35:29.429986
+Existing_entries: 430
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 46
+Summarized using GPT-3.5-turbo-1106
+Append: [Filecoin Liquid Staking Platform STFIL Claims Team Members Under Investigation by Chinese Police](https://www.coindesk.com/policy/2024/04/09/filecoin-liquid-staking-platform-stfil-claims-team-members-under-investigation-by-chinese-police/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-09 09:35:33.961958

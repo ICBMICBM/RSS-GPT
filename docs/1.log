@@ -25666,3 +25666,12 @@ Existing_entries: 1001
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-09 09:26:05.931618
+------------------------------------------------------
+Started: 2024-04-09 09:35:17.568987
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 3983
+Summarized using GPT-3.5-turbo-1106
+Append: [香港Web3活动周小作文汇总：VC越来越不受待见，CKB成大家眼中的“香饽饽”](https://www.panewslab.com/zh/articledetails/widz5vwg.html)
+append_entries: 1
+Finish: 2024-04-09 09:35:22.947885
