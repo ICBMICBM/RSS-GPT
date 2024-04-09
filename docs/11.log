@@ -21258,3 +21258,12 @@ Existing_entries: 425
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-09 04:58:11.493238
+------------------------------------------------------
+Started: 2024-04-09 05:12:52.419687
+Existing_entries: 425
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 18
+Summarized using GPT-3.5-turbo-1106
+Append: [Ether Rallies to $3.6K as Bitcoin Holds Steady at $71K](https://www.coindesk.com/markets/2024/04/09/ether-rallies-to-36k-as-bitcoin-holds-steady-at-71k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-09 05:12:54.756801
