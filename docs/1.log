@@ -25828,3 +25828,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [解析Polyhedra：为什么说ZK技术价值只被发掘了冰山一角？](https://www.panewslab.com/zh/articledetails/8ejmtcrx.html)
 append_entries: 1
 Finish: 2024-04-09 13:02:58.741738
+------------------------------------------------------
+Started: 2024-04-09 13:20:21.512198
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 459
+Summarized using GPT-3.5-turbo-1106
+Append: [Dfinity基金会计划向加速器平台Olympus投资1500万美元](https://www.panewslab.com/zh/sqarticledetails/t9y264ni.html)
+Token length: 203
+Summarized using GPT-3.5-turbo-1106
+Append: [Worldcoin现已允许用户在六个月的“冷静期”后删除其虹膜扫描数据](https://www.panewslab.com/zh/sqarticledetails/oietko2d.html)
+append_entries: 2
+Finish: 2024-04-09 13:20:30.673703
