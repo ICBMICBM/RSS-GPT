@@ -25759,3 +25759,12 @@ Existing_entries: 1002
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-09 11:17:00.820023
+------------------------------------------------------
+Started: 2024-04-09 11:24:16.165407
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 375
+Summarized using GPT-3.5-turbo-1106
+Append: [比特币L2网络Mezo开发商Thesis完成2100万美元A轮融资，Pantera Capital领投](https://www.panewslab.com/zh/sqarticledetails/4h1mc8x2.html)
+append_entries: 1
+Finish: 2024-04-09 11:24:20.827301
