@@ -21303,3 +21303,12 @@ Existing_entries: 426
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-09 06:11:59.685813
+------------------------------------------------------
+Started: 2024-04-09 06:28:06.055680
+Existing_entries: 426
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 43
+Summarized using GPT-3.5-turbo-1106
+Append: [South Korea’s April 10 Election: What’s at Stake for the Crypto Universe](https://www.coindesk.com/policy/2024/04/09/south-koreas-april-10-election-whats-at-stake-for-the-crypto-universe/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-09 06:28:07.869649
