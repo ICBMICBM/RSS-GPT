@@ -21708,3 +21708,15 @@ Existing_entries: 443
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-09 16:07:47.088160
+------------------------------------------------------
+Started: 2024-04-09 16:26:13.835784
+Existing_entries: 443
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 107
+Summarized using GPT-3.5-turbo-1106
+Append: [Venture Firm A16z Releases Jolt, a 'Zero-Knowledge Virtual Machine'](https://www.coindesk.com/tech/2024/04/09/venture-firm-a16z-releases-jolt-a-zero-knowledge-virtual-machine/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 35
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin Buckles Below $69K as Crypto Bulls Endure $175M Liquidations](https://www.coindesk.com/markets/2024/04/09/bitcoin-buckles-below-69k-as-crypto-bulls-endure-175m-liquidations/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 2
+Finish: 2024-04-09 16:26:17.156320
