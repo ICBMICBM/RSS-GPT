@@ -25693,3 +25693,12 @@ Existing_entries: 1002
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-09 09:49:50.188160
+------------------------------------------------------
+Started: 2024-04-09 09:56:57.771666
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 1009
+Summarized using GPT-3.5-turbo-1106
+Append: [速览首个数据DAO项目r/datadao：专为Reddit用户设计，母公司获Paradigm等融资支持](https://www.panewslab.com/zh/articledetails/eh77i7ar.html)
+append_entries: 1
+Finish: 2024-04-09 09:57:02.115577
