@@ -21957,3 +21957,12 @@ Existing_entries: 450
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-09 21:51:51.731823
+------------------------------------------------------
+Started: 2024-04-09 21:59:07.565433
+Existing_entries: 450
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 109
+Summarized using GPT-3.5-turbo-1106
+Append: [VanEck CEO Says Transaction Fee Is Bigger Story Than Bitcoin or Ethereum ETFs](https://www.coindesk.com/business/2024/04/09/vaneck-ceo-says-transaction-fee-is-bigger-story-than-bitcoin-or-ethereum-etfs/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-09 21:59:10.578373
