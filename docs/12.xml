@@ -4,12 +4,13 @@
 <title>Bitcoinist.com</title>
 <link>https://bitcoinist.com</link>
 
+
 <item>
 <title>Solana Devs Set Sights On April 15 To Fix Network Congestion</title>
 <link>https://bitcoinist.com/solana-april-15-fix-network-congestion/</link>
 <guid>https://bitcoinist.com/solana-april-15-fix-network-congestion/</guid>
 <content:encoded><![CDATA[
-<div> 摘要：<br><br>这些信息是积极的。Solana开发人员将在4月15日进行关键更新，解决网络拥塞问题。该问题源于实现BUG而不是设计缺陷，主要涉及QUIC协议。Solana基金会正在努力解决拥塞问题，包括软件补丁和系统更新。1.18版本承诺增强交易调度和减少瓶颈。此外，Solana还计划在去中心化应用中采用动态优先费用。 <div>
+<div> 摘要：<br /><br />这些信息是积极的。Solana开发人员将在4月15日进行关键更新，解决网络拥塞问题。该问题源于实现BUG而不是设计缺陷，主要涉及QUIC协议。Solana基金会正在努力解决拥塞问题，包括软件补丁和系统更新。1.18版本承诺增强交易调度和减少瓶颈。此外，Solana还计划在去中心化应用中采用动态优先费用。 <div>
 <p>Solana developers are gearing up for a crucial update scheduled for April 15 aimed at resolving the pressing issue of network congestion. This move comes in the wake of transaction <a href="https://bitcoinist.com/solana-existential-moment-co-founder-speaks-out/" rel="noopener " target="_blank">failures skyrocketing</a> due to an &#8220;implementation bug&#8221; as elucidated by Mert Mumtaz, CEO of Helius Labs. Helius Labs is at the forefront of providing backend support exclusively to the network, playing a pivotal role in its ongoing maintenance and enhancement.</p>
 <h2>Solana Congestion Soon Over?</h2>
 <p>Mumtaz has <a href="https://twitter.com/0xMert_/status/1777400489488900102" rel="noopener nofollow" target="_blank">clarified</a> that the root cause of the current debacle is not inherent to the design of Solana but stems from a flaw in the implementation of a specific protocol. “Solana&#8217;s current issue is not a design flaw, it&#8217;s an implementation bug,&#8221; Mumtaz stated, emphasizing the distinction between design errors, which are fundamental, and implementation errors, which are often more manageable and rectifiable.</p>
@@ -31,9 +32,7 @@
 <img alt="Solana price" class="size-full wp-image-293034" height="472" src="https://bitcoinist.com/wp-content/uploads/2024/04/SOLUSD_2024-04-09_09-07-02.png?resize=1024%2C472" width="1024" />
 ]]></content:encoded>
 <pubDate>Tue, 09 Apr 2024 09:00:50 +0000</pubDate>
-<pubDate>Tue, 09 Apr 2024 09:00:50 +0000</pubDate>
 </item>
-
 <item>
 <title>Listed Japanese Firm Adopts Bitcoin To Create ‘Asia’s First MicroStrategy’</title>
 <link>https://bitcoinist.com/japanese-firm-bitcoin-asia-first-microstrategy/</link>
