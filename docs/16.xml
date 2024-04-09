@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>深入解析 Monad：2024 备受期待的 L1</title>
 <link>https://mp.weixin.qq.com/s/j4uBBwYmgtWxF4B9g_K8nw</link>
 <guid>https://mp.weixin.qq.com/s/j4uBBwYmgtWxF4B9g_K8nw</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的<br>Monad 利用并行执行和 MonadDb 实现了高效率的区块链技术，同时保持 EVM 兼容性。它将在今年晚些时候推出主网，预计能吸引大量流动性、用户和开发者。此外，Monad 的合作伙伴关系将使桥接流动性更加容易，为生态系统的发展提供支持。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的<br />Monad 利用并行执行和 MonadDb 实现了高效率的区块链技术，同时保持 EVM 兼容性。它将在今年晚些时候推出主网，预计能吸引大量流动性、用户和开发者。此外，Monad 的合作伙伴关系将使桥接流动性更加容易，为生态系统的发展提供支持。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>在一个新 L1 和 L2 链几乎每天都在推出的世界中，Monad 以其可扩展的技术、非常有能力的团队和类似邪教的社区而脱颖而出，有望在这个高度竞争的基础设施环境中吸引流动性、用户和开发者。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/j4uBBwYmgtWxF4B9g_K8nw">https://mp.weixin.qq.com/s/j4uBBwYmgtWxF4B9g_K8nw</a></p>
 <p><strong>文章作者：</strong></p><p>Thor Hartvigsen</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Thor Hartvigsen：</strong>并行执行：指同时执行多个任务的能力，可以通过在多个处理器之间分配工作负载显著减少处理时间并提高效率。Monad 利用允许同时处理多个交易，同时 Monad 区块仍然像以太坊一样是线性有序的交易集合。Monad 使用 optimistic，这意味着链会在区块中的早期交易完成之前开始执行交易。为避免错误和不正确的执行，交易状态会在区块中顺序合并，以确保正确性。
@@ -22,10 +23,8 @@ MonadDb：如果没有一个状态数据库允许对磁盘进行并行读写，�
 
 Monad 预计将在今年晚些时候在主网上推出，可能是第三季度。因此，尽管对于这个链来说仍是早期阶段，但内部测试网即将上线。已经有大量现有 EVM 协议产生兴趣，他们希望借助高可扩展性和 EVM 兼容性桥接到 Monad，也有团队希望在 Monad 区块链上构建原生应用程序。此外，Monad 最近宣布了与 Layerzero 的合作伙伴关系，这将使桥接流动性到生态系统变得更加容易。鉴于来自社区和开发者的巨大兴趣，围绕 Monad 的炒作可能会继续增长，直到公共测试网和主网推出。</p><a href="https://mp.weixin.qq.com/s/j4uBBwYmgtWxF4B9g_K8nw">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-09T05:07:12+00:00</pubDate>
 </item>
-
 <item>
 <title>Coinbase 研报：再质押，当所有旧事又焕然一新</title>
 <link>https://www.techflowpost.com/article/detail_17226.html</link>
@@ -11628,16 +11627,6 @@ RPGF 用于资助项目建成后的公共产品。
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />这些信息是积极的。zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，涉及多家投资机构。融资将用于团队扩大以及招聘跨职能部门人员。这标志着公司在未来发展方面取得了积极进展。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。ZK 互操作协议 zkBridge 的开发商 Polyhedra Network 完成了 2000 万美元的战略融资，估值达到 10 亿美元。这轮融资由 Polychain Capital 领投，多个机构参投。资金将用于团队扩大、产品开发和营销。共有四轮融资都通过未来代币或 SAFT 的方式进行。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
