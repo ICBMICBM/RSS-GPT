@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>IOSG 周报｜BitVM：比特币可编程性的曙光</title>
 <link>https://mp.weixin.qq.com/s/X7DCHFBf8EMhXhU6jN3Ljw</link>
 <guid>https://mp.weixin.qq.com/s/X7DCHFBf8EMhXhU6jN3Ljw</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。IOSG Ventures探讨了比特币可扩展性解决方案，介绍了BitVM的创新方案，强调其不需要比特币协议改变，可在比特币上实现图灵完备合约。然而，尽管激发了项目兴趣，仍存在GitHub账户贡献者不足的问题，以及部分比特币“L2”项目的参与度不高。比特币扩容解决方案的成功不仅仅涉及技术挑战，还包括社区支持、用户体验等因素。当前项目数量的快速增长和误导性声明可能对合法项目造成风险。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。IOSG Ventures探讨了比特币可扩展性解决方案，介绍了BitVM的创新方案，强调其不需要比特币协议改变，可在比特币上实现图灵完备合约。然而，尽管激发了项目兴趣，仍存在GitHub账户贡献者不足的问题，以及部分比特币“L2”项目的参与度不高。比特币扩容解决方案的成功不仅仅涉及技术挑战，还包括社区支持、用户体验等因素。当前项目数量的快速增长和误导性声明可能对合法项目造成风险。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>IOSG Ventures 从传统比特币社区对比特币核心变更持抵制态度的原因出发，探讨比特币几种可扩展性解决方案，对 BitVM 的创新方案进行介绍，并分析其限制和挑战。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/X7DCHFBf8EMhXhU6jN3Ljw">https://mp.weixin.qq.com/s/X7DCHFBf8EMhXhU6jN3Ljw</a></p>
 <p><strong>文章作者：</strong></p><p>IOSG Ventures</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>IOSG Ventures：</strong>BitVM 是一种计算范式，它利用 Taproot 升级在不改变网络共识规则的情况下，促进在比特币上实现图灵完备合约。它允许对计算进行验证（而不是执行），类似于乐观卷积（Optimistic Rollups）。BitVM 通过将程序提交到 Taproot 地址，同时启用复杂的链下计算（仅在出现争议时需要链上执行）来最小化链上足迹。这个过程涉及到在 Taproot 地址中提交程序的二进制电路，并使用挑战 - 响应机制进行验证。概括地说，BitVM 实现了图灵完备的比特币合约，最重要的是：
@@ -20,10 +21,8 @@
 
 比特币任何可扩展性解决方案必须遵守的一个关键原则是，比特币的核心架构应保持不变（根据可预测性原则）。BitVM 秉承这一原则，成为首个在不改变其核心的情况下，在比特币之上提供可编程层的先驱解决方案。比特币扩容解决方案的实现超越了纯粹的技术挑战；它包含了社区支持、用户体验和时机等因素。虽然当前时刻为这些创新提供了一个独特的机会窗口，但是项目数量的急速通胀以及误导性声明和营销带来的显著风险，可能会破坏更合法项目的前景。</p><a href="https://mp.weixin.qq.com/s/X7DCHFBf8EMhXhU6jN3Ljw">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-09T08:04:33+00:00</pubDate>
 </item>
-
 <item>
 <title>【英文长推】盘点 7 个去中心化 AI 协议</title>
 <link>https://twitter.com/defi_mochi/status/1777373906938270124</link>
@@ -11654,16 +11653,6 @@ RPGF 用于资助项目建成后的公共产品。
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />这些信息是积极的。<br />1. Polyhedra Network 完成了 2000 万美元战略融资，估值达到 10 亿美元。<br />2. Polychain Capital 领投，同时 Animoca Brands、Hashkey Capital、Longhash Ventures 等也参与投资。<br />3. 融资将用于招聘新员工，扩大团队规模。<br />4. 融资通过未来代币或 SAFT 的简单协议进行。<br />5. 目前 Polyhedra Network 团队约有 50 人，计划扩大到约 80 人。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。互操作协议zkBridge的开发商Polyhedra Network以10亿美元估值完成了2000万美元的战略融资，由Polychain Capital领投，其他公司也参与了投资。融资资金将用于招聘跨职能部门的员工，扩大目前50人的团队规模到80人。这已经是公司进行的第五轮融资，融资都是通过未来代币或SAFT的简单协议进行的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
