@@ -21327,3 +21327,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Floki And TokenFi Developers Propose Game-changing Upgrade – Here’s What It Does](https://bitcoinist.com/floki-tokenfi-upgrade/)
 append_entries: 1
 Finish: 2024-04-09 14:12:32.875739
+------------------------------------------------------
+Started: 2024-04-09 14:25:56.615535
+Existing_entries: 340
+Fetching from https://bitcoinist.com/feed
+append_entries: 0
+Finish: 2024-04-09 14:25:57.333648
