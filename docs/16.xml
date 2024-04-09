@@ -4,17 +4,17 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>【长推】从叙事到原语：全链游戏引擎 Mud、Dojo、Zypher 的 3 类设计范式</title>
 <link>https://twitter.com/0xNing0x/status/1776967453475762389</link>
 <guid>https://twitter.com/0xNing0x/status/1776967453475762389</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。本文探讨了自主世界 / 全链游戏的新原语需要解决的3个核心问题，包括区块链、游戏引擎、中间件、游戏客户端等工程模块的组成。解决这些问题需要一整套工程模块，不同项目有不同的解决方案。文章作者 NingNing 从加密研究员的角度分析了这些问题并探讨了可能的解决方案。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。本文探讨了自主世界 / 全链游戏的新原语需要解决的3个核心问题，包括区块链、游戏引擎、中间件、游戏客户端等工程模块的组成。解决这些问题需要一整套工程模块，不同项目有不同的解决方案。文章作者 NingNing 从加密研究员的角度分析了这些问题并探讨了可能的解决方案。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>将自主世界 / 全链游戏的叙事实例化，需要一整套区块链、游戏引擎、中间件、游戏客户端等工程模块组成的新原语。加密研究员 NingNing 撰文探讨自主世界 / 全链游戏的新原语需要解决的 3 个核心问题，以及不同项目的具体解决方案。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/0xNing0x/status/1776967453475762389">https://twitter.com/0xNing0x/status/1776967453475762389</a></p>
 <p><strong>文章作者：</strong></p><p>NingNing</p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-09T09:56:41+00:00</pubDate>
 </item>
 <item>
@@ -22,7 +22,7 @@
 <link>https://mp.weixin.qq.com/s/rxiaZ7_mMLSnI9o4ALHLvw</link>
 <guid>https://mp.weixin.qq.com/s/rxiaZ7_mMLSnI9o4ALHLvw</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了加密研究员DaPangDun对UTXO同构绑定技术的认知和判断。文章指出，UTXO同构绑定技术利用UTXO模型的同源特性，在不同链之间实现资产映射，具有原生性、安全性和拓展性的优势。该技术可以将一层资产协议同构到另一图灵完备的UTXO链上，促进资金流动和使用场景拓展。此外，UIB技术还可以作为一个独立的中间层协议，连接不同UTXO链之间的资产。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章介绍了加密研究员DaPangDun对UTXO同构绑定技术的认知和判断。文章指出，UTXO同构绑定技术利用UTXO模型的同源特性，在不同链之间实现资产映射，具有原生性、安全性和拓展性的优势。该技术可以将一层资产协议同构到另一图灵完备的UTXO链上，促进资金流动和使用场景拓展。此外，UIB技术还可以作为一个独立的中间层协议，连接不同UTXO链之间的资产。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>加密研究员 DaPangDun 认为「UTXO 同构绑定技术」是这一轮 BTC 生态发展中一个十分重要的创新，并撰文阐述其对于这项技术的认知脉络和判断。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/rxiaZ7_mMLSnI9o4ALHLvw">https://mp.weixin.qq.com/s/rxiaZ7_mMLSnI9o4ALHLvw</a></p>
 <p><strong>文章作者：</strong></p><p>DaPangDun</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>DaPangDun：</strong>UIB，即 UTXO 同构绑定技术，由 Cell Studio 创始人 Cipher 提出并具体实践在 CKB 上。这项技术利用了 UTXO 模型的同源特性，通过「一次性密封」的方式，可以将目标链 A 的 UTXO 映射到另外一条图灵完备的 UTXO 链 B。
@@ -39,10 +39,8 @@ UIB 可以让具有 B 链特性的公链成为 BTC 的 L2，资产通过原生�
 
 再进一步，UIB 可以独立于 CKB 作为一个中间层协议。可以将上面的各种资产协议同构到其他的图灵完备的 UTXO 链，每一条链都能完善和扩充 UIB 技术协议。此外，其他很多 UTXO 链也有一层资产协议，他们上面沉淀的资金或社区整体上也是一股巨大的力量。但受限于早期架构设计，这些网络中大部分也没有图灵完备的能力，它们也会成为 UIB 技术应用的场景用例。通过这种方式，UIB 技术实现了 UTXO 世界中各条链资产之间的原生联结。</p><a href="https://mp.weixin.qq.com/s/rxiaZ7_mMLSnI9o4ALHLvw">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-09T08:54:40+00:00</pubDate>
 </item>
-
 <item>
 <title>IOSG 周报｜BitVM：比特币可编程性的曙光</title>
 <link>https://mp.weixin.qq.com/s/X7DCHFBf8EMhXhU6jN3Ljw</link>
@@ -11671,26 +11669,6 @@ RPGF 用于资助项目建成后的公共产品。
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成了 2000 万美元的战略融资，融资估值达到 10 亿美元。Polychain Capital 领投，其他参投方包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium 和 Mapleblock Capital。此轮融资将用于团队扩张，招聘产品、工程、业务开发和营销人员，将当前50人团队扩大至80人。这些信息是积极的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK 互操作协议zkBridge的开发商Polyhedra Network完成了2000万美元战略融资，估值达10亿美元。此次融资由Polychain Capital领投，包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital等参投。资金将用于团队扩大至80人，招聘跨职能部门人员，包括产品、工程、业务开发和营销人员。所有融资都通过未来代币或SAFT的简单协议完成。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。<br />1. Polyhedra Network 完成了 2000 万美元战略融资，估值达到 10 亿美元。<br />2. Polychain Capital 领投，同时 Animoca Brands、Hashkey Capital、Longhash Ventures 等也参与投资。<br />3. 融资将用于招聘新员工，扩大团队规模。<br />4. 融资通过未来代币或 SAFT 的简单协议进行。<br />5. 目前 Polyhedra Network 团队约有 50 人，计划扩大到约 80 人。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>

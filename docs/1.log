@@ -25741,3 +25741,15 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-09 10:54:42.185959
+------------------------------------------------------
+Started: 2024-04-09 11:06:27.541017
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 7810
+Summarized using GPT-3.5-turbo-1106
+Append: [PA日报 | HashKey将推出以太坊L2网络HashKey Chain；Vitalik呼吁大型应用建立于L2或构建成L2](https://www.panewslab.com/zh/articledetails/2ln7nsh9.html)
+Token length: 4270
+Summarized using GPT-3.5-turbo-1106
+Append: [详解NFT期货：为效率而生，新型DeFi原语](https://www.panewslab.com/zh/articledetails/4zjrypcq.html)
+append_entries: 2
+Finish: 2024-04-09 11:06:37.034075
