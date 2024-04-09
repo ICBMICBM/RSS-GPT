@@ -24073,3 +24073,12 @@ Existing_entries: 1000
 Fetching from https://www.chainfeeds.xyz/rss
 append_entries: 0
 Finish: 2024-04-09 01:37:56.281851
+------------------------------------------------------
+Started: 2024-04-09 02:06:35.939075
+Existing_entries: 1000
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 197
+Summarized using GPT-3.5-turbo-1106
+Append: [Tensor 公布 TNSR 代币经济学，总供应量 10 亿枚，初始空投占比 12.5%](https://docs.tensor.foundation/tokenomics)
+append_entries: 1
+Finish: 2024-04-09 02:06:38.566255
