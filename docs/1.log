@@ -25378,3 +25378,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [美国比特币现货ETF昨日净流出约2.23亿美元，贝莱德IBIT仅净流入2130万美元](https://www.panewslab.com/zh/sqarticledetails/9o6hi5ge.html)
 append_entries: 1
 Finish: 2024-04-09 03:56:55.104942
+------------------------------------------------------
+Started: 2024-04-09 04:14:41.469151
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 116
+Summarized using GPT-3.5-turbo-1106
+Append: [币安将上线LTC和NEAR USDC本位永续合约，最高杠杆分别达75倍和50倍](https://www.panewslab.com/zh/sqarticledetails/0448bv75.html)
+Token length: 1746
+Summarized using GPT-3.5-turbo-1106
+Append: [牛市狂补“弹药”，两大稳定币一个月内增发100亿美元](https://www.panewslab.com/zh/articledetails/9pfeukcp.html)
+append_entries: 2
+Finish: 2024-04-09 04:14:48.366616

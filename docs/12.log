@@ -20943,3 +20943,12 @@ Existing_entries: 332
 Fetching from https://bitcoinist.com/feed
 append_entries: 0
 Finish: 2024-04-09 03:57:06.909300
+------------------------------------------------------
+Started: 2024-04-09 04:14:55.924124
+Existing_entries: 332
+Fetching from https://bitcoinist.com/feed
+Token length: 2750
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin Open Interest Sets All-Time High As BTC Crosses $72,000](https://bitcoinist.com/bitcoin-open-interest-all-time-high-btc-72000/)
+append_entries: 1
+Finish: 2024-04-09 04:14:58.066140
