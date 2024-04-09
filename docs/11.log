@@ -21747,3 +21747,15 @@ Existing_entries: 446
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-09 16:59:12.818584
+------------------------------------------------------
+Started: 2024-04-09 17:13:08.421186
+Existing_entries: 446
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 54
+Summarized using GPT-3.5-turbo-1106
+Append: [Republican Sen. Tillis Calls for ‘Light’ Crypto Regulatory Framework Ahead of Presidential Election](https://www.coindesk.com/policy/2024/04/09/republican-sen-tillis-calls-for-light-crypto-regulatory-framework-ahead-of-presidential-election/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 30
+Summarized using GPT-3.5-turbo-1106
+Append: [DeFi Trader Eisenberg 'Wasn't Borrowing, He Was Stealing,' Prosecutor Says in Opening Argument](https://www.coindesk.com/policy/2024/04/09/defi-trader-eisenberg-wasnt-borrowing-he-was-stealing-prosecutor-says-in-opening-argument/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 2
+Finish: 2024-04-09 17:13:14.210147
