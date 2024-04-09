@@ -25444,3 +25444,15 @@ Existing_entries: 1002
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-09 05:25:50.551115
+------------------------------------------------------
+Started: 2024-04-09 05:33:31.577188
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 96
+Summarized using GPT-3.5-turbo-1106
+Append: [Crypto.com宣布获得迪拜虚拟资产监管局的全面运营批准](https://www.panewslab.com/zh/sqarticledetails/536rpqco.html)
+Token length: 689
+Summarized using GPT-3.5-turbo-1106
+Append: [Andre Cronje发布在Fantom上培育“社区币/Meme币”框架的具体内容](https://www.panewslab.com/zh/sqarticledetails/8nvqmpjb.html)
+append_entries: 2
+Finish: 2024-04-09 05:33:37.882474
