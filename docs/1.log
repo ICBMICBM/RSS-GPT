@@ -25702,3 +25702,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [速览首个数据DAO项目r/datadao：专为Reddit用户设计，母公司获Paradigm等融资支持](https://www.panewslab.com/zh/articledetails/eh77i7ar.html)
 append_entries: 1
 Finish: 2024-04-09 09:57:02.115577
+------------------------------------------------------
+Started: 2024-04-09 10:14:41.499617
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 482
+Summarized using GPT-3.5-turbo-1106
+Append: [日本公司Metaplanet效仿MicroStrategy，已购买价值656万美元的比特币](https://www.panewslab.com/zh/sqarticledetails/a1ysqmik.html)
+Token length: 4284
+Summarized using GPT-3.5-turbo-1106
+Append: [加密投研周报（0401-0407）：市场持续波动，整体情绪看涨](https://www.panewslab.com/zh/articledetails/15g5p90p4801.html)
+append_entries: 2
+Finish: 2024-04-09 10:14:50.576008
