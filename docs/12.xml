@@ -4,6 +4,35 @@
 <title>Bitcoinist.com</title>
 <link>https://bitcoinist.com</link>
 
+<item>
+<title>Solana Devs Set Sights On April 15 To Fix Network Congestion</title>
+<link>https://bitcoinist.com/solana-april-15-fix-network-congestion/</link>
+<guid>https://bitcoinist.com/solana-april-15-fix-network-congestion/</guid>
+<content:encoded><![CDATA[
+<div> 摘要：<br><br>这些信息是积极的。Solana开发人员将在4月15日进行关键更新，解决网络拥塞问题。该问题源于实现BUG而不是设计缺陷，主要涉及QUIC协议。Solana基金会正在努力解决拥塞问题，包括软件补丁和系统更新。1.18版本承诺增强交易调度和减少瓶颈。此外，Solana还计划在去中心化应用中采用动态优先费用。 <div>
+<p>Solana developers are gearing up for a crucial update scheduled for April 15 aimed at resolving the pressing issue of network congestion. This move comes in the wake of transaction <a href="https://bitcoinist.com/solana-existential-moment-co-founder-speaks-out/" rel="noopener " target="_blank">failures skyrocketing</a> due to an &#8220;implementation bug&#8221; as elucidated by Mert Mumtaz, CEO of Helius Labs. Helius Labs is at the forefront of providing backend support exclusively to the network, playing a pivotal role in its ongoing maintenance and enhancement.</p>
+<h2>Solana Congestion Soon Over?</h2>
+<p>Mumtaz has <a href="https://twitter.com/0xMert_/status/1777400489488900102" rel="noopener nofollow" target="_blank">clarified</a> that the root cause of the current debacle is not inherent to the design of Solana but stems from a flaw in the implementation of a specific protocol. “Solana&#8217;s current issue is not a design flaw, it&#8217;s an implementation bug,&#8221; Mumtaz stated, emphasizing the distinction between design errors, which are fundamental, and implementation errors, which are often more manageable and rectifiable.</p>
+<p>&#8220;It&#8217;s crucial to understand the difference between a design flaw and an implementation bug. The latter can be fixed more easily and doesn&#8217;t indict the fundamental architecture of Solana,&#8221; Mumtaz stated in a detailed X post.</p>
+<p>The issue at hand revolves around the network&#8217;s implementation of QUIC, a data transfer protocol originally developed by Google, which has exhibited deficiencies impacting the networks&#8217; throughput and reliability. To elucidate, Mumtaz offered an analogy: &#8220;If a BMW model has steering problems, it doesn&#8217;t mean all cars are flawed. Similarly, Solana&#8217;s challenge is not with its core design but with a specific implementation aspect of it.&#8221;</p>
+
+<p>In a comment that resonates with Mumtaz&#8217;s perspective, SOL researcher Richard Patel noted, &#8220;Our investigation indicates that alternative implementations like Firedancer do not share the same vulnerabilities. This confirms our belief that the solution requires a targeted approach rather than a complete overhaul.&#8221;</p>
+<p>As the community looks forward to the April 15 update, Mumtaz cautioned, &#8220;Obviously, if additional issues are discovered in testing, this might get delayed.”</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">(obviously, if additional issues are discovered in testing, this might get delayed)</p>
+<p>&mdash; mert | helius.dev (@0xMert_) <a href="https://twitter.com/0xMert_/status/1777414207564116213?ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">April 8, 2024</a></p></blockquote>
+<p></p>
+<p>The backdrop to this network strain is a significant uptick in spam transactions and a <a href="https://bitcoinist.com/ethereum-founder-buterin-whatmemecoins-could-be/" rel="noopener " target="_blank">memecoin craze</a>, which has overwhelmed Solana&#8217;s processing capabilities. The Phantom wallet and other applications have alerted users to anticipate delays, underscoring the urgency of the congestion issue.</p>
+
+<p>Matt Sorg, associated with the Solana Foundation, shed light on the network&#8217;s architecture, which processes transactions directly without a mempool, akin to internet IP endpoints. &#8220;This direct dispatch model, while efficient, is vulnerable to spam overload, resulting in transaction dropouts. It&#8217;s a nuanced issue we&#8217;re addressing head-on,&#8221; Sorg <a href="https://twitter.com/tamgros/status/1776396573393527253" rel="noopener nofollow" target="_blank">revealed</a> on X.</p>
+<p>Solana&#8217;s development team is reportedly working on multiple fronts to navigate out of these congested waters, including software patches and system updates aimed at bolstering network capacity and resilience. The forthcoming 1.18 update is particularly anticipated for its promise to enhance transaction scheduling and reduce bottlenecks.</p>
+<p>An additional measure to improve network functionality involves the adoption of dynamic priority fees in decentralized applications (<a href="https://bitcoinist.com/coinbase-base-opens-doors-featuring-100-dapps/" rel="noopener " target="_blank">dApps</a>) on Solana. &#8220;Incorporating priority fees is pivotal for optimizing transaction processing and user experience,&#8221; a March blog post from Solana Labs <a href="https://solana.com/news/block-optimization-on-the-solana-network" rel="noopener nofollow" target="_blank">articulated</a>.</p>
+<p>At press time, SOL traded at $176.</p>
+<img alt="Solana price" class="size-full wp-image-293034" height="472" src="https://bitcoinist.com/wp-content/uploads/2024/04/SOLUSD_2024-04-09_09-07-02.png?resize=1024%2C472" width="1024" />
+]]></content:encoded>
+<pubDate>Tue, 09 Apr 2024 09:00:50 +0000</pubDate>
+<pubDate>Tue, 09 Apr 2024 09:00:50 +0000</pubDate>
+</item>
 
 <item>
 <title>Listed Japanese Firm Adopts Bitcoin To Create ‘Asia’s First MicroStrategy’</title>
