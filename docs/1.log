@@ -25819,3 +25819,12 @@ Existing_entries: 1001
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-09 12:53:31.134626
+------------------------------------------------------
+Started: 2024-04-09 13:02:51.386394
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 3223
+Summarized using GPT-3.5-turbo-1106
+Append: [解析Polyhedra：为什么说ZK技术价值只被发掘了冰山一角？](https://www.panewslab.com/zh/articledetails/8ejmtcrx.html)
+append_entries: 1
+Finish: 2024-04-09 13:02:58.741738
