@@ -4,6 +4,44 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>【长推】从叙事到原语：全链游戏引擎 Mud、Dojo、Zypher 的 3 类设计范式</title>
+<link>https://twitter.com/0xNing0x/status/1776967453475762389</link>
+<guid>https://twitter.com/0xNing0x/status/1776967453475762389</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。本文探讨了自主世界 / 全链游戏的新原语需要解决的3个核心问题，包括区块链、游戏引擎、中间件、游戏客户端等工程模块的组成。解决这些问题需要一整套工程模块，不同项目有不同的解决方案。文章作者 NingNing 从加密研究员的角度分析了这些问题并探讨了可能的解决方案。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>将自主世界 / 全链游戏的叙事实例化，需要一整套区块链、游戏引擎、中间件、游戏客户端等工程模块组成的新原语。加密研究员 NingNing 撰文探讨自主世界 / 全链游戏的新原语需要解决的 3 个核心问题，以及不同项目的具体解决方案。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/0xNing0x/status/1776967453475762389">https://twitter.com/0xNing0x/status/1776967453475762389</a></p>
+<p><strong>文章作者：</strong></p><p>NingNing</p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-09T09:56:41+00:00</pubDate>
+</item>
+<item>
+<title>UTXO 同构绑定技术：扩容的新圣杯</title>
+<link>https://mp.weixin.qq.com/s/rxiaZ7_mMLSnI9o4ALHLvw</link>
+<guid>https://mp.weixin.qq.com/s/rxiaZ7_mMLSnI9o4ALHLvw</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了加密研究员DaPangDun对UTXO同构绑定技术的认知和判断。文章指出，UTXO同构绑定技术利用UTXO模型的同源特性，在不同链之间实现资产映射，具有原生性、安全性和拓展性的优势。该技术可以将一层资产协议同构到另一图灵完备的UTXO链上，促进资金流动和使用场景拓展。此外，UIB技术还可以作为一个独立的中间层协议，连接不同UTXO链之间的资产。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>加密研究员 DaPangDun 认为「UTXO 同构绑定技术」是这一轮 BTC 生态发展中一个十分重要的创新，并撰文阐述其对于这项技术的认知脉络和判断。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/rxiaZ7_mMLSnI9o4ALHLvw">https://mp.weixin.qq.com/s/rxiaZ7_mMLSnI9o4ALHLvw</a></p>
+<p><strong>文章作者：</strong></p><p>DaPangDun</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>DaPangDun：</strong>UIB，即 UTXO 同构绑定技术，由 Cell Studio 创始人 Cipher 提出并具体实践在 CKB 上。这项技术利用了 UTXO 模型的同源特性，通过「一次性密封」的方式，可以将目标链 A 的 UTXO 映射到另外一条图灵完备的 UTXO 链 B。
+
+- 从原生性上来说，它没有任何跨链桥方式，非常原生；
+- 在解析上，B 链提供了一个公开 DA 层来为其他模块的构建提供基础；
+- 从安全性上，有可能实现与 A 链等同的安全性；
+- 从拓展性上，完全承接了 B 链的拓展性。
+也就是说，UIB 在「原生性」、「安全性」、「拓展性」上找到了一个绝佳的平衡点。限制是，你需要有这样的 B 链，还要有实现协议需要的各种组件代码。
+
+UIB 可以让具有 B 链特性的公链成为 BTC 的 L2，资产通过原生的方式进行映射，映射之后在 B 链上进行各种拓展开发。具体脉络如下:
+1）以最近很火的 RGB++ 为例，就是一个新的一层资产协议，可以通过 UIB 来映射在 CKB 上。同时，二层资产也可以通过 LEAP 的方式同构成一层资产，提升正统性。
+2）更进一步，BTC 主网上的其他一层资产协议也可以通过 UIB 的方式同构到 CKB 网络。这会极大的激活当前各种一层资产协议中沉淀的资金，使其有更多的使用场景和玩法。
+
+再进一步，UIB 可以独立于 CKB 作为一个中间层协议。可以将上面的各种资产协议同构到其他的图灵完备的 UTXO 链，每一条链都能完善和扩充 UIB 技术协议。此外，其他很多 UTXO 链也有一层资产协议，他们上面沉淀的资金或社区整体上也是一股巨大的力量。但受限于早期架构设计，这些网络中大部分也没有图灵完备的能力，它们也会成为 UIB 技术应用的场景用例。通过这种方式，UIB 技术实现了 UTXO 世界中各条链资产之间的原生联结。</p><a href="https://mp.weixin.qq.com/s/rxiaZ7_mMLSnI9o4ALHLvw">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-09T08:54:40+00:00</pubDate>
+</item>
 
 <item>
 <title>IOSG 周报｜BitVM：比特币可编程性的曙光</title>

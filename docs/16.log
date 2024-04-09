@@ -24415,3 +24415,15 @@ Existing_entries: 1000
 Fetching from https://www.chainfeeds.xyz/rss
 append_entries: 0
 Finish: 2024-04-09 10:47:30.144421
+------------------------------------------------------
+Started: 2024-04-09 10:54:51.245654
+Existing_entries: 1000
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 150
+Summarized using GPT-3.5-turbo-1106
+Append: [【长推】从叙事到原语：全链游戏引擎 Mud、Dojo、Zypher 的 3 类设计范式](https://twitter.com/0xNing0x/status/1776967453475762389)
+Token length: 907
+Summarized using GPT-3.5-turbo-1106
+Append: [UTXO 同构绑定技术：扩容的新圣杯](https://mp.weixin.qq.com/s/rxiaZ7_mMLSnI9o4ALHLvw)
+append_entries: 2
+Finish: 2024-04-09 10:54:56.711609
