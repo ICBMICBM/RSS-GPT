@@ -25468,3 +25468,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-09 05:47:53.625082
+------------------------------------------------------
+Started: 2024-04-09 05:55:16.794552
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 253
+Summarized using GPT-3.5-turbo-1106
+Append: [STFIL披露其核心技术团队正接受中国警方调查，期间平台出现异常资金转移](https://www.panewslab.com/zh/sqarticledetails/fk9g5eyd.html)
+append_entries: 1
+Finish: 2024-04-09 05:55:20.856286
