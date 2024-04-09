@@ -21624,3 +21624,12 @@ Existing_entries: 345
 Fetching from https://bitcoinist.com/feed
 append_entries: 0
 Finish: 2024-04-09 21:29:11.219628
+------------------------------------------------------
+Started: 2024-04-09 21:36:47.731460
+Existing_entries: 345
+Fetching from https://bitcoinist.com/feed
+Token length: 4070
+Summarized using GPT-3.5-turbo-1106
+Append: [US Treasury Takes Aim At Crypto-Linked Illicit Finance: Is An Increased Crackdown On The Horizon?](https://bitcoinist.com/us-treasury-arsenal-against-crypto-illicit-finance/)
+append_entries: 1
+Finish: 2024-04-09 21:36:53.034918
