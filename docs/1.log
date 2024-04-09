@@ -25243,3 +25243,18 @@ Existing_entries: 1001
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-08 23:56:10.008336
+------------------------------------------------------
+Started: 2024-04-09 00:43:02.945947
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 148
+Summarized using GPT-3.5-turbo-1106
+Append: [MakerDAO已投票通过“将6亿美元的DAI分配至USDe和sUSDe”提案并已执行](https://www.panewslab.com/zh/sqarticledetails/w8r0x4n8.html)
+Token length: 1421
+Summarized using GPT-3.5-turbo-1106
+Append: [GameFi板块再次普涨，游戏公链成确定性机会？](https://www.panewslab.com/zh/articledetails/nie0azck.html)
+Token length: 282
+Summarized using GPT-3.5-turbo-1106
+Append: [美SEC推迟对Bitwise和灰度的比特币现货ETF期权交易申请做出决议](https://www.panewslab.com/zh/sqarticledetails/7iq5ilf9.html)
+append_entries: 3
+Finish: 2024-04-09 00:43:12.242289
