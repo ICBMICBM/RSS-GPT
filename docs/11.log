@@ -21477,3 +21477,12 @@ Existing_entries: 432
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-09 10:31:25.200844
+------------------------------------------------------
+Started: 2024-04-09 10:40:06.107489
+Existing_entries: 432
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 52
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin Supply Inactive for a Year Slides to 18-Month Low of 65.8%](https://www.coindesk.com/markets/2024/04/09/bitcoin-supply-inactive-for-a-year-slides-to-18-month-low-of-658/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-09 10:40:08.458533

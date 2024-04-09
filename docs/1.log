@@ -25720,3 +25720,12 @@ Existing_entries: 1002
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-09 10:31:17.871405
+------------------------------------------------------
+Started: 2024-04-09 10:39:46.196532
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 604
+Summarized using GPT-3.5-turbo-1106
+Append: [HashKey肖风：未来十年将是Web3的“1995时刻”，将是Web3应用爆发和价值发现的十年](https://www.panewslab.com/zh/sqarticledetails/nka56u2f.html)
+append_entries: 1
+Finish: 2024-04-09 10:39:52.292326
