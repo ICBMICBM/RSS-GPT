@@ -4,6 +4,31 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>AI、DePIN、Sol 生态三重光环加身：浅析发币在即的 IO.NET</title>
+<link>https://research.mintventures.fund/2024/04/08/zh-with-a-triple-halo-of-ai-depin-sol-ecosystem-a-brief-analysis-of-the-imminent-io-net-coin-launching/</link>
+<guid>https://research.mintventures.fund/2024/04/08/zh-with-a-triple-halo-of-ai-depin-sol-ecosystem-a-brief-analysis-of-the-imminent-io-net-coin-launching/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章讨论了Mint Ventures研究合伙人Alex Xu对IO.NET的分析，提及了AI+Web3在商业上的必要性以及分布式算力服务的必要性和挑战。IO.NET是一个去中心化计算网络，提供弹性组合、快速部署和低价服务等卖点。当前，IO.NET的供给端扩张顺利，但需求端拓展尚处于早期阶段。文章还介绍了IO.NET未来计划的服务和对估值的推演。整体来看，IO.NET的市值估值可能较为乐观，特别是从市销比的角度进行的估值测算。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Mint Ventures 研究合伙人 Alex Xu 结合 IO.NET，对 AI+Web3 在商业上的必要性，以及分布式算力服务的必要性和挑战进行思考，而后梳理 IO.NET 的关键信息，包括产品逻辑、竞品情况和项目背景，并就项目估值进行推演。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://research.mintventures.fund/2024/04/08/zh-with-a-triple-halo-of-ai-depin-sol-ecosystem-a-brief-analysis-of-the-imminent-io-net-coin-launching/">https://research.mintventures.fund/2024/04/08/zh-with-a-triple-halo-of-ai-depin-sol-ecosystem-a-brief-analysis-of-the-imminent-io-net-coin-launching/</a></p>
+<p><strong>文章作者：</strong></p><p>Alex Xu</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Alex Xu：</strong>IO.NET 是一个去中心化计算网络，其构建了一个围绕芯片的双边市场，供给端是分布在全球的芯片算力，需求端是希望完成 AI 模型训练或推理任务的人工智能工程师。与现有云 AI 算力服务商相比，其主要卖点在于：
+- 弹性组合：AI 工程师可自由挑选、组合自己所需要的芯片来组成「集群」，完成自己的计算任务；
+- 部署迅速：无需数周审批和等待，几十秒内就可以完成部署，开始任务；
+- 服务低价：服务成本比主流厂商低 90%；
+此外，IO.NET 未来还计划上线 AI 模型商店等服务。
+
+从目前的业务数据来看，[IO.NET](http://IO.NET) 供给端扩张顺利，在空投预期和代号「Ignition」的社区活动刺激下，迅速地汇聚起了大量 AI 芯片算力。而其在需求端的拓展仍处于早期阶段，有机需求目前还不足。不过考虑到 AI 算力的落差短期内较难填补，大量 AI 工程师和项目在寻求替代方案，可能会对去中心化服务商产生兴趣，加上 IO.NET 目前尚未开展对需求端的经济和活动刺激，以及产品体验的逐渐提升，后续供需两端的逐渐匹配仍然是值得期待的。
+
+根据此前创始人兼 CEO Ahmad Shadid 的说法，[IO.NET](http://IO.NET) 将在 4 月底推出代币。以 Render Network 和 Akash Network 作为估值参考标的，用两种方式推演 IO.NET 的市值区间：
+
+1）市销比，即市值 / 收入比：从市销比的角度来看，Akash 可作为 [IO.NET](http://IO.NET) 估值区间的下限，Render 则作为估值的高位定价参考，其 FDV 区间为 16.7~59.3 亿美金。但考虑到 IO.NET 项目更新，叙事更热，加上早期流通市值较小，以及目前更大的供应端规模，其 FDV 超过 Render 的可能性并不小。
+
+2）「市芯比」，即市值 / 网络芯片数比：如果以市芯比推算，[IO.NET](http://IO.NET) 以 Render Network 的市芯比为上限，以 Akash Network 为下限，其 FDV 区间为 206~1975 亿美金。这是一个极度乐观的市值推算。我们需要考虑到，目前 IO.NET 如此庞大的芯片在线张数有受到空投预期以及激励活动的刺激，项目正式上线后其供应端的实际在线数仍需观察。因此总体来说，从市销比的角度进行的估值测算可能更有参考性。</p><a href="https://research.mintventures.fund/2024/04/08/zh-with-a-triple-halo-of-ai-depin-sol-ecosystem-a-brief-analysis-of-the-imminent-io-net-coin-launching/">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-09T02:53:02+00:00</pubDate>
+</item>
 
 <item>
 <title>EthStorage 在 Celestia 基础上为 Manta Network 提供长期数据可用性解决方案</title>

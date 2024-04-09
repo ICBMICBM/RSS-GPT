@@ -25369,3 +25369,12 @@ Existing_entries: 1001
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-09 03:49:30.193101
+------------------------------------------------------
+Started: 2024-04-09 03:56:50.498434
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 261
+Summarized using GPT-3.5-turbo-1106
+Append: [美国比特币现货ETF昨日净流出约2.23亿美元，贝莱德IBIT仅净流入2130万美元](https://www.panewslab.com/zh/sqarticledetails/9o6hi5ge.html)
+append_entries: 1
+Finish: 2024-04-09 03:56:55.104942
