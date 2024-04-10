@@ -21744,3 +21744,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Spot Ethereum ETFs Unlikely Get SEC Approval, Bitcoin Exchange-Traded Fund Issuers Warn](https://bitcoinist.com/spot-ethereum-etfs-unlikely-get-sec-approval/)
 append_entries: 1
 Finish: 2024-04-10 01:32:02.424347
+------------------------------------------------------
+Started: 2024-04-10 02:06:35.157008
+Existing_entries: 349
+Fetching from https://bitcoinist.com/feed
+Token length: 2866
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin Demand Outpacing Miner Issuance To Unprecedented Degree: Data](https://bitcoinist.com/bitcoin-demand-miner-issuance-unprecedented-degree/)
+append_entries: 1
+Finish: 2024-04-10 02:06:38.539897
