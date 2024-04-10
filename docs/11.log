@@ -22458,3 +22458,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [U.S. CPI Comes in Faster Than Hoped, Rising 0.4% in March](https://www.coindesk.com/business/2024/04/10/us-cpi-comes-in-faster-than-hoped-rising-04-in-march/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-04-10 12:48:36.924843
+------------------------------------------------------
+Started: 2024-04-10 12:58:25.711177
+Existing_entries: 463
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-04-10 12:58:26.397172
