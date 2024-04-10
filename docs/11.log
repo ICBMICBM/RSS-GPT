@@ -22068,3 +22068,12 @@ Existing_entries: 451
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-10 02:40:26.000745
+------------------------------------------------------
+Started: 2024-04-10 02:47:42.622870
+Existing_entries: 451
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 41
+Summarized using GPT-3.5-turbo-1106
+Append: [Is the Sam Bankman-Fried Story Over?](https://www.coindesk.com/policy/2024/04/10/is-the-sam-bankman-fried-story-over/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-10 02:47:44.981164
