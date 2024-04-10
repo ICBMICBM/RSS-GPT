@@ -26335,3 +26335,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [市场消息：香港证监会计划要赶在4月15日对外公布首批现货比特币ETF名单](https://www.panewslab.com/zh/sqarticledetails/85ls8nfa.html)
 append_entries: 4
 Finish: 2024-04-10 02:06:21.702028
+------------------------------------------------------
+Started: 2024-04-10 02:28:16.422898
+Existing_entries: 1004
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 415
+Summarized using GPT-3.5-turbo-1106
+Append: [CyberConnect推出Cyber再质押功能和双质押模型](https://www.panewslab.com/zh/sqarticledetails/lmz0rden.html)
+Token length: 206
+Summarized using GPT-3.5-turbo-1106
+Append: [Polychain Capital近两日从Binance和Coinbase Prime提取4690枚ETH](https://www.panewslab.com/zh/sqarticledetails/ihe68npr.html)
+Token length: 2520
+Summarized using GPT-3.5-turbo-1106
+Append: [一文速览OKX Web3高管“2024香港Web3嘉年华”精彩观点](https://www.panewslab.com/zh/articledetails/5016uzm8.html)
+append_entries: 3
+Finish: 2024-04-10 02:28:27.946302
