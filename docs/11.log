@@ -22557,3 +22557,12 @@ Existing_entries: 466
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-10 15:17:05.212448
+------------------------------------------------------
+Started: 2024-04-10 15:26:03.321976
+Existing_entries: 466
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 28
+Summarized using GPT-3.5-turbo-1106
+Append: [Alpen Labs Looks to Scale Bitcoin With Zero-Knowledge Proofs Using $10.6M Funding](https://www.coindesk.com/tech/2024/04/10/alpen-labs-looks-to-scale-bitcoin-with-zero-knowledge-proofs-using-106m-funding/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-10 15:26:08.061017
