@@ -26533,3 +26533,15 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-10 06:55:31.483492
+------------------------------------------------------
+Started: 2024-04-10 07:09:44.247628
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 125
+Summarized using GPT-3.5-turbo-1106
+Append: [币安将移除BAKE/BNB、ID/TUSD等6个现货交易对](https://www.panewslab.com/zh/sqarticledetails/57ro4813.html)
+Token length: 1567
+Summarized using GPT-3.5-turbo-1106
+Append: [重磅CPI出炉前，BTC“先跌为敬”](https://www.panewslab.com/zh/articledetails/c3sfprms.html)
+append_entries: 2
+Finish: 2024-04-10 07:09:52.567343

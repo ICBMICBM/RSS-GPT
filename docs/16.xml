@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>【长推】USDe 经济模型与潜在风险解析</title>
 <link>https://twitter.com/i/web/status/1777656428037312842</link>
 <guid>https://twitter.com/i/web/status/1777656428037312842</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的<br>加密货币 KOL 0xLoki 分析了 USDe 稳定币的经济模型和潜在风险。他认为 USDe 的抵押物构成相对稳定，但可能受到市场容量限制、托管风险和利率持续性等挑战的影响。USDe 是一种足额抵押的半中心化稳定币，其抵押物包括加密资产和空头期货头寸的合成资产。然而，USDe 面临着流动性风险，托管风险，以及与合约市场容量相关的挑战。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的<br />加密货币 KOL 0xLoki 分析了 USDe 稳定币的经济模型和潜在风险。他认为 USDe 的抵押物构成相对稳定，但可能受到市场容量限制、托管风险和利率持续性等挑战的影响。USDe 是一种足额抵押的半中心化稳定币，其抵押物包括加密资产和空头期货头寸的合成资产。然而，USDe 面临着流动性风险，托管风险，以及与合约市场容量相关的挑战。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>加密货币 KOL 0xLoki 探讨了 USDe 稳定币的经济模型及潜在风险。认为 USDe 的抵押物构成相对稳定，但其面临市场容量限制、托管风险和利率可持续性等挑战。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/i/web/status/1777656428037312842">https://twitter.com/i/web/status/1777656428037312842</a></p>
 <p><strong>文章作者：</strong></p><p>0xLoki</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>0xLoki：</strong>USDe 界定：足额抵押的半中心化稳定币。稳定币有许多种分类方式，例如：1）足额抵押和非足额抵押；2）中心化托管和非中心化托管；3）链上发行与中心化机构发行；4）需许可和无需许可。其中还会存在一些重叠和变化，例如过去我们认为 AMPL、UST 等算法稳定币供应和流通完全由算法调节的稳定币。按照此定义，大部分稳定币属于非足额抵押稳定币，但也有例外，例如 Lumiterra 的 LUAUSD，尽管其铸造和销毁价格是由算法调节，但协议金库提供了不少于 LUAUSD 锚定价值的抵押物（USDT & USDC），LUAUSD 兼具算法稳定币和足额抵押稳定币两重属性。
@@ -18,10 +19,8 @@
 
 现在我们已经明确，抵押物风险并不值得担心。但这并不意味着没有其他风险。最值得关注的是合约市场容量对 Ethena 的潜在限制。第一个风险是流动性风险。目前 USDe 的发行量约 20.4 亿美元，其中 ETH 和 LST 合计约 12.4 亿美元，这也就意味着完全对冲情况下需要开设 12.4 亿美元的空头头寸，所需的头寸规模于 USDe 的规模成正比。托管风险：Ethena 另一个争议的点在于协议的资金由第三方机构托管。这是基于目前市场环境的妥协。Coinglass 数据显示，dydx 的 BTC 合约持仓总量为 1.19 亿美元，仅有 Binance 的 1.48%，Bybit 的 2.4%。所以通过中心化交易所管理头寸对 Ethena 来说是无法避免的。</p><a href="https://twitter.com/i/web/status/1777656428037312842">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-10T06:14:24+00:00</pubDate>
 </item>
-
 <item>
 <title>【长推】观点：以太坊正在追求密码学的极限</title>
 <link>https://twitter.com/i/web/status/1777549788114006375</link>
@@ -11686,16 +11685,6 @@ Froqorion：以远古青蛙文明 为背景的团队角色扮演游戏。</p><a 
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />ZK互操作协议zkBridge的开发商Polyhedra Network以10亿美元估值完成了2000万美元的战略融资，由Polychain Capital领投。Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital等也参与了投资。融资将用于招聘跨职能部门人员，将团队规模从50人扩大到80人。这些信息是积极的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。ZK 互操作协议 zkBridge 的开发商 Polyhedra Network 完成了 2000 万美元的战略融资，以 10 亿美元估值。Polychain Capital 领投，同时有其他参投方。资金将用于团队扩大、招聘和业务开发。融资是通过未来代币或 SAFT 的简单协议进行的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
