@@ -26701,3 +26701,12 @@ Existing_entries: 1001
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-10 10:43:22.880874
+------------------------------------------------------
+Started: 2024-04-10 10:50:30.771084
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 176
+Summarized using GPT-3.5-turbo-1106
+Append: [Swell Network现已开放其L2 pre-launch存款功能](https://www.panewslab.com/zh/sqarticledetails/7251ep1z.html)
+append_entries: 1
+Finish: 2024-04-10 10:50:34.534605
