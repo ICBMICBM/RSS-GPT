@@ -22386,3 +22386,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bitcoin Falls Below $69K Ahead of U.S. CPI; Cardano, Dogecoin Lead Majors Losses](https://www.coindesk.com/markets/2024/04/10/bitcoin-falls-below-69k-ahead-of-us-cpi-cardano-dogecoin-lead-majors-losses/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-04-10 10:50:44.664444
+------------------------------------------------------
+Started: 2024-04-10 10:58:04.353079
+Existing_entries: 459
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-04-10 10:58:04.869240
