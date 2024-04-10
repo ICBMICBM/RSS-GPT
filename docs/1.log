@@ -27223,3 +27223,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [美国SEC向Uniswap发出韦尔斯通知](https://www.panewslab.com/zh/sqarticledetails/1e904u58.html)
 append_entries: 1
 Finish: 2024-04-10 23:47:15.282685
+------------------------------------------------------
+Started: 2024-04-10 23:54:37.337684
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 62
+Summarized using GPT-3.5-turbo-1106
+Append: [比特币短时突破71000美元后回落至70500美元附近](https://www.panewslab.com/zh/sqarticledetails/m7b3z2vn.html)
+append_entries: 1
+Finish: 2024-04-10 23:54:40.740521
