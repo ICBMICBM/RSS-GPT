@@ -26758,3 +26758,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-10 11:52:26.658927
+------------------------------------------------------
+Started: 2024-04-10 11:59:37.423339
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 234
+Summarized using GPT-3.5-turbo-1106
+Append: [矿工持有的比特币数量降至179.4万枚](https://www.panewslab.com/zh/sqarticledetails/zub4ck8z.html)
+append_entries: 1
+Finish: 2024-04-10 11:59:42.445217
