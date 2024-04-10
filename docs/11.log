@@ -22686,3 +22686,15 @@ Existing_entries: 475
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-10 18:01:10.856256
+------------------------------------------------------
+Started: 2024-04-10 18:25:00.268254
+Existing_entries: 475
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 22
+Summarized using GPT-3.5-turbo-1106
+Append: [The Protocol: How to Engineer Harder Money, or Just Make Your Own](https://www.coindesk.com/tech/2024/04/10/the-protocol-how-to-engineer-harder-money-or-just-make-your-own/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 75
+Summarized using GPT-3.5-turbo-1106
+Append: [EigenLayer, Crypto's Biggest Project Launch This Year, Is Still Missing Crucial Functionality](https://www.coindesk.com/tech/2024/04/10/eigenlayer-cryptos-biggest-project-launch-this-year-is-still-missing-crucial-functionality/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 2
+Finish: 2024-04-10 18:25:05.710290
