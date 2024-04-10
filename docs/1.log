@@ -26776,3 +26776,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [市值进入TOP10，哪些因素催化了TON的猛烈涨势？](https://www.panewslab.com/zh/articledetails/dc7rmgo5.html)
 append_entries: 1
 Finish: 2024-04-10 12:29:01.457690
+------------------------------------------------------
+Started: 2024-04-10 12:48:10.781409
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 59
+Summarized using GPT-3.5-turbo-1106
+Append: [比特币跌破68000美元，日内跌幅2.4%](https://www.panewslab.com/zh/sqarticledetails/yvy47zoo.html)
+Token length: 3033
+Summarized using GPT-3.5-turbo-1106
+Append: [Runes协议上线前夕，22个值得关注的符文项目大盘点](https://www.panewslab.com/zh/articledetails/5wa9mss6.html)
+Token length: 108
+Summarized using GPT-3.5-turbo-1106
+Append: [美国3月未季调CPI年率3.5%，略高于预期](https://www.panewslab.com/zh/sqarticledetails/ptbl3sy0.html)
+append_entries: 3
+Finish: 2024-04-10 12:48:20.685341

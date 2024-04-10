@@ -22128,3 +22128,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bitcoin ETF Outflows Nearing Equilibrium, Says Grayscale Chief](https://bitcoinist.com/bitcoin-etf-outflows-equilibrium-grayscale/)
 append_entries: 1
 Finish: 2024-04-10 12:29:19.504895
+------------------------------------------------------
+Started: 2024-04-10 12:48:37.715483
+Existing_entries: 355
+Fetching from https://bitcoinist.com/feed
+append_entries: 0
+Finish: 2024-04-10 12:48:37.912410
