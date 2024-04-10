@@ -4,6 +4,23 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>比特币 Layer2 哪家强？一览热门二层协议现状及发展趋势</title>
+<link>https://mp.weixin.qq.com/s/noiyijgQAj-pvcQPlwAm3Q</link>
+<guid>https://mp.weixin.qq.com/s/noiyijgQAj-pvcQPlwAm3Q</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。比特币 Layer2 解决方案目前有四大类，包括比特币侧链和UTXO+客户端验证。比特币侧链是与主链连接的独立区块链系统，如Stacks和RSK，提供智能合约和 DeFi 支持。UTXO+客户端验证是基于比特币 UTXO 的扩容方案，如RGB和BitVM，旨在实现链下账本计算和复杂合约功能。这些方案尝试提高比特币交易速度和功能，但也面临着实施难度和复杂性的挑战。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>目前市面上的比特币 Layer2 较多，其分别是比特币侧链，UTXO+ 客户端验证、Roullp 以及 Taproot Consensus 等四大类。白话区块链分析了比特币 Layer2 解决方案的现状和发展趋势，并详细介绍了比特币侧链、UTXO + 客户端验证两类。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/noiyijgQAj-pvcQPlwAm3Q">https://mp.weixin.qq.com/s/noiyijgQAj-pvcQPlwAm3Q</a></p>
+<p><strong>文章作者：</strong></p><p>白话区块链</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>白话区块链：</strong>比特币侧链是与比特币主链连接的独立区块链系统，一般是通过双向跨链桥连接到主链的独立区块链。它允许用户将比特币锁定在主链上，然后在侧链上进行交易和操作。Stacks 的定位是比特币的智能合约层，旨在为比特币系统引入智能合约和 Dapp，通过独特的 Proof of Transfer（PoX）共识机制将自身与比特币主链相连接。Stacks 允许开发者构建智能合约和 Dapp。RSK（Rootstock）的定位是支持智能合约的比特币 Layer2，并专注于 DeFi。RSK 没有原生 Token，引入 RBTC 作为支付交易手续费，目标是成为金融包容性的基石。Lightning Network 是建立在比特币网络之上的扩展解决方案，旨在提高比特币交易的速度，但是其网络不支持智能合约。
+
+UTXO + 客户端验证是一种比特币 UTXO 账户模型的扩容方案，它试图基于比特币 UTXO 上进行链下账本计算，并通过客户端验证来确保账本的真实性。但实际上，这个方案的实施非常困难。因为比特币的设计并不支持复杂的计算，将额外的任务整合到 UTXO 模型中变得非常复杂。这个方案强调了比特币的原生性，但是可能忽略了可行性和实际操作的难度。
+
+RGB 是一个旨在构建基于比特币 UTXO 模型和闪电网络的比特币 Layer2 解决方案。RGB 的设计思路是将链外的 RGB 交易与比特币交易的 UTXO 绑定在一起。RGB++ 协议是 Nervos 联创年初受到 RGB 协议启发而提出的协议，其主要思路与 RGB 类似，通过在链下进行计算、执行和验证交易，然后在比特币链上进行结算。BitVM 是 ZeroSync 项目负责人 Robin Linus 提出的比特币虚拟机概念解决方案。BitVM 提供了一种在比特币网络上实现复杂合约的方法，同时保持比特币的安全性和去中心化特性。</p><a href="https://mp.weixin.qq.com/s/noiyijgQAj-pvcQPlwAm3Q">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-10T03:04:35+00:00</pubDate>
+</item>
 
 <item>
 <title>Solana Q1 报告：Memecoin 爆发带动新用户增长，融资额增至 8920 万美元</title>
