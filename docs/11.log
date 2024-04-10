@@ -22464,3 +22464,12 @@ Existing_entries: 463
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-10 12:58:26.397172
+------------------------------------------------------
+Started: 2024-04-10 13:15:30.194711
+Existing_entries: 463
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 14
+Summarized using GPT-3.5-turbo-1106
+Append: [Staking Provider P2P Launches Staking-as-a-Business for Institutions](https://www.coindesk.com/business/2024/04/10/staking-provider-p2p-launches-staking-as-a-business-for-institutions/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-10 13:15:34.391019
