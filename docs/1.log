@@ -26815,3 +26815,15 @@ Existing_entries: 1002
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-10 13:25:03.117278
+------------------------------------------------------
+Started: 2024-04-10 13:32:52.517520
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 97
+Summarized using GPT-3.5-turbo-1106
+Append: [灰度向Coinbase Prime等地址转入约2931枚BTC](https://www.panewslab.com/zh/sqarticledetails/517tcm9x.html)
+Token length: 198
+Summarized using GPT-3.5-turbo-1106
+Append: [质押服务提供商P2P.org推出面向机构的SaaB模式](https://www.panewslab.com/zh/sqarticledetails/ocvd6m6o.html)
+append_entries: 2
+Finish: 2024-04-10 13:32:59.269820
