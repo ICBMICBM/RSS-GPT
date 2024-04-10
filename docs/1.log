@@ -26626,3 +26626,15 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-10 08:55:51.532136
+------------------------------------------------------
+Started: 2024-04-10 09:11:38.814445
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 734
+Summarized using GPT-3.5-turbo-1106
+Append: [调查：美国超过五分之一的年轻人拥有Crypto资产](https://www.panewslab.com/zh/articledetails/09vi5twp.html)
+Token length: 433
+Summarized using GPT-3.5-turbo-1106
+Append: [Coinbase Cloud和Google Cloud等多家公司成为EigenLayer主网节点运营商](https://www.panewslab.com/zh/sqarticledetails/3vixafk6.html)
+append_entries: 2
+Finish: 2024-04-10 09:11:46.362749
