@@ -22422,3 +22422,12 @@ Existing_entries: 459
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-10 11:45:07.859035
+------------------------------------------------------
+Started: 2024-04-10 11:52:32.982750
+Existing_entries: 459
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 17
+Summarized using GPT-3.5-turbo-1106
+Append: [Crypto Miners Run Down Bitcoin Inventory to 3-Year Low in a Strategic Pre-Halving Move](https://www.coindesk.com/markets/2024/04/10/crypto-miners-run-down-bitcoin-inventory-to-3-year-low-in-a-strategic-pre-halving-move/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-10 11:52:35.670555
