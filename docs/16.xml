@@ -4,22 +4,21 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>【英文长推】EigenLayer 和 EigenDA 上线主网：全新的功能和机会</title>
 <link>https://twitter.com/eigenlayer/status/1777757913718899074</link>
 <guid>https://twitter.com/eigenlayer/status/1777757913718899074</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。<br>1. EigenLayer 在以太坊主网上正式启动，为用户提供新功能和机会。<br>2. 用户可以将质押权委托给选择的运营商，运营商可以注册并选择运行 AVS。<br>3. EigenDA 是第一个 AVS，旨在解决加密数据可用性、吞吐量和存储瓶颈问题。<br>4. EigenDA是EigenLayer长期愿景的一部分，旨在消除以太坊区块空间限制。<br>5. Rollups的优势包括面向未来的可扩展性、灵活的定价和付款、易于集成、以及未来的原生Rollup代币质押。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。<br />1. EigenLayer 在以太坊主网上正式启动，为用户提供新功能和机会。<br />2. 用户可以将质押权委托给选择的运营商，运营商可以注册并选择运行 AVS。<br />3. EigenDA 是第一个 AVS，旨在解决加密数据可用性、吞吐量和存储瓶颈问题。<br />4. EigenDA是EigenLayer长期愿景的一部分，旨在消除以太坊区块空间限制。<br />5. Rollups的优势包括面向未来的可扩展性、灵活的定价和付款、易于集成、以及未来的原生Rollup代币质押。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>EigenLayer 在以太坊主网上正式启动，为用户提供了全新的功能和机会，包括将质押权委托给运营商、运营商可以注册并选择运行 AVS 等。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/eigenlayer/status/1777757913718899074">https://twitter.com/eigenlayer/status/1777757913718899074</a></p>
 <p><strong>文章作者：</strong></p><p>EigenLayer</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>EigenLayer：</strong>重质押者可以将其全部质押委托给他们选择的运营商，运营商可以向 EigenLayer 注册并选择运行 AVS，AVS 可以注册该协议，从 EigenDA（目前处于测试阶段）开始。到目前为止，重质押意味着将 LST 存入 EigenPod 或将验证者提款凭证设置到 EigenPod。在接下来的几周内，随着新操作员和 AVS 上线，我们预计前 200 名活跃操作员的更替率会很高。用户可以随时重新委托。如果通过 LRT 重质押，LRT DAO 将管理委托。每个 LRT 管理委托的准备阶段都不同。除了 EigenDA，还有更多 AVS 将在主网上推出（10 多个 AVS 正在 Holesky 上积极测试）。
 
 EigenDA 通常被称为第一个 AVS，但它的意义远不止于此。我们正在努力打造一个未来，让 EigenDA 成为解决加密数据可用性、吞吐量和存储瓶颈问题的最高效、可扩展且经济高效的解决方案。EigenDA 在成为 DA 的最终目标，也是消除以太坊区块空间限制的关键。Rollups 的优点包括：面向未来的可扩展性 (1000x)、灵活的定价和付款、易于集成、（未来）原生 Rollup 代币质押。EigenDA 是长期 EigenLayer 愿景不可或缺的一部分：为了能够惩罚不良行为，协议必须能够访问与相关交易相关的数据。【原文为英文】</p><a href="https://twitter.com/eigenlayer/status/1777757913718899074">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-10T07:45:33+00:00</pubDate>
 </item>
-
 <item>
 <title>【长推】USDe 经济模型与潜在风险解析</title>
 <link>https://twitter.com/i/web/status/1777656428037312842</link>
@@ -11690,16 +11689,6 @@ Froqorion：以远古青蛙文明 为背景的团队角色扮演游戏。</p><a 
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成了以 10 亿美元估值的 2000 万美元战略融资，由 Polychain Capital 领投。其他参投者包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium 和 Mapleblock Capital。这将用于招聘人员，将团队规模从50人扩大到80人，确保跨职能部门的发展，例如产品、工程、业务开发和营销。整个投资过程中都是通过未来代币或 SAFT 的简单协议进行的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK互操作协议zkBridge的开发商Polyhedra Network以10亿美元估值完成了2000万美元的战略融资，由Polychain Capital领投。Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital等也参与了投资。融资将用于招聘跨职能部门人员，将团队规模从50人扩大到80人。这些信息是积极的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>

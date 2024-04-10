@@ -26584,3 +26584,18 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-10 07:58:50.114821
+------------------------------------------------------
+Started: 2024-04-10 08:20:53.966643
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 255
+Summarized using GPT-3.5-turbo-1106
+Append: [Twitter Space 视频回顾| 比特币减半倒计时！我们应该期待和注意什么？](https://www.panewslab.com/zh/articledetails/15329dop.html)
+Token length: 440
+Summarized using GPT-3.5-turbo-1106
+Append: [Mysten Labs将与游戏公司Playtron合作推出手持游戏设备SuiPlay0x1](https://www.panewslab.com/zh/sqarticledetails/j3esne5h.html)
+Token length: 1445
+Summarized using GPT-3.5-turbo-1106
+Append: [Web3数字奢侈品为何值天价？浅析其内在逻辑](https://www.panewslab.com/zh/articledetails/gik66n31.html)
+append_entries: 3
+Finish: 2024-04-10 08:21:04.443105
