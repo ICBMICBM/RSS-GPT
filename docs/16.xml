@@ -4,6 +4,42 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>【英文】Starknet 的终局之战：目标是成为 Integrity Web 的基础层</title>
+<link>https://www.ignasdefi.com/p/endgame-for-starknet</link>
+<guid>https://www.ignasdefi.com/p/endgame-for-starknet</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的<br>1. Starknet 是第一个投入生产的通用 ZkRollup。<br>2. STARKs 技术已成为行业标准，比 SNARKs 更高效。<br>3. Starknet 目标是成为诚信网络的基础层，提供灵活的货币政策控制。<br>4. Starknet 希望实现底层的水平扩展，在未来将推出许多新技术。<br>5. 发布的 Stwo 显示了 Starknet 的技术进步。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>加密货币 KOL Ignas 采访了 StarkWare 产品 / 市场战略主管和 Starknet Foudation 开发人员关系主管，深入探讨 Starknet 生态系统的各个方面，从最近的空投活动到未来的发展愿景。从 Starknet 的技术特点、STRK 代币的使用、空投计划以及未来的发展方向进行了深入分析。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.ignasdefi.com/p/endgame-for-starknet">https://www.ignasdefi.com/p/endgame-for-starknet</a></p>
+<p><strong>文章作者：</strong></p><p>Ignas | DeFi Research</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Ignas | DeFi Research：</strong>Starknet 是第一个投入生产的通用 ZkRollup。StarkWare 公司是 dYdX（v3，也就是大家都知道的版本）、Sorare、Immutable、Apex、Brine 和许多其他产品的区块链后台开发公司。从某种意义上说，我们是在方法和市场推广方面最接近与 Solana 竞争的公司。星网之所以能脱颖而出，主要是因为它的开发社区。其他所有的卷积都在争夺同时建立在所有卷积上的项目，而 Starknet 则吸引了对其独特功能感兴趣的开发人员。
+
+STARKs 技术现已成为除 Aztec 之外的行业标准。而 SNARKs 则依赖于较少经过实战检验的技术。此外，SNARKs 使用了非常酷的数学特性，但这些特性使其计算效率较低。SNARKs 的核心优势在于它们的体积非常小，因此在以太坊上非常有竞争力。我们更倾向于完全不使用它们，因为这样可以为加密技术提供更大的灵活性。Starknet 在链的几乎所有方面都有自己的环境，因此，网络需要对其环境拥有完全的主权。用 STRK 支付意味着星际网络可以更好地控制货币政策，并在市场条件发生变化时进行调整。
+
+Starknet 的目标是成为诚信网络的基础层。正如其他完美的说法一样，证明是区块链的银弹，很快，我们所做的协议选择、并行化、智能账户、主网可用的验证器以及优化的虚拟机和语言都将到位，让所有人都能看到。为了实现这一目标，我们希望在底层实现水平扩展。L3 将继续存在，但它们将以一种透明的方式融入基础层，用户不会真正知道自己是在不同的执行环境中工作。许多新技术正在向我们走来，最终将使用户受益匪浅。我们已经可以从 Stwo 的发布中看到这一点。【原文为英文】</p><a href="https://www.ignasdefi.com/p/endgame-for-starknet">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-10T04:33:37+00:00</pubDate>
+</item>
+<item>
+<title>【英文】Maven 11：利用模块化架构实现互补商品化</title>
+<link>https://paragraph.xyz/@maven11research/commoditise-your-complements</link>
+<guid>https://paragraph.xyz/@maven11research/commoditise-your-complements</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章指出补充品的商品化可以降低成本，扩大市场，提供更多选择，以及促进创新。开源软件在区块链领域中起着关键作用，而zkVM技术的发展也带来了更多可能性。加密货币经济提供者的成本增加，但提供了更多的经济安全选择。在应用链运行方面仍存在挑战，但社区协作与市场竞争将推动行业发展。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>补充品指的是构建应用程序所依赖的基础设施、安全性和派生产品，这些产品的大部分尚未成为商品化的产品，因此构建具有更多控制权的应用程序成本高昂。Maven 11 研究员 rain&amp;coffee 探讨了如何通过模块化架构将应用程序的补充品商品化，同时保持对其的控制。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://paragraph.xyz/@maven11research/commoditise-your-complements">https://paragraph.xyz/@maven11research/commoditise-your-complements</a></p>
+<p><strong>文章作者：</strong></p><p>Rain&amp;coffee</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Rain&amp;coffee：</strong>数据可用性在某种程度上已经商品化，这种商品化也意味着我们正在看到大量形形色色的卷积数据被开发出来。区块空间的 "商品化"（特别是数据可用性，但我们预计模块栈的其他部分也会出现这种情况）导致价格下降，从而增加了需求。除了降低互补品的成本，互补品商品化还与扩大周边市场的理念息息相关。这将为你自己创造价值，我们在 Web2 的开源软件中尤其能看到这一点，尽管这同样也正在成为 Web3 的一种趋势。
+
+我们看到一些团队正在构建通用的 zkVMs，而不是定制电路。通过兼容的通用 zkVM（如 Risc Zero 和 Succinct），在 Rust 中运行 rollups 的状态转换函数（STF），这已成为可能。虽然针对某个区块链虚拟机的完全定制电路 zkVM 肯定更优化，但通用的 zkVM 正在迎头赶上。这也意味着随着相关虚拟机的发展，维护和升级工作也会减少。软件（特别是开源软件）的货币化相当困难，尤其是在网络 3 领域。然而，正如前面在补充商品化中解释的那样，营利性公司提供开源软件并不是一个新想法；相反，它被用作一个漏斗。Risc Zero 就是一个很好的例子，它利用开源的 zkVM 将开发者引入其生态系统，而这些开发者都是 Bonsai 等可货币化产品的潜在客户。
+
+作为基础设施构建的应用程序（rollup）已将大部分工作外包给其补充者，转而专注于提供尽可能好的产品和用户体验，而无需处理协调使区块链高效的一切工作。这也预示着，web2 中闻名遐迩的 API 经济似乎也将慢慢地、但肯定地进入加密货币领域。开发人员还有其他重要的方面和需求。需要说明的一点是，提供选择并非坏事。我们认为，选择和自由无许可的市场对创新至关重要。归根结底，客户会通过市场力量，选择他们认为可行的产品。
+
+加密货币经济提供者（运行新状态机和运行时的操作员）的成本增加了。此外，你需要支付一定比例的费用（这可能甚至无法覆盖运营成本或支付足够的年利率，以保证提供经济安全），而不是支付一定比例的 DA 或结算费用，以获得经济安全。另一种不太理想的可能性是，您支付一定比例的代币奖励（但这样一来，您就会给原生代币增加持续的抛售压力）。这也是将成熟的应用链作为小型应用运行的弊端之一，而不是协调任务。在大多数共享安全模式中，还存在通过社会削减进行削减的附加条件（风险）。这是因为操作员和恢复者对他们所提供安全的状态机的结果有自己的看法。【原文为英文】</p><a href="https://paragraph.xyz/@maven11research/commoditise-your-complements">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-10T04:22:02+00:00</pubDate>
+</item>
 
 <item>
 <title>比特币 Layer2 哪家强？一览热门二层协议现状及发展趋势</title>
