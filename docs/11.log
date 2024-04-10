@@ -22503,3 +22503,12 @@ Existing_entries: 464
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-10 13:54:39.565252
+------------------------------------------------------
+Started: 2024-04-10 14:07:17.321521
+Existing_entries: 464
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 252
+Summarized using GPT-3.5-turbo-1106
+Append: [How the Halving Will Impact the Bitcoin Market](https://www.coindesk.com/consensus-magazine/2024/04/10/how-the-halving-will-impact-the-bitcoin-market/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-10 14:07:19.934751
