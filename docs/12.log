@@ -22119,3 +22119,12 @@ Existing_entries: 354
 Fetching from https://bitcoinist.com/feed
 append_entries: 0
 Finish: 2024-04-10 11:59:49.722692
+------------------------------------------------------
+Started: 2024-04-10 12:29:15.888244
+Existing_entries: 354
+Fetching from https://bitcoinist.com/feed
+Token length: 3286
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin ETF Outflows Nearing Equilibrium, Says Grayscale Chief](https://bitcoinist.com/bitcoin-etf-outflows-equilibrium-grayscale/)
+append_entries: 1
+Finish: 2024-04-10 12:29:19.504895

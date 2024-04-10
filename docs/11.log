@@ -22437,3 +22437,15 @@ Existing_entries: 460
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-10 11:59:48.864551
+------------------------------------------------------
+Started: 2024-04-10 12:29:07.959679
+Existing_entries: 460
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 10
+Summarized using GPT-3.5-turbo-1106
+Append: [First Mover Americas: Meme Coin Indexes Are Here](https://www.coindesk.com/markets/2024/04/10/first-mover-americas-meme-coin-indexes-are-here/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 72
+Summarized using GPT-3.5-turbo-1106
+Append: [New Zealand Crypto Policy Should Support Industry, Minister for Commerce Says](https://www.coindesk.com/policy/2024/04/10/new-zealand-crypto-policy-should-support-industry-minister-for-commerce-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 2
+Finish: 2024-04-10 12:29:15.123415
