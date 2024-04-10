@@ -26500,3 +26500,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-10 05:58:38.464694
+------------------------------------------------------
+Started: 2024-04-10 06:18:43.855372
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 3885
+Summarized using GPT-3.5-turbo-1106
+Append: [足额抵押的半中心化稳定币USDe存在哪些风险？](https://www.panewslab.com/zh/articledetails/znl2fi17.html)
+append_entries: 1
+Finish: 2024-04-10 06:18:50.324209

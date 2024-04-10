@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>【长推】观点：以太坊正在追求密码学的极限</title>
 <link>https://twitter.com/i/web/status/1777549788114006375</link>
 <guid>https://twitter.com/i/web/status/1777549788114006375</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。Vitalik 在香港峰会上谈到以太坊的密码学前沿，包括 ZK-SNARKs、2PC、MPC、FHE、聚合签名和改善 P2P 网络。他强调了将学术理论转化为技术实践的重要性，以实现更隐私、安全和高效的区块链。以太坊致力于吸收更多密码学成果，以将密码学的上限应用于区块链领域。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。Vitalik 在香港峰会上谈到以太坊的密码学前沿，包括 ZK-SNARKs、2PC、MPC、FHE、聚合签名和改善 P2P 网络。他强调了将学术理论转化为技术实践的重要性，以实现更隐私、安全和高效的区块链。以太坊致力于吸收更多密码学成果，以将密码学的上限应用于区块链领域。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>Vitalik 低调亮相万向 Hasheky 香港峰会，发言利索，没有繁文缛节，一上来就是 ETH 干货放送，平铺直叙。加密货币 KOL 0xTodd 结合本次演讲，认为以太坊现在的目标，就是能把密码学的理论转换为工程实践。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/i/web/status/1777549788114006375">https://twitter.com/i/web/status/1777549788114006375</a></p>
 <p><strong>文章作者：</strong></p><p>0xTodd</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>0xTodd：</strong>现在以太坊最关注的密码学前沿是：ZK-SNARKs；2PC、MPC、FHE；聚合签名；改善 P2P 网络。比如聚合签名，其实比特币已经在 Schnorr 升级做过类似升级。而以太坊倾向的 BLS 聚合签名升级和 Schnorr 各有千秋，也能做到让多个签名聚合成一个签名这件事变得非常丝滑。
@@ -19,7 +20,6 @@
 
 其次是，安全。只要是人类，就会犯错误。谁也不能保证自己的代码里面没有 bug。现在，Debug 靠肉眼，比如「安全委员会」。但是将来，也许可以靠 multi-provers，通过一些。更远的将来，甚至可以靠 AI。在兼具的安全和效率的前提下，吸纳更多的密码学成果，以太坊的目标直指密码学的上限。</p><a href="https://twitter.com/i/web/status/1777549788114006375">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-10T05:42:35+00:00</pubDate>
 </item>
 <item>
@@ -27,7 +27,7 @@
 <link>https://twitter.com/kylewmi/status/1777546660106903681</link>
 <guid>https://twitter.com/kylewmi/status/1777546660106903681</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的<br>AO超并行计算机宣布开启测试网后取得了进展，AR币价逆势上涨。项目成员Kyle_13回顾了AO发布一个月来的进展：AO网络可实现任务分配给不同节点独立执行，Cookbook发布了技术文档方便理解，$CRED是AO测试网的原生代币，Hack The Weave Hackathon围绕AO进行。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的<br />AO超并行计算机宣布开启测试网后取得了进展，AR币价逆势上涨。项目成员Kyle_13回顾了AO发布一个月来的进展：AO网络可实现任务分配给不同节点独立执行，Cookbook发布了技术文档方便理解，$CRED是AO测试网的原生代币，Hack The Weave Hackathon围绕AO进行。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>自超并行计算机 AO 在 2 月 27 日宣布开启测试网后，受到了市场极大的关注。AR 币价也曾三次在市场普跌时逆势大幅上涨。PermaDAO 成员 Kyle_13 从 AO 网络概况、生态项目与重点事件等维度，回顾 AO 发布一个月时间所取得的进展。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/kylewmi/status/1777546660106903681">https://twitter.com/kylewmi/status/1777546660106903681</a></p>
 <p><strong>文章作者：</strong></p><p>Kyle_13</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Kyle_13：</strong>假设有一项任务，需要计算从 1 到 100 的所有整数的总和。对于 AO：任务可以分配给不同的节点计算机独立执行，然后通过 AO 网络协作。比如计算 1 到 50 的总和的任务分配给节点 1，计算 51 到 100 的总和的任务分配给节点 2。对于以太坊 EVM：每个节点都必须执行相同的计算过程，也就是计算从 1 到 100 的所有整数的总和。这不仅导致了计算冗余，即使其中一些节点已经完成了计算，仍然需要等待其他节点都完成计算才可以执行下面的任务。
@@ -38,10 +38,8 @@ $CRED 是 AO 测试网的原生代币，持有 $CRED 的数量等同于对 AO �
 
 Hack The Weave Hackathon 是一场 Arweave 社区为期 11 天的线上黑客松比赛。与以往不同，这次的黑客松主要是围绕 AO 开展，设置了「全栈 Permaweb 应用程序」、「索引器 /LLMs」与「MemeFrame 锦标赛」等多个奖项，赏金共计超过 10,000 美元。</p><a href="https://twitter.com/kylewmi/status/1777546660106903681">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-10T05:25:39+00:00</pubDate>
 </item>
-
 <item>
 <title>【英文】Starknet 的终局之战：目标是成为 Integrity Web 的基础层</title>
 <link>https://www.ignasdefi.com/p/endgame-for-starknet</link>
@@ -11681,26 +11679,6 @@ Froqorion：以远古青蛙文明 为背景的团队角色扮演游戏。</p><a 
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />这些信息是积极的。ZK 互操作协议 zkBridge 的开发商 Polyhedra Network 完成了 2000 万美元的战略融资，以 10 亿美元估值。Polychain Capital 领投，同时有其他参投方。资金将用于团队扩大、招聘和业务开发。融资是通过未来代币或 SAFT 的简单协议进行的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 的开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，由 Polychain Capital 领投，其他参投方包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium 和 Mapleblock Capital。融资将用于团队扩大、产品开发和营销。这些信息是积极的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。ZK互操作协议zkBridge的开发商Polyhedra Network以10亿美元估值完成了2000万美元的战略融资，由Polychain Capital领投，同时有Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital等参投。融资将用于招聘跨职能部门人员，将团队规模扩大到约80人。<br /> <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
