@@ -22362,3 +22362,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Spot Bitcoin ETFs To Receive Green Light In Hong Kong This April](https://bitcoinist.com/bitcoin-etfs-to-receive-green-light-in-hong-kong/)
 append_entries: 1
 Finish: 2024-04-10 19:10:24.325606
+------------------------------------------------------
+Started: 2024-04-10 19:19:21.694643
+Existing_entries: 361
+Fetching from https://bitcoinist.com/feed
+append_entries: 0
+Finish: 2024-04-10 19:19:21.781588
