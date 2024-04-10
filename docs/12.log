@@ -21735,3 +21735,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bitcoin Bulls Beware: Deutsche Bank Survey Sparks Fears Of Plunge Below $20,000](https://bitcoinist.com/bitcoin-bulls-beware-deutsche-bank-survey-sparks/)
 append_entries: 1
 Finish: 2024-04-10 00:28:24.517256
+------------------------------------------------------
+Started: 2024-04-10 01:31:59.841536
+Existing_entries: 348
+Fetching from https://bitcoinist.com/feed
+Token length: 3051
+Summarized using GPT-3.5-turbo-1106
+Append: [Spot Ethereum ETFs Unlikely Get SEC Approval, Bitcoin Exchange-Traded Fund Issuers Warn](https://bitcoinist.com/spot-ethereum-etfs-unlikely-get-sec-approval/)
+append_entries: 1
+Finish: 2024-04-10 01:32:02.424347

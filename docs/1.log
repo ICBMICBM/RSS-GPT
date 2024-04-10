@@ -26296,3 +26296,24 @@ Summarized using GPT-3.5-turbo-1106
 Append: [数据：4月9日贝莱德IBIT交易量13.9亿美元，灰度GBTC 6.8亿美元](https://www.panewslab.com/zh/sqarticledetails/0whm8g1q.html)
 append_entries: 5
 Finish: 2024-04-10 00:28:10.894307
+------------------------------------------------------
+Started: 2024-04-10 01:31:34.932630
+Existing_entries: 1005
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 60
+Summarized using GPT-3.5-turbo-1106
+Append: [行情：比特币跌破69000美元，日内跌幅0.52%](https://www.panewslab.com/zh/sqarticledetails/8bfa1lvs.html)
+Token length: 429
+Summarized using GPT-3.5-turbo-1106
+Append: [VanEck和CoinShares CEO对以太坊现货ETF是否会获批信心不足](https://www.panewslab.com/zh/sqarticledetails/c8zgjq9b.html)
+Token length: 530
+Summarized using GPT-3.5-turbo-1106
+Append: [Solana验证者投票通过“及时投票积分”机制以加速网络交易](https://www.panewslab.com/zh/sqarticledetails/pk07txtp.html)
+Token length: 4272
+Summarized using GPT-3.5-turbo-1106
+Append: [比特币Layer2热门项目盘点(上)：比特币侧链与UTXO+客户端验证](https://www.panewslab.com/zh/articledetails/v6foguo4.html)
+Token length: 559
+Summarized using GPT-3.5-turbo-1106
+Append: [Immutable拟构建游戏链生态系统Immutable Nexus](https://www.panewslab.com/zh/sqarticledetails/kbhs656b.html)
+append_entries: 5
+Finish: 2024-04-10 01:31:48.956402
