@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>加密货币 KOL 0xWizard 基于比特币当下的一些事实属性，对比特币生态未来进行了一些推论。</title>
 <link>https://twitter.com/i/web/status/1777551587780776026</link>
 <guid>https://twitter.com/i/web/status/1777551587780776026</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。根据比特币的事实属性，作者0xWizard认为未来比特币生态将适合资产发行，需要扩展主链并引入L2和L3解决方案，最看好的是“同构绑定”技术。未来主链将有多个被市场选择的资产发行协议，基于utxo发行，L2将通过同构绑定实现资产跨链，L3通过通道技术实现应用在去中心化网络上运行。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。根据比特币的事实属性，作者0xWizard认为未来比特币生态将适合资产发行，需要扩展主链并引入L2和L3解决方案，最看好的是“同构绑定”技术。未来主链将有多个被市场选择的资产发行协议，基于utxo发行，L2将通过同构绑定实现资产跨链，L3通过通道技术实现应用在去中心化网络上运行。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>加密货币 KOL 0xWizard 基于比特币当下的一些事实属性，对比特币生态未来进行了一些推论。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/i/web/status/1777551587780776026">https://twitter.com/i/web/status/1777551587780776026</a></p>
 <p><strong>文章作者：</strong></p><p>0xWizard</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>0xWizard：</strong>基于事实 1，bitcoin 适合做资产发行。当前和未来会出现一些胜出的资产协议，基于这些协议发行的资产规模将达到千亿甚至万亿美金规模。
@@ -23,10 +24,8 @@ L1 一层我们会在主链上有若干个被市场选择的资产发行协议�
 L2 二层我们会通过同构绑定，将这些资产以很 btc 的方式跨到 L2 上，让这些资产获得图灵完备的智能合约能力；
 L3 三层我们会通过 L2 和 L3 之间的「通道」，如闪电网络，rgb 的客户端验证，类似 nostr 的点对点通讯协议，让能承载几亿用户的额应用以 web2 的形式在 L3 上运行。</p><a href="https://twitter.com/i/web/status/1777551587780776026">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-10T09:04:09+00:00</pubDate>
 </item>
-
 <item>
 <title>【英文长推】EigenLayer 和 EigenDA 上线主网：全新的功能和机会</title>
 <link>https://twitter.com/eigenlayer/status/1777757913718899074</link>
@@ -11701,16 +11700,6 @@ Froqorion：以远古青蛙文明 为背景的团队角色扮演游戏。</p><a 
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，由 Polychain Capital 领投，参投方包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等。融资将用于团队扩充到约80人，招聘跨职能部门人员，包括产品、工程、业务开发和营销等。所有融资都使用未来代币或SAFT简单协议进行。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成了以 10 亿美元估值的 2000 万美元战略融资，由 Polychain Capital 领投。其他参投者包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium 和 Mapleblock Capital。这将用于招聘人员，将团队规模从50人扩大到80人，确保跨职能部门的发展，例如产品、工程、业务开发和营销。整个投资过程中都是通过未来代币或 SAFT 的简单协议进行的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
