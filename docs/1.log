@@ -27322,3 +27322,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-11 02:54:00.987783
+------------------------------------------------------
+Started: 2024-04-11 03:07:07.744259
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 1853
+Summarized using GPT-3.5-turbo-1106
+Append: [CPI砸盘，巨鲸抄底，BTC收复7万美元失地](https://www.panewslab.com/zh/articledetails/w8vydss6.html)
+append_entries: 1
+Finish: 2024-04-11 03:07:13.316794
