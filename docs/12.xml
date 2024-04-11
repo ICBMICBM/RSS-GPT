@@ -4,12 +4,13 @@
 <title>Bitcoinist.com</title>
 <link>https://bitcoinist.com</link>
 
+
 <item>
 <title>47 Out Of Every 100 Bitcoin Mined Stored By One Custodian: Analyst</title>
 <link>https://bitcoinist.com/47-out-of-every-100-bitcoin-one-custodian/</link>
 <guid>https://bitcoinist.com/47-out-of-every-100-bitcoin-one-custodian/</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：这些信息是消极的。一项研究发现，一个匿名的托管机构在比特币网络中扮演着至关重要的角色，占据着至少47%的总算力。这种集中控制可能带来安全风险和对托管机构的透明度和去中心化的需求。一些知名的比特币挖矿池对同一托管机构进行拜托，这可能导致中心化的币存储和对交易处理的控制。 <div>
+<div> <br /><br />摘要：这些信息是消极的。一项研究发现，一个匿名的托管机构在比特币网络中扮演着至关重要的角色，占据着至少47%的总算力。这种集中控制可能带来安全风险和对托管机构的透明度和去中心化的需求。一些知名的比特币挖矿池对同一托管机构进行拜托，这可能导致中心化的币存储和对交易处理的控制。 <div>
 <p>On-chain analysis now reveals that a single anonymous custodian, believed to be Cobo Custody, plays a crucial role in the Bitcoin network. In a <a class="editor-rtfLink" href="https://twitter.com/mononautical/status/1777686545715089605" rel="noopener nofollow" target="_blank">post</a> on X, one analyst said the custodian controls the Coinbase addresses of at least nine mining pools, cumulatively contributing at least 47% of the total hash rate. </p>
 <p>This means that for every 100 freshly mined BTC, 47 BTC are sent to this custodian. Concentrating control in one entity raises concerns about the potential risks and the need for transparency and decentralization of custodians among mining pools.</p>
 <img alt="BTC coinbase addresses | Source: Mempool Space" class="size-full wp-image-293499" height="461" src="https://bitcoinist.com/wp-content/uploads/2024/04/Screenshot128.png?resize=1024%2C461" width="1024" />
@@ -29,9 +30,7 @@
 <p>Usually, transaction accelerators are meant to fast-track the confirmation speeds of certain transactions. While convenient, especially when the network is congested, accelerators can risk centralizing control over transaction processing.</p>
 ]]></content:encoded>
 <pubDate>Thu, 11 Apr 2024 02:00:38 +0000</pubDate>
-<pubDate>Thu, 11 Apr 2024 02:00:38 +0000</pubDate>
 </item>
-
 <item>
 <title>Examining The $100M Mango Markets Exploit, Latest Updates From Avraham Eisenberg’s Trial</title>
 <link>https://bitcoinist.com/latest-updates-the-100m-mango-markets-exploit/</link>
