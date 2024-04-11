@@ -23463,3 +23463,18 @@ Existing_entries: 496
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-11 15:54:53.550252
+------------------------------------------------------
+Started: 2024-04-11 16:08:58.631060
+Existing_entries: 496
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 68
+Summarized using GPT-3.5-turbo-1106
+Append: ['Bitcoin Sign Guy' Is Auctioning His Bitcoin Sign](https://www.coindesk.com/business/2024/04/11/bitcoin-sign-guy-is-auctioning-his-bitcoin-sign/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 115
+Summarized using GPT-3.5-turbo-1106
+Append: [Chainlink Aims to Make Transfers Across Blockchains Safer with New Bridge App 'Transporter'](https://www.coindesk.com/tech/2024/04/11/chainlink-aims-to-make-transfers-across-blockchains-safer-with-new-bridge-app-transporter/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 23
+Summarized using GPT-3.5-turbo-1106
+Append: [Crypto for Advisors: Are ETH ETFs Coming?](https://www.coindesk.com/markets/2024/04/11/crypto-for-advisors-are-eth-etfs-coming/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 3
+Finish: 2024-04-11 16:09:06.333715
