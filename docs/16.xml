@@ -4,6 +4,25 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>【英文】解析比特币 Rollups：通过在主链上记录较少的数据来缓解拥塞</title>
+<link>https://blog.bitfinex.com/education/what-are-rollups-for-bitcoin/</link>
+<guid>https://blog.bitfinex.com/education/what-are-rollups-for-bitcoin/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。BITFINEX探讨了比特币Rollups的概念及其在解决比特币网络可扩展性和效率挑战中的作用。Rollups分为validity rollups和sovereign rollups两种类型。Optimistic Rollups采用信任原则，而Sovereign Rollups采取更独立的方法。Validity/ZK Rollups使用密码学证明验证交易的正确性。各种项目，如Sovryn的BitcoinOS和Chainway的Citrea，在采用不同方法增强比特币可扩展性和功能，代表着比特币生态系统中Rollups技术的前沿。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>BITFINEX 探讨了比特币 Rollups 的概念及其在解决比特币网络面临的可扩展性和效率挑战中的作用。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://blog.bitfinex.com/education/what-are-rollups-for-bitcoin/">https://blog.bitfinex.com/education/what-are-rollups-for-bitcoin/</a></p>
+<p><strong>文章作者：</strong></p><p>Bitfinex</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Bitfinex：</strong>Rollups 有两种主要类型：validity rollups and sovereign rollups。validity rollups 依赖于密码学证明，特别是有效性证明，另一方面，sovereign rollups 利用 L1 区块链纯粹是为了数据可用性，将状态更改的验证委托给汇总自己的网络内的节点。
+
+Rollups 本质上允许交易在链下处理，只有最终状态记录在主区块链上。Optimistic Rollups 以信任原则运作，但具有争议解决机制。默认情况下，交易被认为是有效的，并且在链下批量和执行。然后将汇总结果发布到主链。另一方面，Sovereign Rollups 采取了更加独立的方法。他们使用主要的比特币区块链纯粹是为了数据可用性，依靠自己的共识机制来验证和执行交易。Validity/ZK Rollups 代表了技术和安全性的重大飞跃。他们使用密码学证明来验证链下交易批次的正确性，而不会泄露底层数据。
+
+比特币生态系统见证了人们对将汇总作为解决可扩展性挑战的解决方案的兴趣日益浓厚，有几个项目处于这一创新的最前沿。Sovryn 的 BitcoinOS，其目标是在比特币之上创建一个可互操作的汇总超级层。另一个雄心勃勃的项目是  Chainway 的 Citrea，这是一个 Optimistic Rollups 项目，旨在实现比特币的智能合约功能。 Citrea 的独特之处在于它使用比特币区块链来提供数据可用性，同时维护自己的交易执行和验证共识机制。
+
+这些项目共同代表了比特币生态系统中 Rollups 技术的前沿，每个项目都采取了独特的途径来增强比特币的可扩展性和功能。随着这些举措的不断发展，它们无疑将有助于建立一个更加通用和强大的比特币网络，能够支持更广泛的应用程序和用例。【原文为英文】</p><a href="https://blog.bitfinex.com/education/what-are-rollups-for-bitcoin/">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-11T08:40:24+00:00</pubDate>
+</item>
 
 <item>
 <title>BitMEX 创始人：预测比特币减半前后出现暴跌 5 月牛市真正开启</title>
