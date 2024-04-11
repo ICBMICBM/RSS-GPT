@@ -27262,3 +27262,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [数据：4月10日灰度GBTC净流出1750万美元，创转换为现货ETF以来最低单日流出纪录](https://www.panewslab.com/zh/sqarticledetails/qcnh1oft.html)
 append_entries: 8
 Finish: 2024-04-11 00:35:34.958247
+------------------------------------------------------
+Started: 2024-04-11 01:36:22.844839
+Existing_entries: 1008
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 1018
+Summarized using GPT-3.5-turbo-1106
+Append: [Jupiter联创：正积极研究应对当前网络拥堵、预言机不工作、流动性问题的解决方案](https://www.panewslab.com/zh/sqarticledetails/dl0o1u7j.html)
+Token length: 5524
+Summarized using GPT-3.5-turbo-1106
+Append: [争议不断，但为什么我们依然看涨Bittensor？](https://www.panewslab.com/zh/articledetails/0e8c60q3.html)
+Token length: 542
+Summarized using GPT-3.5-turbo-1106
+Append: [币安CEO：公司发展方向十分明确，即建立非常健全的合规计划](https://www.panewslab.com/zh/sqarticledetails/1t86wehk.html)
+append_entries: 3
+Finish: 2024-04-11 01:36:32.742828
