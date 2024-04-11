@@ -27832,3 +27832,12 @@ Existing_entries: 1001
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-11 13:53:33.929090
+------------------------------------------------------
+Started: 2024-04-11 14:00:50.855176
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 1033
+Summarized using GPT-3.5-turbo-1106
+Append: [Restaking给以太坊带来的提升远不如上海升级？](https://www.panewslab.com/zh/articledetails/c50b26f5.html)
+append_entries: 1
+Finish: 2024-04-11 14:00:54.997483
