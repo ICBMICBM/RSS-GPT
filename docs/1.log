@@ -27586,3 +27586,12 @@ Existing_entries: 1002
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-11 08:27:38.413066
+------------------------------------------------------
+Started: 2024-04-11 08:37:20.456269
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 137
+Summarized using GPT-3.5-turbo-1106
+Append: [Masa Network宣布主网上线并推出MASA代币](https://www.panewslab.com/zh/sqarticledetails/3z4733jo.html)
+append_entries: 1
+Finish: 2024-04-11 08:37:24.644175
