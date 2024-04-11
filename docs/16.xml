@@ -4,6 +4,73 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>【英文】流动性重质押代币 LRT 的流动性如何？</title>
+<link>https://twitter.com/Kairos_Res/article/1777840098337345734</link>
+<guid>https://twitter.com/Kairos_Res/article/1777840098337345734</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>Kairos Research跟踪了Liquid Restaking Tokens（LRT）的增长、采用和流动性情况。LRT的流动性虽然不是非常充足，但整体上还算可以。EigenLayer通过重新定价实现了ETH在共识层上的重复使用。LRT的最终目标是将用户的质押委托给运营商，并由运营商支持一篮子AVS。流动性将在LRT融入更广泛的DeFi生态系统后变得更加重要。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Kairos Research 跟踪了 Liquid Restaking Tokens（LRT）的增长、采用和流动性情况，并深入分析了流动性、价格锚定数据以及它们在 DeFi 生态系统中的角色，结论是尽管 LRT 的流动性不是非常充足，但整体上还算可以。随着 LRT 开始融入借贷市场，池子里的流动性将变得更加重要。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/Kairos_Res/article/1777840098337345734">https://twitter.com/Kairos_Res/article/1777840098337345734</a></p>
+<p><strong>文章作者：</strong></p><p>Kairos Research</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Kairos Research：</strong>EigenLayer 通过一种被称为 「重新定价 」的新型加密经济工具，实现了 ETH 在共识层上的重复使用。ETH 可以通过两种主要方式在 EigenLayer 上质押 ：通过原生重质押 ETH 或使用 LST。虽然 LRT 与 LST 有一些相似之处，但它们的使命却大相径庭。每个 LST 的最终目标基本相同：将用户的以太坊质押，并为其提供流动收据代币。但是，LRT 的最终目标是：将用户的质押委托给运营商，运营商将支持一篮子 AVS。至于如何在这些不同的 AVS 中分配其委托的质押，则由各运营商自行决定。
+
+Eigen Points 的投机性极大地刺激了目前 EigenLayer 存款的牛市，我们可以假设这将转化为某种形式的空投分配，用于潜在的 EIGEN 代币。目前还没有 AVS 奖励上线，这意味着在这些 LRT 的自然定投奖励之外，目前的增量收益为零。至于 LRT 储户，我们已经看到 EtherFi 在其 ETHFI 治理代币空投中取得的巨大成功，在撰写本文时，其完全稀释后的估值约为 60 亿美元。综上所述，在 EIGEN 推出和其他预期的 LRT 空投之后，资本逃离 restaking 的可能性越来越大。
+
+流动性是指 「资产在不影响其市场价格的情况下转化为现成现金的效率或难易程度」。LRT 的发行者必须确保有足够的链上流动性，以便大额持有者以接近资产基础价值 1:1 的价值换入和换出接收代币。某些协议会在早期阶段幸运地获得投资者和用户针对其 LRT 提供的流动性。通过赠款、代币排放、链上贿赂系统或通过 「积分 」预期此类事件等多种方式激励流动性。一些协议将拥有更复杂、更集中的流动性提供者，他们将在美元流动性总量较少的情况下保持其 LRT 接近挂钩水平。
+
+一旦 LRT 进一步融入更广泛的 DeFi 生态系统，尤其是借贷市场，其挂钩的重要性将显著增加。我们预计其供应量将最终超过 LST。不过，如前所述，流动性仍将是这些产品的生命线，以确保其 DeFi 集成的广度和深度，以及产品的长久生命力。【原文为英文】</p><a href="https://twitter.com/Kairos_Res/article/1777840098337345734">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-11T03:49:06+00:00</pubDate>
+</item>
+<item>
+<title>【英文长推】观点：L3 可能是区块链网络中的终点</title>
+<link>https://twitter.com/sgoldfed/status/1778173218496401807</link>
+<guid>https://twitter.com/sgoldfed/status/1778173218496401807</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章探讨了为什么L3在区块链网络中是一个重要的发展方向。作者指出了L3相对于L2的优势，提出L3可能是区块链网络中的终点，不会每隔几年就新增一层。 L3在交易成本方面比L2有明显的优势，但随着层级的增加，技术优势在L3时就结束了。作者预测一些L3将会取得成功，并成熟到想要建立自己的链生态系统的程度。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>加密货币 KOL Steven Goldfeder 撰文探讨了为什么 L3 在区块链网络中是一个重要的发展方向。作者指出了 L3 相对于 L2 的优势，并提出了 L3 可能是区块链网络中的终点，不会像有些人预测的那样每隔几年就新增一层，因为技术或金融上的优势不会随着层级的增加而增加。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/sgoldfed/status/1778173218496401807">https://twitter.com/sgoldfed/status/1778173218496401807</a></p>
+<p><strong>文章作者：</strong></p><p>Steven Goldfeder</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Steven Goldfeder：</strong>如果链是 L2，则必须从 CEX 前往 L1，然后从 L1 通过桥到达 L2。这将涉及两个 L1 事务。如果是 L3，可以从 CEX 转到 L2（因为像 Arbitrum One 这样的 L2 具有直接交换支持），然后从 L2 转到 L3。这将涉及两个 L2 事务。Arbitrum one 交易比以太坊便宜 99% 以上，因此入门成本将削减 99% 以上。
+
+在像 Arbitrum One 这样有很多交易的 L2 中，这些固定成本很快就会被摊销。但是，如果要启动一条新链，可能会遇到交易量不稳定或尖峰的时期，并且交易数量很少，因此必须承担发布到以太坊的费用。Arbitrum Orbit 支持 L2 和 L3，因此每个团队可以自由权衡利弊并做出自己的决定。
+
+与 L2 相比，L3 的成本下降了 99%，但 L4/L5 等的入门成本并没有同等程度的降低。因此，增加一层的技术优势在 L3 时就结束了。我并不认为我们会像有些人建议的那样每隔几年就增加一层。话虽如此，但我确实认为随着时间的推移会出现一些 L4 生态系统。但这将出于生态系统的原因，而不是因为技术或财务利益。
+
+我设想一些 L3 会取得巨大成功，并且成熟到想要建立自己的链生态系统的程度。而这种设计自然是让 L3 充当枢纽，其他链则位于其上。因此，可能会看到像这样的枢纽出现在 L3 并引领到 L4 生态系统，但这并不是因为每次上升一层，东西就会神奇地变得更便宜。【原文为英文】</p><a href="https://twitter.com/sgoldfed/status/1778173218496401807">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-11T03:18:12+00:00</pubDate>
+</item>
+<item>
+<title>【英文长推】Pantera Capital：区块链「从拨号上网到宽带上网」的转变已经到来</title>
+<link>https://twitter.com/PanteraCapital/status/1777721676140081217</link>
+<guid>https://twitter.com/PanteraCapital/status/1777721676140081217</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Pantera Capital的报告指出，Arbitrum在第二层领域取得了成功，扩大了以太坊生态系统。Arbitrum生态系统包括500多个项目、1,800多名每月活跃开发者和吸引了160亿美元资产。Arbitrum的TVL占据L2汇总中39%，收入一直领先于其他解决方案，因为其社区活动保证了可预测的收入。箭头在DeFi市场中取得成功，培育出了一些领先的协议和品牌。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>在本月的区块链报告中，Pantera Capital 成员 Franklin Bi 深入研究了 Arbitrum 在各种关键指标上所取得的成功，以及欧洲央行对比特币的看法。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/PanteraCapital/status/1777721676140081217">https://twitter.com/PanteraCapital/status/1777721676140081217</a></p>
+<p><strong>文章作者：</strong></p><p>Pantera Capital</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Pantera Capital：</strong>加密货币 「从拨号到宽带 」的时刻来临了。在过去两年里，以太坊生态系统在 L2 的推动下扩大了约 10 倍。 第 2 层链通过批量处理在独立区块链（即 L1）上结算的交易，实现了更快的速度和更低的成本。 自 2021 年推出以来，Arbitrum 在所有重要指标上都在第二层领域处于领先地位：从交易量和开发者活动到链上费用收入。 
+
+如今，快速发展的 Arbitrum 生态系统包括：500 多个项目（比任何其他第 2 层都多）。1,800 多名每月活跃开发者（超过 Solana）。从其他链桥接的 160 亿美元资产（在所有第 2 层中排名第一）。随着 Arbitrum 继续吸引顶尖团队和项目，我们相信其生态系统的增长将进一步加速。
+
+积极的社区参与、顶级开发人员体验和技术突破使 Arbitrum 成为 Layer 2 领域的领先竞争者。L2 汇总中 39% 的 TVL 位于 Arbitrum 中，因为 TVL 可以作为交易活动、流动性和项目整体健康状况的指标。高 TVL 表明用户对平台的参与度和信心很强。
+与其他 L2 扩展解决方案相比，Arbitrum 收入一直领先。其他链的创收能力会出现波动，尤其是在预期代币空投的情况下（如 zkSync 目前的情况），而 Arbitrum 社区的活动确保了可预测的收入，不受外部动态的影响。 Arbitrum 通过开辟像 DeFi 这样的利基市场来做到这一点，他们在这里培育了像 GMX 和 Uniswap 这样的协议，从而培养出了 DEX 交换和 perp 交易首选链的品牌。【原文为英文】</p><a href="https://twitter.com/PanteraCapital/status/1777721676140081217">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-11T03:07:12+00:00</pubDate>
+</item>
+<item>
+<title>社交应用 Tomo 完成 350 万美元种子轮融资，Polychain Capital 领投</title>
+<link>https://www.theblock.co/post/287553/socialfi-app-tomo-raises-3-5-million-usd-seed-funding-points-rewards</link>
+<guid>https://www.theblock.co/post/287553/socialfi-app-tomo-raises-3-5-million-usd-seed-funding-points-rewards</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>SocialFi 应用 Tomo 完成 350 万美元种子轮融资，Polychain Capital 领投，Consensys、Symbolic Capital、OKX Ventures、Nomad Capital、Story Protocol、dao5、KuCoin Ventures 和 HTX Ventures 等参投。Tomo 推出了新的 TomoID 钱包功能，并计划修改其积分奖励系统。与其他 SocialFi 应用类似，Tomo 使用 Keys 系统，允许用户付费访问创作者内容和私信，Tomo 和内容创作者分享10%的版税。用户可以在创作者加入之前投票表达期望，投票可变为Keys当创作者加入平台。 <div>
+<p>SocialFi 应用 Tomo 完成 350 万美元种子轮融资，Polychain Capital 领投，Consensys、Symbolic Capital、OKX Ventures、Nomad Capital、Story Protocol、dao5、KuCoin Ventures 和 HTX Ventures 等参投。同时，该平台还推出了新的 TomoID 钱包功能，并计划对其积分奖励系统进行改造。与 FriendTech 等其他 SocialFi 应用类似，Tomo 使用 Keys 系统，允许用户付费访问创作者内容和私信，Tomo 和内容创作者平均分享 10% 的版税。在创作者加入 Tomo 之前，用户可以投票表达自己的期望，如果创作者尚未加入，用户可以购买投票，当他们加入时，投票会变成 Keys。</p><p><a href="https://www.theblock.co/post/287553/socialfi-app-tomo-raises-3-5-million-usd-seed-funding-points-rewards">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-11T03:06:09+00:00</pubDate>
+</item>
 
 <item>
 <title>加密货币 KOL 0xWizard 基于比特币当下的一些事实属性，对比特币生态未来进行了一些推论。</title>

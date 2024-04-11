@@ -25801,3 +25801,21 @@ Existing_entries: 1000
 Fetching from https://www.chainfeeds.xyz/rss
 append_entries: 0
 Finish: 2024-04-11 03:50:50.228718
+------------------------------------------------------
+Started: 2024-04-11 03:58:20.037344
+Existing_entries: 1000
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 1089
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文】流动性重质押代币 LRT 的流动性如何？](https://twitter.com/Kairos_Res/article/1777840098337345734)
+Token length: 826
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文长推】观点：L3 可能是区块链网络中的终点](https://twitter.com/sgoldfed/status/1778173218496401807)
+Token length: 819
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文长推】Pantera Capital：区块链「从拨号上网到宽带上网」的转变已经到来](https://twitter.com/PanteraCapital/status/1777721676140081217)
+Token length: 358
+Summarized using GPT-3.5-turbo-1106
+Append: [社交应用 Tomo 完成 350 万美元种子轮融资，Polychain Capital 领投](https://www.theblock.co/post/287553/socialfi-app-tomo-raises-3-5-million-usd-seed-funding-points-rewards)
+append_entries: 4
+Finish: 2024-04-11 03:58:31.069546
