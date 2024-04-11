@@ -23571,3 +23571,12 @@ Existing_entries: 502
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-11 18:29:34.152726
+------------------------------------------------------
+Started: 2024-04-11 18:36:58.076850
+Existing_entries: 502
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 53
+Summarized using GPT-3.5-turbo-1106
+Append: [FTX Founder Sam Bankman-Fried Appeals Fraud Conviction](https://www.coindesk.com/policy/2024/04/11/ftx-founder-sam-bankman-fried-appeals-conviction/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-11 18:37:01.315700
