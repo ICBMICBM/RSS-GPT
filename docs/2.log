@@ -21667,3 +21667,24 @@ Existing_entries: 101
 Fetching from https://rss.app/feeds/wUQN1BEONEifvDV7.xml
 append_entries: 0
 Finish: 2024-04-11 16:24:42.754078
+------------------------------------------------------
+Started: 2024-04-11 16:32:31.113320
+Existing_entries: 101
+Fetching from https://rss.app/feeds/wUQN1BEONEifvDV7.xml
+Token length: 120
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin price gains despite a pullback in global markets as ECB holds rates steady](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f90ba4df1133b819a3bacfb34609f5656c035c83fb09b4c3809df6e8623d8861f21c2ab25a7f9ef22e3eb8560ac22a42d038d364e041e01fce1a3dc634a84d3a5efdfcf9bca1d41821ad4de78649c633d64868e5781941f)
+Token length: 132
+Summarized using GPT-3.5-turbo-1106
+Append: [Ether options implies increased price volatility ahead of May's ETF decision deadlines, analyst says](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f90b747f0133c9c863db1bf353d9b4d50cd23c831bc824e2241c8269c3dd2801f6dd0e331ffe5f129e1edc33baa20e83e068e3d5b111e0df5f6a9dd3a56cf9fbba3c3dfd4820148c31ac290637681692064919f53849c0fe7cc6063ee86218ad78f25a5fe89d3c1)
+Token length: 126
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitfinex Securities unveils $6.25 million raise for El Salvador airport hotel](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f90b549fd133b819a3eaafc3f35c2575ac0259731a59b473809cf649e36df9b0069c7ab31b7f7f76debfb9d38a061ec26429135431e5208f2e1e5d87e4bd9dda4b697c496931042c31dc89e7a698d7e)
+Token length: 140
+Summarized using GPT-3.5-turbo-1106
+Append: [GBTC daily outflow hits record low of $17 million as Grayscale CEO expects ‘equilibrium’](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f90b54cf1133e8a9a3beef63b24835d12cc25913ebd9d55)
+Token length: 126
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin ETF battle heats up as BlackRock closes in on Grayscale](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f90b44afd133b819a3bacfb34608a50598e32842ca59e47664cde6a81209c870a21c2f578b0f9e223e9fa812eae61ea260091315c455a02b0fca694704bc8cba5a1dbc09c)
+append_entries: 5
+Finish: 2024-04-11 16:32:41.155844
