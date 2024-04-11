@@ -4,6 +4,33 @@
 <title>Bitcoinist.com</title>
 <link>https://bitcoinist.com</link>
 
+<item>
+<title>Bitcoin Core Developer Meeting Under FBI Scrutiny, Here’s Why</title>
+<link>https://bitcoinist.com/bitcoin-core-developer-meeting-fbi-scrutiny/</link>
+<guid>https://bitcoinist.com/bitcoin-core-developer-meeting-fbi-scrutiny/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是消极的。<br>一位Bitcoin Core开发者Luke Dashjr的比特币被盗，涉案金额约360万美元。FBI要求调查有关Dashjr比特币被盗事件的CoreDev Atlanta 2022聚会出席者的信息，包括GitHub用户名、全名和电子邮件地址。事件凸显了加密货币社区在保护数字资产免受网络威胁方面面临的挑战，以及区块链技术发展中的隐私和安全原则。Bitcoin的交易价格为70433美元。 <div>
+<p>A Bitcoin Core developer meeting has come under the FBI&#8217;s scrutiny. Mike Schmidt, Director at Brink—a charitable organization that funds open-source developers—has revealed in an email to attendees of the CoreDev Atlanta 2022 that the FBI issued a subpoena demanding information on those who were part of the October 2022 gathering. This subpoena is linked to the investigation into the theft of Bitcoin Core developer Luke Dashjr&#8217;s Bitcoins, a sum that Dashjr claims amounted to approximately $3.6 million.</p>
+<p>The email sent by Schmidt reads: “Notice regarding the Atlanta 2022 CoreDev event. All, As part of the investigation into Luke Dashjr&#8217;s announced theft of his bitcoins, I received a subpoena from the FBI wanting information about attendees [&#8230;] I was legally advised to cooperate.” This subpoena, Schmidt explains, followed a legal obligation to not disclose its existence for a period of one year, a condition that has just reached its expiration.</p>
+
+<p>The information requested by the FBI, as per Schmidt’s email, was eventually narrowed down to include GitHub usernames, first and last names, and email addresses of the attendees. “The original subpoena requested much information but after pushback, the FBI agent agreed to the following subset of information about you, which I provided,” Schmidt revealed.</p>
+<p>He expressed regret over this privacy breach, stating, &#8220;I apologize for this breach of your private information. Please email me if you have any questions.”</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">So FBI asked for, and was given, full names and emails to connect to GitHub usernames of bitcoin core developers :/ <a href="https://t.co/YNA50lGo1G" rel="nofollow" target="_blank">https://t.co/YNA50lGo1G</a></p>
+<p>&mdash; hodlonaut 80 IQ 10%er <img alt="🌮" class="wp-smiley" src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f32e.png" style="height: 1em;" /><img alt="⚡" class="wp-smiley" src="https://s.w.org/images/core/emoji/15.0.3/72x72/26a1.png" style="height: 1em;" /><img alt="🔑" class="wp-smiley" src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f511.png" style="height: 1em;" /> <img alt="🐝" class="wp-smiley" src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f41d.png" style="height: 1em;" /> (@hodlonaut) <a href="https://twitter.com/hodlonaut/status/1778102916789788674?ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">April 10, 2024</a></p></blockquote>
+<p></p>
+<h2>What Happened To Dashjr&#8217;s Bitcoins?</h2>
+<p>This FBI investigation stems from an incident reported by <a href="https://bitcoinist.com/bitcoin-dev-critical-bug-not-everyone-agrees/" rel="noopener " target="_blank">Luke Dashjr</a> on January 1 of the previous year. Dashjr, a central figure behind the Bitcoin blockchain&#8217;s development and a staunch advocate for the cryptocurrency&#8217;s decentralization principle, disclosed on social media that a significant portion of his BTC holdings were stolen from his storage wallets on New Year&#8217;s Eve. The theft, he detailed, was facilitated by the compromise of a <a href="https://bitcoinist.com/law-enforcement-shuts-down-blackberry-pgp-communication-network/" rel="noopener " target="_blank">PGP</a> (Pretty Good Privacy) key, leading to a breach that compromised his digital assets.</p>
+
+<p>Dashjr&#8217;s online plea <a href="https://twitter.com/LukeDashjr/status/1609613748364509184" rel="noopener nofollow" target="_blank">highlighted</a> the severity of the situation: “PSA: My PGP key is compromised, and at least many of my bitcoins stolen. I have no idea how. Help please. [&#8230;] What the heck @FBI @ic3 why can&#8217;t I reach anyone???” His subsequent message confirmed the grim reality: &#8220;Nevermind many. It&#8217;s basically all gone.”</p>
+<p>The breach, according to Dashjr, involved both &#8216;hot&#8217; wallets—those accessible over the internet—and what were believed to be<a href="https://bitcoinist.com/can-crypto-cold-wallets-help-measure-exchange-dominance/" rel="noopener " target="_blank"> &#8216;cold&#8217; wallets</a>, theoretically isolated from online threats. The peculiar circumstances surrounding the theft, including prior security breaches reported by Dashjr, have added layers of complexity to the ongoing FBI investigation.</p>
+<p>As the investigation unfolds, the implications of this subpoena on the broader Bitcoin development community and on principles of privacy and security within the space remain to be seen. The incident underscores the persistent challenges faced by individuals and organizations in safeguarding digital assets against sophisticated cyber threats, even as the pursuit of decentralization and security continues to drive the development of blockchain technology.</p>
+<p>At press time, BTC traded at $70,433.</p>
+<img alt="Bitcoin price" class="size-full wp-image-293567" height="472" src="https://bitcoinist.com/wp-content/uploads/2024/04/BTCUSD_2024-04-11_07-37-21.png?resize=1024%2C472" width="1024" />
+]]></content:encoded>
+<pubDate>Thu, 11 Apr 2024 06:00:00 +0000</pubDate>
+<pubDate>Thu, 11 Apr 2024 06:00:00 +0000</pubDate>
+</item>
 
 <item>
 <title>Bitcoin Fees Near Cycle Lows, Will Halving Change This?</title>
