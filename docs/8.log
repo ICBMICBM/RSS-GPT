@@ -22494,3 +22494,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bitcoin To $100,000: Can Hong Kong’s Spot ETFs Make It Happen?](https://www.newsbtc.com/news/bitcoin/bitcoin-to-100000-hong-kong-spot-etfs/)
 append_entries: 1
 Finish: 2024-04-11 07:31:45.159795
+------------------------------------------------------
+Started: 2024-04-11 07:39:13.795535
+Existing_entries: 393
+Fetching from https://www.newsbtc.com/feed
+append_entries: 0
+Finish: 2024-04-11 07:39:13.961724
