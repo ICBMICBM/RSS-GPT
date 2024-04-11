@@ -22668,3 +22668,12 @@ Existing_entries: 395
 Fetching from https://www.newsbtc.com/feed
 append_entries: 0
 Finish: 2024-04-11 11:57:38.747563
+------------------------------------------------------
+Started: 2024-04-11 12:22:25.165879
+Existing_entries: 395
+Fetching from https://www.newsbtc.com/feed
+Token length: 3288
+Summarized using GPT-3.5-turbo-1106
+Append: [CEO Throws Cold Water On May Ethereum ETF Approval – Impact On Price](https://www.newsbtc.com/news/ethereum/ceo-throws-cold-water-on-may-ethereum-etf-approval-impact-on-price/)
+append_entries: 1
+Finish: 2024-04-11 12:22:27.970114

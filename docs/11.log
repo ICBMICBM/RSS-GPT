@@ -23316,3 +23316,18 @@ Existing_entries: 491
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-11 11:57:42.114449
+------------------------------------------------------
+Started: 2024-04-11 12:22:30.911434
+Existing_entries: 491
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 10
+Summarized using GPT-3.5-turbo-1106
+Append: [Protocol Village: DLC.Link Uses Discreet Log Contracts to Create 'Safer Wrapped Bitcoin'](https://www.coindesk.com/tech/2024/04/11/protocol-village/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 194
+Summarized using GPT-3.5-turbo-1106
+Append: [First Mover Americas: Uniswap's Token Slides on SEC Lawsuit](https://www.coindesk.com/markets/2024/04/11/first-mover-americas-uniswaps-token-slides-on-sec-lawsuit/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 26
+Summarized using GPT-3.5-turbo-1106
+Append: [DePIN Platform Uplink Raises $10M Led by Framework Ventures](https://www.coindesk.com/business/2024/04/11/depin-platform-uplink-raises-10m-led-by-framework-ventures/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 3
+Finish: 2024-04-11 12:22:38.145933
