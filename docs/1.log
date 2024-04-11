@@ -27817,3 +27817,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-11 13:38:35.228465
+------------------------------------------------------
+Started: 2024-04-11 13:46:28.429325
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 105
+Summarized using GPT-3.5-turbo-1106
+Append: [灰度向Coinbase Prime等地址转入约3762枚BTC](https://www.panewslab.com/zh/sqarticledetails/xoi2oaoo.html)
+append_entries: 1
+Finish: 2024-04-11 13:46:35.170548
