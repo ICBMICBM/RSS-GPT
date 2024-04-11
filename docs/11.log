@@ -23658,3 +23658,12 @@ Existing_entries: 507
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-11 20:10:38.366313
+------------------------------------------------------
+Started: 2024-04-11 20:23:11.821498
+Existing_entries: 507
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 51
+Summarized using GPT-3.5-turbo-1106
+Append: [Aptos Falls 16% Over Past Week, Lagging Ahead of $300M Token Unlocking Event](https://www.coindesk.com/markets/2024/04/11/aptos-falls-16-over-past-week-lagging-ahead-of-300m-token-unlocking-event/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-11 20:23:14.831000
