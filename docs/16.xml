@@ -4,6 +4,25 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>万字解析 Bittensor：如何构建连通世界 AI 的天网</title>
+<link>https://twitter.com/dvzhangtz/status/1778354684182536654</link>
+<guid>https://twitter.com/dvzhangtz/status/1778354684182536654</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Bittensor利用区块链和激励机制对不同算法进行调度和筛选，打造自由竞争、知识共享的算法市场。AI时代的三大要素包括算法、算力和数据，而Bittensor解决了算法去中心化的问题。网络内角色包括矿工、验证者、提名者和用户，他们共同构建了一个开放的AI供需链条。Yuma共识算法确保矿工和验证者不作恶，保障网络的诚信和公平。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Bittensor 通过区块链网络和激励机制，来对不同的算法进行调度和筛选，从而让 AI 领域形成一个自由竞争、知识共享的算法（模型）市场。加密货币 KOL Frank-Zhang.eth 从背景、技术、代币经济学等角度深入解读今日 Binance 上新项目 Bittensor。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/dvzhangtz/status/1778354684182536654">https://twitter.com/dvzhangtz/status/1778354684182536654</a></p>
+<p><strong>文章作者：</strong></p><p>Frank-Zhang.eth</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Frank-Zhang.eth：</strong>AI 时代三要素，算法（也就是模型）、算力、数据。对算力和数据该怎么结合区块链做分布式，我们相对有比较清晰的解决方案，但是对算法该怎么去中心化，怎么集中大家对力量进行算法共建、模型共建，这一直是个疑问。Bittensor 解决了这个问题。Bittensor 把 ai 分成不同任务，每条任务启动一个子网，每个矿工都提供自己所擅长任务上自己的模型，网络奖励在每个任务上做的最好的矿工。并且通过其独有的 Yuma 共识算法来保证各方参与者不作恶。
+
+网络中的角色和职能。矿工：可以理解为全世界各种 AI 算法和模型的提供方，它们托管 AI 模型并将其提供给 Bittensor 网络；不同类型的模型组成了不同的子网，比如专攻图片或声音的模型；验证者：Bittensor 网络内的评估者。评估 AI 模型的质量和有效性，根据特定任务的性能对 AI 模型进行排名，帮助消费者找到最佳解决方案。提名者：将代币委托给特定验证者来表示支持，也可以换不同的验证者来委托。有点像 DeFi 中你将自己的代币质押给 Lido 获取收益。用户：Bittensor 提供的 AI 模型最终使用方。可以是个人，也可以是谋求 AI 模型来做应用的开发者们。
+
+角色之间的联系用户：需要更好的 AI 模型；矿工：提供自己的 AI 模型；验证者：负责按照不同的用途筛选更好的 AI 模型；提名者：选择支持不同的验证者。说白了是一个开放的 AI 供需链条 ： 有人提供不同模型，有人评价不同模型，有人使用最好的模型所提供的结果。
+
+如何保证矿工 & 验证者不作恶：Yuma Consensus。在一个开放的网络中，没有中心化机构监督，服务的提供者自然很愿意做恶，从而「降本增效」。可能的做恶有：矿工不好好运行模型服务，结果给的是随机数。矿工只和和自己共谋的验证者连接，自己即是运动员也是裁判。诚实节点可能因为网络原因，没有全连接，而大量不诚实的节点相互沟通，实现共谋。</p><a href="https://twitter.com/dvzhangtz/status/1778354684182536654">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-11T09:51:47+00:00</pubDate>
+</item>
 
 <item>
 <title>【英文】解析比特币 Rollups：通过在主链上记录较少的数据来缓解拥塞</title>
