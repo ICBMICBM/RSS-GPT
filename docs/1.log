@@ -27568,3 +27568,15 @@ Existing_entries: 1002
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-11 07:53:46.871432
+------------------------------------------------------
+Started: 2024-04-11 08:08:07.071552
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 5105
+Summarized using GPT-3.5-turbo-1106
+Append: [Akash Network：AI热潮下的去中心化云计算市场](https://www.panewslab.com/zh/articledetails/h321ge88.html)
+Token length: 597
+Summarized using GPT-3.5-turbo-1106
+Append: [Voyager通过与FTX和三箭资本的和解获得约4.84亿美元用于债务偿还](https://www.panewslab.com/zh/sqarticledetails/2tcx1a30.html)
+append_entries: 2
+Finish: 2024-04-11 08:08:16.305065
