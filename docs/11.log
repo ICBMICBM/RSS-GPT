@@ -23553,3 +23553,15 @@ Existing_entries: 500
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-11 17:59:45.816034
+------------------------------------------------------
+Started: 2024-04-11 18:19:25.634343
+Existing_entries: 500
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 157
+Summarized using GPT-3.5-turbo-1106
+Append: [Ethereum's Next Upgrade, 'Pectra,' Could Include Relief for Institutional Stakers, Wallet UX Improvements](https://www.coindesk.com/tech/2024/04/11/ethereums-next-upgrade-pectra-could-include-relief-for-institutional-stakers-wallet-ux-improvements/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 39
+Summarized using GPT-3.5-turbo-1106
+Append: [Chaos at MarginFi Shakes up Solana DeFi's Borrow-and-Lend Landscape](https://www.coindesk.com/business/2024/04/11/chaos-at-marginfi-shakes-up-solana-defis-borrow-and-lend-landscape/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 2
+Finish: 2024-04-11 18:19:31.464497
