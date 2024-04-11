@@ -27961,3 +27961,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-11 16:54:42.983086
+------------------------------------------------------
+Started: 2024-04-11 17:07:22.132923
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 138
+Summarized using GPT-3.5-turbo-1106
+Append: [Coinbase将于4月18日上线Pepe永续期货合约](https://www.panewslab.com/zh/sqarticledetails/xjc13fa3.html)
+append_entries: 1
+Finish: 2024-04-11 17:07:25.953765
