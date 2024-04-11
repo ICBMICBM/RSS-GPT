@@ -21688,3 +21688,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bitcoin ETF battle heats up as BlackRock closes in on Grayscale](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f90b44afd133b819a3bacfb34608a50598e32842ca59e47664cde6a81209c870a21c2f578b0f9e223e9fa812eae61ea260091315c455a02b0fca694704bc8cba5a1dbc09c)
 append_entries: 5
 Finish: 2024-04-11 16:32:41.155844
+------------------------------------------------------
+Started: 2024-04-11 16:39:35.747066
+Existing_entries: 106
+Fetching from https://rss.app/feeds/wUQN1BEONEifvDV7.xml
+append_entries: 0
+Finish: 2024-04-11 16:39:35.867287
