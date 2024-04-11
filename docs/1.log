@@ -27613,3 +27613,15 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-11 08:59:32.691942
+------------------------------------------------------
+Started: 2024-04-11 09:16:20.799230
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 162
+Summarized using GPT-3.5-turbo-1106
+Append: [Binance Labs投资比特币质押链BounceBit](https://www.panewslab.com/zh/sqarticledetails/frzr7l8i.html)
+Token length: 4588
+Summarized using GPT-3.5-turbo-1106
+Append: [深入解析Ethena的成功原因与死亡螺旋风险](https://www.panewslab.com/zh/articledetails/89ym08m3r5dq.html)
+append_entries: 2
+Finish: 2024-04-11 09:16:30.722197
