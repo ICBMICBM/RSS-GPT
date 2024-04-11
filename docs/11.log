@@ -23751,3 +23751,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Ondo Spikes 8% as Ondo Finance Tests Instant Conversion From BlackRock's Tokenized Fund to USDC](https://www.coindesk.com/markets/2024/04/11/ondo-spikes-8-as-ondo-finance-tests-instant-conversion-from-blackrocks-tokenized-fund-to-usdc/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-04-11 22:17:03.832989
+------------------------------------------------------
+Started: 2024-04-11 22:29:58.505424
+Existing_entries: 510
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-04-11 22:29:59.078803
