@@ -26092,3 +26092,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bittensor 和这些 Crypto AI 网络值得关注吗？](https://substack.chainfeeds.xyz/p/bittensor-crypto-ai)
 append_entries: 1
 Finish: 2024-04-11 10:58:15.929121
+------------------------------------------------------
+Started: 2024-04-11 11:12:45.960561
+Existing_entries: 1001
+Fetching from https://www.chainfeeds.xyz/rss
+append_entries: 0
+Finish: 2024-04-11 11:12:46.944314

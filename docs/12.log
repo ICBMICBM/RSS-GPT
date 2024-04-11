@@ -22914,3 +22914,12 @@ Existing_entries: 371
 Fetching from https://bitcoinist.com/feed
 append_entries: 0
 Finish: 2024-04-11 10:58:10.983463
+------------------------------------------------------
+Started: 2024-04-11 11:12:40.826371
+Existing_entries: 371
+Fetching from https://bitcoinist.com/feed
+Token length: 3201
+Summarized using GPT-3.5-turbo-1106
+Append: [Dictators Beware: Bitcoin Might Be Your Downfall, Says Human Rights Foundation](https://bitcoinist.com/dictators-beware-bitcoin-might-be-your-downfall/)
+append_entries: 1
+Finish: 2024-04-11 11:12:44.284651
