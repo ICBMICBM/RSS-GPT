@@ -23283,3 +23283,12 @@ Existing_entries: 490
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-11 11:20:49.658187
+------------------------------------------------------
+Started: 2024-04-11 11:28:07.313498
+Existing_entries: 490
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 27
+Summarized using GPT-3.5-turbo-1106
+Append: [Dubai Regulator Wants to Lower the Cost of Compliance for Small Crypto Firms](https://www.coindesk.com/policy/2024/04/11/dubai-regulator-wants-to-lower-the-cost-of-compliance-for-small-crypto-firms/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-11 11:28:10.010840
