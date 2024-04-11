@@ -21795,3 +21795,12 @@ Existing_entries: 27
 Fetching from https://blog.chainalysis.com/feed
 append_entries: 0
 Finish: 2024-04-11 18:51:22.763079
+------------------------------------------------------
+Started: 2024-04-11 18:58:35.812216
+Existing_entries: 27
+Fetching from https://blog.chainalysis.com/feed
+Token length: 53468
+Summarized using GPT-3.5-turbo-1106
+Append: [Navigating Complex Crypto and DeFi Taxes: Podcast Ep. 102](https://www.chainalysis.com/blog/navigating-crypto-and-defi-taxes-ep-102/)
+append_entries: 1
+Finish: 2024-04-11 18:58:42.536899
