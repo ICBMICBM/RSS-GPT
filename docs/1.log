@@ -27424,3 +27424,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-11 04:59:40.960339
+------------------------------------------------------
+Started: 2024-04-11 05:15:41.355212
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 1938
+Summarized using GPT-3.5-turbo-1106
+Append: [融资2.25亿美元，Monad能否成为L1头部项目？](https://www.panewslab.com/zh/articledetails/0mryfsgllt1g.html)
+append_entries: 1
+Finish: 2024-04-11 05:15:47.175362

@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>【长推】 Cosmos 生态的最近动态：CosmWasm 的集成、PSS 提案</title>
 <link>https://twitter.com/hu_zhiwei/status/1777926413032862179</link>
 <guid>https://twitter.com/hu_zhiwei/status/1777926413032862179</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章讨论了最近Cosmos生态的关键动态，包括CosmWasm的集成、PSS提案的前景，以及以太坊生态项目在Cosmos的发展趋势。集成CosmWasm功能将极大地方便实验性功能的开发，包括IBS连接异构网络。PSS提案将提供更灵活的跨链安全选择。此外，Megablock和Atomic IBC等技术将进一步完善Cosmos的跨链交互，可能形成统一的MEV市场。这些发展表明Cosmos正在迎头赶上以太坊生态的步伐。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章讨论了最近Cosmos生态的关键动态，包括CosmWasm的集成、PSS提案的前景，以及以太坊生态项目在Cosmos的发展趋势。集成CosmWasm功能将极大地方便实验性功能的开发，包括IBS连接异构网络。PSS提案将提供更灵活的跨链安全选择。此外，Megablock和Atomic IBC等技术将进一步完善Cosmos的跨链交互，可能形成统一的MEV市场。这些发展表明Cosmos正在迎头赶上以太坊生态的步伐。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>HashKey 成员 Jeffrey Hu 探讨了最近 Cosmos 生态的关键动态，包括 CosmWasm 的集成、PSS 提案的前景，以及以太坊生态项目在 Cosmos 的发展趋势。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/hu_zhiwei/status/1777926413032862179">https://twitter.com/hu_zhiwei/status/1777926413032862179</a></p>
 <p><strong>文章作者：</strong></p><p>Jeffrey Hu</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Jeffrey Hu：</strong>集成 CosmWasm 的想法应该至少有几年的时间了。有了这个功能后会方便很多实验性功能的开发，包括 IBC 连接异构网络等。此外，下一个很有可能通过的提案是 PSS 了。全称是 Partial Set Security，可认为是更灵活版本的 ICS，可以让一部分验证人去提供跨链安全，而不需要强制所有 Cosmos Hub 的验证人。因为强制性的 ICS 并不一定对所有验证人都友好。特别是小验证人，奖励可能还不够运维成本的有了 PSS 之后，Cosmos 的 ICS 也可以像 EigenLayer 一样灵活。。
@@ -18,7 +19,6 @@ Megablock 也和 ICS 相关，是 Atomic IBC 的基础。这可以共享 mempool
 
 当前的 IBC 还是异步的方式。Atomic IBC 要实现的是原子性（nothing or all）。因为基于上面提到的 megablock，理论上都是一套验证人在运行软件，所以跨链的时候可以省去产生证明和校验证明的步骤，而直接用共识安全来保证。这样的好处是，可能可以形成一个统一的 MEV 市场。有些类似于 SUAVE、 OP superchain 的共享定序器的作用。所以，你可能会发现：ICS/PSS vs Restaking、megablock/Atomic IBC vs 共享定序器。就像我们之前团队讨论时开的玩笑：都说以太坊慢慢活成 Cosmos 的样子，但 Cosmos 也有点变成了以太坊的样子。</p><a href="https://twitter.com/hu_zhiwei/status/1777926413032862179">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-11T04:34:10+00:00</pubDate>
 </item>
 <item>
@@ -26,7 +26,7 @@ Megablock 也和 ICS 相关，是 Atomic IBC 的基础。这可以共享 mempool
 <link>https://mp.weixin.qq.com/s/91LwQhvBE_ljzZcfvW2QSg</link>
 <guid>https://mp.weixin.qq.com/s/91LwQhvBE_ljzZcfvW2QSg</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章指出，SEC对Uniswap Labs采取诉讼等监管行动的胜诉概率很低。主要原因包括SEC监管执法无国会授权，Uniswap不符合证券交易所或经纪人的定义，以及$UNI代币不符合证券法定义。文章认为SEC的攻击显得无力，Uniswap Labs在法律和合规方面有较好的立场。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章指出，SEC对Uniswap Labs采取诉讼等监管行动的胜诉概率很低。主要原因包括SEC监管执法无国会授权，Uniswap不符合证券交易所或经纪人的定义，以及$UNI代币不符合证券法定义。文章认为SEC的攻击显得无力，Uniswap Labs在法律和合规方面有较好的立场。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>2024 年 4 月 10 日，Uniswap Labs 收到了来自美国证券交易委员会（SEC）执法部门的 Wells Notice 通知，告知 SEC 可能对 Uniswap Labs 采取诉讼等监管执法行动。加密货币 KOL Will 阿望结合 Uniswap Labs 的 SEC 回应文章，以及其相对合规的治理结构，解读这是一个不可能赢的诉讼的原因。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/91LwQhvBE_ljzZcfvW2QSg">https://mp.weixin.qq.com/s/91LwQhvBE_ljzZcfvW2QSg</a></p>
 <p><strong>文章作者：</strong></p><p>0xWill</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>0xWill：</strong>无论 SEC 决定做什么，法律在以下几点上都有明确规定：
@@ -38,10 +38,8 @@ Megablock 也和 ICS 相关，是 Atomic IBC 的基础。这可以共享 mempool
 
 无论是 Uniswap Labs 文章中的辩护，还是近期加密监管的案例来看，SEC 对于 Uniswap Labs 的攻击都显得较为无力，且基本没什么胜诉概率。尽管短期 $UNI 承压。我们更加认可这是一种政治诉求的举动。</p><a href="https://mp.weixin.qq.com/s/91LwQhvBE_ljzZcfvW2QSg">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-11T04:01:30+00:00</pubDate>
 </item>
-
 <item>
 <title>【英文】流动性重质押代币 LRT 的流动性如何？</title>
 <link>https://twitter.com/Kairos_Res/article/1777840098337345734</link>
@@ -11740,26 +11738,6 @@ Froqorion：以远古青蛙文明 为背景的团队角色扮演游戏。</p><a 
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 的开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投。其他参投方包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。筹资将用于扩大团队规模，招募跨职能部门人才，加速产品开发和市场推广。这些信息是积极的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，估值达到 10 亿美元。本轮融资由 Polychain Capital 领投，其他投资方包括 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital。融资将用于扩大团队规模，招聘跨职能部门人员。公司计划将当前团队从约50人扩展到约80人。这些信息是积极的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，领投方是 Polychain Capital，同时有其他参投方。融资将用于团队扩大、产品、工程、业务开发和营销等方面。<br />1. 开发商为 Polyhedra Network<br />2. 估值达 10 亿美元，完成 2000 万美元战略融资<br />3. Polychain Capital 领投，其他参投方包括 Animoca Brands、Hashkey Capital 等<br />4. 融资资金将用于团队扩大和业务发展<br />5. 将团队人数扩大到约 80 人 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
