@@ -23634,3 +23634,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Willem Schroé: Building Botanix, a Bitcoin Layer 2 That Brings the EVM to Bitcoin](https://www.coindesk.com/consensus-magazine/2024/04/11/willem-schroe-building-botanix-a-bitcoin-layer-2-that-brings-the-evm-to-bitcoin/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-04-11 19:34:08.174565
+------------------------------------------------------
+Started: 2024-04-11 19:41:21.329677
+Existing_entries: 507
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-04-11 19:41:21.895454
