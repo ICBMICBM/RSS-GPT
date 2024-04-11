@@ -23031,3 +23031,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bitcoin is Pricing in Two Fed Rate Cuts For 2024, Trader Says](https://www.coindesk.com/markets/2024/04/11/bitcoin-is-pricing-in-two-fed-rate-cuts-for-2024-trader-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-04-11 04:52:30.510158
+------------------------------------------------------
+Started: 2024-04-11 04:59:49.788210
+Existing_entries: 484
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-04-11 04:59:50.314499

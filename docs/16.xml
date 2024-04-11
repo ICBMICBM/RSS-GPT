@@ -4,6 +4,43 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>【长推】 Cosmos 生态的最近动态：CosmWasm 的集成、PSS 提案</title>
+<link>https://twitter.com/hu_zhiwei/status/1777926413032862179</link>
+<guid>https://twitter.com/hu_zhiwei/status/1777926413032862179</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章讨论了最近Cosmos生态的关键动态，包括CosmWasm的集成、PSS提案的前景，以及以太坊生态项目在Cosmos的发展趋势。集成CosmWasm功能将极大地方便实验性功能的开发，包括IBS连接异构网络。PSS提案将提供更灵活的跨链安全选择。此外，Megablock和Atomic IBC等技术将进一步完善Cosmos的跨链交互，可能形成统一的MEV市场。这些发展表明Cosmos正在迎头赶上以太坊生态的步伐。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>HashKey 成员 Jeffrey Hu 探讨了最近 Cosmos 生态的关键动态，包括 CosmWasm 的集成、PSS 提案的前景，以及以太坊生态项目在 Cosmos 的发展趋势。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/hu_zhiwei/status/1777926413032862179">https://twitter.com/hu_zhiwei/status/1777926413032862179</a></p>
+<p><strong>文章作者：</strong></p><p>Jeffrey Hu</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Jeffrey Hu：</strong>集成 CosmWasm 的想法应该至少有几年的时间了。有了这个功能后会方便很多实验性功能的开发，包括 IBC 连接异构网络等。此外，下一个很有可能通过的提案是 PSS 了。全称是 Partial Set Security，可认为是更灵活版本的 ICS，可以让一部分验证人去提供跨链安全，而不需要强制所有 Cosmos Hub 的验证人。因为强制性的 ICS 并不一定对所有验证人都友好。特别是小验证人，奖励可能还不够运维成本的有了 PSS 之后，Cosmos 的 ICS 也可以像 EigenLayer 一样灵活。。
+
+Megablock 也和 ICS 相关，是 Atomic IBC 的基础。这可以共享 mempool 和区块。效果是只需要一个 CometBFT 的实例，但上层运行不同的应用（Cosmos SDK）。所以这个就相当于是用一个大的区块，划分了一些状态空间。可以并行的执行（并行 EVM），也可以相互之间做原子性的事务交互（Atomic IBC）。
+
+当前的 IBC 还是异步的方式。Atomic IBC 要实现的是原子性（nothing or all）。因为基于上面提到的 megablock，理论上都是一套验证人在运行软件，所以跨链的时候可以省去产生证明和校验证明的步骤，而直接用共识安全来保证。这样的好处是，可能可以形成一个统一的 MEV 市场。有些类似于 SUAVE、 OP superchain 的共享定序器的作用。所以，你可能会发现：ICS/PSS vs Restaking、megablock/Atomic IBC vs 共享定序器。就像我们之前团队讨论时开的玩笑：都说以太坊慢慢活成 Cosmos 的样子，但 Cosmos 也有点变成了以太坊的样子。</p><a href="https://twitter.com/hu_zhiwei/status/1777926413032862179">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-11T04:34:10+00:00</pubDate>
+</item>
+<item>
+<title>SEC 打算向 Uniswap Labs 提起一个不可能赢的诉讼？</title>
+<link>https://mp.weixin.qq.com/s/91LwQhvBE_ljzZcfvW2QSg</link>
+<guid>https://mp.weixin.qq.com/s/91LwQhvBE_ljzZcfvW2QSg</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章指出，SEC对Uniswap Labs采取诉讼等监管行动的胜诉概率很低。主要原因包括SEC监管执法无国会授权，Uniswap不符合证券交易所或经纪人的定义，以及$UNI代币不符合证券法定义。文章认为SEC的攻击显得无力，Uniswap Labs在法律和合规方面有较好的立场。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>2024 年 4 月 10 日，Uniswap Labs 收到了来自美国证券交易委员会（SEC）执法部门的 Wells Notice 通知，告知 SEC 可能对 Uniswap Labs 采取诉讼等监管执法行动。加密货币 KOL Will 阿望结合 Uniswap Labs 的 SEC 回应文章，以及其相对合规的治理结构，解读这是一个不可能赢的诉讼的原因。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/91LwQhvBE_ljzZcfvW2QSg">https://mp.weixin.qq.com/s/91LwQhvBE_ljzZcfvW2QSg</a></p>
+<p><strong>文章作者：</strong></p><p>0xWill</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>0xWill：</strong>无论 SEC 决定做什么，法律在以下几点上都有明确规定：
+1.SEC 监管执法无国会授权 ——SEC 仅对「证券」有管辖权。SEC 主席此前向国会明确，能否确定加密资产是「证券」需要国会立法来确认。并且在 Risley vs. Uniswap Labs 案件中，法官表示 Uniswap 上的交易并不适用于证券法（中立无须许可），明确强调：「证券与否的认定最好由国会解决。」此外，在 SEC vs. Ripple 案件中，法官明确加密资产的二级市场交易一般不构成投资合同。由此可见 Uniswap 上面的二级市场交易并无「证券」的问题。
+
+2. 不符合证券交易所或经纪人的定义。即使大部分加密货币被认定为「证券」，Uniswap 协议、应用程序和钱包仍然不符合证券交易所或经纪人（securities exchange or broker）的法律定义。这一点在最近 SEC vs. Coinbase 的裁决中表现得很明显，法院在案件的最初阶段就已经驳回了 SEC 关于非托管加密钱包是经纪人的主张，即使他们收取费用。
+
+3. 不存在「证券」发行。$UNI 代币不是证券，因为它不符合任何类型证券的法律定义，包括不符合「投资合同」的定义。根据美国证券法以及豪威测试，投资合同是对普通企业的金钱投资，期望获得利润，完全依赖于他人的努力。而 Uniswap Labs 与该代币的 300,000 多名持有者之间没有任何合同或承诺，亦不存在共同的事业，代币的价值并非完全取决于 Uniswap Labs 的努力。尽管 SEC 最近对以太坊基金会进行了调查，但 CFTC 已经非常明确地表明，比特币和以太坊都不是证券。Uniswap 技术生态系统足够去中心化，就像比特币和以太坊一样。
+
+无论是 Uniswap Labs 文章中的辩护，还是近期加密监管的案例来看，SEC 对于 Uniswap Labs 的攻击都显得较为无力，且基本没什么胜诉概率。尽管短期 $UNI 承压。我们更加认可这是一种政治诉求的举动。</p><a href="https://mp.weixin.qq.com/s/91LwQhvBE_ljzZcfvW2QSg">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-11T04:01:30+00:00</pubDate>
+</item>
 
 <item>
 <title>【英文】流动性重质押代币 LRT 的流动性如何？</title>
