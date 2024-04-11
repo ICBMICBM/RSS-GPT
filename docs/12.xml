@@ -5,11 +5,39 @@
 <link>https://bitcoinist.com</link>
 
 <item>
+<title>47 Out Of Every 100 Bitcoin Mined Stored By One Custodian: Analyst</title>
+<link>https://bitcoinist.com/47-out-of-every-100-bitcoin-one-custodian/</link>
+<guid>https://bitcoinist.com/47-out-of-every-100-bitcoin-one-custodian/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：这些信息是消极的。一项研究发现，一个匿名的托管机构在比特币网络中扮演着至关重要的角色，占据着至少47%的总算力。这种集中控制可能带来安全风险和对托管机构的透明度和去中心化的需求。一些知名的比特币挖矿池对同一托管机构进行拜托，这可能导致中心化的币存储和对交易处理的控制。 <div>
+<p>On-chain analysis now reveals that a single anonymous custodian, believed to be Cobo Custody, plays a crucial role in the Bitcoin network. In a <a class="editor-rtfLink" href="https://twitter.com/mononautical/status/1777686545715089605" rel="noopener nofollow" target="_blank">post</a> on X, one analyst said the custodian controls the Coinbase addresses of at least nine mining pools, cumulatively contributing at least 47% of the total hash rate. </p>
+<p>This means that for every 100 freshly mined BTC, 47 BTC are sent to this custodian. Concentrating control in one entity raises concerns about the potential risks and the need for transparency and decentralization of custodians among mining pools.</p>
+<img alt="BTC coinbase addresses | Source: Mempool Space" class="size-full wp-image-293499" height="461" src="https://bitcoinist.com/wp-content/uploads/2024/04/Screenshot128.png?resize=1024%2C461" width="1024" />
+<h2>Bitcoin Mining Pool Overreliant On One Custodian</h2>
+<p>The finding noted that popular Bitcoin mining pools like AntPool, F2Pool, Binance Pool, Braiins, btccom, SECPOOL, and <a href="https://bitcoinist.com/poolin-mining-pool-freezes-btc-eth-withdrawals/" rel="noopener " target="_blank">Poolin</a> channel their Coinbase to the same custodian. Additionally, ULTIMUSPOOL and 1THash&#8217;s Coinbase addresses are also reportedly controlled by the same entity. </p>
+<p>Luxor previously used the same custodian but changed its setup after it was noted that they also relied on the custodian.</p>
+<p>A Coinbase address is a specific address associated with a mining pool. Whenever a mining pool succeeds in confirming a block of transactions every 10 minutes and is rewarded with 6.25 BTC in the current epoch, it sends these coins to its Coinbase address.</p>
+
+<p>This consolidation raises concerns about centralization in coin storage. Technically, Bitcoin is powered by a decentralized web of miners, none of which control over 50% of the total hash rate. </p>
+<p>The hash rate is the measure of computing power dedicated to the network. The higher it is, the more secure the platform becomes against attacks. According to <a class="editor-rtfLink" href="https://ycharts.com/indicators/bitcoin_network_hash_rate" rel="noopener nofollow" target="_blank">YCharts</a>, the Bitcoin network currently has a hash rate of 603 EH/s.</p>
+<img alt="Bitcoin hash rate | Source: YCharts" class="size-full wp-image-293498" height="406" src="https://bitcoinist.com/wp-content/uploads/2024/04/Screenshot127.png?resize=1024%2C406" width="1024" />
+<h2>Security And Centralization Risks</h2>
+<p>Fresh studies show that a single entity controls nearly half of all newly minted BTC, which could pose a security risk. If this custodian is compromised, these mining pools could lose heavily, impacting the network&#8217;s overall security and sentiment.</p>
+<a href="https://www.tradingview.com/x/wZTRxuXf/" rel="nofollow noopener" target="_blank"><img alt="Bitcoin price trending sideways on the daily chart | Source: BTCUSDT on Binance, TradingView" class="size-full" height="904" src="https://www.tradingview.com/x/wZTRxuXf/" width="1787" /></a>
+<p>Besides relying on one custodian for their Coinbase, the study also found that the nine pools provide a hash rate for AntPool&#8217;s transaction accelerator service. The custodian is said to frequently use AntPool and ViaBTC&#8217;s transaction acceleration services for large batch withdrawals. </p>
+
+<p>Usually, transaction accelerators are meant to fast-track the confirmation speeds of certain transactions. While convenient, especially when the network is congested, accelerators can risk centralizing control over transaction processing.</p>
+]]></content:encoded>
+<pubDate>Thu, 11 Apr 2024 02:00:38 +0000</pubDate>
+<pubDate>Thu, 11 Apr 2024 02:00:38 +0000</pubDate>
+</item>
+
+<item>
 <title>Examining The $100M Mango Markets Exploit, Latest Updates From Avraham Eisenberg’s Trial</title>
 <link>https://bitcoinist.com/latest-updates-the-100m-mango-markets-exploit/</link>
 <guid>https://bitcoinist.com/latest-updates-the-100m-mango-markets-exploit/</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。在纽约联邦法院开始审判被指控策划价值1亿美元Mango Markets的Avraham Eisenberg后，揭露了该丑闻的细节。指控称Eisenberg涉嫌欺诈和市场操纵，在20分钟内将交易所的MNGO代币提升了1000%，据称借款1.1亿美元的加密货币实际上是窃取而不是合法贷款。辩护律师表示，Eisenberg的行为在加密货币交易的“投机领域”中属于正常操作，主张其行为并不违法。此案也引发了有关自治代码和智能合约在区块链技术中的作用的广泛讨论。<br> <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。在纽约联邦法院开始审判被指控策划价值1亿美元Mango Markets的Avraham Eisenberg后，揭露了该丑闻的细节。指控称Eisenberg涉嫌欺诈和市场操纵，在20分钟内将交易所的MNGO代币提升了1000%，据称借款1.1亿美元的加密货币实际上是窃取而不是合法贷款。辩护律师表示，Eisenberg的行为在加密货币交易的“投机领域”中属于正常操作，主张其行为并不违法。此案也引发了有关自治代码和智能合约在区块链技术中的作用的广泛讨论。<br /> <div>
 <p>In a significant development for the cryptocurrency industry, the trial of Avraham Eisenberg, the accused perpetrator of the $100 million Mango Markets <a href="https://bitcoinist.com/court-trial-mango-markets-exploiter-set-in-april/" rel="noopener " target="_blank">exploit</a>, has commenced in a New York federal court. </p>
 <h2>Details Of The Mango Markets Scandal</h2>
 <p>During the <a href="https://x.com/innercitypress/status/1777689619523309593" rel="noopener nofollow" target="_blank">opening arguments</a> presented by Assistant US Attorney Tian Huang, Eisenberg&#8217;s actions on October 11, 2022, were characterized as fraud and market manipulation. </p>
@@ -36,9 +64,7 @@
 <p>Featured image from Shutterstock, chart from TradingView.com </p>
 ]]></content:encoded>
 <pubDate>Thu, 11 Apr 2024 01:00:33 +0000</pubDate>
-<pubDate>Thu, 11 Apr 2024 01:00:33 +0000</pubDate>
 </item>
-
 <item>
 <title>Binance Reveals Substantial Shiba Inu Holdings In Latest Proof Of Reserves Report</title>
 <link>https://bitcoinist.com/binance-substantial-shiba-inu/</link>
