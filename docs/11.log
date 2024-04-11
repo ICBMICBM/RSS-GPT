@@ -23499,3 +23499,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Pepe Coin Spikes on Coinbase International Plan to List Perpetual Futures](https://www.coindesk.com/markets/2024/04/11/pepe-coin-spikes-on-coinbase-international-plan-to-list-perpetual-futures/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-04-11 16:39:45.137584
+------------------------------------------------------
+Started: 2024-04-11 16:47:22.321750
+Existing_entries: 500
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-04-11 16:47:22.691372
