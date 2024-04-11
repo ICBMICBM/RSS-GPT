@@ -27781,3 +27781,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Circle推出新的智能合约功能，允许BUIDL持有者将其份额转换为USDC](https://www.panewslab.com/zh/sqarticledetails/59y5rhga.html)
 append_entries: 1
 Finish: 2024-04-11 12:44:06.730893
+------------------------------------------------------
+Started: 2024-04-11 12:56:18.697997
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+append_entries: 0
+Finish: 2024-04-11 12:56:20.649676
