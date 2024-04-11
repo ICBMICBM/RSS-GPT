@@ -25819,3 +25819,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [社交应用 Tomo 完成 350 万美元种子轮融资，Polychain Capital 领投](https://www.theblock.co/post/287553/socialfi-app-tomo-raises-3-5-million-usd-seed-funding-points-rewards)
 append_entries: 4
 Finish: 2024-04-11 03:58:31.069546
+------------------------------------------------------
+Started: 2024-04-11 04:15:25.854336
+Existing_entries: 1004
+Fetching from https://www.chainfeeds.xyz/rss
+append_entries: 0
+Finish: 2024-04-11 04:15:26.334527
