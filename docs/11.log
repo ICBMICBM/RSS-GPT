@@ -23385,3 +23385,15 @@ Existing_entries: 494
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-11 14:01:07.100713
+------------------------------------------------------
+Started: 2024-04-11 14:17:46.914758
+Existing_entries: 494
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 53
+Summarized using GPT-3.5-turbo-1106
+Append: [Ether Spot ETFs Still Have No More Than 50% Chance of Approval in May: JPMorgan](https://www.coindesk.com/policy/2024/04/11/ether-spot-etfs-still-have-no-more-than-50-chance-of-approval-in-may-jpmorgan/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 24
+Summarized using GPT-3.5-turbo-1106
+Append: [Shiba Inu Joins CDSA to Battle AI-Driven Concerns Using Shibarium](https://www.coindesk.com/markets/2024/04/11/shiba-inu-joins-cdsa-to-battle-ai-driven-concerns-using-shibarium/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 2
+Finish: 2024-04-11 14:17:53.401659
