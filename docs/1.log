@@ -27550,3 +27550,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [比特币的六个月内涨幅接近100%，超越英伟达和标普500指数](https://www.panewslab.com/zh/sqarticledetails/3yhbmij6.html)
 append_entries: 1
 Finish: 2024-04-11 07:39:10.816391
+------------------------------------------------------
+Started: 2024-04-11 07:46:27.196117
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 124
+Summarized using GPT-3.5-turbo-1106
+Append: [某新巨鲸地址近6小时从Coinbase共提取6838枚ETH，约合2424万美元](https://www.panewslab.com/zh/sqarticledetails/yvc0pqhk.html)
+Token length: 311
+Summarized using GPT-3.5-turbo-1106
+Append: [Ordinals铭文数量突破6500万，已为矿工产生超4.58亿美元的网络费用](https://www.panewslab.com/zh/sqarticledetails/ep1vntk4.html)
+append_entries: 2
+Finish: 2024-04-11 07:46:34.591290
