@@ -24210,3 +24210,15 @@ Existing_entries: 519
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-12 11:59:50.602812
+------------------------------------------------------
+Started: 2024-04-12 12:29:35.483731
+Existing_entries: 519
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 194
+Summarized using GPT-3.5-turbo-1106
+Append: [First Mover Americas: BTC Holds Stable at $70K](https://www.coindesk.com/markets/2024/04/12/first-mover-americas-btc-holds-stable-at-70k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Token length: 25
+Summarized using GPT-3.5-turbo-1106
+Append: [Hong Kong Could Approve Spot Bitcoin, Ether ETFs as Early as Monday: Bloomberg](https://www.coindesk.com/policy/2024/04/12/hong-kong-could-approve-spot-bitcoin-ether-etfs-as-early-as-monday-bloomberg/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 2
+Finish: 2024-04-12 12:29:39.832400

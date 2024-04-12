@@ -22362,3 +22362,12 @@ Existing_entries: 31
 Fetching from https://www.trustnodes.com/feed
 append_entries: 0
 Finish: 2024-04-12 11:59:52.078359
+------------------------------------------------------
+Started: 2024-04-12 12:29:40.904020
+Existing_entries: 31
+Fetching from https://www.trustnodes.com/feed
+Token length: 149
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin ETFs Now Handle 30% of Spot Volumes](https://www.trustnodes.com/2024/04/12/bitcoin-etfs-now-handle-30-of-spot-volumes)
+append_entries: 1
+Finish: 2024-04-12 12:29:42.961127
