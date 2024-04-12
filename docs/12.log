@@ -23790,3 +23790,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Court Denies US SEC Disgorgement Powers In Govil Verdict: Ripple CLO](https://bitcoinist.com/us-sec-faces-another-legal-blow-ripple-clo/)
 append_entries: 1
 Finish: 2024-04-12 11:14:03.594560
+------------------------------------------------------
+Started: 2024-04-12 11:22:46.144781
+Existing_entries: 391
+Fetching from https://bitcoinist.com/feed
+append_entries: 0
+Finish: 2024-04-12 11:22:46.348639
