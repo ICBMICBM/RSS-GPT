@@ -28654,3 +28654,12 @@ Existing_entries: 1001
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-12 09:56:23.598210
+------------------------------------------------------
+Started: 2024-04-12 10:11:33.720717
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 2597
+Summarized using GPT-3.5-turbo-1106
+Append: [比特币巨鲸增持放缓，我们行至牛市何处？](https://www.panewslab.com/zh/articledetails/k6631c5e.html)
+append_entries: 1
+Finish: 2024-04-12 10:11:39.240347
