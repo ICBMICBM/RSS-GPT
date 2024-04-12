@@ -24315,3 +24315,12 @@ Existing_entries: 522
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-12 14:59:15.728667
+------------------------------------------------------
+Started: 2024-04-12 15:14:17.614730
+Existing_entries: 522
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 23
+Summarized using GPT-3.5-turbo-1106
+Append: [How to Get Funded in Crypto](https://www.coindesk.com/consensus-magazine/2024/04/12/how-to-get-funded-in-crypto/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-12 15:14:21.082659
