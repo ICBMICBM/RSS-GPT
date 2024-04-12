@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>为何以太坊下次升级中纳入 EIP-3074？账户抽象方案 ERC-4337 还不够吗？</title>
 <link>https://substack.chainfeeds.xyz/p/eip-3074-erc-4337</link>
 <guid>https://substack.chainfeeds.xyz/p/eip-3074-erc-4337</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。EIP-3074被以太坊社区广泛支持，将被纳入下一次以太坊硬分叉。该提案旨在让外部拥有账户（EOA）像智能合约钱包一样运作，无需部署额外合约。与ERC-4337相比，EIP-3074需通过硬分叉实施，重点是使EOA获得智能合约的功能。尽管有一些潜在风险，但经改进和测试后，社区对其支持度很高。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。EIP-3074被以太坊社区广泛支持，将被纳入下一次以太坊硬分叉。该提案旨在让外部拥有账户（EOA）像智能合约钱包一样运作，无需部署额外合约。与ERC-4337相比，EIP-3074需通过硬分叉实施，重点是使EOA获得智能合约的功能。尽管有一些潜在风险，但经改进和测试后，社区对其支持度很高。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>经过 3 年多的沉淀和改进，在以太坊第 183 次 ACDE 会议中，EIP-3074 得到了以太坊社区的广泛支持，正式被纳入下一次以太坊硬分叉。EIP-3074 是什么？能实现什么？与 ERC-4337 的区别是什么？ChainFeeds 带你一探究竟。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://substack.chainfeeds.xyz/p/eip-3074-erc-4337">https://substack.chainfeeds.xyz/p/eip-3074-erc-4337</a></p>
 <p><strong>文章作者：</strong></p><p>0xNatalie</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>0xNatalie：</strong>EIP-3074 由以太坊研究员 Sam Wilson、Go Ethereum 开发者 Matt Garnett 等人提出，其核心在于让任何一个外部拥有账户（EOA）都能像智能合约钱包一样运作，无需部署额外的合约，无需手动迁移。外部拥有账户（EOA）由用户直接控制和管理等以太坊上的一种账户类型，就是我们常用的助记词钱包创建的账户，比如 MetaMask。EIP-3074 引入了两个新的以太坊虚拟机指令：AUTH 和 AUTHCALL，使 EOA 连接起一个智能合约，并将交易的控制权交给智能合约。
@@ -18,7 +19,6 @@ ERC-4337 是协议层面的，不需要更改共识层，主要目标是实现�
 
 相较于其他提案，EIP-3074 的优势在于简洁高效，不需要额外的流程，即可让用户享受到智能合约的功能。之前以太坊社区会担心 EIP-3074 的技术安全问题，经过改进和测试之后，社区广泛支持将 EIP-3074 加入到下一次以太坊升级中。但其仍存在一些潜在风险，例如，在 EIP-3074 中，允许智能合约代表 EOA 执行交易，当涉及到赞助交易时，与其他合约或账户进行交互可能会改变交易执行前和执行后的账户状态，使节点验证人难以准确预测交易的影响，从而产生网络不一致的安全风险。此外，虽然用户可以通过签名来授权第三方操作账户，但这也意味着第三方（Invoker）可以在一定程度上操作用户的账户。如果第三方的权限被滥用或遭受黑客攻击，用户的资金和个人信息可能会受到威胁。</p><a href="https://substack.chainfeeds.xyz/p/eip-3074-erc-4337">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-12T08:25:40+00:00</pubDate>
 </item>
 <item>
@@ -26,7 +26,7 @@ ERC-4337 是协议层面的，不需要更改共识层，主要目标是实现�
 <link>https://foresightnews.pro/article/detail/57918</link>
 <guid>https://foresightnews.pro/article/detail/57918</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。硬件加速赛道对整个生态非常重要，特别是对以太坊、ZK和加密世界。目前，ZK技术项目市值超过10亿美元，主要分为基础设施、ZK-Rollup和ZK应用三层，其中ZK Rollup受到最广泛关注。当前主流的硬件加速方案包括GPU、FPGA和ASIC，在性能和灵活性上有所不同。市场预测ZK加速的规模将与POW挖矿相当，但门槛仍然较高，对中小型项目不够友好。需要通过中心化方式采购加速硬件，并根据需求选择合适的加速方案。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。硬件加速赛道对整个生态非常重要，特别是对以太坊、ZK和加密世界。目前，ZK技术项目市值超过10亿美元，主要分为基础设施、ZK-Rollup和ZK应用三层，其中ZK Rollup受到最广泛关注。当前主流的硬件加速方案包括GPU、FPGA和ASIC，在性能和灵活性上有所不同。市场预测ZK加速的规模将与POW挖矿相当，但门槛仍然较高，对中小型项目不够友好。需要通过中心化方式采购加速硬件，并根据需求选择合适的加速方案。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>从整个生态的角度来看，硬件加速赛道为何重要？为以太坊、ZK、整个加密世界提供了何种价值？本文从 Cysic 触发，对硬件加速的昨日、现在和未来进行了深入探讨。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://foresightnews.pro/article/detail/57918">https://foresightnews.pro/article/detail/57918</a></p>
 <p><strong>文章作者：</strong></p><p>BeWater</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>BeWater：</strong>市场上的 ZK 系项目正在快速成长，市值超过 10 亿美元的基于 ZK 技术的项目中，Polyhedra、Immutable、StakNet、zkSync、Mina、dYdX 等被广为人知。这一赛道大体可分为三层：基础设施、ZK-Rollup、ZK 应用。而最受瞩目的则是 ZK Rollup。ZK Rollup 的爆发为可扩展性和「大规模采用」的叙事提供了充足的支撑。当然，在此之上还有采用了 ZK 技术的各种 dApp，它们大多利用 ZK 的特性为加密用户提供了隐私等其他应用。然而 ZK 证明生成所需要的过高的计算资源却是一个禁锢赛道进一步前进的瓶颈。
@@ -38,10 +38,8 @@ ERC-4337 是协议层面的，不需要更改共识层，主要目标是实现�
 
 Paradigm 曾做出预测，ZK 加速的市场规模与 POW 挖矿市场规模相当。然而，ZK 加速门槛仍然较高，对于很多中小型项目方仍然极不友好。很多 ZKP 的需求方仍然需要通过中心化的方式采购加速硬件，自行部署加速服务。而且还需要根据自身的 ZKP 生成继续路线，选择合适的加速方案。</p><a href="https://foresightnews.pro/article/detail/57918">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-12T08:16:50+00:00</pubDate>
 </item>
-
 <item>
 <title>【英文】Solana 生态催化剂及新项目探析</title>
 <link>https://paultimofeev.substack.com/p/a-solana-update</link>
@@ -11848,26 +11846,6 @@ Froqorion：以远古青蛙文明 为背景的团队角色扮演游戏。</p><a 
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />这些信息是积极的。Polychain Capital领投zkBridge开发商Polyhedra Network共2000万美元的战略融资，估值10亿美元。其他投资者包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium和Mapleblock Capital。筹集的资金将用于扩大团队规模，招聘跨职能部门人员，包括产品、工程、业务开发和营销。这是通过未来代币或SAFT的简单协议进行的五轮融资之一。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。zkBridge的开发商Polyhedra Network以10亿美元的估值完成了2000万美元的战略融资，由Polychain Capital领投，其他投资者包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium和Mapleblock Capital。该公司计划将筹集资金用于招聘扩大团队规模，从目前的约50人扩大到约80人。此轮融资和之前的四轮都是通过未来代币或SAFT协议进行的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。融资将用于招聘扩大团队规模。总体而言，这些信息是积极的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
