@@ -29203,3 +29203,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [行情：以太坊短线跌破3200美元，24小时内跌幅8.3%](https://www.panewslab.com/zh/sqarticledetails/zay7s0xk.html)
 append_entries: 2
 Finish: 2024-04-12 23:11:23.218628
+------------------------------------------------------
+Started: 2024-04-12 23:18:38.057484
+Existing_entries: 1002
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 148
+Summarized using GPT-3.5-turbo-1106
+Append: [数据：4月12日贝莱德IBIT交易量21.9亿美元，灰度GBTC 11.9亿美元](https://www.panewslab.com/zh/sqarticledetails/ii5vj36e.html)
+append_entries: 1
+Finish: 2024-04-12 23:18:42.928208
