@@ -23988,3 +23988,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Dogecoin Developer Sounds Warning Ahead Of Coinbase’s DOGE And PEPE Futures Listing](https://bitcoinist.com/dogecoin-coinbase-doge-pepe/)
 append_entries: 1
 Finish: 2024-04-12 16:35:52.890208
+------------------------------------------------------
+Started: 2024-04-12 16:42:50.446795
+Existing_entries: 395
+Fetching from https://bitcoinist.com/feed
+append_entries: 0
+Finish: 2024-04-12 16:42:50.593433
