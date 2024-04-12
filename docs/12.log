@@ -24231,3 +24231,12 @@ Existing_entries: 398
 Fetching from https://bitcoinist.com/feed
 append_entries: 0
 Finish: 2024-04-12 22:28:31.860339
+------------------------------------------------------
+Started: 2024-04-12 22:36:42.139904
+Existing_entries: 398
+Fetching from https://bitcoinist.com/feed
+Token length: 2394
+Summarized using GPT-3.5-turbo-1106
+Append: [Crypto Analyst Says Dogecoin Is Poised To Run 100% To $0.4, Here’s When](https://bitcoinist.com/dogecoin-run-100-to-0-4/)
+append_entries: 1
+Finish: 2024-04-12 22:36:44.812128
