@@ -23439,3 +23439,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Dogecoin Whales Are Selling: How The Growing Bearish Sentiment Can Affect DOGE’s Price](https://bitcoinist.com/dogecoin-whales-doge-price/)
 append_entries: 1
 Finish: 2024-04-12 00:55:13.116836
+------------------------------------------------------
+Started: 2024-04-12 01:40:06.127894
+Existing_entries: 382
+Fetching from https://bitcoinist.com/feed
+Token length: 3154
+Summarized using GPT-3.5-turbo-1106
+Append: [Dapper Labs Rocked By SEC’s Explosive Investigation In 2023: Revelations Exposed](https://bitcoinist.com/secs-investigation-of-dapper-labs-uncovered/)
+append_entries: 1
+Finish: 2024-04-12 01:40:09.715846
