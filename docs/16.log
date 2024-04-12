@@ -26776,3 +26776,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [【英文】Pantera Capital 合伙人：Memecoin 是加密货币领域的特洛伊木马](https://www.veradiverdict.com/p/what-do-you-meme)
 append_entries: 1
 Finish: 2024-04-12 06:57:36.788398
+------------------------------------------------------
+Started: 2024-04-12 07:13:47.940341
+Existing_entries: 1001
+Fetching from https://www.chainfeeds.xyz/rss
+append_entries: 0
+Finish: 2024-04-12 07:13:48.611029
