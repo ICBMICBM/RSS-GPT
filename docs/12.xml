@@ -4,6 +4,41 @@
 <title>Bitcoinist.com</title>
 <link>https://bitcoinist.com</link>
 
+<item>
+<title>Uniswap Labs Counters SEC Probe And UNI’s 30% Price Drop With New Cross-Chain ERC Standard</title>
+<link>https://bitcoinist.com/uniswap-labs-new-cross-chain-erc-standard/</link>
+<guid>https://bitcoinist.com/uniswap-labs-new-cross-chain-erc-standard/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：这些信息是消极的。<br>Uniswap Labs收到了美国证券交易委员会（SEC）的Wells通知，可能会面临执法行动。与Across合作，提出了跨链意向的新标准，以提高跨链操作效率。UniswapX计划成为新ERC标准的首个采用者，以改善用户体验。新标准将通过Ethereum应用层建立规则，允许不同的基于意向的系统之间轻松互操作。目标是降低成本，加快订单交付速度。UNI代币受到SEC通知的影响，价格出现大幅下跌。 <div>
+<p>Uniswap Labs, the software development company behind the decentralized exchange (DEX) Uniswap, was <a href="https://bitcoinist.com/uniswap-labs-receives-wells-notice-from-sec/" rel="noopener " target="_blank">served</a> with a Wells Notice by the US Securities and Exchange Commission (SEC) on Wednesday, which could result in an Enforcement Action.</p>
+<p>Amid these regulatory challenges, Uniswap Labs has partnered with Across, a cross-chain protocol, to propose a new standard for cross-chain intents. </p>
+<h2>Uniswap Labs And Across Collaboration</h2>
+<p>The joint proposal <a href="https://blog.uniswap.org/uniswap-labs-and-across-propose-standard-for-cross-chain-intents" rel="noopener nofollow" target="_blank">announced </a>Thursday introduces a new standard for cross-chain intents that enables end-to-end interoperability between intent-based systems through a universal filler network. </p>
+<p>Cross-chain intents involve transferring or interacting with assets and protocols across multiple blockchain platforms.</p>
+
+<p>To initiate the process of creating an <a href="https://bitcoinist.com/uniswap-hits-2-trillion-trading-volume/" rel="noopener " target="_blank">Ethereum Request for Comment</a> (ERC) around this standard, Uniswap Labs and Across plan to present the standard to the CAKE Working Group for further discussion and review.</p>
+<p>Furthermore, UniswapX, the upcoming project by Uniswap Labs focusing on cross-chain functionality, will be the first adopter of the new ERC. By integrating support for cross-chain functionality, UniswapX aims to improve the user experience and expand the scope of its services. </p>
+<h2>Intent-Based Systems</h2>
+<p>The Uniswap Labs team stated that cross-chain protocols have traditionally adopted various approaches to connect activities between <a href="https://bitcoinist.com/uni-soars-uniswap-users-base-optimism-double/" rel="noopener " target="_blank">blockchain networks</a>. While messaging-based designs have been popular, they &#8220;suffer from slow transfer finalization and high costs.&#8221; </p>
+<p>Intents-based approaches offer a &#8220;more efficient&#8221; solution for the software development company. Uniswap Labs further asserts that by allowing users to specify the desired end-state of the chain, intents-based systems enable a network of fillers to compete and fulfill the user&#8217;s outcome quickly and cost-effectively. </p>
+<p>However, until now, each intent-based system has operated through its network, resulting in delays and alleged “centralization risks,” according to the company. </p>
+<p>The announcement also notes that the proposed standard establishes rules at Ethereum&#8217;s application layer, allowing independent intent-based systems to “interoperate easily.” </p>
+Lower Costs And Faster Order Delivery? 
+<p>The &#8216;CrossChainOrder&#8217; and &#8216;CrossChainSettler&#8217; components are central to the proposed standard. The &#8216;CrossChainOrder&#8217; struct defines key parameters of the user&#8217;s order, including the deadline for order fulfillment or delivery, the <a href="https://bitcoinist.com/jupiter-uniswap-solana-ethereum/" rel="noopener " target="_blank">settlement contract</a> that holds user funds, and implementation-specific data. </p>
+<p>The &#8216;CrossChainSettler&#8217; interface specifies the functions settlement contracts must implement to resolve and initiate implementation-specific orders on-chain.</p>
+<p>By adhering to this ERC standard, users can reportedly sign cross-chain orders that conform to a unified specification. Whether interacting with UniswapX, Across, or other systems, the company claims that users follow the same standard, enabling <a href="https://bitcoinist.com/dictators-beware-bitcoin-might-be-your-downfall/" rel="noopener " target="_blank">cross-chain applications</a> to share filler sets through a universal network. </p>
+<p>This approach is said to eliminate siloed networks and reduce reliance on a few fillers, thereby improving decentralization and reducing the risks associated with centralized fillers.</p>
+
+<p>Ultimately, the company believes establishing a unified standard for intent-based systems will significantly improve the user experience for applications, fillers, and end users. The Uniswap Labs team concluded by stating:</p>
+<blockquote><p>Fillers have a lower entry barrier, and lower costs, and they can capture more order flow instead of specializing for a single application. Applications can route their users’ intents through a wider, more competitive network. And users get faster fills and lower costs because the fillers operate with greater capital efficiency.</p></blockquote>
+<img alt="Uniswap" class="size-medium" height="858" src="https://www.tradingview.com/x/55bd8F9h/" width="1815" />
+<p>The receipt of the SEC&#8217;s Wells Notice by Uniswap Labs has significantly impacted the UNI token, leading to a notable downtrend in its price. Over the past 24 hours alone, the token has experienced a price drop of more than 21%.</p>
+<p>This downward trend has extended to nearly 35% over the past month, resulting in the current trading price of $8.820.</p>
+<p>Featured image from iStock, chart from TradingView.com </p>
+]]></content:encoded>
+<pubDate>Fri, 12 Apr 2024 03:00:16 +0000</pubDate>
+<pubDate>Fri, 12 Apr 2024 03:00:16 +0000</pubDate>
+</item>
 
 <item>
 <title>Bitcoin Hashrate Returns Near ATH, Forces BTC Difficulty To Grow 4%</title>
