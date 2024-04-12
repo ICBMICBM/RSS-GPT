@@ -24357,3 +24357,12 @@ Existing_entries: 524
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-12 15:56:07.234044
+------------------------------------------------------
+Started: 2024-04-12 16:11:40.589947
+Existing_entries: 524
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 19
+Summarized using GPT-3.5-turbo-1106
+Append: [Hacker Sentenced to 3 Years in Prison for Stealing Over $12M From Crypto Exchanges](https://www.coindesk.com/policy/2024/04/12/hacker-sentenced-to-3-years-in-prison-for-stealing-over-12m-from-crypto-exchanges/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-12 16:11:43.787871

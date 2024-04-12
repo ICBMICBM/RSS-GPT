@@ -22339,3 +22339,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Osmosis Q1 2024 Brief](https://messari.io/article/osmosis-q1-2024-brief)
 append_entries: 2
 Finish: 2024-04-12 15:56:02.575250
+------------------------------------------------------
+Started: 2024-04-12 16:11:30.893483
+Existing_entries: 40
+Fetching from https://messari.io/rss
+append_entries: 0
+Finish: 2024-04-12 16:11:31.677340
