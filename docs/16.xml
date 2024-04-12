@@ -4,6 +4,21 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>a16z Crypto 最新发布 zkVM 解决方案 Jolt 会带来哪些变化？</title>
+<link>https://www.panewslab.com/zh/articledetails/minl272b.html</link>
+<guid>https://www.panewslab.com/zh/articledetails/minl272b.html</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的<br>1. a16z Crypto发布了名为Jolt的zkEVM解决方案，旨在加速和简化区块链扩展操作。<br>2. Jolt集成了SNARK零知识证明，为EVM兼容Rollups提供了框架，可帮助开发人员创建基于SNARK的L2解决方案。<br>3. Jolt的速度比当前的zkVM快了两倍，在CPU上比RISC Zero快6倍。<br>4. Jolt的优化手段包括更紧凑的电路设计、更高效的流水线和更充分的并行化，最大限度地挖掘硬件的算力。<br>5. Jolt生成证明的速度已经比主流的zkVM方案快2-5倍，有助于加快区块链应用的开发和测试周期。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>a16z Crypto 发布了名为 Jolt 的 zkEVM 解决方案，旨在加速和简化区块链扩展操作。Jolt 集成了 SNARK 零知识证明，为 EVM 兼容 Rollups 提供了框架，可以帮助开发人员创建基于 SNARK 的 L2 解决方案。该团队表示，与目前的 zkVM 相比，Jolt 的速度「快了两倍」。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.panewslab.com/zh/articledetails/minl272b.html">https://www.panewslab.com/zh/articledetails/minl272b.html</a></p>
+<p><strong>文章作者：</strong></p><p>PANews</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>PANews：</strong>关于 Jolt 的技术原理非常复杂，简单来说。在区块链网络的发展过程中，zkVM 是一种在提升区块链网络拓展性的关键技术，能够在保障隐私的情况下提供有效的证明。据 a16z Crypto 表示，在 CPU 上，初始 Jolt 实现大约比 RISC Zero 快 6 倍，比最近发布的 SP1 快 2 倍，并且未来几周内将 Jolt 的速度提高约 1.5 倍。Jolt 目前的速度已经比现有的 zkVM 快 2 倍以上，但仍有很大的优化空间。Jolt 还巧妙地利用多项式的某些代数性质，实现了更高效的多项式承诺方案。这进一步减少了证明的大小和验证的时间。
+
+从工程角度来说，Jolt 采用了一系列优化手段，例如更紧凑的电路设计、更高效的流水线、更充分的并行化等等，最大限度地挖掘硬件的算力。假设你是一名 Web3 开发者，想要在以太坊上部署一款链上扑克游戏。这个游戏需要在链上洗牌、发牌、比较牌面大小等，每个操作都需要通过 zkVM 电路来实现隐私保护和可验证性。如果你使用现有的 zkVM 方案如 ZoKrates 或 bellman，构建这样一个电路可能需要几个小时甚至几天的时间。因为当前的 zkVM 性能还较为低下，生成复杂电路的零知识证明需要大量的计算资源和时间开销。这意味着开发和测试周期会非常漫长。而如果你使用 Jolt 来构建同样的电路，情况会发生显著变化。根据 Jolt 团队的测试，当前的 Jolt 实现生成证明的速度已经比主流的 zkVM 方案快 2-5 倍。这意味着，如果原来生成证明需要 10 个小时，现在可能只需要 2-5 个小时。</p><a href="https://www.panewslab.com/zh/articledetails/minl272b.html">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-12T09:28:11+00:00</pubDate>
+</item>
 
 <item>
 <title>为何以太坊下次升级中纳入 EIP-3074？账户抽象方案 ERC-4337 还不够吗？</title>
