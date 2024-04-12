@@ -24174,3 +24174,12 @@ Existing_entries: 517
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-12 11:22:45.300827
+------------------------------------------------------
+Started: 2024-04-12 11:30:03.889885
+Existing_entries: 517
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 29
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin Cash Sends Bitcoin Traders Warning Sign About Halving](https://www.coindesk.com/markets/2024/04/12/bitcoin-cash-sends-bitcoin-traders-warning-sign-about-halving/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-12 11:30:06.710610
