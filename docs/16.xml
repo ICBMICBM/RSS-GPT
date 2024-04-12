@@ -4,6 +4,43 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>观点：Restaking 和共享经济安全是以太坊及比特币最大的雷</title>
+<link>https://foresightnews.pro/article/detail/57845</link>
+<guid>https://foresightnews.pro/article/detail/57845</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是消极的。0xjames指出，Restaking和共享经济安全的设计存在严重问题。项目方可以随意削减再质押的资产，导致投资者损失。此外，项目方还有可能通过操纵市场来获取巨额收益，从而破坏整个生态系统的经济安全性。这种行为对以太坊和比特币的声誉带来极大伤害，形成了潜在的风险。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>最近 Restaking 的叙事非常火，然而当深入分析 Restaking 中间件的设计，拆解这些理由的逻辑后，你会发觉 Restaking / 共享经济安全是以太坊 / BTC 最大的雷。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://foresightnews.pro/article/detail/57845">https://foresightnews.pro/article/detail/57845</a></p>
+<p><strong>文章作者：</strong></p><p>0xjames</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>0xjames：</strong>1）通过 Restaking 提供共享经济安全依赖于确立 slash/reward 规则并且依照规则对 Validator 的行为是否达到目标进行判定，同时 slash/reward 再质押的资产来来进行经济惩戒。而这些 slash/reward 的规则本身不是 Restaking 中间件所能控制的，完全由项目方决定。在绝大多数情况下。投资者只会被高 APY 所吸引，被项目是否有高额融资所吸引。因此项目方可以随意按照自己的想法 slash 那些 restaked 的资产。
+
+2）项目方有动机去 Rug 那些 Restaked 资产。按照 Eigenlayer 的设计，这些 Slashed 的资产会被转移到开头是 00000 的一个黑洞地址，项目方也拿不到这些资产。表面虽然如此，但项目方可以通过做空 Eigenlayer 来获得大量收益。过程如下：一个项目利用众多明星资本加持来使得自己产生 Legit 的感觉。同时依靠高 APY 来吸引用户 Restaked 资产提供给项目方共享经济安全。同时项目方积累大量 Eigenlayer 的做空头寸。然后寻找一些漏洞让 validator 没有按照设计规则完成任务，从而 slash 这些再质押的资产。用户突然发觉自己 Restaked 的资产被莫名其妙地销毁了。从而导致大量 Restaked assets 从 Eigenlayer 撤出。Eigenlayer 价格大跌。项目方通过做空获得巨大收益。
+
+3）一个生态的经济安全价值来自生态系统长期的技术开发，品牌积累和社区建设。如果这类 Social Capital 可以随便被任何人使用，那么就等于这些 social capital 是廉价的是无用的。随意使用以太坊 /BTC 的经济安全是对以太坊 /BTC 巨大的伤害。即使使用这些经济安全性的项目都是初心良好的项目，但你也没有办法确保这些没有经历过时间验证的项目的技术是没有漏洞的。</p><a href="https://foresightnews.pro/article/detail/57845">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-12T03:43:55+00:00</pubDate>
+</item>
+<item>
+<title>【长推】探索 Backpack 行业定位：「NFT + 钱包 + 合规交易所」三位一体的应用</title>
+<link>https://twitter.com/tmel0211/status/1778401250285154710</link>
+<guid>https://twitter.com/tmel0211/status/1778401250285154710</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是正面的。文章讨论了Backpack作为一个资源整合平台，吸引优质项目方和用户参与，构建了奖赏机制。Solana生态发展了NFT+钱包+合规交易所的超级应用范式。Backpack面临的挑战包括社区属性过强、注重合规属性、及Crypto生态面临的应用落地挑战。整个Crypto生态的Builder都在努力解决这些问题。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>加密研究员 Haotian 撰文对 Backpack 的布局、面临的挑战和难题及行业价值进行了解读分析。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/tmel0211/status/1778401250285154710">https://twitter.com/tmel0211/status/1778401250285154710</a></p>
+<p><strong>文章作者：</strong></p><p>Haotian</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Haotian：</strong>Backpack 是个攒聚和整合资源的平台方，把优质项目方吸引来发放空投，再把优质用户吸引过来带动增长，这会是个长期动态持恒的 Tradeoff 过程。平台方无法保证每次运营活动都能百分百用户获得绝对收益。本质上这是一场筹码分配的激励过程，平台本着拉新、增加活跃度的目标和用户参与留存达成的一种「奖赏机制」。
+
+Solana 生态自始至终就带着 Web2+Web3 的基因在发展，因此发展应用是一个不会逃避的问题，也会成为 Solana 生态本轮牛市的主旋律。而现阶段，几乎每个区块链系统都面临讲 B 端故事比 C 端应用想象空间更大的客观因素，所以当大家都玩 Layer2 等 infra 热火朝天的时候，Solana 生态长出了 NFT + 钱包 + 合规交易所三位一体的超级应用范式，NFT 做社区文化和粘性，钱包做用户参与入口和 DApp 应用分发中心，合规交易所则做出入金和现实世界接轨的合规管道。
+
+基于以上观察高度，再来看 BackPack 当下面临的一些问题，就不难理解了：
+1）社区属性过强是优势也是人群大规模化扩展的弊端，一大部分早期未参与到社区的人包括我，会很被动被带入社区；
+2）太注重合规属性是其未来做大做强的根基，但这也限制了早期产品和模式上的多元化，需要持续长时间的增长驱动；
+3）超级应用永远是个好故事，但整个 Crypto 何时能撇开 infra，更注重应用的故事落地，这不是 Solana 一个生态面临的挑战，整个 Crypto 全链环境下的 Builder 都在为此前仆后继。</p><a href="https://twitter.com/tmel0211/status/1778401250285154710">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-12T03:09:16+00:00</pubDate>
+</item>
 
 <item>
 <title>EigenLayer 第一批 AVS 能提供哪些真实用例？</title>
