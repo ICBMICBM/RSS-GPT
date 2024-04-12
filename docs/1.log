@@ -28585,3 +28585,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [BTC最新生态研报：编程潜力、资产发行及经济生态](https://www.panewslab.com/zh/articledetails/3wxrd3bu8h48.html)
 append_entries: 1
 Finish: 2024-04-12 08:37:26.707694
+------------------------------------------------------
+Started: 2024-04-12 08:44:27.406896
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+append_entries: 0
+Finish: 2024-04-12 08:44:29.683724
