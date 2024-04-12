@@ -28825,3 +28825,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-12 13:53:52.142325
+------------------------------------------------------
+Started: 2024-04-12 14:05:16.575120
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 3080
+Summarized using GPT-3.5-turbo-1106
+Append: [比特币Layer2热门项目盘点(下)：Roullp与Taproot Consensus](https://www.panewslab.com/zh/articledetails/i68vjlwv.html)
+append_entries: 1
+Finish: 2024-04-12 14:05:21.874876
