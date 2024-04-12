@@ -28555,3 +28555,15 @@ Existing_entries: 1001
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-12 07:57:02.421587
+------------------------------------------------------
+Started: 2024-04-12 08:14:59.911537
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 3888
+Summarized using GPT-3.5-turbo-1106
+Append: [DeFi危机时刻？美SEC诉讼“大刀”挥向Uniswap](https://www.panewslab.com/zh/articledetails/9hniuxnr.html)
+Token length: 383
+Summarized using GPT-3.5-turbo-1106
+Append: [HashKey在预期香港获得批准的情况下敲定了现货比特币ETF的基础设施](https://www.panewslab.com/zh/sqarticledetails/w0wvuy9r.html)
+append_entries: 2
+Finish: 2024-04-12 08:15:08.737792
