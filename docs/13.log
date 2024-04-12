@@ -22377,3 +22377,12 @@ Existing_entries: 32
 Fetching from https://www.trustnodes.com/feed
 append_entries: 0
 Finish: 2024-04-12 12:47:59.747936
+------------------------------------------------------
+Started: 2024-04-12 12:57:30.395666
+Existing_entries: 32
+Fetching from https://www.trustnodes.com/feed
+Token length: 190
+Summarized using GPT-3.5-turbo-1106
+Append: [Hong Kong to Approve Bitcoin and Ethereum ETFs](https://www.trustnodes.com/2024/04/12/hong-kong-to-approve-bitcoin-and-ethereum-etfs)
+append_entries: 1
+Finish: 2024-04-12 12:57:32.720312

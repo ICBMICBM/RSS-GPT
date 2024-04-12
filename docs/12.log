@@ -23841,3 +23841,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Grayscale CEO Reveals When GBTC Fees Will Go Down Amid Concerning Outflows](https://bitcoinist.com/grayscale-ceo-gbtc-fees/)
 append_entries: 1
 Finish: 2024-04-12 12:47:59.243472
+------------------------------------------------------
+Started: 2024-04-12 12:57:30.164984
+Existing_entries: 392
+Fetching from https://bitcoinist.com/feed
+append_entries: 0
+Finish: 2024-04-12 12:57:30.374715
