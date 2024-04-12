@@ -28762,3 +28762,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bittensor上线币安，生态中的土狗们有救了？](https://www.panewslab.com/zh/articledetails/5bphqiqp.html)
 append_entries: 2
 Finish: 2024-04-12 12:29:25.345990
+------------------------------------------------------
+Started: 2024-04-12 12:47:39.136167
+Existing_entries: 1002
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 288
+Summarized using GPT-3.5-turbo-1106
+Append: [香港证监会就TCAME及BitCloud涉嫌虚拟资产相关诈骗向公众发出警告](https://www.panewslab.com/zh/sqarticledetails/2sowu7ds.html)
+Token length: 1925
+Summarized using GPT-3.5-turbo-1106
+Append: [为何以太坊下次升级中纳入 EIP-3074？账户抽象方案 ERC-4337 还不够吗？](https://www.panewslab.com/zh/articledetails/yxays15299fk.html)
+append_entries: 2
+Finish: 2024-04-12 12:47:48.801707
