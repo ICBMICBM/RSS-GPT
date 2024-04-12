@@ -28378,3 +28378,12 @@ Existing_entries: 1001
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-12 03:54:22.501351
+------------------------------------------------------
+Started: 2024-04-12 04:08:49.468835
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 5102
+Summarized using GPT-3.5-turbo-1106
+Append: [九位 VC 谈一季度加密融资：走出低迷，但不及上轮牛市](https://www.panewslab.com/zh/articledetails/bfgxf3g1.html)
+append_entries: 1
+Finish: 2024-04-12 04:08:54.262031

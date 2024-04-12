@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>观点：Restaking 和共享经济安全是以太坊及比特币最大的雷</title>
 <link>https://foresightnews.pro/article/detail/57845</link>
 <guid>https://foresightnews.pro/article/detail/57845</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是消极的。0xjames指出，Restaking和共享经济安全的设计存在严重问题。项目方可以随意削减再质押的资产，导致投资者损失。此外，项目方还有可能通过操纵市场来获取巨额收益，从而破坏整个生态系统的经济安全性。这种行为对以太坊和比特币的声誉带来极大伤害，形成了潜在的风险。 <div>
+<div> <br /><br />摘要：<br />这些信息是消极的。0xjames指出，Restaking和共享经济安全的设计存在严重问题。项目方可以随意削减再质押的资产，导致投资者损失。此外，项目方还有可能通过操纵市场来获取巨额收益，从而破坏整个生态系统的经济安全性。这种行为对以太坊和比特币的声誉带来极大伤害，形成了潜在的风险。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>最近 Restaking 的叙事非常火，然而当深入分析 Restaking 中间件的设计，拆解这些理由的逻辑后，你会发觉 Restaking / 共享经济安全是以太坊 / BTC 最大的雷。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://foresightnews.pro/article/detail/57845">https://foresightnews.pro/article/detail/57845</a></p>
 <p><strong>文章作者：</strong></p><p>0xjames</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>0xjames：</strong>1）通过 Restaking 提供共享经济安全依赖于确立 slash/reward 规则并且依照规则对 Validator 的行为是否达到目标进行判定，同时 slash/reward 再质押的资产来来进行经济惩戒。而这些 slash/reward 的规则本身不是 Restaking 中间件所能控制的，完全由项目方决定。在绝大多数情况下。投资者只会被高 APY 所吸引，被项目是否有高额融资所吸引。因此项目方可以随意按照自己的想法 slash 那些 restaked 的资产。
@@ -18,7 +19,6 @@
 
 3）一个生态的经济安全价值来自生态系统长期的技术开发，品牌积累和社区建设。如果这类 Social Capital 可以随便被任何人使用，那么就等于这些 social capital 是廉价的是无用的。随意使用以太坊 /BTC 的经济安全是对以太坊 /BTC 巨大的伤害。即使使用这些经济安全性的项目都是初心良好的项目，但你也没有办法确保这些没有经历过时间验证的项目的技术是没有漏洞的。</p><a href="https://foresightnews.pro/article/detail/57845">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-12T03:43:55+00:00</pubDate>
 </item>
 <item>
@@ -26,7 +26,7 @@
 <link>https://twitter.com/tmel0211/status/1778401250285154710</link>
 <guid>https://twitter.com/tmel0211/status/1778401250285154710</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是正面的。文章讨论了Backpack作为一个资源整合平台，吸引优质项目方和用户参与，构建了奖赏机制。Solana生态发展了NFT+钱包+合规交易所的超级应用范式。Backpack面临的挑战包括社区属性过强、注重合规属性、及Crypto生态面临的应用落地挑战。整个Crypto生态的Builder都在努力解决这些问题。 <div>
+<div> <br /><br />摘要：<br />这些信息是正面的。文章讨论了Backpack作为一个资源整合平台，吸引优质项目方和用户参与，构建了奖赏机制。Solana生态发展了NFT+钱包+合规交易所的超级应用范式。Backpack面临的挑战包括社区属性过强、注重合规属性、及Crypto生态面临的应用落地挑战。整个Crypto生态的Builder都在努力解决这些问题。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>加密研究员 Haotian 撰文对 Backpack 的布局、面临的挑战和难题及行业价值进行了解读分析。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/tmel0211/status/1778401250285154710">https://twitter.com/tmel0211/status/1778401250285154710</a></p>
 <p><strong>文章作者：</strong></p><p>Haotian</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Haotian：</strong>Backpack 是个攒聚和整合资源的平台方，把优质项目方吸引来发放空投，再把优质用户吸引过来带动增长，这会是个长期动态持恒的 Tradeoff 过程。平台方无法保证每次运营活动都能百分百用户获得绝对收益。本质上这是一场筹码分配的激励过程，平台本着拉新、增加活跃度的目标和用户参与留存达成的一种「奖赏机制」。
@@ -38,10 +38,8 @@ Solana 生态自始至终就带着 Web2+Web3 的基因在发展，因此发展�
 2）太注重合规属性是其未来做大做强的根基，但这也限制了早期产品和模式上的多元化，需要持续长时间的增长驱动；
 3）超级应用永远是个好故事，但整个 Crypto 何时能撇开 infra，更注重应用的故事落地，这不是 Solana 一个生态面临的挑战，整个 Crypto 全链环境下的 Builder 都在为此前仆后继。</p><a href="https://twitter.com/tmel0211/status/1778401250285154710">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-12T03:09:16+00:00</pubDate>
 </item>
-
 <item>
 <title>EigenLayer 第一批 AVS 能提供哪些真实用例？</title>
 <link>https://substack.chainfeeds.xyz/p/eigenlayer-avs</link>
@@ -11806,26 +11804,6 @@ Froqorion：以远古青蛙文明 为背景的团队角色扮演游戏。</p><a 
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成了 2000 万美元战略融资，估值达到 10 亿美元。此轮融资由 Polychain Capital 领投，同时还有 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 参投。融资将用于团队扩大和招聘新人员，以加强产品、工程、业务开发和营销等跨职能部门。<br /><br />这些信息是积极的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成了 2000 万美元的战略融资，估值达到 10 亿美元。Polychain Capital 领投，多家机构参投。融资将用于招聘扩大团队规模，加强产品、工程、业务开发和营销等跨职能部门。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK互操作协议zkBridge开发商Polyhedra Network估值10亿美元，完成2000万美元战略融资，由Polychain Capital领投。其他参投方包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium和Mapleblock Capital。资金将用于招聘扩大团队规模，支持产品、工程、业务开发和营销等跨职能部门。<br /><br />这些信息是积极的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
