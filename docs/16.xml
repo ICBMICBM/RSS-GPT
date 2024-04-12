@@ -4,6 +4,29 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>EigenLayer 第一批 AVS 能提供哪些真实用例？</title>
+<link>https://substack.chainfeeds.xyz/p/eigenlayer-avs</link>
+<guid>https://substack.chainfeeds.xyz/p/eigenlayer-avs</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Restaking 生态迎来了两个重要里程碑：EigenLayer 和 EigenDA 上线主网，并且首批上线主网的 AVS 包括 AltLayer、Brevis、eoracle、Lagrange、Witness Chain、Xterio。AltLayer提供定制Rollup网络服务，Brevis降低ZK协处理器成本，eoracle是以太坊上第一个原生的预言机，Lagrange支持并行ZK协处理器，Witness Chain专为去中心化物联网设备设计，Xterio专注于AI和Web3游戏相关场景。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Restaking 生态终于迎来了两个重要里程碑：EigenLayer （和 EigenDA）上线主网，以及首批上线主网的 AVS：AltLayer、Brevis、eoracle、Lagrange、Witness Chain、Xterio。ChainFeeds 创始人撰文对首批上线的 AVS 的概念及特点进行了简要概述分析。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://substack.chainfeeds.xyz/p/eigenlayer-avs">https://substack.chainfeeds.xyz/p/eigenlayer-avs</a></p>
+<p><strong>文章作者：</strong></p><p>Zhixiong Pan</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Zhixiong Pan：</strong>1）AltLayer：「Rollup 即服务」供应商，可以根据需求定制 Rollup 这些 Layer2 网络的部署。对于一个 Rollup 网络来说 ，DA 的选择至关重要，所以除了以太坊之外，AltLayer 也支持了由 EigenLayer 开发的 EigenDA。除此之外，AltLayer 还与 EigenLayer 合作推出了 Restaked Rollup 框架，并且提供了三个模块化的 AVS；
+
+2）Brevis：提出了 coChain 方案，用来进一步降低完全基于智能合约和零知识证明技术实现的「ZK 协处理器」的成本。Brevis coChain 是一个 PoS 区块链，依赖 EigenLayer 协议。它在设计上更像是「乐观」机制和「ZK」机制的组合，或者可以称为欺诈证明和有效性证明。如果发现任何的作恶，就可以通过生成零知识证明发起挑战，并对作恶方进行惩罚；
+
+3）eoracle：称自己是以太坊上第一个「原生」的预言机，可能是因为该预言机的安全性是由质押的 ETH 保证的；
+
+4）Lagrange：并行 ZK 协处理器。Lagrange 团队表示，他们设计的 ZK 协处理器原生支持并行化和水平扩展，能够轻松证明大规模分布式计算在链上存储或事务数据的结果，并且证明工作负载可以同时分布在成千上万的工作节点上，安全性也是由 EigenLayer 上的 ETH 来保证；
+
+5）Witness Chain：专为去中心化物联网设备设计的网络，它包含了很多组件，比如 DCL （DePIN Coordination Layer），其实也就是提供了一些 DePIN 生态所需要的基本服务，比如链本身的安全性、节点的带宽、物理位置等；
+
+6）Xterio：专注游戏生态的 L2，其实是利用 AltLayer 的 RaaS 发行的一条基于 EigenDA 和 OP Stack 的二层区块链。Xterio Chain 将专注在 AI 和 Web3 游戏相关的场景中。</p><a href="https://substack.chainfeeds.xyz/p/eigenlayer-avs">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-12T02:39:06+00:00</pubDate>
+</item>
 
 <item>
 <title>DePIN 平台 Uplink 完成 1000 万美元融资，Framework Ventures 领投</title>
