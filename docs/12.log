@@ -23868,3 +23868,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Hong Kong Set To Greenlight Spot Bitcoin And Ether ETFs By Monday: Report](https://bitcoinist.com/hong-kong-greenlight-spot-bitcoin-ether-etfs-monday/)
 append_entries: 1
 Finish: 2024-04-12 13:31:47.988772
+------------------------------------------------------
+Started: 2024-04-12 13:39:18.168114
+Existing_entries: 393
+Fetching from https://bitcoinist.com/feed
+append_entries: 0
+Finish: 2024-04-12 13:39:18.319726
