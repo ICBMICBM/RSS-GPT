@@ -5,11 +5,46 @@
 <link>https://bitcoinist.com</link>
 
 <item>
+<title>Bitcoin Hashrate Returns Near ATH, Forces BTC Difficulty To Grow 4%</title>
+<link>https://bitcoinist.com/bitcoin-hashrate-ath-forces-btc-difficulty-grow-4/</link>
+<guid>https://bitcoinist.com/bitcoin-hashrate-ath-forces-btc-difficulty-grow-4/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：这些信息是积极的。<br>近期比特币挖矿难度上升4%，与挖矿算力接近历史最高水平有关。挖矿算力可以体现网络安全和矿工对挖矿加密货币的需求。算力增加意味着更大的网络安全，但也意味着矿工竞争加剧。BTC价格目前为69,700美元，比过去一周上涨了3%。 Bitcoin挖矿难度也随着算力增加在最新的两周调整中提高。 <div>
+<p>On-chain data shows the Bitcoin mining difficulty has risen by 4% recently as the mining hashrate has approached all-time high (ATH) levels.</p>
+<h2>Bitcoin 7-Day Mining Hashrate Is Back Near ATH Levels</h2>
+<p>The &#8220;<a href="https://bitcoinist.com/bitcoin-hashrate-plunges-from-all-time-high-but-why/" rel="noopener " target="_blank">mining hashrate</a>&#8221; refers to the total computing power that the miners have connected to the Bitcoin blockchain. This metric correlates with the network&#8217;s security.</p>
+<p>To perform a successful 51% attack on the network, bad actors must gain control over at least 51% of the online mining rigs. When the hashrate goes up, the security naturally strengthens, as there are now more machines that an attacker needs to succeed.</p>
+
+<p>Of course, this is only true if the new power being added to the network is properly decentralized. If the hashrate is centralized, the network risk may not decrease by the same degree if more power is added.</p>
+<p>The hashrate also provides a look into the demand for mining cryptocurrency. Growth suggests that miners find the network attractive, while a decline implies that some miners find the chain unprofitable and have thus decided to disconnect.</p>
+<p>Now, here is a chart that shows the trend in the 7-day average Bitcoin mining hashrate over the past year:</p>
+<p><img alt="Bitcoin Mining Hashrate" class="alignnone wp-image-293760 size-large aligncenter" height="423" src="https://bitcoinist.com/wp-content/uploads/2024/04/chart.png?resize=980%2C423" width="980" /></p>
+
+<p>As displayed in the above graph, the 7-day average Bitcoin mining hashrate has registered an increase recently and has approached its ATH value setback in mid-March. The miners have decided to re-expand their facilities after dialing back earlier.</p>
+<p>Besides measuring the total computing power, the hashrate can also be viewed as a representation of the competition between the individual miners.</p>
+<p>On the Bitcoin network, block rewards that the miners receive are fixed in BTC value (except for during <a href="https://bitcoinist.com/by-numbers-how-bitcoin-mining-costs-post-halving/" rel="noopener " target="_blank">Halving</a> events, when they are permanently slashed in half). The chain also aims to distribute them at a more or less steady rate, with a block added about every 10 minutes.</p>
+<p>This means that even if the miners add more hashrate, they can&#8217;t use the extra power to process blocks faster. Thus, since the rewards stay the same, an increase in the hashrate means the share of every individual miner gets smaller.</p>
+<p>A miner can only prevent this from happening if they also increase their hashrate by the same proportion as the network increase. Either way, an increase in the hashrate is bad news for the margins of the individual miners, as it means that competition has just become tougher.</p>
+<p>To ensure this dynamic remains true, the Bitcoin network has the &#8220;<a href="https://bitcoinist.com/bitcoin-difficulty-drops-miners-expand-halving/" rel="noopener " target="_blank">difficulty</a>&#8221; feature implemented. When the miners add more computing power, the block time initially shrinks as they leverage the extra hashrate to pump out blocks faster.</p>
+
+<p>As a response, however, the network increases the difficulty, making it harder for the miners to solve blocks. Thus, any speed increase counteracts the extra computing power offered.</p>
+<p>Following the latest hashrate increase, it&#8217;s not unexpected that the difficulty has also increased in the latest biweekly adjustment on the chain.</p>
+<p><img alt="Bitcoin Difficulty" class="alignnone size-medium wp-image-293766 aligncenter" height="230" src="https://bitcoinist.com/wp-content/uploads/2024/04/difficulty.png?w=640&#038;resize=640%2C230" width="640" /></p>
+
+<h2>BTC Price</h2>
+<p>At the time of writing, Bitcoin is trading at $69,700, up 3% over the past week.</p>
+<p><img alt="Bitcoin Price Chart" class="alignnone size-medium aligncenter" height="854" src="https://www.tradingview.com/x/hGJLBsWB/" width="1534" /></p>
+]]></content:encoded>
+<pubDate>Fri, 12 Apr 2024 02:00:33 +0000</pubDate>
+<pubDate>Fri, 12 Apr 2024 02:00:33 +0000</pubDate>
+</item>
+
+<item>
 <title>Dapper Labs Rocked By SEC’s Explosive Investigation In 2023: Revelations Exposed</title>
 <link>https://bitcoinist.com/secs-investigation-of-dapper-labs-uncovered/</link>
 <guid>https://bitcoinist.com/secs-investigation-of-dapper-labs-uncovered/</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：这些信息是消极的<br>一份最近的《财富》杂志报道揭示，知名非同质化代币（NFT）公司Dapper Labs曾受到证交会（SEC）的调查，直到2023年9月。SEC的加密和网络单位负责人David Hirsch突然终止了对Dapper Labs的调查，但关闭的原因未公开。尽管这可能给NFT市场参与者提供一些安慰，但证券律师警告不是所有NFT都可以视为安全，因为SEC已经表示某些NFT交易可能被视为未注册证券。 <div>
+<div> <br /><br />摘要：这些信息是消极的<br />一份最近的《财富》杂志报道揭示，知名非同质化代币（NFT）公司Dapper Labs曾受到证交会（SEC）的调查，直到2023年9月。SEC的加密和网络单位负责人David Hirsch突然终止了对Dapper Labs的调查，但关闭的原因未公开。尽管这可能给NFT市场参与者提供一些安慰，但证券律师警告不是所有NFT都可以视为安全，因为SEC已经表示某些NFT交易可能被视为未注册证券。 <div>
 <p>A recent Fortune Magazine report revealed that Dapper Labs, a prominent non-fungible token (NFT) company, was under investigation by the Securities and Exchange Commission (SEC) until September 2023. </p>
 <p>The internal agency document obtained by Fortune indicates that the investigation was abruptly closed, leaving many questions unanswered.</p>
 <h2>Dapper Labs Investigation Terminated By SEC Chief</h2>
@@ -34,9 +69,7 @@ SEC&#8217;s Ongoing Crackdown
 <p>Featured image from Shutterstock, chart from TradingView.com </p>
 ]]></content:encoded>
 <pubDate>Fri, 12 Apr 2024 01:00:18 +0000</pubDate>
-<pubDate>Fri, 12 Apr 2024 01:00:18 +0000</pubDate>
 </item>
-
 <item>
 <title>Dogecoin Whales Are Selling: How The Growing Bearish Sentiment Can Affect DOGE’s Price</title>
 <link>https://bitcoinist.com/dogecoin-whales-doge-price/</link>
