@@ -28498,3 +28498,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-12 06:50:05.817226
+------------------------------------------------------
+Started: 2024-04-12 06:57:18.376711
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 204
+Summarized using GPT-3.5-turbo-1106
+Append: [数据：币安Launchpool占OMNI代币总量的3.5%，私募投资者占20.06%](https://www.panewslab.com/zh/sqarticledetails/u07fsyqz.html)
+append_entries: 1
+Finish: 2024-04-12 06:57:23.668255
