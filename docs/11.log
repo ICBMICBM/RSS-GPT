@@ -24282,3 +24282,12 @@ Existing_entries: 521
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-12 14:21:35.119937
+------------------------------------------------------
+Started: 2024-04-12 14:29:27.531838
+Existing_entries: 521
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 45
+Summarized using GPT-3.5-turbo-1106
+Append: [Asset Tokenization Draws Focus From Global Securities Watchdogs](https://www.coindesk.com/policy/2024/04/12/asset-tokenization-draws-focus-from-global-securities-watchdogs/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-12 14:29:31.813782
