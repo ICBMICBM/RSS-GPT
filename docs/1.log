@@ -29191,3 +29191,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [行情：比特币凌晨跌破66000美元，24小时跌幅4.6%](https://www.panewslab.com/zh/sqarticledetails/9wcayrx7.html)
 append_entries: 1
 Finish: 2024-04-12 22:58:38.121181
+------------------------------------------------------
+Started: 2024-04-12 23:11:17.128223
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 131
+Summarized using GPT-3.5-turbo-1106
+Append: [过去24小时全网合约爆仓8.80亿美元，其中多单爆仓7.85亿美元](https://www.panewslab.com/zh/sqarticledetails/hx0uva1s.html)
+Token length: 59
+Summarized using GPT-3.5-turbo-1106
+Append: [行情：以太坊短线跌破3200美元，24小时内跌幅8.3%](https://www.panewslab.com/zh/sqarticledetails/zay7s0xk.html)
+append_entries: 2
+Finish: 2024-04-12 23:11:23.218628
