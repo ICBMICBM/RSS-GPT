@@ -28363,3 +28363,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-12 03:39:45.849411
+------------------------------------------------------
+Started: 2024-04-12 03:47:07.022048
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 157
+Summarized using GPT-3.5-turbo-1106
+Append: [EigenLayer推出包括AltLayer和Brevis在内的六个新的主动验证服务（AVS）](https://www.panewslab.com/zh/sqarticledetails/9nbu36fb.html)
+append_entries: 1
+Finish: 2024-04-12 03:47:11.039158
