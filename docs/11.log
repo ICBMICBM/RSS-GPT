@@ -24192,3 +24192,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Australian Court Hands Over $41 Million of Crypto Held by Blockchain Mining Group at Regulator's Request](https://www.coindesk.com/policy/2024/04/12/australian-court-hands-over-41-million-of-crypto-held-by-blockchain-mining-group-at-regulators-request/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-04-12 11:37:22.345932
+------------------------------------------------------
+Started: 2024-04-12 11:44:48.784275
+Existing_entries: 519
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-04-12 11:44:49.296381
