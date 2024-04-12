@@ -28624,3 +28624,12 @@ Existing_entries: 1002
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-12 09:25:57.475983
+------------------------------------------------------
+Started: 2024-04-12 09:34:05.913715
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 3961
+Summarized using GPT-3.5-turbo-1106
+Append: [Web3安全警示丨OKX最新发布：链上防钓鱼安全交易指南](https://www.panewslab.com/zh/articledetails/y82530hm62we.html)
+append_entries: 1
+Finish: 2024-04-12 09:34:13.742845

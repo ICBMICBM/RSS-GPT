@@ -4,6 +4,43 @@
 <title>Bitcoinist.com</title>
 <link>https://bitcoinist.com</link>
 
+<item>
+<title>Ethereum Vulnerable To Attack With Just 33% ETH Staked, Expert Warns</title>
+<link>https://bitcoinist.com/ethereum-vulnerable-attack-just-33-eth-staked/</link>
+<guid>https://bitcoinist.com/ethereum-vulnerable-attack-just-33-eth-staked/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：这些信息是积极的。<br>研究人员Christine Kim进行的一项调查揭示了以太坊社区对区块链经济安全性的重大误解。文章详细介绍了以太坊的经济安全风险，并强调了Proof-of-Stake机制的漏洞。另外，以太坊抵押产生的3个趋势也被讨论：重新抵押的流行度增加，Lido在市场份额下降，中心化交易所抵押下降。文章强调了社区意识和技术安全措施的重要性，以保持以太坊网络的安全和完整性。 <div>
+<p>A recent poll conducted by Christine Kim, a researcher at Galaxy Digital, has revealed significant misconceptions within the Ethereum community regarding the blockchain&#8217;s economic security. The poll, which asked the crypto community to assess the security threshold of ETH staked in securing the blockchain, indicated a lack of awareness about the actual risks of an attack.</p>
+<p>Respondents to the <a href="https://twitter.com/christine_dkim/status/1778530640381854183" rel="noopener nofollow" target="_blank">poll</a> displayed the following beliefs about Ethereum&#8217;s security:</p>
+<ul>
+<li>44.9% believed that securing Ethereum requires 100% of all ETH staked, amounting to $110 billion, 31.4 million ETH.</li>
+<li>20.4% thought 66.6% of staked ETH was sufficient, equivalent to $73.4 billion, 20.9 million ETH.</li>
+<li>34.7% felt that only 33.3% of staked ETH, or $36.7 billion, 10.4 million ETH, was required for security.</li>
+</ul>
+<h2>How Vulnerable Is Ethereum?</h2>
+<p>Addressing these misconceptions, Christine Kim emphasized the actual vulnerabilities of Ethereum&#8217;s Proof-of-Stake (PoS) mechanism in a detailed follow-up on X. Kim highlighted, “You don&#8217;t need 100% of ETH staked to attack Ethereum. <b>33% is enough to disrupt finality, 50% to prolong a chain split, and 66% to double spend</b>.&#8221;</p>
+<p>She added, &#8220;Security primarily depends on the network&#8217;s ability to penalize stakers by burning large amounts of the value they&#8217;ve locked. The worse the attack, the more value stakers stand to lose. It&#8217;s important to understand what&#8217;s really at stake here (pun fully intended).”</p>
+
+<p>Further elaboration from the Ethereum Foundation explains the technical underpinnings of these vulnerabilities. An article by the foundation, referenced by Kim, states, &#8220;Attackers using <b>&gt;= 33% of the total stake</b> make all of the attacks mentioned previously more likely to succeed&#8230; 33% of the staked ether is a benchmark for an attacker because with anything greater than this amount they have the ability to prevent the chain from finalizing without having to finely control the actions of the other validators.&#8221;</p>
+<p>For attacks involving <b>34% of the total stake</b>, the article detailed a possible scenario of &#8220;double finality&#8221; where an attacker can manipulate the validation of two conflicting blockchain forks simultaneously. This form of attack is characterized by significant coordination and control over the timing of messages within the network, posing a high risk due to potential slashing of the attacker&#8217;s entire staked amount.</p>
+<p>Higher levels of controlled staking, such as <b>50% and 66%</b>, increase the potential for more severe disruptions, including sustained chain splits and transaction censorship or reversal. The foundation&#8217;s article elaborates, &#8220;At &gt;50% of the total stake the attacker could dominate the fork choice algorithm&#8230; enabling the attacker to censor certain transactions, do short-range reorgs and extract maximum MEV by reordering blocks in their favor.&#8221;</p>
+
+<p>The defense against these threats includes the &#8220;inactivity leak,&#8221; a mechanism that gradually reduces the staked ether of non-participating or malicious validators, and the social layer of consensus among the Ethereum community on which chain to continue should a split occur.</p>
+<p>These revelations underscore the importance of community awareness and technical safeguards in maintaining the security and integrity of the Ethereum network. They highlight that while Ethereum&#8217;s PoS system offers several security advantages, it also requires vigilant monitoring and readiness to act against potential attacks.</p>
+3 Trends In ETH Staking
+<p>As the Ethereum staking landscape evolves, several key trends have emerged this, reshaping how stakeholders interact with and benefit from the staking process.</p>
+<p>Tom Wan, researcher at 21.co, <a href="https://twitter.com/tomwanhh/status/1778053635857150020" rel="noopener nofollow" target="_blank">highlighted</a> these in a recent post on X:</p>
+<ol>
+<li><b>Increase in Re-staking Popularity</b>: Since 2024, there has been a significant shift towards re-staking in the Ethereum ecosystem. Re-staking contributions have grown from 10% to 60% of the total staked ETH. <a href="https://bitcoinist.com/andreessen-horowitz-fuel-crypto-startup-100-million/" rel="noopener " target="_blank">Eigenlayer</a>, in particular, has risen to prominence as the second-largest DeFi protocol on Ethereum, holding a $15 billion Total Value Locked (TVL), which represents 13% of all staked ETH.</li>
+<li><b>Decline in Lido&#8217;s Market Share</b>: The rise of liquid restaking protocols has noticeably impacted Lido’s dominance in the Ethereum staking market. <a href="https://bitcoinist.com/ethereum-foundation-insider-lido-system-threat/" rel="noopener " target="_blank">Lido&#8217;s share</a> has fallen below 30%, influenced by the growth of new platforms like Etherfi, which has become the second-largest withdrawer of stETH since 2024, totaling withdrawals of 108k stETH.</li>
+<li><strong>Centralized Exchange (CEX) Staking Decline:</strong> The dominance of centralized exchanges in ETH staking has seen a downturn, decreasing from 29.7% to 25.8% since 2024. Kiln Finance recently surpassed Binance to become the third-largest ETH staking entity. Ether.fi is also gaining ground and is positioned to further challenge Binance&#8217;s former dominance in the near future.</li>
+</ol>
+<p>At press time, ETH traded at $3,526.</p>
+<img alt="Ethereum price" class="size-full wp-image-293895" height="472" src="https://bitcoinist.com/wp-content/uploads/2024/04/ETHUSD_2024-04-12_10-59-51.png?resize=1024%2C472" width="1024" />
+]]></content:encoded>
+<pubDate>Fri, 12 Apr 2024 09:30:50 +0000</pubDate>
+<pubDate>Fri, 12 Apr 2024 09:30:50 +0000</pubDate>
+</item>
 
 <item>
 <title>Satoshi Smackdown: Fake Bitcoin Inventor Drops Lawsuit Against Critic</title>
