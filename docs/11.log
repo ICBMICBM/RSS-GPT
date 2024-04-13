@@ -25572,3 +25572,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bitcoin Falls 8%, Drops Below $62K Before Rebound](https://www.coindesk.com/markets/2024/04/13/bitcoin-falls-8-drops-below-62k-before-rebound/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-04-13 22:55:33.867303
+------------------------------------------------------
+Started: 2024-04-13 23:10:18.527569
+Existing_entries: 531
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-04-13 23:10:18.952859
