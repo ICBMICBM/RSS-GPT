@@ -27616,3 +27616,12 @@ Existing_entries: 1000
 Fetching from https://www.chainfeeds.xyz/rss
 append_entries: 0
 Finish: 2024-04-13 05:50:00.725346
+------------------------------------------------------
+Started: 2024-04-13 05:57:10.813317
+Existing_entries: 1000
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 787
+Summarized using GPT-3.5-turbo-1106
+Append: [RWA 是比特币 ETF 的下一步，还是稳定币的魔改版](https://mp.weixin.qq.com/s/Iqn7aBYeAOrz5aVm-JwM8A)
+append_entries: 1
+Finish: 2024-04-13 05:57:14.837769
