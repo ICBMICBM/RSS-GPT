@@ -27625,3 +27625,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [RWA 是比特币 ETF 的下一步，还是稳定币的魔改版](https://mp.weixin.qq.com/s/Iqn7aBYeAOrz5aVm-JwM8A)
 append_entries: 1
 Finish: 2024-04-13 05:57:14.837769
+------------------------------------------------------
+Started: 2024-04-13 06:12:06.796833
+Existing_entries: 1001
+Fetching from https://www.chainfeeds.xyz/rss
+append_entries: 0
+Finish: 2024-04-13 06:12:07.241494
