@@ -24699,3 +24699,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Coinbase Seeks to Take Core Question in U.S. SEC Case to Higher Court](https://www.coindesk.com/policy/2024/04/13/coinbase-seeks-to-take-core-question-in-us-sec-case-to-higher-court/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-04-13 00:32:34.634979
+------------------------------------------------------
+Started: 2024-04-13 01:20:59.438119
+Existing_entries: 530
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+append_entries: 0
+Finish: 2024-04-13 01:21:00.364561
