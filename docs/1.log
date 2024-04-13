@@ -29644,3 +29644,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Wintermute过去一小时向Kraken充值1208万枚YGG，价值约1237万美元](https://www.panewslab.com/zh/sqarticledetails/5o34n1em.html)
 append_entries: 1
 Finish: 2024-04-13 09:51:07.697160
+------------------------------------------------------
+Started: 2024-04-13 09:58:23.039169
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+append_entries: 0
+Finish: 2024-04-13 09:58:25.352327
