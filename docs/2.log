@@ -23407,3 +23407,15 @@ Existing_entries: 111
 Fetching from https://rss.app/feeds/wUQN1BEONEifvDV7.xml
 append_entries: 0
 Finish: 2024-04-13 16:26:51.501832
+------------------------------------------------------
+Started: 2024-04-13 16:34:11.577981
+Existing_entries: 111
+Fetching from https://rss.app/feeds/wUQN1BEONEifvDV7.xml
+Token length: 107
+Summarized using GPT-3.5-turbo-1106
+Append: [Crypto liquidations creep toward $500 million as major token prices plunge](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9fb34cfc133a9a9728b7fd772186554aca34842cb89d4c3809d8799036c1df0e63d4e727b6b8b670b2a58324a920e02501cf355c455e0df7fcba946356c2d7b8efcade9084105dc30ecb8664628d2b2727d89c5e81830ea4ca612ffc80)
+Token length: 127
+Summarized using GPT-3.5-turbo-1106
+Append: [Ark Invest sells $20 million worth of Coinbase shares, adds OpenAI to fund](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9fb24cfc13389a8575aafc2c289c5012d0358934a2df107b09d662993fd89d1421d6f531fff6ec29ecea8f3ea061fa220e90315c455208f9e0e5d6675cc7d3bfefccc99793005c8b53c1866461)
+append_entries: 2
+Finish: 2024-04-13 16:34:14.630292
