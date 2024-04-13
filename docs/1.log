@@ -29575,3 +29575,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-13 08:30:58.094216
+------------------------------------------------------
+Started: 2024-04-13 08:38:25.250930
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 369
+Summarized using GPT-3.5-turbo-1106
+Append: [Sui主网现已升级至V1.22.0版本](https://www.panewslab.com/zh/sqarticledetails/w920bnuh.html)
+append_entries: 1
+Finish: 2024-04-13 08:38:29.772512
