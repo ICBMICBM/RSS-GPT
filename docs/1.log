@@ -30169,3 +30169,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-13 22:32:48.297512
+------------------------------------------------------
+Started: 2024-04-13 22:40:07.956597
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 88
+Summarized using GPT-3.5-turbo-1106
+Append: [Uniswap Labs将交易费用从0.15%上调至0.25%](https://www.panewslab.com/zh/sqarticledetails/fpbkcwbo.html)
+append_entries: 1
+Finish: 2024-04-13 22:40:13.358096
