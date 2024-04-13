@@ -24429,3 +24429,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [First-Ever Conviction For Crypto Smart Contract Hacking: Nirvana Exploiter Sentenced To 3 Years](https://bitcoinist.com/first-conviction-for-crypto-smart-contract-hacking/)
 append_entries: 1
 Finish: 2024-04-13 04:10:22.889813
+------------------------------------------------------
+Started: 2024-04-13 04:22:48.620233
+Existing_entries: 404
+Fetching from https://bitcoinist.com/feed
+append_entries: 0
+Finish: 2024-04-13 04:22:48.725495
