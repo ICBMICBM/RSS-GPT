@@ -4,6 +4,23 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>Arweave 新旗舰产品 AO 简介与 AR 未来展望</title>
+<link>https://medium.com/@permadao/arweave-%E6%96%B0%E6%97%97%E8%88%B0%E4%BA%A7%E5%93%81-ao-%E7%AE%80%E4%BB%8B%E4%B8%8E-ar-%E6%9C%AA%E6%9D%A5%E5%B1%95%E6%9C%9B-693e1ee8e8e1</link>
+<guid>https://medium.com/@permadao/arweave-%E6%96%B0%E6%97%97%E8%88%B0%E4%BA%A7%E5%93%81-ao-%E7%AE%80%E4%BB%8B%E4%B8%8E-ar-%E6%9C%AA%E6%9D%A5%E5%B1%95%E6%9C%9B-693e1ee8e8e1</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了AO作为建立在Arweave上的超并行计算机，具有高效易扩展的架构设计。AO支持任意数量的进程并行执行，允许开发者在其上运行任意虚拟机或执行环境，并具有全息状态机制。AO还具有模块化架构设计，比Filecoin和ICP更灵活和具备扩展性，能运行各种应用。AO在decentralized computing platform竞争中具有前景。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>AO 与其竞争对手 Filecoin 和 ICP 相比，市值更小，产品更新，同时有更高效易扩展的架构设计。结合牛市背景之下，未来 AO 主网上线、新币发布、新产品发布等重大事件非常值得期待。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://medium.com/@permadao/arweave-%E6%96%B0%E6%97%97%E8%88%B0%E4%BA%A7%E5%93%81-ao-%E7%AE%80%E4%BB%8B%E4%B8%8E-ar-%E6%9C%AA%E6%9D%A5%E5%B1%95%E6%9C%9B-693e1ee8e8e1">https://medium.com/@permadao/arweave-%E6%96%B0%E6%97%97%E8%88%B0%E4%BA%A7%E5%93%81-ao-%E7%AE%80%E4%BB%8B%E4%B8%8E-ar-%E6%9C%AA%E6%9D%A5%E5%B1%95%E6%9C%9B-693e1ee8e8e1</a></p>
+<p><strong>文章作者：</strong></p><p>PermaDAO</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>PermaDAO：</strong>AO 是一台建立在 Arweave 上的超并行计算机（The hyper parallel computer），支持任意数量的进程（process）并行执行，共享可用的计算资源，而不像传统区块链只能运行单一进程，其他进程要等待当前进程完成所有的 transaction 之后才能执行，所以 AO 更加高效以及可扩展。同时，因为 AO 采用了模块化架构，开发者可以在上面运行任意的虚拟机或执行环境，允许现有的智能合约平台轻松嵌入进网络之中，作为一个单个 process 与其他 process 互相发送和接收信息，互相协同合作。所以你可以运行一个以太坊环境，里面用大家熟悉的 solidity 编写智能合约，一个运行 solana 环境，一个运行比特币环境，每个单独作为一个 process 并行执行，且不用排队等待计算资源，让它们互相之间交互合作，并且把它们的日志 commit 到 Arweave 上面。
+
+AO 还有一个有意思的点是它的「全息状态」(Hologram State)。全息状态指的是每个进程如何独立存储其状态，与其他进程无关。因为有这个全息状态的机制，AO 可以在拥有强大计算能力的同时，保持传统智能合约执行的能力。它允许每个 process 分别操作和评估，促进网络内更快速的交互。对于状态的共识，AO 确保所有交互的消息日志被写入并保存在 Arweave 上，通过这些日志使得状态被 “全息式” 地展现出来。
+
+在 decentralized computing platform 赛道的竞争中，AO 的模块化架构设计还是相对比较先进的。如今的 Arweave + AO 技术栈有能力运行一个全栈式 Web application (frontend, backend, smart contract, storage)，同时它的模块化架构比 Filecoin 和 ICP 更加灵活和具备扩展性，只要是 deterministic，compute-based 的任意环境（甚至是 FVM 和 ICP canister）下的应用 (Web 2 or 3)，都可以在 AO 上运行。</p><a href="https://medium.com/@permadao/arweave-%E6%96%B0%E6%97%97%E8%88%B0%E4%BA%A7%E5%93%81-ao-%E7%AE%80%E4%BB%8B%E4%B8%8E-ar-%E6%9C%AA%E6%9D%A5%E5%B1%95%E6%9C%9B-693e1ee8e8e1">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-13T04:30:17+00:00</pubDate>
+</item>
 
 <item>
 <title>以太坊核心开发者最新会议摘要：EIP-2935 和 EIP-3074 将纳入 Pectra 升级</title>
