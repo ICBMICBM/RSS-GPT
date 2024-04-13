@@ -4,6 +4,33 @@
 <title>Bitcoinist.com</title>
 <link>https://bitcoinist.com</link>
 
+<item>
+<title>First-Ever Conviction For Crypto Smart Contract Hacking: Nirvana Exploiter Sentenced To 3 Years</title>
+<link>https://bitcoinist.com/first-conviction-for-crypto-smart-contract-hacking/</link>
+<guid>https://bitcoinist.com/first-conviction-for-crypto-smart-contract-hacking/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：这些信息是消极的。<br>前安全工程师Shakeeb Ahmed因策划对两个去中心化加密货币交易所（DEXs）进行一系列黑客攻击，窃取价值1200万美元的加密货币而被判入狱三年。这是美国首次针对智能合约黑客攻击的定罪。Ahmed被要求放弃窃取的加密货币并赔偿受影响的交易所。他利用漏洞进行了两起攻击，分别在两个DEXs上窃取了资金。调查揭示，他使用“先进的洗钱技术”掩盖窃取资金的来源和所有权。 Ahmed还是一名美国公民，曾是一家国际科技公司的高级安全工程师。 <div>
+<p>After orchestrating a series of hacks on two decentralized cryptocurrency exchanges (DEXs) that stole more than $12 million worth of crypto, former security engineer Shakeeb Ahmed was <a href="https://www.justice.gov/usao-sdny/pr/former-security-engineer-sentenced-three-years-prison-hacking-two-decentralized" rel="noopener nofollow" target="_blank">sentenced</a> today to three years in prison, this is the first-ever smart contract hacking conviction in the US. </p>
+<p>Ahmed was also ordered to forfeit the stolen crypto and pay restitution to the affected exchanges.</p>
+<h2>Engineer Exploits Crypto Vulnerabilities In $12 Million Hacks</h2>
+<p>According to charging documents and court filings, Ahmed conducted two separate attacks on<a href="https://bitcoinist.com/digitex-futures-exchange-ceo-faces-criminal-charges/" rel="noopener " target="_blank"> decentralized exchanges</a>. In the first incident, which took place on July 2 and 3, 2022, he manipulated fake pricing data to generate approximately $9 million in inflated fees. Subsequently, Ahmed withdrew these fees in the form of cryptocurrency. </p>
+<p>Following the theft, Ahmed communicated with the exchange, offering to return the stolen funds, except $1.5 million, if the exchange did not involve law enforcement.</p>
+
+<p>Shortly after, on July 28, 2022, Ahmed targeted another decentralized exchange called Nirvana Finance. Exploiting a vulnerability in Nirvana&#8217;s <a href="https://bitcoinist.com/former-binance-ceo-faces-delay-in-sentencing/" rel="noopener " target="_blank">smart contracts</a>, he purchased crypto assets at a lower price than intended and promptly resold them back to Nirvana at a higher price. </p>
+<p>Despite Nirvana offering a substantial &#8220;bug bounty&#8221; of up to $600,000 for the return of the <a href="https://bitcoinist.com/cybercriminals-make-off-with-81-million-orbit-hack/" rel="noopener " target="_blank">stolen funds</a>, Ahmed demanded $1.4 million. This led to the collapse of the exchange, which had lost all its possessed funds, approximately $3.6 million, due to Ahmed&#8217;s attack.</p>
+<h2>From Security Expert To Cybercriminal</h2>
+<p>The investigation revealed that Ahmed used &#8220;advanced money laundering techniques” to conceal the source and ownership of the stolen funds. </p>
+<p>These included token swap transactions, transferring fraud proceeds from the Solana (SOL) <a href="https://bitcoinist.com/ftx-bankman-fried-accused-of-criminal-by-ellison/" rel="noopener " target="_blank">blockchain </a>to the Ethereum (ETH) blockchain through &#8220;bridging,&#8221; converting the funds to Monero, and then using overseas exchanges and cryptocurrency mixers such as Samourai Whirlpool.</p>
+<p>Ahmed, a US citizen, held a senior security engineer position at an international technology company at the time of the attacks. His resume showcased expertise in reverse engineering smart contracts and conducting <a href="https://bitcoinist.com/sam-bankman-fried-guilty-on-7-criminal-counts/" rel="noopener " target="_blank">blockchain audits</a>, skills that he utilized to execute the hacks. </p>
+
+<p>In addition to the three-year prison term, Ahmed was sentenced to three years of supervised release. He must forfeit approximately $12.3 million, including a significant amount of cryptocurrency, and pay the affected exchanges over $5 million in restitution. Commenting on Shakeeb Ahmed&#8217;s sentencing, US Attorney Damian Williams said </p>
+<blockquote><p>Today, Shakeeb Ahmed was sentenced to prison in the first-ever conviction for the hack of a smart contract and ordered to forfeit all of the stolen crypto.  No matter how novel or sophisticated the hack, this Office and our law enforcement partners are committed to following the money and bringing hackers to justice.  And as today’s sentence shows, time in prison — and forfeiture of all the stolen crypto — is the inevitable consequence of such destructive hacks.</p></blockquote>
+<img alt="Crypto" class="size-medium" height="858" src="https://www.tradingview.com/x/V3V7ubR6/" width="1815" />
+<p>Featured image from Shutterstock, chart from TradingView.com </p>
+]]></content:encoded>
+<pubDate>Sat, 13 Apr 2024 04:00:04 +0000</pubDate>
+<pubDate>Sat, 13 Apr 2024 04:00:04 +0000</pubDate>
+</item>
 
 <item>
 <title>Crypto Firms $104 Million Collapse: Australian Watchdog After Two Unlicensed Companies</title>

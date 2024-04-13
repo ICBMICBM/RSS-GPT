@@ -4,6 +4,38 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>以太坊核心开发者最新会议摘要：EIP-2935 和 EIP-3074 将纳入 Pectra 升级</title>
+<link>https://www.theblockbeats.info/news/53030</link>
+<guid>https://www.theblockbeats.info/news/53030</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。在ACDE电话会议上，开发者们就各项提案进行了激烈的辩论，并就其中一些提案是否应该包含在Prague中达成了初步共识。然而，存在一些争议，如关于EOF是否应该与Verkle升级捆绑在一起的讨论。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>本次为 ACDE 电话会议上，开发者们就各项提案进行了激烈的辩论，并就其中一些提案是否应该包含在 Prague 中达成了初步共识。然而，也存在一些争议，例如关于 EOF 是否应该与 Verkle 升级捆绑在一起的讨论。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.theblockbeats.info/news/53030">https://www.theblockbeats.info/news/53030</a></p>
+<p><strong>文章作者：</strong></p><p>Christine Kim（Galaxy Digital）</p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-13T03:30:44+00:00</pubDate>
+</item>
+<item>
+<title>【长推】当前 AI 热潮下，公链基础设施赛道发生了哪些变化？</title>
+<link>https://twitter.com/Wuhuoqiu/status/1778735953659736321</link>
+<guid>https://twitter.com/Wuhuoqiu/status/1778735953659736321</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的<br>最近几个月，基础设施领域发生了许多变化。在公链基础设施方面，最热门的概念是 Parallel EVM，其中包括 Monad、Sei、MegaETH等项目。在DA层面，有一些新的技术迭代，如Near DA的链签名功能和CKB推出的RGB++。此外，结算层ETH的一家独大格局即将改变，出现了多个新项目在往ZK验证/结算层发展，如Nebra和Mina。这些项目致力于支持多种ZK语言、支持ZK聚合证明等，以提高效率和降低费用。<br> <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>ABCDE 投研合伙人 Lao Bai 撰文概述了近几个月在基础设施层面，尤其是公链基础设施这个赛道发生的变化。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/Wuhuoqiu/status/1778735953659736321">https://twitter.com/Wuhuoqiu/status/1778735953659736321</a></p>
+<p><strong>文章作者：</strong></p><p>Lao Bai（ABCDE 投研合伙人）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>Lao Bai（ABCDE 投研合伙人）：</strong>执行层最火热的概念无疑是 Parallel EVM，以 Monad、Sei、MegaETH 为代表，FTM 及 Canto 等一些现有项目也开始计划往这个方向升级。Parallel EVM 里面其实又可以分成几个不同的技术路线，例如交易如何并行的角度。而从对 Parrallel EVM 重视的程度也可以分成两个流派，一个是以 Monad 及 Sei 为代表，把如何交易并行作为主要扩容思路，即 Parallellization 为主叙事。另一个是 Fantom、Solana 及 MegaETH 的思路，并行化是扩容方案之一，但也只是之一，Parallellization 是个辅助叙事，性能提升更多依赖于其他的技术方案。
+
+DA 层没有特别大的技术迭代。比较值得一说的 DA 包括：1）Near DA：比 Celestia 更便宜，还支持 L2 的快速结算；最近推出了链签名，让用户能可以通过单个 NEAR 账户请求给任何链上的交易签名；Founder illia 是 Transformer 八子之一，现在正在计划聘请 AI 工程师，会在下个月发布；
+2）CKB：推出的 RGB++，在这套框架里，CKB 成了类 DA 的存在，而 BTC 因为 UTXO 同构绑定的黑科技，近似成为了 RGB++ 的结算层；
+3）两个看到的 DA 新思路，就不提项目名字了，一个是把 DA 跟 AI 结合，除了自身是一个高性能 DA 之外，还可以充当 AI 大模型，训练数据和训练轨迹的存储层。一个是改进了 Celestia 等 DA 底层的纠错码机制，可以在一个动态网络这样的不稳定状态里提供更加的 Robust 的网络状态。
+
+结算层 ETH 一家独大的情况马上就会发生改变。已经看到数个新的项目在往 ZK 验证 / 结算层上发展。项目都还相对早期，以 Nebra 为代表。老项目也有往这个方向 Pivot 的，比如 Mina，以及刚 Pass 了新提案的 Zen。这个赛道大多数项目的整体思路基本都是支持多种 ZK 语言、支持 ZK 聚合证明，更高效，更便宜及更加快速的 Finality 时间。</p><a href="https://twitter.com/Wuhuoqiu/status/1778735953659736321">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-13T03:04:04+00:00</pubDate>
+</item>
 
 <item>
 <title>Berachain 完成 1 亿美元 B 轮融资，Framework Ventures 等领投</title>
