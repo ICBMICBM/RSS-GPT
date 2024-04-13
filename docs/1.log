@@ -29296,3 +29296,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-13 02:26:14.770188
+------------------------------------------------------
+Started: 2024-04-13 02:34:36.234065
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 4179
+Summarized using GPT-3.5-turbo-1106
+Append: [悄悄预热的DeSci赛道，存在哪些Alpha机会？](https://www.panewslab.com/zh/articledetails/0r2m32y9.html)
+append_entries: 1
+Finish: 2024-04-13 02:34:41.544180
