@@ -30178,3 +30178,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Uniswap Labs将交易费用从0.15%上调至0.25%](https://www.panewslab.com/zh/sqarticledetails/fpbkcwbo.html)
 append_entries: 1
 Finish: 2024-04-13 22:40:13.358096
+------------------------------------------------------
+Started: 2024-04-13 22:47:39.953059
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 113
+Summarized using GPT-3.5-turbo-1106
+Append: [过去4小时全网合约爆仓7.08亿美元，其中多单爆仓6.02亿美元](https://www.panewslab.com/zh/sqarticledetails/ja69xrlb.html)
+Token length: 61
+Summarized using GPT-3.5-turbo-1106
+Append: [行情：以太坊短线跌破2900美元，24小时跌幅6.7%](https://www.panewslab.com/zh/sqarticledetails/qizj5hx7.html)
+Token length: 69
+Summarized using GPT-3.5-turbo-1106
+Append: [行情：比特币短线跌破62000美元，24小时跌幅4.7%](https://www.panewslab.com/zh/sqarticledetails/3r0bizvq.html)
+append_entries: 3
+Finish: 2024-04-13 22:47:45.745229
