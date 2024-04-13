@@ -29746,3 +29746,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-13 12:23:10.603019
+------------------------------------------------------
+Started: 2024-04-13 12:39:09.938443
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 94
+Summarized using GPT-3.5-turbo-1106
+Append: [一交易员疑因市场暴跌其3倍杠杆的PEPE多头头寸被清算，损失超100万美元](https://www.panewslab.com/zh/sqarticledetails/w698i51n.html)
+append_entries: 1
+Finish: 2024-04-13 12:39:13.822965
