@@ -27586,3 +27586,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Arweave 新旗舰产品 AO 简介与 AR 未来展望](https://medium.com/@permadao/arweave-%E6%96%B0%E6%97%97%E8%88%B0%E4%BA%A7%E5%93%81-ao-%E7%AE%80%E4%BB%8B%E4%B8%8E-ar-%E6%9C%AA%E6%9D%A5%E5%B1%95%E6%9C%9B-693e1ee8e8e1)
 append_entries: 1
 Finish: 2024-04-13 04:59:11.821152
+------------------------------------------------------
+Started: 2024-04-13 05:16:33.050212
+Existing_entries: 1001
+Fetching from https://www.chainfeeds.xyz/rss
+append_entries: 0
+Finish: 2024-04-13 05:16:33.524904
