@@ -29692,3 +29692,12 @@ Existing_entries: 1000
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-13 11:04:41.813100
+------------------------------------------------------
+Started: 2024-04-13 11:14:38.352780
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 64
+Summarized using GPT-3.5-turbo-1106
+Append: [行情：以太坊突破3300美元后回落，日内涨幅1.67%](https://www.panewslab.com/zh/sqarticledetails/bobjm4d7.html)
+append_entries: 1
+Finish: 2024-04-13 11:14:43.788991
