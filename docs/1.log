@@ -29437,3 +29437,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [5个巨鲸地址过去1天从CEX提出超1000万枚ENA并存入Ethena Labs质押](https://www.panewslab.com/zh/sqarticledetails/5svn4z9d.html)
 append_entries: 1
 Finish: 2024-04-13 05:27:54.254233
+------------------------------------------------------
+Started: 2024-04-13 05:35:05.280334
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+append_entries: 0
+Finish: 2024-04-13 05:35:07.408738
