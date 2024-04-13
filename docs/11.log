@@ -24690,3 +24690,12 @@ Existing_entries: 529
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-12 23:55:16.287156
+------------------------------------------------------
+Started: 2024-04-13 00:32:32.283126
+Existing_entries: 529
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 149
+Summarized using GPT-3.5-turbo-1106
+Append: [Coinbase Seeks to Take Core Question in U.S. SEC Case to Higher Court](https://www.coindesk.com/policy/2024/04/13/coinbase-seeks-to-take-core-question-in-us-sec-case-to-higher-court/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-13 00:32:34.634979
