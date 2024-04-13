@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>EIP-3074 确定纳入布拉格升级，以太坊的下一步是什么？</title>
 <link>https://www.odaily.news/post/5194511</link>
 <guid>https://www.odaily.news/post/5194511</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章讨论了EIP-3074的意义和效用，以及如何通过新增操作码实现对普通地址赋予智能合约功能。EIP-3074将带来费用资助、在一笔交易中执行多项操作和资产恢复等新功能，为用户带来更便利的链上交互体验。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章讨论了EIP-3074的意义和效用，以及如何通过新增操作码实现对普通地址赋予智能合约功能。EIP-3074将带来费用资助、在一笔交易中执行多项操作和资产恢复等新功能，为用户带来更便利的链上交互体验。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>Mocaverse 顾问 cygaar 就 EIP-3074 的效用及意义进行了分析解读，并表示链上交互模式即将彻底变革。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://www.odaily.news/post/5194511">https://www.odaily.news/post/5194511</a></p>
 <p><strong>文章作者：</strong></p><p>cygaar</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>cygaar：</strong>首先，让我们谈谈当前普通钱包所存在的问题。包括授权代币时一笔一笔进行交易；所有操作往往都会与交易一对一关联；没有针对丢失私钥的防护措施及没有 ETH 就无法执行交易。上述问题都可以通过智能合约钱包来解决，但这会迫使用户进行地址迁移，从而带来糟糕的用户体验 ，且链上迁徙会消耗大量的成本。所以这并不是一个好方案。 
@@ -20,10 +21,8 @@
 2）在一笔交易中执行多项操作。当前，用户在 Uniswap 上某个交易某个全新代币时，必须先行授权 Uniswap 使用该代币，然后才能真正地进行交易。这个体验也很糟糕，有了 EIP-3074 之后，两项操作可以通过一笔交易直接完成。
 3）资产恢复。通过 EIP-3074 ，用户可以设置一个特殊的调用者合约，如果出现了私钥丢失情况，用户还可以使用经验证的社交媒体信息来恢复资产 —— 如果满足恢复条件，则可以向调用者合约提交签名，从原地址中转移资产。</p><a href="https://www.odaily.news/post/5194511">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-13T06:00:14+00:00</pubDate>
 </item>
-
 <item>
 <title>RWA 是比特币 ETF 的下一步，还是稳定币的魔改版</title>
 <link>https://mp.weixin.qq.com/s/Iqn7aBYeAOrz5aVm-JwM8A</link>
@@ -11883,16 +11882,6 @@ Froqorion：以远古青蛙文明 为背景的团队角色扮演游戏。</p><a 
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成了 2000 万美元的战略融资，其估值达到 10 亿美元。此轮融资由 Polychain Capital 领投，同时还有 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 参投。这将有助于扩大团队规模，招募更多的跨职能部门人员，包括产品、工程、业务开发和营销。资金将用于公司的进一步发展。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，由 Polychain Capital 领投，同时有 Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 参投。融资将用于招聘人才，将团队扩大至约 80 人。融资通过未来代币或 SAFT 的简单协议进行。<br />这些信息是积极的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
