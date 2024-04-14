@@ -4,6 +4,23 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>【英文】Bankless 联创：解读以太坊统一架构，能带来哪些协同效应？</title>
+<link>https://www.bankless.com/the-unified-architecture-of-ethereum</link>
+<guid>https://www.bankless.com/the-unified-architecture-of-ethereum</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。根据David Hoffman的分析，以太坊的设计架构追求一个统一的框架，包含最广泛的用例集。针对大小区块的争论，以太坊项目注重链安全、可组合性和记账单位。L2技术使得以太坊能够释放更多链，增加链主权。通过提供可靠的联系和吸引更多用户，以太坊生态系统的网络效应会增强，从而加强ETH作为货币的地位。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>Bankless 联创 David Hoffman 从大小区块的争论出发，撰文对以太坊的设计架构进行了分析解读。并表示以太坊项目追求一个单一的统一架构，其中包含最广泛的用例集。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.bankless.com/the-unified-architecture-of-ethereum">https://www.bankless.com/the-unified-architecture-of-ethereum</a></p>
+<p><strong>文章作者：</strong></p><p>David Hoffman（Bankless 创始人）</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>David Hoffman（Bankless 创始人）：</strong>1）链安全：L2 无需为自己的经济安全买单，消除了其基础资产的一大网络通胀来源，在其各自代币的价值中保留了每年通胀的 3-7%。通过为 L2 创造可持续性，以太坊可以根据市场需求释放尽可能多的链，从而创造比 Cosmos 模型更多的链主权；
+
+2）可组合性：L2 的客户获取成本也被边缘化，因为向 L1 结算加密证明为所有 L2 之间提供了可靠的联系。随着提供链抽象服务的服务提供商如果能对其业务基础提供无懈可击的安全保证，就能提供更强大的服务。此外，随着许多 L2 的上线，每个 L2 都会为更大的以太坊生态系统吸引自己的边际用户，从而创造出一个用户公共节。由于所有 L2 都会将自己的用户加入到用户堆中，因此随着网络的发展，以太坊用户的总堆栈会变得更大，从而使边缘 L2 更容易找到足够的用户。
+
+3）记账单位：所有这些优势都汇聚在以太坊资产的谢林点上。以太坊生态系统周围的网络效应越大，ETH 作为货币的顺风就越强。ETH 成为所有 L2 网络的记账单位，因为每个 L2 网络都通过将安全性集中到以太坊 L1 来产生规模经济。【原文为英文】</p><a href="https://www.bankless.com/the-unified-architecture-of-ethereum">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-14T02:10:37+00:00</pubDate>
+</item>
 
 <item>
 <title>EIP-3074 确定纳入布拉格升级，以太坊的下一步是什么？</title>

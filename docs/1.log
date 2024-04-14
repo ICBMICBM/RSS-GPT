@@ -30250,3 +30250,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [观点：真的还会有「山寨季」吗?](https://www.panewslab.com/zh/articledetails/8uby0r6t.html)
 append_entries: 2
 Finish: 2024-04-14 01:09:30.160898
+------------------------------------------------------
+Started: 2024-04-14 03:00:32.117191
+Existing_entries: 1002
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 5188
+Summarized using GPT-3.5-turbo-1106
+Append: [深入解读Runes协议的底层设计机制与局限](https://www.panewslab.com/zh/articledetails/1pyqki3k.html)
+append_entries: 1
+Finish: 2024-04-14 03:00:37.214107
