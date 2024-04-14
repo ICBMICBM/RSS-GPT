@@ -30349,3 +30349,21 @@ Existing_entries: 1001
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-14 22:11:24.698684
+------------------------------------------------------
+Started: 2024-04-14 23:37:20.869740
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 230
+Summarized using GPT-3.5-turbo-1106
+Append: [4月份以太坊借贷市场的清算量创2022年6月以来新高](https://www.panewslab.com/zh/sqarticledetails/p38h870w.html)
+Token length: 681
+Summarized using GPT-3.5-turbo-1106
+Append: [数据：价值4.63亿美元的代币将在本周解锁](https://www.panewslab.com/zh/sqarticledetails/0rnbc21x.html)
+Token length: 133
+Summarized using GPT-3.5-turbo-1106
+Append: [过去24小时全网合约爆仓2.85亿美元，多空双爆](https://www.panewslab.com/zh/sqarticledetails/agaupenp.html)
+Token length: 101
+Summarized using GPT-3.5-turbo-1106
+Append: [行情：比特币突破65000美元，以太坊突破3100美元](https://www.panewslab.com/zh/sqarticledetails/fov05v52.html)
+append_entries: 4
+Finish: 2024-04-14 23:37:30.419795
