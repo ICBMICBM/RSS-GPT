@@ -30259,3 +30259,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [深入解读Runes协议的底层设计机制与局限](https://www.panewslab.com/zh/articledetails/1pyqki3k.html)
 append_entries: 1
 Finish: 2024-04-14 03:00:37.214107
+------------------------------------------------------
+Started: 2024-04-14 03:53:03.311480
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 329
+Summarized using GPT-3.5-turbo-1106
+Append: [Curve创始人在各平台的借贷仓位进入危险区间，多个仓位借贷健康率已降至1.1附近](https://www.panewslab.com/zh/sqarticledetails/ucgbq2it.html)
+Token length: 303
+Summarized using GPT-3.5-turbo-1106
+Append: [ZachXBT：诈骗团队在Blast上部署新项目Leaper Finance](https://www.panewslab.com/zh/sqarticledetails/d8bojdle.html)
+append_entries: 2
+Finish: 2024-04-14 03:53:10.336481
