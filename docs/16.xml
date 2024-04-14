@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>最快下周一获批！一览 7 家香港比特币现货 ETF 布局者实力几何</title>
 <link>https://mp.weixin.qq.com/s/Cl_yUkI9EJjmekG05HL95w</link>
 <guid>https://mp.weixin.qq.com/s/Cl_yUkI9EJjmekG05HL95w</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。首批名单可能于下周公布，嘉实国际、华夏基金、惠理基金等公司已递交比特币现货 ETF 申请，HashKey在香港市场中发挥重要作用，胜利证券率先获得虚拟资产业务相关牌照。ETF推出后HashKey将参与托管服务。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。首批名单可能于下周公布，嘉实国际、华夏基金、惠理基金等公司已递交比特币现货 ETF 申请，HashKey在香港市场中发挥重要作用，胜利证券率先获得虚拟资产业务相关牌照。ETF推出后HashKey将参与托管服务。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>据路透社报道， 两位知情人士表示，比特币现货 ETF 可能本月在香港推出，首批名单最快下周可能公布。香港比特币现货 ETF 有何优势？谁将从首批香港比特币现货 ETF 中获益？</p>
 <p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/Cl_yUkI9EJjmekG05HL95w">https://mp.weixin.qq.com/s/Cl_yUkI9EJjmekG05HL95w</a></p>
 <p><strong>文章作者：</strong></p><p>白露会客厅</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>白露会客厅：</strong>1）嘉实国际成为首个申请者：2024 年 4 月 10 日，根据香港证监会官网消息，嘉实国际成功完成虚拟资产 9 号牌的升级，完成了监管上的准备，嘉实国际离成功发行比特币现货 ETF 又近了一步；
@@ -24,7 +25,6 @@
 
 6）HashKey 依然会是香港的领头羊：HashKey 依然在香港虚拟资产市场起到中流砥柱的作用，在首批香港比特币现货 ETF 推出后，HashKey 将作为托管方全面参与其中。此外，HashKey Exchange 表示将计划申请第 13 类受规管活动（为相关集体投资计划提供存管服务）牌照。</p><a href="https://mp.weixin.qq.com/s/Cl_yUkI9EJjmekG05HL95w">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-14T04:34:38+00:00</pubDate>
 </item>
 <item>
@@ -32,17 +32,15 @@
 <link>https://www.techflowpost.com/article/detail_17359.html</link>
 <guid>https://www.techflowpost.com/article/detail_17359.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章介绍了EigenLayer以及其与以太坊DeFi之间的协同效应。EigenLayer通过再质押解决了质押者的几个问题，提供了参与网络验证的机会。然而，白皮书中提到了潜在风险，包括运营商串谋和意外漏洞导致的惩罚，需要采取改进措施。此外，使用衍生协议也存在风险，可能导致连锁清算。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章介绍了EigenLayer以及其与以太坊DeFi之间的协同效应。EigenLayer通过再质押解决了质押者的几个问题，提供了参与网络验证的机会。然而，白皮书中提到了潜在风险，包括运营商串谋和意外漏洞导致的惩罚，需要采取改进措施。此外，使用衍生协议也存在风险，可能导致连锁清算。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>随着其主网推出的全面运营，将有必要密切监视 EigenLayer 是否会为以太坊带来一些人期待的新 DeFi Summer。本文将涵盖 EigenLayer 的整体方面，同时关注由各种衍生协议与 EigenLayer 创造的协同效应。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://www.techflowpost.com/article/detail_17359.html">https://www.techflowpost.com/article/detail_17359.html</a></p>
 <p><strong>文章作者：</strong></p><p>DeSpread</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>DeSpread：</strong>渴望通过与以太坊共识机制类似的 PoS 结构建立自己信任网络的 AVS，在启动网络的过程中遇到几个问题：缺乏推广项目和吸引质押者的途径；质押者通常需要购买 AVS 网络的原生代币，这些代币往往波动大且难以获得，导致相比于 ETH 的可访问性降低；AVS 必须提供高于 ETH 的年化收益率 (APY) 以吸引质押者，因为质押者放弃了参与网络验证的其他资产管理机会，从而承担了更高的资本成本。EigenLayer 通过称为再质押的功能解决了这些问题，该功能允许在以太坊信标链上质押的 ETH 再次用于参与 AVS 验证。再质押为再质押者提供了参与 AVS 网络验证并赚取额外验证奖励的机会，而无需购买其他网络代币，使用 ETH 或 LST 即可。对于 AVS 而言，EigenLayer 旨在提供一个环境，他们可以在此推广他们的项目并基于再质押者通过 EigenLayer 招募的流动性建立信任网络。
 
 在 EigenLayer 白皮书中，概述了与 EigenLayer 相关的基本风险：在提供 AVS 安全的运营商之间串谋，通过这种方式挪用 AVS 资金；由于 AVS 编程错误等意外漏洞导致的惩罚。针对运营商串谋的改进措施包括实施监测串谋可能性的系统，并通过激励他们关注较小的 AVS 来实现运营商的多样化。针对意外惩罚的改进措施包括彻底的 AVS 安全审核和社区对惩罚的否决权。即使上述风险得到缓解，由于将赌注委托给 EigenLayer 运营商以及主要提供 AVS 安全的功能尚未在主网上运行，仍然存在尚未观察到的风险。此外，在使用 LRT 及其衍生协议的情况下，还存在如各协议合约和预言机的漏洞可能被攻击的额外风险。此外，通过衍生协议过度借贷 LRT，即使 EigenLayer 的轻微惩罚也可能导致重大的连锁清算。</p><a href="https://www.techflowpost.com/article/detail_17359.html">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-14T04:32:41+00:00</pubDate>
 </item>
-
 <item>
 <title>【英文】Bankless 联创：解读以太坊统一架构，能带来哪些协同效应？</title>
 <link>https://www.bankless.com/the-unified-architecture-of-ethereum</link>
@@ -11906,26 +11904,6 @@ Froqorion：以远古青蛙文明 为背景的团队角色扮演游戏。</p><a 
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />这些信息是积极的。开发商 Polyhedra Network 完成 2000 万美元战略融资，估值达到 10 亿美元。Polychain Capital 领投，并有多家投资方参与。资金将用于扩大团队规模，招募跨职能部门人员。融资采用未来代币或 SAFT 简单协议进行，旨在支持 zkBridge 互操作协议的发展。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。Polyhedra Network以10亿美元估值完成了2000万美元的战略融资，由Polychain Capital领投，其他投资方包括Animoca Brands、Hashkey Capital等。他们计划用融资资金扩大团队规模，从约50人扩张到约80人，并用于招聘跨职能部门人员，如产品、工程和业务开发等。融资是通过未来代币或SAFT的简单协议进行的，这是公司第五轮融资。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK 互操作协议zkBridge开发商Polyhedra Network以10亿美元估值完成了2000万美元的战略融资，由Polychain Capital领投。其他参投方包括Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium和Mapleblock Capital。此轮融资将用于扩大团队规模，招聘跨职能部门成员，以支持产品、工程和业务开发等发展。这些信息是积极的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
