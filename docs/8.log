@@ -25023,3 +25023,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Bitcoin ETF Issuers Push Holdings To 4.27% Of BTC Supply Amid Crash To $61,000](https://www.newsbtc.com/news/bitcoin/bitcoin-etf-issuers-push-holdings-to-4-27-of-btc-supply-amid-crash-to-61000/)
 append_entries: 1
 Finish: 2024-04-14 15:10:08.472322
+------------------------------------------------------
+Started: 2024-04-14 22:11:30.910907
+Existing_entries: 436
+Fetching from https://www.newsbtc.com/feed
+Token length: 2685
+Summarized using GPT-3.5-turbo-1106
+Append: [Dogwifhat To The Vet! Meme Coin Needs Medical Attention After Price Plunge — Analyst](https://www.newsbtc.com/altcoin/dogwifhat-to-the-vet-meme-coin-needs-medical-attention-after-price-plunge-analyst/)
+Token length: 3276
+Summarized using GPT-3.5-turbo-1106
+Append: [Ethereum Whales Go On Buying Spree As Market Crash Leaves Retail Panicking](https://www.newsbtc.com/news/ethereum/ethereum-whales-go-on-buying-spree-as-market-crash-leaves-retail-panicking/)
+Token length: 3176
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin Bonanza Before The Halving? Analyst Sees Pre-Crash Buying Window](https://www.newsbtc.com/news/bitcoin/bitcoin-bonanza-before-the-halving-analyst-sees-pre-crash-buying-window/)
+append_entries: 3
+Finish: 2024-04-14 22:11:38.082599
