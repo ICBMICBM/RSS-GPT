@@ -28381,3 +28381,15 @@ Existing_entries: 1000
 Fetching from https://www.chainfeeds.xyz/rss
 append_entries: 0
 Finish: 2024-04-14 04:30:27.021123
+------------------------------------------------------
+Started: 2024-04-14 05:00:08.510680
+Existing_entries: 1000
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 1080
+Summarized using GPT-3.5-turbo-1106
+Append: [最快下周一获批！一览 7 家香港比特币现货 ETF 布局者实力几何](https://mp.weixin.qq.com/s/Cl_yUkI9EJjmekG05HL95w)
+Token length: 925
+Summarized using GPT-3.5-turbo-1106
+Append: [EigenLayer 上线之际，全面了解设计原理与未来发展](https://www.techflowpost.com/article/detail_17359.html)
+append_entries: 2
+Finish: 2024-04-14 05:00:13.975518
