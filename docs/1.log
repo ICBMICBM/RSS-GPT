@@ -30310,3 +30310,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [加密市场一周综述：BTC减半在即，插针频繁注意风险](https://www.panewslab.com/zh/articledetails/828dby9o.html)
 append_entries: 1
 Finish: 2024-04-14 07:59:16.879510
+------------------------------------------------------
+Started: 2024-04-14 10:33:53.777198
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 3547
+Summarized using GPT-3.5-turbo-1106
+Append: [Pantera：区块链的“拨号上网”时代已来临](https://www.panewslab.com/zh/articledetails/p3312p38.html)
+Token length: 238
+Summarized using GPT-3.5-turbo-1106
+Append: [今日凌晨买入ETH的某巨鲸出售了其中的1万枚ETH](https://www.panewslab.com/zh/sqarticledetails/c210ib03.html)
+append_entries: 2
+Finish: 2024-04-14 10:34:01.535283
