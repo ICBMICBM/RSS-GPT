@@ -27054,3 +27054,33 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Leaper Finance Exposed: Sleuth Uncovers Alleged Multi-Million Dollar Crypto Scam](https://bitcoinist.com/leaper-finance-sleuth-uncovers-alleged-anomaly/)
 append_entries: 8
 Finish: 2024-04-15 21:03:33.000800
+------------------------------------------------------
+Started: 2024-04-15 21:19:30.000274
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Investors Hit The Brakes: Digital Asset Funds See $942 Million In Weekly Outflows](https://bitcoinist.com/crypto-investors-hit-the-brakes-digital-asset-funds/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Shiba Inu Burn Rate Crashes 99% After 18,000% Spike, What Happened?](https://bitcoinist.com/shiba-inu-burn-rate-crashes-2/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Germany’s Largest Federal Bank To Offer Crypto Services In Q2](https://bitcoinist.com/germany-largest-federal-bank-crypto-services/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ripple Vs. SEC Update: Expert Says Both Parties Have Reached A Settlement Agreement](https://bitcoinist.com/ripple-vs-sec-settlement-2/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Cryptocurrency Confidence Reborn: Germany’s 2024 Report Signals Trust Revival](https://bitcoinist.com/cryptocurrency-new-report-signals-trust-revival/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Open Interest Has Cooled Off, Good Sign For Bulls?](https://bitcoinist.com/bitcoin-open-interest-cooled-off-good-sign-bulls/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Hong Kong’s Approval Of Spot Bitcoin And Ethereum ETFs Triggers Crypto Market Recovery](https://bitcoinist.com/hong-kong-spot-bitcoin-ethereum/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Leaper Finance Exposed: Sleuth Uncovers Alleged Multi-Million Dollar Crypto Scam](https://bitcoinist.com/leaper-finance-sleuth-uncovers-alleged-anomaly/)
+append_entries: 8
+Finish: 2024-04-15 21:19:55.100325
