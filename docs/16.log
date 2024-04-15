@@ -28477,3 +28477,15 @@ Existing_entries: 1000
 Fetching from https://www.chainfeeds.xyz/rss
 append_entries: 0
 Finish: 2024-04-15 04:57:20.313218
+------------------------------------------------------
+Started: 2024-04-15 05:11:12.791940
+Existing_entries: 1000
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 1027
+Summarized using GPT-3.5-turbo-1106
+Append: [Hash Global 创始人香港 Web3 参会小结：继续专注于投资华人团队，努力走在交易所「喜好」的前面](https://www.techflowpost.com/article/detail_17360.html)
+Token length: 860
+Summarized using GPT-3.5-turbo-1106
+Append: [【长推】观点：新资产发行模式将催生新的基础设施以及应用](https://twitter.com/jolestar/status/1779453351874449713)
+append_entries: 2
+Finish: 2024-04-15 05:11:19.552704
