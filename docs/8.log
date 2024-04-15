@@ -25680,3 +25680,21 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Shiba Inu Insider Reveals Top 5 Shibarium Investment Rules](https://www.newsbtc.com/shiba-inu/shiba-inu-insider-top-5-shibarium-investment-rules/)
 append_entries: 4
 Finish: 2024-04-15 15:36:31.244483
+------------------------------------------------------
+Started: 2024-04-15 15:43:49.416142
+Existing_entries: 444
+Fetching from https://www.newsbtc.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Rebounds After Nearing Cost Basis Of Short-Term Whales](https://www.newsbtc.com/bitcoin-news/bitcoin-rebounds-cost-basis-short-term-whales/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Goes Pro: UFC Winner Wants $300,000 Bonus Paid In BTC](https://www.newsbtc.com/news/bitcoin/bitcoin-pro-ufc-winner-btc/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Toncoin Defies Market Turmoil, Surges 25% To Tally All-Time High – Details](https://www.newsbtc.com/altcoin/toncoin-defies-market-turmoil-surges-25-to-tally-all-time-high-details/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Shiba Inu Insider Reveals Top 5 Shibarium Investment Rules](https://www.newsbtc.com/shiba-inu/shiba-inu-insider-top-5-shibarium-investment-rules/)
+append_entries: 4
+Finish: 2024-04-15 15:44:00.189080
