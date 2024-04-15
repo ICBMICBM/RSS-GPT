@@ -28561,3 +28561,12 @@ Existing_entries: 1000
 Fetching from https://www.chainfeeds.xyz/rss
 append_entries: 0
 Finish: 2024-04-15 06:58:22.569045
+------------------------------------------------------
+Started: 2024-04-15 07:11:06.856504
+Existing_entries: 1000
+Fetching from https://www.chainfeeds.xyz/rss
+Token length: 948
+Summarized using GPT-3.5-turbo-1106
+Append: [【英文长推】EIP-3074 后，错误签名将能够耗尽以太坊账户？](https://twitter.com/lightclients/status/1778823652584120497)
+append_entries: 1
+Finish: 2024-04-15 07:11:10.016793

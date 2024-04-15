@@ -4,6 +4,23 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>【英文长推】EIP-3074 后，错误签名将能够耗尽以太坊账户？</title>
+<link>https://twitter.com/lightclients/status/1778823652584120497</link>
+<guid>https://twitter.com/lightclients/status/1778823652584120497</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。<br>1. 目前没有钱包支持 EIP-3074 类型的签名。<br>2. EIP-3074 消息使用前缀 0x04，消除与其他类型数据的歧义。<br>3. 钱包需安全集成 EIP-3074，并增加消息可读性。<br>4. 钱包必须让用户签署 EIP-3074 消息成为较大事务。<br>5. 钱包必须明确显示用户签名的每个操作，以防止批量操作造成的资产损失。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>EIP-3074 联合作者 @lightclients 撰文回复有关「在 EIP-3074 之后，一个错误的签名将能够耗尽你在以太坊上的账户」的担忧：目前还没有钱包支持 EIP-3074 类型的签名，用户签署 EIP-3074 前需要验证调用者地址可信，钱包应安全地集成 EIP-3074，并增加签名消息可读性。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/lightclients/status/1778823652584120497">https://twitter.com/lightclients/status/1778823652584120497</a></p>
+<p><strong>文章作者：</strong></p><p>@lightclients</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>@lightclients：</strong>首先，目前没有任何钱包支持签署无前缀数据，这意味着目前没有钱包支持签署 EIP-3074 消息。签署「登录」dapp 的消息使用基于 EIP-191 的完全不同的标准，不存在欺骗登录 dapp 的用户实际签署以太坊交易的可能性。EIP-3074 计划使用前缀 0x04，这将消除它与以太坊中所有其他类型的可签名数据的歧义。钱包必须主动选择允许用户签署这些消息。
+
+根据钱包集成 EIP-3074 的具体方式，可能会造成用户更容易被利用的情况。要理解这一点，需要理解 EIP-3074 签名的工作原理。构建签名的身份验证消息包括一个调用者（invoker）地址，这是 AUTH 认为签名有效的唯一地址。如果要耗尽帐户，1）钱包需要允许用户签名到任何调用者地址，2）用户必须没有验证调用者是否可信。只执行其中任何一个都没有问题。EIP-3074 调用者更类似于钱包代码的扩展，而不是合约。钱包不会允许用户自由地运行任意代码并访问其私钥，同样也不应该允许用户任意委托其帐户。如果钱包不安全地集成 EIP-3074，「并且」用户不验证他们正在交互的调用者，则可能会委托给恶意调用者。但是，可以通过从 EOA 发送单个交易来撤销所有「正在进行的」AUTH 签名。
+
+钱包应该让签署 EIP-3074 消息成为一件大事，和导出私钥同等级别。假设钱包安全地集成了 EIP-3074，帐户仍然有可能被盗。这是因为批量交易允许用户轻松发送多个操作，这就允许攻击者诱骗用户将一批资产发送到他们控制的地址一样。钱包必须清楚地显示用户正在签名的每个操作。这样，能够很容易注意到「我只打算进行一笔交易，但这个签名请求让我进行十几次交易」。如果通过盲签名进行批处理，则无法检测到这一点。【原文为英文】</p><a href="https://twitter.com/lightclients/status/1778823652584120497">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-15T06:10:20+00:00</pubDate>
+</item>
 
 <item>
 <title>Hash Global 创始人香港 Web3 参会小结：继续专注于投资华人团队，努力走在交易所「喜好」的前面</title>
