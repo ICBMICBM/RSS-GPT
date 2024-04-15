@@ -4,6 +4,34 @@
 <title>Bitcoinist.com</title>
 <link>https://bitcoinist.com</link>
 
+<item>
+<title>Solana Rolls Out First Mainnet Update To Tackle Congestion Issues</title>
+<link>https://bitcoinist.com/solanafirst-mainnet-update-tackle-congestion/</link>
+<guid>https://bitcoinist.com/solanafirst-mainnet-update-tackle-congestion/</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。Solana推出了新的1.17.31版本的更新，以解决网络拥堵问题，特别是由于垃圾事务导致的拥塞。更新中引入了新特性“权重化质量服务SWQOS”，旨在更有效地处理验证器的事务。建议MainnetBeta验证器升级到该版本，以提高网络效率，减少拥塞。除了SWQOS的改进外，还对管理抵押和非抵押数据包的方式进行了调整。此次升级是Solana在管理高交易量方面的重要举措，预计将提高网络的稳定性和性能。 <div>
+<p>In a move to address its congestion issues, Solana has launched a new update to its validator client software, as announced by Anza, a spinoff from Solana Labs. The update, version 1.17.31, has been released to counter the <a href="https://bitcoinist.com/solana-april-15-fix-network-congestion/" rel="noopener " target="_blank">problems</a> caused by spam transactions, which have notably slowed processing times and increased transaction drop rates on the Solana network.</p>
+<p>The main focus of the update is the implementation of a new feature called stake-weighted quality of service (SWQOS). This prioritization scheme is specifically designed to handle transactions from staked validators more efficiently.</p>
+<p>“It&#8217;s a networking concept that essentially gives certain packets or connections more reliable performance on the network. [&#8230;] In the current implementation 80% of connections are reserved for QoS, the other 20% can be used by anyone,” <a href="https://twitter.com/TimGarcia0/status/1778801114592518490" rel="noopener nofollow" target="_blank">according </a>to Tim Garcia, validator relations lead at the Solana Foundation.</p>
+<h2>Solana Congestion Issues Should Ease</h2>
+<p>Anza <a href="https://twitter.com/anza_xyz/status/1779735137800028257" rel="noopener nofollow" target="_blank">emphasized</a> the importance of the update via a post on X (formerly Twitter) today, stating: &#8220;MainnetBeta validators: the v1.17.31 release is now recommended for general use. This patch contains enhancements which will help alleviate some of the ongoing network congestion, and will be followed by further enhancements in v1.18. Please upgrade when there&#8217;s less than 5% delinquent <a href="https://bitcoinist.com/bitcoin-maxi-slams-ethereum-etf-call-proof-of-stake/" rel="noopener " target="_blank">stake</a>. Be sure you have time to monitor your node after upgrading it and report any issues to ⁠mb-validators on Discord.&#8221;</p>
+
+<p>Solana Status corroborated this announcement with a similar statement: &#8220;The v1.17.31 release is now recommended for general use by MainnetBeta validators. This release contains enhancements which will help alleviate the ongoing congestion on the Solana Network.&#8221;</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">The v1.17.31 release is now recommended for general use by MainnetBeta validators. This release contains enhancements which will help alleviate the ongoing congestion on the Solana Network.</p>
+<p>&mdash; Solana Status (@SolanaStatus) <a href="https://twitter.com/SolanaStatus/status/1779727821834686592?ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">April 15, 2024</a></p></blockquote>
+<p></p>
+<p>Trent.sol (@trentdotsol), representing Anza, further <a href="https://twitter.com/trentdotsol/status/1779732609993494545" rel="noopener nofollow" target="_blank">elaborated</a> on the significance of widespread adoption of this update: &#8220;Remember, these are improvements to SWQOS. Their impact should scale with breadth of adoption. Don&#8217;t expect a major change in unstaked TPU traffic reliability. Keep delinquency under 5% while upgrading. We have more in the pipe. Stay tuned.&#8221;</p>
+<p>Rex St. John from Anza also <a href="https://twitter.com/rexstjohn/status/1779730912269500836" rel="noopener nofollow" target="_blank">commented</a> on the urgency and ongoing nature of these updates: &#8220;This contains the first round of Solana mainnet congestion updates which everyone has been waiting for from Anza. There are additional updates coming. It is important to note this is NOT v1.18, which will have further improvements.&#8221;</p>
+
+<p>The detailed description of the update on GitHub highlights several technical enhancements including adjustments in how staked and non-staked packets are managed and improvements to the BankingStage Forwarding Filter, which is crucial for maintaining the efficiency of network operations.</p>
+<p>This update comes at a critical time for Solana, which has faced scrutiny over its ability to manage high transaction loads without a traditional <a href="https://bitcoinist.com/bitcoin-fees-fall-34-bloated-mempool-deflates/" rel="noopener " target="_blank">mempool</a>, leading to unique challenges in network management. The development community remains optimistic that these improvements, along with future updates, will substantially mitigate these issues and enhance the overall stability and performance of the network.</p>
+<p>At press time, SOL traded at $150.</p>
+<img alt="Solana price" class="size-full wp-image-294371" height="472" src="https://bitcoinist.com/wp-content/uploads/2024/04/SOLUSD_2024-04-15_07-47-53.png?resize=1024%2C472" width="1024" />
+]]></content:encoded>
+<pubDate>Mon, 15 Apr 2024 06:00:51 +0000</pubDate>
+<pubDate>Mon, 15 Apr 2024 06:00:51 +0000</pubDate>
+</item>
 
 <item>
 <title>Crypto Crash? Nah, It’s A Buying Opportunity, CEO Says</title>
