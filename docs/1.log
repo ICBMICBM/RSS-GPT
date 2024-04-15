@@ -30574,3 +30574,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [一休眠14年的比特币地址刚刚被激活，包含50枚比特币](https://www.panewslab.com/zh/sqarticledetails/yrh3cvd9.html)
 append_entries: 1
 Finish: 2024-04-15 07:25:25.049045
+------------------------------------------------------
+Started: 2024-04-15 07:33:14.182683
+Existing_entries: 1001
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 5861
+Summarized using GPT-3.5-turbo-1106
+Append: [Omni Network详解：Rollup碎片化大一统](https://www.panewslab.com/zh/articledetails/lg49dn80q80v.html)
+Token length: 384
+Summarized using GPT-3.5-turbo-1106
+Append: [德国最大的州立银行LBBW将提供加密货币托管服务](https://www.panewslab.com/zh/sqarticledetails/h216ooqk.html)
+append_entries: 2
+Finish: 2024-04-15 07:33:27.276736
