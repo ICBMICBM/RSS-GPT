@@ -25935,3 +25935,12 @@ Existing_entries: 538
 Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
 append_entries: 0
 Finish: 2024-04-15 09:52:06.650613
+------------------------------------------------------
+Started: 2024-04-15 09:59:18.094130
+Existing_entries: 538
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Token length: 51
+Summarized using GPT-3.5-turbo-1106
+Append: [Bitcoin Price Recovery Lacks Whale Participation, Onchain Data Show](https://www.coindesk.com/markets/2024/04/15/bitcoin-price-recovery-lacks-whale-participation-onchain-data-show/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-15 09:59:20.610781
