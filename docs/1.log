@@ -35797,3 +35797,87 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [英国经济大臣：英国将于7月之前出台新的稳定币及加密货币立法](https://www.panewslab.com/zh/sqarticledetails/u1bwim0e.html)
 append_entries: 25
 Finish: 2024-04-15 23:41:26.488004
+------------------------------------------------------
+Started: 2024-04-15 23:47:45.651341
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [美国议员要求CFTC主席提供其与SBF的通信文件](https://www.panewslab.com/zh/sqarticledetails/a67hfk63.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Trust Wallet：发现针对iOS iMessage的高风险漏洞，建议用户在漏洞修补前禁用iMessage](https://www.panewslab.com/zh/sqarticledetails/hzwsbj3v.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [斐济央行禁止将加密货币用于支付或投资](https://www.panewslab.com/zh/sqarticledetails/goqsb38b.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [行情：比特币跌破63000美元](https://www.panewslab.com/zh/sqarticledetails/zhrr24dr.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Omni Network：OMNI代币拟于4月17日19时开放申领和质押](https://www.panewslab.com/zh/sqarticledetails/kb2q9ctg.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [财富杂志：Polychain、Dao5和DCG持有数亿美元的TAO代币](https://www.panewslab.com/zh/sqarticledetails/1527wvkn.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [行情：比特币短时跌破64000美元](https://www.panewslab.com/zh/sqarticledetails/h5p2pppv.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [比特币跌破65000美元，日内涨幅缩窄至0.41%](https://www.panewslab.com/zh/sqarticledetails/8g8o449b.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [彭博社分析师：预计香港虚拟资产现货ETF最多能吸引5亿美元的资金](https://www.panewslab.com/zh/sqarticledetails/lzyaz0ar.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [一新钱包过去3小时从币安提取价值共计1743万美元的多种代币](https://www.panewslab.com/zh/sqarticledetails/zm4sy0n7.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [5天倒计时，读懂隐藏在周期里的比特币「减半」密码](https://www.panewslab.com/zh/articledetails/fnckc12j4jr6.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [DWF Labs过去15分钟从CEX提取1134万枚ID，约合842万美元](https://www.panewslab.com/zh/sqarticledetails/no6jt4nt.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [加密游戏工作室AVALON完成1000万美元融资，BITKRAFT Ventures和HASHED领投](https://www.panewslab.com/zh/sqarticledetails/nnexzgtf.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [加密市场降温：我们处于什么阶段了？](https://www.panewslab.com/zh/articledetails/kd667ctl.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Jupiter已启动Metropolis升级的第一部分，改善新代币的管理和上线方式等](https://www.panewslab.com/zh/sqarticledetails/sggr8pb3.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Railgun的RAIL代币价格突破1.6美元，24小时涨幅超190%](https://www.panewslab.com/zh/sqarticledetails/6g0nac4o.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [加密基金Web3.com Ventures正式启用顶级域名web3.com](https://www.panewslab.com/zh/sqarticledetails/w9yu80l6.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Vitalik：Railgun可有效阻止恶意行为者加入，并保护用户隐私](https://www.panewslab.com/zh/sqarticledetails/5l0k3dv8.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [EIP-3074 后，恶意的签名会导致以太坊账户资金被耗尽吗？](https://www.panewslab.com/zh/articledetails/o3x2835t.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Railgun的RAIL代币价格突破0.9美元，24小时涨幅超60%](https://www.panewslab.com/zh/sqarticledetails/jeiqz2ry.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [阿迪达斯与加密健身应用Stepn合作，联名NFT和商品均即将推出](https://www.panewslab.com/zh/sqarticledetails/mwuhep9m.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [托管850亿美元资产的Safe开启空投，速览其代币经济学与生态](https://www.panewslab.com/zh/articledetails/39986pyx.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [PA日报 | 香港证监会批准博时国际、华夏基金、嘉实国际发行虚拟资产现货ETF申请，涵盖比特币和以太坊](https://www.panewslab.com/zh/articledetails/l68znv24.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [链抽象Omnichain就是把跨链规则写入智能合约？](https://www.panewslab.com/zh/articledetails/uh747o9tb9y3.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [一鲸鱼/机构在近半小时从CEX提出15281枚ETH，约合4975万美元](https://www.panewslab.com/zh/sqarticledetails/c5y275q2.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [英国经济大臣：英国将于7月之前出台新的稳定币及加密货币立法](https://www.panewslab.com/zh/sqarticledetails/u1bwim0e.html)
+append_entries: 26
+Finish: 2024-04-15 23:49:07.140053

@@ -24529,3 +24529,12 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [State of ApeCoin Q1 2024](https://messari.io/article/state-of-apecoin-q1-2024)
 append_entries: 1
 Finish: 2024-04-15 23:41:44.183989
+------------------------------------------------------
+Started: 2024-04-15 23:49:24.232636
+Existing_entries: 41
+Fetching from https://messari.io/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [State of ApeCoin Q1 2024](https://messari.io/article/state-of-apecoin-q1-2024)
+append_entries: 1
+Finish: 2024-04-15 23:49:28.419090
