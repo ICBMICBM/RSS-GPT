@@ -4,6 +4,24 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+<item>
+<title>以太坊存储方案路线图：挑战与机遇共存</title>
+<link>https://mp.weixin.qq.com/s/eDown8DF6w9bKfqP_URS0w</link>
+<guid>https://mp.weixin.qq.com/s/eDown8DF6w9bKfqP_URS0w</guid>
+<content:encoded><![CDATA[
+<div> <br><br>摘要：<br>这些信息是积极的。文章总结了以太坊历史数据丢失问题及其解决方案。随着以太坊网络数据量和存储需求增加，存储压力变大。为确保一致性，EIP-4444和EIP-4844标准化历史数据删减行为。以太坊Portal网络和EthStorage提供去中心化存储解决方案，EthStorage是一个激励模块化存储网络，测试网已在运行。未来计划包括开发去中心化的以太坊状态网络和实现动态大小数据存储证明。 <div>
+<p><strong>Chainfeeds 导读：</strong></p><p>2023 年 10 月 22 日，Go-Ethereum（Geth）开发负责人 Péter Szilágyi 在 Twitter 上表达了他对以太坊数据存储方案的担忧，随即引发了关于以太坊路线图中存储方案的激烈讨论。本文是 EthStorage 团队针对以太坊历史数据丢失问题及其解决方案的综述，中文版由「极客 web3」授权首发。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/eDown8DF6w9bKfqP_URS0w">https://mp.weixin.qq.com/s/eDown8DF6w9bKfqP_URS0w</a></p>
+<p><strong>文章作者：</strong></p><p>EthStorage</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>EthStorage：</strong>- 自 EIP-4844 之后，以太坊网络的数据吞吐量与存储压力日益增长，不断增长的存储需求为以太坊节点带来了巨大挑战。为降低存储压力，部分以太坊客户端对本地存放的以太坊历史数据进行删剪，不同的全节点在存储行为上的一致性被逐渐瓦解。
+- 为了确保所有以太坊客户端能在行为上达成一致，EIP-4444 和 EIP-4844 将历史数据删减行为进行了标准化，将在未来成为以太坊节点的标配。
+- 因此，如果要重放历史数据来还原最新的 Layer1 或 Layer2 状态，要依赖于中心化的、以太坊协议外的服务设施，这促使人们探索更去中心化的、与以太坊相一致的存储解决方案。
+- 以太坊 Portal 网络是一个轻量级、去中心化的 P2P 网络，适用于包括历史数据在内的所有类型的以太坊数据。它专为资源受限的设备而设计，并提供以太坊 JSON-RPC 服务。历史网络和信标链网络几乎已经准备就绪。
+- EthStorage 是一个针对 EIP-4844 BLOBs 数据的激励模块化存储网络。为了存储 BLOB，用户可以调用 L1 上的存储合约，以 ETH 作为存储手续费，在链上记录下 BLOB 的哈希值。随着时间的推移，存储费用将逐渐分配给提供链下 BLOB 存储证明的存储服务商。
+- 目前 EthStorage 测试网正在以太坊 Sepolia 测试网上运行，多名社区参与者已成功证明了他们的本地存储状况。未来的计划包括开发一个去中心化的以太坊状态网络、实现动态大小数据的存储证明，并可以直接从浏览器以去中心化的方式访问 EthStorage 网络。</p><a href="https://mp.weixin.qq.com/s/eDown8DF6w9bKfqP_URS0w">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
+]]></content:encoded>
+
+<pubDate>2024-04-15T06:12:01+00:00</pubDate>
+</item>
 
 <item>
 <title>【英文长推】EIP-3074 后，错误签名将能够耗尽以太坊账户？</title>
