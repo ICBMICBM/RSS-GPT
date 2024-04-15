@@ -25608,3 +25608,12 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Fighter’s Bitcoin Challenge: UFC 300 Winner Calls For $300,000 Crypto Bonus](https://bitcoinist.com/bitcoin-fighter-calls-for-300000-crypto-bonus/)
 append_entries: 1
 Finish: 2024-04-15 10:33:07.401130
+------------------------------------------------------
+Started: 2024-04-15 10:40:34.202964
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Fighter’s Bitcoin Challenge: UFC 300 Winner Calls For $300,000 Crypto Bonus](https://bitcoinist.com/bitcoin-fighter-calls-for-300000-crypto-bonus/)
+append_entries: 1
+Finish: 2024-04-15 10:40:37.350319
