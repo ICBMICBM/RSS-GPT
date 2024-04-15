@@ -25389,3 +25389,12 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Shiba Inu Insider Reveals Top 5 Shibarium Investment Rules](https://www.newsbtc.com/shiba-inu/shiba-inu-insider-top-5-shibarium-investment-rules/)
 append_entries: 1
 Finish: 2024-04-15 11:47:02.055655
+------------------------------------------------------
+Started: 2024-04-15 11:54:12.671230
+Existing_entries: 444
+Fetching from https://www.newsbtc.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Shiba Inu Insider Reveals Top 5 Shibarium Investment Rules](https://www.newsbtc.com/shiba-inu/shiba-inu-insider-top-5-shibarium-investment-rules/)
+append_entries: 1
+Finish: 2024-04-15 11:54:13.960024
