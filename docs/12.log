@@ -25734,3 +25734,15 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Fighter’s Bitcoin Challenge: UFC 300 Winner Calls For $300,000 Crypto Bonus](https://bitcoinist.com/bitcoin-fighter-calls-for-300000-crypto-bonus/)
 append_entries: 2
 Finish: 2024-04-15 12:37:15.311963
+------------------------------------------------------
+Started: 2024-04-15 12:49:11.393649
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bearish Outlook: Bill Morgan Warns Of Drastic XRP Performance Against Bitcoin](https://bitcoinist.com/bill-morgan-warns-of-drastic-xrp-decline-to-bitcoin/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Fighter’s Bitcoin Challenge: UFC 300 Winner Calls For $300,000 Crypto Bonus](https://bitcoinist.com/bitcoin-fighter-calls-for-300000-crypto-bonus/)
+append_entries: 2
+Finish: 2024-04-15 12:49:17.397808
