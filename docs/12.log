@@ -25590,3 +25590,12 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Fighter’s Bitcoin Challenge: UFC 300 Winner Calls For $300,000 Crypto Bonus](https://bitcoinist.com/bitcoin-fighter-calls-for-300000-crypto-bonus/)
 append_entries: 1
 Finish: 2024-04-15 10:14:49.560234
+------------------------------------------------------
+Started: 2024-04-15 10:25:26.111839
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Fighter’s Bitcoin Challenge: UFC 300 Winner Calls For $300,000 Crypto Bonus](https://bitcoinist.com/bitcoin-fighter-calls-for-300000-crypto-bonus/)
+append_entries: 1
+Finish: 2024-04-15 10:25:26.417104

@@ -30727,3 +30727,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [BGA联盟登陆迪拜Token2049，将与 Bybit Web3等主要合作伙伴共同启动](https://www.panewslab.com/zh/articledetails/x0mquf0j.html)
 append_entries: 5
 Finish: 2024-04-15 10:14:41.453359
+------------------------------------------------------
+Started: 2024-04-15 10:25:14.871193
+Existing_entries: 1005
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [英国经济大臣：英国将于7月之前出台新的稳定币及加密货币立法](https://www.panewslab.com/zh/sqarticledetails/u1bwim0e.html)
+append_entries: 1
+Finish: 2024-04-15 10:25:17.526313
