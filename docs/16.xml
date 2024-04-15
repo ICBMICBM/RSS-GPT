@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>Hash Global 创始人香港 Web3 参会小结：继续专注于投资华人团队，努力走在交易所「喜好」的前面</title>
 <link>https://www.techflowpost.com/article/detail_17360.html</link>
 <guid>https://www.techflowpost.com/article/detail_17360.html</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的，Hash Global 创始人KK总结了他们的投资偏好和想法。主要观点包括继续专注华人团队，投资长期有价值的项目，多领投并关注应用层项目，寻找可实现Mass Adoption的项目，看好供应链和DePin类项目，社区KOL合作，避免只停留在新项目和炒作上，强调商业逻辑和价值实现，不追求交易所青睐而是按照自身价值逻辑投资。Web3市场波动大，监管不跟进，资金流速跟不上资产发行速度。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的，Hash Global 创始人KK总结了他们的投资偏好和想法。主要观点包括继续专注华人团队，投资长期有价值的项目，多领投并关注应用层项目，寻找可实现Mass Adoption的项目，看好供应链和DePin类项目，社区KOL合作，避免只停留在新项目和炒作上，强调商业逻辑和价值实现，不追求交易所青睐而是按照自身价值逻辑投资。Web3市场波动大，监管不跟进，资金流速跟不上资产发行速度。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>Hash Global 创始人 KK 在上周香港 Web3 大会期间和很多项目创始人和业内朋友做了交流，总结了一些投资偏好和想法。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://www.techflowpost.com/article/detail_17360.html">https://www.techflowpost.com/article/detail_17360.html</a></p>
 <p><strong>文章作者：</strong></p><p>KK</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>KK：</strong>1. 我们继续专注看华人团队，这是我们有一定积累和认知，且投资后能发挥一点力量的地方。我们希望猫友会是一个可沉淀关系，创造链接，交换信息和资源的地方。它会是一个开放的资源网络。无论我们是否做了投资，用开放的方式服务好项目方和创业团队，VC 自然能找到价值。
@@ -25,7 +26,6 @@
 
 Web3 最牛的地方在于把「价值的产生和实现」完成了「平权」，但这也带来了更多的杂音，泡沫。目前全球监管还没有跟上，整个市场的波动在可预见的未来还会很大。目前已经有资金流入速度跟不上资产发行速度的迹象出现了。</p><a href="https://www.techflowpost.com/article/detail_17360.html">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-15T04:54:48+00:00</pubDate>
 </item>
 <item>
@@ -33,7 +33,7 @@ Web3 最牛的地方在于把「价值的产生和实现」完成了「平权」
 <link>https://twitter.com/jolestar/status/1779453351874449713</link>
 <guid>https://twitter.com/jolestar/status/1779453351874449713</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。文章总结了本轮周期出现的新类型资产发行模式的两个启示：CSV 模式的资产得到初步验证，资产先行的应用启动模式正在验证。CSV 模式预示了一种新的资产发行和扩容方式，而资产先行的模式吸引用户和构建社区已初步验证，但应用启动还需要进一步探索。这种模式的优势在于资产生命周期能超过应用生命周期，资产能在多个应用中被使用的可组合场景，以及应用团队可以通过为资产提供场景而获益。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。文章总结了本轮周期出现的新类型资产发行模式的两个启示：CSV 模式的资产得到初步验证，资产先行的应用启动模式正在验证。CSV 模式预示了一种新的资产发行和扩容方式，而资产先行的模式吸引用户和构建社区已初步验证，但应用启动还需要进一步探索。这种模式的优势在于资产生命周期能超过应用生命周期，资产能在多个应用中被使用的可组合场景，以及应用团队可以通过为资产提供场景而获益。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>本轮周期出现了许多新类型的资产发行模式的尝试，例如 Bitcoin 上的新资产协议（Inscription，Atomicals，RGB/RGB++），各链的铭文协议，Meme Coin，图币，SFT 等。Rooch Network 创始人 jolestar 撰文总结从中得到的两点启示。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/jolestar/status/1779453351874449713">https://twitter.com/jolestar/status/1779453351874449713</a></p>
 <p><strong>文章作者：</strong></p><p>jolestar</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>jolestar：</strong>CSV 模式的资产得到初步验证。首先，Bitcoin 的 Inscription 验证了一点：资产数据定义在链上，合法性校验在链下的模式是可行的，它预示了一种新的资产发行和扩容方式。Bitcoin 上衍生的所有协议，包括 RGB/RGB++，Atomicals 都属于这个范式，可以称为广义的客户端验证资产（Client-side validation）。这种资产介于 L1 和 Offchain（L2）之间，它可以定义一种协议内的桥，实现资产从 L1 到 Offchain 之间的迁移，这点 RGB++ 协议的跃迁机制已经初步验证了。这种能力所预示的一种区块链扩容方式是资产从 Bitcoin 溢出到 Offchain（包括其他公链）的基础设施，从而带来整个区块链生态的繁荣。
@@ -43,10 +43,8 @@ Web3 最牛的地方在于把「价值的产生和实现」完成了「平权」
 2. 只有这种模式，才能出现同一种资产在多个应用中被使用的可组合场景。而这种组合能力是区块链应用有别于 Web2 应用的最关键的点。
 3. 这种模式下，应用团队可以不需要发行资产，直接通过给资产提供场景而获益，从而解决 Web2 应用开发团队的面临的合规问题。</p><a href="https://twitter.com/jolestar/status/1779453351874449713">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-15T04:01:12+00:00</pubDate>
 </item>
-
 <item>
 <title>【英文】如何利用 EigenDA 的 RaaS 市场加速 Rollup 部署</title>
 <link>https://www.blog.eigenlayer.xyz/accelerate-rollup-deployment-with-eigendas-raas-marketplace/</link>
@@ -11934,26 +11932,6 @@ Froqorion：以远古青蛙文明 为背景的团队角色扮演游戏。</p><a 
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，估值达 10 亿美元。Polychain Capital 领投，多家投资机构参与。融资将用于团队扩大到约 80 人，招聘跨职能部门人员。实现融资目标是通过未来代币或 SAFT 的协议进行的。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，公司估值达到10亿美元。此轮融资由 Polychain Capital 领投，同时有多家知名投资机构参投。所筹资金将用于团队扩大到约80人，招募产品、工程、业务开发和营销人员。所有融资通过未来代币或SAFT简单协议进行。 <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />这些信息是积极的。Polyhedra Network以10亿美元估值完成了2000万美元战略融资，由Polychain Capital领投，多个投资者参与。所筹资金将用于团队扩大到约80人，并招聘跨职能部门。融资通过未来代币或SAFT的简单协议进行。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
