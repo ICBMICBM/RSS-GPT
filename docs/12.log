@@ -26097,3 +26097,24 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Fighter’s Bitcoin Challenge: UFC 300 Winner Calls For $300,000 Crypto Bonus](https://bitcoinist.com/bitcoin-fighter-calls-for-300000-crypto-bonus/)
 append_entries: 5
 Finish: 2024-04-15 15:52:04.289166
+------------------------------------------------------
+Started: 2024-04-15 15:59:18.518054
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Open Interest Has Cooled Off, Good Sign For Bulls?](https://bitcoinist.com/bitcoin-open-interest-cooled-off-good-sign-bulls/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Hong Kong’s Approval Of Spot Bitcoin And Ethereum ETFs Triggers Crypto Market Recovery](https://bitcoinist.com/hong-kong-spot-bitcoin-ethereum/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Leaper Finance Exposed: Sleuth Uncovers Alleged Multi-Million Dollar Crypto Scam](https://bitcoinist.com/leaper-finance-sleuth-uncovers-alleged-anomaly/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bearish Outlook: Bill Morgan Warns Of Drastic XRP Performance Against Bitcoin](https://bitcoinist.com/bill-morgan-warns-of-drastic-xrp-decline-to-bitcoin/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Fighter’s Bitcoin Challenge: UFC 300 Winner Calls For $300,000 Crypto Bonus](https://bitcoinist.com/bitcoin-fighter-calls-for-300000-crypto-bonus/)
+append_entries: 5
+Finish: 2024-04-15 15:59:34.134807
