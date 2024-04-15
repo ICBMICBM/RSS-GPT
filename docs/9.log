@@ -24540,3 +24540,12 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Crypto Dominates And The First Unicorn From Uzbekistan Joins The Board In March 2024](https://news.crunchbase.com/venture/crypto-dominates-unicorn-count-march-2024/)
 append_entries: 1
 Finish: 2024-04-15 19:45:17.338034
+------------------------------------------------------
+Started: 2024-04-15 19:52:22.142142
+Existing_entries: 11
+Fetching from https://news.crunchbase.com/sections/crypto/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Dominates And The First Unicorn From Uzbekistan Joins The Board In March 2024](https://news.crunchbase.com/venture/crypto-dominates-unicorn-count-march-2024/)
+append_entries: 1
+Finish: 2024-04-15 19:52:25.428650
