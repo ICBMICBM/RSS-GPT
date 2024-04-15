@@ -26577,3 +26577,39 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [UK to Issue New Crypto, Stablecoin Legislation by July, Minister Says](https://www.coindesk.com/policy/2024/04/15/uk-to-issue-new-crypto-stablecoin-legislation-by-july-minister-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 10
 Finish: 2024-04-15 15:29:17.989618
+------------------------------------------------------
+Started: 2024-04-15 15:36:34.214593
+Existing_entries: 539
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Exchange VALR Obtains South African License](https://www.coindesk.com/policy/2024/04/15/crypto-exchange-valr-obtains-south-african-license/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin First, Not Only: Fostering Widespread Adoption Through Education](https://www.coindesk.com/consensus-magazine/2024/04/15/bitcoin-first-not-only-fostering-widespread-adoption-through-education/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [‘I'm a Pro-Freedom Candidate’: John Deaton on his Senate Race With Elizabeth Warren](https://www.coindesk.com/consensus-magazine/2024/04/15/im-a-pro-freedom-candidate-john-deaton-on-his-senate-race-with-elizabeth-warren/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Free Money? Polymarket Bet Pays 8.7% if China Doesn't Invade Taiwan](https://www.coindesk.com/markets/2024/04/15/free-money-polymarket-bet-pays-8-if-china-doesnt-invade-taiwan/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Allen Farrington: Capital in the 21st Century](https://www.coindesk.com/consensus-magazine/2024/04/15/allen-farrington-capital-in-the-21st-century/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [How Investors Should Handle Celsius in Their Tax Returns This Year](https://www.coindesk.com/consensus-magazine/2024/04/15/how-investors-should-handle-celsius-in-their-tax-returns-this-year/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Norway Wants to Restrict Crypto Mining by Regulating Data Centers, Lawmakers Say: Report](https://www.coindesk.com/policy/2024/04/15/norway-wants-to-restrict-crypto-mining-by-regulating-data-centers-lawmakers-say-report/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [First Mover Americas: Hong Kong Spot Bitcoin ETF Applicants Claim Approval](https://www.coindesk.com/markets/2024/04/15/first-mover-americas-hong-kong-spot-bitcoin-etf-applicants-claim-approval/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Meme-Coin, AI Tokens Lead Gains After Bitcoin Drop Causes $2B in Weekend Liquidations](https://www.coindesk.com/markets/2024/04/15/meme-coin-ai-tokens-lead-gains-after-bitcoin-drop-causes-2b-in-weekend-liquidations/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [UK to Issue New Crypto, Stablecoin Legislation by July, Minister Says](https://www.coindesk.com/policy/2024/04/15/uk-to-issue-new-crypto-stablecoin-legislation-by-july-minister-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 10
+Finish: 2024-04-15 15:37:06.568971
