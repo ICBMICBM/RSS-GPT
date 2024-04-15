@@ -30676,3 +30676,12 @@ Existing_entries: 1001
 Fetching from https://rss.panewslab.com/zh/gtimg/rss
 append_entries: 0
 Finish: 2024-04-15 09:29:43.734942
+------------------------------------------------------
+Started: 2024-04-15 09:37:18.055287
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 4517
+Summarized using GPT-3.5-turbo-1106
+Append: [Solana流动性质押领域的格局即将迎来变革](https://www.panewslab.com/zh/articledetails/71dz79vfj5tl.html)
+append_entries: 1
+Finish: 2024-04-15 09:37:24.146265
