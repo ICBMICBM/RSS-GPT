@@ -4,12 +4,13 @@
 <title>ChainFeeds精选</title>
 <link>urn:uuid:0bab94ad-424b-6211-e789-02c731a85e88</link>
 
+
 <item>
 <title>【英文长推】EIP-3074 后，错误签名将能够耗尽以太坊账户？</title>
 <link>https://twitter.com/lightclients/status/1778823652584120497</link>
 <guid>https://twitter.com/lightclients/status/1778823652584120497</guid>
 <content:encoded><![CDATA[
-<div> <br><br>摘要：<br>这些信息是积极的。<br>1. 目前没有钱包支持 EIP-3074 类型的签名。<br>2. EIP-3074 消息使用前缀 0x04，消除与其他类型数据的歧义。<br>3. 钱包需安全集成 EIP-3074，并增加消息可读性。<br>4. 钱包必须让用户签署 EIP-3074 消息成为较大事务。<br>5. 钱包必须明确显示用户签名的每个操作，以防止批量操作造成的资产损失。 <div>
+<div> <br /><br />摘要：<br />这些信息是积极的。<br />1. 目前没有钱包支持 EIP-3074 类型的签名。<br />2. EIP-3074 消息使用前缀 0x04，消除与其他类型数据的歧义。<br />3. 钱包需安全集成 EIP-3074，并增加消息可读性。<br />4. 钱包必须让用户签署 EIP-3074 消息成为较大事务。<br />5. 钱包必须明确显示用户签名的每个操作，以防止批量操作造成的资产损失。 <div>
 <p><strong>Chainfeeds 导读：</strong></p><p>EIP-3074 联合作者 @lightclients 撰文回复有关「在 EIP-3074 之后，一个错误的签名将能够耗尽你在以太坊上的账户」的担忧：目前还没有钱包支持 EIP-3074 类型的签名，用户签署 EIP-3074 前需要验证调用者地址可信，钱包应安全地集成 EIP-3074，并增加签名消息可读性。</p>
 <p><strong>文章来源：</strong></p><p><a href="https://twitter.com/lightclients/status/1778823652584120497">https://twitter.com/lightclients/status/1778823652584120497</a></p>
 <p><strong>文章作者：</strong></p><p>@lightclients</p><hr /><h3>观点：</h3><p style="white-space: pre-wrap;"><strong>@lightclients：</strong>首先，目前没有任何钱包支持签署无前缀数据，这意味着目前没有钱包支持签署 EIP-3074 消息。签署「登录」dapp 的消息使用基于 EIP-191 的完全不同的标准，不存在欺骗登录 dapp 的用户实际签署以太坊交易的可能性。EIP-3074 计划使用前缀 0x04，这将消除它与以太坊中所有其他类型的可签名数据的歧义。钱包必须主动选择允许用户签署这些消息。
@@ -18,10 +19,8 @@
 
 钱包应该让签署 EIP-3074 消息成为一件大事，和导出私钥同等级别。假设钱包安全地集成了 EIP-3074，帐户仍然有可能被盗。这是因为批量交易允许用户轻松发送多个操作，这就允许攻击者诱骗用户将一批资产发送到他们控制的地址一样。钱包必须清楚地显示用户正在签名的每个操作。这样，能够很容易注意到「我只打算进行一笔交易，但这个签名请求让我进行十几次交易」。如果通过盲签名进行批处理，则无法检测到这一点。【原文为英文】</p><a href="https://twitter.com/lightclients/status/1778823652584120497">内容来源</a><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
-
 <pubDate>2024-04-15T06:10:20+00:00</pubDate>
 </item>
-
 <item>
 <title>Hash Global 创始人香港 Web3 参会小结：继续专注于投资华人团队，努力走在交易所「喜好」的前面</title>
 <link>https://www.techflowpost.com/article/detail_17360.html</link>
@@ -11939,16 +11938,6 @@ Froqorion：以远古青蛙文明 为背景的团队角色扮演游戏。</p><a 
 <guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
 <content:encoded><![CDATA[
 <div> <br /><br />摘要：<br />这些信息是积极的。zkBridge开发商Polyhedra Network以10亿美元估值完成了2000万美元的战略融资，由Polychain Capital领投，多家知名机构参与。融资将用于招聘跨职能部门人员，将团队规模扩大至约80人。融资通过未来代币或SAFT简单协议进行，表明了市场对该项目的信心。<br /><br /> <div>
-<p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
-]]></content:encoded>
-<pubDate>2024-03-14T12:50:10+00:00</pubDate>
-</item>
-<item>
-<title>ZK 互操作基础设施 Polyhedra 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投</title>
-<link>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</link>
-<guid>https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round</guid>
-<content:encoded><![CDATA[
-<div> <br /><br />摘要：<br />ZK 互操作协议 zkBridge 开发商 Polyhedra Network 完成 2000 万美元战略融资，估值达 10 亿美元。Polychain Capital 领投，多家投资机构参与。融资将用于团队扩大到约 80 人，招聘跨职能部门人员。实现融资目标是通过未来代币或 SAFT 的协议进行的。 <div>
 <p>ZK 互操作协议 zkBridge 开发商 Polyhedra Network 以 10 亿美元估值完成 2000 万美元战略融资，Polychain Capital 领投，Animoca Brands、Hashkey Capital、Longhash Ventures、Emirates Consortium、Mapleblock Capital 等参投。本轮融资和之前的四轮融资都是通过未来代币或 SAFT 的简单协议进行的。所筹资金将用于招聘产品、工程、业务开发和营销等跨职能部门，将目前约 50 人的团队扩大到约 80 人。</p><p><a href="https://www.theblock.co/post/282461/polyhedra-network-zkbridge-funding-1-billion-valuation-token-round">内容来源</a></p><hr /><p><a href="https://chainfeeds.substack.com"><img alt="https://chainfeeds.substack.com" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" width="100%" /></a></p>
 ]]></content:encoded>
 <pubDate>2024-03-14T12:50:10+00:00</pubDate>
