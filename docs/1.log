@@ -30736,3 +30736,15 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [英国经济大臣：英国将于7月之前出台新的稳定币及加密货币立法](https://www.panewslab.com/zh/sqarticledetails/u1bwim0e.html)
 append_entries: 1
 Finish: 2024-04-15 10:25:17.526313
+------------------------------------------------------
+Started: 2024-04-15 10:32:50.299580
+Existing_entries: 1000
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [一鲸鱼/机构在近半小时从CEX提出15281枚ETH，约合4975万美元](https://www.panewslab.com/zh/sqarticledetails/c5y275q2.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [英国经济大臣：英国将于7月之前出台新的稳定币及加密货币立法](https://www.panewslab.com/zh/sqarticledetails/u1bwim0e.html)
+append_entries: 2
+Finish: 2024-04-15 10:32:55.730823
