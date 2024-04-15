@@ -24682,3 +24682,24 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Crypto funds see $126 million in weekly outflows; investors 'hesitant' amid price declines: CoinShares](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9fb14ff3133a9a9728b7fd772b9a4a5bd07dd46ae7df4f2248d7629a3d9c8709688ef130b7feef39afe79b39a320e63d1ccf3d411e561fe9fcbaca3a51ccc1bfb6dbc28dca1443871a8a83786c8b63632d90995e899e03fa847021e686338ecf8e34fb)
 append_entries: 5
 Finish: 2024-04-15 19:21:56.725587
+------------------------------------------------------
+Started: 2024-04-15 19:29:21.481132
+Existing_entries: 115
+Fetching from https://rss.app/feeds/wUQN1BEONEifvDV7.xml
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [UK to legislate on cryptoasset regulatory framework by end of July, minister says](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9fb149fc132c83c32cacbf3628884d4ccf31913dfc9d4c6647c9728527de93097fc6f278a0f0e435eee99a22b735a42c1d83394a1f5c1ef6beaac03a5cc7d6fbaddc8193921957c313ce9d63769c633c64869b4b93)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Hong Kong crypto ETFs will be 'lucky' to attract $500 million in total AUM: analyst](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9fb146f7133187803feef9352388095cd129952cbedf473f42c826823add9e576ec6ab39a7f6e839affc8160a438fd380e8120025d035cb0fea1d57b50c6dcfbabd4818d88014f8253c686672889682f258c8946)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Railgun price jumps more than 140% in a day following Vitalik Buterin's support](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9fb14afd132b898734a4e734609f5656c035c832a49f523809d66487369c86126dcdab64e6a5ae29eca58f60a12df067098d3843074405f3f4e5cf7e4dc8debfa997ce8c93105c8710d4de79709876213b81)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Hong Kong's 'spot-on' approval of spot ether ETFs hailed by OSL executive, eyes advantage over US](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9fb14ef0133187803feef93523885712d0208a2cfc9d4c6645cb7b873cc7931621cce078a1e5ec34afed9a25a03ea42f1b842702005205f1f6ac94754084dda5ae97c98182165b9a17d196276091633d64949e44819e12e8ce7663e09e2594838922)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto funds see $126 million in weekly outflows; investors 'hesitant' amid price declines: CoinShares](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9fb14ff3133a9a9728b7fd772b9a4a5bd07dd46ae7df4f2248d7629a3d9c8709688ef130b7feef39afe79b39a320e63d1ccf3d411e561fe9fcbaca3a51ccc1bfb6dbc28dca1443871a8a83786c8b63632d90995e899e03fa847021e686338ecf8e34fb)
+append_entries: 5
+Finish: 2024-04-15 19:29:35.801319
