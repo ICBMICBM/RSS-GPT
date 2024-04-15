@@ -30367,3 +30367,27 @@ Summarized using GPT-3.5-turbo-1106
 Append: [行情：比特币突破65000美元，以太坊突破3100美元](https://www.panewslab.com/zh/sqarticledetails/fov05v52.html)
 append_entries: 4
 Finish: 2024-04-14 23:37:30.419795
+------------------------------------------------------
+Started: 2024-04-15 02:20:43.299591
+Existing_entries: 1004
+Fetching from https://rss.panewslab.com/zh/gtimg/rss
+Token length: 190
+Summarized using GPT-3.5-turbo-1106
+Append: [最大的ENA持币者19小时前从Binance提取695.4万ENA并进行质押](https://www.panewslab.com/zh/sqarticledetails/j5iey9j0.html)
+Token length: 3720
+Summarized using GPT-3.5-turbo-1106
+Append: [RWA是比特币ETF的下一步，还是稳定币的魔改版？](https://www.panewslab.com/zh/articledetails/orps1fz2.html)
+Token length: 1626
+Summarized using GPT-3.5-turbo-1106
+Append: [昨夜今晨重要资讯（4月14日-4月15日）](https://www.panewslab.com/zh/sqarticledetails/l65d0p7k.html)
+Token length: 3967
+Summarized using GPT-3.5-turbo-1106
+Append: [Pantera合伙人：为何说Memecoin是加密货币的特洛伊木马？](https://www.panewslab.com/zh/articledetails/mwxmtf5d.html)
+Token length: 147
+Summarized using GPT-3.5-turbo-1106
+Append: [SafeDAO关于“开放SAFE可转让性”的提案获得通过，暂定4月23日开始实施](https://www.panewslab.com/zh/sqarticledetails/o4n4ydx5.html)
+Token length: 5421
+Summarized using GPT-3.5-turbo-1106
+Append: [预言机Pyth Network Q1回顾：传统金融正在进入，使用数据持续增长](https://www.panewslab.com/zh/articledetails/mbtc19g3.html)
+append_entries: 6
+Finish: 2024-04-15 02:21:04.591642
