@@ -28576,3 +28576,9 @@ Existing_entries: 1001
 Fetching from https://www.chainfeeds.xyz/rss
 append_entries: 0
 Finish: 2024-04-15 07:18:12.444512
+------------------------------------------------------
+Started: 2024-04-15 07:25:37.865418
+Existing_entries: 1000
+Fetching from https://www.chainfeeds.xyz/rss
+append_entries: 0
+Finish: 2024-04-15 07:25:38.346259
