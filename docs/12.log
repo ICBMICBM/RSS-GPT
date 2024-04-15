@@ -27564,3 +27564,33 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Hong Kong’s Approval Of Spot Bitcoin And Ethereum ETFs Triggers Crypto Market Recovery](https://bitcoinist.com/hong-kong-spot-bitcoin-ethereum/)
 append_entries: 8
 Finish: 2024-04-15 23:51:13.417620
+------------------------------------------------------
+Started: 2024-04-15 23:58:30.243715
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Toncoin And WIF Beat Out Dogecoin, Shiba Inu To Clinch Title For Best Perfoming Altcoins](https://bitcoinist.com/toncoin-wif-dogecoin-shiba-inu/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Investors Hit The Brakes: Digital Asset Funds See $942 Million In Weekly Outflows](https://bitcoinist.com/crypto-investors-hit-the-brakes-digital-asset-funds/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Shiba Inu Burn Rate Crashes 99% After 18,000% Spike, What Happened?](https://bitcoinist.com/shiba-inu-burn-rate-crashes-2/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Germany’s Largest Federal Bank To Offer Crypto Services In Q2](https://bitcoinist.com/germany-largest-federal-bank-crypto-services/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ripple Vs. SEC Update: Expert Says Both Parties Have Reached A Settlement Agreement](https://bitcoinist.com/ripple-vs-sec-settlement-2/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Cryptocurrency Confidence Reborn: Germany’s 2024 Report Signals Trust Revival](https://bitcoinist.com/cryptocurrency-new-report-signals-trust-revival/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Open Interest Has Cooled Off, Good Sign For Bulls?](https://bitcoinist.com/bitcoin-open-interest-cooled-off-good-sign-bulls/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Hong Kong’s Approval Of Spot Bitcoin And Ethereum ETFs Triggers Crypto Market Recovery](https://bitcoinist.com/hong-kong-spot-bitcoin-ethereum/)
+append_entries: 8
+Finish: 2024-04-15 23:58:58.437290
