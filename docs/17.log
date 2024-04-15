@@ -26201,3 +26201,12 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Foresight Daily](https://en.foresightnews.pro/foresight-daily-286/?utm_source=rss&utm_medium=rss&utm_campaign=foresight-daily-286)
 append_entries: 1
 Finish: 2024-04-15 20:56:32.202917
+------------------------------------------------------
+Started: 2024-04-15 21:03:49.065669
+Existing_entries: 76
+Fetching from https://en.foresightnews.pro/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Foresight Daily](https://en.foresightnews.pro/foresight-daily-286/?utm_source=rss&utm_medium=rss&utm_campaign=foresight-daily-286)
+append_entries: 1
+Finish: 2024-04-15 21:03:53.690876
