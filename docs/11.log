@@ -26004,3 +26004,12 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [UK to Issue New Crypto, Stablecoin Legislation by July, Minister Says](https://www.coindesk.com/policy/2024/04/15/uk-to-issue-new-crypto-stablecoin-legislation-by-july-minister-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-04-15 11:06:35.190789
+------------------------------------------------------
+Started: 2024-04-15 11:17:46.021399
+Existing_entries: 539
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [UK to Issue New Crypto, Stablecoin Legislation by July, Minister Says](https://www.coindesk.com/policy/2024/04/15/uk-to-issue-new-crypto-stablecoin-legislation-by-july-minister-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 1
+Finish: 2024-04-15 11:17:49.175525

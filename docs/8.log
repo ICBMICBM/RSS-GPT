@@ -25344,3 +25344,12 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Shiba Inu Insider Reveals Top 5 Shibarium Investment Rules](https://www.newsbtc.com/shiba-inu/shiba-inu-insider-top-5-shibarium-investment-rules/)
 append_entries: 1
 Finish: 2024-04-15 11:06:28.383757
+------------------------------------------------------
+Started: 2024-04-15 11:17:39.881676
+Existing_entries: 444
+Fetching from https://www.newsbtc.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Shiba Inu Insider Reveals Top 5 Shibarium Investment Rules](https://www.newsbtc.com/shiba-inu/shiba-inu-insider-top-5-shibarium-investment-rules/)
+append_entries: 1
+Finish: 2024-04-15 11:17:43.127088
