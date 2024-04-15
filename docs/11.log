@@ -26058,3 +26058,18 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [UK to Issue New Crypto, Stablecoin Legislation by July, Minister Says](https://www.coindesk.com/policy/2024/04/15/uk-to-issue-new-crypto-stablecoin-legislation-by-july-minister-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 1
 Finish: 2024-04-15 11:54:21.284277
+------------------------------------------------------
+Started: 2024-04-15 12:12:35.117966
+Existing_entries: 539
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [First Mover Americas: Hong Kong Spot Bitcoin ETF Applicants Claim Approval](https://www.coindesk.com/markets/2024/04/15/first-mover-americas-hong-kong-spot-bitcoin-etf-applicants-claim-approval/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Meme-Coin, AI Tokens Lead Gains After Bitcoin Drop Causes $2B in Weekend Liquidations](https://www.coindesk.com/markets/2024/04/15/meme-coin-ai-tokens-lead-gains-after-bitcoin-drop-causes-2b-in-weekend-liquidations/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [UK to Issue New Crypto, Stablecoin Legislation by July, Minister Says](https://www.coindesk.com/policy/2024/04/15/uk-to-issue-new-crypto-stablecoin-legislation-by-july-minister-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 3
+Finish: 2024-04-15 12:12:43.893645
