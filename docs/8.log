@@ -30354,3 +30354,39 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Ethereum Price Recovery In Jeopardy? Decoding Key Hurdles To Fresh Increase](https://www.newsbtc.com/analysis/eth/ethereum-price-recovery-fails-3250/)
 append_entries: 10
 Finish: 2024-04-16 16:56:24.275445
+------------------------------------------------------
+Started: 2024-04-16 17:18:27.500771
+Existing_entries: 444
+Fetching from https://www.newsbtc.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Arkham Releases Top 5 Crypto Rich List – You Won’t Believe How Much Is Inaccessible](https://www.newsbtc.com/crypto/arkham-top-5-crypto-rich-list/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Analyst Points To Possible 30% Bitcoin Correction, Calls For Caution](https://www.newsbtc.com/news/bitcoin/analyst-points-to-possible-30-bitcoin-correction-calls-for-caution/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Has Next Major Demand Zone At $56,000: Brace For Impact?](https://www.newsbtc.com/bitcoin-news/bitcoin-major-demand-56000-brace-impact/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Arbitrum’s Massive $107 Million Token Unlock Threatens To Send Price Below $1](https://www.newsbtc.com/arbitrum/arbitrum-107-million-unlock/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [‘We Sold Everything Last Night’, Reveals Crypto Research Firm](https://www.newsbtc.com/news/we-sold-everything-last-night-reveals-crypto-research-firm/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Elon Musk Latest Tweet: How Much Did Dogecoin Gain From It Today?](https://www.newsbtc.com/news/dogecoin/elon-musk-latest-tweet-how-much-did-dogecoin-gain-from-it-today/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ethereum Fire Sale? Deep-Pocketed Investor Snags Nearly 24,000 ETH At Bargain Price](https://www.newsbtc.com/news/ethereum/ethereum-fire-sale-deep-pocketed-investor-snags-nearly-24000-eth-at-bargain-price/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Investors In The Red: Losses Trump Profits As Ratio Dips Below 1](https://www.newsbtc.com/news/bitcoin/bitcoin-investors-in-the-red-losses-trump-profits-as-ratio-dips-below-1/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Why The Bitcoin Halving Matters, But Not The Way You Think: Expert](https://www.newsbtc.com/news/bitcoin/why-bitcoin-halving-matters-not-the-way-you-think/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [DOGE Price Prediction – Dogecoin Could Restart Drop To $0.12](https://www.newsbtc.com/analysis/doge/doge-price-prediction-dogecoin-0-12/)
+append_entries: 10
+Finish: 2024-04-16 17:19:02.495247
