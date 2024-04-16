@@ -24724,3 +24724,12 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [State of ApeCoin Q1 2024](https://messari.io/article/state-of-apecoin-q1-2024)
 append_entries: 1
 Finish: 2024-04-16 05:00:30.914403
+------------------------------------------------------
+Started: 2024-04-16 05:15:51.486048
+Existing_entries: 41
+Fetching from https://messari.io/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [State of ApeCoin Q1 2024](https://messari.io/article/state-of-apecoin-q1-2024)
+append_entries: 1
+Finish: 2024-04-16 05:15:53.485989
