@@ -27774,3 +27774,33 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Ripple Vs. SEC Update: Expert Says Both Parties Have Reached A Settlement Agreement](https://bitcoinist.com/ripple-vs-sec-settlement-2/)
 append_entries: 8
 Finish: 2024-04-16 02:48:19.480959
+------------------------------------------------------
+Started: 2024-04-16 02:55:44.419346
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Spot Bitcoin ETFs Are Live In Hong Kong, But Don’t Be Overconfident: Analyst](https://bitcoinist.com/spot-bitcoin-etfs-hong-kong-dont-be-overconfident/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [New UK Legislation To Govern Crypto Staking, Trading, By Mid-2024: What You Need To Know](https://bitcoinist.com/new-uk-legislation-to-govern-crypto-by-mid-2024/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Dogecoin Whales Moving Around Massive Amounts: What Are They Up To?](https://bitcoinist.com/dogecoin-whales-moving-massive-amounts-what-up-to/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Toncoin And WIF Beat Out Dogecoin, Shiba Inu To Clinch Title For Best Perfoming Altcoins](https://bitcoinist.com/toncoin-wif-dogecoin-shiba-inu/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Investors Hit The Brakes: Digital Asset Funds See $942 Million In Weekly Outflows](https://bitcoinist.com/crypto-investors-hit-the-brakes-digital-asset-funds/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Shiba Inu Burn Rate Crashes 99% After 18,000% Spike, What Happened?](https://bitcoinist.com/shiba-inu-burn-rate-crashes-2/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Germany’s Largest Federal Bank To Offer Crypto Services In Q2](https://bitcoinist.com/germany-largest-federal-bank-crypto-services/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ripple Vs. SEC Update: Expert Says Both Parties Have Reached A Settlement Agreement](https://bitcoinist.com/ripple-vs-sec-settlement-2/)
+append_entries: 8
+Finish: 2024-04-16 02:56:07.461344
