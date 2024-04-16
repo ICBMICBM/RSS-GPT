@@ -30744,3 +30744,33 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Prepare For The Bitcoin Supply Shockwave: Crypto Guru Warns Of Halving Impact](https://bitcoinist.com/prepare-for-the-bitcoin-supply-shock-crypto-guru/)
 append_entries: 8
 Finish: 2024-04-16 21:28:05.097781
+------------------------------------------------------
+Started: 2024-04-16 21:42:28.912775
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Elon Musk Wants Everyone To Pay To Use X, But Can You Pay In Dogecoin?](https://bitcoinist.com/elon-musk-x-pay-in-dogecoin/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Binance’s $4.3 Billion Settlement Faces DOJ Scrutiny Over FTX Ties In Monitorship Decision](https://bitcoinist.com/binances-4-3-billion-settlement-faces-doj-scrutiny/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Demand For Spot Bitcoin ETFs Stagnate For 4 Straight Weeks: More Pain For BTC HODLers?](https://bitcoinist.com/demand-spot-bitcoin-etf-stagnates-4-straight-weeks/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ripple Sends Major Update To All XRP Users](https://bitcoinist.com/ripple-major-update-xrp-users/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Pro-XRP Lawyer Deaton Could Join Coinbase In SEC Lawsuit](https://bitcoinist.com/pro-xrp-lawyer-deaton-could-join-coinbase-sec/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Whales Calm While Market Panics: Holdings Remain Strong](https://bitcoinist.com/bitcoin-whales-strong-despite-bearish-price-action/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Dogecoin On-Chain Metrics Turn Bullish, But Why Is DOGE Price Down?](https://bitcoinist.com/dogecoin-metrics-turn-bullish/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Prepare For The Bitcoin Supply Shockwave: Crypto Guru Warns Of Halving Impact](https://bitcoinist.com/prepare-for-the-bitcoin-supply-shock-crypto-guru/)
+append_entries: 8
+Finish: 2024-04-16 21:42:54.738540
