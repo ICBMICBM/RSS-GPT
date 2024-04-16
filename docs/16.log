@@ -30106,3 +30106,27 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [ETH Fud 下，Layer2 的机会和发展路径](https://sleepintherain.substack.com/p/eth-fudlayer2)
 append_entries: 5
 Finish: 2024-04-16 03:54:40.513923
+------------------------------------------------------
+Started: 2024-04-16 04:01:44.607166
+Existing_entries: 1000
+Fetching from https://www.chainfeeds.xyz/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [【长推】一文厘清链抽象、互操作性、全链，以及赛道核心项目](https://twitter.com/riyuexiaochu/status/1779831392794497248)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [【英文】EIP-3074：采用智能账户的风险和机遇](https://safe.global/blog/eip-3074-risks-opportunities-for-smart-account-adoption)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Omni Network 拟于 4 月 17 日开放 OMNI 代币申领和质押](https://twitter.com/OmniFDN/status/1779894146989527354)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [【英文长推】解读 Sanctum 文档：是否会面临脱钩风险？](https://twitter.com/jamesleyhanley/status/1779503421684691214)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [市场闪崩，但传奇大空头 GCR 鼓励大家「不要投降」](https://www.techflowpost.com/article/detail_17361.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [ETH Fud 下，Layer2 的机会和发展路径](https://sleepintherain.substack.com/p/eth-fudlayer2)
+append_entries: 6
+Finish: 2024-04-16 04:02:01.104278
