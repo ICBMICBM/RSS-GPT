@@ -29778,3 +29778,54 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [UK to Issue New Crypto, Stablecoin Legislation by July, Minister Says](https://www.coindesk.com/policy/2024/04/15/uk-to-issue-new-crypto-stablecoin-legislation-by-july-minister-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
 append_entries: 15
 Finish: 2024-04-16 04:31:54.500218
+------------------------------------------------------
+Started: 2024-04-16 04:39:03.296386
+Existing_entries: 539
+Fetching from https://www.coindesk.com/arc/outboundfeeds/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Exchange OKX's Polygon-Powered Layer 2, 'X Layer,' Hits Public Mainnet](https://www.coindesk.com/tech/2024/04/16/crypto-exchange-okxs-new-layer-2-chain-x-layer-built-on-polygon-tech-hits-public-mainnet/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [There Are Many Bitcoin Critics Left in Finance, Despite BlackRock's Newfound Love](https://www.coindesk.com/business/2024/04/15/there-are-many-bitcoin-critics-left-in-finance-despite-blackrocks-newfound-love/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Elizabeth Warren Demands U.S. CFTC Chair Explain His Chats With SBF](https://www.coindesk.com/policy/2024/04/15/elizabeth-warren-demands-us-cftc-chair-explain-his-chats-with-sbf/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Hong Kong Boards the ETF Express](https://www.coindesk.com/consensus-magazine/2024/04/15/hong-kong-boards-the-etf-express/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ether, Altcoins Remain Under Pressure Following Volatile Weekend](https://www.coindesk.com/markets/2024/04/15/ether-altcoins-remain-under-pressure-following-volatile-weekend/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Exchange VALR Obtains South African License](https://www.coindesk.com/policy/2024/04/15/crypto-exchange-valr-obtains-south-african-license/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin First, Not Only: Fostering Widespread Adoption Through Education](https://www.coindesk.com/consensus-magazine/2024/04/15/bitcoin-first-not-only-fostering-widespread-adoption-through-education/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [‘I'm a Pro-Freedom Candidate’: John Deaton on his Senate Race With Elizabeth Warren](https://www.coindesk.com/consensus-magazine/2024/04/15/im-a-pro-freedom-candidate-john-deaton-on-his-senate-race-with-elizabeth-warren/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Free Money? Polymarket Bet Pays 8.7% if China Doesn't Invade Taiwan](https://www.coindesk.com/markets/2024/04/15/free-money-polymarket-bet-pays-8-if-china-doesnt-invade-taiwan/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Allen Farrington: Capital in the 21st Century](https://www.coindesk.com/consensus-magazine/2024/04/15/allen-farrington-capital-in-the-21st-century/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [How Investors Should Handle Celsius in Their Tax Returns This Year](https://www.coindesk.com/consensus-magazine/2024/04/15/how-investors-should-handle-celsius-in-their-tax-returns-this-year/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Norway Wants to Restrict Crypto Mining by Regulating Data Centers, Lawmakers Say: Report](https://www.coindesk.com/policy/2024/04/15/norway-wants-to-restrict-crypto-mining-by-regulating-data-centers-lawmakers-say-report/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [First Mover Americas: Hong Kong Spot Bitcoin ETF Applicants Claim Approval](https://www.coindesk.com/markets/2024/04/15/first-mover-americas-hong-kong-spot-bitcoin-etf-applicants-claim-approval/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Meme-Coin, AI Tokens Lead Gains After Bitcoin Drop Causes $2B in Weekend Liquidations](https://www.coindesk.com/markets/2024/04/15/meme-coin-ai-tokens-lead-gains-after-bitcoin-drop-causes-2b-in-weekend-liquidations/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [UK to Issue New Crypto, Stablecoin Legislation by July, Minister Says](https://www.coindesk.com/policy/2024/04/15/uk-to-issue-new-crypto-stablecoin-legislation-by-july-minister-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+append_entries: 15
+Finish: 2024-04-16 04:39:50.817257

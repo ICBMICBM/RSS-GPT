@@ -26516,3 +26516,12 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Foresight Daily](https://en.foresightnews.pro/foresight-daily-286/?utm_source=rss&utm_medium=rss&utm_campaign=foresight-daily-286)
 append_entries: 1
 Finish: 2024-04-16 04:32:49.629752
+------------------------------------------------------
+Started: 2024-04-16 04:40:38.354456
+Existing_entries: 76
+Fetching from https://en.foresightnews.pro/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Foresight Daily](https://en.foresightnews.pro/foresight-daily-286/?utm_source=rss&utm_medium=rss&utm_campaign=foresight-daily-286)
+append_entries: 1
+Finish: 2024-04-16 04:40:42.842684
