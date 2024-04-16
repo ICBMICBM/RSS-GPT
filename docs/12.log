@@ -28104,3 +28104,33 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Shiba Inu Burn Rate Crashes 99% After 18,000% Spike, What Happened?](https://bitcoinist.com/shiba-inu-burn-rate-crashes-2/)
 append_entries: 8
 Finish: 2024-04-16 04:40:14.407295
+------------------------------------------------------
+Started: 2024-04-16 04:47:26.643568
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Impending Extradition? Nigerian Authorities Trace Fleeing Binance Exec To Kenya – Report](https://bitcoinist.com/impending-extradition-nigerian-authorities-trace-fleeing-binance-exec-to-kenya-report/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Runes Protocol Set To Launch As Bitcoin Halving Nears – A Threat To BRC-20 Dominance?](https://bitcoinist.com/runes-protocol-launch-as-bitcoin-halving-nears/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Spot Bitcoin ETFs Are Live In Hong Kong, But Don’t Be Overconfident: Analyst](https://bitcoinist.com/spot-bitcoin-etfs-hong-kong-dont-be-overconfident/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [New UK Legislation To Govern Crypto Staking, Trading, By Mid-2024: What You Need To Know](https://bitcoinist.com/new-uk-legislation-to-govern-crypto-by-mid-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Dogecoin Whales Moving Around Massive Amounts: What Are They Up To?](https://bitcoinist.com/dogecoin-whales-moving-massive-amounts-what-up-to/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Toncoin And WIF Beat Out Dogecoin, Shiba Inu To Clinch Title For Best Perfoming Altcoins](https://bitcoinist.com/toncoin-wif-dogecoin-shiba-inu/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Investors Hit The Brakes: Digital Asset Funds See $942 Million In Weekly Outflows](https://bitcoinist.com/crypto-investors-hit-the-brakes-digital-asset-funds/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Shiba Inu Burn Rate Crashes 99% After 18,000% Spike, What Happened?](https://bitcoinist.com/shiba-inu-burn-rate-crashes-2/)
+append_entries: 8
+Finish: 2024-04-16 04:47:51.503655
