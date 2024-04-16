@@ -29904,3 +29904,33 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Impending Extradition? Nigerian Authorities Trace Fleeing Binance Exec To Kenya – Report](https://bitcoinist.com/impending-extradition-nigerian-authorities-trace-fleeing-binance-exec-to-kenya-report/)
 append_entries: 8
 Finish: 2024-04-16 14:46:27.211065
+------------------------------------------------------
+Started: 2024-04-16 15:00:32.196051
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Prepare For The Bitcoin Supply Shockwave: Crypto Guru Warns Of Halving Impact](https://bitcoinist.com/prepare-for-the-bitcoin-supply-shock-crypto-guru/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Iraq To Start Bitcoin Mining On A Nation-State Level, Pundit Claims](https://bitcoinist.com/iraq-start-bitcoin-mining-state-level-pundit/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Geopolitical Tinderbox Slams Bitcoin: Dominance Slips Amid Israel-Iran Conflict](https://bitcoinist.com/bitcoin-dominance-slips-amid-israel-iran-conflict/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin ETFs: Bloomberg Analyst Outlines US Market Supremacy Over Hong Kong](https://bitcoinist.com/bitcoin-etfs-analyst-outlines-us-market-supremacy/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Going Crypto: Major UK Banking Firms Test Tokenized Deposits](https://bitcoinist.com/crypto-uk-banking-firms-test-tokenized-deposits/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ethereum Insider Files Lawsuit Against FBI Co-Conspirators](https://bitcoinist.com/ethereum-insider-lawsuit-fbi-co-conspirator/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Hong Kong Bitcoin ETFs Expected To Lag Behind US Market With Meager $500M Inflows, Expert](https://bitcoinist.com/hong-kong-bitcoin-etfs-to-lag-behind-us-market/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Impending Extradition? Nigerian Authorities Trace Fleeing Binance Exec To Kenya – Report](https://bitcoinist.com/impending-extradition-nigerian-authorities-trace-fleeing-binance-exec-to-kenya-report/)
+append_entries: 8
+Finish: 2024-04-16 15:00:53.982770
