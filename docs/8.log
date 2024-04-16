@@ -28266,3 +28266,39 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Dogecoin Flashes Weekly Golden Cross: Why This Analyst Believes The Bull Rally Is Far From Over](https://www.newsbtc.com/news/dogecoin/dogecoin-weekly-golden-cross/)
 append_entries: 10
 Finish: 2024-04-16 06:39:56.323094
+------------------------------------------------------
+Started: 2024-04-16 06:46:34.324047
+Existing_entries: 444
+Fetching from https://www.newsbtc.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Why The Bitcoin Halving Matters, But Not The Way You Think: Expert](https://www.newsbtc.com/news/bitcoin/why-bitcoin-halving-matters-not-the-way-you-think/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [DOGE Price Prediction – Dogecoin Could Restart Drop To $0.12](https://www.newsbtc.com/analysis/doge/doge-price-prediction-dogecoin-0-12/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ethereum Price Recovery In Jeopardy? Decoding Key Hurdles To Fresh Increase](https://www.newsbtc.com/analysis/eth/ethereum-price-recovery-fails-3250/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Bears Beware: $3 Billion Short Liquidation Looms At This Price Mark, Warns Analyst](https://www.newsbtc.com/bitcoin-news/bitcoin-bears-beware-3-billion-short-liquidation-looms-at-this-price-mark-warns-analyst/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Price Restarts Decline, Can BTC Bulls Protect $60K?](https://www.newsbtc.com/analysis/btc/bitcoin-price-restarts-decline-60k/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Readying For A 12-Year Bull Run To $650,000 If Bulls Take Charge: Analyst](https://www.newsbtc.com/bitcoin-news/bitcoin-bull-run-650000-bulls-take-charge/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Lost Treasure Found? Bitcoin Miner Transfers Over $3 Million BTC After 14-Year Dormancy](https://www.newsbtc.com/bitcoin-news/lost-treasure-found-bitcoin-miner-transfers-over/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Whales Showing Different Behavior From Past Cycles, But Why?](https://www.newsbtc.com/bitcoin-news/bitcoin-whales-different-behavior-cycles-why/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Analysts Bullish On Bitcoin Despite Peter Schiff’s $20,000 Doom Scenario](https://www.newsbtc.com/bitcoin-news/analysts-bullish-on-bitcoin-despite-peter-schiffs-20000-doom-scenario/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Dogecoin Flashes Weekly Golden Cross: Why This Analyst Believes The Bull Rally Is Far From Over](https://www.newsbtc.com/news/dogecoin/dogecoin-weekly-golden-cross/)
+append_entries: 10
+Finish: 2024-04-16 06:47:05.923460
