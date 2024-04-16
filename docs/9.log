@@ -25548,3 +25548,12 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Crypto Dominates And The First Unicorn From Uzbekistan Joins The Board In March 2024](https://news.crunchbase.com/venture/crypto-dominates-unicorn-count-march-2024/)
 append_entries: 1
 Finish: 2024-04-16 16:34:30.361071
+------------------------------------------------------
+Started: 2024-04-16 16:48:46.407130
+Existing_entries: 11
+Fetching from https://news.crunchbase.com/sections/crypto/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Dominates And The First Unicorn From Uzbekistan Joins The Board In March 2024](https://news.crunchbase.com/venture/crypto-dominates-unicorn-count-march-2024/)
+append_entries: 1
+Finish: 2024-04-16 16:48:50.802772
