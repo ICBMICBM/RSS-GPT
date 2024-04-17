@@ -31554,3 +31554,33 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Binance’s $4.3 Billion Settlement Faces DOJ Scrutiny Over FTX Ties In Monitorship Decision](https://bitcoinist.com/binances-4-3-billion-settlement-faces-doj-scrutiny/)
 append_entries: 8
 Finish: 2024-04-17 05:49:26.978411
+------------------------------------------------------
+Started: 2024-04-17 06:03:19.573950
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Mining $3.5 Million Scheme: Man Indicted For Alleged “Cryptojacking” Operation](https://bitcoinist.com/crypto-mining-3-5-million-scheme-man-indicted-for-alleged-cryptojacking-operation/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [30 Fund Managers Have Declared Ownership Of BlackRock’s Bitcoin ETF, “Tip Of The Iceberg,” Says Expert](https://bitcoinist.com/30-fund-managers-ownership-blackrocks-bitcoin-etf/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [South Korean Won Takes The Lead In Crypto Trading Surge, Outpacing US Dollar In Q1](https://bitcoinist.com/south-korean-won-takes-the-lead-in-crypto-trading/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Nakamoto Upgrade Release Date Set: Bitcoin L2 Stacks Prepares For Major Update](https://bitcoinist.com/bitcoin-l2-stacks-prepares-for-major-update/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Dogecoin Holder Profitability Remains High Amid Crash – Here Are The Numbers](https://bitcoinist.com/dogecoin-holder-profitability-high/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin MVRV Hints Now Is A Good Time To Buy: Analyst](https://bitcoinist.com/bitcoin-mvrv-hints-now-good-time-to-buy-analyst/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Elon Musk Wants Everyone To Pay To Use X, But Can You Pay In Dogecoin?](https://bitcoinist.com/elon-musk-x-pay-in-dogecoin/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Binance’s $4.3 Billion Settlement Faces DOJ Scrutiny Over FTX Ties In Monitorship Decision](https://bitcoinist.com/binances-4-3-billion-settlement-faces-doj-scrutiny/)
+append_entries: 8
+Finish: 2024-04-17 06:03:45.614280
