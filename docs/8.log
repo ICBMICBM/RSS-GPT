@@ -31434,3 +31434,39 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Bitcoin Has Next Major Demand Zone At $56,000: Brace For Impact?](https://www.newsbtc.com/bitcoin-news/bitcoin-major-demand-56000-brace-impact/)
 append_entries: 10
 Finish: 2024-04-17 01:39:10.900396
+------------------------------------------------------
+Started: 2024-04-17 02:11:18.350916
+Existing_entries: 444
+Fetching from https://www.newsbtc.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Halving Hysteria: Will History Repeat Itself Or Are We Heading For A Market Meltdown?](https://www.newsbtc.com/bitcoin-news/bitcoin-halving-hysteria-will-history-repeat-itself/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [The $86,500 Bitcoin Question: Will The Halving Spark A Price Surge This April?](https://www.newsbtc.com/bitcoin-news/the-86500-bitcoin-question-will-the-halving-spark-a-price-surge-this-april/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Is Bitcoin About To Skyrocket? Bitfinex Analysts Spot Familiar Patterns From December 2020](https://www.newsbtc.com/bitcoin-news/is-bitcoin-about-to-skyrocket-bitfinex-analysts-spot/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [XRP Price Set For 3,000% Rally To $22, Analyst Predicts](https://www.newsbtc.com/analysis/xrp/xrp-price-3000-rally-to-22/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Cat-Themed Memecoin Surges 14.9% After Major Exchange Listing And Whale Frenzy](https://www.newsbtc.com/meme-coins/cat-themed-memecoin-surges-14-9-after-major-exchange-listing-and-whale-frenzy/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Expert Predicts Bitcoin Will Reach $650,000 Due To This Reason](https://www.newsbtc.com/news/bitcoin/bitcoin-will-reach-650000/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Long-Term Holders Slow Down After 700,000 BTC Selloff, Reversal Sign?](https://www.newsbtc.com/bitcoin-news/bitcoin-long-term-700000-btc-selloff-reversal/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Analyst Set Sight On $79,591: Urges Traders To Be Patient](https://www.newsbtc.com/bitcoin-news/bitcoin-analyst-set-sight-on-79591-urges-traders-to-be-patient/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Arkham Releases Top 5 Crypto Rich List – You Won’t Believe How Much Is Inaccessible](https://www.newsbtc.com/crypto/arkham-top-5-crypto-rich-list/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Analyst Points To Possible 30% Bitcoin Correction, Calls For Caution](https://www.newsbtc.com/news/bitcoin/analyst-points-to-possible-30-bitcoin-correction-calls-for-caution/)
+append_entries: 10
+Finish: 2024-04-17 02:11:48.747866
