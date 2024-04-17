@@ -25392,3 +25392,12 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Everything (Including Blockchain) is Bigger in Texas: Podcast Ep. 103](https://www.chainalysis.com/blog/blockchain-in-texas-ep-103/)
 append_entries: 1
 Finish: 2024-04-17 03:55:50.605282
+------------------------------------------------------
+Started: 2024-04-17 04:23:32.586796
+Existing_entries: 28
+Fetching from https://blog.chainalysis.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Everything (Including Blockchain) is Bigger in Texas: Podcast Ep. 103](https://www.chainalysis.com/blog/blockchain-in-texas-ep-103/)
+append_entries: 1
+Finish: 2024-04-17 04:23:33.360923
