@@ -25917,3 +25917,12 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Crypto Dominates And The First Unicorn From Uzbekistan Joins The Board In March 2024](https://news.crunchbase.com/venture/crypto-dominates-unicorn-count-march-2024/)
 append_entries: 1
 Finish: 2024-04-17 04:24:25.036488
+------------------------------------------------------
+Started: 2024-04-17 04:34:25.466322
+Existing_entries: 11
+Fetching from https://news.crunchbase.com/sections/crypto/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Dominates And The First Unicorn From Uzbekistan Joins The Board In March 2024](https://news.crunchbase.com/venture/crypto-dominates-unicorn-count-march-2024/)
+append_entries: 1
+Finish: 2024-04-17 04:34:27.269757
