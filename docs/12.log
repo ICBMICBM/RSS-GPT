@@ -33174,3 +33174,33 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Ripple Vs. SEC Saga: CLO Provides Clarity On Next Steps In Lawsuit](https://bitcoinist.com/ripple-clo-provides-clarity-in-lawsuit/)
 append_entries: 8
 Finish: 2024-04-17 19:46:51.017243
+------------------------------------------------------
+Started: 2024-04-17 20:01:13.843370
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Dogecoin Trading At Major Support: Why This Is The Right Time To Buy DOGE](https://bitcoinist.com/dogecoin-major-support-doge/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Flips Ethereum In Fees: Will This Last?](https://bitcoinist.com/bitcoin-flips-ethereum-in-fees-will-this-last/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Developers Unveils Game-Changing Update For The XRP Ledger](https://bitcoinist.com/developers-update-xrp-ledger/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Hong Kong’s Spot Bitcoin ETFs To Attract $1 Billion: Bloomberg](https://bitcoinist.com/hong-kong-spot-bitcoin-etfs-1-billion/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ripple CTO Says He’s ‘Still Not’ A Billionaire, But Holds Millions In XRP](https://bitcoinist.com/ripple-cto-says-hes-still-not-a-billionaire/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [1 Billion Users: Finance Expert Says Crypto Is Growing 2X Faster Than The Internet](https://bitcoinist.com/crypto-2x-faster-than-internet/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Shiba Inu’s Staking Platform Passes 4 Key Proposals For Future Growth](https://bitcoinist.com/shiba-inu-staking-platform-passes-4-key-proposals/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Casinos ohne Oasis Sperrsystem 2024](https://bitcoinist.com/casinos-ohne-oasis-sperrsystem/)
+append_entries: 8
+Finish: 2024-04-17 20:01:37.239722
