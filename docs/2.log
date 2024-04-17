@@ -28945,3 +28945,24 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Hong Kong spot bitcoin ETFs could go live as soon as this month: OSL](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9fb747f4133187803feef9352388094cd33f9175b39b56284bd265d836c5940921c0e920bef1ae27eda58224b329a42b1ccf2740075d41fce0e5cd7f50da9fbbadd4d891ca1a5d82)
 append_entries: 5
 Finish: 2024-04-17 16:19:26.383956
+------------------------------------------------------
+Started: 2024-04-17 16:35:39.490521
+Existing_entries: 115
+Fetching from https://rss.app/feeds/wUQN1BEONEifvDV7.xml
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ether derivatives conditions could trigger sharp ETH price swing in the near future, analysts say](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9fb44cf5133c9c863db1bf3e289d4d49c2248c2eb4810f284bd56f9c27d89d147f8ee53aa7f9e76df6fa872aa229fb671c8a355d181e09e9fbe5c96550cad7fbb1cdc5978058478053d39b6f2886632f3bd89c47948514ec847220ee843995da8f7cfbec91)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Solana DEX Drift set to airdrop 100 million tokens to users](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9fb44bfd132a878239adf377299d4d59d77d9137ba974c6648da7e9b30d9df1b65d1e227bde5)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Current actions of bitcoin holders mirror December 2020, suggesting possible growth phase: Bitfinex analysts](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9fb746f0133a9d9c2aa6fc2e608e474bca3f8b2bfc9d446646d27f963cd89c5764ccea31b7e7f06defe19c3faa3ea42e0a8131420a561eb0a1f88b2714dac7b1a5dfdf8d8e1b49c30ec880796c8a6a2b6492885d97840ea4d97b2ffc8d6d84c78837e1e38dd29f222cc2ec97cd2493)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Grayscale's GBTC is down 50% in bitcoin holdings since spot ETFs launch](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9fb746f5133e9a8f21b0f13b218a0958c1248675b9934e3d4dd56cd831d8861963cae878bafaef24ebe6893ee83fe0240c87795c185c18b0f6bcdf6414c5d3a3acd9c4)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Hong Kong spot bitcoin ETFs could go live as soon as this month: OSL](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9fb747f4133187803feef9352388094cd33f9175b39b56284bd265d836c5940921c0e920bef1ae27eda58224b329a42b1ccf2740075d41fce0e5cd7f50da9fbbadd4d891ca1a5d82)
+append_entries: 5
+Finish: 2024-04-17 16:35:56.149772
