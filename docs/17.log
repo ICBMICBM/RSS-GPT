@@ -28550,3 +28550,21 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Foresight Daily](https://en.foresightnews.pro/foresight-daily-286/?utm_source=rss&utm_medium=rss&utm_campaign=foresight-daily-286)
 append_entries: 4
 Finish: 2024-04-17 13:20:13.296184
+------------------------------------------------------
+Started: 2024-04-17 13:32:33.525427
+Existing_entries: 76
+Fetching from https://en.foresightnews.pro/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Foresight Daily](https://en.foresightnews.pro/foresight-daily-288/?utm_source=rss&utm_medium=rss&utm_campaign=foresight-daily-288)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Foresight Daily](https://en.foresightnews.pro/foresight-daily-287/?utm_source=rss&utm_medium=rss&utm_campaign=foresight-daily-287)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Supported by Binance and OKX, What Makes the Fully OnChain AI Game Cellula Stand Out?](https://en.foresightnews.pro/supported-by-binance-and-okx-what-makes-the-fully-onchain-ai-game-cellula-stand-out/?utm_source=rss&utm_medium=rss&utm_campaign=supported-by-binance-and-okx-what-makes-the-fully-onchain-ai-game-cellula-stand-out)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Foresight Daily](https://en.foresightnews.pro/foresight-daily-286/?utm_source=rss&utm_medium=rss&utm_campaign=foresight-daily-286)
+append_entries: 4
+Finish: 2024-04-17 13:32:58.716812
