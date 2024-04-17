@@ -32574,3 +32574,33 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Crypto Mining $3.5 Million Scheme: Man Indicted For Alleged “Cryptojacking” Operation](https://bitcoinist.com/crypto-mining-3-5-million-scheme-man-indicted-for-alleged-cryptojacking-operation/)
 append_entries: 8
 Finish: 2024-04-17 14:30:08.034524
+------------------------------------------------------
+Started: 2024-04-17 14:44:44.193873
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [1 Billion Users: Finance Expert Says Crypto Is Growing 2X Faster Than The Internet](https://bitcoinist.com/crypto-2x-faster-than-internet/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Shiba Inu’s Staking Platform Passes 4 Key Proposals For Future Growth](https://bitcoinist.com/shiba-inu-staking-platform-passes-4-key-proposals/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Casinos ohne Oasis Sperrsystem 2024](https://bitcoinist.com/casinos-ohne-oasis-sperrsystem/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ripple Vs. SEC Saga: CLO Provides Clarity On Next Steps In Lawsuit](https://bitcoinist.com/ripple-clo-provides-clarity-in-lawsuit/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Market Shakeup: Bitcoin Takes A Hit As Fed Puts Rate Cuts On Hold](https://bitcoinist.com/bitcoin-takes-a-hit-as-fed-puts-rate-cuts-on-hold/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Norway Draws The Line: Crypto Mining Faces Ban Over Energy Usage](https://bitcoinist.com/norway-crypto-mining-faces-ban-over-energy-usage/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Core Version 27.0 Rolls Out: What’s New And Improved?](https://bitcoinist.com/bitcoin-core-version-27-0-rolls-out/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Mining $3.5 Million Scheme: Man Indicted For Alleged “Cryptojacking” Operation](https://bitcoinist.com/crypto-mining-3-5-million-scheme-man-indicted-for-alleged-cryptojacking-operation/)
+append_entries: 8
+Finish: 2024-04-17 14:45:08.417507
