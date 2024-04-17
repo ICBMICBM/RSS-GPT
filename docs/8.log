@@ -32010,3 +32010,39 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Crypto Expert Predicts Bitcoin Will Reach $650,000 Due To This Reason](https://www.newsbtc.com/news/bitcoin/bitcoin-will-reach-650000/)
 append_entries: 10
 Finish: 2024-04-17 06:00:59.200042
+------------------------------------------------------
+Started: 2024-04-17 06:21:03.227734
+Existing_entries: 444
+Fetching from https://www.newsbtc.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [XRP Price Recovery Could Soon Fade, These Are Key Levels To Watch](https://www.newsbtc.com/analysis/xrp/xrp-price-recovery-fade-0-5440/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ethereum Price Stuck Near $3K, Indicators Show Risk of Downside Break](https://www.newsbtc.com/analysis/eth/ethereum-price-stuck-3k/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Worldcoin Faces $1.2 Million Fine In Argentina For Law Violations; WLD’s Price Reacts](https://www.newsbtc.com/news/worldcoin-faces-1-2-million-fine-in-argentina-for-law-violations-wlds-price-reacts/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Price Consolidates Below Hurdles, Can BTC Bounce Back?](https://www.newsbtc.com/analysis/btc/bitcoin-price-consolidates-65k-2/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Halving Hysteria: Will History Repeat Itself Or Are We Heading For A Market Meltdown?](https://www.newsbtc.com/bitcoin-news/bitcoin-halving-hysteria-will-history-repeat-itself/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [The $86,500 Bitcoin Question: Will The Halving Spark A Price Surge This April?](https://www.newsbtc.com/bitcoin-news/the-86500-bitcoin-question-will-the-halving-spark-a-price-surge-this-april/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Is Bitcoin About To Skyrocket? Bitfinex Analysts Spot Familiar Patterns From December 2020](https://www.newsbtc.com/bitcoin-news/is-bitcoin-about-to-skyrocket-bitfinex-analysts-spot/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [XRP Price Set For 3,000% Rally To $22, Analyst Predicts](https://www.newsbtc.com/analysis/xrp/xrp-price-3000-rally-to-22/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Cat-Themed Memecoin Surges 14.9% After Major Exchange Listing And Whale Frenzy](https://www.newsbtc.com/meme-coins/cat-themed-memecoin-surges-14-9-after-major-exchange-listing-and-whale-frenzy/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Expert Predicts Bitcoin Will Reach $650,000 Due To This Reason](https://www.newsbtc.com/news/bitcoin/bitcoin-will-reach-650000/)
+append_entries: 10
+Finish: 2024-04-17 06:21:35.555721
