@@ -33846,3 +33846,39 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [XRP Price Recovery Could Soon Fade, These Are Key Levels To Watch](https://www.newsbtc.com/analysis/xrp/xrp-price-recovery-fade-0-5440/)
 append_entries: 10
 Finish: 2024-04-17 19:13:50.583739
+------------------------------------------------------
+Started: 2024-04-17 19:28:24.872551
+Existing_entries: 444
+Fetching from https://www.newsbtc.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [69% Of PEPE Holders Left In Profits After 26% Plunge](https://www.newsbtc.com/meme-coins/69-pepe-holders-left-profits-25-plunge/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Exchanges Bitcoin Supply Can Only Last For 9 Months, ByBit Report](https://www.newsbtc.com/news/bitcoin/crypto-exchanges-bitcoin-supply/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Could Hit $86,000 If This Key Level Is Surpassed: Analyst](https://www.newsbtc.com/news/bitcoin/bitcoin-could-hit-86000-if-this-key-level-is-surpassed-analyst/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Analyst Unveils Top 10 BTCfi Altcoins Post-Halving](https://www.newsbtc.com/news/crypto-analyst-top-10-btcfi-altcoins-post-halving/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Analyst Says Don’t Buy Altcoins Just Yet – Here’s Why](https://www.newsbtc.com/crypto/crypto-dont-buy-altcoins-yet/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Whale Alert: MATIC Poised For Epic Surge – Time To Dive In?](https://www.newsbtc.com/altcoin/whale-alert-matic-poised-for-epic-surge-time-to-dive-in/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Analyst Keeps Faith In XRP, Targets $288 Despite Price Retreat](https://www.newsbtc.com/analysis/xrp/analyst-keeps-faith-in-xrp-potential-targets-288-despite-price-retreat/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Displays Bullish Adam And Eve Double Bottom: What It Means](https://www.newsbtc.com/news/bitcoin/bitcoin-displays-bullish-adam-and-eve-double-bottom-what-it-means/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Cardano’s Dark Hour: Panic Grips Investors As ADA Loses 22% Of Its Value](https://www.newsbtc.com/news/cardanos-dark-hour-panic-grips-investors-as-ada-loses-20-of-its-value/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [XRP Price Recovery Could Soon Fade, These Are Key Levels To Watch](https://www.newsbtc.com/analysis/xrp/xrp-price-recovery-fade-0-5440/)
+append_entries: 10
+Finish: 2024-04-17 19:28:58.190114
