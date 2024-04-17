@@ -34936,3 +34936,63 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [ETH Fud 下，Layer2 的机会和发展路径](https://sleepintherain.substack.com/p/eth-fudlayer2)
 append_entries: 18
 Finish: 2024-04-17 06:25:23.664611
+------------------------------------------------------
+Started: 2024-04-17 06:38:43.164220
+Existing_entries: 1000
+Fetching from https://www.chainfeeds.xyz/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [【英文】解密符文 Runes：为什么短期看跌但长期看涨？](https://www.ignasdefi.com/p/navigating-runes-protocol-launch)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [【英文】第 11 届 zkSummit 活动报告：ZK 硬件、去中心化证明网络及零知识凭证](https://a16zcrypto.com/posts/article/zero-knowledge-summit-zksummit-2024-field-notes/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [【英文】StarkNet 增长乏力，如何通过空投方案实现突破？](https://community.starknet.io/t/second-third-fourth-user-airdrop-making-starknet-happen/113907)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [【英文】Placeholder：链上金融之外，区块链的下一个颠覆性用例会是什么？](https://www.placeholder.vc/blog/2024/4/11/onchain-finance-is-thriving-whats-next)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [【长推】RGB++ 快问快答：白话解读协议和生态进展](https://twitter.com/DaPangDunCrypto/status/1780167512057070063)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [a16z 筹集 72 亿美元新资金，将关注加密货币等领域](https://a16z.com/new-funds-new-era/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [【长推】为解决 Solana 拥堵问题的 SWQoS 是什么，是否会带来更严重的中心化问题？](https://twitter.com/cmdefi/status/1779702777578688764)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [【英文长推】EIP-3074，能否让以太坊再次变得简单？](https://twitter.com/moo9000/status/1779829152306041330)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [【长推】牛市主流叙事节奏图：BTC Layer2 接力以太坊，AI+DePIN 引爆？](https://twitter.com/tmel0211/status/1779719049284636839)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [【英文长推】减半将至，Ordinals 和 Runes 方面有何动态？](https://twitter.com/dwfventures/status/1779733900815966604)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [【长推】解析 dYdX 的代币飞轮和无许可长尾资产市场](https://twitter.com/0xsleepinrain/status/1779757441447792762)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [【英文】ZK 会吃掉模块化堆栈吗？](https://equilibrium.co/writing/will-zk-eat-the-modular-stack)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [【长推】一文厘清链抽象、互操作性、全链，以及赛道核心项目](https://twitter.com/riyuexiaochu/status/1779831392794497248)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [【英文】EIP-3074：采用智能账户的风险和机遇](https://safe.global/blog/eip-3074-risks-opportunities-for-smart-account-adoption)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Omni Network 拟于 4 月 17 日开放 OMNI 代币申领和质押](https://twitter.com/OmniFDN/status/1779894146989527354)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [【英文长推】解读 Sanctum 文档：是否会面临脱钩风险？](https://twitter.com/jamesleyhanley/status/1779503421684691214)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [市场闪崩，但传奇大空头 GCR 鼓励大家「不要投降」](https://www.techflowpost.com/article/detail_17361.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [ETH Fud 下，Layer2 的机会和发展路径](https://sleepintherain.substack.com/p/eth-fudlayer2)
+append_entries: 18
+Finish: 2024-04-17 06:39:43.184927

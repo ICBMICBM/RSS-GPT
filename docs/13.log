@@ -26610,3 +26610,15 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [“JP Morgan is the IBM of Banking,” Ethereum Introduced at the Superbowl of Investing](https://www.trustnodes.com/2024/04/15/jp-morgan-is-the-ibm-of-banking-ethereum-introduced-at-the-superbowl-of-investing)
 append_entries: 2
 Finish: 2024-04-17 06:24:23.761888
+------------------------------------------------------
+Started: 2024-04-17 06:38:37.057887
+Existing_entries: 36
+Fetching from https://www.trustnodes.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Laggard Japan Publishes Web3 Paper](https://www.trustnodes.com/2024/04/15/laggard-japan-publishes-web3-paper)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [“JP Morgan is the IBM of Banking,” Ethereum Introduced at the Superbowl of Investing](https://www.trustnodes.com/2024/04/15/jp-morgan-is-the-ibm-of-banking-ethereum-introduced-at-the-superbowl-of-investing)
+append_entries: 2
+Finish: 2024-04-17 06:38:42.079174
