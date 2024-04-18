@@ -35538,3 +35538,39 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [ApeCoin Q1 2024 Performance: Market Cap And Token Price Skyrocket – Key Findings Inside](https://www.newsbtc.com/ape/apecoin-q1-2024-performance-market-cap-and-token-price-skyrocket-key-findings-inside/)
 append_entries: 10
 Finish: 2024-04-18 08:33:43.438132
+------------------------------------------------------
+Started: 2024-04-18 08:48:59.363844
+Existing_entries: 444
+Fetching from https://www.newsbtc.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [No Fed Rate Cuts? No Worries For Bitcoin, Says Research Firm](https://www.newsbtc.com/news/bitcoin/no-fed-rate-cuts-no-worries-for-bitcoin/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Shiba Inu Open Interest Explodes On Top Exchanges – Is This The Comeback?](https://www.newsbtc.com/news/shiba-inu-surges-10-open-interest-explodes-on-top-exchanges-is-this-the-comeback/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [LINK Price Eyes Recovery If It’s Able to Hold One Crucial Level](https://www.newsbtc.com/analysis/link/link-price-eyes-recovery-15/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ethereum Price Holds Strong At $3K But Can Bulls Clear This Hurdle?](https://www.newsbtc.com/analysis/eth/ethereum-price-holds-strong-3k/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Price At Make-Or-Break Moment, Key Levels To Watch](https://www.newsbtc.com/analysis/btc/bitcoin-price-at-break-moment-60k/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Pre-Halving Jitters: Bitcoin Price Briefly Slips Below $60,000](https://www.newsbtc.com/bitcoin-news/pre-halving-jitters-bitcoin-price-briefly-slips-below-60000/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Arbitrum Launches Fraud Proofs In Testnet: Why Is ARB Down?](https://www.newsbtc.com/news/arbitrum-launches-fraud-proofs-in-testnet-why-is-arb-down/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [DeFi And Web3 Gaming Dominate Q1: Record Transactions Leave Stablecoins In The Dust, Report](https://www.newsbtc.com/news/defi-and-web3-gaming-dominate-q1-record-transactions-leave-stablecoins-in-the-dust-report/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [XRP Whales Are On The Move Again, But Are They Bullish Or Bearish?](https://www.newsbtc.com/analysis/xrp/xrp-whales-on-the-move/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [ApeCoin Q1 2024 Performance: Market Cap And Token Price Skyrocket – Key Findings Inside](https://www.newsbtc.com/ape/apecoin-q1-2024-performance-market-cap-and-token-price-skyrocket-key-findings-inside/)
+append_entries: 10
+Finish: 2024-04-18 08:49:32.747284
