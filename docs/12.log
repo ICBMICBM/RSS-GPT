@@ -35454,3 +35454,33 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Stablecoins Get A Seat At The Table: US Senators Unveil New Regulations](https://bitcoinist.com/stablecoins-us-senators-unveil-new-regulations/)
 append_entries: 8
 Finish: 2024-04-18 17:23:57.629557
+------------------------------------------------------
+Started: 2024-04-18 17:33:48.019320
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Regulatory Victory: Binance Awarded Full Virtual Asset Service Provider License In Dubai](https://bitcoinist.com/binance-virtual-asset-provider-license-dubai/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Shiba Inu Team Member Says SHIB Price Is Still On Track For A Supercycle](https://bitcoinist.com/shiba-inu-shib-price-supercycle/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Maximizing Opportunity Amidst A Changing Global Economic Climate: Margex Analyst](https://bitcoinist.com/maximizing-opportunity-amidst-a-changing-global-economic-climate-margex-analyst/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Tether Splits Into Four Divisions, Eyes Expansion Beyond Stablecoins](https://bitcoinist.com/tether-splits-into-four-divisions/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Analyst Unveils 12-15 Months Prediction For Dogecoin And XRP](https://bitcoinist.com/crypto-analyst-dogecoin-xrp/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin ETFs In Trouble? Peter Schiff Warns Of Impending Bailouts From Buyers](https://bitcoinist.com/schiff-warns-of-bailouts-from-bitcoin-etfs-buyers/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Is Fiat Failing? Analyst Claims Bitcoin Offers Millennials A Financial Lifeline](https://bitcoinist.com/analyst-claims-bitcoin-offers-a-financial-lifeline/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [‘Ethereum Wins Big’ With New US Stablecoin Draft Bill: Expert](https://bitcoinist.com/ethereum-wins-big-new-us-stablecoin-draft-bill/)
+append_entries: 8
+Finish: 2024-04-18 17:34:14.442790
