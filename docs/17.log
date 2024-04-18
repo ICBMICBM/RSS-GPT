@@ -29819,3 +29819,24 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Foresight Daily](https://en.foresightnews.pro/foresight-daily-286/?utm_source=rss&utm_medium=rss&utm_campaign=foresight-daily-286)
 append_entries: 5
 Finish: 2024-04-18 07:46:03.615611
+------------------------------------------------------
+Started: 2024-04-18 08:00:38.533760
+Existing_entries: 76
+Fetching from https://en.foresightnews.pro/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Interview with Renzo Founder: I Believe Everything Will Return to Ethereum](https://en.foresightnews.pro/interview-with-renzo-founder-i-believe-everything-will-return-to-ethereum/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-renzo-founder-i-believe-everything-will-return-to-ethereum)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Foresight Daily](https://en.foresightnews.pro/foresight-daily-288/?utm_source=rss&utm_medium=rss&utm_campaign=foresight-daily-288)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Foresight Daily](https://en.foresightnews.pro/foresight-daily-287/?utm_source=rss&utm_medium=rss&utm_campaign=foresight-daily-287)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Supported by Binance and OKX, What Makes the Fully OnChain AI Game Cellula Stand Out?](https://en.foresightnews.pro/supported-by-binance-and-okx-what-makes-the-fully-onchain-ai-game-cellula-stand-out/?utm_source=rss&utm_medium=rss&utm_campaign=supported-by-binance-and-okx-what-makes-the-fully-onchain-ai-game-cellula-stand-out)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Foresight Daily](https://en.foresightnews.pro/foresight-daily-286/?utm_source=rss&utm_medium=rss&utm_campaign=foresight-daily-286)
+append_entries: 5
+Finish: 2024-04-18 08:00:54.902194
