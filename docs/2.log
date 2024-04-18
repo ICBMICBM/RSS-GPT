@@ -30688,3 +30688,24 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [GBTC outflows overpower other spot bitcoin ETF inflows for third straight day](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9fba4ffc133e8a9a3beefd2f39894850d423c837a797503b4bcc6e877ec28215788ee43ca6f6ec29eca58b39a361e024098e3b581b1e18f5fabadd3a5dc8cb)
 append_entries: 5
 Finish: 2024-04-18 15:37:44.812637
+------------------------------------------------------
+Started: 2024-04-18 15:52:06.621437
+Existing_entries: 115
+Fetching from https://rss.app/feeds/wUQN1BEONEifvDV7.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin halving could be 'buy the rumor, sell the news' event, crypto payments company CEO says](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9fba4cf3133b819a3bacfb3460874553d5398b3ffc914d3e48df2697369c900f758ef23db7b8f135efe79c60b629e52642963c4a455d09eae0e5dc615cc7c6fba1c8d589931a039e1fde9e6f6b9c75632a9a9742819e1fa4ca7621a29b219fdd)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Telegram CEO holds a few hundred million dollars in his 'bank account or in bitcoin'](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9fba4bfd132d8d823da4e03b20c2475acc7d9539a7974e6640ce799a259c811b75d0ab3db7e6ae28e7e48a60a461ef2f18cf3c5a06571ef8f7e5d47e55c5dbb9ac97c8968b194f9c0d8a9a6428806f3d64979b5c8bdd07eaca7c3be19c6d89dcd138e6a08ac3c6202dcaeec3d83f92c4d87ba7bec25f4d32)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bernstein expects bitcoin’s bullish trajectory to resume post-halving](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9fba4cf7133b8d9c36b0e63f2481095adb20803ba5810f294dcf689a3adf81576ed6ea39bbe6eb6df6fa8f27a02ffd251d9b795b071e1ef8e0bdd47214d9dda5b697c4988b034780198a816f6c9c633c28819f41cdc153b999237ea29c2194c99925)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Solana-based betting platform Parcl loses 40% TVL after airdrop](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9fba4df3132a878239adf3773d8e565ccf7d912ebddf432256df799a23)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [GBTC outflows overpower other spot bitcoin ETF inflows for third straight day](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9fba4ffc133e8a9a3beefd2f39894850d423c837a797503b4bcc6e877ec28215788ee43ca6f6ec29eca58b39a361e024098e3b581b1e18f5fabadd3a5dc8cb)
+append_entries: 5
+Finish: 2024-04-18 15:52:26.305406
