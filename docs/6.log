@@ -27133,3 +27133,12 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Klickl 荣获阿布扎比全球市场金融服务许可，开启传统金融与 Web3.0 无缝链接新纪元](https://techflowpost.mirror.xyz/_moPCEKeUHr8R0rpLSeRrBciDfxGO0JX42Uwd50NSN8)
 append_entries: 1
 Finish: 2024-04-18 10:16:42.185766
+------------------------------------------------------
+Started: 2024-04-18 10:33:12.359368
+Existing_entries: 111
+Fetching from https://techflowpost.mirror.xyz/feed/atom
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Klickl 荣获阿布扎比全球市场金融服务许可，开启传统金融与 Web3.0 无缝链接新纪元](https://techflowpost.mirror.xyz/_moPCEKeUHr8R0rpLSeRrBciDfxGO0JX42Uwd50NSN8)
+append_entries: 1
+Finish: 2024-04-18 10:33:18.017883
