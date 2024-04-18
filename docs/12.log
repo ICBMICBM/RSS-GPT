@@ -35064,3 +35064,33 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Analyst Sounds Alarm: Proliferation Of Token Standards In Bitcoin A Big Problem](https://bitcoinist.com/proliferation-of-token-standards-bitcoin-a-problem/)
 append_entries: 8
 Finish: 2024-04-18 13:39:56.625703
+------------------------------------------------------
+Started: 2024-04-18 13:54:22.074245
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin ETFs In Trouble? Peter Schiff Warns Of Impending Bailouts From Buyers](https://bitcoinist.com/schiff-warns-of-bailouts-from-bitcoin-etfs-buyers/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Is Fiat Failing? Analyst Claims Bitcoin Offers Millennials A Financial Lifeline](https://bitcoinist.com/analyst-claims-bitcoin-offers-a-financial-lifeline/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [‘Ethereum Wins Big’ With New US Stablecoin Draft Bill: Expert](https://bitcoinist.com/ethereum-wins-big-new-us-stablecoin-draft-bill/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Stablecoins Get A Seat At The Table: US Senators Unveil New Regulations](https://bitcoinist.com/stablecoins-us-senators-unveil-new-regulations/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [XRP Lawsuit Likely To Reach Supreme Court, Ex-SEC Crypto Chief](https://bitcoinist.com/xrp-lawsuit-supreme-court-ex-sec-crypto-chief/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Chain Of Exploits? Investigator Unveils Connection Between Multiple Crypto Hacks](https://bitcoinist.com/chain-of-exploits-investigator-unveils-connection-between-multiple-crypto-hacks/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Worldcoin Announces Upcoming Release Of Layer-2 Ethereum Blockchain](https://bitcoinist.com/worldcoin-announces-release-of-layer-2-blockchain/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Analyst Sounds Alarm: Proliferation Of Token Standards In Bitcoin A Big Problem](https://bitcoinist.com/proliferation-of-token-standards-bitcoin-a-problem/)
+append_entries: 8
+Finish: 2024-04-18 13:54:53.154078
