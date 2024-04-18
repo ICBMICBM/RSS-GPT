@@ -26778,3 +26778,12 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Everything (Including Blockchain) is Bigger in Texas: Podcast Ep. 103](https://www.chainalysis.com/blog/blockchain-in-texas-ep-103/)
 append_entries: 1
 Finish: 2024-04-18 21:35:14.702198
+------------------------------------------------------
+Started: 2024-04-18 21:50:09.684949
+Existing_entries: 28
+Fetching from https://blog.chainalysis.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Everything (Including Blockchain) is Bigger in Texas: Podcast Ep. 103](https://www.chainalysis.com/blog/blockchain-in-texas-ep-103/)
+append_entries: 1
+Finish: 2024-04-18 21:50:13.175448
