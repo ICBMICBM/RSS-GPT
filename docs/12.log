@@ -33684,3 +33684,33 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [1 Billion Users: Finance Expert Says Crypto Is Growing 2X Faster Than The Internet](https://bitcoinist.com/crypto-2x-faster-than-internet/)
 append_entries: 8
 Finish: 2024-04-18 00:01:06.370463
+------------------------------------------------------
+Started: 2024-04-18 00:36:12.381041
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Analyst Sounds Alarm: Proliferation Of Token Standards In Bitcoin A Big Problem](https://bitcoinist.com/proliferation-of-token-standards-bitcoin-a-problem/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Shiba Inu Reaches Critical Junction In Its Campaign For $0.00028](https://bitcoinist.com/shiba-inu-campaign-0-00028/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Runes Protocol Launches In 48 Hours: Expert Highlights Bearish Factors To Consider](https://bitcoinist.com/runes-protocol-launches-bearish-factors-to-consider/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Dogecoin Trading At Major Support: Why This Is The Right Time To Buy DOGE](https://bitcoinist.com/dogecoin-major-support-doge/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Flips Ethereum In Fees: Will This Last?](https://bitcoinist.com/bitcoin-flips-ethereum-in-fees-will-this-last/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Developers Unveils Game-Changing Update For The XRP Ledger](https://bitcoinist.com/developers-update-xrp-ledger/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Hong Kong’s Spot Bitcoin ETFs To Attract $1 Billion: Bloomberg](https://bitcoinist.com/hong-kong-spot-bitcoin-etfs-1-billion/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ripple CTO Says He’s ‘Still Not’ A Billionaire, But Holds Millions In XRP](https://bitcoinist.com/ripple-cto-says-hes-still-not-a-billionaire/)
+append_entries: 8
+Finish: 2024-04-18 00:36:38.165118
