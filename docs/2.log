@@ -31423,3 +31423,24 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Bitcoin dips below $60,000 as halving looms closer](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9eb74df5133b819a3bacfb34608b4d4fd07d873dbd9d5566128b3bc5639c9b1421d4e73eb7b8ec26aff8813aa020e53942813b42055602e9e0e5dc615cc79fb7b197c4988b034780198a9778649f756327909b40)
 append_entries: 5
 Finish: 2024-04-19 02:18:20.338307
+------------------------------------------------------
+Started: 2024-04-19 02:35:23.282175
+Existing_entries: 115
+Fetching from https://rss.app/feeds/wUQN1BEONEifvDV7.xml
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [JPMorgan expects bitcoin's price to dip after the halving](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9eb44ef4133b819a3bacfb34609f5656c035c83cb8820f2345d77d9c3dd6df107ccee927b5f4ed)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin mining firm Foundry plans to redistribute halving 'epic sat' proceeds](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9eb746f2133f879b36a7e02360874553d5398b3ffc9752224796789427)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin hits macroeconomic headwinds as halving approaches](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9eb748fd133b819a3bacfb3460874d4bd07d8839b2804d2e47d4659a3ed8915764c6e731a5fced24f1a58f3ee824e826198b3a4845521cede1a7d87451ccc1)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitwise's spot bitcoin ETF registers first daily outflows as negative streak continues](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9eb747f1133b819a2faae13f609c5450d77d8731a5914d224a966e81359c801f6bcaf521b7e7f06de4e19c3eb161ed2b068e2d02074618fbffa7ce64)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin dips below $60,000 as halving looms closer](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9eb74df5133b819a3bacfb34608b4d4fd07d873dbd9d5566128b3bc5639c9b1421d4e73eb7b8ec26aff8813aa020e53942813b42055602e9e0e5dc615cc79fb7b197c4988b034780198a9778649f756327909b40)
+append_entries: 5
+Finish: 2024-04-19 02:35:39.564393
