@@ -26895,3 +26895,12 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Everything (Including Blockchain) is Bigger in Texas: Podcast Ep. 103](https://www.chainalysis.com/blog/blockchain-in-texas-ep-103/)
 append_entries: 1
 Finish: 2024-04-19 02:35:40.717560
+------------------------------------------------------
+Started: 2024-04-19 02:52:28.114475
+Existing_entries: 28
+Fetching from https://blog.chainalysis.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Everything (Including Blockchain) is Bigger in Texas: Podcast Ep. 103](https://www.chainalysis.com/blog/blockchain-in-texas-ep-103/)
+append_entries: 1
+Finish: 2024-04-19 02:52:31.962420
