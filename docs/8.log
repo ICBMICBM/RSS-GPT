@@ -38238,3 +38238,39 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Aptos Labs Teams Up With Microsoft, SK Telecom For New Institutional Platform, APT Soars 3%](https://www.newsbtc.com/aptos-apt/aptos-labs-teams-up-with-microsoft-sk-telecom-for-new-institutional-platform-apt-soars-3/)
 append_entries: 10
 Finish: 2024-04-19 06:31:57.593369
+------------------------------------------------------
+Started: 2024-04-19 06:48:31.258457
+Existing_entries: 444
+Fetching from https://www.newsbtc.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [BNB Price May Have Another Chance For A Bullish Streak: Here’s How](https://www.newsbtc.com/analysis/bnb/bnb-price-bullish-streak-572/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ethereum Price Faces Crucial Test: Will $2,850 Withstand the Pressure?](https://www.newsbtc.com/analysis/eth/ethereum-price-faces-test-2850/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Price Still At Risk of Major Downside Break Below $60K](https://www.newsbtc.com/analysis/btc/bitcoin-price-risk-60k/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Miners Always Sell Into Halvings, Is This Time Any Different?](https://www.newsbtc.com/bitcoin-news/bitcoin-miners-sell-halvings-time-different/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin: Expect The Unexpected – Analyst Sees Unconventional Bull Run Post-Halving](https://www.newsbtc.com/bitcoin-news/bitcoin-expect-the-unexpected-analyst-sees-unconventional-bull-run-post-halving/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Chainlink (LINK) Forms Bullish Pattern That Led To 50% Rally On Average](https://www.newsbtc.com/chainlink-news/chainlink-link-bullish-pattern-led-50-rally/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ethereum Blockchain’s Q1 2024 Success: Unveiling The Factors Behind The $370M Profit Surge](https://www.newsbtc.com/news/ethereum/ethereum-blockchains-q1-2024-success-unveiling-the-factors-behind-the-370m-profit-surge/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Could Drop To $52,000 If Price Breaks Below This Mark – CryptoQuant](https://www.newsbtc.com/news/bitcoin/bitcoin-could-drop-to-52000-if-price-breaks-below-this-mark-cryptoquant/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Analyst Predicts Cardano Rally To $3 As Price Reaches ‘Ultimate Support Test’](https://www.newsbtc.com/news/cardano/cardano-rally-to-3-support/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Aptos Labs Teams Up With Microsoft, SK Telecom For New Institutional Platform, APT Soars 3%](https://www.newsbtc.com/aptos-apt/aptos-labs-teams-up-with-microsoft-sk-telecom-for-new-institutional-platform-apt-soars-3/)
+append_entries: 10
+Finish: 2024-04-19 06:49:04.285426
