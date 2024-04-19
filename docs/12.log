@@ -37164,3 +37164,33 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Bitcoin HODLers With Zero History Of Selling Just Bought All-Time High Amount](https://bitcoinist.com/bitcoin-hodlers-selling-bought-all-time-high-amount/)
 append_entries: 8
 Finish: 2024-04-19 10:36:01.467615
+------------------------------------------------------
+Started: 2024-04-19 10:51:29.731636
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Cardano Enters New Era Of Decentralized Governance: Foundation CEO](https://bitcoinist.com/cardano-new-era-decentralized-governance/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [JPMorgan Throws Cold Water On Bitcoin Halving Rally: Price Drop Incoming?](https://bitcoinist.com/jpmorgan-throws-cold-water-on-bitcoin-halving-rally/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ripple’s 3-Year Growth Strategy Unveiled By CEO Garlinghouse](https://bitcoinist.com/ripple-3-year-growth-strategy-ceo-garlinghouse/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Mango Markets Exploiter Avraham Eisenberg Convicted In $110M Crypto Fraud](https://bitcoinist.com/avraham-eisenberg-convicted-mango-markets/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Continues To Struggle: Analytics Firm Reveals What Whales Are Doing](https://bitcoinist.com/bitcoin-struggle-analytics-firm-reveals-whales/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Miners Accumulating Just Like In 2020: Is BTC Preparing For $100,000?](https://bitcoinist.com/bitcoin-miners-accumulating-btc-100000/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto-Linked Money-Laundering Scheme Worth $230M Uncovered In Hong Kong](https://bitcoinist.com/hong-kong-money-laundering-scheme-crypto-platform/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin HODLers With Zero History Of Selling Just Bought All-Time High Amount](https://bitcoinist.com/bitcoin-hodlers-selling-bought-all-time-high-amount/)
+append_entries: 8
+Finish: 2024-04-19 10:51:55.445965
