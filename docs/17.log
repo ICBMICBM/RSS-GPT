@@ -34247,3 +34247,39 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Lumoz supports Op Stack + ZK Fraud Proof, Initiating a New Paradigm in L2 Architecture](https://en.foresightnews.pro/lumoz-supports-op-stack-zk-fraud-proof-initiating-a-new-paradigm-in-l2-architecture/?utm_source=rss&utm_medium=rss&utm_campaign=lumoz-supports-op-stack-zk-fraud-proof-initiating-a-new-paradigm-in-l2-architecture)
 append_entries: 10
 Finish: 2024-04-19 21:01:06.943765
+------------------------------------------------------
+Started: 2024-04-19 21:18:31.636023
+Existing_entries: 76
+Fetching from https://en.foresightnews.pro/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Foresight Daily](https://en.foresightnews.pro/foresight-daily-290/?utm_source=rss&utm_medium=rss&utm_campaign=foresight-daily-290)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Foresight Daily](https://en.foresightnews.pro/foresight-daily-289/?utm_source=rss&utm_medium=rss&utm_campaign=foresight-daily-289)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [What sets Sei Apart?](https://en.foresightnews.pro/what-sets-sei-apart/?utm_source=rss&utm_medium=rss&utm_campaign=what-sets-sei-apart)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Blockchain & AI, Are They A Win-Win?](https://en.foresightnews.pro/blockchain-ai-are-they-a-win-win/?utm_source=rss&utm_medium=rss&utm_campaign=blockchain-ai-are-they-a-win-win)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Interview With James Bachini on Combating Phishing Attacks in Crypto](https://en.foresightnews.pro/interview-with-james-bachini-on-combating-phishing-attacks-in-crypto/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-james-bachini-on-combating-phishing-attacks-in-crypto)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Weekly Highlight: Build On Bitcoin](https://en.foresightnews.pro/weekly-highlight-build-on-bitcoin/?utm_source=rss&utm_medium=rss&utm_campaign=weekly-highlight-build-on-bitcoin)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Flashback to “AI Meets Web3” | Exclusive Insights from Participants on Dubai’s Web3 Scene](https://en.foresightnews.pro/flashback-to-ai-meets-web3-exclusive-insights-from-participants-on-dubais-web3-scene/?utm_source=rss&utm_medium=rss&utm_campaign=flashback-to-ai-meets-web3-exclusive-insights-from-participants-on-dubais-web3-scene)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Weekend Recap: Stablecoins Market Capitalization, Tether’s New Project and More](https://en.foresightnews.pro/weekend-recap-stablecoins-market-capitalization-tethers-new-project-and-more/?utm_source=rss&utm_medium=rss&utm_campaign=weekend-recap-stablecoins-market-capitalization-tethers-new-project-and-more)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitget Wallet Enhances Staking Service with EigenLayer Integration](https://en.foresightnews.pro/bitget-wallet-enhances-staking-service-with-eigenlayer-integration/?utm_source=rss&utm_medium=rss&utm_campaign=bitget-wallet-enhances-staking-service-with-eigenlayer-integration)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Lumoz supports Op Stack + ZK Fraud Proof, Initiating a New Paradigm in L2 Architecture](https://en.foresightnews.pro/lumoz-supports-op-stack-zk-fraud-proof-initiating-a-new-paradigm-in-l2-architecture/?utm_source=rss&utm_medium=rss&utm_campaign=lumoz-supports-op-stack-zk-fraud-proof-initiating-a-new-paradigm-in-l2-architecture)
+append_entries: 10
+Finish: 2024-04-19 21:19:03.160625
