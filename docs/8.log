@@ -39642,3 +39642,39 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Ethereum Price Faces Crucial Test: Will $2,850 Withstand the Pressure?](https://www.newsbtc.com/analysis/eth/ethereum-price-faces-test-2850/)
 append_entries: 10
 Finish: 2024-04-19 17:44:01.911732
+------------------------------------------------------
+Started: 2024-04-19 17:58:13.650346
+Existing_entries: 444
+Fetching from https://www.newsbtc.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ethereum Fueled Up: Will 320 Million USDT Inflow Ignite Price Surge?](https://www.newsbtc.com/news/ethereum/ethereum-fueled-up-320-million-usdt-inflow-could-ignite-price-surge/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Toncoin Price Jumps 17% As Tether Widens Payment Choices On Telegram’s TON Network](https://www.newsbtc.com/toncoin-ton/toncoin-price-jumps-17-as-tether-widens-payment-choices-on-telegrams-ton-network/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Expert Predicts A Narrative Shift Post-Bitcoin Halving](https://www.newsbtc.com/news/bitcoin/narrative-post-bitcoin-halving/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Halving Could Catalyzed $100,000 Price Surge: Bitwise CEO](https://www.newsbtc.com/news/bitcoin/bitcoin-halving-could-catalyzed-100000-price-surge-bitwise-ceo/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [The Next Dogecoin? Top Trader Points To This Memecoin](https://www.newsbtc.com/news/the-next-dogecoin-top-trader-this-memecoin/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Analyst Forecast: Litecoin Poised For $250-$300, But Can It Hold?](https://www.newsbtc.com/news/analyst-forecast-litecoin-poised-for-250-300-but-can-it-hold/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Set To Soar To $200,000 Post-Halving: Skybridge Founder](https://www.newsbtc.com/news/bitcoin/bitcoin-to-200000-post-halving-skybridge/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Toncoin Unleashes DeFi Monster Growth: TVL Soars 300% In A Month](https://www.newsbtc.com/news/toncoin-unleashes-defi-monster-growth-tvl-soars-300-in-a-month/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [BNB Price May Have Another Chance For A Bullish Streak: Here’s How](https://www.newsbtc.com/analysis/bnb/bnb-price-bullish-streak-572/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ethereum Price Faces Crucial Test: Will $2,850 Withstand the Pressure?](https://www.newsbtc.com/analysis/eth/ethereum-price-faces-test-2850/)
+append_entries: 10
+Finish: 2024-04-19 17:58:44.996706
