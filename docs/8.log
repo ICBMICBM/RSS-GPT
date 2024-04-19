@@ -40218,3 +40218,39 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [The Next Dogecoin? Top Trader Points To This Memecoin](https://www.newsbtc.com/news/the-next-dogecoin-top-trader-this-memecoin/)
 append_entries: 10
 Finish: 2024-04-19 22:15:55.727376
+------------------------------------------------------
+Started: 2024-04-19 22:29:49.248619
+Existing_entries: 444
+Fetching from https://www.newsbtc.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Halving: Anticipating Price Impact, Miner Challenges, And Long-Term Outlook](https://www.newsbtc.com/bitcoin-news/bitcoin-halving-anticipating-price-impact-miner-challenges-and-long-term-outlook/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Accumulation: You Won’t Believe How Much BTC Holders Have Bought Since The Crash](https://www.newsbtc.com/news/bitcoin/bitcoin-accumulation-btc/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin’s Next Move Revealed: Trading Guru Reveals This Cryptic Chart Pattern, Here’s What It Says](https://www.newsbtc.com/bitcoin-news/bitcoins-next-move-revealed-trading-guru-reveals-this-cryptic-chart-pattern-heres-what-it-says/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Railgun Among Crypto Market Top Gainers: Why Is RAIL 53% Up?](https://www.newsbtc.com/news/railgun-among-crypto-market-top-gainers-why-is-rail-53-up/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ripple CEO Walks Back $5 Trillion Crypto Marker Prediction, Unveils New Target](https://www.newsbtc.com/crypto/ripple-ceo-5-trillion-crypto/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ethereum Fueled Up: Will 320 Million USDT Inflow Ignite Price Surge?](https://www.newsbtc.com/news/ethereum/ethereum-fueled-up-320-million-usdt-inflow-could-ignite-price-surge/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Toncoin Price Jumps 17% As Tether Widens Payment Choices On Telegram’s TON Network](https://www.newsbtc.com/toncoin-ton/toncoin-price-jumps-17-as-tether-widens-payment-choices-on-telegrams-ton-network/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Expert Predicts A Narrative Shift Post-Bitcoin Halving](https://www.newsbtc.com/news/bitcoin/narrative-post-bitcoin-halving/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Halving Could Catalyzed $100,000 Price Surge: Bitwise CEO](https://www.newsbtc.com/news/bitcoin/bitcoin-halving-could-catalyzed-100000-price-surge-bitwise-ceo/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [The Next Dogecoin? Top Trader Points To This Memecoin](https://www.newsbtc.com/news/the-next-dogecoin-top-trader-this-memecoin/)
+append_entries: 10
+Finish: 2024-04-19 22:30:18.925799
