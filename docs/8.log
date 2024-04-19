@@ -40002,3 +40002,39 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Bitcoin Set To Soar To $200,000 Post-Halving: Skybridge Founder](https://www.newsbtc.com/news/bitcoin/bitcoin-to-200000-post-halving-skybridge/)
 append_entries: 10
 Finish: 2024-04-19 20:38:21.461225
+------------------------------------------------------
+Started: 2024-04-19 20:52:47.059787
+Existing_entries: 444
+Fetching from https://www.newsbtc.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin’s Next Move Revealed: Trading Guru Reveals This Cryptic Chart Pattern, Here’s What It Says](https://www.newsbtc.com/bitcoin-news/bitcoins-next-move-revealed-trading-guru-reveals-this-cryptic-chart-pattern-heres-what-it-says/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Railgun Among Crypto Market Top Gainers: Why Is RAIL 53% Up?](https://www.newsbtc.com/news/railgun-among-crypto-market-top-gainers-why-is-rail-53-up/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ripple CEO Walks Back $5 Trillion Crypto Marker Prediction, Unveils New Target](https://www.newsbtc.com/crypto/ripple-ceo-5-trillion-crypto/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ethereum Fueled Up: Will 320 Million USDT Inflow Ignite Price Surge?](https://www.newsbtc.com/news/ethereum/ethereum-fueled-up-320-million-usdt-inflow-could-ignite-price-surge/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Toncoin Price Jumps 17% As Tether Widens Payment Choices On Telegram’s TON Network](https://www.newsbtc.com/toncoin-ton/toncoin-price-jumps-17-as-tether-widens-payment-choices-on-telegrams-ton-network/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Expert Predicts A Narrative Shift Post-Bitcoin Halving](https://www.newsbtc.com/news/bitcoin/narrative-post-bitcoin-halving/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Halving Could Catalyzed $100,000 Price Surge: Bitwise CEO](https://www.newsbtc.com/news/bitcoin/bitcoin-halving-could-catalyzed-100000-price-surge-bitwise-ceo/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [The Next Dogecoin? Top Trader Points To This Memecoin](https://www.newsbtc.com/news/the-next-dogecoin-top-trader-this-memecoin/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Analyst Forecast: Litecoin Poised For $250-$300, But Can It Hold?](https://www.newsbtc.com/news/analyst-forecast-litecoin-poised-for-250-300-but-can-it-hold/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Set To Soar To $200,000 Post-Halving: Skybridge Founder](https://www.newsbtc.com/news/bitcoin/bitcoin-to-200000-post-halving-skybridge/)
+append_entries: 10
+Finish: 2024-04-19 20:53:26.822688
