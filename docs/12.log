@@ -37794,3 +37794,33 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Mango Markets Exploiter Avraham Eisenberg Convicted In $110M Crypto Fraud](https://bitcoinist.com/avraham-eisenberg-convicted-mango-markets/)
 append_entries: 8
 Finish: 2024-04-19 16:18:56.580521
+------------------------------------------------------
+Started: 2024-04-19 16:36:56.314467
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ripple CEO Weighs In On His $5 Trillion Crypto Market Forecast, Says It Was ‘Underpredicted’](https://bitcoinist.com/ripple-ceo-weighs-in-his-5-trillion-crypto-market/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Komodo CTO Warns That Bitcoin Is Becoming Too Centralized, Here’s Why](https://bitcoinist.com/bitcoin-becoming-too-centralized/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Shiba Inu Devs Roll Out Major Shibarium Update: Details](https://bitcoinist.com/shiba-inu-major-shibarium-update-details/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Decoded: Why Everyone’s Suddenly Googling ‘Bitcoin Halving’](https://bitcoinist.com/why-everyones-suddenly-googling-bitcoin-halving/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Rally Looms: Anthony Scaramucci Sets Long-Term Target At $200,000](https://bitcoinist.com/scaramucci-sets-bitcoin-long-term-growth-at-200000/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Cardano Enters New Era Of Decentralized Governance: Foundation CEO](https://bitcoinist.com/cardano-new-era-decentralized-governance/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [JPMorgan Throws Cold Water On Bitcoin Halving Rally: Price Drop Incoming?](https://bitcoinist.com/jpmorgan-throws-cold-water-on-bitcoin-halving-rally/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ripple’s 3-Year Growth Strategy Unveiled By CEO Garlinghouse](https://bitcoinist.com/ripple-3-year-growth-strategy-ceo-garlinghouse/)
+append_entries: 8
+Finish: 2024-04-19 16:37:21.228561
