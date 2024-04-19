@@ -39138,3 +39138,39 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Chainlink (LINK) Forms Bullish Pattern That Led To 50% Rally On Average](https://www.newsbtc.com/chainlink-news/chainlink-link-bullish-pattern-led-50-rally/)
 append_entries: 10
 Finish: 2024-04-19 13:44:06.717279
+------------------------------------------------------
+Started: 2024-04-19 13:58:08.289382
+Existing_entries: 444
+Fetching from https://www.newsbtc.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [The Next Dogecoin? Top Trader Points To This Memecoin](https://www.newsbtc.com/news/the-next-dogecoin-top-trader-this-memecoin/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Analyst Forecast: Litecoin Poised For $250-$300, But Can It Hold?](https://www.newsbtc.com/news/analyst-forecast-litecoin-poised-for-250-300-but-can-it-hold/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Set To Soar To $200,000 Post-Halving: Skybridge Founder](https://www.newsbtc.com/news/bitcoin/bitcoin-to-200000-post-halving-skybridge/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Toncoin Unleashes DeFi Monster Growth: TVL Soars 300% In A Month](https://www.newsbtc.com/news/toncoin-unleashes-defi-monster-growth-tvl-soars-300-in-a-month/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [BNB Price May Have Another Chance For A Bullish Streak: Here’s How](https://www.newsbtc.com/analysis/bnb/bnb-price-bullish-streak-572/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ethereum Price Faces Crucial Test: Will $2,850 Withstand the Pressure?](https://www.newsbtc.com/analysis/eth/ethereum-price-faces-test-2850/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Price Still At Risk of Major Downside Break Below $60K](https://www.newsbtc.com/analysis/btc/bitcoin-price-risk-60k/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Miners Always Sell Into Halvings, Is This Time Any Different?](https://www.newsbtc.com/bitcoin-news/bitcoin-miners-sell-halvings-time-different/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin: Expect The Unexpected – Analyst Sees Unconventional Bull Run Post-Halving](https://www.newsbtc.com/bitcoin-news/bitcoin-expect-the-unexpected-analyst-sees-unconventional-bull-run-post-halving/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Chainlink (LINK) Forms Bullish Pattern That Led To 50% Rally On Average](https://www.newsbtc.com/chainlink-news/chainlink-link-bullish-pattern-led-50-rally/)
+append_entries: 10
+Finish: 2024-04-19 13:58:46.307549
