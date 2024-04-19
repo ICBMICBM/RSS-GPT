@@ -36294,3 +36294,33 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Shiba Inu Team Member Says SHIB Price Is Still On Track For A Supercycle](https://bitcoinist.com/shiba-inu-shib-price-supercycle/)
 append_entries: 8
 Finish: 2024-04-19 01:46:48.875706
+------------------------------------------------------
+Started: 2024-04-19 02:22:11.710889
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Continues To Struggle: Analytics Firm Reveals What Whales Are Doing](https://bitcoinist.com/bitcoin-struggle-analytics-firm-reveals-whales/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Miners Accumulating Just Like In 2020: Is BTC Preparing For $100,000?](https://bitcoinist.com/bitcoin-miners-accumulating-btc-100000/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto-Linked Money-Laundering Scheme Worth $230M Uncovered In Hong Kong](https://bitcoinist.com/hong-kong-money-laundering-scheme-crypto-platform/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin HODLers With Zero History Of Selling Just Bought All-Time High Amount](https://bitcoinist.com/bitcoin-hodlers-selling-bought-all-time-high-amount/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Is Elon Musk Buying Dogecoin? $45 Million Whale Buy Sparks Speculation In DOGE Community](https://bitcoinist.com/elon-musk-buying-dogecoin/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Giant Binance Pays Hefty $2M Fine To Reignite India Foothold – Details](https://bitcoinist.com/crypto-giant-binance-pays-hefty-fine-reignite-india/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Analyst Predicts 33,000% Move For XRP Price – Here’s The Target](https://bitcoinist.com/33000-move-for-xrp-price/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Regulatory Victory: Binance Awarded Full Virtual Asset Service Provider License In Dubai](https://bitcoinist.com/binance-virtual-asset-provider-license-dubai/)
+append_entries: 8
+Finish: 2024-04-19 02:22:35.692062
