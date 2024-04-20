@@ -39084,3 +39084,33 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Ethereum Fees Now Lowest Since January: Is It A Bottom Signal?](https://bitcoinist.com/ethereum-fees-lowest-since-january-bottom-signal/)
 append_entries: 8
 Finish: 2024-04-20 05:33:18.496527
+------------------------------------------------------
+Started: 2024-04-20 05:48:54.926910
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [By The Numbers: How Much Profits Are Bitcoin Whales & Miners Holding?](https://bitcoinist.com/by-the-numbers-much-profits-bitcoin-whales-miners/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [One Project Man? Ripple CTO Clarifies Where His Loyalty Lays](https://bitcoinist.com/one-project-man-ripple-cto-clarifies-where-his-loyalty-lays/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [SEC Vs Justin Sun Case Update: Regulator Provides Additional Information In Lawsuit Against Tron Founder](https://bitcoinist.com/sec-vs-justin-sun-case-regulator-provides-info/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [As Bitcoin Halves, On-Chain Data Shows That Old Whales And Miners Are Big Winners](https://bitcoinist.com/bitcoin-halves-old-whales-miners-big-winners/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Binance CEO Vows Cooperation With Nigerian Authorities In $35M Money Laundering Case](https://bitcoinist.com/binance-ceo-cooperation-with-nigerian-authorities/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Shiba Inu Headed Toward Critical Support Threshold With 2 Trillion SHIB Buys](https://bitcoinist.com/shiba-inu-2-trillion-shib-buys/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Dogecoin Sees Bullish Spike In Volume Despite Fierce Competition From Shiba Inu And Other Meme Coins](https://bitcoinist.com/dogecoin-shiba-inu-meme-coins/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ethereum Fees Now Lowest Since January: Is It A Bottom Signal?](https://bitcoinist.com/ethereum-fees-lowest-since-january-bottom-signal/)
+append_entries: 8
+Finish: 2024-04-20 05:49:18.683288
