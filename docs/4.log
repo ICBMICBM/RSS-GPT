@@ -28602,3 +28602,15 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Everything (Including Blockchain) is Bigger in Texas: Podcast Ep. 103](https://www.chainalysis.com/blog/blockchain-in-texas-ep-103/)
 append_entries: 2
 Finish: 2024-04-20 22:29:48.039520
+------------------------------------------------------
+Started: 2024-04-20 22:45:01.132276
+Existing_entries: 28
+Fetching from https://blog.chainalysis.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [London’s Metropolitan Police Lead Disruption of Phishing-as-a-Service Provider LabHost](https://www.chainalysis.com/blog/labhost-disruption-phishing-as-a-service/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Everything (Including Blockchain) is Bigger in Texas: Podcast Ep. 103](https://www.chainalysis.com/blog/blockchain-in-texas-ep-103/)
+append_entries: 2
+Finish: 2024-04-20 22:45:13.100643
