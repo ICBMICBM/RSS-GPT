@@ -40284,3 +40284,33 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [SEC Vs Justin Sun Case Update: Regulator Provides Additional Information In Lawsuit Against Tron Founder](https://bitcoinist.com/sec-vs-justin-sun-case-regulator-provides-info/)
 append_entries: 8
 Finish: 2024-04-20 16:28:37.900315
+------------------------------------------------------
+Started: 2024-04-20 16:47:31.168367
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Chainlink Co-Founder Says More Crypto ETFs To Come – Ethereum And Dogecoin Next?](https://bitcoinist.com/chainlink-co-founder-says-more-crypto-etfs-to-come-ethereum-and-dogecoin-next/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bullish Cardano Metric Signals Upcoming 75% Rally Toward $1](https://bitcoinist.com/bullish-cardano-metric-signals-upcoming-75-rally-toward-1/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Get Ready! Bitcoin To Have A $10 Million Price Tag, According To This Billionaire](https://bitcoinist.com/bitcoin-to-hit-10-million-billionaire/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [IRS Reveals Preliminary Tax Reporting Form For Digital Assets](https://bitcoinist.com/irs-reveals-preliminary-tax-form-for-digital-assets/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [BREAKING: Bitcoin Halving 2024 Is Complete! Here’s What To Expect](https://bitcoinist.com/breaking-bitcoin-halving-2024-complete-what-expect/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [By The Numbers: How Much Profits Are Bitcoin Whales & Miners Holding?](https://bitcoinist.com/by-the-numbers-much-profits-bitcoin-whales-miners/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [One Project Man? Ripple CTO Clarifies Where His Loyalty Lays](https://bitcoinist.com/one-project-man-ripple-cto-clarifies-where-his-loyalty-lays/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [SEC Vs Justin Sun Case Update: Regulator Provides Additional Information In Lawsuit Against Tron Founder](https://bitcoinist.com/sec-vs-justin-sun-case-regulator-provides-info/)
+append_entries: 8
+Finish: 2024-04-20 16:48:03.530255
