@@ -38604,3 +38604,33 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Decoded: Why Everyone’s Suddenly Googling ‘Bitcoin Halving’](https://bitcoinist.com/why-everyones-suddenly-googling-bitcoin-halving/)
 append_entries: 8
 Finish: 2024-04-19 23:48:46.771955
+------------------------------------------------------
+Started: 2024-04-20 00:02:54.665620
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Shiba Inu Headed Toward Critical Support Threshold With 2 Trillion SHIB Buys](https://bitcoinist.com/shiba-inu-2-trillion-shib-buys/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Dogecoin Sees Bullish Spike In Volume Despite Fierce Competition From Shiba Inu And Other Meme Coins](https://bitcoinist.com/dogecoin-shiba-inu-meme-coins/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ethereum Fees Now Lowest Since January: Is It A Bottom Signal?](https://bitcoinist.com/ethereum-fees-lowest-since-january-bottom-signal/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Halving Hype Debunked: Binance Founder Says Don’t Fall For This Bitcoin Myth](https://bitcoinist.com/halving-hype-debunked-binance-founder-says-dont-fall-for-this-bitcoin-myth/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Cardano Drops Below Dogecoin On Crypto Top 10 List, Will It Lose 10th Spot To Shiba Inu?](https://bitcoinist.com/cardano-dogecoin-shiba-inu/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ripple CEO Weighs In On His $5 Trillion Crypto Market Forecast, Says It Was ‘Underpredicted’](https://bitcoinist.com/ripple-ceo-weighs-in-his-5-trillion-crypto-market/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Komodo CTO Warns That Bitcoin Is Becoming Too Centralized, Here’s Why](https://bitcoinist.com/bitcoin-becoming-too-centralized/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Shiba Inu Devs Roll Out Major Shibarium Update: Details](https://bitcoinist.com/shiba-inu-major-shibarium-update-details/)
+append_entries: 8
+Finish: 2024-04-20 00:03:18.195848
