@@ -44538,3 +44538,39 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Analyst Reveals Bitcoin’s Bull Market Breakthrough: Here’s What You Need To Know](https://www.newsbtc.com/news/bitcoin/analyst-reveals-bitcoin-bull-market-breakthrough-heres-what-you-need-to-know/)
 append_entries: 10
 Finish: 2024-04-21 09:54:58.906521
+------------------------------------------------------
+Started: 2024-04-21 10:14:44.244483
+Existing_entries: 444
+Fetching from https://www.newsbtc.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Analyst Sounds Buy Alarm For Dogecoin – Can DOGE Price Reclaim $0.2?](https://www.newsbtc.com/news/dogecoin/crypto-analyst-sounds-buy-alarm-for-dogecoin-can-doge-price-reclaim-0-2/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Battle For The Halving Block: Bitcoin Users Spend Record $2.4 Million On Block 840,000](https://www.newsbtc.com/news/bitcoin/halving-block-bitcoin-840000/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Shiba Inu (SHIB) Price Jumps On Growing Support From 1.4 Million Holders](https://www.newsbtc.com/shiba-inu/shiba-inu-shib-price-jumps-on-growing-support-from-1-4-million-holders/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Fourth Bitcoin Halving Completed – Here Are The Implications](https://www.newsbtc.com/news/bitcoin/fourth-bitcoin-halving-completed/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [BNB Resilience: Holding Firm At $560 – What’s Next?](https://www.newsbtc.com/analysis/bnb/bnb-resilience-holding-firm-at-560-whats-next/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Buckle Up, Injective (INJ) Primed For Takeoff Towards $50 — Analyst](https://www.newsbtc.com/news/buckle-up-injective-inj-primed-for-takeoff-towards-50-analyst/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Uniswap Resurgence Incoming? Analyst Predicts 30% Surge For UNI Price](https://www.newsbtc.com/analysis/uni/uniswap-resurgence-incoming-analyst-predicts-30-surge-for-uni-price/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Analyst Predicts Cardano (ADA) To Rally By 75% As MVRV Ratio Plummets](https://www.newsbtc.com/news/cardano/analyst-predicts-cardano-ada-to-rally-by-75-as-mvrv-ratio-plummets/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Polkadot Unveils Major Upgrade Plan: Relay Chain Replacement And 10M DOT Prize Incentive](https://www.newsbtc.com/analysis/dot/polkadot-unveils-major-upgrade-plan-relay-chain-replacement-and-10m-dot-prize-incentive/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Analyst Reveals Bitcoin’s Bull Market Breakthrough: Here’s What You Need To Know](https://www.newsbtc.com/news/bitcoin/analyst-reveals-bitcoin-bull-market-breakthrough-heres-what-you-need-to-know/)
+append_entries: 10
+Finish: 2024-04-21 10:15:14.421984
