@@ -30619,3 +30619,18 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Klickl 荣获阿布扎比全球市场金融服务许可，开启传统金融与 Web3.0 无缝链接新纪元](https://techflowpost.mirror.xyz/_moPCEKeUHr8R0rpLSeRrBciDfxGO0JX42Uwd50NSN8)
 append_entries: 3
 Finish: 2024-04-21 12:54:53.500753
+------------------------------------------------------
+Started: 2024-04-21 13:21:06.100933
+Existing_entries: 111
+Fetching from https://techflowpost.mirror.xyz/feed/atom
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [HTX 新生，孙宇晨首次向交易所引入治理体系](https://techflowpost.mirror.xyz/zUEgQ0dfRuwi2Bu9SAd9nb9ILyt-xZfpvbgtLJDjkKE)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Web3 通信基建 SendingNetwork：参与测试网领积分，节点预售即将开启](https://techflowpost.mirror.xyz/TKaTze9U6Tq0FhrTgKKiV_49mboJfrP5wjr2J7HamuE)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Klickl 荣获阿布扎比全球市场金融服务许可，开启传统金融与 Web3.0 无缝链接新纪元](https://techflowpost.mirror.xyz/_moPCEKeUHr8R0rpLSeRrBciDfxGO0JX42Uwd50NSN8)
+append_entries: 3
+Finish: 2024-04-21 13:21:15.686037
