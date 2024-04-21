@@ -33930,3 +33930,24 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [“JP Morgan is the IBM of Banking,” Ethereum Introduced at the Superbowl of Investing](https://www.trustnodes.com/2024/04/15/jp-morgan-is-the-ibm-of-banking-ethereum-introduced-at-the-superbowl-of-investing)
 append_entries: 5
 Finish: 2024-04-21 20:46:42.421092
+------------------------------------------------------
+Started: 2024-04-21 21:01:41.969419
+Existing_entries: 36
+Fetching from https://www.trustnodes.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Binance Swaps $1 Billion Bitcoin For USDc](https://www.trustnodes.com/2024/04/18/binance-swaps-1-billion-bitcoin-for-usdc)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Brazil’s Banking Giant Now Holds Bitcoin](https://www.trustnodes.com/2024/04/18/brazils-banking-giant-now-holds-bitcoin)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin’s Geopolitical Anomaly](https://www.trustnodes.com/2024/04/17/bitcoins-geopolitical-anomaly)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Laggard Japan Publishes Web3 Paper](https://www.trustnodes.com/2024/04/15/laggard-japan-publishes-web3-paper)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [“JP Morgan is the IBM of Banking,” Ethereum Introduced at the Superbowl of Investing](https://www.trustnodes.com/2024/04/15/jp-morgan-is-the-ibm-of-banking-ethereum-introduced-at-the-superbowl-of-investing)
+append_entries: 5
+Finish: 2024-04-21 21:02:05.974467
