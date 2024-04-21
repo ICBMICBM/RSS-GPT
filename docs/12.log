@@ -42714,3 +42714,33 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Bitcoin Halving Stimulates Dialogue: Bullish Optimism Vs. Skeptical Caution](https://bitcoinist.com/bitcoin-halving-stimulates-dialogue/)
 append_entries: 8
 Finish: 2024-04-21 16:52:40.835956
+------------------------------------------------------
+Started: 2024-04-21 17:07:00.899381
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Pundit Says Bitcoin Halving Is A ‘Buy The News’ Event](https://bitcoinist.com/crypto-pundit-says-bitcoin-halving-is-a-buy-the-news-event/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Wealth Whisperers Go Crypto: Bitcoin ETFs Set For Big Boost From Unexpected Source](https://bitcoinist.com/bitcoin-etfs-set-for-big-boost-ceo-says/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Nigerian Court Adjourns Binance Tax Evasion Trial To May 17](https://bitcoinist.com/nigerian-court-adjourns-binance-tax-trial-to-may-17/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Grayscale Proposes 0.15% Fee For Its Bitcoin Mini Trust Fund: Details](https://bitcoinist.com/grayscale-proposes-fee-for-its-bitcoin-mini-trust/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Coin Center Opposes ‘Unconstitutional’ Stablecoin Bill – Details](https://bitcoinist.com/coin-center-opposes-unconsititutional-stablecoin/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Analyst Predicts Further Upside For Shiba Inu, Here’s The Target](https://bitcoinist.com/crypto-analyst-upside-shiba-inu/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Rebounds After Dropping To $59,000 Level — Path To New Peak?](https://bitcoinist.com/bitcoin-rebounds-strongly-after-59579-rejection/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Halving Stimulates Dialogue: Bullish Optimism Vs. Skeptical Caution](https://bitcoinist.com/bitcoin-halving-stimulates-dialogue/)
+append_entries: 8
+Finish: 2024-04-21 17:07:26.874454
