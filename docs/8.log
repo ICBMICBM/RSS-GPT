@@ -48210,3 +48210,39 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Will Celestia (TIA) Hit $130? Analyst Makes Bold Prediction](https://www.newsbtc.com/news/will-celestia-tia-hit-130-analyst-makes-bold-prediction/)
 append_entries: 10
 Finish: 2024-04-22 15:15:21.583890
+------------------------------------------------------
+Started: 2024-04-22 15:27:11.805350
+Existing_entries: 444
+Fetching from https://www.newsbtc.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ethereum Spot ETFs Approval Skepticism Persists, As ETH Recovers](https://www.newsbtc.com/news/ethereum/ethereum-spot-etfs-approval-skepticism-persists-as-eth-recovers/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Is The Bitcoin Bloodbath Over? Analysts Say $60,000 Is The Cycle’s Bottom](https://www.newsbtc.com/news/is-the-bitcoin-bloodbath-over-analysts-say-60000-is-the-cycles-bottom/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Brazil Wants BTC: 7,400 Bitcoin Futures Contracts Created On First Day Of Trading](https://www.newsbtc.com/news/bitcoin/brazil-btc-7400-bitcoin-futures/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Analyst Outlines XRP Price Scenarios Ahead Of Ripple-SEC Case Update](https://www.newsbtc.com/xrp-news/xrp-price-scenarios-ahead-of-ripple-sec-case-update/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Miners Strike Gold: $107 Million Profit From Runes-Fueled Minting Spree](https://www.newsbtc.com/news/bitcoin-miners-strike-gold-107-million-profit-from-runes-fueled-minting-spree/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Shiba Inu Team Fixes Shibarium Outage As SHIB Readies For Potential Surge](https://www.newsbtc.com/shiba-inu/shiba-inu-team-fixes-shibarium-outage-shib-surge/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [DOGE Price Prediction – Dogecoin Recovery Could Stall At $0.170](https://www.newsbtc.com/analysis/doge/dogecoin-recovery-stall-0-170/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ethereum Price Hints At Potential Fresh Rally, Buy The Dip?](https://www.newsbtc.com/analysis/eth/ethereum-price-buy-dip-3150/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Price Approaches Breakout, Can BTC Pump Above $66K?](https://www.newsbtc.com/analysis/btc/bitcoin-price-pump-66k/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Will Celestia (TIA) Hit $130? Analyst Makes Bold Prediction](https://www.newsbtc.com/news/will-celestia-tia-hit-130-analyst-makes-bold-prediction/)
+append_entries: 10
+Finish: 2024-04-22 15:27:42.093600
