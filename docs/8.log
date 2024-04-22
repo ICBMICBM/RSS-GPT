@@ -48786,3 +48786,39 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Shiba Inu Team Fixes Shibarium Outage As SHIB Readies For Potential Surge](https://www.newsbtc.com/shiba-inu/shiba-inu-team-fixes-shibarium-outage-shib-surge/)
 append_entries: 10
 Finish: 2024-04-22 19:22:29.892785
+------------------------------------------------------
+Started: 2024-04-22 19:37:20.575077
+Existing_entries: 444
+Fetching from https://www.newsbtc.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Shiba Inu Whales Move Over 3.19 Trillion SHIB, Where Are They Headed?](https://www.newsbtc.com/shiba-inu/shiba-inu-whales-3-19-trillion-shib/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Market Expert Predicts New Paradigm For Bitcoin: ‘Days Under $100,000 Numbered’](https://www.newsbtc.com/bitcoin-news/market-expert-predicts-new-paradigm-for-bitcoin-days-under-100000-numbered/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Dogecoin To $1: Analyst Thinks Dream Milestone Could Be Hit In Coming Weeks](https://www.newsbtc.com/news/dogecoin/dogecoin-break-1-weeks-analyst-why/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [3 Major Metrics To Watch Out For That Can Impact Ethereum Prices](https://www.newsbtc.com/news/ethereum/3-major-metrics-ethereum-prices/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ethereum Spot ETFs Approval Skepticism Persists, As ETH Recovers](https://www.newsbtc.com/news/ethereum/ethereum-spot-etfs-approval-skepticism-persists-as-eth-recovers/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Is The Bitcoin Bloodbath Over? Analysts Say $60,000 Is The Cycle’s Bottom](https://www.newsbtc.com/news/is-the-bitcoin-bloodbath-over-analysts-say-60000-is-the-cycles-bottom/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Brazil Wants BTC: 7,400 Bitcoin Futures Contracts Created On First Day Of Trading](https://www.newsbtc.com/news/bitcoin/brazil-btc-7400-bitcoin-futures/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Analyst Outlines XRP Price Scenarios Ahead Of Ripple-SEC Case Update](https://www.newsbtc.com/xrp-news/xrp-price-scenarios-ahead-of-ripple-sec-case-update/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Miners Strike Gold: $107 Million Profit From Runes-Fueled Minting Spree](https://www.newsbtc.com/news/bitcoin-miners-strike-gold-107-million-profit-from-runes-fueled-minting-spree/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Shiba Inu Team Fixes Shibarium Outage As SHIB Readies For Potential Surge](https://www.newsbtc.com/shiba-inu/shiba-inu-team-fixes-shibarium-outage-shib-surge/)
+append_entries: 10
+Finish: 2024-04-22 19:38:02.642371
