@@ -47238,3 +47238,39 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Halving Hype Lifts Litecoin: Analyst Sees 400% Price Increase Coming](https://www.newsbtc.com/news/halving-hype-lifts-litecoin-analyst-sees-400-price-increase-coming/)
 append_entries: 10
 Finish: 2024-04-22 07:49:58.335320
+------------------------------------------------------
+Started: 2024-04-22 08:04:22.263532
+Existing_entries: 444
+Fetching from https://www.newsbtc.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Shiba Inu Team Fixes Shibarium Outage As SHIB Readies For Potential Surge](https://www.newsbtc.com/shiba-inu/shiba-inu-team-fixes-shibarium-outage-shib-surge/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [DOGE Price Prediction – Dogecoin Recovery Could Stall At $0.170](https://www.newsbtc.com/analysis/doge/dogecoin-recovery-stall-0-170/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ethereum Price Hints At Potential Fresh Rally, Buy The Dip?](https://www.newsbtc.com/analysis/eth/ethereum-price-buy-dip-3150/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Price Approaches Breakout, Can BTC Pump Above $66K?](https://www.newsbtc.com/analysis/btc/bitcoin-price-pump-66k/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Will Celestia (TIA) Hit $130? Analyst Makes Bold Prediction](https://www.newsbtc.com/news/will-celestia-tia-hit-130-analyst-makes-bold-prediction/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ethereum Enters Accumulation Phase As $500 Million ETH Leave Exchanges](https://www.newsbtc.com/news/ethereum/ethereum-enters-accumulation-phase-as-500-million-eth-leaves-exchanges/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Were Bitcoin Miners Behind The BTC Price Crash Below $60,000?](https://www.newsbtc.com/news/bitcoin/were-bitcoin-miners-behind-the-btc-price-crash-below-60000/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Tipped To Attain Six-Figure Value Following Fourth Halving – Details](https://www.newsbtc.com/news/bitcoin/bitcoin-tipped-to-attain-six-figure-value-following-fourth-halving-details/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Analyst Sounds Buy Alarm For Dogecoin – Can DOGE Price Reclaim $0.2?](https://www.newsbtc.com/news/dogecoin/crypto-analyst-sounds-buy-alarm-for-dogecoin-can-doge-price-reclaim-0-2/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Halving Hype Lifts Litecoin: Analyst Sees 400% Price Increase Coming](https://www.newsbtc.com/news/halving-hype-lifts-litecoin-analyst-sees-400-price-increase-coming/)
+append_entries: 10
+Finish: 2024-04-22 08:05:00.381585
