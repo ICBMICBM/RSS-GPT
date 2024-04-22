@@ -37765,3 +37765,24 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Grayscale plans industry-low 0.15% fee for Bitcoin Mini Trust spinoff fund, under ticker BTC](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9ebb48fd133e9a8f21b0f13b218a094fcf318b2bfc9b4c2f51c87f872a9c9e157b8eb678e3a0ae26e7edc32baa3ea42806963740015d41f0faa6d03a4ddbc7a5b697df898e1b4188188a957f6b8c2b3b27919f40cd840feac2763ca28a3485)
 append_entries: 5
 Finish: 2024-04-22 17:44:26.494853
+------------------------------------------------------
+Started: 2024-04-22 17:59:18.305079
+Existing_entries: 115
+Fetching from https://rss.app/feeds/wUQN1BEONEifvDV7.xml
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin miner Hut 8 receives 'buy' rating and new price target from Benchmark](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e97b34df7133b819a3bacfb3460824d51c622c830a4860f7309c96e9636d8841f7f8ee420abb8f121f6e1802ae82de72e428c315845431ef4f0ad946358dbd5b3b697ca8b8818038c1bc9906268897425)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto investment products see $206 million in weekly outflows: CoinShares](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e97b34efc133a9a9728b7fd772b9a4a5bd07d963db4df107b1296669c3fdd9b15628ef326b6b8f425e7e38234e823fc3e098e3b581b1e05f3e5adca6356dbc1fba4c8c98dca1c409a1bd5967971c5742f3d90891f839f0fe7da7b2ffd8d33)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin's post-halving recovery boosted by tempering geopolitical tensions, analyst says](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e97b248fc133b819a3bacfb3460874553d5398b3ffc8047284bcd6e872a9c951f63d3e939bbe1ea23e3e4c339a022fa23008c27)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [The Pulse: The Bitcoin halving has taken place. Now it gets interesting](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9ebb48fc132d808b75b3e7363e8a094bcb35c83ab88641244dd5269d32dd841362c4ab3db3e6ae34e3e38b23e83ce52b0c877941074441f4e7e5de724dda9fbfaccec98b82065a8710c0)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Grayscale plans industry-low 0.15% fee for Bitcoin Mini Trust spinoff fund, under ticker BTC](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43f9ebb48fd133e9a8f21b0f13b218a094fcf318b2bfc9b4c2f51c87f872a9c9e157b8eb678e3a0ae26e7edc32baa3ea42806963740015d41f0faa6d03a4ddbc7a5b697df898e1b4188188a957f6b8c2b3b27919f40cd840feac2763ca28a3485)
+append_entries: 5
+Finish: 2024-04-22 17:59:34.969790
