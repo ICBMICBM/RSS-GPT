@@ -44784,3 +44784,33 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Wealth Whisperers Go Crypto: Bitcoin ETFs Set For Big Boost From Unexpected Source](https://bitcoinist.com/bitcoin-etfs-set-for-big-boost-ceo-says/)
 append_entries: 8
 Finish: 2024-04-22 12:32:59.469752
+------------------------------------------------------
+Started: 2024-04-22 12:54:14.246988
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [ZKasino Fiasco: Crypto Betting Site Disappears With Investor Funds](https://bitcoinist.com/crypto-betting-site-disappears-with-investor-funds/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Next Batch Of Locked Solana Tokens To Be Sold By FTX Estate](https://bitcoinist.com/next-batch-locked-solana-to-be-sold-by-ftx/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Shiba Inu Shibarium Faces Technical Glitch: Network Outage Hinders User Experience](https://bitcoinist.com/shiba-inu-shibarium-faces-technical-glitch/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Sam Bankman-Fried Turns Rat, Cooperates In Lawsuit Vs. FTX Celebrity Backers](https://bitcoinist.com/sam-bankman-fried-turns-rat-cooperates-in-lawsuit-vs-ftx-celebrity-backers/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Swiss Referendum To Oblige Bitcoin Holdings For Central Bank](https://bitcoinist.com/swiss-referendum-bitcoin-central-bank/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Industry Faces New Threat: Section 702 US Surveillance Bill Passed](https://bitcoinist.com/crypto-industry-faces-new-threat-section-702-us-surveillance-bill-passed/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Pundit Says Bitcoin Halving Is A ‘Buy The News’ Event](https://bitcoinist.com/crypto-pundit-says-bitcoin-halving-is-a-buy-the-news-event/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Wealth Whisperers Go Crypto: Bitcoin ETFs Set For Big Boost From Unexpected Source](https://bitcoinist.com/bitcoin-etfs-set-for-big-boost-ceo-says/)
+append_entries: 8
+Finish: 2024-04-22 12:54:38.656201
