@@ -45414,3 +45414,33 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Shiba Inu Shibarium Faces Technical Glitch: Network Outage Hinders User Experience](https://bitcoinist.com/shiba-inu-shibarium-faces-technical-glitch/)
 append_entries: 8
 Finish: 2024-04-22 18:04:30.520618
+------------------------------------------------------
+Started: 2024-04-22 18:18:38.472847
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Is Peter Schiff Clueless About Bitcoin? BitMEX Spars Over Fee Spike](https://bitcoinist.com/is-peter-schiff-clueless-about-bitcoin-bitmex-spars-over-fee-spike/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Polygon Is Not Dead: Analyst Predicts 7,800% Breakout To $55 For MATIC](https://bitcoinist.com/polygon-7800-breakout-55-matic/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Miner Revenue From Fees Explodes: What’s Driving This?](https://bitcoinist.com/bitcoin-miner-revenue-fees-explodes-driving-this/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Shiba Inu Team Raises $12 Million Via TREAT To Bolster The Ecosystem](https://bitcoinist.com/shiba-inu-12-million-develop-layer-3/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [LUNC Revival Efforts Continue: Terra Community Set To Pass Important Proposal](https://bitcoinist.com/lunc-revival-terra-community/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [ZKasino Fiasco: Crypto Betting Site Disappears With Investor Funds](https://bitcoinist.com/crypto-betting-site-disappears-with-investor-funds/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Next Batch Of Locked Solana Tokens To Be Sold By FTX Estate](https://bitcoinist.com/next-batch-locked-solana-to-be-sold-by-ftx/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Shiba Inu Shibarium Faces Technical Glitch: Network Outage Hinders User Experience](https://bitcoinist.com/shiba-inu-shibarium-faces-technical-glitch/)
+append_entries: 8
+Finish: 2024-04-22 18:19:00.068783
