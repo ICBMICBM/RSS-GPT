@@ -47664,3 +47664,33 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Aftermath of Bitcoin Halving: QCP Capital Outlines Strategies for Investors](https://bitcoinist.com/qcp-capital-on-aftermath-of-bitcoin-halving/)
 append_entries: 8
 Finish: 2024-04-23 19:34:54.866626
+------------------------------------------------------
+Started: 2024-04-23 19:52:12.702026
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Analyst: At Least 3 Meme Coins Will Have A Market Cap Of Over $100 Billion In This Bull Cycle](https://bitcoinist.com/3-meme-coins-market-cap-100-billion-bull-cycle/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Analyst Predicts Further Upside For BTC Price, Reveals Cycle Top](https://bitcoinist.com/bitcoin-analyst-upside-btc-price/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [XRP Sees Big Money Accumulation: Rally Incoming?](https://bitcoinist.com/xrp-sees-big-money-accumulation-rally-incoming/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Shiba Inu’s Secret Weapon: Why TREAT Carries A Critical Role](https://bitcoinist.com/shiba-inu-secret-weapon-treat/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Is This The Bitcoin Tidal Wave? BlackRock ETF IBIT Leads Inflow Charge](https://bitcoinist.com/bitcoin-tidal-wave-blackrock-etf-leads-inflows/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Expert Confirms Rotation Has Begun Post-Bitcoin Halving, Are Investors Moving Away From BTC?](https://bitcoinist.com/bitcoin-halving-investors-btc/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Middle East Goes Crypto: 500,000 Daily Traders Fuel Market Boom](https://bitcoinist.com/mideast-goes-crypto-500k-traders-boost-market/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Aftermath of Bitcoin Halving: QCP Capital Outlines Strategies for Investors](https://bitcoinist.com/qcp-capital-on-aftermath-of-bitcoin-halving/)
+append_entries: 8
+Finish: 2024-04-23 19:52:47.909437
