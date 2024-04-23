@@ -49434,3 +49434,39 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Brazil Wants BTC: 7,400 Bitcoin Futures Contracts Created On First Day Of Trading](https://www.newsbtc.com/news/bitcoin/brazil-btc-7400-bitcoin-futures/)
 append_entries: 10
 Finish: 2024-04-23 00:45:03.315178
+------------------------------------------------------
+Started: 2024-04-23 01:42:24.892102
+Existing_entries: 444
+Fetching from https://www.newsbtc.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Guru Reveals Top Altcoin Picks And DeFi Risks: What You Need To Know](https://www.newsbtc.com/altcoin/crypto-guru-reveals-top-altcoin-picks-and-defi/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ethereum To See Fresh Move Soon? What Futures Data Says](https://www.newsbtc.com/news/ethereum/ethereum-fresh-move-soon-futures-data-says/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ethereum Whale Goes On 127,000 ETH Buying Spree, Was It Justin Sun Again?](https://www.newsbtc.com/news/ethereum/ethereum-whale-goes-on-127000-eth-buying-spree-was-it-justin-sun-again/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Analyst Predicts Cardano Recovery After ABC Wave Completion, Here’s The Target](https://www.newsbtc.com/news/cardano/cardano-abc-wave-completion/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Shiba Inu Whales Move Over 3.19 Trillion SHIB, Where Are They Headed?](https://www.newsbtc.com/shiba-inu/shiba-inu-whales-3-19-trillion-shib/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Market Expert Predicts New Paradigm For Bitcoin: ‘Days Under $100,000 Numbered’](https://www.newsbtc.com/bitcoin-news/market-expert-predicts-new-paradigm-for-bitcoin-days-under-100000-numbered/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Dogecoin To $1: Analyst Thinks Dream Milestone Could Be Hit In Coming Weeks](https://www.newsbtc.com/news/dogecoin/dogecoin-break-1-weeks-analyst-why/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [3 Major Metrics To Watch Out For That Can Impact Ethereum Prices](https://www.newsbtc.com/news/ethereum/3-major-metrics-ethereum-prices/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ethereum Spot ETFs Approval Skepticism Persists, As ETH Recovers](https://www.newsbtc.com/news/ethereum/ethereum-spot-etfs-approval-skepticism-persists-as-eth-recovers/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Is The Bitcoin Bloodbath Over? Analysts Say $60,000 Is The Cycle’s Bottom](https://www.newsbtc.com/news/is-the-bitcoin-bloodbath-over-analysts-say-60000-is-the-cycles-bottom/)
+append_entries: 10
+Finish: 2024-04-23 01:42:56.507392
