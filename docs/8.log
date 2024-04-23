@@ -50442,3 +50442,39 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Ethereum To See Fresh Move Soon? What Futures Data Says](https://www.newsbtc.com/news/ethereum/ethereum-fresh-move-soon-futures-data-says/)
 append_entries: 10
 Finish: 2024-04-23 10:46:53.851488
+------------------------------------------------------
+Started: 2024-04-23 11:13:06.532749
+Existing_entries: 444
+Fetching from https://www.newsbtc.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ripple Vs. SEC Update: Is The Lawsuit Finally Coming To An End With A Settlement?](https://www.newsbtc.com/ripple-2/ripple-vs-sec-update-lawsuit/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Solana Meme Coin Massacre: 12 Projects Gone In 30 Days, $27 Million Vanished](https://www.newsbtc.com/news/solana/solana-meme-coin-massacre-12-projects-gone-in-30-days-27-million-vanished/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Standard Chartered Reaffirms $150,000 Bitcoin Price Target By Year-End](https://www.newsbtc.com/news/bitcoin/standard-chartered-150000-bitcoin-price-target-year-end/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [BNB Price Reclaims $600 and Bulls Could Now Aim For New 2024 High](https://www.newsbtc.com/analysis/bnb/bnb-price-reclaims-600/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ethereum Price Signals Reversal and $3,400 Is Imminent, Here’s Why](https://www.newsbtc.com/analysis/eth/ethereum-price-reversal-3400/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Conservative Projection Places Bitcoin At $245,000 In 5 Years](https://www.newsbtc.com/bitcoin-news/conservative-projection-places-bitcoin-at-245000-in-5-years/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Price Extends Increase, Why Dips Turned Attractive In Short-Term](https://www.newsbtc.com/analysis/btc/bitcoin-price-extends-increase-67k/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [‘More Upside Is Coming’: Crypto Market Set For 350% Growth, Predicts Glassnode Cofounders](https://www.newsbtc.com/news/crypto-market-set-for-growth-predicts-glassnode-cofounders/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Expert Forecasts 700% Growth For Dogecoin (DOGE) As It Sets Sights On $1 Target](https://www.newsbtc.com/news/dogecoin/expert-forecasts-700-growth-for-dogecoin-doge-as-it-sets-sights-on-1-target/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Guru Reveals Top Altcoin Picks And DeFi Risks: What You Need To Know](https://www.newsbtc.com/altcoin/crypto-guru-reveals-top-altcoin-picks-and-defi/)
+append_entries: 10
+Finish: 2024-04-23 11:13:37.086746
