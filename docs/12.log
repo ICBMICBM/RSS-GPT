@@ -47154,3 +47154,33 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Bitcoin Versus Gold: Analyst Says The Yellow Metal Is A “Slow-Moving Rug Pull”](https://bitcoinist.com/bitcoin-gold-yellow-metal-slow-moving-rug-pull/)
 append_entries: 8
 Finish: 2024-04-23 13:42:11.328957
+------------------------------------------------------
+Started: 2024-04-23 14:03:48.503285
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Expert Confirms Rotation Has Begun Post-Bitcoin Halving, Are Investors Moving Away From BTC?](https://bitcoinist.com/bitcoin-halving-investors-btc/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Middle East Goes Crypto: 500,000 Daily Traders Fuel Market Boom](https://bitcoinist.com/mideast-goes-crypto-500k-traders-boost-market/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Aftermath of Bitcoin Halving: QCP Capital Outlines Strategies for Investors](https://bitcoinist.com/qcp-capital-on-aftermath-of-bitcoin-halving/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Cardano Founder Celebrates Next Step To Reach ‘Global Scale’](https://bitcoinist.com/cardano-founder-next-step-global-scale/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Platform Case: SEC Prosecutors Axed Or Forced To Quit After ‘Gross Abuse Of Power’](https://bitcoinist.com/crypto-platform-case-sec-prosecutors-axed/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ripple Responds To SEC Remedies With A $10 Million Power Move](https://bitcoinist.com/ripple-responds-to-sec-remedies/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [‘Buy Bitcoin’ Note From Janet Yellen Testimony Nears $140,000 In Auction](https://bitcoinist.com/buy-bitcoin-note-nears-140000-in-auction/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Halved Revenue? Bitcoin Miners Don’t Care As Hashrate Sets New ATH](https://bitcoinist.com/halved-revenue-bitcoin-miners-care-hashrate-new-ath/)
+append_entries: 8
+Finish: 2024-04-23 14:04:11.624725
