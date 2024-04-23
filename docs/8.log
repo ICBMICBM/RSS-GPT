@@ -51450,3 +51450,39 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Ripple Vs. SEC Update: Is The Lawsuit Finally Coming To An End With A Settlement?](https://www.newsbtc.com/ripple-2/ripple-vs-sec-update-lawsuit/)
 append_entries: 10
 Finish: 2024-04-23 20:52:41.641071
+------------------------------------------------------
+Started: 2024-04-23 21:11:09.426402
+Existing_entries: 444
+Fetching from https://www.newsbtc.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [XRP Surges 12% As Bulls Take Charge, Expert Raises Target To $1.4](https://www.newsbtc.com/xrp-news/xrp-surges-12-as-bulls-take-charge-expert-raises-target-to-1-4/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Analyst Says XRP Price Will Reach $100, But This Needs To Happen First](https://www.newsbtc.com/analysis/xrp/xrp-price-will-reach-100/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [This Metric Printed In 2017 Before Bitcoin Exploded: Is A Mega Run Incoming?](https://www.newsbtc.com/bitcoin-news/this-metric-printed-in-2017-before-bitcoin-exploded-is-a-mega-run-incoming/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Is The Bitcoin Top Already Here? This Historical Pattern Says So](https://www.newsbtc.com/bitcoin-news/bitcoin-top-already-historical-pattern-so/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [XRP Wallets Holding At Least 1 Million Coins Nears All-Time High As Sentiment Improves](https://www.newsbtc.com/analysis/xrp/xrp-wallets-1-million-coins/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [The Cardano $1 Dream: Is A Price Explosion Coming Or Just Deja Vu?](https://www.newsbtc.com/news/the-cardano-1-dream-is-a-price-explosion-coming-or-just-deja-vu/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Market Dynamics Still Positive Post-Halving – Bitfinex Analysis](https://www.newsbtc.com/news/bitcoin/bitcoin-market-dynamics-still-positive-post-halving-bitfinex-analysis/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ethereum Resurgence: TRON Founder Justin Sun Goes On 127,388 ETH Buying Spree](https://www.newsbtc.com/news/ethereum/ethereum-justin-sun-127388-eth/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ethereum On-Chain Health Holds Strong Amidst Open Interest Plunge – Impact On Price](https://www.newsbtc.com/news/ethereum-on-chain-health-holds-strong-amidst-open-interest-plunge-impact-on-price/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Akash Network (AKT) Leads Crypto Top 100 With 46% Rise Today: Here’s Why](https://www.newsbtc.com/news/akash-network-akt-leads-crypto-46-rise-heres-why/)
+append_entries: 10
+Finish: 2024-04-23 21:11:41.161180
