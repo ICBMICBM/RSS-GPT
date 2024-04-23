@@ -39529,3 +39529,24 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [BlackRock's spot bitcoin ETF joins exclusive club after 70 straight days of growth](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e97b049f0133b848f3ba8e0352e845712d0208a2cfc904b3f47d4629b7ed4861c21c9e93cbce6ae25faeb8238b625ff2f4281385a0a1e0dfbe7adcb3a0e999fa5b6c8cd90801d5ac31ac68a79288760632e8795459498)
 append_entries: 5
 Finish: 2024-04-23 22:12:31.006300
+------------------------------------------------------
+Started: 2024-04-23 22:28:39.961978
+Existing_entries: 115
+Fetching from https://rss.app/feeds/wUQN1BEONEifvDV7.xml
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin bulls may have to wait at least two months for halving's impact, analysts say](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e97b146f3133b819a3bacfb34608d5153cf23c835b08b0f2345cd6ed827dedf0d6dcaf278b3e1ae2ce7e99d39e838fe25428f3b411c5b1fb0f5a7cb3a51c8dea0abd4cb8aca1c439e1fc487276486672230868e41cd8307f0)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Safe token trades at $2.8 billion FDV after becoming transferable](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e97b248f2132a89883deee635268a4a12d722843cb4810f2a509639d86b9c901360cfef3abcb8e524f4a58f2bb129fb670d873740055a02fabebccb7657dad4b3b0dbce9582)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Canaan executives seek to buy at least $2 million in company shares](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e97b14cf4133a898039a2fc772897415cd6248c2eb4810f284bd67b943dc8df0964c2f430a1b8eb21eefe8723a2)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Spot bitcoin ETFs continue net inflows after a rough last pre-halving week](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e97b14ef3132a98812ceef033398c4b56cd7d802cb7df4b2542d76482209c9a1b60d5ef3bb5b8f425e7e3)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [BlackRock's spot bitcoin ETF joins exclusive club after 70 straight days of growth](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e97b049f0133b848f3ba8e0352e845712d0208a2cfc904b3f47d4629b7ed4861c21c9e93cbce6ae25faeb8238b625ff2f4281385a0a1e0dfbe7adcb3a0e999fa5b6c8cd90801d5ac31ac68a79288760632e8795459498)
+append_entries: 5
+Finish: 2024-04-23 22:28:55.239222
