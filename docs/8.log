@@ -51702,3 +51702,39 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Ethereum Resurgence: TRON Founder Justin Sun Goes On 127,388 ETH Buying Spree](https://www.newsbtc.com/news/ethereum/ethereum-justin-sun-127388-eth/)
 append_entries: 10
 Finish: 2024-04-23 23:14:17.151068
+------------------------------------------------------
+Started: 2024-04-23 23:33:57.318638
+Existing_entries: 444
+Fetching from https://www.newsbtc.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Samson Mow On Bitcoin Halving: Brace For Supply Shock, Omega Candle In Sight](https://www.newsbtc.com/bitcoin-news/samson-mow-on-bitcoin-halving-brace-for-supply-shock-omega-candle-in-sight/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [FLOKI And BONK Drop 5% After Revolut Listing Announcement](https://www.newsbtc.com/news/floki-and-bonk-drop-5-after-revolut-listing-announcement/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [XRP Surges 12% As Bulls Take Charge, Expert Raises Target To $1.4](https://www.newsbtc.com/xrp-news/xrp-surges-12-as-bulls-take-charge-expert-raises-target-to-1-4/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Analyst Says XRP Price Will Reach $100, But This Needs To Happen First](https://www.newsbtc.com/analysis/xrp/xrp-price-will-reach-100/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [This Metric Printed In 2017 Before Bitcoin Exploded: Is A Mega Run Incoming?](https://www.newsbtc.com/bitcoin-news/this-metric-printed-in-2017-before-bitcoin-exploded-is-a-mega-run-incoming/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Is The Bitcoin Top Already Here? This Historical Pattern Says So](https://www.newsbtc.com/bitcoin-news/bitcoin-top-already-historical-pattern-so/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [XRP Wallets Holding At Least 1 Million Coins Nears All-Time High As Sentiment Improves](https://www.newsbtc.com/analysis/xrp/xrp-wallets-1-million-coins/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [The Cardano $1 Dream: Is A Price Explosion Coming Or Just Deja Vu?](https://www.newsbtc.com/news/the-cardano-1-dream-is-a-price-explosion-coming-or-just-deja-vu/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Market Dynamics Still Positive Post-Halving – Bitfinex Analysis](https://www.newsbtc.com/news/bitcoin/bitcoin-market-dynamics-still-positive-post-halving-bitfinex-analysis/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ethereum Resurgence: TRON Founder Justin Sun Goes On 127,388 ETH Buying Spree](https://www.newsbtc.com/news/ethereum/ethereum-justin-sun-127388-eth/)
+append_entries: 10
+Finish: 2024-04-23 23:34:38.837757
