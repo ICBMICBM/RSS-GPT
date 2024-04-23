@@ -47814,3 +47814,33 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Middle East Goes Crypto: 500,000 Daily Traders Fuel Market Boom](https://bitcoinist.com/mideast-goes-crypto-500k-traders-boost-market/)
 append_entries: 8
 Finish: 2024-04-23 21:14:56.962700
+------------------------------------------------------
+Started: 2024-04-23 21:34:28.694351
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Philippines SEC Orders Binance’s Removal From Google And Apple App Stores, Report](https://bitcoinist.com/philippines-binances-removal-google-and-apple-app/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Analyst: At Least 3 Meme Coins Will Have A Market Cap Of Over $100 Billion In This Bull Cycle](https://bitcoinist.com/3-meme-coins-market-cap-100-billion-bull-cycle/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Analyst Predicts Further Upside For BTC Price, Reveals Cycle Top](https://bitcoinist.com/bitcoin-analyst-upside-btc-price/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [XRP Sees Big Money Accumulation: Rally Incoming?](https://bitcoinist.com/xrp-sees-big-money-accumulation-rally-incoming/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Shiba Inu’s Secret Weapon: Why TREAT Carries A Critical Role](https://bitcoinist.com/shiba-inu-secret-weapon-treat/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Is This The Bitcoin Tidal Wave? BlackRock ETF IBIT Leads Inflow Charge](https://bitcoinist.com/bitcoin-tidal-wave-blackrock-etf-leads-inflows/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Expert Confirms Rotation Has Begun Post-Bitcoin Halving, Are Investors Moving Away From BTC?](https://bitcoinist.com/bitcoin-halving-investors-btc/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Middle East Goes Crypto: 500,000 Daily Traders Fuel Market Boom](https://bitcoinist.com/mideast-goes-crypto-500k-traders-boost-market/)
+append_entries: 8
+Finish: 2024-04-23 21:35:14.730361
