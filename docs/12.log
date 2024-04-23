@@ -46674,3 +46674,33 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [BlackRock’s Bitcoin ETF Nears New Record With 69-Day Inflow Streak](https://bitcoinist.com/blackrocks-bitcoin-etf-nears-new-record/)
 append_entries: 8
 Finish: 2024-04-23 07:38:02.834841
+------------------------------------------------------
+Started: 2024-04-23 07:52:45.374355
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Platform Case: SEC Prosecutors Axed Or Forced To Quit After ‘Gross Abuse Of Power’](https://bitcoinist.com/crypto-platform-case-sec-prosecutors-axed/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ripple Responds To SEC Remedies With A $10 Million Power Move](https://bitcoinist.com/ripple-responds-to-sec-remedies/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [‘Buy Bitcoin’ Note From Janet Yellen Testimony Nears $140,000 In Auction](https://bitcoinist.com/buy-bitcoin-note-nears-140000-in-auction/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Halved Revenue? Bitcoin Miners Don’t Care As Hashrate Sets New ATH](https://bitcoinist.com/halved-revenue-bitcoin-miners-care-hashrate-new-ath/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Versus Gold: Analyst Says The Yellow Metal Is A “Slow-Moving Rug Pull”](https://bitcoinist.com/bitcoin-gold-yellow-metal-slow-moving-rug-pull/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Mt. Gox Users Finally Receive Payments, BTC, Bitcoin Cash Selling Pressure Incoming?](https://bitcoinist.com/mt-gox-users-receive-btc-bitcoin-cash-payments/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Investors Panic: $206 Million Flees Crypto Funds As Interest Rate Fears Mount, CoinShares Reports](https://bitcoinist.com/investors-206-million-crypto-funds-interest-rate/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [BlackRock’s Bitcoin ETF Nears New Record With 69-Day Inflow Streak](https://bitcoinist.com/blackrocks-bitcoin-etf-nears-new-record/)
+append_entries: 8
+Finish: 2024-04-23 07:53:10.707441
