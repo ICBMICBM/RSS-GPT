@@ -47394,3 +47394,33 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Ripple Responds To SEC Remedies With A $10 Million Power Move](https://bitcoinist.com/ripple-responds-to-sec-remedies/)
 append_entries: 8
 Finish: 2024-04-23 16:28:17.704857
+------------------------------------------------------
+Started: 2024-04-23 16:49:07.434029
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Shiba Inu’s Secret Weapon: Why TREAT Carries A Critical Role](https://bitcoinist.com/shiba-inu-secret-weapon-treat/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Is This The Bitcoin Tidal Wave? BlackRock ETF IBIT Leads Inflow Charge](https://bitcoinist.com/bitcoin-tidal-wave-blackrock-etf-leads-inflows/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Expert Confirms Rotation Has Begun Post-Bitcoin Halving, Are Investors Moving Away From BTC?](https://bitcoinist.com/bitcoin-halving-investors-btc/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Middle East Goes Crypto: 500,000 Daily Traders Fuel Market Boom](https://bitcoinist.com/mideast-goes-crypto-500k-traders-boost-market/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Aftermath of Bitcoin Halving: QCP Capital Outlines Strategies for Investors](https://bitcoinist.com/qcp-capital-on-aftermath-of-bitcoin-halving/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Cardano Founder Celebrates Next Step To Reach ‘Global Scale’](https://bitcoinist.com/cardano-founder-next-step-global-scale/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Platform Case: SEC Prosecutors Axed Or Forced To Quit After ‘Gross Abuse Of Power’](https://bitcoinist.com/crypto-platform-case-sec-prosecutors-axed/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ripple Responds To SEC Remedies With A $10 Million Power Move](https://bitcoinist.com/ripple-responds-to-sec-remedies/)
+append_entries: 8
+Finish: 2024-04-23 16:49:43.948620
