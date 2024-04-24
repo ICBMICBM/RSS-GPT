@@ -51846,3 +51846,39 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [The Cardano $1 Dream: Is A Price Explosion Coming Or Just Deja Vu?](https://www.newsbtc.com/news/the-cardano-1-dream-is-a-price-explosion-coming-or-just-deja-vu/)
 append_entries: 10
 Finish: 2024-04-24 02:05:38.357805
+------------------------------------------------------
+Started: 2024-04-24 02:30:31.434311
+Existing_entries: 444
+Fetching from https://www.newsbtc.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Is A $72K Bitcoin Surge On The Horizon? Glassnode’s Latest Analysis Points To An Answer](https://www.newsbtc.com/bitcoin-news/is-a-72k-bitcoin-surge-on-the-horizon-glassnodes-analysis/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Hedge Funds Fall For The Memecoin Frenzy: “Mind-Boggling” Returns Tempt Financial Giants](https://www.newsbtc.com/meme-coins/hedge-funds-fall-for-the-memecoin-frenzy-mind-boggling-returns-tempt-financial-giants/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Samson Mow On Bitcoin Halving: Brace For Supply Shock, Omega Candle In Sight](https://www.newsbtc.com/bitcoin-news/samson-mow-on-bitcoin-halving-brace-for-supply-shock-omega-candle-in-sight/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [FLOKI And BONK Drop 5% After Revolut Listing Announcement](https://www.newsbtc.com/news/floki-and-bonk-drop-5-after-revolut-listing-announcement/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [XRP Surges 12% As Bulls Take Charge, Expert Raises Target To $1.4](https://www.newsbtc.com/xrp-news/xrp-surges-12-as-bulls-take-charge-expert-raises-target-to-1-4/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Analyst Says XRP Price Will Reach $100, But This Needs To Happen First](https://www.newsbtc.com/analysis/xrp/xrp-price-will-reach-100/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [This Metric Printed In 2017 Before Bitcoin Exploded: Is A Mega Run Incoming?](https://www.newsbtc.com/bitcoin-news/this-metric-printed-in-2017-before-bitcoin-exploded-is-a-mega-run-incoming/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Is The Bitcoin Top Already Here? This Historical Pattern Says So](https://www.newsbtc.com/bitcoin-news/bitcoin-top-already-historical-pattern-so/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [XRP Wallets Holding At Least 1 Million Coins Nears All-Time High As Sentiment Improves](https://www.newsbtc.com/analysis/xrp/xrp-wallets-1-million-coins/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [The Cardano $1 Dream: Is A Price Explosion Coming Or Just Deja Vu?](https://www.newsbtc.com/news/the-cardano-1-dream-is-a-price-explosion-coming-or-just-deja-vu/)
+append_entries: 10
+Finish: 2024-04-24 02:31:05.017852
