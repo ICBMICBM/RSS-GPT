@@ -49704,3 +49704,33 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Ethereum Spot ETF Saga: Grayscale Takes Bold Step With S-3 Form Filing](https://bitcoinist.com/grayscale-files-3-form-for-spot-ethereum-etf/)
 append_entries: 8
 Finish: 2024-04-24 22:45:58.042164
+------------------------------------------------------
+Started: 2024-04-24 23:23:28.903840
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Can Dogecoin Reach $0.2? Crypto Analyst Reveals Bearish Expectations](https://bitcoinist.com/can-dogecoin-reach-0-2/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Apologetic Letter From Former Binance CEO ‘CZ’ Unveiled Ahead Of April 30 Sentencing](https://bitcoinist.com/apologetic-letter-former-binance-ceo-cz-unveiled/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [BREAKING: Samourai Wallet Co-Founders Arrested In Alleged $100M Money Laundering Scheme](https://bitcoinist.com/breaking-samourai-wallet-co-founders-arrested/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Expert Blows The Whistle On How Market Makers Manipulate Crypto Prices](https://bitcoinist.com/market-makers-crypto-prices/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Spot Bitcoin ETFs To Hit Hong Kong Market On April 30, Expert Warns Of Looming Fee War](https://bitcoinist.com/bitcoin-etfs-to-hit-hong-kong-market-on-april-30/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Miner & HODLer Selling Pressure Drying Up, Data Shows](https://bitcoinist.com/bitcoin-miner-hodler-selling-pressure-drying-data/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Analyst Says Dogecoin Will Outperform Bitcoin This Cycle, Here’s Why](https://bitcoinist.com/dogecoin-outperform-bitcoin/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Stays In Tesla’s Garage: No Sell-Off Despite Stock Market Jitters](https://bitcoinist.com/bitcoin-stays-in-teslas-garage-no-sell-off/)
+append_entries: 8
+Finish: 2024-04-24 23:23:54.643855
