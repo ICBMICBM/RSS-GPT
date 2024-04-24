@@ -48144,3 +48144,33 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Bitcoin Analyst Predicts Further Upside For BTC Price, Reveals Cycle Top](https://bitcoinist.com/bitcoin-analyst-upside-btc-price/)
 append_entries: 8
 Finish: 2024-04-24 02:34:24.062770
+------------------------------------------------------
+Started: 2024-04-24 02:53:26.458126
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Legal Clash Erupts: 2 Crypto Companies Sue US SEC Over Controversial ‘Dealer’ Rule](https://bitcoinist.com/legal-clash-erupts-2-crypto-companies-sue-us-sec/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Regulatory Drama: Why Crypto.com Postponed Its Big Move Into Korea Days Before Launch](https://bitcoinist.com/regulatory-why-crypto-com-postponed-into-korea/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Dogecoin Sell-Off Imminent? 10 Billion DOGE About To Move Into Profit](https://bitcoinist.com/dogecoin-sell-off-10-billion-doge/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Terraform Labs And Do Kwon Face $5.3B Penalties In SEC Fraud Case](https://bitcoinist.com/terraform-labs-and-do-kwon-face-5-3b-penalties/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Shiba Inu Lead Developer Shytoshi Kusama Reveals The Status Of ShibaSwap 2.0](https://bitcoinist.com/shiba-inu-shibaswap-2-status/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Philippines SEC Orders Binance’s Removal From Google And Apple App Stores, Report](https://bitcoinist.com/philippines-binances-removal-google-and-apple-app/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Analyst: At Least 3 Meme Coins Will Have A Market Cap Of Over $100 Billion In This Bull Cycle](https://bitcoinist.com/3-meme-coins-market-cap-100-billion-bull-cycle/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Analyst Predicts Further Upside For BTC Price, Reveals Cycle Top](https://bitcoinist.com/bitcoin-analyst-upside-btc-price/)
+append_entries: 8
+Finish: 2024-04-24 02:53:51.722543
