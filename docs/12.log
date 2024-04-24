@@ -49314,3 +49314,33 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Crypto Market Shakeup? New Whales Invest 2X More Than Established Players](https://bitcoinist.com/crypto-new-whales-invest-2x-more-than-old-players/)
 append_entries: 8
 Finish: 2024-04-24 17:02:41.816355
+------------------------------------------------------
+Started: 2024-04-24 17:23:41.741398
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Analyst Says Dogecoin Will Outperform Bitcoin This Cycle, Here’s Why](https://bitcoinist.com/dogecoin-outperform-bitcoin/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Stays In Tesla’s Garage: No Sell-Off Despite Stock Market Jitters](https://bitcoinist.com/bitcoin-stays-in-teslas-garage-no-sell-off/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ethereum Spot ETF Saga: Grayscale Takes Bold Step With S-3 Form Filing](https://bitcoinist.com/grayscale-files-3-form-for-spot-ethereum-etf/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Dogecoin Contributor Issues Critical Alert On Memecoins](https://bitcoinist.com/dogecoin-contributor-alert-on-memecoins/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin’s Borderless Power: IMF Recognizes Positive Impact On Global Finance](https://bitcoinist.com/bitcoin-imf-sees-positive-impact-on-global-finance/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Binance Founder Changpeng Zhao Faces 3 Years In Jail](https://bitcoinist.com/breaking-binance-founder-zhao-3-years-in-jail/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Charity Gets A Digital Boost: $2 Billion In Crypto Donations Empower US Causes](https://bitcoinist.com/charity-gets-crypto-boost-2-billion-in-donations/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Market Shakeup? New Whales Invest 2X More Than Established Players](https://bitcoinist.com/crypto-new-whales-invest-2x-more-than-old-players/)
+append_entries: 8
+Finish: 2024-04-24 17:24:07.322801
