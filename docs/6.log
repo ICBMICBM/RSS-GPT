@@ -33808,3 +33808,27 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Klickl 荣获阿布扎比全球市场金融服务许可，开启传统金融与 Web3.0 无缝链接新纪元](https://techflowpost.mirror.xyz/_moPCEKeUHr8R0rpLSeRrBciDfxGO0JX42Uwd50NSN8)
 append_entries: 6
 Finish: 2024-04-23 23:33:56.060834
+------------------------------------------------------
+Started: 2024-04-23 23:49:19.341346
+Existing_entries: 111
+Fetching from https://techflowpost.mirror.xyz/feed/atom
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [专访 Safe 联合创始人：别叫我 Gnosis Safe，叫我 Safe](https://techflowpost.mirror.xyz/GKeymjSKkW_Gx2bn5T5g7E4URQIyXwh9wxDWtxg4goo)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [解读 MOMO AI：立足 Ton 和 Solana生态，AI 驱动的游戏社交增长平台 - 深潮TechFlow](https://techflowpost.mirror.xyz/cbJW2IKxctBbOHeO3ij7CRxl5zk_Ddvec190MmTK1W0)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Web3 社交基建 UXLINK：探索社交金融创新范式，AIRDROP2049 正在进行中](https://techflowpost.mirror.xyz/Wp7xHZNNZI1_sIFmRQ9RgPQgUpKCJijLhYaAJmm9Fhc)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [HTX 新生，孙宇晨首次向交易所引入治理体系](https://techflowpost.mirror.xyz/zUEgQ0dfRuwi2Bu9SAd9nb9ILyt-xZfpvbgtLJDjkKE)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Web3 通信基建 SendingNetwork：参与测试网领积分，节点预售即将开启](https://techflowpost.mirror.xyz/TKaTze9U6Tq0FhrTgKKiV_49mboJfrP5wjr2J7HamuE)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Klickl 荣获阿布扎比全球市场金融服务许可，开启传统金融与 Web3.0 无缝链接新纪元](https://techflowpost.mirror.xyz/_moPCEKeUHr8R0rpLSeRrBciDfxGO0JX42Uwd50NSN8)
+append_entries: 6
+Finish: 2024-04-23 23:49:43.380326
