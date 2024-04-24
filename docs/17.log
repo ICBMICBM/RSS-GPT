@@ -47675,3 +47675,39 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [What sets Sei Apart?](https://en.foresightnews.pro/what-sets-sei-apart/?utm_source=rss&utm_medium=rss&utm_campaign=what-sets-sei-apart)
 append_entries: 10
 Finish: 2024-04-24 19:31:45.162282
+------------------------------------------------------
+Started: 2024-04-24 19:56:03.287257
+Existing_entries: 76
+Fetching from https://en.foresightnews.pro/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Foresight Daily](https://en.foresightnews.pro/foresight-daily-293/?utm_source=rss&utm_medium=rss&utm_campaign=foresight-daily-293)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Whales Market Debuts Trading of Bitget Wallet’s BWB Points, Priced at $0.75](https://en.foresightnews.pro/whales-market-debuts-trading-of-bitget-wallets-bwb-points-priced-at-0-75/?utm_source=rss&utm_medium=rss&utm_campaign=whales-market-debuts-trading-of-bitget-wallets-bwb-points-priced-at-0-75)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Foresight Daily](https://en.foresightnews.pro/foresight-daily-292/?utm_source=rss&utm_medium=rss&utm_campaign=foresight-daily-292)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Three major #Runes investment opportunities](https://en.foresightnews.pro/three-major-runes-investment-opportunities/?utm_source=rss&utm_medium=rss&utm_campaign=three-major-runes-investment-opportunities)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [The Rise of Cryptocurrency in Western Europe: Insights from Bitget’s Research](https://en.foresightnews.pro/the-rise-of-cryptocurrency-in-western-europe-insights-from-bitgets-research/?utm_source=rss&utm_medium=rss&utm_campaign=the-rise-of-cryptocurrency-in-western-europe-insights-from-bitgets-research)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Foresight Daily](https://en.foresightnews.pro/foresight-daily-291/?utm_source=rss&utm_medium=rss&utm_campaign=foresight-daily-291)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Week Ahead Industry Previews: Fourth Third Week of April 2024](https://en.foresightnews.pro/week-ahead-industry-previews-fourth-third-week-of-april-2024/?utm_source=rss&utm_medium=rss&utm_campaign=week-ahead-industry-previews-fourth-third-week-of-april-2024)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Foresight Daily](https://en.foresightnews.pro/foresight-daily-290/?utm_source=rss&utm_medium=rss&utm_campaign=foresight-daily-290)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Foresight Daily](https://en.foresightnews.pro/foresight-daily-289/?utm_source=rss&utm_medium=rss&utm_campaign=foresight-daily-289)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [What sets Sei Apart?](https://en.foresightnews.pro/what-sets-sei-apart/?utm_source=rss&utm_medium=rss&utm_campaign=what-sets-sei-apart)
+append_entries: 10
+Finish: 2024-04-24 19:56:54.606242
