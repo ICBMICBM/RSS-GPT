@@ -49554,3 +49554,33 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Dogecoin Contributor Issues Critical Alert On Memecoins](https://bitcoinist.com/dogecoin-contributor-alert-on-memecoins/)
 append_entries: 8
 Finish: 2024-04-24 20:33:55.179153
+------------------------------------------------------
+Started: 2024-04-24 20:57:08.876012
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [BREAKING: Samourai Wallet Co-Founders Arrested In Alleged $100M Money Laundering Scheme](https://bitcoinist.com/breaking-samourai-wallet-co-founders-arrested/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Expert Blows The Whistle On How Market Makers Manipulate Crypto Prices](https://bitcoinist.com/market-makers-crypto-prices/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Spot Bitcoin ETFs To Hit Hong Kong Market On April 30, Expert Warns Of Looming Fee War](https://bitcoinist.com/bitcoin-etfs-to-hit-hong-kong-market-on-april-30/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Miner & HODLer Selling Pressure Drying Up, Data Shows](https://bitcoinist.com/bitcoin-miner-hodler-selling-pressure-drying-data/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Analyst Says Dogecoin Will Outperform Bitcoin This Cycle, Here’s Why](https://bitcoinist.com/dogecoin-outperform-bitcoin/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Stays In Tesla’s Garage: No Sell-Off Despite Stock Market Jitters](https://bitcoinist.com/bitcoin-stays-in-teslas-garage-no-sell-off/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ethereum Spot ETF Saga: Grayscale Takes Bold Step With S-3 Form Filing](https://bitcoinist.com/grayscale-files-3-form-for-spot-ethereum-etf/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Dogecoin Contributor Issues Critical Alert On Memecoins](https://bitcoinist.com/dogecoin-contributor-alert-on-memecoins/)
+append_entries: 8
+Finish: 2024-04-24 20:57:52.988949
