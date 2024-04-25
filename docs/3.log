@@ -29202,3 +29202,12 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Block lets Square merchants convert a part of their daily sales to bitcoin](https://techcrunch.com/2024/04/24/block-now-lets-square-merchants-convert-a-part-of-their-daily-sales-to-bitcoin/)
 append_entries: 1
 Finish: 2024-04-25 04:24:02.534977
+------------------------------------------------------
+Started: 2024-04-25 04:49:37.396149
+Existing_entries: 21
+Fetching from https://techcrunch.com/tag/bitcoin/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Block lets Square merchants convert a part of their daily sales to bitcoin](https://techcrunch.com/2024/04/24/block-now-lets-square-merchants-convert-a-part-of-their-daily-sales-to-bitcoin/)
+append_entries: 1
+Finish: 2024-04-25 04:49:42.920043
