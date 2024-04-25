@@ -41251,3 +41251,24 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Hong Kong bitcoin and ether ETFs to start trading April 30](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e97b44af1133187803feef9352388095dca248637b89c0f2a4adf269027d9970821c6f233a1b8f72faffb9a2cb738a43e1d833046065441fce3bad07b149a82)
 append_entries: 5
 Finish: 2024-04-25 09:56:15.478913
+------------------------------------------------------
+Started: 2024-04-25 10:20:18.456495
+Existing_entries: 115
+Fetching from https://rss.app/feeds/wUQN1BEONEifvDV7.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin options worth over $6.3 billion set to expire this Friday on Deribit](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e97b34ff2133b819a3bacfb346080544bca3f8b2bfc854d3950d3269a25d480573a8eb578b0fcef2cebe78060b629fd671b8d794a104305eff6e5cd7f50da9fb0b0d3c8989e58418053c396786c8a6f3a)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitwise CIO makes 5 predictions ahead of Bitcoin's next halving, including a $250,000 price target](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e97b449fc133b819a2faae13f608c4d508e20973db59b413f4dd465867ed39b0e6fccef3bfffde22cf4e1802ae87ebc7a5fd26402184105fef6e5cd764bced7a2)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Robinhood lists SHIB, AVAX, COMP for trading in New York](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e97b448f7132b878c31adfa35228b0953ca23912bfc814a2246966a8332c9df1963cef678b4faf16df6fa8f29ac22ee67068c79410d4441e4fcbad2)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [BlackRock 'gaga' over spot bitcoin fund that accounts for 24% of firm's total ETF flows: analyst](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e97b449fd133b848f3ba8e0352e840958c2378475be84473909c87b9a279c901378c0e93cbcb8e535ececc339ad2dfd670e8137401d5d18eebeaed665149b86fbaddc819f8e07439d53d39c7e64842b2b3d93d7548c9f11fa847220ee843995da)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Hong Kong bitcoin and ether ETFs to start trading April 30](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e97b44af1133187803feef9352388095dca248637b89c0f2a4adf269027d9970821c6f233a1b8f72faffb9a2cb738a43e1d833046065441fce3bad07b149a82)
+append_entries: 5
+Finish: 2024-04-25 10:20:36.652453
