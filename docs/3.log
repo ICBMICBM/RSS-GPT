@@ -29229,3 +29229,12 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Block lets Square merchants convert a part of their daily sales to bitcoin](https://techcrunch.com/2024/04/24/block-now-lets-square-merchants-convert-a-part-of-their-daily-sales-to-bitcoin/)
 append_entries: 1
 Finish: 2024-04-25 05:46:54.482751
+------------------------------------------------------
+Started: 2024-04-25 06:19:19.856997
+Existing_entries: 21
+Fetching from https://techcrunch.com/tag/bitcoin/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Block lets Square merchants convert a part of their daily sales to bitcoin](https://techcrunch.com/2024/04/24/block-now-lets-square-merchants-convert-a-part-of-their-daily-sales-to-bitcoin/)
+append_entries: 1
+Finish: 2024-04-25 06:19:22.919420
