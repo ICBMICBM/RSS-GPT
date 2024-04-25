@@ -49914,3 +49914,33 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Spot Bitcoin ETFs To Hit Hong Kong Market On April 30, Expert Warns Of Looming Fee War](https://bitcoinist.com/bitcoin-etfs-to-hit-hong-kong-market-on-april-30/)
 append_entries: 8
 Finish: 2024-04-25 03:33:12.745511
+------------------------------------------------------
+Started: 2024-04-25 03:57:05.631879
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Settles Inflation Rate Battle With Gold, Becomes Scarcest Asset](https://bitcoinist.com/bitcoin-inflation-rate-battle-gold-scarcest-asset/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Analyst Says Betting On Dogecoin To Reach $1 Is Risky – Here’s Why](https://bitcoinist.com/betting-on-dogecoin-to-1/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ethereum Ecosystem Hits 10 Million Active Wallets Weekly: Will It 10X In The Next Bull Run?](https://bitcoinist.com/ethereum-ecosystem-10-million-active-wallets-weekly/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Can Dogecoin Reach $0.2? Crypto Analyst Reveals Bearish Expectations](https://bitcoinist.com/can-dogecoin-reach-0-2/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Apologetic Letter From Former Binance CEO ‘CZ’ Unveiled Ahead Of April 30 Sentencing](https://bitcoinist.com/apologetic-letter-former-binance-ceo-cz-unveiled/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [BREAKING: Samourai Wallet Co-Founders Arrested In Alleged $100M Money Laundering Scheme](https://bitcoinist.com/breaking-samourai-wallet-co-founders-arrested/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Expert Blows The Whistle On How Market Makers Manipulate Crypto Prices](https://bitcoinist.com/market-makers-crypto-prices/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Spot Bitcoin ETFs To Hit Hong Kong Market On April 30, Expert Warns Of Looming Fee War](https://bitcoinist.com/bitcoin-etfs-to-hit-hong-kong-market-on-april-30/)
+append_entries: 8
+Finish: 2024-04-25 03:57:34.278842
