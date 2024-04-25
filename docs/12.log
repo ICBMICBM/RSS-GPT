@@ -51084,3 +51084,33 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Lazarus On The Hunt: How North Korean Hackers Are Targeting Crypto Via LinkedIn](https://bitcoinist.com/lazarus-on-the-hunt-how-north-korean-hackers-are-targeting-crypto-via-linkedin/)
 append_entries: 8
 Finish: 2024-04-25 21:39:31.210082
+------------------------------------------------------
+Started: 2024-04-25 22:03:00.718782
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin, Dogecoin Top Holder Profitability Ahead Of Cardano & Ethereum: Details](https://bitcoinist.com/bitcoin-dogecoin-top-holder-cardano-ethereum/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ready, Set, Grow: Why It Might Be Time To Invest In Altcoins Now – Santiment](https://bitcoinist.com/why-time-to-invest-in-altcoins-now-santiment/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Shiba Inu Burn Rate Sees Massive 2,076% Spike In 24 Hours](https://bitcoinist.com/shiba-inu-burn-2076-spike/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Influencer ‘Jay Mazini’ Receives Seven-Year Jail Sentence And $10M Asset Seizure](https://bitcoinist.com/crypto-influencer-jay-mazini-7-year-jail-sentence/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [BONK Sees Bullish Prospects As Community Votes Yes To Massive Burn](https://bitcoinist.com/bonk-bullish-massive-burn/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin’s Future: Why The Samourai Wallet Case Matters To Every User](https://bitcoinist.com/bitcoin-future-samourai-wallet-case/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ethereum ETFs On Hold? US Regulators Expected To Block Spot Products In May](https://bitcoinist.com/ethereum-etfs-on-hold-us-regulators-expected-to-block-spot-products-in-may/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Investment Giant Morgan Stanley Considers Providing Spot Bitcoin ETF Options For Clients](https://bitcoinist.com/morgan-stanley-spot-bitcoin-etf/)
+append_entries: 8
+Finish: 2024-04-25 22:03:33.038237
