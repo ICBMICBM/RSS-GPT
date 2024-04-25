@@ -50754,3 +50754,33 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Nigerian Crackdown Fake News? CBN Denies Crypto Accounts Freezing Circular](https://bitcoinist.com/nigerian-crackdown-fake-news-cbn-denies-crypto-accounts-freezing-circular/)
 append_entries: 8
 Finish: 2024-04-25 16:22:08.587453
+------------------------------------------------------
+Started: 2024-04-25 16:47:58.704725
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin’s Future: Why The Samourai Wallet Case Matters To Every User](https://bitcoinist.com/bitcoin-future-samourai-wallet-case/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ethereum ETFs On Hold? US Regulators Expected To Block Spot Products In May](https://bitcoinist.com/ethereum-etfs-on-hold-us-regulators-expected-to-block-spot-products-in-may/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Investment Giant Morgan Stanley Considers Providing Spot Bitcoin ETF Options For Clients](https://bitcoinist.com/morgan-stanley-spot-bitcoin-etf/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Lazarus On The Hunt: How North Korean Hackers Are Targeting Crypto Via LinkedIn](https://bitcoinist.com/lazarus-on-the-hunt-how-north-korean-hackers-are-targeting-crypto-via-linkedin/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin ETF Issuer Unveils 5 Spectacular Predictions For 2028 BTC Halving](https://bitcoinist.com/bitcoin-etf-issuer-5-predictions-2028-btc-halving/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Is Bitcoin Toast? Gold Bug, Bitcoin Critic Sees BTC Dropping To $20,000](https://bitcoinist.com/gold-bug-sees-bitcoin-below-60000/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [What’s Next For Shiba Inu? Inside The 2024/2025 Shibarium Roadmap](https://bitcoinist.com/shiba-inu-2024-2025-shibarium-roadmap/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Nigerian Crackdown Fake News? CBN Denies Crypto Accounts Freezing Circular](https://bitcoinist.com/nigerian-crackdown-fake-news-cbn-denies-crypto-accounts-freezing-circular/)
+append_entries: 8
+Finish: 2024-04-25 16:48:42.210433
