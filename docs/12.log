@@ -52284,3 +52284,33 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Shiba Inu Devs Schedule Shibarium Hard Fork For May 2: Details](https://bitcoinist.com/shiba-inu-shibarium-hard-fork-may-2/)
 append_entries: 8
 Finish: 2024-04-26 17:39:59.627022
+------------------------------------------------------
+Started: 2024-04-26 18:09:21.492064
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Pantera Capital Makes Major Solana Acquisition In 2,000 SOL Auction From FTX](https://bitcoinist.com/pantera-capital-makes-major-solana-acquisition/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Analyst Reveals Play-By-Play Profit-Taking Strategy For Shiba Inu](https://bitcoinist.com/profit-taking-strategy-shiba-inu/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Oldest US Bank Invests In 2 Bitcoin ETFs, SEC Filing Shows](https://bitcoinist.com/oldest-us-bank-invests-in-bitcoin-etfs/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ripple Vs. SEC Lawsuit: Court Gives Regulator Tight Deadline To Strike Back](https://bitcoinist.com/ripple-vs-sec-lawsuit-deadline/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Canada Bets Big On Crypto: 40% Of Institutions Now Invest](https://bitcoinist.com/canada-40-of-institutions-now-invest-in-crypto/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Coinbase CLO Defends Ethereum Security Status Amid Regulatory Scrutiny](https://bitcoinist.com/coinbase-clo-defends-ethereum-security-status/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [David Vs. Goliath? Crypto Firm Consensys Sues SEC Over Ethereum Regulation](https://bitcoinist.com/consensys-sues-sec-over-ethereum-regulation/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Solana Records ‘Dramatic Increase’ In Institutional Demand: Report](https://bitcoinist.com/solana-dramatic-increase-institutional-demand/)
+append_entries: 8
+Finish: 2024-04-26 18:09:55.043925
