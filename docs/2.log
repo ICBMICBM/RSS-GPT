@@ -42217,3 +42217,24 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Ether spot ETF approval seen as increasingly doubtful by industry professionals: Reuters](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e97ba49f4133c9c863db1bf293d805012c6248375b08252394bcd6a997ec2971f628ee726fffced23f0ed8f3eac22ee2616cf30401d5118fbe6a494754084dbb8a6cfdf8d950c039e0cc8956f769b6f2127949641cd8203fcdd763cfc)
 append_entries: 5
 Finish: 2024-04-26 08:49:34.170232
+------------------------------------------------------
+Started: 2024-04-26 09:21:08.430497
+Existing_entries: 115
+Fetching from https://rss.app/feeds/wUQN1BEONEifvDV7.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [DePIN project Natix raises funds ahead of token launch and airdrop on Solana](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e97bb4df2133d8d9e31adbf342c9b4d478e369036b59b4c2c09cf649e36dfdf1b65d1e227bde5ae33ede48f23a4)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Franklin Templeton enables peer-to-peer transfers for its on-chain US Government Money Fund](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e97bb4df7133f9a8f36a8fe3323c2505ace20893da59d4c6641d56a973fd481577cc6e327ffe1ec6df2ed8b3fe838fb2b0191324a1a4041fbfcba947e4dda9fb9ac97cf91861c40c30bd4de6d6a9e633c27989f5c94dd0be6c77637a28e3588ca)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [The memecoin 'casino' undermines crypto's long-term prospects: a16z](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e97ba46f7132d808b75aef737288c4b56cd7d8639a29b4c2409ce659136c39f1362c6f578b1e7fa30f6e79d60a923e72d4296315d051e1ceffcbbc9725addc1fba38b9a83)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [MicroStrategy could see $3 billion earnings boost if it adopts new accounting rules: Benchmark](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e97bb4ff11334818d2aace12e3f8e505ac429c83bbe874e2f09c86e907e82df1865cfea3cbdfbae25e3fa8024ab2bfa670d8d3b5c1c1e05fbbea1cd3a58cddda6b6c981978202038f1dc49c7f6b9c6f202ed888478c9515a4cb7620ec802d87dc97)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ether spot ETF approval seen as increasingly doubtful by industry professionals: Reuters](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e97ba49f4133c9c863db1bf293d805012c6248375b08252394bcd6a997ec2971f628ee726fffced23f0ed8f3eac22ee2616cf30401d5118fbe6a494754084dbb8a6cfdf8d950c039e0cc8956f769b6f2127949641cd8203fcdd763cfc)
+append_entries: 5
+Finish: 2024-04-26 09:21:29.668751
