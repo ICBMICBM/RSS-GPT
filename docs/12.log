@@ -51954,3 +51954,33 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [First Time In 71 Days: BlackRock’s Bitcoin ETF ‘IBIT’ Registers Zero Inflows](https://bitcoinist.com/blackrock-bitcoin-etf-ibit-registers-zero-inflows/)
 append_entries: 8
 Finish: 2024-04-26 12:21:28.106488
+------------------------------------------------------
+Started: 2024-04-26 12:47:40.461904
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Canada Bets Big On Crypto: 40% Of Institutions Now Invest](https://bitcoinist.com/canada-40-of-institutions-now-invest-in-crypto/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Coinbase CLO Defends Ethereum Security Status Amid Regulatory Scrutiny](https://bitcoinist.com/coinbase-clo-defends-ethereum-security-status/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [David Vs. Goliath? Crypto Firm Consensys Sues SEC Over Ethereum Regulation](https://bitcoinist.com/consensys-sues-sec-over-ethereum-regulation/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Solana Records ‘Dramatic Increase’ In Institutional Demand: Report](https://bitcoinist.com/solana-dramatic-increase-institutional-demand/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Shiba Inu Devs Schedule Shibarium Hard Fork For May 2: Details](https://bitcoinist.com/shiba-inu-shibarium-hard-fork-may-2/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Market Dominance: Upbit Handles 80% Of South Korean Trading Volume](https://bitcoinist.com/crypto-market-dominance-upbit-handles-80-of-south-korean-trading-volume/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Has “Plenty Of Time” Remaining In Bull Cycle, IntoTheBlock Explains Why](https://bitcoinist.com/bitcoin-time-bull-market-intotheblock-explains-why/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Accumulating, On Course Of Breaking $74,000 Despite Bear Scare: Analyst](https://bitcoinist.com/bitcoin-accumulating-breaking-74000-bear-scare/)
+append_entries: 8
+Finish: 2024-04-26 12:48:03.503064
