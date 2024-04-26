@@ -52134,3 +52134,33 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Crypto Market Dominance: Upbit Handles 80% Of South Korean Trading Volume](https://bitcoinist.com/crypto-market-dominance-upbit-handles-80-of-south-korean-trading-volume/)
 append_entries: 8
 Finish: 2024-04-26 15:07:40.749430
+------------------------------------------------------
+Started: 2024-04-26 15:33:48.471649
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Oldest US Bank Invests In 2 Bitcoin ETFs, SEC Filing Shows](https://bitcoinist.com/oldest-us-bank-invests-in-bitcoin-etfs/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ripple Vs. SEC Lawsuit: Court Gives Regulator Tight Deadline To Strike Back](https://bitcoinist.com/ripple-vs-sec-lawsuit-deadline/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Canada Bets Big On Crypto: 40% Of Institutions Now Invest](https://bitcoinist.com/canada-40-of-institutions-now-invest-in-crypto/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Coinbase CLO Defends Ethereum Security Status Amid Regulatory Scrutiny](https://bitcoinist.com/coinbase-clo-defends-ethereum-security-status/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [David Vs. Goliath? Crypto Firm Consensys Sues SEC Over Ethereum Regulation](https://bitcoinist.com/consensys-sues-sec-over-ethereum-regulation/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Solana Records ‘Dramatic Increase’ In Institutional Demand: Report](https://bitcoinist.com/solana-dramatic-increase-institutional-demand/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Shiba Inu Devs Schedule Shibarium Hard Fork For May 2: Details](https://bitcoinist.com/shiba-inu-shibarium-hard-fork-may-2/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Market Dominance: Upbit Handles 80% Of South Korean Trading Volume](https://bitcoinist.com/crypto-market-dominance-upbit-handles-80-of-south-korean-trading-volume/)
+append_entries: 8
+Finish: 2024-04-26 15:34:19.489238
