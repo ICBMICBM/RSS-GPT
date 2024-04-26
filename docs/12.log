@@ -52554,3 +52554,33 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Canada Bets Big On Crypto: 40% Of Institutions Now Invest](https://bitcoinist.com/canada-40-of-institutions-now-invest-in-crypto/)
 append_entries: 8
 Finish: 2024-04-26 22:10:26.276393
+------------------------------------------------------
+Started: 2024-04-26 22:39:00.824042
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Texas Crypto Mining Firm And Co-Founders Face SEC Charges In $5M Fraud Allegations](https://bitcoinist.com/texas-crypto-mining-firm-face-sec-charges/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [CMT-Certified Crypto Analyst Says Bitcoin Is Still Very Bullish, Can It Reach $350,000?](https://bitcoinist.com/bitcoin-very-bullish-350000/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crisis In Crypto: China’s Leading Blockchain Advocate Faces Investigation](https://bitcoinist.com/crisis-in-crypto-chinas-leading-blockchain-advocate/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Pantera Capital Makes Major Solana Acquisition In 2,000 SOL Auction From FTX](https://bitcoinist.com/pantera-capital-makes-major-solana-acquisition/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Analyst Reveals Play-By-Play Profit-Taking Strategy For Shiba Inu](https://bitcoinist.com/profit-taking-strategy-shiba-inu/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Oldest US Bank Invests In 2 Bitcoin ETFs, SEC Filing Shows](https://bitcoinist.com/oldest-us-bank-invests-in-bitcoin-etfs/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ripple Vs. SEC Lawsuit: Court Gives Regulator Tight Deadline To Strike Back](https://bitcoinist.com/ripple-vs-sec-lawsuit-deadline/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Canada Bets Big On Crypto: 40% Of Institutions Now Invest](https://bitcoinist.com/canada-40-of-institutions-now-invest-in-crypto/)
+append_entries: 8
+Finish: 2024-04-26 22:39:35.726651
