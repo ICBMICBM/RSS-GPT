@@ -51894,3 +51894,33 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Robinhood Lists Shiba Inu For New York Users, Moves 3 Trillion SHIB](https://bitcoinist.com/robinhood-shiba-inu-shib/)
 append_entries: 8
 Finish: 2024-04-26 11:17:18.090108
+------------------------------------------------------
+Started: 2024-04-26 11:43:48.460990
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Coinbase CLO Defends Ethereum Security Status Amid Regulatory Scrutiny](https://bitcoinist.com/coinbase-clo-defends-ethereum-security-status/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [David Vs. Goliath? Crypto Firm Consensys Sues SEC Over Ethereum Regulation](https://bitcoinist.com/consensys-sues-sec-over-ethereum-regulation/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Solana Records ‘Dramatic Increase’ In Institutional Demand: Report](https://bitcoinist.com/solana-dramatic-increase-institutional-demand/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Shiba Inu Devs Schedule Shibarium Hard Fork For May 2: Details](https://bitcoinist.com/shiba-inu-shibarium-hard-fork-may-2/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Market Dominance: Upbit Handles 80% Of South Korean Trading Volume](https://bitcoinist.com/crypto-market-dominance-upbit-handles-80-of-south-korean-trading-volume/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Has “Plenty Of Time” Remaining In Bull Cycle, IntoTheBlock Explains Why](https://bitcoinist.com/bitcoin-time-bull-market-intotheblock-explains-why/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Accumulating, On Course Of Breaking $74,000 Despite Bear Scare: Analyst](https://bitcoinist.com/bitcoin-accumulating-breaking-74000-bear-scare/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [First Time In 71 Days: BlackRock’s Bitcoin ETF ‘IBIT’ Registers Zero Inflows](https://bitcoinist.com/blackrock-bitcoin-etf-ibit-registers-zero-inflows/)
+append_entries: 8
+Finish: 2024-04-26 11:44:34.878630
