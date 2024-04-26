@@ -51534,3 +51534,33 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Shiba Inu Burn Rate Sees Massive 2,076% Spike In 24 Hours](https://bitcoinist.com/shiba-inu-burn-2076-spike/)
 append_entries: 8
 Finish: 2024-04-26 05:36:49.559915
+------------------------------------------------------
+Started: 2024-04-26 06:01:47.931796
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Shiba Inu Devs Schedule Shibarium Hard Fork For May 2: Details](https://bitcoinist.com/shiba-inu-shibarium-hard-fork-may-2/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Market Dominance: Upbit Handles 80% Of South Korean Trading Volume](https://bitcoinist.com/crypto-market-dominance-upbit-handles-80-of-south-korean-trading-volume/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Has “Plenty Of Time” Remaining In Bull Cycle, IntoTheBlock Explains Why](https://bitcoinist.com/bitcoin-time-bull-market-intotheblock-explains-why/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Accumulating, On Course Of Breaking $74,000 Despite Bear Scare: Analyst](https://bitcoinist.com/bitcoin-accumulating-breaking-74000-bear-scare/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [First Time In 71 Days: BlackRock’s Bitcoin ETF ‘IBIT’ Registers Zero Inflows](https://bitcoinist.com/blackrock-bitcoin-etf-ibit-registers-zero-inflows/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Robinhood Lists Shiba Inu For New York Users, Moves 3 Trillion SHIB](https://bitcoinist.com/robinhood-shiba-inu-shib/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin, Dogecoin Top Holder Profitability Ahead Of Cardano & Ethereum: Details](https://bitcoinist.com/bitcoin-dogecoin-top-holder-cardano-ethereum/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ready, Set, Grow: Why It Might Be Time To Invest In Altcoins Now – Santiment](https://bitcoinist.com/why-time-to-invest-in-altcoins-now-santiment/)
+append_entries: 8
+Finish: 2024-04-26 06:02:17.813359
