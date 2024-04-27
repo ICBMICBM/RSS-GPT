@@ -53784,3 +53784,33 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [32 People Indicted In Taiwanese Crypto Exchange Fraud Case](https://bitcoinist.com/32-people-indicted-in-taiwanese-crypto-exchange-fraud-case/)
 append_entries: 8
 Finish: 2024-04-27 18:45:21.772872
+------------------------------------------------------
+Started: 2024-04-27 19:18:20.336798
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [CEO, Bitcoin Maxi Drops Bombshell Message From Satoshi Nakamoto](https://bitcoinist.com/bitcoin-maxi-drops-bombshell-message-from-nakamoto/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Analyst Says Dogecoin Could Rally 2,500%, Presents Possible Targets](https://bitcoinist.com/crypto-analyst-says-dogecoin-could-rally-2500-presents-possible-targets/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Russia’s Legislative Body Considers Diving Into Crypto – Will They Mine Or Maul It?](https://bitcoinist.com/russias-legislative-body-considers-diving-into-crypto-will-they-mine-or-maul-it/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Chimpzee Wildlife NFT Passports: An Introduction to the Most Coveted NFT Collection of 2024](https://bitcoinist.com/chimpzee-wildlife-nft-passports-an-introduction-to-the-most-coveted-nft-collection-of-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Custodia To File Appeal Over Denied Access To Fed Master Account](https://bitcoinist.com/custodia-to-appeal-denied-access-fed-master-account/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Yuga Labs Announces Another Company Restructuring And Layoff In 6 Months](https://bitcoinist.com/yuga-labs-announce-restructuring-and-staff-layoff/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Pro-XRP Lawyer John Deaton Backs Coinbase In SEC Case With Amicus Brief](https://bitcoinist.com/john-deaton-backs-coinbase-in-with-amicus-brief/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [32 People Indicted In Taiwanese Crypto Exchange Fraud Case](https://bitcoinist.com/32-people-indicted-in-taiwanese-crypto-exchange-fraud-case/)
+append_entries: 8
+Finish: 2024-04-27 19:18:49.298185
