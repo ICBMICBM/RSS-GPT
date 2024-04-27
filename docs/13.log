@@ -44991,3 +44991,39 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [“Digital Slavery Should Be Over” Says Pavel Durov](https://www.trustnodes.com/2024/04/22/digital-slavery-should-be-over-says-pavel-durov)
 append_entries: 10
 Finish: 2024-04-27 18:21:36.303683
+------------------------------------------------------
+Started: 2024-04-27 18:45:21.795682
+Existing_entries: 36
+Fetching from https://www.trustnodes.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Boom Times in America, Why is Europe Lagging?](https://www.trustnodes.com/2024/04/26/boom-times-in-america-why-is-europe-lagging)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Fed’s Core Inflation Measure Still on Track](https://www.trustnodes.com/2024/04/26/feds-core-inflation-measure-still-on-track)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Gains Even While ETFs Sell](https://www.trustnodes.com/2024/04/26/bitcoin-gains-even-while-etfs-sell)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Why is Eth’s Ratio Gaining?](https://www.trustnodes.com/2024/04/25/why-is-eths-ratio-gaining)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin, DXY Dips and Jumps on GDP Data](https://www.trustnodes.com/2024/04/25/dxy-dips-and-jumps-on-gdp-data)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Binance to List Renzo](https://www.trustnodes.com/2024/04/23/binance-to-list-renzo)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Widely Used For Cross-Border Transactions Says IMF Paper](https://www.trustnodes.com/2024/04/23/bitcoin-widely-used-for-cross-border-transactions-says-imf-paper)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [ETFs Return to Inflows While Grayscale Selling Slows](https://www.trustnodes.com/2024/04/23/etfs-return-to-inflows-while-grayscale-selling-slows)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [LukeJr Sidelined as New Bitcoin BIP Editors Take Over](https://www.trustnodes.com/2024/04/22/lukejr-sidelined-as-new-bitcoin-bip-editors-take-over)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [“Digital Slavery Should Be Over” Says Pavel Durov](https://www.trustnodes.com/2024/04/22/digital-slavery-should-be-over-says-pavel-durov)
+append_entries: 10
+Finish: 2024-04-27 18:46:11.682095
