@@ -53020,3 +53020,75 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [State of ApeCoin Q1 2024](https://messari.io/article/state-of-apecoin-q1-2024)
 append_entries: 22
 Finish: 2024-04-27 16:51:07.140422
+------------------------------------------------------
+Started: 2024-04-27 17:18:34.953469
+Existing_entries: 41
+Fetching from https://messari.io/rss
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [The EigenLayer Question](https://messari.io/article/the-eigenlayer-question)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [State of Filecoin Q1 2024](https://messari.io/article/state-of-filecoin-q1-2024)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [The Week In Crypto Policy: Industry Sues SEC; Digital Asset Tax Form](https://messari.io/article/the-week-in-crypto-policy-industry-sues-sec-digital-asset-tax-form)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [State of TRON Q1 2024](https://messari.io/article/state-of-tron-q1-2024)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Enhancing Ethereum’s Resilience With Distributed Validator Technology](https://messari.io/article/enhancing-ethereum-s-resilience-with-distributed-validator-technology)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [State of Covalent Q1 2024](https://messari.io/article/state-of-covalent-q1-2024)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Metis Q1 2024 Brief](https://messari.io/article/metis-q1-2024-brief)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [State of Ethereum Q1 2024](https://messari.io/article/state-of-ethereum-q1-2024)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [State of BNB Chain Q1 2024](https://messari.io/article/state-of-bnb-chain-q1-2024)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [State of Sui Q4 2023 and Q1 2024](https://messari.io/article/state-of-sui-q4-2023-and-q1-2024)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Deep Dive into Proof Marketplaces](https://messari.io/article/deep-dive-into-proof-marketplaces)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [State of Avalanche Q1 2024](https://messari.io/article/state-of-avalanche-q1-2024)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [State of Sia Q1 2024](https://messari.io/article/state-of-sia-q1-2024)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [0x Q1 2024 Brief](https://messari.io/article/0x-q1-2024-brief)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Berachain Tokenomics](https://messari.io/article/berachain-tokenomics)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [The Week In Crypto Policy: Lummis-Gillibrand Stablecoin Bill; HFSC Markup](https://messari.io/article/the-week-in-crypto-policy-lummis-gillibrand-stablecoin-bill-hfsc-markup)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [State of DeFi Q1 2024](https://messari.io/article/state-of-defi-q1-2024)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Matcha Q1 2024 Brief](https://messari.io/article/matcha-q1-2024-brief)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Understanding Rubic: A Comprehensive Overview](https://messari.io/article/understanding-rubic)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Moonbeam Q1 2024 Brief](https://messari.io/article/moonbeam-q1-2024-brief)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Babylon: Bitcoin Shared Security and Staking](https://messari.io/article/babylon-bitcoin-shared-security-and-staking)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [State of ApeCoin Q1 2024](https://messari.io/article/state-of-apecoin-q1-2024)
+append_entries: 22
+Finish: 2024-04-27 17:19:48.832883
