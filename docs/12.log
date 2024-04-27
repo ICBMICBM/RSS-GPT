@@ -52764,3 +52764,33 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Crypto Analyst Reveals Play-By-Play Profit-Taking Strategy For Shiba Inu](https://bitcoinist.com/profit-taking-strategy-shiba-inu/)
 append_entries: 8
 Finish: 2024-04-27 02:17:29.252274
+------------------------------------------------------
+Started: 2024-04-27 02:37:36.785959
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [New Data Reveals Bitcoin Mining May No Longer Be Profitable – Here’s Why](https://bitcoinist.com/new-data-reveals-bitcoin-mining-may-no-longer/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ethereum Sell Side Liquidity Thinning On CEXes: Time For $4,000?](https://bitcoinist.com/ethereum-sell-side-liquidity-thinning-on-cexes/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Runes Hype Dissipates: Why This Makes Life Difficult For Miners](https://bitcoinist.com/bitcoin-runes-hype-why-life-difficult-miners/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto Exchange Predicts That Shiba Inu Will Reach $0.00008 In May, New ATH Loading?](https://bitcoinist.com/shiba-inu-0-00008-in-may/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Texas Crypto Mining Firm And Co-Founders Face SEC Charges In $5M Fraud Allegations](https://bitcoinist.com/texas-crypto-mining-firm-face-sec-charges/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [CMT-Certified Crypto Analyst Says Bitcoin Is Still Very Bullish, Can It Reach $350,000?](https://bitcoinist.com/bitcoin-very-bullish-350000/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crisis In Crypto: China’s Leading Blockchain Advocate Faces Investigation](https://bitcoinist.com/crisis-in-crypto-chinas-leading-blockchain-advocate/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Pantera Capital Makes Major Solana Acquisition In 2,000 SOL Auction From FTX](https://bitcoinist.com/pantera-capital-makes-major-solana-acquisition/)
+append_entries: 8
+Finish: 2024-04-27 02:38:01.073541
