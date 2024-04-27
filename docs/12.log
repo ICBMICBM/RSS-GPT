@@ -53394,3 +53394,33 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Bitcoin Runes Hype Dissipates: Why This Makes Life Difficult For Miners](https://bitcoinist.com/bitcoin-runes-hype-why-life-difficult-miners/)
 append_entries: 8
 Finish: 2024-04-27 12:29:50.969107
+------------------------------------------------------
+Started: 2024-04-27 12:49:23.031477
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Custodia To File Appeal Over Denied Access To Fed Master Account](https://bitcoinist.com/custodia-to-appeal-denied-access-fed-master-account/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Yuga Labs Announces Another Company Restructuring And Layoff In 6 Months](https://bitcoinist.com/yuga-labs-announce-restructuring-and-staff-layoff/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Pro-XRP Lawyer John Deaton Backs Coinbase In SEC Case With Amicus Brief](https://bitcoinist.com/john-deaton-backs-coinbase-in-with-amicus-brief/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [32 People Indicted In Taiwanese Crypto Exchange Fraud Case](https://bitcoinist.com/32-people-indicted-in-taiwanese-crypto-exchange-fraud-case/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Senator Warren: Crypto Is The “Payment Of Choice” For Child Sexual Abuse, Urges DOJ Action](https://bitcoinist.com/senator-warren-crypto-payment-child-sexual-abuse/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [New Data Reveals Bitcoin Mining May No Longer Be Profitable – Here’s Why](https://bitcoinist.com/new-data-reveals-bitcoin-mining-may-no-longer/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ethereum Sell Side Liquidity Thinning On CEXes: Time For $4,000?](https://bitcoinist.com/ethereum-sell-side-liquidity-thinning-on-cexes/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Runes Hype Dissipates: Why This Makes Life Difficult For Miners](https://bitcoinist.com/bitcoin-runes-hype-why-life-difficult-miners/)
+append_entries: 8
+Finish: 2024-04-27 12:49:48.856627
