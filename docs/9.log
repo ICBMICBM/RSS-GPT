@@ -34698,3 +34698,15 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Crypto Dominates And The First Unicorn From Uzbekistan Joins The Board In March 2024](https://news.crunchbase.com/venture/crypto-dominates-unicorn-count-march-2024/)
 append_entries: 2
 Finish: 2024-04-28 02:38:14.589862
+------------------------------------------------------
+Started: 2024-04-28 03:05:08.830282
+Existing_entries: 11
+Fetching from https://news.crunchbase.com/sections/crypto/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Web3 Venture Funding Bounces Back Slightly From Last Year’s Lows](https://news.crunchbase.com/web3/venture-funding-bounces-back-q1-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Dominates And The First Unicorn From Uzbekistan Joins The Board In March 2024](https://news.crunchbase.com/venture/crypto-dominates-unicorn-count-march-2024/)
+append_entries: 2
+Finish: 2024-04-28 03:05:20.839534
