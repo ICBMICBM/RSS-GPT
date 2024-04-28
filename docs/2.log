@@ -44044,3 +44044,24 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Fidelity’s spot bitcoin ETF records outflow for first time](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e96b246f6133f818a3daffb2e349c094cd33f9175b39b56284bd265d836c5945763d6f233befaf4)
 append_entries: 5
 Finish: 2024-04-28 05:29:17.920184
+------------------------------------------------------
+Started: 2024-04-28 05:59:36.761231
+Existing_entries: 115
+Fetching from https://rss.app/feeds/wUQN1BEONEifvDV7.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Arkham Intel finds wallet associated with Wisdomtree's WBIT](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e96b04af413389a8530a2ff772481505acf7d8331bf96516653da679936c581576dd0f53ab1fce234e7ecc33aac38e167188b274b075e18eff6adca3a49c1cba5abd9cd95ca17479a1dc89a64288d723e6482985b94)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin halving was 'not priced in' despite recent correction, analyst says](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e96b34af2133b819a3bacfb3460874553d5398b3ffc85433809d564817ec180136fc6e278bbfbae24e7fb9e24b129a4380a8131411c1e0ff2e1badc744dc0ddb8efdbc2988b0c5d9a53d4927376)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin options 'in line with previous halvings' and bullishly pricing calls higher than puts: analyst](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e96b34ef5133b819a3bacfb346080544bca3f8b2bfc9b4c6648d265907ec69b0e648ef627b7e3ea2ff7fbc325a420ff2301852702095d08b0f1bdd57b50dadababb97dc8b8e164780198a906b69847563219c9d5a85824bfdc17220a2983592ddd130e6ec84d3c137)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Memecoin airdrops briefly cover cost of Solana ‘Chapter 2’ mobile phone](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e96b34ffd133a899a75b7fa3f208a4012ce35883db29d4b2509da628737c39d0a7f8ef53abef4ed21afe5812fac20ec670c8a355f1c561eb0a1)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Fidelity’s spot bitcoin ETF records outflow for first time](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e96b246f6133f818a3daffb2e349c094cd33f9175b39b56284bd265d836c5945763d6f233befaf4)
+append_entries: 5
+Finish: 2024-04-28 05:59:59.825325
