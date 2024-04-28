@@ -54204,3 +54204,33 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Custodia To File Appeal Over Denied Access To Fed Master Account](https://bitcoinist.com/custodia-to-appeal-denied-access-fed-master-account/)
 append_entries: 8
 Finish: 2024-04-28 03:09:24.980154
+------------------------------------------------------
+Started: 2024-04-28 03:36:12.819579
+Existing_entries: 418
+Fetching from https://bitcoinist.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Road To Approval? The First Spot Ethereum ETF Lands On The DTCC Website](https://bitcoinist.com/road-to-approval-the-first-spot-ethereum-etf-lands-on-the-dtcc-website/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Shiba Inu Team Member Unveils Shibarium Hard Fork Date, Here’s The 411](https://bitcoinist.com/shiba-inu-shibarium-hard-fork/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [ADA Price Struggles To Break Above Trendline – Downward Trend Persists](https://bitcoinist.com/ada-price-struggles-to-break-above-trendline/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [CEO, Bitcoin Maxi Drops Bombshell Message From Satoshi Nakamoto](https://bitcoinist.com/bitcoin-maxi-drops-bombshell-message-from-nakamoto/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Analyst Says Dogecoin Could Rally 2,500%, Presents Possible Targets](https://bitcoinist.com/crypto-analyst-says-dogecoin-could-rally-2500-presents-possible-targets/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Russia’s Legislative Body Considers Diving Into Crypto – Will They Mine Or Maul It?](https://bitcoinist.com/russias-legislative-body-considers-diving-into-crypto-will-they-mine-or-maul-it/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Chimpzee Wildlife NFT Passports: An Introduction to the Most Coveted NFT Collection of 2024](https://bitcoinist.com/chimpzee-wildlife-nft-passports-an-introduction-to-the-most-coveted-nft-collection-of-2024/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Custodia To File Appeal Over Denied Access To Fed Master Account](https://bitcoinist.com/custodia-to-appeal-denied-access-fed-master-account/)
+append_entries: 8
+Finish: 2024-04-28 03:36:34.970791
