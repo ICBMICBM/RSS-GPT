@@ -48447,3 +48447,39 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Bitcoin, DXY Dips and Jumps on GDP Data](https://www.trustnodes.com/2024/04/25/dxy-dips-and-jumps-on-gdp-data)
 append_entries: 10
 Finish: 2024-04-29 19:21:41.788713
+------------------------------------------------------
+Started: 2024-04-29 19:50:56.664225
+Existing_entries: 36
+Fetching from https://www.trustnodes.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [EigenLayer Airdrops, America Banned, VPNs Blocked, March Snapshot](https://www.trustnodes.com/2024/04/29/eigenlayer-airdrops-america-banned-vpns-blocked-march-snapshot)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Morgan Stanley ETFs to Diversify into Bitcoin](https://www.trustnodes.com/2024/04/29/morgan-stanley-etfs-to-diversify-into-bitcoin)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Global TradFi Comes to Bitcoin](https://www.trustnodes.com/2024/04/29/global-tradfi-comes-to-bitcoin)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [HK ETFs Will Overtake US on First Day Says Issuer](https://www.trustnodes.com/2024/04/29/hk-etfs-will-overtake-us-on-first-day-says-issuer)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Fell Even While DXY Dropped OR Did BoJ Dip Bitcoin?](https://www.trustnodes.com/2024/04/29/bitcoin-fell-even-while-dxy-dropped)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Boom Times in America, Why is Europe Lagging?](https://www.trustnodes.com/2024/04/26/boom-times-in-america-why-is-europe-lagging)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Fed’s Core Inflation Measure Still on Track](https://www.trustnodes.com/2024/04/26/feds-core-inflation-measure-still-on-track)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Gains Even While ETFs Sell](https://www.trustnodes.com/2024/04/26/bitcoin-gains-even-while-etfs-sell)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Why is Eth’s Ratio Gaining?](https://www.trustnodes.com/2024/04/25/why-is-eths-ratio-gaining)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin, DXY Dips and Jumps on GDP Data](https://www.trustnodes.com/2024/04/25/dxy-dips-and-jumps-on-gdp-data)
+append_entries: 10
+Finish: 2024-04-29 19:51:41.907751
