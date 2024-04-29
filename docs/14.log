@@ -56170,3 +56170,99 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Why is Dogecoin price down today?](https://cointelegraph.com/news/why-is-dogecoin-doge-price-down-today)
 append_entries: 30
 Finish: 2024-04-29 12:56:49.684156
+------------------------------------------------------
+Started: 2024-04-29 13:25:10.217428
+Existing_entries: 0
+Fetching from https://cointelegraph.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Circle’s USDC overtakes Tether’s USDT in stablecoin transactions: Visa](https://cointelegraph.com/news/circle-usdc-overtakes-tether-usdt)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Omnity rolls out integration for no-fee Runes trading](https://cointelegraph.com/news/omnity-rolls-out-integration-for-no-fee-runes-trading)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Stablecoin firm Tether invests $200M in neurotech company](https://cointelegraph.com/news/tether-evo-invests-200-million-neurotech)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Runes fees surpass 1,200 BTC as miners reap rewards post-halving](https://cointelegraph.com/news/miners-reap-bitcoin-runes-fees)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Google says no &#039;straight line&#039; between generative AI and unemployment — for now](https://cointelegraph.com/news/google-no-straight-line-generative-ai-unemployment)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto on track to hit 1B users by end of 2025 — Analyst](https://cointelegraph.com/news/crypto-on-track-1-billion-users-end-2025-analyst)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Hong Kong spot crypto ETFs debut tomorrow: 6 things to know](https://cointelegraph.com/news/hong-kong-spot-crypto-etfs-debut-6-things)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Filipinos face higher fees after Binance ban](https://cointelegraph.com/news/filipinos-face-higher-fees-after-binance-ban)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [The rise of DePINs: From noise pollution sensors to robo-cafes](https://cointelegraph.com/news/onboarding-billions-users-invisible-blockchain-rise-de-pins)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Worst month since 2022 bear market? 5 things to know in Bitcoin this week](https://cointelegraph.com/news/worst-month-since-2022-bear-market-5-things-bitcoin-this-week)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Lido Finance hits 1M validators, fueling the growth of DeFi](https://cointelegraph.com/news/lido-finance-1-million-validators-fueling-defi)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Dubai does for crypto what Silicon Valley did for tech — Gov’t affairs firm CEO](https://cointelegraph.com/news/dubai-crypto-licensing-regime-professionals)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [What are blockchain rollups?](https://cointelegraph.com/explained/what-are-blockchain-rollups)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Thai regulator cracks down on deceptive crypto ads](https://cointelegraph.com/news/thai-regulator-deceptive-crypto-ads-crackdown)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [OpenAI hit with privacy complaint in Austria, potential EU law breach](https://cointelegraph.com/news/openai-privacy-complaint-austria-potential-eu-law-breach)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Mango Markets’ Eisenberg charged with possession of child porn](https://cointelegraph.com/news/mango-markets-eisenberg-charged-possession-child-porn)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin top $70K or $210K? Analysts, price models clash over BTC cycle peak](https://cointelegraph.com/news/bitcoin-top-analysts-clash-over-btc-cycle-peak)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Australia’s top exchange may approve spot Bitcoin ETFs this year: Report](https://cointelegraph.com/news/australian-stock-exchange-asx-approve-spot-bitcoin-etf)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Weekend Wrap: Bitcoin Hilton opens next year, BlackRock ETF 3 days of nil and more](https://cointelegraph.com/news/what-happened-in-crypto-on-the-weekend)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Solo Bitcoin miner wins the 3.125 BTC lottery, solving valid block](https://cointelegraph.com/news/solo-bitcoin-miner-solves-valid-block-post-halving)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [DOJ’s Tornado Cash arguments show ‘obvious disdain for privacy’ — Lawyer](https://cointelegraph.com/news/us-doj-tornado-cash-arguments-disdain-privacy-dismissal-case)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [6-month low Ethereum fees suggest altseason is inbound — Santiment](https://cointelegraph.com/news/altcoin-season-inbound-ethereum-fees-fall-six-month-lows)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin’s range-bound action puts eyes on NEAR, AR, CORE and BONK](https://cointelegraph.com/news/bitcoin-s-range-bound-action-puts-eyes-on-near-ar-core-and-bonk)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Sam Altman’s OpenAI reportedly in partnership talks with his other firm, Worldcoin](https://cointelegraph.com/news/sam-altman-open-ai-partnership-worldcoin)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Europe needs ‘Airbus for the metaverse’ to become global Web4 leader](https://cointelegraph.com/news/europe-airbus-metaverse-web4-web3)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Crypto trader sees best ‘altseason’ since 2017 as Bitcoin price cools](https://cointelegraph.com/news/crypto-trader-best-altseason-since-2017-bitcoin-price)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Io.net responds to GPU metadata attack](https://cointelegraph.com/news/io-net-responds-to-gpu-metadata-attack)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [DOJ challenges motion to dismiss Tornado Cash co-founder’s charges](https://cointelegraph.com/news/doj-challenges-motion-to-dismiss-tornado-cash-co-founder-s-charges)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Google Cloud’s Web3 portal launch sparks debate in crypto industry](https://cointelegraph.com/news/google-cloud-web3-portal-blockchain-developers-crypto-bitcoin)
+append_entries: 30
+Finish: 2024-04-29 13:26:59.189972
