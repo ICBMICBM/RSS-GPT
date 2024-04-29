@@ -45619,3 +45619,24 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Bernstein says slowing Bitcoin ETF flows are a 'short-term pause,' maintains $150,000 price target](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e96b148f7133b8d9c36b0e63f2481095dca248637b89c0f2e50dd26933fde850921d0ee3aa0e1ae34e7fa8360b52dfc390a)
 append_entries: 5
 Finish: 2024-04-29 18:39:07.407656
+------------------------------------------------------
+Started: 2024-04-29 19:14:07.571485
+Existing_entries: 115
+Fetching from https://rss.app/feeds/wUQN1BEONEifvDV7.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [TD Cowen says ConsenSys vs. SEC litigation over whether ether is a security 'will take years'](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e96b647f1133a87802ba6fc29349c094cc633c83da59a473941ce66d820d4910f7ecaf22cffe6f721f6fd9d60b128a42900953141)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Dogwifhat price briefly spikes 1,450% on Bybit shortly after listing](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e96b64ef6133d87892faaf4322c9b094fd139863dfc90502241dd678c7ec2821367c6f578e3a1b670afe78060a735eb231bcf2747074118f1eae5d8714dccc0fbaed3df8d8e1b49)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Ether posts weekly gain against bitcoin amid drop in BTC market dominance](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e96b146f2133c9c863db1bf2a229c504c8e27803dba9e5b6643da629b7ed0951b65cdf521fff7ea34e1e78723e82de4230bcf305d074341f4fde5db635a84dfb7b0d1c98dca11418317c99264668d)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto investment products see third consecutive week of outflows totaling $435 million](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e96b147f2133a9a9728b7fd772481525ad024883dbf860f3b56d46f8030c5815778cbef27b6b8e02fecfb8b2eb038e03c0acf234a0d5800e4bea7cc635fc5dda1b19798cad258438712cb9a656bc5733d2d)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bernstein says slowing Bitcoin ETF flows are a 'short-term pause,' maintains $150,000 price target](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e96b148f7133b8d9c36b0e63f2481095dca248637b89c0f2e50dd26933fde850921d0ee3aa0e1ae34e7fa8360b52dfc390a)
+append_entries: 5
+Finish: 2024-04-29 19:14:28.844171
