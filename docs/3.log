@@ -31833,3 +31833,15 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Block lets Square merchants convert a part of their daily sales to bitcoin](https://techcrunch.com/2024/04/24/block-now-lets-square-merchants-convert-a-part-of-their-daily-sales-to-bitcoin/)
 append_entries: 2
 Finish: 2024-04-29 21:17:30.781771
+------------------------------------------------------
+Started: 2024-04-29 21:41:45.571265
+Existing_entries: 21
+Fetching from https://techcrunch.com/tag/bitcoin/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [After 6-year hiatus, Stripe to start taking crypto payments, starting with USDC stablecoin](https://techcrunch.com/2024/04/25/after-6-year-hiatus-stripe-to-start-taking-crypto-payments-starting-with-usdc-stablecoin/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Block lets Square merchants convert a part of their daily sales to bitcoin](https://techcrunch.com/2024/04/24/block-now-lets-square-merchants-convert-a-part-of-their-daily-sales-to-bitcoin/)
+append_entries: 2
+Finish: 2024-04-29 21:41:56.642351
