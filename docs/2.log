@@ -46606,3 +46606,24 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [US spot bitcoin ETF outflows continue with $51.5 million more exiting](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e96b44ff0132a98812ceef033398c4b56cd7d802cb7df4d3e50dd679a24c2df1b7cd1ab67eb)
 append_entries: 5
 Finish: 2024-04-30 18:54:27.311705
+------------------------------------------------------
+Started: 2024-04-30 19:20:44.570433
+Existing_entries: 115
+Fetching from https://rss.app/feeds/wUQN1BEONEifvDV7.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Ether and bitcoin derivatives traders are losing confidence in the potential for higher prices, analyst says](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e96b448f3133c9c863db1bf3b238b095dca248637b89c0f2f41c9628332c59b0c69d0ab21a0f4e725f0fbc32cb729a42600913d410f1e0ff2fdaed0735cc7d1b3efd3c2d4931d4bc30ec8876f6b9c6f2f25d89c5d92dd0ee0ce7b2bfdc53094c79f34fba089c4d32f3bd0f4c3cd31999a)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Stablecoin legislation could prove bigger than US spot bitcoin ETFs, Bitwise CIO says](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e96b446f4132a9c8f3aaff73922864a12cf358231a29e433f4dd465d831d8951d69d1ab21baf4ed6df7fbc33eb523fd670d8b204c075a02b0f6bcdf6414cbdba2b5d3df9cca16478153ca927e71c56e213c929b5c)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin price on track for first monthly loss since August](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e96b44af0133b819a3bacfb34609f5656c035c837bfdf563945d860d835de80576acaf426a6b8ee2fecfc8621bc61e5251c91795c015d0ff8bea9cc704cdac6)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Hong Kong's six spot bitcoin, ether ETFs see $11 million in volume on first trading day](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e96b44bf1133187803feef9352388095dca248637b89c0f2e50d36e877ed4861c21d5e939a7f8e66de4e19c3eb161ed2b16)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [US spot bitcoin ETF outflows continue with $51.5 million more exiting](https://rss.app/articles/cb4e791f6f6d729c04434f0c6bdeb0890711132a513cbdaed2ed940ecad43e96b44ff0132a98812ceef033398c4b56cd7d802cb7df4d3e50dd679a24c2df1b7cd1ab67eb)
+append_entries: 5
+Finish: 2024-04-30 19:21:05.972994
