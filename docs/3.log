@@ -31917,3 +31917,15 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Block lets Square merchants convert a part of their daily sales to bitcoin](https://techcrunch.com/2024/04/24/block-now-lets-square-merchants-convert-a-part-of-their-daily-sales-to-bitcoin/)
 append_entries: 2
 Finish: 2024-04-30 02:02:24.290403
+------------------------------------------------------
+Started: 2024-04-30 02:27:50.751720
+Existing_entries: 21
+Fetching from https://techcrunch.com/tag/bitcoin/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [After 6-year hiatus, Stripe to start taking crypto payments, starting with USDC stablecoin](https://techcrunch.com/2024/04/25/after-6-year-hiatus-stripe-to-start-taking-crypto-payments-starting-with-usdc-stablecoin/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Block lets Square merchants convert a part of their daily sales to bitcoin](https://techcrunch.com/2024/04/24/block-now-lets-square-merchants-convert-a-part-of-their-daily-sales-to-bitcoin/)
+append_entries: 2
+Finish: 2024-04-30 02:27:55.111708
