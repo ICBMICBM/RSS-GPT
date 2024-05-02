@@ -52875,3 +52875,39 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [Fed’s Core Inflation Measure Still on Track](https://www.trustnodes.com/2024/04/26/feds-core-inflation-measure-still-on-track)
 append_entries: 10
 Finish: 2024-05-02 10:48:00.168223
+------------------------------------------------------
+Started: 2024-05-02 11:23:27.471463
+Existing_entries: 36
+Fetching from https://www.trustnodes.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Jumps, DXY Falls as Fed to Reduce Bond Selling](https://www.trustnodes.com/2024/05/01/bitcoin-jumps-dxy-falls-as-fed-to-reduce-bond-selling)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin ETF Selling Greens Eth’s Ratio](https://www.trustnodes.com/2024/05/01/bitcoin-etf-selling-greens-eths-ratio)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Peak FUD Dips Bitcoin](https://www.trustnodes.com/2024/05/01/peak-fud-dips-bitcoin)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [EigenLayer Airdrops, America Banned, VPNs Blocked, March Snapshot](https://www.trustnodes.com/2024/04/29/eigenlayer-airdrops-america-banned-vpns-blocked-march-snapshot)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Morgan Stanley ETFs to Diversify into Bitcoin](https://www.trustnodes.com/2024/04/29/morgan-stanley-etfs-to-diversify-into-bitcoin)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Global TradFi Comes to Bitcoin](https://www.trustnodes.com/2024/04/29/global-tradfi-comes-to-bitcoin)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [HK ETFs Will Overtake US on First Day Says Issuer](https://www.trustnodes.com/2024/04/29/hk-etfs-will-overtake-us-on-first-day-says-issuer)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Fell Even While DXY Dropped OR Did BoJ Dip Bitcoin?](https://www.trustnodes.com/2024/04/29/bitcoin-fell-even-while-dxy-dropped)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Boom Times in America, Why is Europe Lagging?](https://www.trustnodes.com/2024/04/26/boom-times-in-america-why-is-europe-lagging)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Fed’s Core Inflation Measure Still on Track](https://www.trustnodes.com/2024/04/26/feds-core-inflation-measure-still-on-track)
+append_entries: 10
+Finish: 2024-05-02 11:24:09.514290
