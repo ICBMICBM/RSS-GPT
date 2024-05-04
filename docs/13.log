@@ -55755,3 +55755,39 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Global TradFi Comes to Bitcoin](https://www.trustnodes.com/2024/04/29/global-tradfi-comes-to-bitcoin)
 append_entries: 10
 Finish: 2024-05-04 03:57:09.092462
+------------------------------------------------------
+Started: 2024-05-04 04:28:52.701760
+Existing_entries: 36
+Fetching from https://www.trustnodes.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Rises on Weak Jobs Data](https://www.trustnodes.com/2024/05/03/bitcoin-rises-on-weak-jobs-data)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [EigenLayer Revises Airdrop Criteria](https://www.trustnodes.com/2024/05/03/eigenlayer-revises-airdrop-criteria)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin Rises Despite Record Outflows](https://www.trustnodes.com/2024/05/02/bitcoin-rises-despite-record-outflows)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Sovereign Wealth Funds Are Researching Bitcoin Says BlackRock Exec](https://www.trustnodes.com/2024/05/02/sovereign-wealth-funds-are-researching-bitcoin-says-blackrock-exec)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Bitcoin Jumps, DXY Falls as Fed to Reduce Bond Selling](https://www.trustnodes.com/2024/05/01/bitcoin-jumps-dxy-falls-as-fed-to-reduce-bond-selling)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Bitcoin ETF Selling Greens Eth’s Ratio](https://www.trustnodes.com/2024/05/01/bitcoin-etf-selling-greens-eths-ratio)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Peak FUD Dips Bitcoin](https://www.trustnodes.com/2024/05/01/peak-fud-dips-bitcoin)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [EigenLayer Airdrops, America Banned, VPNs Blocked, March Snapshot](https://www.trustnodes.com/2024/04/29/eigenlayer-airdrops-america-banned-vpns-blocked-march-snapshot)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Morgan Stanley ETFs to Diversify into Bitcoin](https://www.trustnodes.com/2024/04/29/morgan-stanley-etfs-to-diversify-into-bitcoin)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Global TradFi Comes to Bitcoin](https://www.trustnodes.com/2024/04/29/global-tradfi-comes-to-bitcoin)
+append_entries: 10
+Finish: 2024-05-04 04:29:24.491322
