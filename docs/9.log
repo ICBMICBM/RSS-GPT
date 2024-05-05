@@ -39957,3 +39957,18 @@ error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
 Append: [Crypto Dominates And The First Unicorn From Uzbekistan Joins The Board In March 2024](https://news.crunchbase.com/venture/crypto-dominates-unicorn-count-march-2024/)
 append_entries: 3
 Finish: 2024-05-05 21:36:57.484632
+------------------------------------------------------
+Started: 2024-05-05 22:06:17.416855
+Existing_entries: 11
+Fetching from https://news.crunchbase.com/sections/crypto/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Stablecoin Giant Tether Invests $200M In Brain-Computer Interface Startup Blackrock Neurotech](https://news.crunchbase.com/fintech-ecommerce/tether-evo-investment-blackrock-neurotech/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Web3 Venture Funding Bounces Back Slightly From Last Year’s Lows](https://news.crunchbase.com/web3/venture-funding-bounces-back-q1-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Dominates And The First Unicorn From Uzbekistan Joins The Board In March 2024](https://news.crunchbase.com/venture/crypto-dominates-unicorn-count-march-2024/)
+append_entries: 3
+Finish: 2024-05-05 22:06:33.799804
