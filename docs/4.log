@@ -47607,3 +47607,39 @@ error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not aut
 Append: [London’s Metropolitan Police Lead Disruption of Phishing-as-a-Service Provider LabHost](https://www.chainalysis.com/blog/labhost-disruption-phishing-as-a-service/)
 append_entries: 10
 Finish: 2024-05-06 18:43:53.961939
+------------------------------------------------------
+Started: 2024-05-06 19:20:44.233192
+Existing_entries: 28
+Fetching from https://blog.chainalysis.com/feed
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Examining the Impact of Ransomware Disruptions: Qakbot, LockBit, and BlackCat](https://www.chainalysis.com/blog/ransomware-disruptions-impact/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Chainalysis Achieves In Process FedRAMP® Status, Furthering Our Commitment to US Public Sector](https://www.chainalysis.com/blog/in-process-fedramp-status/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [How Ukrainian Cyber Police are Fighting Russian Hackers – Ep. 106](https://www.chainalysis.com/blog/fighting-cybercrime-ep-106/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [OFAC and Department of State Sanction Nearly 300 Individuals and Entities Involved in Russia’s War Machine, One Known to Have Accepted Crypto](https://www.chainalysis.com/blog/ofac-sanctions-russia-war-machine-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [The Path Forward for Binance Compliance Program – Ep. 105](https://www.chainalysis.com/blog/binance-compliance-program-ep-105/)
+Summarization failed, append the original article
+error: Error code: 401 - {'statusCode': 401, 'message': 'This API key is not authorized to access this model(`gpt-4-turbo-preview`) or the model you request does not exist. Please check or update your API key permissions, or check if the model name you requested is correct.', 'data': None}
+Append: [Executive Corner: Welcoming Daniel Marshall as VP of Global Services](https://www.chainalysis.com/blog/daniel-marshall-vp-services/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Case Study: Tracking On-Chain Activities of Suspected FTC Impersonators](https://www.chainalysis.com/blog/ftc-impersonators-crypto-activity/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [The Company That’s Stopping Web3 Cyber Attacks: Podcast Ep. 104](https://www.chainalysis.com/blog/stopping-web3-cyber-attacks-ep-104/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [Crypto Staking Overview: How It Works, Benefits, Risks, and Future](https://www.chainalysis.com/blog/crypto-staking/)
+Summarization failed, append the original article
+error: Error code: 429 - {'statusCode': 429, 'message': 'Too Many Requests'}
+Append: [London’s Metropolitan Police Lead Disruption of Phishing-as-a-Service Provider LabHost](https://www.chainalysis.com/blog/labhost-disruption-phishing-as-a-service/)
+append_entries: 10
+Finish: 2024-05-06 19:21:27.120589
